@@ -107,14 +107,25 @@ function populateSourceSelect() {
     ? actualSources.filter(s => s && s.toLowerCase().includes(searchValue))
     : actualSources;
   
+  // Create grid container
+  const grid = document.createElement('div');
+  grid.className = 'source-grid';
+  
   filteredSources.forEach(source => {
     if (!source) return; // Skip empty sources
     
-    const label = document.createElement('label');
+    const id = 'chk_' + source.replace(/[^a-z0-9]/gi, '_');
     
+    // Create label element (entire row)
+    const item = document.createElement('label');
+    item.className = 'source-grid-item';
+    item.htmlFor = id;
+    
+    // Checkbox
     const checkbox = document.createElement('input');
     checkbox.type = 'checkbox';
     checkbox.value = source;
+    checkbox.id = id;
     checkbox.checked = selectedSources.has(source);
     
     checkbox.addEventListener('change', () => {
@@ -127,11 +138,19 @@ function populateSourceSelect() {
       applyFilters();
     });
     
-    const text = document.createTextNode(source);
-    label.appendChild(checkbox);
-    label.appendChild(text);
-    list.appendChild(label);
+    // Label text
+    const span = document.createElement('span');
+    span.textContent = source;
+    span.setAttribute('data-source', source);
+    
+    // Add checkbox first, then span
+    item.appendChild(checkbox);
+    item.appendChild(span);
+    
+    grid.appendChild(item);
   });
+  
+  list.appendChild(grid);
 }
 
 function updateSourceDropdownLabel() {
