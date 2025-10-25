@@ -174,11 +174,25 @@ function updateSourceDropdownLabel() {
 }
 
 // Source dropdown toggle
-document.getElementById('sourceDropdown')?.addEventListener('click', () => {
+document.getElementById('sourceDropdown')?.addEventListener('click', (e) => {
+  e.stopPropagation(); // Zatrzymaj propagację, żeby nie zamknąć panelu zaraz po otwarciu
   const panel = document.getElementById('sourcePanel');
   if (panel) {
     const isVisible = panel.style.display !== 'none';
     panel.style.display = isVisible ? 'none' : 'block';
+  }
+});
+
+// Zatrzymaj propagację kliknięć w panelu (żeby nie zamykał się przy kliknięciu w środku)
+document.getElementById('sourcePanel')?.addEventListener('click', (e) => {
+  e.stopPropagation();
+});
+
+// Zamknij panel przy kliknięciu gdziekolwiek poza nim
+document.addEventListener('click', () => {
+  const panel = document.getElementById('sourcePanel');
+  if (panel) {
+    panel.style.display = 'none';
   }
 });
 
@@ -302,7 +316,48 @@ function createCard(article) {
   card.appendChild(wrapper);
   card.appendChild(saveBtn);
   
-  // Middle mouse button support
+  // Handle middle click (open in background tab)
+  card.addEventListener('mouseup', (e) => {
+    if (e.target.closest('.save-article-btn')) return;
+    
+    if (e.button === 1) { // Middle mouse button
+      e.preventDefault();
+      e.stopPropagation();
+      markAsRead(article.link, card);
+      
+      // Create invisible link and simulate Ctrl+Click for background tab
+      const tempLink = document.createElement('a');
+      tempLink.href = article.link;
+      tempLink.target = '_blank';
+      tempLink.rel = 'noopener noreferrer';
+      tempLink.style.position = 'absolute';
+      tempLink.style.left = '-9999px';
+      document.body.appendChild(tempLink);
+      
+      // Simulate Ctrl+Click which opens in background tab
+      const clickEvent = new MouseEvent('click', {
+        bubbles: true,
+        cancelable: true,
+        view: window,
+        ctrlKey: true,
+        metaKey: true // For Mac
+      });
+      tempLink.dispatchEvent(clickEvent);
+      
+      setTimeout(() => document.body.removeChild(tempLink), 100);
+      return false;
+    }
+  });
+  
+  // Make entire card clickable (except save button and links)
+  card.addEventListener('click', (e) => {
+    if (e.target.closest('a') || e.target.closest('.save-article-btn')) return;
+    if (e.button !== 0) return; // Only left click
+    markAsRead(article.link, card);
+    window.open(article.link, '_blank');
+  });
+  
+  // Middle mouse button support (prevent text selection)
   card.addEventListener('mousedown', (e) => {
     if (e.button === 1 && !e.target.closest('.save-article-btn')) {
       e.preventDefault();
