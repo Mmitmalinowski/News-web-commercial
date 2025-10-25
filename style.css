@@ -164,20 +164,23 @@ input[type="search"]:focus {
   position: absolute;
   top: 100%;
   left: 0;
-  right: 0;
   margin-top: 4px;
   background: var(--card);
   border: 1px solid var(--border);
   border-radius: 8px;
   box-shadow: 0 4px 12px var(--shadow);
   z-index: 10;
+  width: 100%;
+  min-width: 220px;
   max-height: 400px;
-  overflow-y: auto;
+  overflow: visible;
+  box-sizing: border-box;
 }
 
 #sourcePanelList {
   display: block;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
   padding: 0;
   max-height: 320px;
 }
