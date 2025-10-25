@@ -107,16 +107,6 @@ const CATEGORY_KEYWORDS = {
     "nauka", "naukowy", "research", "profesor", "doktor", "studia", "edukacja",
     "fizyka", "chemia", "biologia", "matematyka", "astronomia", "kosmiczny", "nasa",
     "spacex", "mars", "księżyc", "satelita", "teleskop"
-  ],
-  "Wypadki": [
-    "wypadek", "kolizja", "zderzenie", "wykolejenie", "pożar", "straż", "ratownik",
-    "ambulans", "śmiertelny", "ranny", "obrażenia", "karetka", "tragedia", "katastrofa",
-    "ewakuacja", "poszkodowany", "ofiary", "krytyczny stan"
-  ],
-  "Prawo": [
-    "sąd", "wyrok", "prokurator", "prokuratura", "śledztwo", "aresztowanie", "zatrzymanie",
-    "oskarżony", "pozew", "apelacja", "sprawiedliwość", "adwokat", "mecenas", "prawo",
-    "kodeks", "przestępstwo", "kradzież", "napad", "morderstwo", "skazany"
   ]
 };
 
