@@ -7,7 +7,7 @@ const iconv = require('iconv-lite');
 // ===== FEEDS CONFIGURATION =====
 const FEEDS = {
   "TVN24": "https://tvn24.pl/najnowsze.xml",
-  "Onet": "https://wiadomosci.onet.pl/rss/wiadomosci",
+  "Onet": "https://wiadomosci.onet.pl/rss",
   "Interia": "https://fakty.interia.pl/feed",
   "Gazeta.pl": "https://rss.gazeta.pl/pub/rss/gazetapl_top.xml",
   "Wyborcza": "https://wyborcza.pl/0,0.xml?as=2&startsz=0",
