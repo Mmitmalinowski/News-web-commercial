@@ -223,6 +223,22 @@ function createCard(article) {
     toggleSaveArticle(article, saveBtn);
   };
   
+  // Favicon from source URL
+  const favicon = document.createElement('img');
+  favicon.className = 'source-favicon';
+  // Extract domain from article link for favicon
+  const domain = new URL(article.link).hostname;
+  favicon.src = `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+  favicon.alt = article.source;
+  favicon.onerror = () => {
+    // Fallback to generic icon if favicon fails to load
+    favicon.style.display = 'none';
+  };
+  
+  // Content wrapper
+  const wrapper = document.createElement('div');
+  wrapper.className = 'card-inner';
+  
   // Content
   const content = document.createElement('div');
   content.className = 'card-content';
@@ -248,7 +264,10 @@ function createCard(article) {
   content.appendChild(meta);
   content.appendChild(readMore);
   
-  card.appendChild(content);
+  wrapper.appendChild(favicon);
+  wrapper.appendChild(content);
+  
+  card.appendChild(wrapper);
   card.appendChild(saveBtn);
   
   // Middle mouse button support

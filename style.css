@@ -239,7 +239,7 @@ input[type="search"]:focus {
   gap: 16px;
 }
 
-/* ===== CARD (NO IMAGES - COMPACT DESIGN) ===== */
+/* ===== CARD (WITH FAVICON) ===== */
 .card {
   background: var(--card);
   border: 1px solid var(--border);
@@ -248,9 +248,6 @@ input[type="search"]:focus {
   position: relative;
   transition: all 0.2s ease;
   cursor: pointer;
-  display: flex;
-  flex-direction: column;
-  gap: 12px;
   min-height: 120px;
 }
 
@@ -263,11 +260,27 @@ input[type="search"]:focus {
   opacity: 0.6;
 }
 
+.card-inner {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.source-favicon {
+  width: 48px;
+  height: 48px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+  flex-shrink: 0;
+  object-fit: cover;
+}
+
 .card-content {
   display: flex;
   flex-direction: column;
   gap: 8px;
   flex: 1;
+  min-width: 0;
 }
 
 .card-title {
