@@ -32,18 +32,19 @@
           </div>
           
           <div id="categoryFilterContainer" style="width:100%;margin-top:12px">
-            <label style="font-size:12px;color:var(--text-secondary);margin-bottom:4px;display:block">Kategoria:</label>
-            <select id="categoryFilter" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border);background:var(--input-bg);color:var(--text-primary);font-size:14px">
-              <option value="all">Kategorie</option>
-              <option value="Polityka">Polityka</option>
-              <option value="Finanse">Finanse</option>
-              <option value="Technologia">Technologia</option>
-              <option value="Sport">Sport</option>
-              <option value="Kultura">Kultura</option>
-              <option value="Zdrowie">Zdrowie</option>
-              <option value="Nauka">Nauka</option>
-              <option value="Inne">Inne</option>
-            </select>
+            <div class="source-dropdown">
+              <div id="categoryDropdown" class="source-dropdown-label" role="button" tabindex="0">
+                <span id="categoryDropdownLabel">Kategorie</span>
+                <span style="margin-left:8px">▾</span>
+              </div>
+              <div id="categoryPanel" class="source-panel" style="display:none">
+                <div id="categoryPanelList"></div>
+                <div class="source-panel-controls">
+                  <button id="selectAllCategoriesBtn" type="button">Zaznacz wszystkie</button>
+                  <button id="clearAllCategoriesBtn" type="button">Wyczyść</button>
+                </div>
+              </div>
+            </div>
           </div>
           
           <div id="sourceSelectContainer" style="width:100%;margin-top:12px">

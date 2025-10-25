@@ -135,13 +135,15 @@ function categorizeArticle(article) {
 let allArticles = [];
 let displayedArticles = [];
 let selectedSources = new Set(); // Will be populated after loading articles
-let selectedCategory = 'all';
+let selectedCategories = new Set(); // Will be populated with all categories initially
 let searchTerm = '';
 let savedArticles = JSON.parse(localStorage.getItem('savedArticles')) || [];
 let readArticles = JSON.parse(localStorage.getItem('readArticles')) || {};
 let showingSaved = false;
 let currentPage = 0;
 const PAGE_SIZE = 30;
+
+const ALL_CATEGORIES = ['Polityka', 'Finanse', 'Technologia', 'Sport', 'Kultura', 'Zdrowie', 'Nauka', 'Inne'];
 
 // ===== THEME =====
 const savedTheme = localStorage.getItem('theme') || 'light';
@@ -279,10 +281,10 @@ document.getElementById('sourcePanel')?.addEventListener('click', (e) => {
 
 // Zamknij panel przy kliknięciu gdziekolwiek poza nim
 document.addEventListener('click', () => {
-  const panel = document.getElementById('sourcePanel');
-  if (panel) {
-    panel.style.display = 'none';
-  }
+  const sourcePanel = document.getElementById('sourcePanel');
+  const categoryPanel = document.getElementById('categoryPanel');
+  if (sourcePanel) sourcePanel.style.display = 'none';
+  if (categoryPanel) categoryPanel.style.display = 'none';
 });
 
 // Source search
@@ -306,8 +308,88 @@ document.getElementById('clearAllBtn')?.addEventListener('click', () => {
 });
 
 // ===== CATEGORY FILTER =====
-document.getElementById('categoryFilter')?.addEventListener('change', (e) => {
-  selectedCategory = e.target.value;
+// Category dropdown toggle
+document.getElementById('categoryDropdown')?.addEventListener('click', (e) => {
+  e.stopPropagation();
+  const panel = document.getElementById('categoryPanel');
+  if (panel) {
+    const isVisible = panel.style.display === 'block';
+    panel.style.display = isVisible ? 'none' : 'block';
+    if (!isVisible) {
+      populateCategorySelect();
+    }
+  }
+});
+
+function populateCategorySelect() {
+  const list = document.getElementById('categoryPanelList');
+  if (!list) return;
+  
+  list.innerHTML = '';
+  
+  const grid = document.createElement('div');
+  grid.className = 'source-grid';
+  
+  ALL_CATEGORIES.forEach(category => {
+    const id = 'chk_cat_' + category.replace(/[^a-z0-9]/gi, '_');
+    
+    const item = document.createElement('label');
+    item.className = 'source-grid-item';
+    item.htmlFor = id;
+    
+    const checkbox = document.createElement('input');
+    checkbox.type = 'checkbox';
+    checkbox.value = category;
+    checkbox.id = id;
+    checkbox.checked = selectedCategories.has(category);
+    
+    checkbox.addEventListener('change', () => {
+      if (checkbox.checked) {
+        selectedCategories.add(category);
+      } else {
+        selectedCategories.delete(category);
+      }
+      updateCategoryDropdownLabel();
+      applyFilters();
+    });
+    
+    const span = document.createElement('span');
+    span.textContent = category;
+    
+    item.appendChild(checkbox);
+    item.appendChild(span);
+    
+    grid.appendChild(item);
+  });
+  
+  list.appendChild(grid);
+}
+
+function updateCategoryDropdownLabel() {
+  const label = document.getElementById('categoryDropdownLabel');
+  if (!label) return;
+  
+  if (selectedCategories.size === 0) {
+    label.textContent = 'Kategorie (0)';
+  } else if (selectedCategories.size === ALL_CATEGORIES.length) {
+    label.textContent = 'Kategorie';
+  } else {
+    label.textContent = `Kategorie (${selectedCategories.size})`;
+  }
+}
+
+// Select/Clear all categories
+document.getElementById('selectAllCategoriesBtn')?.addEventListener('click', () => {
+  selectedCategories = new Set(ALL_CATEGORIES);
+  populateCategorySelect();
+  updateCategoryDropdownLabel();
+  applyFilters();
+});
+
+document.getElementById('clearAllCategoriesBtn')?.addEventListener('click', () => {
+  selectedCategories.clear();
+  populateCategorySelect();
+  updateCategoryDropdownLabel();
   applyFilters();
 });
 
@@ -324,8 +406,8 @@ function applyFilters() {
   let filtered = showingSaved ? savedArticles : allArticles;
   
   // Filter by category (based on keywords in title)
-  if (selectedCategory !== 'all') {
-    filtered = filtered.filter(a => categorizeArticle(a) === selectedCategory);
+  if (selectedCategories.size > 0 && selectedCategories.size < ALL_CATEGORIES.length) {
+    filtered = filtered.filter(a => selectedCategories.has(categorizeArticle(a)));
   }
   
   // Filter by source
@@ -627,9 +709,13 @@ async function loadArticles() {
     const actualSources = [...new Set(allArticles.map(a => a.source))].filter(Boolean);
     selectedSources = new Set(actualSources);
     
-    // Update source dropdown with actual sources
+    // Initialize selectedCategories with all categories
+    selectedCategories = new Set(ALL_CATEGORIES);
+    
+    // Update dropdowns
     populateSourceSelect();
     updateSourceDropdownLabel();
+    updateCategoryDropdownLabel();
     
     // Update refresh time
     const refreshTime = document.getElementById('lastRefreshTime');
