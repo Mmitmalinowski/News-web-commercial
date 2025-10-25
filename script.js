@@ -58,17 +58,88 @@ const FEEDS = {
   "Euronews": "https://www.euronews.com/rss"
 };
 
-// Kategorie źródeł
-const SOURCE_CATEGORIES = {
-  "Polityka": ["TVN24", "Onet", "Polsat News", "RMF24", "Rzeczpospolita", "OKO.press", "Krytyka Polityczna"],
-  "Finanse": ["Money.pl", "Biznes.interia.pl", "Bankier.pl", "Business Insider", "MamStartup", "Stooq"],
-  "Technologia": ["Spider's Web", "Antyweb", "Tabletowo", "Android.com.pl", "GeekWeek", "Niebezpiecznik", "Zaufana Trzecia Strona", "Chip.pl", "Computerworld", "Sekurak", "Tech WP.pl", "Cyberdefence24", "Benchmark.pl", "Komputerswiat.pl"],
-  "Sport": ["Eurosport"],
-  "Media": ["Wirtualnemedia.pl", "Press.pl", "Media2.pl"],
-  "Kultura": ["Interia Kultura"],
-  "Międzynarodowe": ["BBC News", "The Guardian", "Reuters", "DW", "Euronews"],
-  "Inne": ["Interia", "Gazeta.pl", "Wyborcza", "Wp.pl"]
+// Kategorie źródeł - słowa kluczowe do automatycznej kategoryzacji
+const CATEGORY_KEYWORDS = {
+  "Polityka": [
+    "sejm", "senat", "rząd", "minister", "premier", "prezydent", "poseł", "senator",
+    "partia", "polityk", "wybory", "ustawa", "parlament", "głosowanie", "koalicja",
+    "opozycja", "reforma", "konstytucja", "kandydat", "kampania", "dymisja", "polityczny",
+    "pis", "po", "lewica", "konfederacja", "td", "psl", "sojusz", "tusk", "kaczyński"
+  ],
+  "Finanse": [
+    "giełda", "akcje", "inwestycja", "waluta", "złoty", "dolar", "euro", "kryptowaluta",
+    "bitcoin", "nbp", "inflacja", "stopa", "kredyt", "obligacje", "finanse", "ekonomia",
+    "bank", "bankier", "startup", "biznes", "spółka", "zysk", "strata", "wycena",
+    "fundusz", "pieniądze", "koszty", "budżet", "podatek", "vat", "pit", "inwestor",
+    "firma", "przedsiębiorstwo", "gospodarka", "wzrost", "pkb", "recesja"
+  ],
+  "Technologia": [
+    "smartfon", "komputer", "laptop", "procesor", "gpu", "intel", "amd", "nvidia",
+    "apple", "iphone", "android", "samsung", "aplikacja", "oprogramowanie", "windows",
+    "linux", "ai", "sztuczna inteligencja", "chatgpt", "robot", "dron", "elektryk",
+    "tesla", "facebook", "google", "microsoft", "amazon", "twitter", "meta", "chip",
+    "cyberbezpieczeństwo", "atak", "haker", "wirus", "malware", "ransomware", "phishing",
+    "internet", "5g", "wifi", "bluetooth", "iot", "chmura", "cloud", "gaming", "gra",
+    "konsola", "playstation", "xbox", "nvidia", "streaming", "youtube", "netflix"
+  ],
+  "Sport": [
+    "mecz", "liga", "piłka", "football", "euro", "mundial", "mistrzostwo", "trening",
+    "zawodnik", "sportowiec", "olimpiada", "medal", "złoto", "srebrny", "brązowy",
+    "legia", "lech", "wisła", "górnik", "ekstraklasa", "reprezentacja", "kadra",
+    "lewandowski", "siatkówka", "koszykówka", "tenis", "formuła", "f1", "rally",
+    "boks", "mma", "ufc", "athlon", "maraton", "bieganie", "kolarstwo", "tour de france",
+    "narciarstwo", "skoki", "mundial", "puchar", "champions league", "liga mistrzów"
+  ],
+  "Kultura": [
+    "film", "kino", "oscar", "serial", "netflix", "aktor", "aktorka", "reżyser",
+    "muzyka", "koncert", "festiwal", "album", "piosenka", "artysta", "muzyk",
+    "książka", "literatura", "autor", "powieść", "poeta", "teatr", "spektakl",
+    "wystawa", "galeria", "muzeum", "sztuka", "malarz", "rzeźba", "fotografia",
+    "kultura", "kulturalny", "rozrywka", "nagroda", "nobel", "nike"
+  ],
+  "Zdrowie": [
+    "covid", "koronawirus", "pandemia", "szczepionka", "wirus", "choroba", "lekarz",
+    "szpital", "zdrowie", "pacjent", "nfz", "medycyna", "lek", "terapia", "badanie",
+    "diagnoza", "operacja", "chirurg", "epidemia", "zakażenie", "kwarantanna"
+  ],
+  "Nauka": [
+    "badanie", "naukowiec", "uniwersytet", "odkrycie", "eksperyment", "badacz",
+    "nauka", "naukowy", "research", "profesor", "doktor", "studia", "edukacja",
+    "fizyka", "chemia", "biologia", "matematyka", "astronomia", "kosmiczny", "nasa",
+    "spacex", "mars", "księżyc", "satelita", "teleskop"
+  ],
+  "Wypadki": [
+    "wypadek", "kolizja", "zderzenie", "wykolejenie", "pożar", "straż", "ratownik",
+    "ambulans", "śmiertelny", "ranny", "obrażenia", "karetka", "tragedia", "katastrofa",
+    "ewakuacja", "poszkodowany", "ofiary", "krytyczny stan"
+  ],
+  "Prawo": [
+    "sąd", "wyrok", "prokurator", "prokuratura", "śledztwo", "aresztowanie", "zatrzymanie",
+    "oskarżony", "pozew", "apelacja", "sprawiedliwość", "adwokat", "mecenas", "prawo",
+    "kodeks", "przestępstwo", "kradzież", "napad", "morderstwo", "skazany"
+  ]
 };
+
+// Funkcja kategoryzacji artykułu na podstawie słów kluczowych
+function categorizeArticle(article) {
+  const title = article.title.toLowerCase();
+  const categories = [];
+  
+  for (const [category, keywords] of Object.entries(CATEGORY_KEYWORDS)) {
+    const matches = keywords.filter(keyword => title.includes(keyword.toLowerCase()));
+    if (matches.length > 0) {
+      categories.push({ category, score: matches.length });
+    }
+  }
+  
+  // Sortuj według liczby dopasowań i zwróć najlepszą kategorię
+  if (categories.length > 0) {
+    categories.sort((a, b) => b.score - a.score);
+    return categories[0].category;
+  }
+  
+  return "Inne";
+}
 
 // ===== STATE =====
 let allArticles = [];
@@ -247,20 +318,6 @@ document.getElementById('clearAllBtn')?.addEventListener('click', () => {
 // ===== CATEGORY FILTER =====
 document.getElementById('categoryFilter')?.addEventListener('change', (e) => {
   selectedCategory = e.target.value;
-  
-  // Update selected sources based on category
-  if (selectedCategory === 'all') {
-    // Select all sources from loaded articles
-    selectedSources = new Set(allArticles.map(a => a.source));
-  } else {
-    // Select only sources from the chosen category
-    const categorySources = SOURCE_CATEGORIES[selectedCategory] || [];
-    const availableSources = new Set(allArticles.map(a => a.source));
-    selectedSources = new Set(categorySources.filter(s => availableSources.has(s)));
-  }
-  
-  populateSourceSelect();
-  updateSourceDropdownLabel();
   applyFilters();
 });
 
@@ -276,8 +333,13 @@ function applyFilters() {
   
   let filtered = showingSaved ? savedArticles : allArticles;
   
+  // Filter by category (based on keywords in title)
+  if (selectedCategory !== 'all') {
+    filtered = filtered.filter(a => categorizeArticle(a) === selectedCategory);
+  }
+  
   // Filter by source
-  if (selectedSources.size < Object.keys(FEEDS).length) {
+  if (selectedSources.size > 0 && selectedSources.size < new Set(allArticles.map(a => a.source)).size) {
     filtered = filtered.filter(a => selectedSources.has(a.source));
   }
   
