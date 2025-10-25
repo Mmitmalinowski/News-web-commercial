@@ -77,8 +77,9 @@ document.getElementById('themeToggle')?.addEventListener('click', () => {
 // ===== UTILITY FUNCTIONS =====
 function decodeHtmlEntities(str) {
   if (!str) return '';
+  // Security: Use textContent instead of innerHTML to prevent XSS
   const txt = document.createElement('textarea');
-  txt.innerHTML = str;
+  txt.textContent = str;
   return txt.value;
 }
 
