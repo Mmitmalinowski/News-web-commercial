@@ -31,6 +31,8 @@ const FEEDS = {
   "Chip.pl": "https://www.chip.pl/feed",
   "Computerworld": "https://www.computerworld.pl/rss",
   "Sekurak": "https://sekurak.pl/feed/",
+  "Tech WP.pl": "https://tech.wp.pl/rss.xml",
+  "Cyberdefence24": "https://www.cyberdefence24.pl/feed",
   
   // Biznes i Finanse
   "Business Insider": "https://businessinsider.com.pl/.feed",
@@ -38,7 +40,7 @@ const FEEDS = {
   "Biznes.interia.pl": "https://biznes.interia.pl/feed",
   "Stooq": "https://stooq.pl/feed/news/pl/",
   "Bankier.pl": "https://www.bankier.pl/rss/wiadomosci.xml",
-  "Forbes Polska": "https://www.forbes.pl/rss",
+  "MamStartup": "https://mamstartup.pl/feed",
   
   // Media i Marketing
   "Wirtualnemedia.pl": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
