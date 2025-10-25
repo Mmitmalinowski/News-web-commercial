@@ -1,7 +1,8 @@
 // ===== FEEDS CONFIGURATION =====
 const FEEDS = {
+  // Wiadomości główne
   "TVN24": "https://tvn24.pl/najnowsze.xml",
-  "Onet": "https://wiadomosci.onet.pl/rss/wiadomosci",
+  "Onet": "https://wiadomosci.onet.pl/rss",
   "Interia": "https://fakty.interia.pl/feed",
   "Gazeta.pl": "https://rss.gazeta.pl/pub/rss/gazetapl_top.xml",
   "Wyborcza": "https://wyborcza.pl/0,0.xml?as=2&startsz=0",
@@ -9,8 +10,9 @@ const FEEDS = {
   "Wp.pl": "https://wiadomosci.wp.pl/ver,rss,rss.xml",
   "RMF24": "https://www.rmf24.pl/fakty/feed",
   "Press.pl": "https://www.press.pl/rss/press.xml",
-  "Rzeczpospolita": "https://www.rp.pl/rss/1019-kraj",
+  "Rzeczpospolita": "https://www.rp.pl/rss_main",
   
+  // Technologia
   "Spider's Web": "https://www.spidersweb.pl/feed",
   "Benchmark.pl": "https://www.benchmark.pl/rss/ciezki_sprzet.xml",
   "Antyweb": "https://antyweb.pl/feed",
@@ -20,22 +22,33 @@ const FEEDS = {
   "GeekWeek": "https://geekweek.pl/feed/",
   "Niebezpiecznik": "https://niebezpiecznik.pl/feed/",
   "Zaufana Trzecia Strona": "https://zaufanatrzeciastrona.pl/feed/",
+  "Chip.pl": "https://www.chip.pl/feed",
+  "Computerworld": "https://www.computerworld.pl/rss",
+  "Sekurak": "https://sekurak.pl/feed/",
   
+  // Biznes i Finanse
   "Business Insider": "https://businessinsider.com.pl/.feed",
-  "Money.pl": "https://rss.money.pl/pl/wiadomosci/finanse/",
+  "Money.pl": "https://www.money.pl/rss/rss.xml",
   "Biznes.interia.pl": "https://biznes.interia.pl/feed",
   "Stooq": "https://stooq.pl/feed/news/pl/",
+  "Bankier.pl": "https://www.bankier.pl/rss/wiadomosci.xml",
+  "Forbes Polska": "https://www.forbes.pl/rss",
   
+  // Media i Marketing
   "Wirtualnemedia.pl": "https://www.wirtualnemedia.pl/rss/wirtualnemedia_rss.xml",
   "Media2.pl": "https://www.media2.pl/feed.xml",
   
+  // Polityka i Społeczeństwo
   "OKO.press": "https://oko.press/feed/",
   "Krytyka Polityczna": "https://krytykapolityczna.pl/feed/",
   
+  // Kultura
   "Interia Kultura": "https://kultura.interia.pl/feed",
   
+  // Sport
   "Eurosport": "https://www.eurosport.pl/rss.xml",
   
+  // Międzynarodowe
   "BBC News": "http://feeds.bbci.co.uk/news/world/rss.xml",
   "The Guardian": "https://www.theguardian.com/world/rss",
   "Reuters": "https://www.reutersagency.com/feed/",
