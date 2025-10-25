@@ -574,7 +574,16 @@ function createCard(article) {
 
 // Toggle article menu (three dots)
 function toggleArticleMenu(article, button, card) {
-  // Close any existing menus
+  // Check if menu already exists for this card
+  const existingMenu = card.querySelector('.article-menu');
+  
+  if (existingMenu) {
+    // If menu is already open, close it
+    existingMenu.remove();
+    return;
+  }
+  
+  // Close any other open menus
   document.querySelectorAll('.article-menu').forEach(m => m.remove());
   
   const menu = document.createElement('div');
