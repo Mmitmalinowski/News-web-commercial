@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>NewsHub Pro — Agregator wiadomości</title>
+  <meta name="description" content="Legalny agregator linków do najnowszych wiadomości z Polski i świata" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="site-header-inner">
+      <div></div>
+      <div>
+        <h1>NewsHub Pro</h1>
+        <p>Agregator wiadomości — tylko linki</p>
+      </div>
+      <div style="display:flex;justify-content:flex-end;align-items:center">
+        <button id="themeToggle" aria-label="Przełącz motyw">
+          <span id="themeIcon">🌙</span>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="layout">
+      <aside class="sidebar">
+        <section class="controls">
+          <div style="width:100%">
+            <input id="searchInput" type="search" placeholder="Szukaj..." />
+          </div>
+          
+          <div id="sourceSelectContainer" style="width:100%;margin-top:12px">
+            <div class="source-dropdown">
+              <div id="sourceDropdown" class="source-dropdown-label" role="button" tabindex="0">
+                <span id="sourceDropdownLabel">Wszystkie źródła</span>
+                <span style="margin-left:8px">▾</span>
+              </div>
+              <div id="sourcePanel" class="source-panel" style="display:none">
+                <div style="border-bottom:1px solid var(--border);padding:8px">
+                  <input id="sourceSearchInput" type="search" placeholder="Szukaj źródła..." />
+                </div>
+                <div id="sourcePanelList"></div>
+                <div class="source-panel-controls">
+                  <button id="selectAllBtn" type="button">Zaznacz wszystkie</button>
+                  <button id="clearAllBtn" type="button">Wyczyść</button>
+                </div>
+              </div>
+            </div>
+          </div>
+          
+          <button id="showSavedBtn" type="button" class="saved-btn">
+            <span>📌</span>
+            <span>Zapisane (<span id="savedCount">0</span>)</span>
+          </button>
+          
+          <div id="refreshStatus" style="display:none">
+            <div style="font-size:11px;color:var(--text-secondary);margin-top:12px">
+              <div>Ostatnie odświeżenie:</div>
+              <div id="lastRefreshTime" style="font-weight:500;color:var(--text-primary)">nigdy</div>
+              <div style="margin-top:6px;font-style:italic">Auto-update co 5 min</div>
+            </div>
+          </div>
+        </section>
+      </aside>
+
+      <div class="main-content">
+        <section id="articlesContainer" class="news-grid" aria-live="polite"></section>
+        <div id="infiniteSentinel" style="height:1px"></div>
+        <div id="spinner" style="display:none;text-align:center;padding:20px">
+          <div class="spinner-icon"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <small>
+      NewsHub Pro • Wyświetla tylko linki do artykułów (zgodnie z prawem) • 
+      Nie kopiuje treści ani zdjęć
+    </small>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
