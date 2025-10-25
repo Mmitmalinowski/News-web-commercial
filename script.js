@@ -46,7 +46,7 @@ const FEEDS = {
 // ===== STATE =====
 let allArticles = [];
 let displayedArticles = [];
-let selectedSources = new Set(Object.keys(FEEDS));
+let selectedSources = new Set(); // Will be populated after loading articles
 let searchTerm = '';
 let savedArticles = JSON.parse(localStorage.getItem('savedArticles')) || [];
 let readArticles = JSON.parse(localStorage.getItem('readArticles')) || {};
@@ -100,12 +100,16 @@ function populateSourceSelect() {
   
   list.innerHTML = '';
   
-  const sortedSources = Object.keys(FEEDS).sort();
+  // Get actual sources from loaded articles (not from FEEDS config)
+  const actualSources = [...new Set(allArticles.map(a => a.source))].sort();
+  
   const filteredSources = searchValue 
-    ? sortedSources.filter(s => s.toLowerCase().includes(searchValue))
-    : sortedSources;
+    ? actualSources.filter(s => s && s.toLowerCase().includes(searchValue))
+    : actualSources;
   
   filteredSources.forEach(source => {
+    if (!source) return; // Skip empty sources
+    
     const label = document.createElement('label');
     label.style.cssText = 'display:flex;align-items:center;padding:8px;cursor:pointer;user-select:none';
     
@@ -136,7 +140,9 @@ function updateSourceDropdownLabel() {
   const label = document.getElementById('sourceDropdownLabel');
   if (!label) return;
   
-  const total = Object.keys(FEEDS).length;
+  // Count actual sources from articles
+  const actualSources = [...new Set(allArticles.map(a => a.source))].filter(Boolean);
+  const total = actualSources.length;
   const selected = selectedSources.size;
   
   if (selected === 0) {
@@ -164,7 +170,9 @@ document.getElementById('sourceSearchInput')?.addEventListener('input', populate
 
 // Select/Clear all
 document.getElementById('selectAllBtn')?.addEventListener('click', () => {
-  selectedSources = new Set(Object.keys(FEEDS));
+  // Select all actual sources from loaded articles
+  const actualSources = [...new Set(allArticles.map(a => a.source))].filter(Boolean);
+  selectedSources = new Set(actualSources);
   populateSourceSelect();
   updateSourceDropdownLabel();
   applyFilters();
@@ -402,6 +410,14 @@ async function loadArticles() {
     
     allArticles = data.items || [];
     
+    // Initialize selectedSources with actual sources from articles
+    const actualSources = [...new Set(allArticles.map(a => a.source))].filter(Boolean);
+    selectedSources = new Set(actualSources);
+    
+    // Update source dropdown with actual sources
+    populateSourceSelect();
+    updateSourceDropdownLabel();
+    
     // Update refresh time
     const refreshTime = document.getElementById('lastRefreshTime');
     const refreshStatus = document.getElementById('refreshStatus');
@@ -437,7 +453,5 @@ if (sentinel) {
 }
 
 // ===== INITIALIZATION =====
-populateSourceSelect();
-updateSourceDropdownLabel();
 updateSavedCount();
-loadArticles();
+loadArticles(); // This will populate sources after loading articles
