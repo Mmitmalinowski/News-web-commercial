@@ -234,14 +234,21 @@ function createCard(article) {
   // Favicon from source URL
   const favicon = document.createElement('img');
   favicon.className = 'source-favicon';
-  // Extract domain from article link for favicon
-  const domain = new URL(article.link).hostname;
-  favicon.src = `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
-  favicon.alt = article.source;
-  favicon.onerror = () => {
-    // Fallback to generic icon if favicon fails to load
+  
+  // Extract domain from article link for favicon (with error handling)
+  try {
+    const domain = new URL(article.link).hostname;
+    favicon.src = `https://www.google.com/s2/favicons?domain=${domain}&sz=64`;
+    favicon.alt = article.source;
+    favicon.onerror = () => {
+      // Fallback to generic icon if favicon fails to load
+      favicon.style.display = 'none';
+    };
+  } catch (error) {
+    // If URL is invalid, hide favicon
+    console.warn('Invalid URL for favicon:', article.link);
     favicon.style.display = 'none';
-  };
+  }
   
   // Content wrapper
   const wrapper = document.createElement('div');
