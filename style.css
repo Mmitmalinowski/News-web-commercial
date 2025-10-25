@@ -252,13 +252,18 @@ label.source-grid-item > span,
 .source-panel-controls {
   display: flex;
   gap: 8px;
-  padding: 8px;
+  justify-content: space-between;
+  padding: 10px 12px;
+  background: var(--card);
   border-top: 1px solid var(--border);
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  box-sizing: border-box;
 }
 
 .source-panel-controls button {
   flex: 1;
-  padding: 6px 10px;
+  padding: 8px 12px;
   border: 1px solid var(--border);
   border-radius: 6px;
   background: var(--input-bg);
