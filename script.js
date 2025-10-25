@@ -111,13 +111,11 @@ function populateSourceSelect() {
     if (!source) return; // Skip empty sources
     
     const label = document.createElement('label');
-    label.style.cssText = 'display:flex;align-items:center;padding:8px;cursor:pointer;user-select:none';
     
     const checkbox = document.createElement('input');
     checkbox.type = 'checkbox';
     checkbox.value = source;
     checkbox.checked = selectedSources.has(source);
-    checkbox.style.marginRight = '8px';
     
     checkbox.addEventListener('change', () => {
       if (checkbox.checked) {
