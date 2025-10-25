@@ -31,6 +31,21 @@
             <input id="searchInput" type="search" placeholder="Szukaj..." />
           </div>
           
+          <div id="categoryFilterContainer" style="width:100%;margin-top:12px">
+            <label style="font-size:12px;color:var(--text-secondary);margin-bottom:4px;display:block">Kategoria:</label>
+            <select id="categoryFilter" style="width:100%;padding:8px;border-radius:6px;border:1px solid var(--border);background:var(--input-bg);color:var(--text-primary);font-size:14px">
+              <option value="all">Wszystkie kategorie</option>
+              <option value="Polityka">Polityka</option>
+              <option value="Finanse">Finanse</option>
+              <option value="Technologia">Technologia</option>
+              <option value="Sport">Sport</option>
+              <option value="Media">Media</option>
+              <option value="Kultura">Kultura</option>
+              <option value="Międzynarodowe">Międzynarodowe</option>
+              <option value="Inne">Inne</option>
+            </select>
+          </div>
+          
           <div id="sourceSelectContainer" style="width:100%;margin-top:12px">
             <div class="source-dropdown">
               <div id="sourceDropdown" class="source-dropdown-label" role="button" tabindex="0">

@@ -58,10 +58,23 @@ const FEEDS = {
   "Euronews": "https://www.euronews.com/rss"
 };
 
+// Kategorie źródeł
+const SOURCE_CATEGORIES = {
+  "Polityka": ["TVN24", "Onet", "Polsat News", "RMF24", "Rzeczpospolita", "OKO.press", "Krytyka Polityczna"],
+  "Finanse": ["Money.pl", "Biznes.interia.pl", "Bankier.pl", "Business Insider", "MamStartup", "Stooq"],
+  "Technologia": ["Spider's Web", "Antyweb", "Tabletowo", "Android.com.pl", "GeekWeek", "Niebezpiecznik", "Zaufana Trzecia Strona", "Chip.pl", "Computerworld", "Sekurak", "Tech WP.pl", "Cyberdefence24", "Benchmark.pl", "Komputerswiat.pl"],
+  "Sport": ["Eurosport"],
+  "Media": ["Wirtualnemedia.pl", "Press.pl", "Media2.pl"],
+  "Kultura": ["Interia Kultura"],
+  "Międzynarodowe": ["BBC News", "The Guardian", "Reuters", "DW", "Euronews"],
+  "Inne": ["Interia", "Gazeta.pl", "Wyborcza", "Wp.pl"]
+};
+
 // ===== STATE =====
 let allArticles = [];
 let displayedArticles = [];
 let selectedSources = new Set(); // Will be populated after loading articles
+let selectedCategory = 'all';
 let searchTerm = '';
 let savedArticles = JSON.parse(localStorage.getItem('savedArticles')) || [];
 let readArticles = JSON.parse(localStorage.getItem('readArticles')) || {};
@@ -231,6 +244,26 @@ document.getElementById('clearAllBtn')?.addEventListener('click', () => {
   applyFilters();
 });
 
+// ===== CATEGORY FILTER =====
+document.getElementById('categoryFilter')?.addEventListener('change', (e) => {
+  selectedCategory = e.target.value;
+  
+  // Update selected sources based on category
+  if (selectedCategory === 'all') {
+    // Select all sources from loaded articles
+    selectedSources = new Set(allArticles.map(a => a.source));
+  } else {
+    // Select only sources from the chosen category
+    const categorySources = SOURCE_CATEGORIES[selectedCategory] || [];
+    const availableSources = new Set(allArticles.map(a => a.source));
+    selectedSources = new Set(categorySources.filter(s => availableSources.has(s)));
+  }
+  
+  populateSourceSelect();
+  updateSourceDropdownLabel();
+  applyFilters();
+});
+
 // ===== SEARCH =====
 document.getElementById('searchInput')?.addEventListener('input', (e) => {
   searchTerm = e.target.value.toLowerCase();
@@ -265,16 +298,14 @@ function createCard(article) {
   const card = document.createElement('article');
   card.className = 'card' + (readArticles[article.link] ? ' read' : '');
   
-  // Save button
-  const saveBtn = document.createElement('button');
-  saveBtn.className = 'save-article-btn';
-  const isSaved = savedArticles.some(s => s.link === article.link);
-  saveBtn.textContent = isSaved ? '📌' : '🔖';
-  if (isSaved) saveBtn.classList.add('saved');
-  saveBtn.title = isSaved ? 'Usuń z zapisanych' : 'Zapisz na później';
-  saveBtn.onclick = (e) => {
+  // Three-dot menu button
+  const menuBtn = document.createElement('button');
+  menuBtn.className = 'article-menu-btn';
+  menuBtn.innerHTML = '⋮';
+  menuBtn.title = 'Opcje';
+  menuBtn.onclick = (e) => {
     e.stopPropagation();
-    toggleSaveArticle(article, saveBtn);
+    toggleArticleMenu(article, menuBtn, card);
   };
   
   // Favicon from source URL
@@ -329,11 +360,11 @@ function createCard(article) {
   wrapper.appendChild(content);
   
   card.appendChild(wrapper);
-  card.appendChild(saveBtn);
+  card.appendChild(menuBtn);
   
   // Handle middle click (open in background tab)
   card.addEventListener('mouseup', (e) => {
-    if (e.target.closest('.save-article-btn')) return;
+    if (e.target.closest('.article-menu-btn')) return;
     
     if (e.button === 1) { // Middle mouse button
       e.preventDefault();
@@ -366,7 +397,7 @@ function createCard(article) {
   
   // Make entire card clickable (except save button and links)
   card.addEventListener('click', (e) => {
-    if (e.target.closest('a') || e.target.closest('.save-article-btn')) return;
+    if (e.target.closest('a') || e.target.closest('.article-menu-btn')) return;
     if (e.button !== 0) return; // Only left click
     markAsRead(article.link, card);
     window.open(article.link, '_blank');
@@ -405,6 +436,42 @@ function createCard(article) {
   });
   
   return card;
+}
+
+// Toggle article menu (three dots)
+function toggleArticleMenu(article, button, card) {
+  // Close any existing menus
+  document.querySelectorAll('.article-menu').forEach(m => m.remove());
+  
+  const menu = document.createElement('div');
+  menu.className = 'article-menu';
+  
+  const isSaved = savedArticles.some(s => s.link === article.link);
+  
+  const saveOption = document.createElement('button');
+  saveOption.className = 'article-menu-option';
+  saveOption.innerHTML = isSaved ? '📌 Usuń z ulubionych' : '🔖 Dodaj do ulubionych';
+  saveOption.onclick = (e) => {
+    e.stopPropagation();
+    toggleSaveArticle(article, button);
+    menu.remove();
+  };
+  
+  menu.appendChild(saveOption);
+  
+  // Position menu
+  card.appendChild(menu);
+  
+  // Close menu when clicking outside
+  setTimeout(() => {
+    const closeMenu = (e) => {
+      if (!menu.contains(e.target) && e.target !== button) {
+        menu.remove();
+        document.removeEventListener('click', closeMenu);
+      }
+    };
+    document.addEventListener('click', closeMenu);
+  }, 0);
 }
 
 function renderArticles(reset = false) {
