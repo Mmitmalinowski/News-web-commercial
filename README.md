@@ -25,6 +25,7 @@ This news aggregator is **fully compliant with copyright law** and designed for 
 
 - 🔍 **Search** - Filter articles by keyword
 - 📂 **Source filtering** - Select specific news sources
+- 📚 **Archive system** - Automatically stores articles by month for long-term access
 - 🌙 **Dark mode** - Eye-friendly theme toggle
 - 📌 **Save for later** - Bookmark articles locally
 - 📱 **Fully responsive** - Works on all devices
@@ -77,6 +78,55 @@ The workflow automatically fetches new articles every 5 minutes:
 2. Push code to `main` branch
 3. GitHub Actions will auto-run (see `.github/workflows/prefetch.yml`)
 4. Articles update automatically every 5 minutes
+
+---
+
+## 📚 Archive System
+
+### Automatic Archiving
+The system automatically archives articles by month to prevent data loss when RSS sources remove old articles:
+
+- **Monthly archives**: Articles are stored in `archives/articles-YYYY-MM.json`
+- **Active period**: Current month + 1 previous month displayed by default
+- **Long-term storage**: Up to 6 months kept automatically
+- **No database needed**: Pure JSON files for easy backup and portability
+
+### Using the Archive
+
+#### On the Website
+1. **Default**: Shows current month + previous month (2,609 articles)
+2. **Scroll to bottom** - "📚 Załaduj starsze artykuły" button appears
+3. **Each click** loads next month back (3rd, 4th, 5th month...)
+4. **Refresh page** to return to default 2 months
+5. **Scroll to top** button (↑) appears on the right when scrolled down
+
+#### Command Line Management
+```bash
+# View archive statistics
+node scripts/archive-cli.js stats
+
+# List articles from specific month
+node scripts/archive-cli.js list 2025-10
+
+# Search in archives
+node scripts/archive-cli.js search "JavaScript"
+node scripts/archive-cli.js search "COVID" 2025-09
+
+# Export month to separate file
+node scripts/archive-cli.js export 2025-09
+
+# Clean old archives (keep last 6 months)
+node scripts/archive-cli.js clean 6
+
+# Migrate existing articles.json to archive
+node scripts/archive-cli.js migrate
+```
+
+### Archive Configuration
+Edit `scripts/archive-manager.js` to customize:
+- `ACTIVE_MONTHS`: How many previous months to show (default: 1)
+- `MAX_ARTICLES_PER_MONTH`: Article limit per archive (default: 10,000)
+- Archive cleanup interval
 
 ---
 

@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Design Preview - 4 opcje</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background: #f6f8fa;
+      padding: 40px 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    h1 { text-align: center; margin-bottom: 40px; }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 30px;
+      margin-bottom: 50px;
+    }
+    .section {
+      background: white;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .section h2 {
+      margin-top: 0;
+      color: #0969da;
+      font-size: 18px;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 10px;
+    }
+    .card {
+      background: white;
+      border: 1px solid #d0d7de;
+      border-radius: 12px;
+      padding: 16px;
+      margin-bottom: 12px;
+      transition: all 0.2s ease;
+      cursor: pointer;
+    }
+    .card:hover {
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+      transform: translateY(-2px);
+    }
+    
+    /* Option A: Favicon only */
+    .card-favicon {
+      display: flex;
+      gap: 12px;
+    }
+    .card-favicon img {
+      width: 48px;
+      height: 48px;
+      border-radius: 8px;
+      border: 1px solid #eee;
+      flex-shrink: 0;
+    }
+    .card-content {
+      flex: 1;
+      min-width: 0;
+    }
+    .card-title {
+      font-size: 15px;
+      font-weight: 600;
+      margin: 0 0 6px 0;
+      line-height: 1.4;
+    }
+    .card-meta {
+      font-size: 12px;
+      color: #636c76;
+      margin-bottom: 8px;
+    }
+    .read-more {
+      color: #0969da;
+      font-size: 13px;
+      font-weight: 500;
+      text-decoration: none;
+    }
+    
+    /* Option B: Emoji category */
+    .emoji-icon {
+      font-size: 32px;
+      width: 48px;
+      height: 48px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f6f8fa;
+      border-radius: 8px;
+      flex-shrink: 0;
+    }
+    
+    /* Option C: Letter avatar */
+    .letter-avatar {
+      width: 48px;
+      height: 48px;
+      border-radius: 8px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 22px;
+      font-weight: bold;
+      color: white;
+      flex-shrink: 0;
+    }
+    .avatar-tvn { background: linear-gradient(135deg, #1e3a8a 0%, #3b82f6 100%); }
+    .avatar-onet { background: linear-gradient(135deg, #ea580c 0%, #fb923c 100%); }
+    .avatar-bbc { background: linear-gradient(135deg, #dc2626 0%, #ef4444 100%); }
+    .avatar-guardian { background: linear-gradient(135deg, #0c4a6e 0%, #0ea5e9 100%); }
+    
+    /* Option D: Mix */
+    .card-mix {
+      display: flex;
+      gap: 12px;
+    }
+    .mix-left {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+    .mix-left img {
+      width: 32px;
+      height: 32px;
+      border-radius: 6px;
+    }
+    .category-badge {
+      font-size: 20px;
+      width: 32px;
+      height: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: #f6f8fa;
+      border-radius: 6px;
+    }
+    
+    .vote-section {
+      text-align: center;
+      margin-top: 40px;
+      padding: 30px;
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    }
+    .vote-section h2 {
+      margin-bottom: 20px;
+      color: #0969da;
+    }
+    .vote-buttons {
+      display: flex;
+      gap: 15px;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+    .vote-btn {
+      padding: 12px 24px;
+      font-size: 16px;
+      font-weight: 600;
+      border: 2px solid #0969da;
+      background: white;
+      color: #0969da;
+      border-radius: 8px;
+      cursor: pointer;
+      transition: all 0.2s ease;
+    }
+    .vote-btn:hover {
+      background: #0969da;
+      color: white;
+      transform: scale(1.05);
+    }
+  </style>
+</head>
+<body>
+  <h1>🎨 Design Preview - Wybierz najlepszą opcję</h1>
+  
+  <div class="grid">
+    <!-- Option A: Favicon -->
+    <div class="section">
+      <h2>Opcja A: Favicon źródeł (logo serwisów)</h2>
+      
+      <div class="card card-favicon">
+        <img src="https://www.google.com/s2/favicons?domain=tvn24.pl&sz=64" alt="TVN24">
+        <div class="card-content">
+          <div class="card-title">Nowacka: polską tradycją nie jest łasić się do nazioli</div>
+          <div class="card-meta">TVN24 • 2 godziny temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <div class="card card-favicon">
+        <img src="https://www.google.com/s2/favicons?domain=onet.pl&sz=64" alt="Onet">
+        <div class="card-content">
+          <div class="card-title">PiS rzuca wyzwanie Konfederacji. Chodzi o podatki</div>
+          <div class="card-meta">Onet • 3 godziny temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <div class="card card-favicon">
+        <img src="https://www.google.com/s2/favicons?domain=theguardian.com&sz=64" alt="Guardian">
+        <div class="card-content">
+          <div class="card-title">UK manhunt latest: Police searching for sex offender</div>
+          <div class="card-meta">The Guardian • 1 godzinę temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <p style="margin-top: 15px; font-size: 13px; color: #636c76;">
+        ✅ Profesjonalne<br>
+        ✅ Rozpoznawalne branding<br>
+        ⚠️ Niektóre favicony mogą być małe
+      </p>
+    </div>
+    
+    <!-- Option B: Emoji -->
+    <div class="section">
+      <h2>Opcja B: Emoji kategorii</h2>
+      
+      <div class="card card-favicon">
+        <div class="emoji-icon">📰</div>
+        <div class="card-content">
+          <div class="card-title">Nowacka: polską tradycją nie jest łasić się do nazioli</div>
+          <div class="card-meta">TVN24 • 2 godziny temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <div class="card card-favicon">
+        <div class="emoji-icon">🇵🇱</div>
+        <div class="card-content">
+          <div class="card-title">PiS rzuca wyzwanie Konfederacji. Chodzi o podatki</div>
+          <div class="card-meta">Onet • 3 godziny temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <div class="card card-favicon">
+        <div class="emoji-icon">🌍</div>
+        <div class="card-content">
+          <div class="card-title">UK manhunt latest: Police searching for sex offender</div>
+          <div class="card-meta">The Guardian • 1 godzinę temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <p style="margin-top: 15px; font-size: 13px; color: #636c76;">
+        ✅ Kolorowe i przyciągające wzrok<br>
+        ✅ Szybkie rozpoznanie kategorii<br>
+        ✅ Uniwersalne (emoji wszędzie działają)
+      </p>
+    </div>
+    
+    <!-- Option C: Letter Avatar -->
+    <div class="section">
+      <h2>Opcja C: Avatar z literą (gradient)</h2>
+      
+      <div class="card card-favicon">
+        <div class="letter-avatar avatar-tvn">T</div>
+        <div class="card-content">
+          <div class="card-title">Nowacka: polską tradycją nie jest łasić się do nazioli</div>
+          <div class="card-meta">TVN24 • 2 godziny temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <div class="card card-favicon">
+        <div class="letter-avatar avatar-onet">O</div>
+        <div class="card-content">
+          <div class="card-title">PiS rzuca wyzwanie Konfederacji. Chodzi o podatki</div>
+          <div class="card-meta">Onet • 3 godziny temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <div class="card card-favicon">
+        <div class="letter-avatar avatar-guardian">G</div>
+        <div class="card-content">
+          <div class="card-title">UK manhunt latest: Police searching for sex offender</div>
+          <div class="card-meta">The Guardian • 1 godzinę temu</div>
+          <a href="#" class="read-more">Czytaj więcej →</a>
+        </div>
+      </div>
+      
+      <p style="margin-top: 15px; font-size: 13px; color: #636c76;">
+        ✅ Kolorowe gradienty<br>
+        ✅ Konsystentne kolory dla źródeł<br>
+        ⚠️ Trzeba zapamiętać kolory
+      </p>
+    </div>
+    
+    <!-- Option D: Mix -->
+    <div class="section">
+      <h2>Opcja D: Mix (Favicon + Emoji)</h2>
+      
+      <div class="card">
+        <div class="card-mix">
+          <div class="mix-left">
+            <img src="https://www.google.com/s2/favicons?domain=tvn24.pl&sz=64" alt="TVN24">
+            <div class="category-badge">📰</div>
+          </div>
+          <div style="flex: 1; min-width: 0;">
+            <div class="card-title">Nowacka: polską tradycją nie jest łasić się do nazioli</div>
+            <div class="card-meta">TVN24 • 2 godziny temu</div>
+            <a href="#" class="read-more">Czytaj więcej →</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="card">
+        <div class="card-mix">
+          <div class="mix-left">
+            <img src="https://www.google.com/s2/favicons?domain=onet.pl&sz=64" alt="Onet">
+            <div class="category-badge">🇵🇱</div>
+          </div>
+          <div style="flex: 1; min-width: 0;">
+            <div class="card-title">PiS rzuca wyzwanie Konfederacji. Chodzi o podatki</div>
+            <div class="card-meta">Onet • 3 godziny temu</div>
+            <a href="#" class="read-more">Czytaj więcej →</a>
+          </div>
+        </div>
+      </div>
+      
+      <div class="card">
+        <div class="card-mix">
+          <div class="mix-left">
+            <img src="https://www.google.com/s2/favicons?domain=theguardian.com&sz=64" alt="Guardian">
+            <div class="category-badge">🌍</div>
+          </div>
+          <div style="flex: 1; min-width: 0;">
+            <div class="card-title">UK manhunt latest: Police searching for sex offender</div>
+            <div class="card-meta">The Guardian • 1 godzinę temu</div>
+            <a href="#" class="read-more">Czytaj więcej →</a>
+          </div>
+        </div>
+      </div>
+      
+      <p style="margin-top: 15px; font-size: 13px; color: #636c76;">
+        ✅ Najlepsze z obu światów<br>
+        ✅ Źródło + kategoria od razu widoczne<br>
+        ⚠️ Może być zbyt "busy"
+      </p>
+    </div>
+  </div>
+  
+  <div class="vote-section">
+    <h2>Która opcja najbardziej Ci się podoba?</h2>
+    <div class="vote-buttons">
+      <button class="vote-btn" onclick="vote('A')">A - Tylko Favicon</button>
+      <button class="vote-btn" onclick="vote('B')">B - Emoji kategorii</button>
+      <button class="vote-btn" onclick="vote('C')">C - Avatar z literą</button>
+      <button class="vote-btn" onclick="vote('D')">D - Mix (Favicon + Emoji)</button>
+    </div>
+    <p id="result" style="margin-top: 20px; font-size: 18px; font-weight: 600; color: #0969da;"></p>
+  </div>
+  
+  <script>
+    function vote(option) {
+      const messages = {
+        'A': '👍 Favicon - profesjonalny wybór! Implementuję za 10 minut.',
+        'B': '🎨 Emoji - kolorowe i przyjazne! Implementuję za 8 minut.',
+        'C': '🌈 Avatar z literą - nowoczesny design! Implementuję za 15 minut.',
+        'D': '🚀 Mix - najbogatszy UX! Implementuję za 20 minut.'
+      };
+      document.getElementById('result').textContent = messages[option];
+      document.getElementById('result').style.background = '#e6f7ff';
+      document.getElementById('result').style.padding = '15px';
+      document.getElementById('result').style.borderRadius = '8px';
+      document.getElementById('result').style.marginTop = '20px';
+    }
+  </script>
+</body>
+</html>

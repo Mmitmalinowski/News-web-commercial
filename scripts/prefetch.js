@@ -3,6 +3,7 @@ const { XMLParser } = require('fast-xml-parser');
 const fs = require('fs').promises;
 const he = require('he');
 const iconv = require('iconv-lite');
+const ArticleArchiveManager = require('./archive-manager');
 
 // ===== FEEDS CONFIGURATION =====
 const FEEDS = {
@@ -141,8 +142,10 @@ function extractArticles(feedData, sourceName) {
 // ===== MAIN FUNCTION =====
 async function prefetchArticles() {
   console.log(`[${new Date().toISOString()}] Starting prefetch...`);
-  const allArticles = [];
+  const archiveManager = new ArticleArchiveManager();
+  const freshArticles = [];
   
+  // Pobierz świeże artykuły z RSS
   for (const [sourceName, feedUrl] of Object.entries(FEEDS)) {
     try {
       console.log(`Fetching: ${sourceName}`);
@@ -150,29 +153,36 @@ async function prefetchArticles() {
       const feedData = parseFeedXml(xmlText);
       const articles = extractArticles(feedData, sourceName);
       
-      allArticles.push(...articles);
+      freshArticles.push(...articles);
       console.log(`  ✓ ${sourceName}: ${articles.length} articles`);
     } catch (error) {
       console.error(`  ✗ ${sourceName}: ${error.message}`);
     }
   }
   
-  // Sort by date (newest first)
-  allArticles.sort((a, b) => {
-    const dateA = new Date(a.pubDate || 0);
-    const dateB = new Date(b.pubDate || 0);
-    return dateB - dateA;
-  });
+  // Archiwizuj nowe artykuły
+  if (freshArticles.length > 0) {
+    await archiveManager.archiveArticles(freshArticles);
+  }
   
-  // Save to JSON
-  const output = {
-    generatedAt: new Date().toISOString(),
-    items: allArticles
-  };
+  // Załaduj aktywne artykuły (z obecnego i poprzednich miesięcy)
+  const activeArticlesData = await archiveManager.loadActiveArticles();
   
-  await fs.writeFile('articles.json', JSON.stringify(output, null, 2), 'utf-8');
-  console.log(`\n✓ Saved ${allArticles.length} articles to articles.json`);
-  console.log(`[${new Date().toISOString()}] Prefetch complete!`);
+  // Zapisz główny plik articles.json z aktywnymi artykułami
+  await fs.writeFile('articles.json', JSON.stringify(activeArticlesData, null, 2), 'utf-8');
+  
+  // Wyświetl statystyki
+  const stats = await archiveManager.getArchiveStats();
+  console.log(`\n📊 Archive Statistics:`);
+  console.log(`  → Total archives: ${stats.totalArchives}`);
+  console.log(`  → Total articles in all archives: ${stats.totalArticles}`);
+  console.log(`  → Active articles in main feed: ${activeArticlesData.items.length}`);
+  
+  // Oczyść stare archiwa (zostaw ostatnie 6 miesięcy + aktywne)
+  await archiveManager.cleanOldArchives(6);
+  
+  console.log(`\n✓ Prefetch complete! Active articles: ${activeArticlesData.items.length}`);
+  console.log(`[${new Date().toISOString()}] Process finished.`);
 }
 
 // Run

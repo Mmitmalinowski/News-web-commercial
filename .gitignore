@@ -3,3 +3,10 @@ node_modules/
 *.log
 .env
 .vscode/
+
+# Opcjonalnie: Wyklucz archiwa z repozytorium (zalecane dla dużych projektów)
+# archives/
+# !archives/.gitkeep
+
+# Pliki konfiguracyjne (zachowaj przykłady)
+archive-config.js
