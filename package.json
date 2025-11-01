@@ -6,13 +6,22 @@
   "scripts": {
     "prefetch": "node scripts/prefetch.js"
   },
-  "keywords": ["news", "rss", "aggregator", "legal"],
+  "keywords": [
+    "news",
+    "rss",
+    "aggregator",
+    "legal"
+  ],
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "node-fetch": "^2.7.0",
+    "axios": "^1.13.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
     "fast-xml-parser": "^4.2.4",
     "he": "^1.2.0",
-    "iconv-lite": "^0.6.3"
+    "iconv-lite": "^0.6.3",
+    "jsdom": "^27.1.0",
+    "node-fetch": "^2.7.0"
   }
 }

@@ -10,3 +10,10 @@ node_modules/
 
 # Pliki konfiguracyjne (zachowaj przykłady)
 archive-config.js
+
+# Pliki tymczasowe i testowe
+*-demo.html
+*-test.html
+*-mockup.html
+*.tmp
+*.bak

@@ -1,27 +1,62 @@
-# NewsHub Pro - Legal News Aggregator
+# News Web Commercial 📰
 
-## 🔒 100% Legal & Commercial-Ready
+**Profesjonalny agregator newsów + Generator postów na social media**
 
-This news aggregator is **fully compliant with copyright law** and designed for commercial use.
+## 📁 Struktura projektu
 
-### What makes it legal?
+### 🌐 **News Web Commercial** (główny folder)
+Legalny agregator newsów kompatybilny z prawami autorskimi
 
-✅ **Links only** - No copyrighted content or images displayed  
-✅ **Freedom to link** - Linking to public content is legally protected  
-✅ **No scraping** - Uses official RSS feeds provided by publishers  
-✅ **No reproduction** - Displays only titles and metadata from RSS  
-✅ **Attribution** - Always shows source name and links back to original  
-
-### What we DON'T do
-
-❌ Copy article text or images  
-❌ Reproduce copyrighted content  
-❌ Display content without permission  
-❌ Monetize others' copyrighted work  
+### � **Facebook Post Generator** (`/facebook-post-generator/`)
+Zaawansowany GUI do tworzenia postów na Facebooka z AI
 
 ---
 
-## Features
+## 🌐 News Web Commercial
+
+### �🔒 100% Legal & Commercial-Ready
+
+Ten agregator newsów jest **w pełni zgodny z prawami autorskimi** i przygotowany do użytku komercyjnego.
+
+#### Co czyni go legalnym?
+
+✅ **Tylko linki** - Brak wyświetlanej zawartości chronionej prawami autorskimi  
+✅ **Wolność linkowania** - Linkowanie do publicznych treści jest prawnie chronione  
+✅ **Bez scrapingu** - Używa oficjalnych kanałów RSS dostarczonych przez wydawców  
+✅ **Bez reprodukcji** - Wyświetla tylko tytuły i metadane z RSS  
+✅ **Atrybucja** - Zawsze pokazuje nazwę źródła i linkuje z powrotem do oryginału  
+
+#### Czego NIE robimy
+
+❌ Kopiowanie tekstu lub obrazów artykułów  
+❌ Reprodukowanie treści chronionych prawami autorskimi  
+❌ Wyświetlanie treści bez pozwolenia  
+❌ Monetyzowanie cudzych prac chronionych prawami autorskimi  
+
+---
+
+## 📱 Facebook Post Generator
+
+**Nowy! AI-powered generator postów** w dedykowanym folderze `/facebook-post-generator/`
+
+### ✨ Kluczowe funkcje
+- 🤖 **Inteligentna analiza** artykułów z prawdziwą treścią
+- 🇵🇱 **Auto-tłumaczenie** na polski (EN/PL mixed content)
+- 📊 **5-etapowy progress tracker** 
+- 🎯 **Smart templates** z losowymi wprowadzeniami
+- 📱 **Live preview** w stylu Facebooka
+
+### 🚀 Jak uruchomić
+```bash
+cd facebook-post-generator
+# Otwórz index.html z Live Server w VS Code
+```
+
+Szczegółowa dokumentacja: [`facebook-post-generator/README.md`](facebook-post-generator/README.md)
+
+---
+
+## 🌐 News Web Aggregator - Features
 
 - 🔍 **Search** - Filter articles by keyword
 - 📂 **Source filtering** - Select specific news sources
