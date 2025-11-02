@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T21:07:55.577Z",
+  "generatedAt": "2025-11-02T21:25:10.327Z",
   "items": [
+    {
+      "title": "Nowa marka kawy w Polsce. Promuje się w mediach i na ulicach miast",
+      "link": "https://www.wirtualnemedia.pl/nowa-marka-kawy-w-polsce-promuje-sie-w-mediach-i-na-ulicach-miast,7216477615671968a",
+      "pubDate": "Sun, 02 Nov 2025 22:13:49 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Sekrety Trumpa: Xi wie, co się stanie, gdy Chiny uderzą na Tajwan",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-sekrety-trumpa-xi-wie-co-sie-stanie-gdy-chiny-uderza-na-tajw,nId,8036884",
+      "pubDate": "Sun, 02 Nov 2025 22:11:46 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ścigali kierowcę, uderzyli w drzewo. Ranny policjant",
+      "link": "https://wydarzenia.interia.pl/mazowieckie/news-scigali-kierowce-uderzyli-w-drzewo-ranny-policjant,nId,22450083",
+      "pubDate": "Sun, 02 Nov 2025 21:10:14 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Chciałem znaleźć wyjątkowy sposób na inwestowanie pieniędzy. Oto moja alternatywa dla giełdy",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/dochod-na-pokemonach-znalazlem-alternatywe-dla-gieldy/psv6zfp",
+      "pubDate": "Sun, 02 Nov 2025 21:07:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Strzały na leśnej drodze. Są ranni, trwa obława",
+      "link": "https://tvn24.pl/poznan/gostyn-incydent-na-terenie-rusznikarni-padly-strzaly-trwa-policyjna-oblawa-st8732633?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 21:02:24 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Obława policji w Wielkopolsce. \"Doszło do strzelaniny\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-oblawa-policji-w-wielkopolsce-doszlo-do-strzelaniny,nId,22450105",
@@ -17,6 +47,12 @@
     {
       "title": "Strzały na posesji w Wielkopolsce. Trwa policyjna obława",
       "link": "https://wiadomosci.onet.pl/poznan/strzaly-na-posesji-w-wielkopolsce-trwa-policyjna-oblawa/e52zsqs",
+      "pubDate": "Sun, 02 Nov 2025 20:56:23 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Strzały na posesji w Wielkopolsce. Trwa policyjna obława",
+      "link": "https://wiadomosci.onet.pl/poznan/strzaly-na-lesnej-drodze-w-wielkopolsce-trwa-policyjna-oblawa/e52zsqs",
       "pubDate": "Sun, 02 Nov 2025 20:56:23 GMT",
       "source": "Onet"
     },
@@ -2007,10 +2043,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
