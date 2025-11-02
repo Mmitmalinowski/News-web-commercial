@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T17:29:11.432Z",
+  "generatedAt": "2025-11-02T17:40:07.428Z",
   "items": [
+    {
+      "title": "Avalanche in Italy kills five including father and daughter",
+      "link": "https://www.bbc.com/news/articles/cp3x4w1g5v3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 02 Nov 2025 17:29:28 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Wielki powrót dyktatora. Co knuje Aleksander Łukaszenko? \"Będziemy z Rosjanami bronić naszej ziemi do ostatniego człowieka\" [OPINIA]",
+      "link": "https://wiadomosci.onet.pl/swiat/lukaszenko-sie-odgraza-czy-naprawde-chca-powtorki-z-ubieglego-wieku/5zk1q1d",
+      "pubDate": "Sun, 02 Nov 2025 17:26:54 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Costume drama: Heidi Klum's long and incredible history with Halloween",
       "link": "http://www.euronews.com/culture/2025/11/02/costume-drama-heidi-klums-long-and-incredible-history-with-halloween",
@@ -215,6 +227,12 @@
     {
       "title": "Berlin police arrest Syrian man for planning 'jihadi' attack",
       "link": "https://www.dw.com/en/berlin-police-arrest-syrian-man-for-planning-jihadi-attack/a-74591178?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 2 Nov 2025 16:23:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Berlin police arrest man for planning 'jihadi' attack",
+      "link": "https://www.dw.com/en/berlin-police-arrest-man-for-planning-jihadi-attack/a-74591178?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 2 Nov 2025 16:23:00 GMT",
       "source": "DW"
     },
@@ -1077,10 +1095,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
@@ -2741,6 +2807,12 @@
     {
       "title": "Will German schools train students for war and disasters?",
       "link": "https://www.dw.com/en/will-german-schools-train-students-for-war-and-disasters/a-74571164?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 2 Nov 2025 08:58:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Germany considers adding war, disaster to school curriculum",
+      "link": "https://www.dw.com/en/germany-considers-adding-war-disaster-to-school-curriculum/a-74571164?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 2 Nov 2025 08:58:00 GMT",
       "source": "DW"
     },
