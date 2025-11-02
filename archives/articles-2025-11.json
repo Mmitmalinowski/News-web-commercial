@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T20:13:17.596Z",
+  "generatedAt": "2025-11-02T20:31:04.243Z",
   "items": [
+    {
+      "title": "Australia politics live: Liberals under pressure after Nationals abandon net zero target; Labor spruiks rise in bulk-billing GPs",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/03/australia-politics-live-nationals-net-zero-liberals-labor-bulk-billing-optus-sussan-ley-anthony-albanese-question-time",
+      "pubDate": "Sun, 02 Nov 2025 20:24:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Alarmujący raport o zakupach w Shein i Temu. \"Poważne zagrożenia dla bezpieczeństwa\"",
+      "link": "https://www.wirtualnemedia.pl/alarmujacy-raport-o-zakupach-w-shein-i-temu-powazne-zagrozenia-dla-bezpieczenstwa,7216743484943008a",
+      "pubDate": "Sun, 02 Nov 2025 21:22:13 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "1878 zł miesięcznie. Tysiące Polaków mogą nie wiedzieć o tym świadczeniu",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/swiadczenia-2025-komu-przysluguje-1878-zl-miesiecznie-lista-chorob-i-zasady-wyplat/mjt27q0",
+      "pubDate": "Sun, 02 Nov 2025 20:20:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Louvre heist: Amateurs, not professionals, carried out theft",
+      "link": "https://www.dw.com/en/louvre-heist-amateurs-not-professionals-carried-out-theft/a-74591602?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 2 Nov 2025 20:16:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Koniec tanich centrów usług. W Polsce zostają tylko eksperci, a ich pensje biją rekordy",
+      "link": "https://businessinsider.com.pl/praca/centra-uslug-wspolnych-w-polsce-stawiaja-na-ekspertow-pensje-rosna/g5kwh2x",
+      "pubDate": "Sun, 02 Nov 2025 20:15:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Cios dla rosyjskiej gospodarki. Tracą jednego z głównych klientów",
+      "link": "https://wiadomosci.onet.pl/swiat/cios-dla-rosyjskiej-gospodarki-traca-jednego-z-glownych-klientow/zy1kgjt",
+      "pubDate": "Sun, 02 Nov 2025 20:14:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kolejne dolnośląskie miasto z zakazem sprzedaży alkoholu",
+      "link": "https://www.rmf24.pl/regiony/wroclaw/news-kolejne-dolnoslaskie-miasto-z-zakazem-sprzedazy-alkoholu,nId,8036882",
+      "pubDate": "Sun, 02 Nov 2025 21:10:54 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "La Liga: Lewandowski wraca po kontuzji, Barcelona wygrywa",
       "link": "https://www.rmf24.pl/sport/pilka-nozna/news-la-liga-lewandowski-wraca-po-kontuzji-barcelona-wygrywa,nId,8036880",
@@ -19,6 +61,12 @@
       "link": "https://www.tabletowo.pl/smartfony-samsung-galaxy-s26-specyfikacja-doniesienia/",
       "pubDate": "Sun, 02 Nov 2025 20:04:20 +0000",
       "source": "Tabletowo"
+    },
+    {
+      "title": "Netflix, HBO, Prime i inne – 13 smutnych filmów, które złamią Ci serce tej jesieni",
+      "link": "https://antyweb.pl/najlepsze-wyciskacze-lez-jesien-2025",
+      "pubDate": "Sun, 02 Nov 2025 20:00:20 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Nigel Farage to promise business deregulation in economic policy speech",
@@ -133,6 +181,12 @@
       "link": "https://www.bankier.pl/wiadomosc/Rosna-stany-wod-w-czterech-wojewodztwach-IMGW-ostrzega-9033923.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 2 Nov 2025 20:16:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Miłość, śmiech i Netflix: Najlepsze komedie romantyczne tej jesieni",
+      "link": "https://antyweb.pl/najlepsze-komedie-romantyczne-na-netflix-jesien-2025",
+      "pubDate": "Sun, 02 Nov 2025 19:00:55 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Pogoda na jutro - poniedziałek, 3.11. To będzie deszczowa noc",
@@ -455,6 +509,12 @@
     {
       "title": "Telus z nowym oświadczeniem. \"Nie miałem o tym żadnej wiedzy\" ",
       "link": "https://wydarzenia.interia.pl/kraj/news-telus-z-nowym-oswiadczeniem-nie-mialem-o-tym-zadnej-wiedzy,nId,22450051",
+      "pubDate": "Sun, 02 Nov 2025 17:06:21 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Jestem załamany\". Minister rolnictwa reaguje na oświadczenie Telusa",
+      "link": "https://wydarzenia.interia.pl/kraj/news-jestem-zalamany-minister-rolnictwa-reaguje-na-oswiadczenie-t,nId,22450051",
       "pubDate": "Sun, 02 Nov 2025 17:06:21 GMT",
       "source": "Interia"
     },
@@ -1785,10 +1845,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
@@ -4565,6 +4673,12 @@
     {
       "title": "Tu będzie mocno padać. IMGW ostrzega",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-intensywne-opady-deszczu-w-polsce-st8731778?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 05:34:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pogoda. Intensywny deszcz, gęste mgły. IMGW ostrzega",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-intensywne-opady-deszczu-geste-mgly-pogoda-w-polsce-st8731778?source=rss",
       "pubDate": "Sun, 02 Nov 2025 05:34:02 GMT",
       "source": "TVN24"
     },
