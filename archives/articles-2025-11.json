@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T17:49:46.725Z",
+  "generatedAt": "2025-11-02T17:59:07.401Z",
   "items": [
+    {
+      "title": "\"Pomyślałem, że muszę, jeśli chcę, żeby pies przeżył\". Ruszył na pomoc",
+      "link": "https://tvn24.pl/swiat/usa-policjant-w-new-jersey-wskoczyl-do-wody-i-uratowal-tonacego-psa-st8732474?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 17:52:32 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Centaury już są w Ukrainie i miażdżą najnowsze rosyjskie czołgi",
+      "link": "https://geekweek.interia.pl/militaria/news-centaury-juz-sa-w-ukrainie-i-miazdza-najnowsze-rosyjskie-czo,nId,22450062",
+      "pubDate": "Sun, 02 Nov 2025 17:50:25 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Stopy metali odkryte na nowo. Wszystko dzięki ukrytym wzorom atomowym",
+      "link": "https://www.chip.pl/2025/11/stopy-metali-ukryte-wzory-porzadek",
+      "pubDate": "Sun, 02 Nov 2025 17:50:00 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "Już nie będzie takiej miłości. Nie uwierzymy w robota-przyjaciela",
       "link": "https://spidersweb.pl/2025/11/juz-nie-bedzie-takiej-milosci-nie-uwierzymy-w-robota-przyjaciela.html",
@@ -1179,10 +1197,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
