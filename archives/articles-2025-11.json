@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T19:24:09.368Z",
+  "generatedAt": "2025-11-02T19:35:01.088Z",
   "items": [
+    {
+      "title": "Co powstrzymuje supersamochody przed przekroczeniem prędkości 500 km na godz.? To nie silnik",
+      "link": "https://businessinsider.com.pl/wideo/bugatti-chiron-jak-osiagnieto-predkosc-480-km-na-godz/cbkmd9d",
+      "pubDate": "Sun, 02 Nov 2025 19:30:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "\"Tylko w takim kraju ludzie jak Ziobro mogą prosić o azyl. Tylko że to się źle skończy\"",
+      "link": "https://tvn24.pl/polska/zbigniew-ziobro-w-budapeszcie-czy-moglby-ubiegac-sie-o-azyl-robert-biedron-i-adam-jarubas-komentuja-st8732541?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 19:29:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Trump wskazuje na art. 3.\". Wielka zmiana w sytuacji bezpieczeństwa Europy",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-wskazuje-na-art-3-wielka-zmiana-w-sytuacji-bezpieczens,nId,22450066",
+      "pubDate": "Sun, 02 Nov 2025 19:27:23 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Znany komik porównał Donalda Trumpa do postaci z kreskówki. Doczekał się ostrej reakcji",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-atakuje-komika-sugeruje-ze-bycie-przeciw-niemu-jest-nielegalne/w2ny5gh",
+      "pubDate": "Sun, 02 Nov 2025 19:23:16 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rosyjski kuter z flagą Wagnera. Estońskie władze skonały ze śmiechu",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-rosyjski-kuter-z-flaga-wagnera-estonskie-wladze-skonaly-ze-s,nId,8036877",
+      "pubDate": "Sun, 02 Nov 2025 20:18:20 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Policjant z USA zauważył tonącego czworonoga. Natychmiast ruszył mu na ratunek [NAGRANIE]",
       "link": "https://wiadomosci.onet.pl/swiat/policjant-z-usa-zauwazyl-tonacego-psa-natychmiast-ruszyl-na-pomoc/31m6bl8",
@@ -1533,10 +1563,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
