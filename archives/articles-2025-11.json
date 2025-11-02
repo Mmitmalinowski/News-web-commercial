@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T23:10:24.539Z",
+  "generatedAt": "2025-11-02T23:27:40.452Z",
   "items": [
+    {
+      "title": "Trump stoi przed dylematem. Tomahawki mogą wszystko zmienić",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-trump-stoi-przed-dylematem-tomahawki-moga-wszystko-zmienic,nId,22450110",
+      "pubDate": "Sun, 02 Nov 2025 23:23:25 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Kalendarium - poniedziałek 3 listopada",
       "link": "https://pro.rp.pl/kalendarium/art43277161-kalendarium-poniedzialek-3-listopada",
@@ -13,6 +19,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/hamas-przekazal-ciala-zakladnikow-jest-komunikat/cwyx05n",
       "pubDate": "Sun, 02 Nov 2025 23:03:27 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Louisiana: Alexandria diocese files for bankruptcy over clergy abuse claims",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/louisiana-diocese-bankruptcy-clergy-abuse-claims",
+      "pubDate": "Sun, 02 Nov 2025 23:00:15 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Bądź swój chłop i oglądaj „1670” oraz inne ulubione filmy i seriale dzięki wyjątkowej ofercie Netflix w Magenta Moments od T-Mobile!",
@@ -2421,10 +2433,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
