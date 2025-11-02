@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T18:55:35.529Z",
+  "generatedAt": "2025-11-02T19:14:23.521Z",
   "items": [
+    {
+      "title": "Pogoda na jutro - poniedziałek, 3.11. To będzie deszczowa noc",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-3-11-to-bedzie-deszczowa-noc-st8732529?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 18:56:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Cabaret and memories: Madrid honours Mexico's Day of the Dead with city-wide altars",
+      "link": "http://www.euronews.com/culture/2025/11/02/cabaret-and-memories-madrid-honours-mexicos-day-of-the-dead-with-city-wide-altars",
+      "pubDate": "Sun, 02 Nov 2025 19:55:46 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Mają być wcześniejsze wybory. Prezydent: wychodzę naprzeciw żądaniom",
+      "link": "https://tvn24.pl/swiat/serbia-prezydent-aleksandar-vuczic-wyjde-naprzeciw-zadaniom-studentow-wybory-odbeda-sie-przed-terminem-st8732562?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 18:55:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Role się odwróciły. Amerykańscy giganci spoglądają na Chiny z zazdrością. Reszta świata drży",
+      "link": "https://wiadomosci.onet.pl/swiat/role-sie-odwrocily-chiny-stawiaja-wszystko-na-jedna-karte-swiat-drzy/r9x2qbm",
+      "pubDate": "Sun, 02 Nov 2025 18:54:15 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Onet Rano. - 3.11",
+      "link": "https://wiadomosci.onet.pl/onet-rano-311/p6t070f",
+      "pubDate": "Sun, 02 Nov 2025 18:52:56 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "John F Kennedy grandson says Julia Fox’s bloody Jackie Halloween costume ‘disgusting’",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/julia-fox-jackie-halloween-costume",
+      "pubDate": "Sun, 02 Nov 2025 18:47:34 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Hamas hands over bodies of three Israeli hostages",
       "link": "https://www.dw.com/en/hamas-hands-over-bodies-of-three-israeli-hostages/a-74591488?maca=en-rss-en-all-1573-xml-mrss",
@@ -1443,10 +1479,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
