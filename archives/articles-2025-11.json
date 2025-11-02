@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T13:41:26.735Z",
+  "generatedAt": "2025-11-02T13:51:22.730Z",
   "items": [
     {
       "title": "Amerykanie pokazali rewolucyjnego drona. Przyszłość lotnictwa właśnie wystartowała",
@@ -9,10 +9,28 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
+      "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
+      "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
+      "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
+      "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
+      "source": "Business Insider"
+    },
+    {
       "title": "Hamburger i cola? Mózg: \"To fatalny pomysł\"",
       "link": "https://geekweek.interia.pl/nauka/news-hamburger-i-cola-mozg-to-fatalny-pomysl,nId,22449554",
       "pubDate": "Sun, 02 Nov 2025 13:40:00 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Rekrutacyjna ciuciubabka. Dlaczego widełki wynagrodzeń w ogłoszeniach wciąż budzą tyle emocji?",
+      "link": "https://businessinsider.com.pl/praca/dlaczego-polskie-firmy-nie-chca-podawac-widelek-wynagrodzenia/ygc3080",
+      "pubDate": "Sun, 02 Nov 2025 13:38:01 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Słup dymu nad krajową \"siódemką\"",
@@ -91,6 +109,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-rabunek-w-luwrze-prokuratura-podala-nowe-informacje-o-sprawc,nId,22450009",
       "pubDate": "Sun, 02 Nov 2025 13:11:56 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Trump sięga po AI i memy. \"Artystyczny komentarz polityczny\"",
+      "link": "https://tvn24.pl/biznes/tech/trump-siega-po-ai-i-memy-artystyczny-komentarz-polityczny-st8728431?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 13:11:17 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Drony przeleciały nad belgijską bazą . To schron dla amerykańskiej broni",
@@ -529,6 +553,30 @@
       "link": "https://www.money.pl/gielda/ukrainski-atak-na-rosyjski-port-terminal-naftowy-uszkodzony-7217484080429728a.html",
       "pubDate": "Sun, 02 Nov 2025 12:05:22 +0100",
       "source": "Money.pl"
+    },
+    {
+      "title": "⚠️ Uwaga klienci SuperGrosz.pl – wyciekły Wasze dane!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T11:04:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga klienci SuperGrosz.pl – wyciekły Wasze dane!",
