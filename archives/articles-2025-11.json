@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T14:23:37.600Z",
+  "generatedAt": "2025-11-02T14:36:30.470Z",
   "items": [
     {
       "title": "Amerykanie pokazali rewolucyjnego drona. Przyszłość lotnictwa właśnie wystartowała",
@@ -9,10 +9,52 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Google szykuję zmianę w Mapach dla Android Auto. Producent uczy się na błędach",
+      "link": "https://android.com.pl/tech/987403-android-auto-zmienia-mapy-google/",
+      "pubDate": "Sun, 02 Nov 2025 14:36:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Zuchwała kradzież sera. \"Wiedzieli dokładnie, co robią\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-zuchwala-kradziez-sera-wiedzieli-dokladnie-co-robia-st8732412?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 14:33:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polska pierwsza w Unii. Nowa funkcja w mObywatelu",
+      "link": "https://wydarzenia.interia.pl/kraj/news-polska-pierwsza-w-unii-nowa-funkcja-w-mobywatelu,nId,22435709",
+      "pubDate": "Sun, 02 Nov 2025 14:30:01 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Amerykański sposób na drony. Uczyni czołgi znowu wielkimi",
+      "link": "https://tech.wp.pl/amerykanski-sposob-na-drony-uczyni-czolgi-znowu-wielkimi,7217505719384672a",
+      "pubDate": "Sun, 02 Nov 2025 15:29:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Amerykański sen się skończył. Amerykanie sfrustrowani i rozżaleni jak nigdy. Niektórzy mówią o rewolucji. \"Mamy głęboki kryzys\"",
+      "link": "https://wiadomosci.onet.pl/politico/amerykanski-sen-sie-skonczyl-amerykanie-mowia-o-rewolucji-to-nie-jest-zdrowe/tdm8hzp",
+      "pubDate": "Sun, 02 Nov 2025 14:21:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Explosion at Harvard medical campus appears intentional, authorities say",
+      "link": "https://www.theguardian.com/education/2025/nov/02/harvard-medical-campus-explosion",
+      "pubDate": "Sun, 02 Nov 2025 14:20:50 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "PSL już ma plan, z kim pójść do wyborów parlamentarnych 2027 r.",
       "link": "https://www.rp.pl/polityka/art43259951-psl-juz-ma-plan-z-kim-pojsc-do-wyborow-parlamentarnych-2027-r",
       "pubDate": "Sun, 02 Nov 2025 15:18:54 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wielka kradzież parmezanu we Włoszech. Złodzieje wynieśli ser wart fortunę",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wielka-kradziez-parmezanu-we-wloszech-zlodzieje-wyniesli-ser,nId,8036860",
+      "pubDate": "Sun, 02 Nov 2025 15:15:09 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Czy porządkować \"poniemieckie\" cmentarze? \"Mam mieszane uczucia\"",
@@ -111,10 +153,58 @@
       "source": "TVN24"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
