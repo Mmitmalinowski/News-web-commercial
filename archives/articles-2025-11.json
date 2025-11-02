@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T15:50:15.305Z",
+  "generatedAt": "2025-11-02T15:59:16.853Z",
   "items": [
+    {
+      "title": "Gorzkie słowa o szefach. \"Zabierają pieniądze\"",
+      "link": "https://www.money.pl/pieniadze/gorzkie-slowa-o-szefach-zabieraja-pieniadze-7216818748754592a.html",
+      "pubDate": "Sun, 02 Nov 2025 16:53:32 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Śmierć tylko \"na papierze\". Poszkodowani przeżywają szok w urzędach",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-smierc-tylko-na-papierze-poszkodowani-przezywaja-szok-w-urze,nId,22450045",
+      "pubDate": "Sun, 02 Nov 2025 15:51:41 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Belgium: Drone sightings at Kleine Brogel airbase",
+      "link": "https://www.dw.com/en/belgium-drone-sightings-at-kleine-brogel-airbase/a-74590891?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 2 Nov 2025 15:49:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Rodzice z trójką dzieci w szpitalu. W czujniku czadu rozładowała się bateria",
+      "link": "https://tvn24.pl/katowice/zwonowice-rodzice-z-trojka-dzieci-w-szpitalu-w-czujniku-czadu-rozladowala-sie-bateria-st8732492?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 15:48:06 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "vivo X300 Ultra może zadebiutować globalnie. Świetna informacja dla fanów fotografii",
       "link": "https://android.com.pl/tech/987406-vivo-x300-ultra-globalny-debiut/",
       "pubDate": "Sun, 02 Nov 2025 15:45:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Rafinerie w kolejnym kraju rezygnują z rosyjskiej ropy. Odpowiedź na sankcje USA, UE i Wielkiej Brytanii",
+      "link": "https://biznes.interia.pl/gospodarka/news-rafinerie-w-kolejnym-kraju-rezygnuja-z-rosyjskiej-ropy-odpow,nId,22450052",
+      "pubDate": "Sun, 02 Nov 2025 15:44:16 GMT",
+      "source": "Biznes.interia.pl"
     },
     {
       "title": "Sztuczny deszcz miał ich uratować, wyszedł \"kolejny trik\"",
@@ -579,10 +609,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
@@ -1949,6 +2027,12 @@
     {
       "title": "Trwają poszukiwania 14-letniego Andrzeja. Ma znak szczególny, jest apel policji",
       "link": "https://www.rmf24.pl/regiony/trojmiasto/news-trwaja-poszukiwania-14-letniego-andrzeja-ma-znak-szczegolny-,nId,8036838",
+      "pubDate": "Sun, 02 Nov 2025 10:20:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Poszukiwany 14-letni chłopiec został odnaleziony",
+      "link": "https://www.rmf24.pl/regiony/trojmiasto/news-poszukiwany-14-letni-chlopiec-zostal-odnaleziony,nId,8036838",
       "pubDate": "Sun, 02 Nov 2025 10:20:00 +0100",
       "source": "RMF24"
     },
