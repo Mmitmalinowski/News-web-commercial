@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T15:41:14.360Z",
+  "generatedAt": "2025-11-02T15:50:15.305Z",
   "items": [
+    {
+      "title": "vivo X300 Ultra może zadebiutować globalnie. Świetna informacja dla fanów fotografii",
+      "link": "https://android.com.pl/tech/987406-vivo-x300-ultra-globalny-debiut/",
+      "pubDate": "Sun, 02 Nov 2025 15:45:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Sztuczny deszcz miał ich uratować, wyszedł \"kolejny trik\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/smog-w-indiach-sztuczny-deszcz-mial-ich-uratowac-wyszedl-kolejny-trik-st8732460?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 15:43:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Gonili za kierowcą. Rozbili się o drzewo, policjant w szpitalu",
+      "link": "https://wiadomosci.onet.pl/warszawa/wypadek-podczas-poscigu-radiowoz-rozbil-sie-o-drzewo-policjant-w-szpitalu/wsgs8v2",
+      "pubDate": "Sun, 02 Nov 2025 15:43:36 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Skażona woda w Wielkopolsce. Mieszkańcy wciąż bez dostępu do pitnej wody",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-skazona-woda-w-wielkopolsce-mieszkancy-wciaz-bez-dostepu-do-,nId,8036865",
+      "pubDate": "Sun, 02 Nov 2025 16:42:19 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Szef CIA w Europie. Przybył uspokoić wywiady Unii Europejskiej",
       "link": "https://www.rmf24.pl/fakty/swiat/news-szef-cia-w-europie-przybyl-uspokoic-wywiady-unii-europejskie,nId,8036864",
@@ -531,10 +555,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
@@ -2147,6 +2219,12 @@
     {
       "title": "Why young Ukrainian men are coming to Germany",
       "link": "https://www.dw.com/en/why-young-ukrainian-men-are-coming-to-germany/a-74562374?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 2 Nov 2025 08:16:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Young men from Ukraine increasingly coming to Germany",
+      "link": "https://www.dw.com/en/young-men-from-ukraine-increasingly-coming-to-germany/a-74562374?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 2 Nov 2025 08:16:00 GMT",
       "source": "DW"
     },
