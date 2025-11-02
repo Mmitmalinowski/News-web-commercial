@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T16:28:14.886Z",
+  "generatedAt": "2025-11-02T16:44:37.379Z",
   "items": [
+    {
+      "title": "Nowa zimna wojna. Ameryka przegapiła atomowy wyścig zbrojeń",
+      "link": "https://tech.wp.pl/nowa-zimna-wojna-ameryka-przegapila-atomowy-wyscig-zbrojen,7217557539428960a",
+      "pubDate": "Sun, 02 Nov 2025 17:42:29 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Iranian president pledges to rebuild nuclear program",
+      "link": "https://www.dw.com/en/iranian-president-pledges-to-rebuild-nuclear-program/a-74591116?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 2 Nov 2025 16:42:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Richard Gott, former Guardian journalist and historian, dies aged 87",
+      "link": "https://www.theguardian.com/media/2025/nov/02/richard-gott-former-guardian-journalist-and-historian-dies",
+      "pubDate": "Sun, 02 Nov 2025 16:36:50 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Potężny cios dla Putina. Kluczowy partner robi krok w tył",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-potezny-cios-dla-putina-kluczowy-partner-robi-krok-w-tyl,nId,22450054",
+      "pubDate": "Sun, 02 Nov 2025 16:36:17 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Louvre heist carried out by petty criminals, prosecutor says",
+      "link": "https://www.bbc.com/news/articles/c4gw42j29lqo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 02 Nov 2025 16:34:04 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Krzysztof Ibisz nie mógł uwierzyć. Mistrzowie zaskoczyli wszystkich",
+      "link": "https://geekweek.interia.pl/lifestyle/news-takiego-finalu-nikt-sie-nie-spodziewal-mistrzowie-zaskoczyli,nId,22436538",
+      "pubDate": "Sun, 02 Nov 2025 16:30:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Patrioty dla Ukrainy. Wołodymyr Zełenski dziękuje kanclerzowi Niemiec. \"Wspólny krok\"",
+      "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-podziekowal-friedrichowi-merzowi-wspolny-krok/4j55e2v",
+      "pubDate": "Sun, 02 Nov 2025 16:28:37 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "FBI fires top official amid Kash Patel’s outrage over reports of agency jet use",
+      "link": "https://www.theguardian.com/us-news/2025/nov/02/fbi-fires-top-official-kash-patel-jet-use",
+      "pubDate": "Sun, 02 Nov 2025 16:25:41 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Przyjechali pozwiedzać, okradli salon tatuażu. Turyści z Austrii zatrzymani w Krakowie",
+      "link": "https://wiadomosci.onet.pl/krakow/austriacy-zatrzymani-w-krakowie-kradli-dla-zabawy-grozi-im-piec-lat/2nmt1xg",
+      "pubDate": "Sun, 02 Nov 2025 16:25:33 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Berlin police arrest Syrian man for planning 'jihadi' attack",
       "link": "https://www.dw.com/en/berlin-police-arrest-syrian-man-for-planning-jihadi-attack/a-74591178?maca=en-rss-en-all-1573-xml-mrss",
@@ -765,10 +819,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
