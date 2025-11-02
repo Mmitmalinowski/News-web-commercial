@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-02T19:35:01.088Z",
+  "generatedAt": "2025-11-02T19:44:06.614Z",
   "items": [
+    {
+      "title": "Chiny zaatakują Tajwan? Trump: Ludzie Xi znają konsekwencje",
+      "link": "https://www.rp.pl/polityka/art43277101-chiny-zaatakuja-tajwan-trump-ludzie-xi-znaja-konsekwencje",
+      "pubDate": "Sun, 02 Nov 2025 20:40:27 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ostrzeżenia IMGW. Rosną stany wód w czterech województwach",
+      "link": "https://wiadomosci.onet.pl/pogoda/ostrzezenia-imgw-rosna-stany-wod-w-czterech-wojewodztwach/f8f3lb3",
+      "pubDate": "Sun, 02 Nov 2025 19:37:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gwałtowne wzrosty stanów wody. IMGW ostrzega",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/alarmy-hydrologiczne-imgw-nawet-drugiego-stopnia-gwaltowne-wzrosty-stanow-wody-st8732596?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 19:36:25 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Co powstrzymuje supersamochody przed przekroczeniem prędkości 500 km na godz.? To nie silnik",
       "link": "https://businessinsider.com.pl/wideo/bugatti-chiron-jak-osiagnieto-predkosc-480-km-na-godz/cbkmd9d",
@@ -13,6 +31,12 @@
       "link": "https://tvn24.pl/polska/zbigniew-ziobro-w-budapeszcie-czy-moglby-ubiegac-sie-o-azyl-robert-biedron-i-adam-jarubas-komentuja-st8732541?source=rss",
       "pubDate": "Sun, 02 Nov 2025 19:29:36 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Hamas hands over three coffins it says contain bodies of Gaza hostages",
+      "link": "https://www.bbc.com/news/articles/c3ep044jz47o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 02 Nov 2025 19:27:35 GMT",
+      "source": "BBC News"
     },
     {
       "title": "\"Trump wskazuje na art. 3.\". Wielka zmiana w sytuacji bezpieczeństwa Europy",
@@ -587,6 +611,12 @@
     {
       "title": "Policjanci prowadzili pościg, wypadli z drogi. Ranny funkcjonariusz",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pecice-policjanci-prowadzili-poscig-wypadli-z-drogi-ranny-funkcjonariusz-st8732456?source=rss",
+      "pubDate": "Sun, 02 Nov 2025 15:59:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pościg i \"zakrojone na szeroką skalę poszukiwania\". Policjanci zatrzymali 34-latka",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pecice-poscig-za-kierowca-skody-i-poszukiwania-policjanci-zatrzymali-prawdopodobnego-kierowce-st8732456?source=rss",
       "pubDate": "Sun, 02 Nov 2025 15:59:23 GMT",
       "source": "TVN24"
     },
@@ -1587,10 +1617,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
