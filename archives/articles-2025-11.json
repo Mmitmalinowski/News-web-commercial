@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T21:30:08.201Z",
+  "generatedAt": "2025-11-03T21:42:18.127Z",
   "items": [
+    {
+      "title": "Oscar-nominated actress Diane Ladd dies at 89",
+      "link": "https://www.bbc.com/news/articles/cvg41x3w1zvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 21:32:42 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Kluczowy dostawca wściekły na dyrektywę Unii. Grozi zerwaniem dostaw gazu",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-kluczowy-dostawca-wsciekly-na-dyrektywe-unii-grozi-zerwaniem,nId,22450542",
+      "pubDate": "Mon, 03 Nov 2025 21:25:03 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Sztuczna inteligencja reaguje lepiej na niegrzeczne polecenia",
       "link": "https://geekweek.interia.pl/aplikacje/news-sztuczna-inteligencja-reaguje-lepiej-na-niegrzeczne-poleceni,nId,22449617",
@@ -301,6 +313,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/raven-wchodzi-w-kolejna-faze-prac-polski-statek-kosmiczny-coraz-blizej/qvp57ts",
       "pubDate": "Mon, 03 Nov 2025 19:28:24 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Izraelska generał aresztowana po ujawnieniu tortur na Palestyńczyku",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43282151-izraelska-general-aresztowana-po-ujawnieniu-tortur-na-palestynczyku",
+      "pubDate": "Mon, 03 Nov 2025 20:28:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Śmigłowce Black Hawk pod Pokrowskiem. Akcja ukraińskich sił specjalnych",
@@ -11067,10 +11085,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
