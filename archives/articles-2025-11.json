@@ -1,7 +1,73 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T19:29:19.264Z",
+  "generatedAt": "2025-11-03T19:40:42.995Z",
   "items": [
+    {
+      "title": "W te sumy aż trudno uwierzyć. 10 najbogatszych w rok zyskało 700 mld dolarów",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-w-te-sumy-az-trudno-uwierzyc-10-najbogatszych-w-rok-zyskalo-,nId,8037177",
+      "pubDate": "Mon, 03 Nov 2025 20:38:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Łukaszenka zakazuje wjazdu polskich i litewskich ciężarówek",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/lukaszenka-zakazuje-wjazdu-polskich-i-litewskich-ciezarowek",
+      "pubDate": "Mon, 03 Nov 2025 19:33:07 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Czechy skręcają w prawo",
+      "link": "https://www.rp.pl/polityka/art43280041-czechy-skrecaja-w-prawo",
+      "pubDate": "Mon, 03 Nov 2025 20:32:37 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wybrał się na samotną wyprawę. 31-letni Polak zaginął na Maderze",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-wybral-sie-na-samotna-wyprawe-31-letni-polak-zaginal-na-made,nId,22450533",
+      "pubDate": "Mon, 03 Nov 2025 19:32:27 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Kupili używane F-16 z Holandii. Zapłacili za nie 1 euro",
+      "link": "https://tech.wp.pl/kupili-uzywane-f-16-z-holandii-zaplacili-za-nie-1-euro,7217951680232032a",
+      "pubDate": "Mon, 03 Nov 2025 20:31:20 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Jak zrobić Rolkę w kilka sekund? Zdjęcia Google wprowadzają szablony wideo w stylu TikToka",
+      "link": "https://www.chip.pl/2025/11/zdjecia-google-nowe-narzedzia-do-tworzenia-filmow",
+      "pubDate": "Mon, 03 Nov 2025 19:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Ta choroba dokucza milionom ludzi. Przełom w badaniach",
+      "link": "https://www.rmf24.pl/nauka/news-ta-choroba-dokucza-milionom-ludzi-przelom-w-badaniach,nId,8037179",
+      "pubDate": "Mon, 03 Nov 2025 20:29:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Jarosław Kaczyński uderza w sądy. \"Tak wygląda tuskowo-żurkowa »praworządność«?\"",
+      "link": "https://wiadomosci.onet.pl/kraj/kaczynski-uderza-w-sady-tak-wyglada-tuskowo-zurkowa-praworzadnosc/8dd31v9",
+      "pubDate": "Mon, 03 Nov 2025 19:29:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Onet Rano. - 4.11",
+      "link": "https://wiadomosci.onet.pl/onet-rano-411/ct3knme",
+      "pubDate": "Mon, 03 Nov 2025 19:28:39 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polski statek kosmiczny RAVEN coraz bliżej. \"To ogromne osiągnięcie\"",
+      "link": "https://wiadomosci.onet.pl/kraj/raven-wchodzi-w-kolejna-faze-prac-polski-statek-kosmiczny-coraz-blizej/qvp57ts",
+      "pubDate": "Mon, 03 Nov 2025 19:28:24 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Śmigłowce Black Hawk pod Pokrowskiem. Akcja ukraińskich sił specjalnych",
+      "link": "https://tech.wp.pl/smiglowce-black-hawk-pod-pokrowskiem-akcja-ukrainskich-sil-specjalnych,7217959648201312a",
+      "pubDate": "Mon, 03 Nov 2025 20:27:42 +0100",
+      "source": "Tech WP.pl"
+    },
     {
       "title": "Partia chrupek wycofana ze sklepów. Ostrzeżenie",
       "link": "https://tvn24.pl/biznes/z-kraju/chrupki-wycofane-z-obrotu-ostrzezenie-gis-st8734054?source=rss",
@@ -85,6 +151,12 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-podatek-od-garazu-dla-niektorych-10-razy-wiekszy-reakcja-rpo,nId,8037175",
       "pubDate": "Mon, 03 Nov 2025 20:05:11 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Watch: Moment train collides with lorry carrying vehicles",
+      "link": "https://www.bbc.com/news/videos/c797xgpevdro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 19:05:02 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Zaskakująca kooperacja na rynku. Siri ma korzystać z usług konkurenta",
@@ -10557,10 +10629,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
