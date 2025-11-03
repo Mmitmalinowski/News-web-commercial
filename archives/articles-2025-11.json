@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T21:42:18.127Z",
+  "generatedAt": "2025-11-03T21:51:41.704Z",
   "items": [
+    {
+      "title": "Terrorysta zginął w samochodzie. Tak RAF działa w Syrii",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-terrorysta-zginal-w-samochodzie-tak-raf-dziala-w-syrii,nId,8037193",
+      "pubDate": "Mon, 03 Nov 2025 22:46:04 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Białoruś wyśle \"siły pokojowe\" do Ukrainy? \"Będziemy gotowi\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-bialorus-wysle-sily-pokojowe-do-ukrainy-bedziemy-gotowi,nId,22450546",
+      "pubDate": "Mon, 03 Nov 2025 21:37:26 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Oscar-nominated actress Diane Ladd dies at 89",
       "link": "https://www.bbc.com/news/articles/cvg41x3w1zvo?at_medium=RSS&at_campaign=rss",
@@ -19,6 +31,12 @@
       "link": "https://geekweek.interia.pl/aplikacje/news-sztuczna-inteligencja-reaguje-lepiej-na-niegrzeczne-poleceni,nId,22449617",
       "pubDate": "Mon, 03 Nov 2025 21:22:01 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Rumunia pozyskała holenderskie F-16. Zapłacili za nie 1 euro",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-03/rumunia-pozyskala-holenderskie-f-16-zaplacili-za-nie-1-euro/",
+      "pubDate": "Mon, 03 Nov 2025 22:20:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Diane Ladd, Oscar-nominated actor of Alice Doesn’t Live Here Anymore, dies aged 89",
@@ -469,6 +487,12 @@
       "link": "https://tvn24.pl/polska/nie-zyje-jerzy-derfel-autor-muzyki-do-filmu-mis-zmarl-w-wieku-84-lat-st8734090?source=rss",
       "pubDate": "Mon, 03 Nov 2025 18:57:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Trump administration will tap emergency fund to pay partial food stamp benefits",
+      "link": "https://www.bbc.com/news/articles/cglg632n719o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 03 Nov 2025 18:56:35 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Gigant obuwniczy zmuszony do ostrych cięć. Zwolni 900 pracowników",
@@ -11109,10 +11133,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
