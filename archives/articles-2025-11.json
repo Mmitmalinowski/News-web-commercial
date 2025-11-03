@@ -1,12 +1,48 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T20:29:43.316Z",
+  "generatedAt": "2025-11-03T20:44:41.761Z",
   "items": [
+    {
+      "title": "Nowy pomysł na sztuczne słońce. Noc na Ziemi miałaby zniknąć już w 2030 r.",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-pomysl-na-sztuczne-slonce-noc-na-ziemi-mialaby-zniknac-juz-w-2030-r/b1t88sf",
+      "pubDate": "Mon, 03 Nov 2025 20:40:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ekstra promocja na dziesiątki gier i nowe hity. Kilka złotych za miesiąc grania",
+      "link": "https://antyweb.pl/696093-2",
+      "pubDate": "Mon, 03 Nov 2025 20:37:13 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Pierwszy polski statek kosmiczny. \"Będziemy mogli konkurować z największymi\"",
+      "link": "https://www.rmf24.pl/nauka/news-pierwszy-polski-statek-kosmiczny-bedziemy-mogli-konkurowac-z,nId,8037187",
+      "pubDate": "Mon, 03 Nov 2025 21:36:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Okulary Lenovo mają wiadomości i nawigację. O wiele taniej niż Meta",
+      "link": "https://spidersweb.pl/2025/11/okulary-lenovo-glassess-powiadomienia-cena.html",
+      "pubDate": "Mon, 03 Nov 2025 21:35:51 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "\"Zapomnieli\", że już nigdy nie powinni prowadzić auta",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/drogi-w-polsce-zapomnieli-ze-nigdy-wiecej-nie-powinni-siadac-za-kierownica-st8734158?source=rss",
+      "pubDate": "Mon, 03 Nov 2025 20:33:47 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Justtag Group wzmacnia zespół. Transfery z Wirtualnej Polski i WPP Media",
       "link": "https://www.wirtualnemedia.pl/justtag-group-wzmacnia-zespol-transfery-z-wirtualnej-polski-i-wpp-media,7217932824308384a",
       "pubDate": "Mon, 03 Nov 2025 21:27:55 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "\"Ukraina nie stawi czoła sama\". Ursula von der Leyen deklaruje po rozmowie z Zełenskim",
+      "link": "https://wiadomosci.onet.pl/swiat/ukraina-nie-stawi-czola-sama-padla-deklaracja-ursuli-von-der-leyen/xeg4m3f",
+      "pubDate": "Mon, 03 Nov 2025 20:26:16 GMT",
+      "source": "Onet"
     },
     {
       "title": "AMD nie zostawia graczy na lodzie. Tłumaczymy aferkę RDNA",
@@ -10887,10 +10923,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
