@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T06:51:28.072Z",
+  "generatedAt": "2025-11-03T07:00:24.755Z",
   "items": [
+    {
+      "title": "PZU zbroi się przed cyberatakami: firma rozpoczyna współpracę z RIFFSEC",
+      "link": "https://mamstartup.pl/pzu-zbroi-sie-przed-cyberatakami-firma-rozpoczyna-wspolprace-z-riffsec/",
+      "pubDate": "Mon, 03 Nov 2025 06:58:14 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Europosłanka Konfederacji o sprawie działki pod CPK: I KO, i PiS są ubrudzeni",
+      "link": "https://www.rp.pl/polityka/art43277631-europoslanka-konfederacji-o-sprawie-dzialki-pod-cpk-i-ko-i-pis-sa-ubrudzeni",
+      "pubDate": "Mon, 03 Nov 2025 07:57:30 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Samsung zmienia kalendarz premier. Dłuższe czekanie ma sens",
+      "link": "https://spidersweb.pl/2025/11/samsung-kalendarz-premier-galaxy-s26.html",
+      "pubDate": "Mon, 03 Nov 2025 07:53:33 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "YouTube mógł przesadzić z cenzurą. Poszło o… Windows 11",
+      "link": "https://android.com.pl/tech/987425-youtube-cenzura-windows-11/",
+      "pubDate": "Mon, 03 Nov 2025 06:53:07 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Kontrowersje wokół oświadczeń majątkowych w NBP. Prezes Glapiński miał namawiać do utajnienia danych",
+      "link": "https://businessinsider.com.pl/wiadomosci/kontrowersje-wokol-oswiadczen-majatkowych-w-nbp-prezes-glapinski-mial-namawiac-do/wf4rqmj",
+      "pubDate": "Mon, 03 Nov 2025 06:51:31 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Suta dotacja dla startupu walczącego z otyłością: Holi zyskuje 12,5 mln PLN w rundzie z 4growth VC",
       "link": "https://mamstartup.pl/suta-dotacja-dla-startupu-walczacego-z-otyloscia-holi-zyskuje-125-mln-pln-w-rundzie-z-4growth-vc/",
@@ -13,6 +43,18 @@
       "link": "https://www.tabletowo.pl/wytrzymaja-wiecej-niz-inne-smartfony-realme-c85/",
       "pubDate": "Mon, 03 Nov 2025 06:50:05 +0000",
       "source": "Tabletowo"
+    },
+    {
+      "title": "Powerful Afghanistan earthquake leaves 20 dead and reportedly damages famous Blue Mosque",
+      "link": "https://www.theguardian.com/world/2025/nov/03/afghanistan-earthquake-death-toll-reportedly-damages-blue-mosque",
+      "pubDate": "Mon, 03 Nov 2025 06:48:50 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Uwaga na ulewy. IMGW wydał ostrzeżenia dla czterech województw",
+      "link": "https://wiadomosci.onet.pl/pogoda/imgw-ostrzega-przed-ulewnym-deszczem-cztery-wojewodztwa-zagrozone/k1w686g",
+      "pubDate": "Mon, 03 Nov 2025 06:46:52 GMT",
+      "source": "Onet"
     },
     {
       "title": "Ukraina przeprowadziła nocny atak. Uderzyli w czuły punkt Rosji",
@@ -37,6 +79,12 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-wokalista-disco-polo-w-ogniu-krytyki-nie-bedzie-kandydowal-n,nId,8036896",
       "pubDate": "Mon, 03 Nov 2025 07:41:53 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Monday briefing: ‘Heroic’ rail worker fights for life after 15 minutes of horror",
+      "link": "https://www.theguardian.com/world/2025/nov/03/monday-briefing-heroic-rail-worker-fights-for-life-after-15-minutes-of-horror",
+      "pubDate": "Mon, 03 Nov 2025 06:40:49 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Pat w USA. Jest wyrok sądu. Administracja Trumpa szuka pieniędzy",
@@ -1584,6 +1632,12 @@
       "title": "Strzelanina w Wielkopolsce. Policja prowadzi obławę",
       "link": "https://www.rmf24.pl/regiony/poznan/news-strzelanina-w-wielkopolsce-policja-prowadzi-oblawe,nId,8036885",
       "pubDate": "Sun, 02 Nov 2025 21:48:05 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Strzelanina na leśnej drodze w Wielkopolsce",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-strzelanina-na-lesnej-drodze-w-wielkopolsce,nId,8036885",
+      "pubDate": "Sun, 02 Nov 2025 21:42:11 +0100",
       "source": "RMF24"
     },
     {
@@ -4149,10 +4203,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
