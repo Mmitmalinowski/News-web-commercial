@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T20:44:41.761Z",
+  "generatedAt": "2025-11-03T20:53:43.920Z",
   "items": [
+    {
+      "title": "Microsoft szczerze: blokuje nas prąd, nie moc obliczeniowa",
+      "link": "https://spidersweb.pl/2025/11/microsoft-problem-energia-prad.html",
+      "pubDate": "Mon, 03 Nov 2025 21:46:18 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Poseł KO przekazał poruszającą wiadomość. \"Choroba przyszła niespodziewanie\"",
+      "link": "https://wiadomosci.onet.pl/lodz/posel-ko-przekazal-poruszajaca-wiadomosc-choroba-przyszla-niespodziewanie/tzdxctv",
+      "pubDate": "Mon, 03 Nov 2025 20:45:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "​Poseł KO: Mam nowotwór. Choroba przyszła niespodziewanie",
+      "link": "https://www.rmf24.pl/fakty/polska/news-posel-ko-mam-nowotwor-choroba-przyszla-niespodziewanie,nId,8037190",
+      "pubDate": "Mon, 03 Nov 2025 21:41:50 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Nowy pomysł na sztuczne słońce. Noc na Ziemi miałaby zniknąć już w 2030 r.",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-pomysl-na-sztuczne-slonce-noc-na-ziemi-mialaby-zniknac-juz-w-2030-r/b1t88sf",
@@ -10947,10 +10965,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
