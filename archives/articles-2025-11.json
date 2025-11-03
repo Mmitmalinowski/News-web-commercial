@@ -1,7 +1,79 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T05:27:24.465Z",
+  "generatedAt": "2025-11-03T05:43:27.913Z",
   "items": [
+    {
+      "title": "Trump says China’s Xi assured him that he won’t take action on Taiwan",
+      "link": "http://www.euronews.com/2025/11/03/trump-says-chinas-xi-assured-him-that-he-wont-take-action-on-taiwan",
+      "pubDate": "Mon, 03 Nov 2025 06:42:22 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Kryzys złota i srebra? Sprawdziła się stara giełdowa zasada",
+      "link": "https://biznes.interia.pl/gospodarka/news-kryzys-zlota-i-srebra-sprawdzila-sie-stara-gieldowa-zasada,nId,22449992",
+      "pubDate": "Mon, 03 Nov 2025 05:40:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Obława po strzelaninie w Wielkopolsce. Nowe informacje",
+      "link": "https://wiadomosci.onet.pl/poznan/oblawa-po-strzelaninie-w-wielkopolsce-nowe-informacje/gw4kq43",
+      "pubDate": "Mon, 03 Nov 2025 05:36:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zapytano o obowiązkową służbę wojskową. Zmiana nastrojów, jest sondaż",
+      "link": "https://wydarzenia.interia.pl/kraj/news-zapytano-o-obowiazkowa-sluzbe-wojskowa-zmiana-nastrojow-jest,nId,22450115",
+      "pubDate": "Mon, 03 Nov 2025 05:33:26 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Przewróciła się ciężarówka, przewoziła elementy mostu",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/garwolin-michalowka-lipowki-trasa-s17-przewrocila-sie-ciezarowka-przewozila-elementy-mostu-st8732686?source=rss",
+      "pubDate": "Mon, 03 Nov 2025 05:33:20 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Built in the shadows, launched at night: Ukraine's long-range drone strikes on Russian refineries",
+      "link": "http://www.euronews.com/2025/11/03/built-in-the-shadows-launched-at-night-ukraines-long-range-drone-strikes-on-russian-refine",
+      "pubDate": "Mon, 03 Nov 2025 06:30:06 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Podwójny cios w Rosję. Kreml udaje, że nic się nie stało",
+      "link": "https://biznes.interia.pl/gospodarka/news-podwojny-cios-w-rosje-kreml-udaje-ze-nic-sie-nie-stalo,nId,22449765",
+      "pubDate": "Mon, 03 Nov 2025 05:30:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Obcy jednak istnieją? Odpowiedzią mogą być burze gwiazd",
+      "link": "https://spidersweb.pl/2025/11/erupcje-gwiazd-powstanie-zycia-obcy.html",
+      "pubDate": "Mon, 03 Nov 2025 06:30:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Głodówka matki przed parlamentem. Doszło do zamieszek",
+      "link": "https://tvn24.pl/swiat/serbia-glodowka-matki-przed-parlamentem-doszlo-do-zamieszek-st8732663?source=rss",
+      "pubDate": "Mon, 03 Nov 2025 05:29:26 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Premier Rosji z wizytą w Chinach. Spotka się z Xi Jinpingiem. \"Bardzo duża waga\"",
+      "link": "https://wiadomosci.onet.pl/swiat/premier-rosji-z-wizyta-w-chinach-spotka-sie-z-xi-jinpingiem-bardzo-duza-waga/qxx6pz8",
+      "pubDate": "Mon, 03 Nov 2025 05:28:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Cła Trumpa przyspieszyły rozwój światowego handlu. Korzysta też Polska",
+      "link": "https://biznes.interia.pl/gospodarka/news-swiatowy-handel-bije-rekordy-nie-przeszkodzily-temu-nawet-cl,nId,22450116",
+      "pubDate": "Mon, 03 Nov 2025 05:27:32 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "OPEC+ podjął decyzję ws. wydobycia ropy",
+      "link": "https://www.money.pl/gospodarka/opec-podjal-decyzje-ws-wydobycia-ropy-7217752904342176a.html",
+      "pubDate": "Mon, 03 Nov 2025 06:24:45 +0100",
+      "source": "Money.pl"
+    },
     {
       "title": "Donald Trump nie wyklucza nalotów na Nigerię. Jest reakcja władz tego kraju",
       "link": "https://www.rp.pl/konflikty-zbrojne/art43277611-donald-trump-nie-wyklucza-nalotow-na-nigerie-jest-reakcja-wladz-tego-kraju",
@@ -3477,10 +3549,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
