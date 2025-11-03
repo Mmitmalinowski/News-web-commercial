@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T15:47:49.429Z",
+  "generatedAt": "2025-11-03T15:57:09.880Z",
   "items": [
+    {
+      "title": "Polska buduje broń orbitalną. Będzie spychać ruskie satelity",
+      "link": "https://spidersweb.pl/2025/11/polska-buduje-bron-orbitalna.html",
+      "pubDate": "Mon, 03 Nov 2025 16:49:25 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Samsung w Galaxy S26 Ultra może poprawić ergonomię. Przeciek zdradza nowe szczegóły",
+      "link": "https://android.com.pl/tech/987589-galaxy-s26-ultra-poprawi-ergonomie/",
+      "pubDate": "Mon, 03 Nov 2025 15:49:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Awaria u dużego operatora. \"Sieć nie działa, co się dzieje?\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/awaria-w-play-klopoty-z-polaczeniami-st8733894?source=rss",
+      "pubDate": "Mon, 03 Nov 2025 15:48:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Awaria sieci komórkowej. Abonenci Playa nie mogą wykonywać połączeń",
+      "link": "https://wiadomosci.onet.pl/kraj/awaria-sieci-komorkowej-abonenci-playa-nie-moga-wykonywac-polaczen/f5811cb",
+      "pubDate": "Mon, 03 Nov 2025 15:48:19 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Dlaczego szef KOWR spotkał się z twórcą Dawtony? Mówi, że chodziło o kukurydzę",
       "link": "https://www.rp.pl/polityka/art43279491-dlaczego-szef-kowr-spotkal-sie-z-tworca-dawtony-mowi-ze-chodzilo-o-kukurydze",
       "pubDate": "Mon, 03 Nov 2025 16:45:23 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ukraiński system rodem z gry komputerowej zdobywa popularność na froncie",
+      "link": "https://businessinsider.com.pl/wiadomosci/ukrainska-armia-wprowadza-system-punktow-za-ataki-dronami-zolnierze-rywalizuja-jak-w/62vlcdc",
+      "pubDate": "Mon, 03 Nov 2025 15:45:22 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Znów trzęsienie ziemi w Wieczystej. Trenera już nie ma",
@@ -19,6 +49,12 @@
       "link": "https://businessinsider.com.pl/gospodarka/amerykanski-przemysl-nie-moze-nabrac-wiatru-w-zagle/lxfsbd9",
       "pubDate": "Mon, 03 Nov 2025 15:42:05 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Ostrzelane kamienice w Szczecinie. Zarzuty i areszt dla podejrzanych",
+      "link": "https://www.rmf24.pl/regiony/szczecin/news-ostrzelane-kamienice-w-szczecinie-zarzuty-i-areszt-dla-podej,nId,8037130",
+      "pubDate": "Mon, 03 Nov 2025 16:42:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Celne uderzenie na okupowanym Krymie. Rosyjskie radary zniszczone",
@@ -137,6 +173,12 @@
     {
       "title": "Ukraine: Battle for Pokrovsk intensifies as Russia avdances",
       "link": "https://www.dw.com/en/ukraine-battle-for-pokrovsk-intensifies-as-russia-avdances/a-74601014?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 3 Nov 2025 15:19:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ukraine: Battle for Pokrovsk intensifies as Russia advances",
+      "link": "https://www.dw.com/en/ukraine-battle-for-pokrovsk-intensifies-as-russia-advances/a-74601014?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 3 Nov 2025 15:19:00 GMT",
       "source": "DW"
     },
@@ -8835,10 +8877,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
