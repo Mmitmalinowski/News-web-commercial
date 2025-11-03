@@ -1,7 +1,55 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-03T01:45:23.906Z",
+  "generatedAt": "2025-11-03T03:09:22.655Z",
   "items": [
+    {
+      "title": "Kraków. Prognoza pogody w dniu 03.11.2025",
+      "link": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-03112025/w8nblys",
+      "pubDate": "Mon, 03 Nov 2025 03:04:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kielce - sprawdź prognozę pogody w dniu 03.11.2025",
+      "link": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-03112025/1x8qts6",
+      "pubDate": "Mon, 03 Nov 2025 03:03:57 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Katowice. Jaka pogoda czeka nas 03.11.2025?",
+      "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-03112025/pd2f644",
+      "pubDate": "Mon, 03 Nov 2025 03:03:44 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gorzów Wielkopolski: jaka pogoda czeka nas 03.11.2025?",
+      "link": "https://wiadomosci.onet.pl/lubuskie/gorzow-wielkopolski-prognoza-pogody-w-dniu-03112025/e6ct1sk",
+      "pubDate": "Mon, 03 Nov 2025 03:03:38 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gdańsk - prognoza pogody w dniu 03.11.2025",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/gdansk-prognoza-pogody-w-dniu-03112025/cqmthgd",
+      "pubDate": "Mon, 03 Nov 2025 03:03:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Bydgoszcz: jaka pogoda czeka nas 03.11.2025?",
+      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/bydgoszcz-prognoza-pogody-w-dniu-03112025/qwkj9pz",
+      "pubDate": "Mon, 03 Nov 2025 03:03:05 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Białystok: Jaka pogoda na dziś? Prognoza w dniu 03.11.2025",
+      "link": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-03112025/zq222my",
+      "pubDate": "Mon, 03 Nov 2025 03:03:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wagnerowcy na pograniczu z Estonią. \"To dowód\"",
+      "link": "https://wiadomosci.onet.pl/swiat/wagnerowcy-na-pograniczu-z-estonia-to-dowod/n7ydtn2",
+      "pubDate": "Mon, 03 Nov 2025 02:23:54 GMT",
+      "source": "Onet"
+    },
     {
       "title": "George Clooney says replacing Joe Biden with Kamala Harris ‘was a mistake’",
       "link": "https://www.theguardian.com/film/2025/nov/03/george-clooney-joe-biden-kamala-2024-us-election",
@@ -41,6 +89,12 @@
     {
       "title": "Afghanistan hit by magnitude-6.3 earthquake",
       "link": "https://www.dw.com/en/afghanistan-hit-by-magnitude-6-3-earthquake/a-74592151?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 3 Nov 2025 00:17:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Afghanistan hit by deadly magnitude 6.3 earthquake",
+      "link": "https://www.dw.com/en/afghanistan-hit-by-deadly-magnitude-6-3-earthquake/a-74592151?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 3 Nov 2025 00:17:00 GMT",
       "source": "DW"
     },
@@ -2631,10 +2685,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
