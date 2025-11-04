@@ -1,6 +1,6 @@
 {
   "month": "2025-09",
-  "generatedAt": "2025-11-03T23:59:50.130Z",
+  "generatedAt": "2025-11-04T02:03:17.089Z",
   "items": [
     {
       "title": "Incydenty, które trwały za długo – zapraszamy na webinar gratis",
@@ -199,6 +199,30 @@
       "link": "https://mamstartup.pl/oho-tomek-karwatka-karmi-swoim-superfoods-michal-wrzosek-pomaga-znalezc-prace-dawid-palka-grzebie-w-zakamarkach-umyslu/",
       "pubDate": "Fri, 26 Sep 2025 05:00:46 +0000",
       "source": "MamStartup"
+    },
+    {
+      "title": "Wyciek danych z jednego z serwerów Kanału ZERO",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciek-danych-z-jednego-z-serwerow-kanalu-zero/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciek-danych-z-jednego-z-serwerow-kanalu-zero/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciek-danych-z-jednego-z-serwerow-kanalu-zero/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-09-25T12:32:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciek danych z jednego z serwerów Kanału ZERO",
