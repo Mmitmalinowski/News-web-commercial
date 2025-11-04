@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T21:15:48.269Z",
+  "generatedAt": "2025-11-04T21:31:35.697Z",
   "items": [
+    {
+      "title": "Emmanuel Macron ogłosił sukces. Francuzi wyjdą z więzienia w Iranie",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-emmanuel-macron-oglosil-sukces-francuzi-wyjda-z-wiezienia-w,nId,22450984",
+      "pubDate": "Tue, 04 Nov 2025 21:19:14 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Iran releases two French nationals from detention",
+      "link": "https://www.bbc.com/news/articles/cj0en7ljzjpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 04 Nov 2025 21:12:02 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Czy AI to bańka? Wall Street zaczyna nabierać wątpliwości",
+      "link": "https://www.bankier.pl/wiadomosc/Czy-AI-to-banka-Wall-Street-zaczyna-nabierac-watpliwosci-9035051.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 22:08:00 +0100",
+      "source": "Bankier.pl"
+    },
     {
       "title": "US Senate rejects funding package for 14th time with shutdown in 35th day",
       "link": "https://www.theguardian.com/us-news/2025/nov/04/government-shutdown-35th-day-senate-funding-vote",
@@ -233,6 +251,12 @@
     {
       "title": "Jak Konfederacja zagłosuje w sprawie Ziobry?  Wipler w \"Kropce nad i\" zapowiada",
       "link": "https://tvn24.pl/polska/jak-konfederacja-zaglosuje-w-sprawie-ziobry-wipler-w-kropce-nad-i-zapowiada-st8735918?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 19:45:51 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Jak Konfederacja zagłosuje w sprawie Ziobry? Wipler zapowiada w \"Kropce nad i\" ",
+      "link": "https://tvn24.pl/polska/jak-konfederacja-zaglosuje-w-sprawie-ziobry-wipler-zapowiada-w-kropce-nad-i-st8735918?source=rss",
       "pubDate": "Tue, 04 Nov 2025 19:45:51 GMT",
       "source": "TVN24"
     },
@@ -1191,6 +1215,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Trump przestrzega przed nim nowojorskich Żydów. Ona twierdzi co innego",
+      "link": "https://tvn24.pl/swiat/wybory-w-nowym-jorku-trump-przestrzega-przed-nim-nowojorskich-zydow-ona-twierdzi-co-innego-st8735725?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 17:06:49 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Chcą zamknąć mieszkania dla turystów. Dziesiątki tysięcy osób do zwolnienia",
       "link": "https://tvn24.pl/biznes/turystyka/barcelona-chca-zamknac-mieszkania-dla-turystow-dziesiatki-tysiecy-osob-do-zwolnienia-st8735712?source=rss",
       "pubDate": "Tue, 04 Nov 2025 17:05:15 GMT",
@@ -1303,6 +1333,30 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-mon-oglasza-polska-nie-czeka-na-mur-dronow-bedziemy-miec-swo,nId,8037467",
       "pubDate": "Tue, 04 Nov 2025 17:50:34 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
@@ -21039,6 +21093,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -24878,6 +24956,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
