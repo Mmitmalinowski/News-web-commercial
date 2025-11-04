@@ -1,7 +1,307 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T05:59:03.498Z",
+  "generatedAt": "2025-11-04T06:38:12.198Z",
   "items": [
+    {
+      "title": "OpenAI zrywa z zależnością od Microsoftu i podpisuje gigantyczny kontrakt z Amazonem",
+      "link": "https://android.com.pl/tech/987800-openai-zrywa-z-zaleznoscia-microsoftu/",
+      "pubDate": "Tue, 04 Nov 2025 06:37:21 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Cyberataki na Polskę. Czy jesteśmy w stanie kontratakować? Wicepremier odpowiada",
+      "link": "https://www.rp.pl/polityka/art43283691-cyberataki-na-polske-czy-jestesmy-w-stanie-kontratakowac-wicepremier-odpowiada",
+      "pubDate": "Tue, 04 Nov 2025 07:34:33 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zmiany w zarządzie PZU Życie. Ważnych zmian kadrowych jest więcej",
+      "link": "https://www.rp.pl/ubezpieczenia/art43282301-zmiany-w-zarzadzie-pzu-zycie-waznych-zmian-kadrowych-jest-wiecej",
+      "pubDate": "Tue, 04 Nov 2025 07:34:14 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"Nadarzyła się okazja\". Terroryści zlikwidowani w dwóch atakach",
+      "link": "https://tvn24.pl/swiat/syria-wielka-brytania-wyeliminowala-terrorystow-panstwa-islamskiego-st8734171?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:32:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nieprawidłowe umowy Polaków w Norwegii. Equinor tłumaczy się z zaniedbań",
+      "link": "https://www.bankier.pl/wiadomosc/Nieprawidlowe-umowy-Polakow-w-Norwegii-Equinor-tlumaczy-sie-z-zaniedban-9034442.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 07:30:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Nie żyje Diane Ladd",
+      "link": "https://www.rp.pl/film/art43283681-nie-zyje-diane-ladd",
+      "pubDate": "Tue, 04 Nov 2025 07:28:58 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zełenski o otwarciu przedstawicielstw sprzedaży broni. Podał dwa miasta",
+      "link": "https://tvn24.pl/swiat/ukraina-wolodymyr-zelenski-otwieramy-przedstawicielstwa-sprzedazy-broni-w-berlinie-i-kopenhadze-st8734179?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:28:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sprzedaż mieszkań w Warszawie rośnie o 43 proc. Popyt wyprzedza podaż na rynku",
+      "link": "https://businessinsider.com.pl/nieruchomosci/stopy-procentowe-i-jawnosc-cen-napedzaja-sprzedaz-mieszkan-w-warszawie/lx0jdmr",
+      "pubDate": "Tue, 04 Nov 2025 06:27:56 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Apple odpalił App Store w sieci. Który mamy rok?",
+      "link": "https://spidersweb.pl/2025/11/apple-odpalil-app-store-w-sieci-ktory-mamy-rok.html",
+      "pubDate": "Tue, 04 Nov 2025 07:25:57 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Nie tylko RPO krytykuje ustawę Waldemara Żurka. Zagrożone sądy własności intelektualnej",
+      "link": "https://businessinsider.com.pl/prawo/nie-tylko-rpo-krytykuje-ustawe-waldemara-zurka-grozi-chaosem-w-sadach/hvytdhd",
+      "pubDate": "Tue, 04 Nov 2025 06:24:22 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Brakuje lekarzy medycyny sądowej. \"Na sekcję zwłok trzeba czekać nawet dwa tygodnie\"",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-brakuje-lekarzy-medycyny-sadowej-na-sekcje-zwlok-trzeba-czekac-dwa-tygodnie-st8732800?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:24:03 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rumunia kupuje F-16 za jedno euro. Samoloty posłużą do szkolenia pilotów",
+      "link": "https://www.bankier.pl/wiadomosc/Rumunia-kupuje-F-16-za-jedno-euro-Samoloty-posluza-do-szkolenia-pilotow-9034540.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 07:23:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Pokaz siły przed wizytą szefa Pentagonu. Mówią o prowokacji",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-pokaz-sily-przed-wizyta-szefa-pentagonu-mowia-o-prowokacji,nId,22450574",
+      "pubDate": "Tue, 04 Nov 2025 06:21:50 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "[QUIZ] Nie każdy potrafi poprawnie odpowiedzieć na te pytania. A Ty?",
+      "link": "https://geekweek.interia.pl/quizy/news-quiz-nie-kazdy-potrafi-poprawnie-odpowiedziec-na-te-pytania,nId,22450284",
+      "pubDate": "Tue, 04 Nov 2025 06:20:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "‘Not over’: Liberal MPs fearing calamity in city electorates launch rearguard action to salvage net zero policy",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/04/liberal-mps-fear-city-electorates-poll-save-net-zero-policy",
+      "pubDate": "Tue, 04 Nov 2025 06:19:08 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "3000 euro, by zabijać Rosjan. Media o najemnikach Kijowa",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-media-kijow-placi-najemnikom-za-zabijanie-rosjan-na-froncie-ma-ich-juz-tysiace-st8734195?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:18:54 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zagraniczne podróże Radosława Sikorskiego. Te kraje są na czele listy",
+      "link": "https://wiadomosci.onet.pl/kraj/gdzie-radoslaw-sikorski-jezdzi-za-granice-najczestsze-wizyty-szefa-msz/4xbm7fn",
+      "pubDate": "Tue, 04 Nov 2025 06:17:30 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Chrome chce numer mojego paszportu. Chyba mu podam",
+      "link": "https://spidersweb.pl/2025/11/chrome-chce-numer-paszportu.html",
+      "pubDate": "Tue, 04 Nov 2025 07:16:38 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Gromadzka: Jest dużo do zrobienia. Polski produkt jest na pierwszym miejscu",
+      "link": "https://www.bankier.pl/wiadomosc/Gromadzka-Jest-duzo-do-zrobienia-Polski-produkt-jest-na-pierwszym-miejscu-9034446.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 07:15:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Tajne eksplozje jądrowe Rosji i Chin. Stanowisko CIA",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tajne-eksplozje-jadrowe-rosji-i-chin-stanowisko-cia,nId,8037227",
+      "pubDate": "Tue, 04 Nov 2025 07:13:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nowości w KSeF 2.0. Nawet eksperci zaskoczeni zmianami. Uwaga na limity i kary",
+      "link": "https://businessinsider.com.pl/prawo/podatki/nowosci-w-ksef-20-limity-potwierdzenia-kary-sprawdz-na-co-uwazac/p2ff7qq",
+      "pubDate": "Tue, 04 Nov 2025 06:09:35 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Co z legalizacją pobytu uchodźców z Ukrainy? Kiedy będą mogli wnioskować o karty CUKR? [EKSPERT]",
+      "link": "https://oko.press/co-z-legalizacja-pobytu-uchodzcow-z-ukrainy-kiedy-beda-mogli-wnioskowac-o-karty-cukr-ekspert",
+      "pubDate": "Tue, 04 Nov 2025 06:07:27 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Donald Trump rekordowo niepopularny",
+      "link": "https://tvn24.pl/swiat/usa-donald-trump-rekordowo-niepopularny-sondaz-63-procent-amerykanow-zle-go-ocenia-st8734196?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:07:12 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polska na drodze do technologicznej rewolucji? Szefowa Microsoftu widzi potencjał w AI",
+      "link": "https://businessinsider.com.pl/gospodarka/iwona-szylar-o-transformacji-cyfrowej-polska-moze-byc-liderem-ai-w-europie/09nv5lm",
+      "pubDate": "Tue, 04 Nov 2025 06:07:04 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Sprzedaż chińskich aut szybuje. \"Liczba może sięgnąć miliona sztuk\"",
+      "link": "https://tvn24.pl/biznes/moto/chinskie-auta-w-polsce-liczba-moze-siegnac-miliona-sztuk-st8734215?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:05:24 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "OpenAI and Amazon sign $38 billion deal for AI computing power",
+      "link": "http://www.euronews.com/business/2025/11/04/openai-and-amazon-sign-38-billion-deal-for-ai-computing-power",
+      "pubDate": "Tue, 04 Nov 2025 07:05:10 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "North Korea's former ceremonial head of state dies aged 97",
+      "link": "https://www.dw.com/en/north-korea-s-former-ceremonial-head-of-state-dies-aged-97/a-74605151?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 4 Nov 2025 06:05:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 04.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-04-11-2025-7218119444716192a.html",
+      "pubDate": "Tue, 04 Nov 2025 07:03:15 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Minister edukacji aresztowany: Uczniowie nie dostali podręczników na czas",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-minister-edukacji-aresztowany-uczniowie-nie-dostali-podreczn,nId,8037225",
+      "pubDate": "Tue, 04 Nov 2025 07:03:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 04.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-04-11-2025-7218119310666400a.html",
+      "pubDate": "Tue, 04 Nov 2025 07:02:43 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Rozkręca się najważniejsza rozgrywka. Zależą od niej losy Ameryki i Zachodu",
+      "link": "https://biznes.interia.pl/felietony/news-rafal-wos-trump-wrzuca-predkosc-nadswietlna-w-sprawie-metali,nId,22450474",
+      "pubDate": "Tue, 04 Nov 2025 06:02:41 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Narkotyki w warszawskich piwnicach. Sześć osób trafiło do aresztu",
+      "link": "https://www.bankier.pl/wiadomosc/Narkotyki-w-warszawskich-piwnicach-Szesc-osob-trafilo-do-aresztu-9034532.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 07:02:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 04.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-04-11-2025-7218119118281376a.html",
+      "pubDate": "Tue, 04 Nov 2025 07:01:56 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "France treats cyber harassment differently to rest of EU. These are the other high-profile cases",
+      "link": "http://www.euronews.com/next/2025/11/04/france-treats-cyber-harassment-differently-to-rest-of-eu-these-are-the-other-high-profile-",
+      "pubDate": "Tue, 04 Nov 2025 07:01:45 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 04.11.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-04-11-2025-7218119070964320a.html",
+      "pubDate": "Tue, 04 Nov 2025 07:01:44 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Niemcy chcą dokupić myśliwce F-35A. Nowe zamówienie za 2,5 mld euro",
+      "link": "https://tech.wp.pl/s/konflikty-pl/niemcy-chca-dokupic-mysliwce-f-35a-nowe-zamowienie-za-2-5-mld-euro,7217805806254752a",
+      "pubDate": "Tue, 04 Nov 2025 07:01:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Here are the digital changes EU candidate countries are making to align with the bloc",
+      "link": "http://www.euronews.com/next/2025/11/04/here-are-the-digital-changes-eu-candidate-countries-are-making-to-align-with-the-bloc",
+      "pubDate": "Tue, 04 Nov 2025 07:00:59 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "House sales in Europe: Which markets are growing, which are slowing?",
+      "link": "http://www.euronews.com/business/2025/11/04/house-sales-in-europe-which-markets-are-growing-which-are-slowing",
+      "pubDate": "Tue, 04 Nov 2025 07:00:49 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Latest news bulletin | November 4th, 2025 – Morning",
+      "link": "http://www.euronews.com/video/2025/11/04/latest-news-bulletin-november-4th-2025-morning",
+      "pubDate": "Tue, 04 Nov 2025 07:00:33 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Can at-home gut microbiome tests really tell you anything useful?",
+      "link": "http://www.euronews.com/health/2025/11/04/can-at-home-gut-microbiome-tests-really-tell-you-anything-useful",
+      "pubDate": "Tue, 04 Nov 2025 07:00:31 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Przeszukali cztery miejsca, zatrzymali sześć osób",
+      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-narkotyki-w-czterech-lokalizacjach-szesc-osob-zatrzymanych-st8734109?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 06:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Widmo cyberataków na Polskę. Apel ministra Krzysztofa Gawkowskiego",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-widmo-cyberatakow-na-polske-apel-ministra-krzysztofa-gawkows,nId,8036993",
+      "pubDate": "Tue, 04 Nov 2025 07:00:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Dramat niepełnosprawnych: Nawet rok czekania na decyzję ws. pieniędzy",
+      "link": "https://www.rmf24.pl/fakty/polska/news-dramat-niepelnosprawnych-nawet-rok-czekania-na-decyzje-ws-pi,nId,8036160",
+      "pubDate": "Tue, 04 Nov 2025 07:00:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Chińskie auta szturmują Polskę, mniej rosyjskiej ropy i tańszy prąd w Niemczech",
+      "link": "https://www.rp.pl/biznes/art43282271-chinskie-auta-szturmuja-polske-mniej-rosyjskiej-ropy-i-tanszy-prad-w-niemczech",
+      "pubDate": "Tue, 04 Nov 2025 07:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Szefowa Microsoftu: Polska ma wszystko, by stać się liderem w wykorzystaniu AI",
+      "link": "https://www.bankier.pl/wiadomosc/Szefowa-Microsoftu-Polska-ma-wszystko-by-stac-sie-liderem-w-wykorzystaniu-AI-9034496.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 07:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Milion chińskich aut zaleje polskie drogi. \"Produkcja jest dużo tańsza\"",
+      "link": "https://www.bankier.pl/wiadomosc/Milion-chinskich-aut-zaleje-polskie-drogi-Produkcja-jest-duzo-tansza-9034495.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 07:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Studenci zabarykadowali się w sali po alarmie o napastniku. Wśród nich córka polskiego reportera",
+      "link": "https://wiadomosci.onet.pl/swiat/studenci-zabarykadowali-sie-w-sali-po-alarmie-o-napastniku-wsrod-nich-corka-polskiego/38v16zl",
+      "pubDate": "Tue, 04 Nov 2025 05:59:21 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "\"To było trudne dla obu stron\". Donald Trump się rozmyślił i znów wodzi Kijów za nos. \"Czasami trzeba pozwolić im walczyć\"",
+      "link": "https://wiadomosci.onet.pl/swiat/tak-trump-wodzi-kijow-za-nos-ciezka-wojna-dla-putina-ciezka-wojna-dla-ukrainy/yrr2qrm",
+      "pubDate": "Tue, 04 Nov 2025 05:59:03 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tesla pozwana za śmiertelny wypadek w Wisconsin. Rodzina ofiar wytyka wadę konstrukcyjną",
+      "link": "https://businessinsider.com.pl/wiadomosci/tesla-pozwana-za-smierc-pasazerow-rodzina-mowi-o-wadzie-drzwi/el23mv4",
+      "pubDate": "Tue, 04 Nov 2025 05:58:59 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Hołownia ambasadorem w Watykanie? Wiceszef MON reaguje na pogłoski",
+      "link": "https://tvn24.pl/polska/szymon-holownia-ambasadorem-w-watykanie-wiceszef-mon-reaguje-na-pogloski-st8734142?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 05:56:04 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "AI dała niespotykane wcześniej możliwości kradzieży. Przekonują się o tym fotografowie",
       "link": "https://android.com.pl/tech/986131-ai-przerabianie-zdjec-fotografowie/",
@@ -47,6 +347,12 @@
     {
       "title": "Z Goniec.pl odchodzą szef wydawców i szefowa newsroomu. Na razie nie będzie następców",
       "link": "http://www.press.pl/tresc/90123,z-goniec_pl-odchodza-szef-wydawcow-i-szefowa-newsroomu_-na-razie-nie-bedzie-nastepcow?rss=1",
+      "pubDate": "Tue, 04 Nov 2025 06:48:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "DDB Warszawa została Agencją Roku, Zenith – Agencją Mediową Roku, a McDonald's – Firmą Roku w Effie Awards 2025",
+      "link": "http://www.press.pl/tresc/90132,ddb-warszawa-zostala-agencja-roku_-zenith-----agencja-mediowa-roku_-a-mcdonald_s-----firma-roku-w-effie-awards-2025?rss=1",
       "pubDate": "Tue, 04 Nov 2025 06:48:00 +0100",
       "source": "Press.pl"
     },
@@ -489,6 +795,12 @@
       "source": "Krytyka Polityczna"
     },
     {
+      "title": "Teresa Siudem: Czy pracownik samorządowy może odmówić wykonania \"innej pracy\"?",
+      "link": "https://pro.rp.pl/administracja/art43275311-teresa-siudem-czy-pracownik-samorzadowy-moze-odmowic-wykonania-innej-pracy",
+      "pubDate": "Tue, 04 Nov 2025 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Koniec programu po trzech odcinkach. Znana dziennikarka znika z Gońca",
       "link": "https://www.wirtualnemedia.pl/malgorzata-domagalik-goniec-iberion-program-wywiad-kanal-youtube,7217955645434528a",
       "pubDate": "Tue, 04 Nov 2025 05:59:50 +0100",
@@ -553,6 +865,12 @@
       "link": "https://www.wirtualnemedia.pl/koniec-mtv-promax-vectra-rozwiazanie-umowy-wypowiedzenie-nowosci,7217963401308832a",
       "pubDate": "Tue, 04 Nov 2025 05:41:00 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Kiedy pracownik samorządowy może wykonywać inną pracę?",
+      "link": "https://pro.rp.pl/administracja/art43275321-kiedy-pracownik-samorzadowy-moze-wykonywac-inna-prace",
+      "pubDate": "Tue, 04 Nov 2025 05:40:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Albanese government deports two more men to Nauru in secret, infuriating human rights advocates",
@@ -621,6 +939,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Bezpłatny bon na szczepienie a obowiązki gminy – płatnika PIT",
+      "link": "https://pro.rp.pl/pit-rozliczenia-roczne/art43275331-bezplatny-bon-na-szczepienie-a-obowiazki-gminy-platnika-pit",
+      "pubDate": "Tue, 04 Nov 2025 05:20:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "\"Refresh Your Holidays\". AI w świątecznej kampanii Coca-Coli",
       "link": "https://www.wirtualnemedia.pl/refresh-your-holidays-ai-w-swiatecznej-kampanii-coca-coli,7217953275169376a",
       "pubDate": "Tue, 04 Nov 2025 05:19:33 +0100",
@@ -687,9 +1011,21 @@
       "source": "Business Insider"
     },
     {
+      "title": "Beneficjent to nie organ – zasady finansów publicznych kontra zwykły obywatel",
+      "link": "https://pro.rp.pl/administracja/art43275341-beneficjent-to-nie-organ-zasady-finansow-publicznych-kontra-zwykly-obywatel",
+      "pubDate": "Tue, 04 Nov 2025 05:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Wojna Rosji z Ukrainą. Dzień 1350",
       "link": "https://www.rp.pl/swiat/art43283581-wojna-rosji-z-ukraina-dzien-1350",
       "pubDate": "Tue, 04 Nov 2025 04:56:07 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Czy gmina może „pożyczyć” środki z funduszu socjalnego?",
+      "link": "https://pro.rp.pl/administracja/art43275351-czy-gmina-moze-pozyczyc-srodki-z-funduszu-socjalnego",
+      "pubDate": "Tue, 04 Nov 2025 04:50:00 +0100",
       "source": "Rzeczpospolita"
     },
     {
@@ -757,6 +1093,12 @@
       "link": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art43268181-zbrojeniowe-wzmozenie-czyli-dosypywanie-do-panstwowych-spolek-to-za-malo",
       "pubDate": "Tue, 04 Nov 2025 04:13:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Atomowy wyścig nabiera tempa. CIA: Rosja i Chiny dokonywały potajemnych prób jądrowych",
+      "link": "https://www.bankier.pl/wiadomosc/Atomowy-wyscig-nabiera-tempa-CIA-Rosja-i-Chiny-dokonywaly-potajemnych-prob-jadrowych-9034491.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 04:08:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Listopad bogaty w dotacje. Są pieniądze na cyfryzację, promocję i wodór",
@@ -927,6 +1269,12 @@
       "source": "The Guardian"
     },
     {
+      "title": "Volkswagen krwawi przez tarcia z Pekinem. Chińczycy gotowi na rozmowy ws. Nexperii",
+      "link": "https://www.bankier.pl/wiadomosc/Volkswagen-krwawi-przez-tarcia-z-Pekinem-Chinczycy-gotowi-na-rozmowy-ws-Nexperii-9034488.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 02:12:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Peru breaks diplomatic relations with Mexico",
       "link": "https://www.dw.com/en/peru-breaks-diplomatic-relations-with-mexico/a-74604428?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Tue, 4 Nov 2025 01:06:00 GMT",
@@ -957,6 +1305,12 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "Mamdani, Cuomo or Sliwa? New Yorkers on their choice for mayor",
+      "link": "https://www.bbc.com/news/videos/c77z3p76v8ko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 04 Nov 2025 00:26:43 GMT",
+      "source": "BBC News"
+    },
+    {
       "title": "Counter-terror police investigate claim UK university halted research after Chinese pressure",
       "link": "https://www.theguardian.com/education/2025/nov/04/counter-terror-police-investigate-claim-uk-university-halted-research-after-chinese-pressure",
       "pubDate": "Tue, 04 Nov 2025 00:08:37 GMT",
@@ -985,6 +1339,12 @@
       "link": "https://www.theguardian.com/media/2025/nov/04/john-lewis-christmas-advert-countdown-90s-club-classic-where-love-lives",
       "pubDate": "Tue, 04 Nov 2025 00:01:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Koniec cenzury w Strefie Gazy? USA wzywają Izrael, by wpuścił dziennikarzy",
+      "link": "https://www.bankier.pl/wiadomosc/Koniec-cenzury-w-Strefie-Gazy-USA-wzywaja-Izrael-by-wpuscil-dziennikarzy-9034486.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 4 Nov 2025 00:55:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "LA erupts in celebration after Dodgers clinch second World Series victory",
@@ -12747,10 +13107,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
