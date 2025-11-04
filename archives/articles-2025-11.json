@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T05:49:43.911Z",
+  "generatedAt": "2025-11-04T05:59:03.498Z",
   "items": [
+    {
+      "title": "AI dała niespotykane wcześniej możliwości kradzieży. Przekonują się o tym fotografowie",
+      "link": "https://android.com.pl/tech/986131-ai-przerabianie-zdjec-fotografowie/",
+      "pubDate": "Tue, 04 Nov 2025 05:55:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "NATO oczyszcza Morze Bałtyckie z min morskich",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-nato-oczyszcza-morze-baltyckie-z-min-morskich,nId,8037224",
+      "pubDate": "Tue, 04 Nov 2025 06:54:38 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "USA ujawniają nowe informacje o testach nuklearnych. Rosja i Chiny na celowniku",
+      "link": "https://businessinsider.com.pl/wiadomosci/cia-potwierdza-zarzuty-donalda-trumpa-rosja-i-chiny-mialy-przeprowadzic-tajne-proby/y5m1h7n",
+      "pubDate": "Tue, 04 Nov 2025 05:53:37 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Peru zrywa stosunki dyplomatyczne z Meksykiem. W tle sprawa byłej premier Chavez",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-peru-zrywa-stosunki-dyplomatyczne-z-meksykiem-w-tle-sprawa-b,nId,8037223",
+      "pubDate": "Tue, 04 Nov 2025 06:53:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Słabe wyniki sprzedaży Tesli w Europie. \"Różnicę tę powoduje czynnik Musk\"",
+      "link": "https://biznes.interia.pl/firma/news-tesla-traci-grunt-chinskie-marki-przejmuja-rynek-a-musk-ciaz,nId,22450530",
+      "pubDate": "Tue, 04 Nov 2025 05:50:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Program wsparcia niezależnych mediów lokalnych trafi na szybką ścieżkę",
+      "link": "http://www.press.pl/tresc/90121,program-wsparcia-niezaleznych-mediow-lokalnych-trafi-na-szybka-sciezke?rss=1",
+      "pubDate": "Tue, 04 Nov 2025 06:50:00 +0100",
+      "source": "Press.pl"
+    },
     {
       "title": "Republika chce zebrać 250 tys. zł na transmisję z uroczystości 11 listopada",
       "link": "http://www.press.pl/tresc/90122,republika-chce-zebrac-250-tys_-zl-na-transmisje-z-uroczystosci-11-listopada?rss=1",
@@ -31,6 +67,12 @@
       "link": "http://www.press.pl/tresc/90126,julita-brutus-nowa-szefowa-fremantle-w-polsce_-piotr-radzyminski-odszedl-po-25-latach?rss=1",
       "pubDate": "Tue, 04 Nov 2025 06:45:00 +0100",
       "source": "Press.pl"
+    },
+    {
+      "title": "Orban nakazał pilne śledztwo. \"Zagrożenie dla bezpieczeństwa narodowego\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-orban-nakazal-pilne-sledztwo-zagrozenie-dla-bezpieczenstwa-n,nId,22450572",
+      "pubDate": "Tue, 04 Nov 2025 05:44:07 GMT",
+      "source": "Interia"
     },
     {
       "title": "Sposoby na bezpieczeństwo w sieci. Sekcja specjalna \"Cyberbezpieczeństwo\" w \"Press\"",
@@ -1063,6 +1105,12 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-terrorysta-zginal-w-samochodzie-tak-raf-dziala-w-syrii,nId,8037193",
       "pubDate": "Mon, 03 Nov 2025 22:46:04 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "AI dyktuje warunki i zaczyna przegrzewać Wall Street. W centrum uwagi \"deal\" Amazona i OpenAI",
+      "link": "https://www.bankier.pl/wiadomosc/AI-dyktuje-warunki-i-zaczyna-przegrzewac-Wall-Street-W-centrum-uwagi-deal-Amazona-i-OpenAI-9034473.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 3 Nov 2025 22:38:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Białoruś wyśle \"siły pokojowe\" do Ukrainy? \"Będziemy gotowi\"",
@@ -12675,10 +12723,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
