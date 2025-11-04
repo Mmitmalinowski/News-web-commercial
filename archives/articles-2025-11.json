@@ -1,7 +1,55 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T20:55:26.035Z",
+  "generatedAt": "2025-11-04T21:15:48.269Z",
   "items": [
+    {
+      "title": "US Senate rejects funding package for 14th time with shutdown in 35th day",
+      "link": "https://www.theguardian.com/us-news/2025/nov/04/government-shutdown-35th-day-senate-funding-vote",
+      "pubDate": "Tue, 04 Nov 2025 21:06:41 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Brytyjski poseł chwali polskich polityków. \"Polska może prześcignąć Wielką Brytanię\"",
+      "link": "https://wiadomosci.onet.pl/swiat/brytyjski-posel-nie-ma-zludzen-polska-moze-przescignac-wielka-brytanie/bj778x0",
+      "pubDate": "Tue, 04 Nov 2025 21:02:31 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Paraliż lotniczy w Belgii. Zamknięto lotniska w Brukseli i Liege",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-04/paraliz-lotniczy-w-belgii-zamknieto-lotniska-w-brukseli-i-liege/",
+      "pubDate": "Tue, 04 Nov 2025 22:01:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Radiohead fans ‘incredibly excited’ for band’s first live show in seven years",
+      "link": "https://www.theguardian.com/music/2025/nov/04/radiohead-madrid-tour-first-live-show-seven-years",
+      "pubDate": "Tue, 04 Nov 2025 21:00:30 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Samsung podkręca jakość w telewizorach. Szykuje się zamieszanie",
+      "link": "https://spidersweb.pl/2025/11/samsung-hdr10-advanced.html",
+      "pubDate": "Tue, 04 Nov 2025 21:56:32 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Przemysł pisze list do premiera i nie przebiera w słowach. Brakuje kluczowego prawa",
+      "link": "https://energia.rp.pl/energetyka-zawodowa/art43287661-przemysl-pisze-list-do-premiera-i-nie-przebiera-w-slowach-brakuje-kluczowego-prawa",
+      "pubDate": "Tue, 04 Nov 2025 21:55:06 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Strajk głodowy Ukraińca. Jest podejrzany o wysadzenie Nord Stream",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-strajk-glodowy-ukrainca-jest-podejrzany-o-wysadzenie-nord-st,nId,22450981",
+      "pubDate": "Tue, 04 Nov 2025 20:53:34 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "House Democrat accuses Trump’s DoJ of ‘gigantic cover-up’ over shut Epstein inquiry",
+      "link": "https://www.theguardian.com/us-news/2025/nov/04/jamie-raskin-justice-department-epstein-investigation",
+      "pubDate": "Tue, 04 Nov 2025 20:52:01 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Prezes Naczelnej Rady Lekarskiej alarmuje. \"NFZ zbankrutował\"",
       "link": "https://wiadomosci.onet.pl/kraj/szpitale-przestaja-przyjmowac-pacjentow-prezes-nrl-nfz-zbankrutowal/re9ysdq",
@@ -67,6 +115,12 @@
       "link": "http://www.euronews.com/business/2025/11/04/vucic-shrugs-off-brussels-criticism-by-flaunting-economic-credentials",
       "pubDate": "Tue, 04 Nov 2025 21:22:34 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Zamknięte lotniska w Belgii. Drony w pobliżu portów lotniczych w Brukseli i Liège",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43287791-zamkniete-lotniska-w-belgii-drony-w-poblizu-portow-lotniczych-w-brukseli-i-liege",
+      "pubDate": "Tue, 04 Nov 2025 21:16:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "​Polak zamordowany w Anglii. 20 tys. funtów za informacje dla śledczych",
@@ -1249,6 +1303,30 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-mon-oglasza-polska-nie-czeka-na-mur-dronow-bedziemy-miec-swo,nId,8037467",
       "pubDate": "Tue, 04 Nov 2025 17:50:34 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
@@ -20937,6 +21015,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -24776,6 +24878,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
