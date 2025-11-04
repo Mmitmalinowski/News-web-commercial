@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T22:55:29.848Z",
+  "generatedAt": "2025-11-04T23:17:21.893Z",
   "items": [
+    {
+      "title": "Plane crashes near Louisville international airport in Kentucky",
+      "link": "https://www.theguardian.com/us-news/2025/nov/04/louisville-plane-crash-airport-kentucky-latest",
+      "pubDate": "Tue, 04 Nov 2025 23:09:33 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Były szef BBN dostał pracę w MON. Został dyrektorem jednego z departamentów",
+      "link": "https://wiadomosci.onet.pl/kraj/byly-szef-bbn-gen-dariusz-lukowski-dostal-prace-w-mon/rs07w93",
+      "pubDate": "Tue, 04 Nov 2025 23:06:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kalendarium - środa 5 listopada",
+      "link": "https://pro.rp.pl/kalendarium/art43287591-kalendarium-sroda-5-listopada",
+      "pubDate": "Wed, 05 Nov 2025 00:06:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Urząd Patentowy teraz bardziej internetowy",
+      "link": "https://cyfrowa.rp.pl/prawo/art43276961-urzad-patentowy-teraz-bardziej-internetowy",
+      "pubDate": "Wed, 05 Nov 2025 00:01:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polak znów triumfuje w konkursie Dysona. Jego wynalazek ratuje rzeki",
+      "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art43287501-polak-znow-triumfuje-w-konkursie-dysona-jego-wynalazek-ratuje-rzeki",
+      "pubDate": "Wed, 05 Nov 2025 00:01:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Edukacja pod parasolem żubra. Nauka, przyroda i integracja w jednym projekcie",
+      "link": "https://wiadomosci.onet.pl/nauka/edukacja-pod-parasolem-zubra-nauka-przyroda-i-integracja-w-jednym-projekcie/wneckvn",
+      "pubDate": "Tue, 04 Nov 2025 23:00:00 GMT",
+      "source": "Onet"
+    },
     {
       "title": "​Tragiczny pożar w domu seniora. Jest wiele ofiar",
       "link": "https://www.rmf24.pl/fakty/swiat/news-tragiczny-pozar-w-domu-seniora-jest-wiele-ofiar,nId,8037537",
@@ -1465,6 +1501,30 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-mon-oglasza-polska-nie-czeka-na-mur-dronow-bedziemy-miec-swo,nId,8037467",
       "pubDate": "Tue, 04 Nov 2025 17:50:34 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
@@ -21537,6 +21597,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -25376,6 +25460,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
