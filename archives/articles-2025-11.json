@@ -1,7 +1,73 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T09:47:20.074Z",
+  "generatedAt": "2025-11-04T09:57:11.023Z",
   "items": [
+    {
+      "title": "Jak wycenić startup w polskich warunkach?",
+      "link": "https://mamstartup.pl/jak-wycenic-startup-w-polskich-warunkach/",
+      "pubDate": "Tue, 04 Nov 2025 09:57:00 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Ten łazik może znaleźć życie na Marsie. Zjedzie po polskiej rampie",
+      "link": "https://geekweek.interia.pl/nauka/news-ten-lazik-moze-znalezc-zycie-na-marsie-zjedzie-po-polskiej-r,nId,22450673",
+      "pubDate": "Tue, 04 Nov 2025 09:55:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Zimny prysznic dla USA. Mocarstwo NATO krytykuje F-35",
+      "link": "https://tech.wp.pl/zimny-prysznic-dla-usa-mocarstwo-nato-krytykuje-f-35,7218174608808544a",
+      "pubDate": "Tue, 04 Nov 2025 10:54:17 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Jesienne seanse filmowe w domu? Z tym sprzętem poczujesz się, jak w kinie!",
+      "link": "https://tech.wp.pl/jesienne-seanse-filmowe-w-domu-z-tym-sprzetem-poczujesz-sie-jak-w-kinie,7218149312858720a",
+      "pubDate": "Tue, 04 Nov 2025 10:51:13 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "W tym miejscu paczkomatów jeszcze nie było. Nowy projekt InPostu",
+      "link": "https://businessinsider.com.pl/gospodarka/w-tym-miejscu-paczkomatow-jeszcze-nie-bylo-nowy-projekt-inpostu/mfns1jg",
+      "pubDate": "Tue, 04 Nov 2025 09:51:02 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "\"Są pierwsze ustalenia kontroli\". Minister zabiera głos",
+      "link": "https://tvn24.pl/biznes/z-kraju/dzialka-pod-cpk-sa-pierwsze-ustalenia-kontroli-minister-zabiera-glos-st8734480?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 09:51:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Google rozbiło bank. Pixel 10 sprzedaje się jak ciepłe bułeczki",
+      "link": "https://android.com.pl/tech/987784-google-pixel-10-rekordowa-sprzedaz/",
+      "pubDate": "Tue, 04 Nov 2025 09:49:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "\"Antypolityk\", który wszedł do polityki. Co zostawia po sobie Szymon Hołownia",
+      "link": "https://tvn24.pl/polska/szymon-holownia-polityczna-droga-przewodniczacego-polski-2050-co-po-sobie-zostawia-st8711286?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 09:47:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nieoficjalnie: Karol Nawrocki zdecydował w sprawie Marszu Niepodległości",
+      "link": "https://wiadomosci.onet.pl/kraj/nieoficjalnie-karol-nawrocki-zdecydowal-w-sprawie-marszu-niepodleglosci/bkdrzq3",
+      "pubDate": "Tue, 04 Nov 2025 09:47:26 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sharenting zły tak jak bicie dzieci? Tymczasem rodzice chwalą się i zarabiają na dzieciach w sieci.",
+      "link": "https://oko.press/sharenting-zly-tak-jak-bicie-dzieci",
+      "pubDate": "Tue, 04 Nov 2025 09:45:07 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Rosjanom zamyka się kolejna furtka. Revolut blokuje im konta",
+      "link": "https://businessinsider.com.pl/wiadomosci/revolut-blokuje-konta-rosjan-nowe-sankcje-juz-dzialaja/mfg0p2e",
+      "pubDate": "Tue, 04 Nov 2025 09:44:34 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Nieoficjalnie: Karol Nawrocki zdecydował, czy weźmie udział w Marszu Niepodległości",
       "link": "https://www.rp.pl/polityka/art43284301-nieoficjalnie-karol-nawrocki-zdecydowal-czy-wezmie-udzial-w-marszu-niepodleglosci",
@@ -29,6 +95,12 @@
     {
       "title": "Nekera zaprasza na otwarcie sezonu narciarskiego. Tym razem do Karyntii",
       "link": "https://turystyka.rp.pl/biura-podrozy/art43284281-nekera-zaprasza-na-otwarcie-sezonu-narciarskiego-tym-razem-do-karyntii",
+      "pubDate": "Tue, 04 Nov 2025 10:42:29 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nekera otworzy sezon narciarski. Tym razem w Karyntii",
+      "link": "https://turystyka.rp.pl/biura-podrozy/art43284281-nekera-otworzy-sezon-narciarski-tym-razem-w-karyntii",
       "pubDate": "Tue, 04 Nov 2025 10:42:29 +0100",
       "source": "Rzeczpospolita"
     },
@@ -79,6 +151,12 @@
       "link": "https://www.wirtualnemedia.pl/odswiezony-dziennik-gazeta-prawna-nowy-layout-i-format,7218171593423520a",
       "pubDate": "Tue, 04 Nov 2025 10:37:30 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "First clinical trial testing pig kidney transplants in people launches in US",
+      "link": "http://www.euronews.com/health/2025/11/04/first-clinical-trial-testing-pig-kidney-transplants-in-people-launches-in-us",
+      "pubDate": "Tue, 04 Nov 2025 10:37:29 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Planowałeś kupić Samsunga Galaxy S26? Mamy złe wieści",
@@ -433,6 +511,12 @@
       "link": "https://wydarzenia.interia.pl/blizej-europy/news-ochrona-granic-zewnetrznych-ue-palacym-problemem-frontex-zys,nId,22450652",
       "pubDate": "Tue, 04 Nov 2025 08:49:33 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Delhi's lonely African elephant was killed by rare rodent-borne virus",
+      "link": "https://www.bbc.com/news/articles/cn402xgqx8wo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 04 Nov 2025 08:49:11 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Zmarł były prymas Czech. Kardynał Dominik Duka miał 82 lata",
@@ -969,6 +1053,12 @@
       "source": "TVN24"
     },
     {
+      "title": "\"Nie jestem autorką tego bubla\". Zamieszanie wokół raportu i prac domowych",
+      "link": "https://tvn24.pl/polska/nieobowiazkowe-prace-domowe-w-szkole-bedzie-ponowna-ocena-projektu-zmian-akcja-uczniowska-instytut-badan-edukacyjnych-utracil-zaufanie-srodowiska-st8734219?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 07:17:56 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Łabędzie \"wtargnęły na jezdnię\". Kierowca uderzył w drzewo",
       "link": "https://tvn24.pl/olsztyn/muntowo-labedzie-na-drodze-kierowca-uderzyl-w-drzewo-st8734277?source=rss",
       "pubDate": "Tue, 04 Nov 2025 07:16:41 GMT",
@@ -1265,6 +1355,12 @@
     {
       "title": "Zmiany w zarządzie PZU Życie. Ważnych zmian kadrowych jest więcej",
       "link": "https://www.rp.pl/ubezpieczenia/art43282301-zmiany-w-zarzadzie-pzu-zycie-waznych-zmian-kadrowych-jest-wiecej",
+      "pubDate": "Tue, 04 Nov 2025 07:34:14 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zmiany w zarządzie PZU Życie. i PZU Zdrowie. Ważnych zmian kadrowych jest więcej",
+      "link": "https://www.rp.pl/ubezpieczenia/art43282301-zmiany-w-zarzadzie-pzu-zycie-i-pzu-zdrowie-waznych-zmian-kadrowych-jest-wiecej",
       "pubDate": "Tue, 04 Nov 2025 07:34:14 +0100",
       "source": "Rzeczpospolita"
     },
@@ -2647,6 +2743,18 @@
       "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43283531-srodkowa-dalmacja-promowala-sie-w-warszawie-przyjedzcie-do-nas-na-marende",
       "pubDate": "Tue, 04 Nov 2025 01:49:37 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "India's weight-loss drug boom - and the risks behind it",
+      "link": "https://www.bbc.com/news/articles/c5yplj4j0l5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 04 Nov 2025 00:49:25 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "He made his money selling camels and gold. Now this warlord controls half of Sudan",
+      "link": "https://www.bbc.com/news/articles/c3vn17r29v9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 04 Nov 2025 00:42:27 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Mamdani, Cuomo or Sliwa? New Yorkers on their choice for mayor",
@@ -14715,10 +14823,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
