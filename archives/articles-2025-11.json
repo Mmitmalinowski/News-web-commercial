@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T19:29:14.700Z",
+  "generatedAt": "2025-11-04T19:40:34.456Z",
   "items": [
+    {
+      "title": "Android Auto nie dla każdego. Za chwilę Google zablokuje te dostępy",
+      "link": "https://android.com.pl/tech/988092-android-auto-nie-dla-kazdego/",
+      "pubDate": "Tue, 04 Nov 2025 19:40:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Ukraine, Russia report fighting for logistics hub Pokrovsk",
+      "link": "https://www.dw.com/en/ukraine-russia-report-fighting-for-logistics-hub-pokrovsk/a-74616718?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 4 Nov 2025 19:39:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Magia zawarta w pojedynczych słowach: jak Japończycy opisują unikalne zjawiska?",
+      "link": "https://kobieta.rp.pl/kultura/art43279381-magia-zawarta-w-pojedynczych-slowach-jak-japonczycy-opisuja-unikalne-zjawiska",
+      "pubDate": "Tue, 04 Nov 2025 20:38:55 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Niedźwiedź na dłużej utknął w kurniku. Zostały tylko pióra i on",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-niedzwiedz-na-dluzej-utknal-w-kurniku-zostaly-tylko-piora-i-,nId,8037504",
+      "pubDate": "Tue, 04 Nov 2025 20:34:05 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Exclusive: Zelenskyy says 'Ukraine's future is in the European Union'",
+      "link": "http://www.euronews.com/my-europe/2025/11/04/exclusive-zelenskyy-says-our-future-is-in-the-european-union",
+      "pubDate": "Tue, 04 Nov 2025 20:32:56 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Orange z rozmachem rozszerza światłowód 8 Gb/s. Załapiesz się?",
+      "link": "https://spidersweb.pl/2025/11/orange-rozszerza-swiatlowod-8-gb-s.html",
+      "pubDate": "Tue, 04 Nov 2025 20:32:23 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "November supermoon to shine brightest and closest of the year",
+      "link": "http://www.euronews.com/video/2025/11/04/november-supermoon-to-shine-brightest-and-closest-of-the-year",
+      "pubDate": "Tue, 04 Nov 2025 20:27:15 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Rekordowy październik w Hongkongu",
       "link": "https://tvn24.pl/tvnmeteo/swiat/rekordowy-pazdziernik-w-hongkongu-st8735895?source=rss",
@@ -15,6 +57,12 @@
       "source": "Android.com.pl"
     },
     {
+      "title": "Ukrainiec podejrzany ws. ataku na Nord Stream prowadzi głodówkę",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-ukrainiec-podejrzany-ws-ataku-na-nord-stream-prowadzi-glodow,nId,8037500",
+      "pubDate": "Tue, 04 Nov 2025 20:23:00 +0100",
+      "source": "RMF24"
+    },
+    {
       "title": "\"Raport międzynarodowy\". Białoruska rewolucja była buntem naiwnych? \"Game over\"",
       "link": "https://wiadomosci.onet.pl/swiat/raport-miedzynarodowy-bialoruska-rewolucja-byla-buntem-naiwnych-game-over/g7v2snh",
       "pubDate": "Tue, 04 Nov 2025 19:22:25 GMT",
@@ -25,6 +73,18 @@
       "link": "https://tvn24.pl/polska/grzegorz-braun-z-nagroda-od-propagandowej-bialoruskiej-fundacji-najlepszy-dowod-na-to-w-czyim-interesie-dziala-st8735943?source=rss",
       "pubDate": "Tue, 04 Nov 2025 19:22:07 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Grzegorz Braun z nagrodą od propagandowej białoruskiej fundacji. \"Dowód, w czyim interesie działa\"",
+      "link": "https://tvn24.pl/polska/grzegorz-braun-z-nagroda-od-propagandowej-bialoruskiej-fundacji-dowod-w-czyim-interesie-dziala-st8735943?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 19:22:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Maine’s largest healthcare system informed still-living patients of their own deaths",
+      "link": "https://www.theguardian.com/us-news/2025/nov/04/mainehealth-death-notices",
+      "pubDate": "Tue, 04 Nov 2025 19:21:40 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "\"To pomaga na skołatane nerwy\". Minister odpowiada Kaczyńskiemu",
@@ -913,6 +973,30 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-mon-oglasza-polska-nie-czeka-na-mur-dronow-bedziemy-miec-swo,nId,8037467",
       "pubDate": "Tue, 04 Nov 2025 17:50:34 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
@@ -20313,6 +20397,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -24152,6 +24260,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
