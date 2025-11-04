@@ -1,7 +1,85 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T14:44:41.714Z",
+  "generatedAt": "2025-11-04T14:56:44.586Z",
   "items": [
+    {
+      "title": "Ukradł pieniądze z kościelnej skarbony. Wszystko nagrała kamera",
+      "link": "https://tvn24.pl/poznan/nowe-skalmierzyce-kradziez-datkow-ze-skarbony-w-kaplicy-nagranie-st8735367?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 14:51:15 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Brak sygnału na ekranie? W tych dniach telewizja będzie czasowo wyłączona",
+      "link": "https://geekweek.interia.pl/technologia/news-trzy-dni-bez-telewizji-naziemnej-i-czarny-ekran-co-sie-dziej,nId,22450802",
+      "pubDate": "Tue, 04 Nov 2025 14:49:38 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Łukaszenka traci nerwy, stawia na odwet. \"Zniecierpliwienie decyzją Polski\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-lukaszenka-sie-niecierpliwi-to-uderzenie-w-litwinow-dla-pols,nId,22450829",
+      "pubDate": "Tue, 04 Nov 2025 14:49:20 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Już mieli odpływać. Znaleźli gatunek niewidziany od 40 lat",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/juz-mieli-odplywac-znalezli-gatunek-niewidziany-od-40-lat-st8735457?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 14:49:14 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Orbán's veto on Ukraine's EU bid provides 'specific support' to Putin, Zelenskyy says",
+      "link": "http://www.euronews.com/my-europe/2025/11/04/orbans-veto-on-ukraines-eu-bid-provides-specific-support-to-putin-zelenskyy-says",
+      "pubDate": "Tue, 04 Nov 2025 15:48:35 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Potężny wyciek ropy na Morzu Czarnym. Plama na kilka kilometrów",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-potezny-wyciek-ropy-na-morzu-czarnym-plama-na-kilka-kilometr,nId,8037434",
+      "pubDate": "Tue, 04 Nov 2025 15:46:53 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Jak rozpoznać wideo stworzone przez AI? Jeden element jest kluczowy",
+      "link": "https://android.com.pl/tech/987896-jak-rozpoznac-wideo-stworzone-przez-ai/",
+      "pubDate": "Tue, 04 Nov 2025 14:45:50 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Przyszłość ESA zależy od tego projektu. Start już dziś",
+      "link": "https://antyweb.pl/przyszlosc-esa-zalezy-od-tego-projektu-start-juz-dzis",
+      "pubDate": "Tue, 04 Nov 2025 14:45:16 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga na ten suplement. Długotrwałe przyjmowanie może szkodzić sercu",
+      "link": "https://tvn24.pl/zdrowie/uwaga-na-ten-suplement-diety-dlugotrwale-przyjmowanie-melatoniny-moze-szkodzic-sercu-st8735534?source=rss",
+      "pubDate": "Tue, 04 Nov 2025 14:45:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ukraina może dołączyć do UE, ale pod jednym warunkiem. \"Czerwona linia\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-ukraina-moze-dolaczyc-do-ue-ale-pod-jednym-warunkiem-czerwon,nId,22450860",
+      "pubDate": "Tue, 04 Nov 2025 14:44:22 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Dokonał \"skoku stulecia\". Fałszywy konwojent wyszedł na wolność. \"Przestępca idealny\"",
+      "link": "https://wiadomosci.onet.pl/kraj/dokonal-skoku-stulecia-konwojent-po-osmiu-latach-wyszedl-na-wolnosc/253lp96",
+      "pubDate": "Tue, 04 Nov 2025 14:43:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Legendarny piłkarz z tytułem szlacheckim. \"Nie mógłbym być bardziej dumny\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-04/legendarny-angielski-pilkarz-z-tytulem-szlacheckim-nie-moglbym-byc-bardziej-dumny/",
+      "pubDate": "Tue, 04 Nov 2025 15:43:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Jarosław Kaczyński zabrał głos po rozprawie. \"Oczom nie mogłem uwierzyć\"",
+      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-zabral-glos-po-rozprawie-oczom-nie-moglem-uwierzyc/we1j8vv",
+      "pubDate": "Tue, 04 Nov 2025 14:42:04 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Rozpoczął się wielki marsz związkowców. Paraliż na ulicach",
       "link": "https://www.rmf24.pl/regiony/slaskie/news-rozpoczal-sie-wielki-marsz-zwiazkowcow-paraliz-na-ulicach,nId,8037439",
@@ -249,6 +327,12 @@
       "source": "Onet"
     },
     {
+      "title": "Nowy wątek w sprawie starodruków ukradzionych z biblioteki UW. Trop prowadzi do Rosji",
+      "link": "https://wiadomosci.onet.pl/warszawa/nowy-watek-kradziezy-starodrukow-z-biblioteki-uw-trop-prowadzi-do-rosji/zbnw8yd",
+      "pubDate": "Tue, 04 Nov 2025 14:09:31 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "\"Ewa mówiła, że ma nowotwór i potrzebuje pieniędzy\". Kulisy wyłudzeń w poznańskim zoo",
       "link": "https://wiadomosci.onet.pl/poznan/sledztwo-przeciwko-ewie-zgrabczynskiej-w-tle-fikcyjne-faktury-na-leczenie-raka/d36ed3j",
       "pubDate": "Tue, 04 Nov 2025 14:09:10 GMT",
@@ -453,6 +537,12 @@
       "source": "Onet"
     },
     {
+      "title": "Oblężenie Jasnej Góry. Prawda była zupełnie inna",
+      "link": "https://wiadomosci.onet.pl/slask/oblezenie-jasnej-gory-prawda-byla-zupelnie-inna/jnnh6cz",
+      "pubDate": "Tue, 04 Nov 2025 13:47:00 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Google usuwa model AI. Oskarżył senatorkę o napaść na tle seksualnym",
       "link": "https://geekweek.interia.pl/internet/news-google-usuwa-model-ai-oskarzyl-senatorke-o-napasc-na-tle-sek,nId,22450695",
       "pubDate": "Tue, 04 Nov 2025 13:45:37 GMT",
@@ -527,6 +617,12 @@
     {
       "title": "Nowy Jork wybiera burmistrza. Czy są powody do radości?",
       "link": "https://krytykapolityczna.pl/archiwum/nowy-jork-wybiera-burmistrza-zohran-mamdani-andrew-cuomo/",
+      "pubDate": "Tue, 04 Nov 2025 13:36:46 +0000",
+      "source": "Krytyka Polityczna"
+    },
+    {
+      "title": "Nowy Jork wybiera burmistrza. Czy są powody do radości?",
+      "link": "https://krytykapolityczna.pl/swiat/nowy-jork-wybiera-burmistrza-zohran-mamdani-andrew-cuomo/",
       "pubDate": "Tue, 04 Nov 2025 13:36:46 +0000",
       "source": "Krytyka Polityczna"
     },
@@ -683,6 +779,12 @@
     {
       "title": "Zabójstwo Białorusinki w Warszawie. Sąd podjął decyzję w sprawie Doriana S.",
       "link": "https://wiadomosci.onet.pl/kraj/zabojstwo-25-letniej-lizy-w-warszawie-sad-podjal-decyzje-w-sprawie-doriana-s/6bqr164",
+      "pubDate": "Tue, 04 Nov 2025 13:19:15 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zabójstwo 25-letniej Lizy w Warszawie. Sąd podjął decyzję w sprawie Doriana S.",
+      "link": "https://wiadomosci.onet.pl/warszawa/zabojstwo-25-letniej-lizy-w-warszawie-sad-podjal-decyzje-w-sprawie-doriana-s/1sp7x02",
       "pubDate": "Tue, 04 Nov 2025 13:19:15 GMT",
       "source": "Onet"
     },
@@ -17715,10 +17817,58 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
