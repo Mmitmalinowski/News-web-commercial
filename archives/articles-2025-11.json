@@ -1,12 +1,36 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-05T19:42:19.775Z",
+  "generatedAt": "2025-11-05T19:51:26.582Z",
   "items": [
+    {
+      "title": "Nowy sondaż w sprawie afery wokół CPK. Polacy ocenili tłumaczenia Roberta Telusa",
+      "link": "https://businessinsider.com.pl/wiadomosci/nowy-sondaz-w-sprawie-cpk-polacy-ocenili-tlumaczenia-posla-pis-roberta-telusa/0hdffhk",
+      "pubDate": "Wed, 05 Nov 2025 19:47:52 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Portugal intercepts narco-submarine carrying 1.7 tonnes of cocaine en route to Iberian peninsula",
+      "link": "http://www.euronews.com/2025/11/05/portugal-intercepts-narco-submarine-carrying-17-tonnes-of-cocaine-en-route-to-iberian-peni",
+      "pubDate": "Wed, 05 Nov 2025 20:46:01 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Australia politics live: union warns banks to respect WFH requests; NSW Nationals expected to scrap net zero pledge",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/06/australia-politics-live-wfh-working-from-home-banks-net-zero-nationals-liberals-coalition-sussan-ley-anthony-albanese-labor-question-time-ntwnfb",
+      "pubDate": "Wed, 05 Nov 2025 19:41:25 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Przełomowa sprawa dotycząca ceł Trumpa. \"To po prostu nieprawdopodobne\"",
       "link": "https://tvn24.pl/biznes/ze-swiata/usa-waza-sie-losy-cel-trumpa-przelomowa-sprawa-st8737888?source=rss",
       "pubDate": "Wed, 05 Nov 2025 19:39:41 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Srebrny Glob najbliżej Ziemi. Oto superpełnia Księżyca",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-srebrny-glob-najblizej-ziemi-oto-superpelnia-ksiezyca,nId,8038066",
+      "pubDate": "Wed, 05 Nov 2025 20:37:19 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Kolejny więzień zwolniony przez pomyłkę. Trwają poszukiwania",
@@ -3589,6 +3613,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/w-2007-r-do-domu-czarzastego-wpadli-antyterrorysci-ziobro-pamietasz/gkr71n0",
       "pubDate": "Wed, 05 Nov 2025 11:29:30 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
@@ -11012,6 +11060,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -32529,6 +32601,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -36368,6 +36464,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
