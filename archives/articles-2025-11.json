@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-05T21:19:11.351Z",
+  "generatedAt": "2025-11-05T21:32:21.405Z",
   "items": [
+    {
+      "title": "Komisja Europejska nie zbacza z celu redukcji emisji CO2",
+      "link": "https://logistyka.rp.pl/regulacje-ue/art43295131-komisja-europejska-nie-zbacza-z-celu-redukcji-emisji-co2",
+      "pubDate": "Wed, 05 Nov 2025 22:28:34 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"Onet Rano\" | 06.11",
+      "link": "https://wiadomosci.onet.pl/kraj/areszt-dla-ziobry-awantura-o-rymanowskiego-wyczyn-bargiela/p58djpk",
+      "pubDate": "Wed, 05 Nov 2025 21:24:36 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sephora łączy siły z Mariah Carey w świątecznej kampanii „Give Something Beautiful”",
+      "link": "https://www.wirtualnemedia.pl/sephora-laczy-sily-z-mariah-carey-w-swiatecznej-kampanii-give-something-beautiful,7218552834648736a",
+      "pubDate": "Wed, 05 Nov 2025 22:22:33 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
     {
       "title": "MEPs clash over the topic of EU enlargement on the premiere of \"The Ring\"",
       "link": "http://www.euronews.com/my-europe/2025/11/05/meps-clash-over-the-topic-of-eu-enlargement-on-the-premiere-of-the-ring",
@@ -419,6 +437,12 @@
     {
       "title": "Masowa śmierć u wybrzeży największego jeziora świata",
       "link": "https://tvn24.pl/tvnmeteo/najnowsze/kazachstan-nerpa-kaspijska-masowa-smierc-fok-to-nie-pierwsza-st8737868?source=rss",
+      "pubDate": "Wed, 05 Nov 2025 19:08:53 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Masowa śmierć u wybrzeży największego jeziora świata",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/kazachstan-nerpa-kaspijska-masowa-smierc-fok-to-nie-pierwsza-st8737868?source=rss",
       "pubDate": "Wed, 05 Nov 2025 19:08:53 GMT",
       "source": "TVN24"
     },
@@ -3303,6 +3327,12 @@
       "source": "RMF24"
     },
     {
+      "title": "Myślałeś, że są zdrowe? Zobacz, co znaleziono w warzywach i owocach z lokalnych upraw",
+      "link": "https://www.rmf24.pl/badz-fit/zdrowe-odzywianie/news-myslales-ze-sa-zdrowe-zobacz-co-znaleziono-w-warzywach-i-owo,nId,8037948",
+      "pubDate": "Wed, 05 Nov 2025 13:30:36 +0100",
+      "source": "RMF24"
+    },
+    {
       "title": "Rosja zapowiada pomoc Wenezueli. W grze pociski nuklearne",
       "link": "https://wydarzenia.interia.pl/zagranica/news-rosja-zapowiada-pomoc-wenezueli-w-grze-pociski-nuklearne,nId,22451230",
       "pubDate": "Wed, 05 Nov 2025 12:30:07 GMT",
@@ -3871,6 +3901,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/w-2007-r-do-domu-czarzastego-wpadli-antyterrorysci-ziobro-pamietasz/gkr71n0",
       "pubDate": "Wed, 05 Nov 2025 11:29:30 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
@@ -11438,6 +11492,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -33243,6 +33321,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -37082,6 +37184,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
