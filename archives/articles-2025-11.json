@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-04T23:52:42.143Z",
+  "generatedAt": "2025-11-05T00:49:04.786Z",
   "items": [
+    {
+      "title": "\"Szepty mroku\" powracają. Trzeci sezon thrillera noir AMC odkrywa mroczne tajemnice pustyni",
+      "link": "https://www.wirtualnemedia.pl/szepty-mroku-powracaja-trzeci-sezon-thrillera-noir-amc-odkrywa-mroczne-tajemnice-pustyni,7218221077129888a",
+      "pubDate": "Wed, 05 Nov 2025 01:43:57 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "UPS cargo plane crashes in Louisville, Kentucky",
+      "link": "https://www.dw.com/en/ups-cargo-plane-crashes-in-louisville-kentucky/a-74620085?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 5 Nov 2025 00:09:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "AI study gives insights into why super-recognisers excel at identifying faces",
+      "link": "https://www.theguardian.com/science/2025/nov/05/ai-research-super-recognisers-identify-faces",
+      "pubDate": "Wed, 05 Nov 2025 00:01:12 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "New set of forest towns to be built between Oxford and Cambridge",
+      "link": "https://www.theguardian.com/environment/2025/nov/05/new-set-of-forest-towns-to-be-built-between-oxford-and-cambridge",
+      "pubDate": "Wed, 05 Nov 2025 00:01:10 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Telecoms companies to improve security to stop UK phone number ‘spoofing’",
+      "link": "https://www.theguardian.com/business/2025/nov/05/phone-companies-uk-agreement-security-number-spoofing-calls-fraud",
+      "pubDate": "Wed, 05 Nov 2025 00:01:09 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Katastrofa samolotu w USA. Rozbił się tuż po starcie",
       "link": "https://wydarzenia.interia.pl/zagranica/news-katastrofa-samolotu-w-usa-rozbil-sie-tuz-po-starcie,nId,22451001",
@@ -17,6 +47,12 @@
     {
       "title": "Samolot rozbił się w pobliżu lotniska w Kentucky. Strażacy walczą z ogniem",
       "link": "https://wiadomosci.onet.pl/swiat/samolot-rozbil-sie-w-poblizu-lotniska-w-kentucky-strazacy-walcza-z-ogniem/bw2rdk0",
+      "pubDate": "Tue, 04 Nov 2025 23:28:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Samolot transportowy rozbił się w Kentucky. Chmura dymu nad lotniskiem",
+      "link": "https://wiadomosci.onet.pl/swiat/samolot-rozbil-sie-w-kentucky-w-usa-chmura-dymu-nad-lotniskiem/bw2rdk0",
       "pubDate": "Tue, 04 Nov 2025 23:28:08 GMT",
       "source": "Onet"
     },
@@ -37,6 +73,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/byly-szef-bbn-gen-dariusz-lukowski-dostal-prace-w-mon/rs07w93",
       "pubDate": "Tue, 04 Nov 2025 23:06:46 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Six takeaways from Canada's federal budget",
+      "link": "https://www.bbc.com/news/articles/ce8zzv1ypkpo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 04 Nov 2025 23:06:44 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Kalendarium - środa 5 listopada",
@@ -1525,6 +1567,30 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-mon-oglasza-polska-nie-czeka-na-mur-dronow-bedziemy-miec-swo,nId,8037467",
       "pubDate": "Tue, 04 Nov 2025 17:50:34 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
@@ -21789,6 +21855,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -25628,6 +25718,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
