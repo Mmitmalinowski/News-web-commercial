@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-06T05:39:36.152Z",
+  "generatedAt": "2025-11-06T05:49:43.917Z",
   "items": [
+    {
+      "title": "Stopy procentowe w dół. Tak skurczy się miesięczna rata kredytu",
+      "link": "https://www.money.pl/banki/stopy-procentowe-w-dol-tak-skurczy-sie-miesieczna-rata-kredytu-7218820017449760a.html",
+      "pubDate": "Thu, 06 Nov 2025 06:47:56 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "PKO BP przebił prognozy analityków. Prezes podkreśla wynik kredytowy",
+      "link": "https://businessinsider.com.pl/gielda/bank-pko-bp-pokazal-wyniki-przebil-oczekiwania-analitykow/db1ftt4",
+      "pubDate": "Thu, 06 Nov 2025 05:45:19 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Katastrofa samolotu transportowego w USA. Nowe informacje",
+      "link": "https://wiadomosci.onet.pl/swiat/katastrofa-samolotu-transportowego-w-kentucky-nowe-informacje/4542q26",
+      "pubDate": "Thu, 06 Nov 2025 05:43:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nalot na żłobek. \"Scena, której nie zapomnimy\"",
+      "link": "https://tvn24.pl/swiat/usa-agenci-imigracyjni-wtargneli-do-zlobka-w-chicago-aresztowali-nauczycielke-st8738203?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 05:43:28 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Miliardy nie trafiają do budżetów lokalnych. Miasta wybierają ostrożność",
+      "link": "https://biznes.interia.pl/podatki/news-miliardy-zlotych-moglyby-zasilic-lokalne-budzety-wiele-samor,nId,22451481",
+      "pubDate": "Thu, 06 Nov 2025 05:43:00 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Kiedyś większość z nas robiła tam zakupy. Sklepy znikają jeden po drugim",
+      "link": "https://biznes.interia.pl/gospodarka/news-kiedys-wiekszosc-z-nas-robila-tam-zakupy-w-2024-r-zniknelo-8,nId,22451348",
+      "pubDate": "Thu, 06 Nov 2025 05:40:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "O włos od tragedii. Auto stanęło niemal na sztorc",
+      "link": "https://www.rmf24.pl/regiony/wroclaw/news-o-wlos-od-tragedii-auto-stanelo-niemal-na-sztorc,nId,8038106",
+      "pubDate": "Thu, 06 Nov 2025 06:40:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "\"Kontrowersyjny plan\" i \"opór społeczny\". Komu przeszkadza tramwaj skrajem Pola Mokotowskiego",
       "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-tramwaj-na-rostafinskich-przez-pole-mokotowskie-kontrowersje-protesty-st8731705?source=rss",
@@ -5029,6 +5071,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/w-2007-r-do-domu-czarzastego-wpadli-antyterrorysci-ziobro-pamietasz/gkr71n0",
       "pubDate": "Wed, 05 Nov 2025 11:29:30 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
@@ -13076,6 +13142,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -35841,6 +35931,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -39680,6 +39794,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
