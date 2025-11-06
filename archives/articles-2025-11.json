@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-06T07:33:12.015Z",
+  "generatedAt": "2025-11-06T07:43:50.694Z",
   "items": [
+    {
+      "title": "Ta część Krakowa będzie sparaliżowana. Od soboty zamknięcie ul. Dobrego Pasterza",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-ta-czesc-krakowa-bedzie-sparalizowana-od-soboty-zamkniecie-u,nId,8038132",
+      "pubDate": "Thu, 06 Nov 2025 08:38:13 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Upiekli w kosmosie kurczaka. Przełom po latach jedzenia z tubek",
+      "link": "https://spidersweb.pl/2025/11/chinscy-astronauci-pieczony-kurczak-w-kosmosie.html",
+      "pubDate": "Thu, 06 Nov 2025 08:34:28 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Rodzinny przemyt dużymi dronami. Chcieli wysłać papierosy do Polski",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-rodzinny-przemyt-duzymi-dronami-chcieli-wyslac-papierosy-do-,nId,8038131",
+      "pubDate": "Thu, 06 Nov 2025 08:33:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Co z przyszłością Zbigniewa Ziobry? Polacy zabrali głos [SONDAŻ]",
+      "link": "https://businessinsider.com.pl/wiadomosci/sejm-decyduje-o-immunitecie-ziobry-polacy-podzieleni-sondaz/0qrskt1",
+      "pubDate": "Thu, 06 Nov 2025 07:31:43 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Japończycy odcinają się Chinom. Oni też mogą dobrze i tanio",
       "link": "https://antyweb.pl/japonczycy-odcinaja-sie-chinom-oni-tez-moga-dobrze-i-tanio",
@@ -25,6 +49,12 @@
       "link": "https://logistyka.rp.pl/firmy/art43296571-czy-chinczycy-wejda-w-unijny-rynek-kurierski",
       "pubDate": "Thu, 06 Nov 2025 08:23:38 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Bob Katter painted in flattering light as portrait unveiled after 50 colourful years in politics",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/06/bob-katter-portrait-after-50-years-in-australian-politics",
+      "pubDate": "Thu, 06 Nov 2025 07:22:32 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Kończą z węglem kamiennym po 250 latach. Zamykają ostatnią kopalnię",
@@ -2789,6 +2819,12 @@
     {
       "title": "Wielki sojusznik Rosji postawił na Chiny. Policzek dla Putina",
       "link": "https://geekweek.interia.pl/militaria/news-wielki-sojusznik-rosji-postawil-na-chiny-policzek-dla-putina,nId,22451399",
+      "pubDate": "Wed, 05 Nov 2025 18:04:08 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Wielki sojusznik Rosji postawił na Chiny. Policzek dla Putina",
+      "link": "https://geekweek.interia.pl/militaria/news-azerbejdzan-odwraca-sie-od-rosji-stawia-na-chinska-bron,nId,22451399",
       "pubDate": "Wed, 05 Nov 2025 18:04:08 GMT",
       "source": "GeekWeek"
     },
@@ -7149,6 +7185,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -9173,6 +9233,12 @@
     {
       "title": "Korea Północna rozpoczęła przerzut żołnierzy. Są ich tysiące!",
       "link": "https://geekweek.interia.pl/militaria/news-korea-polnocna-rozpoczela-przerzut-zolnierzy-sa-ich-tysiace,nId,22451026",
+      "pubDate": "Wed, 05 Nov 2025 07:20:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Tysiące żołnierzy Korei Północnej już w Rosji, kolejni w drodze",
+      "link": "https://geekweek.interia.pl/militaria/news-tysiace-zolnierzy-korei-polnocnej-juz-w-rosji-kolejni-w-drod,nId,22451026",
       "pubDate": "Wed, 05 Nov 2025 07:20:03 GMT",
       "source": "GeekWeek"
     },
@@ -14042,6 +14108,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -37095,6 +37185,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -40934,6 +41048,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
