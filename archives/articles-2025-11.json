@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-06T05:49:43.917Z",
+  "generatedAt": "2025-11-06T05:59:25.167Z",
   "items": [
+    {
+      "title": "Produkowali 2 tys. materacy dziennie. Fabryka upadła",
+      "link": "https://www.money.pl/gospodarka/produkowali-2-tys-materacy-dziennie-zaklad-upadl-7218819102808864a.html",
+      "pubDate": "Thu, 06 Nov 2025 06:55:55 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Wydawnictwo Harde bierze na siebie odpowiedzialność za błędy w książce Karoliny Opolskiej",
+      "link": "http://www.press.pl/tresc/90170,wydawnictwo-harde-bierze-na-siebie-odpowiedzialnosc-za-bledy-w-ksiazce-karoliny-opolskiej?rss=1",
+      "pubDate": "Thu, 06 Nov 2025 06:54:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "TVP zapowiedziała, że ogranicza współpracę z szefową Rady Programowej, choć władze spółki i tak nie uczestniczą w jej posiedzeniach",
+      "link": "http://www.press.pl/tresc/90171,tvp-zapowiedziala_-ze-ogranicza-wspolprace-z-szefowa-rady-programowej_-choc-wladze-spolki-i-tak-nie-uczestnicza-w-jej-posiedzeniach?rss=1",
+      "pubDate": "Thu, 06 Nov 2025 06:54:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "\"Dzień dobry TVN\" w październiku utrzymał pozycję lidera wśród programów śniadaniowych",
+      "link": "http://www.press.pl/tresc/90172,_dzien-dobry-tvn_-w-pazdzierniku-utrzymal-pozycje-lidera-wsrod-programow-sniadaniowych?rss=1",
+      "pubDate": "Thu, 06 Nov 2025 06:54:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Duży problem rosyjskiego kosmodromu. Dostawca odciął prąd",
+      "link": "https://wiadomosci.onet.pl/swiat/duzy-problem-rosyjskiego-kosmodromu-dostawca-odcial-prad/42f6k3f",
+      "pubDate": "Thu, 06 Nov 2025 05:53:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Spółki Wyborcza i Gazeta.pl będę miały wspólny zarząd. Prezeską Aleksandra Sobczak",
+      "link": "http://www.press.pl/tresc/90169,spolki-wyborcza-i-gazeta_pl-bede-mialy-wspolny-zarzad_-prezeska aleksandra-sobczak?rss=1",
+      "pubDate": "Thu, 06 Nov 2025 06:53:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Zegarek z Wear OS będzie działał dłużej. Wystarczy zmienić te opcje",
+      "link": "https://android.com.pl/tech/988392-wycisnij-wear-os-bateria-opcje/",
+      "pubDate": "Thu, 06 Nov 2025 05:51:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Ważne dla dłużników. Przepisanie majątku może wręcz pogorszyć sytuację",
+      "link": "https://biznes.interia.pl/jak-to-rozliczyc/news-czy-przepisanie-majatku-na-malzonka-uchroni-go-przed-zajecie,nId,22451309",
+      "pubDate": "Thu, 06 Nov 2025 05:50:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Problemy z lotami w USA. Będą cięcia",
+      "link": "https://businessinsider.com.pl/wiadomosci/problemy-z-lotami-w-usa-beda-ciecia/4f099d4",
+      "pubDate": "Thu, 06 Nov 2025 05:49:56 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Stopy procentowe w dół. Tak skurczy się miesięczna rata kredytu",
       "link": "https://www.money.pl/banki/stopy-procentowe-w-dol-tak-skurczy-sie-miesieczna-rata-kredytu-7218820017449760a.html",
@@ -1051,6 +1105,12 @@
       "link": "https://www.rmf24.pl/sport/pilka-nozna/news-szczesny-trzy-razy-wyciagal-pilke-z-siatki-ale-jego-druzyna-,nId,8038099",
       "pubDate": "Wed, 05 Nov 2025 23:50:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Giełdy w USA kończą dzień wzrostami. Spółki z branży AI odrobiły straty",
+      "link": "https://www.bankier.pl/wiadomosc/Gieldy-w-USA-koncza-dzien-wzrostami-Spolki-z-branzy-AI-odrobily-straty-9035670.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 5 Nov 2025 23:50:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Monitor Polski z 5 listopada 2025 r. (poz. 1140 - 1141)",
@@ -5071,6 +5131,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/w-2007-r-do-domu-czarzastego-wpadli-antyterrorysci-ziobro-pamietasz/gkr71n0",
       "pubDate": "Wed, 05 Nov 2025 11:29:30 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
@@ -13142,6 +13226,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -35955,6 +36063,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -39794,6 +39926,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
