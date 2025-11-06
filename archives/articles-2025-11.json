@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-06T21:10:02.115Z",
+  "generatedAt": "2025-11-06T21:28:50.755Z",
   "items": [
+    {
+      "title": "GTA VI opóźnione! Rockstar ma dla was smutne wieści",
+      "link": "https://antyweb.pl/gta-vi-opoznione-rockstar-ma-dla-was-smutne-wiesci",
+      "pubDate": "Thu, 06 Nov 2025 21:26:42 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Legia i Raków w Lidze Konferencji. Zabrakło trochę szczęścia",
+      "link": "https://sport.rp.pl/pilka-nozna/art43301241-legia-i-rakow-w-lidze-konferencji-zabraklo-troche-szczescia",
+      "pubDate": "Thu, 06 Nov 2025 22:24:08 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dyrektor firmy farmaceutycznej zemdlał w Gabinecie Owalnym",
+      "link": "https://tvn24.pl/swiat/dyrektor-firmy-farmaceutycznej-zemdlal-w-gabinecie-owalnym-st8740205?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 21:17:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Onet Rano\" | 07.11",
+      "link": "https://wiadomosci.onet.pl/kraj/onet-rano-or-0711/1nxs2s1",
+      "pubDate": "Thu, 06 Nov 2025 21:10:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Morze czerwieni na Wall Street. Spora wyprzedaż bigtechów",
+      "link": "https://www.bankier.pl/wiadomosc/Morze-czerwieni-na-Wall-Street-Spora-wyprzedaz-bigtechow-9036330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 6 Nov 2025 22:08:00 +0100",
+      "source": "Bankier.pl"
+    },
     {
       "title": "Dwa podpisy i weto. Karol Nawrocki zdecydował o trzech ustawach",
       "link": "https://www.rp.pl/prawo-w-polsce/art43301211-dwa-podpisy-i-weto-karol-nawrocki-zdecydowal-o-trzech-ustawach",
@@ -19,6 +49,12 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-nowe-weto-karola-nawrockiego-slowa-o-negatywnych-praktykach,nId,22451926",
       "pubDate": "Thu, 06 Nov 2025 21:00:08 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Tesla shareholders to vote on $1tn pay package for CEO Elon Musk",
+      "link": "https://www.theguardian.com/technology/2025/nov/06/tesla-1tn-pay-package-elon-musk",
+      "pubDate": "Thu, 06 Nov 2025 21:00:07 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Podwyżka CIT dla banków. Jest ostateczna decyzja parlamentu",
@@ -5310,6 +5346,54 @@
         }
       ],
       "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
       "source": "Niebezpiecznik"
     },
     {
@@ -15218,6 +15302,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -47259,6 +47367,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -53954,6 +54086,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "2",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
