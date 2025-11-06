@@ -1,7 +1,85 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-06T17:15:17.642Z",
+  "generatedAt": "2025-11-06T17:35:35.262Z",
   "items": [
+    {
+      "title": "Już tylko \"Andrzej\". Król \"z zadowoleniem\" przypieczętował los brata",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-juz-tylko-andrzej-krol-z-zadowoleniem-przypieczetowal-los-br,nId,8038439",
+      "pubDate": "Thu, 06 Nov 2025 18:30:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nvidia GeForce NOW w listopadzie 2025 to 23 nowe gry i kolejne serwery RTX 5080",
+      "link": "https://www.chip.pl/2025/11/nvidia-geforce-now-listopad-2025-rtx-5080",
+      "pubDate": "Thu, 06 Nov 2025 17:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Rewolucja w kieszeni. OnePlus 13R dostaje OxygenOS 16 z potężnym Trinity Engine i masą funkcji AI",
+      "link": "https://www.chip.pl/2025/11/oneplus-13r-dostaje-oxygenos-16-z-poteznym-trinity-engine-i-masa-funkcji-ai",
+      "pubDate": "Thu, 06 Nov 2025 17:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Spotify pokaże Ci to, co już dobrze wiesz",
+      "link": "https://www.tabletowo.pl/spotify-statystyki-sluchania-nowa-funkcja/",
+      "pubDate": "Thu, 06 Nov 2025 17:28:06 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "'Never mind the buzzwords': Dubai Design Week seeks authentic visions to boost regional landscape",
+      "link": "http://www.euronews.com/culture/2025/11/06/never-mind-the-buzzwords-dubai-design-week-seeks-authentic-visions-to-boost-regional-lands",
+      "pubDate": "Thu, 06 Nov 2025 18:25:06 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Wielka zmiana w Czechach. Rząd złożył dymisję",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wielka-zmiana-w-czechach-rzad-zlozyl-dymisje,nId,8038442",
+      "pubDate": "Thu, 06 Nov 2025 18:24:39 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Odkryli, jak najstarsza cywilizacja Ameryk przetrwała katastrofę",
+      "link": "https://geekweek.interia.pl/historia/news-odkryli-jak-najstarsza-cywilizacja-ameryk-przetrwala-katastr,nId,22451670",
+      "pubDate": "Thu, 06 Nov 2025 17:24:04 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Pierwszy taki wyrok od początku wojny. Rosjanin skazany na dożywocie ",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-pierwszy-taki-wyrok-od-poczatku-wojny-rosjanin-skazany-na-do,nId,22451831",
+      "pubDate": "Thu, 06 Nov 2025 17:23:29 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Shein: France urges EU sanctions over 'childlike' sex dolls",
+      "link": "https://www.dw.com/en/shein-france-urges-eu-sanctions-over-childlike-sex-dolls/a-74648063?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 6 Nov 2025 17:22:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Nancy Pelosi odejdzie z Kongresu po czterech dekadach",
+      "link": "https://tvn24.pl/swiat/nancy-pelosi-odejdzie-z-kongresu-po-40-latach-otworzy-sie-nowy-rozdzial-dla-demokratow-st8739777?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 17:21:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Apple wycofało aktualizację iOS 26.2. Winna autorska część producenta",
+      "link": "https://android.com.pl/tech/989104-apple-wycofalo-ios-26-2-przez-modem-c1/",
+      "pubDate": "Thu, 06 Nov 2025 17:21:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Świąteczny rekord. Amerykanie wydadzą ponad bilion dolarów na prezenty",
+      "link": "https://businessinsider.com.pl/gospodarka/usa-swiateczna-sprzedaz-detaliczna-pobije-rekord-bilion-dolarow-w-zasiegu/nyf2771",
+      "pubDate": "Thu, 06 Nov 2025 17:19:54 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Najpierw zwalniali, teraz zatrudniają ponownie. Tam sztuczna inteligencja się nie sprawdziła",
+      "link": "https://businessinsider.com.pl/praca/najpierw-zwalniali-teraz-zatrudniaja-ponownie-tam-sztuczna-inteligencja-sie-nie/966ngrk",
+      "pubDate": "Thu, 06 Nov 2025 17:13:27 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Paweł Kukiz o areszcie dla Zbigniewa Ziobry. \"Będą się bali\"",
       "link": "https://wiadomosci.onet.pl/kraj/kukiz-zapytany-o-to-jak-zaglosuje-w-sprawie-immunitetu-ziobry/lxxb95s",
@@ -15,10 +93,28 @@
       "source": "Onet"
     },
     {
+      "title": "W pożarze zginęły cztery osoby. \"Strzelnica nie była sprzątana\"",
+      "link": "https://tvn24.pl/opole/chrzastowice-w-pozarze-strzelnicy-zginely-cztery-osoby-po-trzech-latach-sledztwa-instruktor-uslyszal-zarzuty-st8739867?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 17:11:53 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Kupujesz i pomagasz: wspieraj najbiedniejszych razem z Allegro",
       "link": "https://antyweb.pl/allegro-szlachetna-paczka",
       "pubDate": "Thu, 06 Nov 2025 17:11:35 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Pogoda na jutro - piątek, 7.11. Miejscami wystąpią przymrozki",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-7-11-miejscami-wystapia-przymrozki-st8739843?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 17:11:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Turkey's Lake Iznik drying rapidly as water levels drop 350 meters",
+      "link": "http://www.euronews.com/video/2025/11/06/turkeys-lake-iznik-drying-rapidly-as-water-levels-drop-350-meters",
+      "pubDate": "Thu, 06 Nov 2025 18:09:52 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Kto w Sejmie? Kto na czele? Najnowszy sondaż partyjny",
@@ -39,6 +135,12 @@
       "source": "Onet"
     },
     {
+      "title": "Zaskakujące słowa posłanki Lenartowicz na komisji. \"Ofiary fujary Ziobry\" [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/kraj/zaskakujace-slowa-poslanki-lenartowicz-na-komisji-ofiary-fujary-ziobry-relacja-na/5eg10xq",
+      "pubDate": "Thu, 06 Nov 2025 17:06:34 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Karty płatnicze i mobilne płatności NFC – tak dziś płacą Polacy",
       "link": "https://www.rp.pl/analizy-rzeczpospolitej/art43300811-karty-platnicze-i-mobilne-platnosci-nfc-tak-dzis-placa-polacy",
       "pubDate": "Thu, 06 Nov 2025 18:06:00 +0100",
@@ -47,6 +149,12 @@
     {
       "title": "Wielka kontrola na lotnisku. Otwierają 200 tysięcy paczek",
       "link": "https://www.rmf24.pl/fakty/swiat/news-wielka-kontrola-na-lotnisku-otwieraja-200-tysiecy-paczek,nId,8038435",
+      "pubDate": "Thu, 06 Nov 2025 18:05:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Niecodzienna kontrola na lotnisku. Otwierają 200 tysięcy paczek",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-niecodzienna-kontrola-na-lotnisku-otwieraja-200-tysiecy-pacz,nId,8038435",
       "pubDate": "Thu, 06 Nov 2025 18:05:00 +0100",
       "source": "RMF24"
     },
@@ -73,6 +181,12 @@
       "link": "https://www.rp.pl/analizy-rzeczpospolitej/art43300801-platnosci-coraz-mocniej-bazuja-na-technologii",
       "pubDate": "Thu, 06 Nov 2025 18:03:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Leszczyna: Nie chcemy zlikwidować żadnego szpitala",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-leszczyna-nie-chcemy-zlikwidowac-zadnego-szpitala,nId,8038330",
+      "pubDate": "Thu, 06 Nov 2025 18:02:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Zachodnie koncerny znów rejestrują swoje marki w Rosji. Dlaczego to robią?",
@@ -165,6 +279,12 @@
       "source": "DW"
     },
     {
+      "title": "Somalia: Pirates board fuel tanker, crew reported safe",
+      "link": "https://www.dw.com/en/somalia-pirates-board-fuel-tanker-crew-reported-safe/a-74643992?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 6 Nov 2025 16:51:00 GMT",
+      "source": "DW"
+    },
+    {
       "title": "Raper opuścił więzienie i przeprasza mężczyznę, którego postrzelił",
       "link": "https://tvn24.pl/kultura-i-styl/usa-raper-blueface-przeprasza-mezczyzne-ktorego-postrzelil-st8739563?source=rss",
       "pubDate": "Thu, 06 Nov 2025 16:49:54 GMT",
@@ -181,6 +301,12 @@
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-szokujaca-decyzja-putina-prezydent-odsuwa-lawrowa,nId,8038416",
       "pubDate": "Thu, 06 Nov 2025 17:47:31 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Skorygowana EBITDA Unimotu w III kw. zgodna z konsensusem",
+      "link": "https://www.bankier.pl/wiadomosc/Skorygowana-EBITDA-Unimotu-w-III-kw-wyniosla-87-mln-zl-zgodnie-z-konsensusem-9036192.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 6 Nov 2025 17:44:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "\"Zostawił po sobie córkę, słowa, bit i serce\". Artyści żegnają Pono",
@@ -211,6 +337,12 @@
       "link": "https://android.com.pl/tech/989085-chiny-dominacja-metale-ziem-rzadkich/",
       "pubDate": "Thu, 06 Nov 2025 16:39:59 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Wynik EBITDA Tauronu w III kw. powyżej konsensusu",
+      "link": "https://www.bankier.pl/wiadomosc/Tauron-szacuje-wynik-EBITDA-w-III-kw-na-1-918-mld-zl-wobec-1-83-mld-zl-konsensusu-9036188.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 6 Nov 2025 17:38:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Dla Tuska rozliczenia PiS będą aż do wyborów jednym z głównych tematów politycznych [ROZMOWA]",
@@ -313,6 +445,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-poslowie-przekazuja-rosji-poufne-informacje-skandal-w-europe,nId,22451726",
       "pubDate": "Thu, 06 Nov 2025 16:22:53 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "\"Październik stanowi wyraźny punkt zwrotny dla BoomBit\". Przychody wzrosły",
+      "link": "https://www.bankier.pl/wiadomosc/Przychody-grupy-BoomBit-w-pazdzierniku-2025-roku-wzrosly-do-18-8-mln-zl-9036172.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 6 Nov 2025 17:22:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Ważą się losy immunitetu Zbigniewa Ziobry. Emocje na komisji. Poseł Śliwka: to niedorzeczny zarzut [RELACJA NA ŻYWO]",
@@ -3714,6 +3852,54 @@
         }
       ],
       "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
       "source": "Niebezpiecznik"
     },
     {
@@ -13286,6 +13472,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -30039,6 +30249,12 @@
       "source": "DW"
     },
     {
+      "title": "Sweden may jail 13-year-olds — what about other EU states?",
+      "link": "https://www.dw.com/en/sweden-may-jail-13-year-olds-what-about-other-eu-states/a-74599789?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 3 Nov 2025 16:59:00 GMT",
+      "source": "DW"
+    },
+    {
       "title": "Donald Tusk pokazał zniszczone rosyjskie drony. Zamieścił nagranie",
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-pokazal-zniszczone-rosyjskie-drony-zamiescil-nagranie/gpe2nk3",
       "pubDate": "Mon, 03 Nov 2025 16:58:42 GMT",
@@ -44649,6 +44865,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -51344,6 +51584,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "2",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
