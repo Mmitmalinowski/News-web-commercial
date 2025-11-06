@@ -1,7 +1,91 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-06T06:38:53.890Z",
+  "generatedAt": "2025-11-06T06:58:45.094Z",
   "items": [
+    {
+      "title": "Flagowce podrożeją. Ewentualnie podrożeją jeszcze bardziej",
+      "link": "https://www.tabletowo.pl/flagowce-podrozeja-lub-podrozeja-jeszcze-bardziej/",
+      "pubDate": "Thu, 06 Nov 2025 06:56:12 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "AI najlepiej rozumie język polski. Świetny wynik testu",
+      "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-jezyk-polski-najlepszy-w-testach-sztucznej-inteligencji,nId,22451210",
+      "pubDate": "Thu, 06 Nov 2025 06:53:16 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Apple prosi Google o pomoc. Będzie to słono kosztować",
+      "link": "https://android.com.pl/tech/988831-apple-prosi-google-o-pomoc/",
+      "pubDate": "Thu, 06 Nov 2025 06:47:53 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Mexico President Claudia Sheinbaum presses charges after street groping incident",
+      "link": "http://www.euronews.com/2025/11/06/mexico-president-claudia-sheinbaum-presses-charges-after-street-groping-incident",
+      "pubDate": "Thu, 06 Nov 2025 07:46:19 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "\"Trik\" rządu Morawieckiego i pieniądze dla \"swoich\". Odkryli mechanizm",
+      "link": "https://wiadomosci.onet.pl/wroclaw/trik-rzadu-morawieckiego-i-pieniadze-dla-swoich-odkryli-mechanizm/kc63lj7",
+      "pubDate": "Thu, 06 Nov 2025 06:42:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "3 tys. kroków dziennie może spowolnić Alzheimera. Są nowe badania",
+      "link": "https://tech.wp.pl/3-tys-krokow-dziennie-moze-spowolnic-alzheimera-sa-nowe-badania,7218827909577504a",
+      "pubDate": "Thu, 06 Nov 2025 07:42:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Zmasowany atak ukraińskich dronów. Lotniska w Rosji wstrzymują działanie",
+      "link": "https://wiadomosci.onet.pl/swiat/zmasowany-atak-ukrainskich-dronow-lotniska-w-rosji-wstrzymuja-dzialanie/l8q47mn",
+      "pubDate": "Thu, 06 Nov 2025 06:41:06 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Vectra zaczęła oferować pakiet Kanały TV i Sport w ramach HBO Max",
+      "link": "http://www.press.pl/tresc/90181,vectra-zaczela-oferowac-pakiet-kanaly-tv-i-sport-w-ramach-hbo-max?rss=1",
+      "pubDate": "Thu, 06 Nov 2025 07:41:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "CDA przegrał w sądzie ws. tekstu o piractwie. Oddalono pozew",
+      "link": "https://www.wirtualnemedia.pl/cda-piractwo-proces-sadowy-antyweb-wlasciciel-grzegorz-marczak,7218834745912128a",
+      "pubDate": "Thu, 06 Nov 2025 07:40:19 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Thursday briefing: ​Inside Labour’s ambitious rethink of the national curriculum",
+      "link": "https://www.theguardian.com/world/2025/nov/06/thursday-briefing-inside-labours-ambitious-rethink-of-the-national-curriculum",
+      "pubDate": "Thu, 06 Nov 2025 06:39:56 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Michał Wójcik: Donald Tusk chce widzieć Zbigniewa Ziobrę zakutego w kajdanki",
+      "link": "https://www.rp.pl/polityka/art43296341-michal-wojcik-donald-tusk-chce-widziec-zbigniewa-ziobre-zakutego-w-kajdanki",
+      "pubDate": "Thu, 06 Nov 2025 07:39:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ta ustawa dobije polskie rolnictwo? Branża protestuje przeciwko zamianie zlecenia w etat",
+      "link": "https://businessinsider.com.pl/prawo/praca/zamiana-zlecenia-w-etat-branza-rolna-mowi-nie/vkxlkh2",
+      "pubDate": "Thu, 06 Nov 2025 06:38:51 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Prorosyjskie grupy nasilają cyberataki na Włochy",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/prorosyjskie-grupy-nasilaja-cyberataki-na-wlochy",
+      "pubDate": "Thu, 06 Nov 2025 07:38:43 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Dilerzy w rękach policji. Znaleziono przy nich mefedron i heroinę",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-dilerzy-w-rekach-policji-znaleziono-przy-nich-mefedron-i-her,nId,8038116",
+      "pubDate": "Thu, 06 Nov 2025 07:38:34 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Stanisław Dzieduszycki awansował w Carlsberg Group",
       "link": "http://www.press.pl/tresc/90179,stanislaw-dzieduszycki-awansowal-w-carlsberg-group?rss=1",
@@ -19,6 +103,12 @@
       "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/wroclaw-wyciekly-numery-ksiag-wieczystych",
       "pubDate": "Thu, 06 Nov 2025 07:36:37 +0100",
       "source": "Cyberdefence24"
+    },
+    {
+      "title": "Z mieszkania na Żoliborzu narkotyki trafiały na praskie ulice",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-polnoc/warszawa-handel-narkotykami-na-pradze-policja-weszla-do-dwoch-mieszkan-zatrzymala-osiem-osob-st8737837?source=rss",
+      "pubDate": "Thu, 06 Nov 2025 06:35:10 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Apple złamie barierę. Wprowadzi budżetowy komputer z serii Mac",
@@ -239,6 +329,12 @@
     {
       "title": "Poseł PiS o sprawie Zbigniewa Ziobry. \"Nie może liczyć na sprawiedliwy proces\"",
       "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-posel-pis-o-sprawie-zbigniewa-ziobry-nie-moze-liczyc-na-spra,nId,8037896",
+      "pubDate": "Thu, 06 Nov 2025 07:02:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Sprawa Zbigniewa Ziobry. Poseł PiS wprost: Nie może liczyć na sprawiedliwy proces",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-sprawa-zbigniewa-ziobry-posel-pis-wprost-nie-moze-liczyc-na-,nId,8037896",
       "pubDate": "Thu, 06 Nov 2025 07:02:00 +0100",
       "source": "RMF24"
     },
@@ -915,6 +1011,12 @@
       "source": "TVN24"
     },
     {
+      "title": "O czym pracodawca nie musi mówić związkom zawodowym?",
+      "link": "https://pro.rp.pl/kadry-i-place/art43254151-o-czym-pracodawca-nie-musi-mowic-zwiazkom-zawodowym",
+      "pubDate": "Thu, 06 Nov 2025 05:30:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Publicis Groupe z globalną obsługą spółki lodowej Unilevera",
       "link": "https://www.wirtualnemedia.pl/publicis-groupe-z-globalna-obsluga-spolki-lodowej-unilevera,7218666642098976a",
       "pubDate": "Thu, 06 Nov 2025 05:29:25 +0100",
@@ -945,6 +1047,12 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "O czym kadrowi zapominają powiadomić ZUS?",
+      "link": "https://pro.rp.pl/kadry-i-place/art43259941-o-czym-kadrowi-zapominaja-powiadomic-zus",
+      "pubDate": "Thu, 06 Nov 2025 05:20:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "\"Teen Vogue\" włączony do \"Vogue'a\". Związkowcy protestują przeciw zwolnieniom",
       "link": "https://www.wirtualnemedia.pl/teen-vogue-wlaczony-do-voguea-zwiazkowcy-protestuja-przeciw-zwolnieniom,7218633543011104a",
       "pubDate": "Thu, 06 Nov 2025 05:18:55 +0100",
@@ -967,6 +1075,12 @@
       "link": "https://wiadomosci.onet.pl/tylko-w-onecie/skandal-na-kursach-generalskich-wojsko-chce-rywalizowac-z-kabaretami/ys7fpsv",
       "pubDate": "Thu, 06 Nov 2025 04:10:00 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Co porównywać, by luka płacowa nie była pozorna?",
+      "link": "https://pro.rp.pl/kadry-i-place/art43260081-co-porownywac-by-luka-placowa-nie-byla-pozorna",
+      "pubDate": "Thu, 06 Nov 2025 05:10:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Marta Postuła: USA kontra Chiny: półprzewodniki jako pole bitwy?",
@@ -1567,6 +1681,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/areszt-dla-ziobry-awantura-o-rymanowskiego-wyczyn-bargiela/p58djpk",
       "pubDate": "Wed, 05 Nov 2025 21:24:36 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Lekarze nie zgadzają się ustalenie płacy maksymalnej. MZ ustaliło pułap na 40 tys. zł",
+      "link": "https://www.bankier.pl/wiadomosc/Lekarze-nie-zgadzaja-sie-ustalenie-placy-maksymalnej-MZ-ustalilo-pulap-na-40-tys-zl-9035661.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 5 Nov 2025 22:24:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Sephora łączy siły z Mariah Carey w świątecznej kampanii „Give Something Beautiful”",
@@ -5515,6 +5635,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/w-2007-r-do-domu-czarzastego-wpadli-antyterrorysci-ziobro-pamietasz/gkr71n0",
       "pubDate": "Wed, 05 Nov 2025 11:29:30 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
@@ -13634,6 +13778,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-04T16:48:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -36543,6 +36711,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "31",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -40382,6 +40574,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "2",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
