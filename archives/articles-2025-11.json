@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-07T15:50:10.797Z",
+  "generatedAt": "2025-11-07T15:59:03.498Z",
   "items": [
+    {
+      "title": "Ważna nowość w One UI 8.5. Samsung nie zapomniał o polskich użytkownikach",
+      "link": "https://android.com.pl/tech/989423-one-ui-8-5-podsumowania-powiadomien/",
+      "pubDate": "Fri, 07 Nov 2025 15:58:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "3I/Atlas to próba generalna ludzkości. \"Musimy wysłać statek\"",
+      "link": "https://spidersweb.pl/2025/11/kometa-3i-musimy-wyslac-statek.html",
+      "pubDate": "Fri, 07 Nov 2025 16:53:10 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Niemiecki generał ostrzega przed Rosją. \"Możliwy atak na NATO\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-niemiecki-general-ostrzega-przed-rosja-mozliwy-atak-na-nato,nId,22452328",
+      "pubDate": "Fri, 07 Nov 2025 15:51:44 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Sprawa immunitetu Łukasza Mejzy. Minister Żurek podpisał wniosek",
+      "link": "https://wiadomosci.onet.pl/kraj/sprawa-immunitetu-lukasza-mejzy-minister-zurek-podpisal-wniosek/05mvj0x",
+      "pubDate": "Fri, 07 Nov 2025 15:51:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polskie satelity ICEYE i PIAST lecą w kosmos. Start we wtorek",
+      "link": "https://tech.wp.pl/polskie-satelity-iceye-i-piast-leca-w-kosmos-start-we-wtorek,7219322239581056a",
+      "pubDate": "Fri, 07 Nov 2025 16:51:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Women's Forum 2025 in French capital highlights fight against violence in sport",
+      "link": "http://www.euronews.com/2025/11/07/womens-forum-2025-in-french-capital-highlights-fight-against-violence-in-sport",
+      "pubDate": "Fri, 07 Nov 2025 16:50:58 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Nawrocka o swojej nowej funkcji. \"Jestem formalnie emerytką\"",
       "link": "https://biznes.interia.pl/praca/news-nawrocka-o-swojej-nowej-funkcji-jestem-formalnie-emerytka,nId,22452367",
@@ -37,6 +73,12 @@
       "link": "https://businessinsider.com.pl/wiadomosci/narodowy-fundusz-zdrowia-dostaje-kolejne-wsparcie-rzad-przekazuje-miliardy/lvtx41g",
       "pubDate": "Fri, 07 Nov 2025 15:42:46 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Virginia Republican who shared violent texts from prominent Democrat loses re-election",
+      "link": "https://www.theguardian.com/us-news/2025/nov/07/carrie-coyner-virginia-republican-loses-reelection-jay-jones",
+      "pubDate": "Fri, 07 Nov 2025 15:40:33 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Siergiej Ławrow w niełasce Putina? Kreml reaguje na spekulacje",
@@ -13041,6 +13083,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -24284,6 +24374,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -58965,6 +59079,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -65660,6 +65798,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "2",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
