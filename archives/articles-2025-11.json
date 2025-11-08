@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T19:33:45.086Z",
+  "generatedAt": "2025-11-08T19:43:06.110Z",
   "items": [
+    {
+      "title": "​Budują od zera ogromne miasto. Niepokój o jezioro",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-buduja-od-zera-ogromne-miasto-niepokoj-o-jezioro,nId,8039191",
+      "pubDate": "Sat, 08 Nov 2025 20:31:54 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Ukraińcy zmuszani do walki przeciw Ukrainie. Rosja ogłosiła przyłączenie nowych terytoriów",
       "link": "https://businessinsider.com.pl/wiadomosci/ukraincy-zmuszani-do-walki-przeciw-ukrainie-rosja-oglosila-przylaczenie-nowych/tkrh5h5",
@@ -235,6 +241,12 @@
       "link": "https://antyweb.pl/te-dane-sa-przerazajace-wiemy-kto-najczesciej-udostepnia-dezinformacje-w-sieci",
       "pubDate": "Sat, 08 Nov 2025 18:00:08 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Europoseł Grzegorz Braun domaga się ochrony kontrwywiadowczej",
+      "link": "https://www.rp.pl/polityka/art43309431-europosel-grzegorz-braun-domaga-sie-ochrony-kontrwywiadowczej",
+      "pubDate": "Sat, 08 Nov 2025 19:00:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Były szef CIA wezwany do złożenia wyjaśnień. Chodzi o sprawę ingerencji Rosji w wybory",
@@ -3083,6 +3095,12 @@
     {
       "title": "Rozproszyła się, ale wróci. Nad tymi miejscami rozciągnie się gęsta mgła",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/rozproszyla-sie-ale-wroci-nad-tymi-miejscami-rozciagnie-sie-gesta-mgla-ostrzezenia-imgw-na-9-11-st8739577?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 05:30:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Uwaga, znów zrobi się niebezpiecznie. Ostrzeżenia w dziewięciu województwach",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-gesta-mgla-w-wielu-regionach-polski-ograniczona-widzialnosc-st8739577?source=rss",
       "pubDate": "Sat, 08 Nov 2025 05:30:00 GMT",
       "source": "TVN24"
     },
@@ -21033,6 +21051,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -34628,6 +34694,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74013,6 +74103,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -85131,6 +85245,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -90193,54 +90331,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/szalony-pomysl-dotyczacy-ratownikow-medycznych-chaos-to-malo-powiedziane/xhgpgb1",
       "pubDate": "Sat, 01 Nov 2025 09:26:21 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Podróżuję samotnie po Azji od 15 lat. Oto trzy miasta, które zawsze polecam i jedno, które bym pominął",
-      "link": "https://businessinsider.com.pl/lifestyle/od-15-lat-podrozuje-po-azji-najlepsze-miejsce-wskazuje-na-turystyczna-imprezownie/rw5pb7t",
-      "pubDate": "Sat, 01 Nov 2025 09:19:37 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wasyl Stus w radzieckim łagrze. Strażnicy zgotowali mu piekło",
-      "link": "https://wiadomosci.onet.pl/swiat/wasyl-stus-w-radzieckim-lagrze-straznicy-zgotowali-mu-pieklo/dbbx81c",
-      "pubDate": "Sat, 01 Nov 2025 09:19:22 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "W tych sytuacjach można stracić spadek. Kiedy spadkobierca zostaje uznany za niegodnego?",
-      "link": "https://www.rp.pl/spadki-i-darowizny/art43268751-w-tych-sytuacjach-mozna-stracic-spadek-kiedy-spadkobierca-zostaje-uznany-za-niegodnego",
-      "pubDate": "Sat, 01 Nov 2025 10:19:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Niezwykłe zjawisko. Sierść psów w Czarnobylu staje się niebieska",
-      "link": "https://tech.wp.pl/niezwykle-zjawisko-siersc-psow-w-czarnobylu-staje-sie-niebieska,7216799385426592a",
-      "pubDate": "Sat, 01 Nov 2025 10:18:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Poznań: Darmowa komunikacja miejska na Wszystkich Świętych",
-      "link": "https://www.rmf24.pl/regiony/poznan/news-poznan-darmowa-komunikacja-miejska-na-wszystkich-swietych,nId,8036775",
-      "pubDate": "Sat, 01 Nov 2025 10:17:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Krajobraz po huraganie Melissa. \"Jak się czuję? Jestem zrozpaczona\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/kuba-jamajka-haiti-huragan-melissa-krajobraz-po-huraganie-jak-sie-czuje-jestem-zrozpaczona-st8730927?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 09:15:57 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Premier Kanady przeprosił Donalda Trumpa. Powodem kontrowersyjna reklama",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-doczekal-sie-przeprosin-od-premiera-kanady/r0lqykw",
-      "pubDate": "Sat, 01 Nov 2025 09:15:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Hamas przekazał Izraelowi kolejne szczątki. \"Nie należą do zakładników\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-01/hamas-przekazal-izraelowi-kolejne-szczatki-nie-naleza-do-zakladnikow/",
-      "pubDate": "Sat, 01 Nov 2025 10:15:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
