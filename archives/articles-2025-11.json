@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T22:23:41.634Z",
+  "generatedAt": "2025-11-08T22:37:01.857Z",
   "items": [
+    {
+      "title": "\"Całkowita aberracja\". Rzecznik prezydenta uderza w koalicję rządzącą po decyzji w sprawie Ziobry",
+      "link": "https://wiadomosci.onet.pl/kraj/sprawa-immunitetu-zbigniewa-ziobry-rzecznik-prezydenta-absurdalne/kkx83g7",
+      "pubDate": "Sat, 08 Nov 2025 22:23:33 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "More than 1,000 flights cancelled as US air traffic cuts enter second day",
+      "link": "https://www.bbc.com/news/articles/cj410k00yw8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 08 Nov 2025 22:07:58 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Thousands take to Lisbon streets over proposed labour laws",
       "link": "https://www.bbc.com/news/articles/cpd257jd3zzo?at_medium=RSS&at_campaign=rss",
@@ -21621,6 +21633,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -35528,6 +35588,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75537,6 +75621,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -86967,6 +87075,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -91369,48 +91501,6 @@
       "link": "https://www.rp.pl/biznes/art43274081-cyberatak-na-polskie-biuro-podrozy-wyciekly-dane-klientow",
       "pubDate": "Sat, 01 Nov 2025 13:04:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "China to exempt Nexperia chips from semiconductor export ban",
-      "link": "https://www.dw.com/en/china-to-exempt-nexperia-chips-from-semiconductor-export-ban/a-74584219?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 1 Nov 2025 12:03:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Laser wycelowany w samolot. Dziewięciolatka odwiedziła policja",
-      "link": "https://tvn24.pl/krakow/nowy-targ-laser-wycelowany-w-samolot-dziewieciolatka-odwiedzila-policja-st8731253?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 12:01:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "More than 50 child asylum seekers still missing after disappearing from Kent care",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/01/more-than-50-child-asylum-seekers-still-missing-after-disappearing-from-kent-care",
-      "pubDate": "Sat, 01 Nov 2025 12:00:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "DeSantis accused of playing politics as Florida shatters executions record",
-      "link": "https://www.theguardian.com/us-news/2025/nov/01/florida-death-penalty-ron-desantis",
-      "pubDate": "Sat, 01 Nov 2025 12:00:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Jest \"specjalistą od śmierci\". \"Wejście do prosektorium zapamiętam na całe życie\"",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/przygotowuje-ciala-do-pogrzebu-przez-25-lat-widzialem-juz-chyba-wszystko/3k1g0x5",
-      "pubDate": "Sat, 01 Nov 2025 11:58:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Morze wyrzuciło drona z \"dziwnymi oznaczeniami\". Akcja służb w Ustce",
-      "link": "https://wydarzenia.interia.pl/pomorskie/news-morze-wyrzucilo-drona-z-dziwnymi-oznaczeniami-akcja-sluzb-w,nId,22449844",
-      "pubDate": "Sat, 01 Nov 2025 11:56:54 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Batonik z 7-centymetrowym wkrętem. Przykry finał halloweenowego żartu",
-      "link": "https://www.rmf24.pl/regiony/poznan/news-batonik-z-7-centymetrowym-wkretem-przykry-final-halloweenowe,nId,8036788",
-      "pubDate": "Sat, 01 Nov 2025 12:56:01 +0100",
-      "source": "RMF24"
     }
   ]
 }
