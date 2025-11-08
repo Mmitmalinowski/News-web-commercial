@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T21:21:45.364Z",
+  "generatedAt": "2025-11-08T21:31:02.209Z",
   "items": [
+    {
+      "title": "Węgry \"zwolnione z sankcji\". Media: Trump chce pomóc Orbanowi wygrać wybory",
+      "link": "https://tvn24.pl/swiat/wegry-zwolnione-z-sankcji-media-trump-chce-pomoc-orbanowi-wygrac-wybory-st8743333?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 21:25:11 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Leczenie mikrocji i atrezji jest ważne dla rozwoju dziecka. Polskę odwiedził specjalista z USA, który to robi",
+      "link": "https://tvn24.pl/fakty-artykuly/mikrocja-i-atrezja-leczenie-tych-wad-ucha-jest-wazne-dla-rozwoju-dziecka-polske-odwiedzil-specjalista-z-usa-dr-joseph-roberson-st8743342?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 21:22:39 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Banda sadystów\". Kurski nie przebierał w słowach, zwrócił się do Tuska",
+      "link": "https://wydarzenia.interia.pl/kraj/news-banda-sadystow-kurski-nie-przebieral-w-slowach-zwrocil-sie-d,nId,22452588",
+      "pubDate": "Sat, 08 Nov 2025 21:21:41 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Syria carries out preemptive strikes against Islamic State",
+      "link": "https://www.theguardian.com/world/2025/nov/08/syria-carries-out-preemptive-strikes-against-islamic-state",
+      "pubDate": "Sat, 08 Nov 2025 21:15:09 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Sztuka naskalna sprzed 8000 lat odkryta w Centralnej Anatolii",
       "link": "https://www.rp.pl/spoleczenstwo/art43309481-sztuka-naskalna-sprzed-8000-lat-odkryta-w-centralnej-anatolii",
@@ -42,6 +66,12 @@
       "title": "\"Nigdy wcześniej niewidziana\" liczba rakiet i dronów zaatakowała w Ukrainie",
       "link": "https://tvn24.pl/swiat/nigdy-wczesniej-niewidziana-liczba-rakiet-i-dronow-zaatakowala-w-ukrainie-st8743299?source=rss",
       "pubDate": "Sat, 08 Nov 2025 20:56:29 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Istniała prawie 200 lat, potężny żywioł zamienił ją w ruinę",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/tajfun-kalmaegi-wietnam-ta-wioska-rybacka-istniala-prawie-200-lat-jeden-zywiol-zamienil-ja-w-ruine-st8743322?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 20:56:00 GMT",
       "source": "TVN24"
     },
     {
@@ -21417,6 +21447,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -35204,6 +35282,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74973,6 +75075,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -86283,6 +86409,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -90901,66 +91051,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-miliarder-poruszony-wywiadem-z-donaldem-tuskiem-mocny-brutal,nId,22449833",
       "pubDate": "Sat, 01 Nov 2025 11:03:52 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Były duże kłopoty z płatnościami. \"Atak typu DDoS\"",
-      "link": "https://tvn24.pl/biznes/tech/blik-duze-klopoty-z-platnosciami-atak-typu-ddos-st8731065?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 11:02:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "HMRC likely to have breached privacy laws in stopping child benefit – experts",
-      "link": "https://www.theguardian.com/politics/2025/nov/01/hmrc-likely-to-have-breached-privacy-laws-in-stopping-child-benefit-experts",
-      "pubDate": "Sat, 01 Nov 2025 11:00:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "What the New York mayor’s race will reveal about the Democratic party",
-      "link": "https://www.theguardian.com/us-news/2025/nov/01/new-york-mayoral-race-democratic-party",
-      "pubDate": "Sat, 01 Nov 2025 11:00:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Tysiące osób na ulicach Nowego Sadu. Upamiętnili tragedię 16-minutową ciszą",
-      "link": "https://wiadomosci.onet.pl/swiat/tysiace-osob-na-ulicach-nowego-sadu-upamietnili-tragedie-16-minutowa-cisza/p9hkvek",
-      "pubDate": "Sat, 01 Nov 2025 11:00:27 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Epic Games rozpieszcza fanów horrorów. W co zagracie tym razem?",
-      "link": "https://antyweb.pl/epic-games-rozpieszcza-fanow-horrorow-w-co-zagracie-tym-razem",
-      "pubDate": "Sat, 01 Nov 2025 11:00:27 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Latest news bulletin | November 1st, 2025 – Midday",
-      "link": "http://www.euronews.com/video/2025/11/01/latest-news-bulletin-november-1st-2025-midday",
-      "pubDate": "Sat, 01 Nov 2025 12:00:16 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Nie przegap tych filmów. Jesień na Netflix robi wrażenie!",
-      "link": "https://antyweb.pl/najlepsze-filmy-na-netflix-jesien-2025",
-      "pubDate": "Sat, 01 Nov 2025 11:00:15 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Koniec samochodów na Oxford Street. Londyn szykuje rewolucję",
-      "link": "https://geekweek.interia.pl/lifestyle/news-koniec-samochodow-na-oxford-street-londyn-szykuje-rewolucje,nId,22435991",
-      "pubDate": "Sat, 01 Nov 2025 11:00:04 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Ile kosztuje drewno? Oto aktualne ceny, trzeba się liczyć z dużym wydatkiem",
-      "link": "https://biznes.interia.pl/finanse/news-ile-kosztuje-drewno-opalowe-aktualne-ceny-drewna,nId,22449173",
-      "pubDate": "Sat, 01 Nov 2025 11:00:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "\"Sytuacja gospodarcza Niemiec jest dramatyczna\". Ekonomista nie owija w bawełnę",
-      "link": "https://www.bankier.pl/wiadomosc/Sytuacja-gospodarcza-Niemiec-jest-dramatyczna-Ekonomista-nie-owija-w-bawelne-9030527.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 1 Nov 2025 12:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
