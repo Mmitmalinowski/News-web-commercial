@@ -1,12 +1,24 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T19:23:16.196Z",
+  "generatedAt": "2025-11-08T19:33:45.086Z",
   "items": [
+    {
+      "title": "Ukraińcy zmuszani do walki przeciw Ukrainie. Rosja ogłosiła przyłączenie nowych terytoriów",
+      "link": "https://businessinsider.com.pl/wiadomosci/ukraincy-zmuszani-do-walki-przeciw-ukrainie-rosja-oglosila-przylaczenie-nowych/tkrh5h5",
+      "pubDate": "Sat, 08 Nov 2025 19:24:11 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Nie żyje Andrzej Świetlik, członek grupy artystycznej Łódź Kaliska",
       "link": "https://tvn24.pl/kultura-i-styl/zmarl-andrzej-swietlik-czlonek-grupy-artystycznej-lodz-kaliska-mial-74-lata-st8743280?source=rss",
       "pubDate": "Sat, 08 Nov 2025 19:18:10 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "‘Environmental catastrophe’ fears as millions of plastic beads wash up on Camber Sands",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/08/environmental-catastrophe-fears-as-millions-of-plastic-beads-wash-up-on-camber-sands",
+      "pubDate": "Sat, 08 Nov 2025 19:16:17 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Kazakhstan to join Abraham Accords as it signs critical minerals and trade deals with the US",
@@ -73,6 +85,18 @@
       "link": "https://www.rp.pl/swiat/art43305471-koniec-imperialnej-rosji-francja-przejrzala-na-oczy",
       "pubDate": "Sat, 08 Nov 2025 20:00:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Rekordowa ilość przejętej kokainy w Portugalii",
+      "link": "https://www.bankier.pl/wiadomosc/Rekordowa-ilosc-przejetej-kokainy-w-Portugalii-9035678.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 8 Nov 2025 20:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Nastolatki za kraty. Szwedzi tworzą specjalne oddziały dla nieletnich przestępców",
+      "link": "https://www.bankier.pl/wiadomosc/Nastolatki-za-kraty-Szwedzi-tworza-specjalne-oddzialy-dla-nieletnich-przestepcow-9030966.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 8 Nov 2025 20:00:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Jetour startuje w Polsce. Trzy samochody, 7 lat spokoju i koniec z obawami o serwis",
@@ -20985,6 +21009,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -34556,6 +34628,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73893,6 +73989,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -84987,6 +85107,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -90097,60 +90241,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-01/hamas-przekazal-izraelowi-kolejne-szczatki-nie-naleza-do-zakladnikow/",
       "pubDate": "Sat, 01 Nov 2025 10:15:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Pięć firm, które warto mieć na radarze w listopadzie. Dużo się dzieje wokół nich",
-      "link": "https://businessinsider.com.pl/gielda/inwestowanie-na-gieldzie-piec-spolek-ktore-warto-miec-na-radarze-w-listopadzie-2025/pt6cbz0",
-      "pubDate": "Sat, 01 Nov 2025 09:14:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Obraz straszny\". Minister Żurek o zarzutach wobec ekipy Zbigniewa Ziobry",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/obraz-straszny-minister-zurek-o-zarzutach-wobec-ekipy-zbigniewa-ziobry/8ldnyt4",
-      "pubDate": "Sat, 01 Nov 2025 09:14:27 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tragiczny wypadek w Dolnośląskiem. Nie żyje jedna osoba, droga zablokowana",
-      "link": "https://www.rmf24.pl/regiony/wroclaw/news-tragiczny-wypadek-w-dolnoslaskiem-nie-zyje-jedna-osoba-droga,nId,8036778",
-      "pubDate": "Sat, 01 Nov 2025 10:13:10 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Tragiczny wypadek w Dolnośląskiem. Nie żyje jedna osoba",
-      "link": "https://www.rmf24.pl/regiony/wroclaw/news-tragiczny-wypadek-w-dolnoslaskiem-nie-zyje-jedna-osoba,nId,8036778",
-      "pubDate": "Sat, 01 Nov 2025 10:13:10 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "„Halloween Horror Nights”: noc, w którą horrory wychodzą poza ekran",
-      "link": "https://www.rp.pl/kultura/art43273931-halloween-horror-nights-noc-w-ktora-horrory-wychodza-poza-ekran",
-      "pubDate": "Sat, 01 Nov 2025 10:12:26 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kierunek: Europa. Mołdawia ma nowego premiera",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/kierunek-europa-moldawia-ma-nowego-premiera",
-      "pubDate": "Sat, 01 Nov 2025 09:12:25 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Spada przeciętne wynagrodzenie, maleje bezrobocie. Rynek pracy w Warszawie",
-      "link": "https://zyciewarszawy.pl/aktualnosci/art43273351-spada-przecietne-wynagrodzenie-maleje-bezrobocie-statystyki-rynku-pracy-w-warszawie",
-      "pubDate": "Sat, 01 Nov 2025 10:10:23 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "To Rosjanie tak potrafią? Pokazali innowacyjny robotyczny most",
-      "link": "https://geekweek.interia.pl/militaria/news-to-rosjanie-tak-potrafia-pokazali-innowacyjny-robotyczny-mos,nId,22449577",
-      "pubDate": "Sat, 01 Nov 2025 09:10:02 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Tragiczny wypadek na DK 35. Jedna osoba nie żyje. Droga zablokowana",
-      "link": "https://wiadomosci.onet.pl/wroclaw/tragiczny-wypadek-na-dk-35-jedna-osoba-nie-zyje-droga-zablokowana/m9zdb0f",
-      "pubDate": "Sat, 01 Nov 2025 09:08:41 GMT",
-      "source": "Onet"
     }
   ]
 }
