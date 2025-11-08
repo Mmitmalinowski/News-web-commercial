@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T15:24:42.003Z",
+  "generatedAt": "2025-11-08T15:38:18.904Z",
   "items": [
+    {
+      "title": "Zmarł wieloletni dziennikarz Radia Katowice",
+      "link": "https://www.wirtualnemedia.pl/gabriel-wozniak-dziennikarz-zmarl-radio-katowice,7219673838005120a",
+      "pubDate": "Sat, 08 Nov 2025 16:32:58 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Polska a kosmos - polityka technologicznej suwerenności",
+      "link": "https://spidersweb.pl/2025/11/polska-kosmos-suwerennosc.html",
+      "pubDate": "Sat, 08 Nov 2025 16:30:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Six dead as Russia hits energy and residential sites in Ukraine",
+      "link": "https://www.bbc.com/news/articles/ce3xdg7xrv9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 08 Nov 2025 15:20:39 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "YouTube nie działa? To nie awaria, lecz nowe zabezpieczenia",
       "link": "https://spidersweb.pl/2025/11/youtube-nie-dziala-reklamy.html",
@@ -79,6 +97,12 @@
       "link": "https://www.chip.pl/2025/11/apple-airpods-max-recenzja",
       "pubDate": "Sat, 08 Nov 2025 15:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Sahel-based terror groups expand to coastal West Africa",
+      "link": "https://www.dw.com/en/sahel-based-terror-groups-expand-to-coastal-west-africa/a-74639302?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 8 Nov 2025 15:00:00 GMT",
+      "source": "DW"
     },
     {
       "title": "Władimir Putin wydał rozkaz ws. testów nuklearnych. \"Przyjęte do realizacji\"",
@@ -19809,6 +19833,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -32996,6 +33068,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71565,6 +71661,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -82275,6 +82395,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -88657,60 +88801,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Najwieksze-amerykanskie-lotniska-czeka-paraliz-13-tys-kontrolerow-bez-wyplaty-9033646.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 1 Nov 2025 04:15:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Atak dronów na Rosję. Czasowo zamknięte lotniska, przerwy w dostawach prądu",
-      "link": "https://wiadomosci.onet.pl/swiat/atak-dronow-na-rosje-czasowo-zamkniete-lotniska-przerwy-w-dostawach-pradu/b9hg3s9",
-      "pubDate": "Sat, 01 Nov 2025 03:10:01 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zielona Góra - 01.11.2025. Jaka będzie pogoda w mieście?",
-      "link": "https://wiadomosci.onet.pl/lubuskie/zielona-gora-prognoza-pogody-w-dniu-01112025/g6efdsr",
-      "pubDate": "Sat, 01 Nov 2025 03:04:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Wrocław - 01.11.2025. Pogoda na dziś",
-      "link": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-01112025/qlevnyy",
-      "pubDate": "Sat, 01 Nov 2025 03:03:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Warszawa. Sprawdź prognozę pogody w dniu 01.11.2025",
-      "link": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-01112025/79nqlm5",
-      "pubDate": "Sat, 01 Nov 2025 03:03:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Toruń. Jaka pogoda czeka nas 01.11.2025?",
-      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-01112025/l02bfc8",
-      "pubDate": "Sat, 01 Nov 2025 03:03:40 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szczecin - 01.11.2025. Jaka będzie pogoda w mieście?",
-      "link": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-01112025/9tgj2dr",
-      "pubDate": "Sat, 01 Nov 2025 03:03:31 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rzeszów. Jaka pogoda czeka nas 01.11.2025?",
-      "link": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-01112025/2e2byx0",
-      "pubDate": "Sat, 01 Nov 2025 03:03:24 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poznań - sprawdź prognozę pogody w dniu 01.11.2025",
-      "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-01112025/g0khrsz",
-      "pubDate": "Sat, 01 Nov 2025 03:03:15 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Opole - sprawdź prognozę pogody w dniu 01.11.2025",
-      "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-01112025/6f1zhft",
-      "pubDate": "Sat, 01 Nov 2025 03:03:00 GMT",
-      "source": "Onet"
     }
   ]
 }
