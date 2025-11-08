@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T16:40:05.518Z",
+  "generatedAt": "2025-11-08T16:50:57.911Z",
   "items": [
+    {
+      "title": "Metalowiec w Muszynie odzyskał blask. Perła PRL znów zachwyca",
+      "link": "https://geekweek.interia.pl/podroze/news-kiedys-sanatorium-prl-dzis-hotel-z-dusza-metalowiec-otwiera,nId,22452540",
+      "pubDate": "Sat, 08 Nov 2025 16:40:05 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "USA zwiększają arsenał Polski. Waszyngton przekaże nam kluczowe uzbrojenie. \"Wesprze zdolności do sprostania zagrożeniom\"",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-zwiekszaja-arsenal-polski-waszyngton-przekaze-nam-kluczowe-uzbrojenie-wesprze/n8b60pv",
+      "pubDate": "Sat, 08 Nov 2025 16:39:35 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ten gigant rośnie w AI szybciej niż Nvidia. Znalazł niezwykle intratną niszę",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43309241-ten-gigant-rosnie-w-ai-szybciej-niz-nvidia-znalazl-niezwykle-intratna-nisze",
+      "pubDate": "Sat, 08 Nov 2025 17:39:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Głos z Budapesztu. Ziobro tajemniczo o swoich planach",
       "link": "https://www.rmf24.pl/polityka/news-glos-z-budapesztu-ziobro-tajemniczo-o-swoich-planach,nId,8038969",
@@ -20217,6 +20235,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -33524,6 +33590,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72333,6 +72423,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -83163,6 +83277,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -89113,54 +89251,6 @@
       "link": "https://biznes.interia.pl/finanse/news-co-grozi-gdy-nie-zaplacisz-rachunkow-na-czas-konsekwencje-to,nId,22436329",
       "pubDate": "Sat, 01 Nov 2025 06:20:05 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Bulisz za telewizor 4K i 8K? Zmierzyli granicę ludzkiego oka i to nie ma sensu",
-      "link": "https://spidersweb.pl/2025/11/telewizor-4k-8k-czy-jest-sens.html",
-      "pubDate": "Sat, 01 Nov 2025 07:20:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Obowiązkowe badania dla posiadaczy broni? Myśliwi zyskali sojusznika",
-      "link": "https://wydarzenia.interia.pl/kraj/news-obowiazkowe-badania-dla-posiadaczy-broni-mysliwi-zyskali-soj,nId,22449746",
-      "pubDate": "Sat, 01 Nov 2025 06:20:00 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Netflix wchodzi w pionowe formaty wideo. Czy chce być drugim TikTokiem?",
-      "link": "https://www.wirtualnemedia.pl/netflix-wchodzi-w-pionowe-formaty-wideo-czy-chce-byc-drugim-tiktokiem,7216046494390944a",
-      "pubDate": "Sat, 01 Nov 2025 07:19:13 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Zmarł Jan Turnau. Znany publicysta katolicki miał 92 lata",
-      "link": "https://wiadomosci.onet.pl/kraj/jan-turnau-nie-zyje-zmarl-wybitny-teolog-i-publicysta/bhhdnst",
-      "pubDate": "Sat, 01 Nov 2025 06:13:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "#CyberMagazyn: Wyłączyłeś 2FA? Holenderski sąd: odpowiadasz za incydent",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/cybermagazyn-wylaczyles-2fa-holenderski-sad-odpowiadasz-za-incydent",
-      "pubDate": "Sat, 01 Nov 2025 07:13:12 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Trump z dumą prezentuje zdjęcia. \"Odnowiłem łazienkę\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-z-duma-prezentuje-zdjecia-odnowilem-lazienke,nId,22449782",
-      "pubDate": "Sat, 01 Nov 2025 06:12:28 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Test REDMAGIC 10 Pro - ma wentylator, triggery i gigabaterię. Smartfon czy konsola?",
-      "link": "https://spidersweb.pl/2025/11/test-redmagic-10-pro-smartfon-konsola.html",
-      "pubDate": "Sat, 01 Nov 2025 07:11:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "O pożytkach z planowania własnego pogrzebu. Jak się dobrze żegnać?",
-      "link": "https://oko.press/o-pozytkach-z-planowania-wlasnego-pogrzebu-jak-sie-dobrze-zegnac",
-      "pubDate": "Sat, 01 Nov 2025 06:05:52 +0000",
-      "source": "OKO.press"
     }
   ]
 }
