@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T17:22:07.768Z",
+  "generatedAt": "2025-11-08T17:33:50.629Z",
   "items": [
+    {
+      "title": "Poważne utrudnienia na kolei. Opóźnienia po 300 minut, odwołane pociągi",
+      "link": "https://wydarzenia.interia.pl/mazowieckie/news-powazne-utrudnienia-na-kolei-opoznienia-po-300-minut-odwolan,nId,22452556",
+      "pubDate": "Sat, 08 Nov 2025 17:23:55 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Rymanowski ma ponad 500 tys. subskrybentów. Tylu przybyło po okładce \"Newsweeka\"",
       "link": "https://www.wirtualnemedia.pl/bogdan-rymanowski-youtube-kanal-wywiad-prof-cichosz-opinie-nowi-subskrybenci,7219698692283328a",
@@ -49,6 +55,30 @@
       "link": "https://www.chip.pl/2025/11/globalna-wersja-oneplus-15-specyfikacja-data-premiery",
       "pubDate": "Sat, 08 Nov 2025 17:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wydatki obcokrajowców w Polsce przewyższyły wydatki Polaków za granicą",
+      "link": "https://www.bankier.pl/wiadomosc/Wydatki-obcokrajowcow-w-Polsce-przewyzszyly-wydatki-Polakow-za-granica-9033688.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 8 Nov 2025 18:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Tylko 4 proc. pracowników ma plan swojej kariery",
+      "link": "https://www.bankier.pl/wiadomosc/Tylko-4-proc-pracownikow-ma-plan-swojej-kariery-9034508.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 8 Nov 2025 18:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Narkotyki do automatu paczkowego? \"Młodzi nie spotykają się z już dilerami\"",
+      "link": "https://www.bankier.pl/wiadomosc/Narkotyki-do-automatu-paczkowego-Mlodzi-nie-spotykaja-sie-z-juz-dilerami-9034517.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 8 Nov 2025 18:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Polacy nie żałują swoim czworonogom. Wydatki na zakupy dla zwierząt rosną w szybkim tempie",
+      "link": "https://www.bankier.pl/wiadomosc/Polacy-nie-zaluja-swoim-czworonogom-Wydatki-na-zakupy-dla-zwierzat-rosna-w-szybkim-tempie-9032344.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 8 Nov 2025 18:00:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Donald Trump odmawia udziału USA w szczycie G20 w RPA. \"Afrykanerzy są mordowani\"",
@@ -20391,6 +20421,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -33770,6 +33848,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72723,6 +72825,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -83625,6 +83751,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -89371,66 +89521,6 @@
       "link": "http://www.euronews.com/next/2025/11/01/are-self-driving-tractors-the-key-to-tackling-agricultures-labour-crisis",
       "pubDate": "Sat, 01 Nov 2025 08:01:02 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Premiera serialu o Grzegorzu Krychowiaku w SkyShowtime 27 listopada",
-      "link": "http://www.press.pl/tresc/90039,premiera-serialu-dokumentalnego-o-grzegorzu-krychowiaku-w-skyshowtime-27-listopada?rss=1",
-      "pubDate": "Sat, 01 Nov 2025 08:01:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "This new urine health scanner lets you analyse your pee at home - but it doesn’t come cheap",
-      "link": "http://www.euronews.com/health/2025/11/01/this-new-urine-health-scanner-lets-you-analyse-your-pee-at-home-but-it-doesnt-come-cheap",
-      "pubDate": "Sat, 01 Nov 2025 08:00:47 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "What if there's no reparations loan for Ukraine? EU weighs alternative plans",
-      "link": "http://www.euronews.com/my-europe/2025/11/01/what-if-theres-no-reparations-loan-for-ukraine-eu-weighs-alternative-plans",
-      "pubDate": "Sat, 01 Nov 2025 08:00:33 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "UN expert urged to investigate Lebanon over alleged torture of Egyptian-Turkish poet",
-      "link": "https://www.theguardian.com/world/2025/nov/01/un-torture-expert-investigate-lebanon-egyptian-turkish-poet",
-      "pubDate": "Sat, 01 Nov 2025 07:00:32 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Britain one of least ‘nature-connected’ nations in world – with Nepal the most",
-      "link": "https://www.theguardian.com/environment/2025/nov/01/britain-one-of-least-nature-connected-nations-in-world-with-nepal-the-most",
-      "pubDate": "Sat, 01 Nov 2025 07:00:32 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "‘It’s brutal, they feel very attacked’: budget uncertainty hits Southampton boat show",
-      "link": "https://www.theguardian.com/business/2025/nov/01/its-brutal-they-feel-very-attacked-budget-uncertainty-hits-southampton-boat-show",
-      "pubDate": "Sat, 01 Nov 2025 07:00:30 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Unregulated sperm donor still advertising services despite court warnings to women",
-      "link": "https://www.theguardian.com/science/2025/nov/01/unregulated-sperm-joe-donor-still-advertising-services-despite-court-warnings-women",
-      "pubDate": "Sat, 01 Nov 2025 07:00:30 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Hot summer and damp autumn cause UK boom in destructive honey fungus",
-      "link": "https://www.theguardian.com/science/2025/nov/01/hot-summer-and-damp-autumn-cause-uk-boom-in-destructive-honey-fungus",
-      "pubDate": "Sat, 01 Nov 2025 07:00:28 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Najważniejsze miejsca pamięci. Gdzie warto zapalić znicz 1 listopada?",
-      "link": "https://wydarzenia.interia.pl/religia/news-najwazniejsze-miejsca-pamieci-gdzie-warto-zapalic-znicz-1-li,nId,22449215",
-      "pubDate": "Sat, 01 Nov 2025 07:00:01 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Pułapka Wszystkich Świętych. \"Kościół nie namawiał do stawiania lampek\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-pulapka-wszystkich-swietych-kosciol-nie-namawial-do-stawiani,nId,22448859",
-      "pubDate": "Sat, 01 Nov 2025 07:00:01 GMT",
-      "source": "Interia"
     }
   ]
 }
