@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T20:41:36.173Z",
+  "generatedAt": "2025-11-08T20:51:03.693Z",
   "items": [
     {
       "title": "\"Podatek od smartfonów\" bez ustawy. Elektronika zdrożeje już od stycznia",
@@ -19,6 +19,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/papiez-spotkal-sie-w-watykanie-z-ofiarami-pedofilii/vvktvwh",
       "pubDate": "Sat, 08 Nov 2025 20:29:37 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Car fleeing police slams into bar in Tampa, killing 4 people and injuring 11",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/car-crash-tampa-bar",
+      "pubDate": "Sat, 08 Nov 2025 20:29:29 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "​Rosja odcina Ukrainie ciepło. \"Obecnie produkcja energii wynosi zero\"",
@@ -21279,6 +21285,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -34994,6 +35048,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74619,6 +74697,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -85857,6 +85959,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -90655,42 +90781,6 @@
       "link": "https://www.tabletowo.pl/google-sklep-play-weryfikacja-wieku/",
       "pubDate": "Sat, 01 Nov 2025 10:26:00 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Kody BLIK nie działają. Wicepremier informuje o możliwym ataku",
-      "link": "https://pieniadze.rp.pl/konta-bankowe/art43273991-kody-blik-nie-dzialaja-wicepremier-informuje-o-mozliwym-ataku",
-      "pubDate": "Sat, 01 Nov 2025 11:26:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Awaria BLIKa. Wicepremier informuje o możliwym ataku hakerskim",
-      "link": "https://pieniadze.rp.pl/konta-bankowe/art43273991-awaria-blika-wicepremier-informuje-o-mozliwym-ataku-hakerskim",
-      "pubDate": "Sat, 01 Nov 2025 11:26:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Duża awaria BLIK-a. Wicepremier mówi o \"zewnętrznym ataku\"",
-      "link": "https://wiadomosci.onet.pl/kraj/duza-awaria-blik-a-obserwujemy-zewnetrzny-atak/ff0s8hl",
-      "pubDate": "Sat, 01 Nov 2025 10:23:20 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Donald Trump zrobił remont w Białym Domu. Pokazał zdjęcia \"przed i po\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-01/donald-trump-zrobil-remont-w-bialym-domu-pokazal-zdjecia-przed-i-po/",
-      "pubDate": "Sat, 01 Nov 2025 11:22:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Kara za dokarmianie ptaków. Kiedy możesz narazić się nieprzyjemności?",
-      "link": "https://biznes.interia.pl/finanse/news-kara-za-dokarmianie-ptakow-jak-nie-wolno-tego-robic,nId,22449205",
-      "pubDate": "Sat, 01 Nov 2025 10:20:03 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Francja z nowym pociskiem balistycznym. Ma pełnić ważne zadanie",
-      "link": "https://tech.wp.pl/francja-z-nowym-pociskiem-balistycznym-ma-pelnic-wazne-zadanie,7216719423019680a",
-      "pubDate": "Sat, 01 Nov 2025 11:15:34 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
