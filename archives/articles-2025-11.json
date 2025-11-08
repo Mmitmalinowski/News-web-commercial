@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T21:31:02.209Z",
+  "generatedAt": "2025-11-08T21:40:47.159Z",
   "items": [
+    {
+      "title": "Weto Karola Nawrockiego dla Parku Doliny Odry. Rzecznik prezydenta zabrał głos",
+      "link": "https://wiadomosci.onet.pl/kraj/weto-nawrockiego-dla-parku-doliny-odry-rzecznik-prezydenta-zabral-glos/vcs2ept",
+      "pubDate": "Sat, 08 Nov 2025 21:35:47 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "​Robert Kubica został wicemistrzem świata",
+      "link": "https://www.rmf24.pl/sport/news-robert-kubica-zostal-wicemistrzem-swiata,nId,8039200",
+      "pubDate": "Sat, 08 Nov 2025 22:35:09 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Porwali 37-latka, grozili mu palnikiem. Po trzech dniach uciekł przez okno",
+      "link": "https://wydarzenia.interia.pl/lodzkie/news-porwali-37-latka-grozili-mu-palnikiem-po-trzech-dniach-uciek,nId,22452590",
+      "pubDate": "Sat, 08 Nov 2025 21:31:24 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Węgry \"zwolnione z sankcji\". Media: Trump chce pomóc Orbanowi wygrać wybory",
       "link": "https://tvn24.pl/swiat/wegry-zwolnione-z-sankcji-media-trump-chce-pomoc-orbanowi-wygrac-wybory-st8743333?source=rss",
@@ -21471,6 +21489,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -35282,6 +35348,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75099,6 +75189,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -86433,6 +86547,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -91002,54 +91140,6 @@
       "title": "Duża awaria systemu BLIK. Wicepremier mówi o \"zewnętrznym ataku\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-duza-awaria-systemu-blik-wicepremier-mowi-o-zewnetrznym-atak,nId,22449838",
       "pubDate": "Sat, 01 Nov 2025 11:29:03 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Pentagon wydał zgodę na dostawę postrachu Kremla. Ostatnią barierą Trump",
-      "link": "https://tech.wp.pl/pentagon-wydal-zgode-na-dostawe-postrachu-kremla-ostatnia-bariera-trump,7217102105180832a",
-      "pubDate": "Sat, 01 Nov 2025 12:26:58 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Kredyt w Hiszpanii dwukrotnie tańszy niż w Polsce. Kto może skorzystać?",
-      "link": "https://businessinsider.com.pl/nieruchomosci/polacy-inwestuja-w-hiszpanii-nizsze-raty-kredytow-i-mniejsze-prowizje/xgp8myj",
-      "pubDate": "Sat, 01 Nov 2025 11:20:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ile telewizji dla trzylatka? Brytyjskie badanie o związkach czasu ekranowego z objawami ADHD",
-      "link": "https://www.rp.pl/psychologia/art43274011-ile-telewizji-dla-trzylatka-brytyjskie-badanie-o-zwiazkach-czasu-ekranowego-z-objawami-adhd",
-      "pubDate": "Sat, 01 Nov 2025 12:18:49 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Niesmak po Halloween. Dzieci w zemście obrzuciły dom kamieniami",
-      "link": "https://www.rmf24.pl/regiony/poznan/news-niesmak-po-halloween-dzieci-w-zemscie-obrzucily-dom-kamienia,nId,8036785",
-      "pubDate": "Sat, 01 Nov 2025 12:15:53 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Groził pobiciem i podpaleniem mieszkania. Zaatakował strażników miejskich",
-      "link": "https://tvn24.pl/tvnwarszawa/wilanow/warszawa-grozil-pobiciem-i-podpaleniem-mieszkania-zaatakowal-straznikow-miejskich-st8731145?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 11:12:41 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "ICEYE z nową funkcjonalnością. Zdjęcia satelitarne w mniej niż godzinę",
-      "link": "https://tech.wp.pl/iceye-z-nowa-funkcjonalnoscia-zdjecia-satelitarne-w-mniej-niz-godzine,7216449020226144a",
-      "pubDate": "Sat, 01 Nov 2025 12:10:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Kia bije rekord Guinnessa. Żaden elektryczny van nie przejechał tylu kilometrów",
-      "link": "https://moto.rp.pl/na-prad/art43273311-kia-bije-rekord-guinnessa-zaden-elektryczny-van-nie-przejechal-tylu-kilometrow",
-      "pubDate": "Sat, 01 Nov 2025 12:09:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Miliarder poruszony wywiadem z Donaldem Tuskiem. \"Mocny\", \"brutalna prawda\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-miliarder-poruszony-wywiadem-z-donaldem-tuskiem-mocny-brutal,nId,22449833",
-      "pubDate": "Sat, 01 Nov 2025 11:03:52 GMT",
       "source": "Interia"
     }
   ]
