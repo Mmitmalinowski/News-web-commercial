@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T05:20:34.093Z",
+  "generatedAt": "2025-11-08T05:39:07.703Z",
   "items": [
+    {
+      "title": "Znana firma z USA inwestuje w Warszawie i Gdańsku. Będzie mnóstwo nowych etatów",
+      "link": "https://businessinsider.com.pl/gospodarka/znana-firma-z-usa-inwestuje-w-warszawie-i-gdansku/xlft1zb",
+      "pubDate": "Sat, 08 Nov 2025 05:29:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Orban ogłasza sukces po spotkaniu z Trumpem. \"Całkowite zwolnienie z sankcji\"",
+      "link": "https://www.money.pl/gospodarka/orban-oglasza-sukces-po-spotkaniu-z-trumpem-calkowite-zwolnienie-z-sankcji-7219524268256192a.html",
+      "pubDate": "Sat, 08 Nov 2025 06:29:07 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Shutdown paraliżuje Amerykę: Odwołane loty i mocny wpis Donalda Trumpa",
+      "link": "https://www.rmf24.pl/polityka/news-shutdown-paralizuje-ameryke-odwolane-loty-i-mocny-wpis-donal,nId,8038915",
+      "pubDate": "Sat, 08 Nov 2025 06:27:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "TLC w wybranych krajach za darmo",
+      "link": "https://www.wirtualnemedia.pl/tlc-niekodowany-wielka-brytania-koniec-hgtv-warner-bros-discovery,7215515860994656a",
+      "pubDate": "Sat, 08 Nov 2025 06:20:40 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Rządzący triumfują. \"Ziobro porzucił swoich ludzi i uciekł\"",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/rzadzacy-triumfuja-zbigniew-ziobro-porzucil-swoich-ludzi-i-uciekl/lxqepwq",
+      "pubDate": "Sat, 08 Nov 2025 05:20:33 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Fundusz Sprawiedliwości w medialnej służbie PiS. Tak sięgano po miliony",
+      "link": "https://tvn24.pl/polska/fundusz-sprawiedliwosci-w-medialnej-sluzbie-pis-tak-siegano-po-miliony-st8742311?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 05:20:09 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Nie tylko Meta i TikTok. Australia rozszerza zakaz social mediów dla dzieci",
       "link": "https://www.wirtualnemedia.pl/nie-tylko-meta-i-tiktok-australia-rozszerza-zakaz-social-mediow-dla-dzieci,7218545068931744a",
@@ -16503,6 +16539,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -28778,6 +28862,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65523,6 +65631,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -72218,6 +72350,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "2",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
