@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T17:43:44.770Z",
+  "generatedAt": "2025-11-08T17:53:28.289Z",
   "items": [
+    {
+      "title": "Bezpardonowy atak Jacka Kurskiego na Donalda Tuska. Padły ostre epitety",
+      "link": "https://wiadomosci.onet.pl/kraj/bezpardonowy-atak-jacka-kurskiego-na-donalda-tuska-padly-epitety/mrqge9d",
+      "pubDate": "Sat, 08 Nov 2025 17:50:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gigantyczna transakcja przejęcia producenta leków na otyłość. Pfizer dał 10 mld dol.",
+      "link": "https://businessinsider.com.pl/gielda/pfizer-przejal-producenta-lekow-na-otylosc-10-mld-dol-na-stole/kphel0r",
+      "pubDate": "Sat, 08 Nov 2025 17:48:48 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Białe trufle. Te grzyby osiągają teraz w Słowenii zawrotne ceny",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/biale-trufle-te-grzyby-osiagaja-teraz-w-slowenii-zawrotne-ceny-st8743204?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 17:44:25 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ziobro ucieka przed odsiadką. Tusk i Nawrocki biją się o specsłużby. Wielki Bu wchodzi w dragi",
+      "link": "https://wiadomosci.onet.pl/kraj/ziobro-ucieka-przed-odsiadka-tusk-i-nawrocki-bija-sie-o-specsluzby-wielki-bu-wchodzi/6kt45rx",
+      "pubDate": "Sat, 08 Nov 2025 17:44:25 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Izabela Stelmańska: Mazowsze zaskoczy i zainspiruje na targach ITTF Warsaw",
+      "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43309281-izabela-stelmanska-mazowsze-zaskoczy-i-zainspiruje-na-targach-ittf-warsaw",
+      "pubDate": "Sat, 08 Nov 2025 18:44:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "W Brazylii gromadzą się uczestnicy szczytu klimatycznego COP30",
+      "link": "https://tvn24.pl/fakty-artykuly/brazylia-rusza-cop30-w-amazonii-usa-nie-wyslaly-zadnego-wysokiego-ranga-przedstawiciela-st8743231?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 17:40:06 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "​Hennig-Kloska ostro odpowiada Nawrockiemu. \"Kłamstwa i fejki\"",
       "link": "https://www.rmf24.pl/polityka/news-hennig-kloska-ostro-odpowiada-nawrockiemu-klamstwa-i-fejki,nId,8038972",
@@ -20535,6 +20571,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -33962,6 +34046,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73011,6 +73119,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -83961,6 +84093,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -89544,72 +89700,6 @@
       "title": "Po jednym jeżdżą auta, na innym stoją bloki. Stworzyli mapę nieistniejących cmentarzy ",
       "link": "https://tvn24.pl/poznan/po-jednym-jezdza-auta-na-innym-stoja-bloki-powstala-mapa-nieistniejacych-cmentarzy-st8712806?source=rss",
       "pubDate": "Sat, 01 Nov 2025 07:33:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Hurricane Melissa: drone footage captures widespread destruction across the Caribbean",
-      "link": "http://www.euronews.com/video/2025/11/01/hurricane-melissa-drone-footage-captures-widespread-destruction-across-the-caribbean",
-      "pubDate": "Sat, 01 Nov 2025 08:32:55 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "What do war, feminism and love smell like? This German exhibition 'nose' the answer",
-      "link": "http://www.euronews.com/culture/2025/11/01/what-do-war-feminism-and-love-smell-like-this-german-exhibition-has-the-answer",
-      "pubDate": "Sat, 01 Nov 2025 08:32:38 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Zdjęcia Google z fenomenalną nowością. Warto czekać",
-      "link": "https://antyweb.pl/zdjecia-google-z-fenomenalna-nowoscia-warto-czekac",
-      "pubDate": "Sat, 01 Nov 2025 07:30:13 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Grób do likwidacji? Takie opłaty może pobierać cmentarz [PRZEWODNIK]",
-      "link": "https://businessinsider.com.pl/prawo/cmentarze-parafialne-rzadza-sie-swoimi-prawami-jak-nie-stracic-grobu-i-kiedy-trzeba/cxyp23t",
-      "pubDate": "Sat, 01 Nov 2025 07:30:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Nocny napad i łup warty 2 miliony złotych. Trzy osoby zatrzymane",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-nocny-napad-i-lup-warty-2-miliony-zlotych-trzy-osoby-zatrzym,nId,8036765",
-      "pubDate": "Sat, 01 Nov 2025 08:20:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kontrofensywa Ukrainy w \"twierdzy\" Pokrowsk. Lądują tam siły specjalne",
-      "link": "https://www.bankier.pl/wiadomosc/Kontrofensywa-Ukrainy-w-twierdzy-Pokrowsk-Laduja-tam-sily-specjalne-9033694.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 1 Nov 2025 08:20:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Technologia na straży godnego pożegnania. Jak innowacje zmieniają polską branżę funeralną – rozmowa z balsamistą Dominikiem Siwkiem",
-      "link": "https://mamstartup.pl/technologia-na-strazy-godnego-pozegnania-jak-innowacje-zmieniaja-polska-branze-funeralna-rozmowa-z-balsamista-dominikiem-siwkiem/",
-      "pubDate": "Sat, 01 Nov 2025 07:16:59 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Tak ma wyglądać obrona \"frontowego\" kraju NATO. Byliśmy na kluczowych ćwiczeniach",
-      "link": "https://businessinsider.com.pl/wiadomosci/tak-ma-wygladac-obrona-kluczowego-kraju-nato-zdjecia/h8wh232",
-      "pubDate": "Sat, 01 Nov 2025 07:16:52 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Trump obraził się za reklamę. Premier Kanady publicznie go przeprosił",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-obrazil-sie-za-reklame-premier-kanady-publicznie-go-pr,nId,22449794",
-      "pubDate": "Sat, 01 Nov 2025 07:14:23 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Polska największym producentem świec i zniczy w Europie. \"Wysoki poziom\"",
-      "link": "https://wiadomosci.onet.pl/warszawa/polska-liderem-jestesmy-najwiekszym-producentem-swiec-i-zniczy-w-europie/8nvebse",
-      "pubDate": "Sat, 01 Nov 2025 07:10:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Wiało tak mocno, że samoloty nie mogły wylądować. Nagranie",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/bilbao-hiszpania-wialo-tak-silnie-ze-samoloty-nie-mogly-wyladowac-nagranie-st8730915?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 07:10:09 GMT",
       "source": "TVN24"
     }
   ]
