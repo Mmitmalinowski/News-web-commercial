@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T14:41:14.996Z",
+  "generatedAt": "2025-11-08T14:51:12.214Z",
   "items": [
+    {
+      "title": "Setki lotów opóźnionych bądź odwołanych przez paraliż rządu USA. Będzie jeszcze gorzej",
+      "link": "https://www.rp.pl/transport/art43309231-setki-lotow-opoznionych-badz-odwolanych-przez-paraliz-rzadu-usa-bedzie-jeszcze-gorzej",
+      "pubDate": "Sat, 08 Nov 2025 15:48:24 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Afrykanki miały pracować w hotelu. Rosja zmusiła je do produkcji dronów?",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-afrykanki-mialy-pracowac-w-hotelu-rosja-zmusila-je-do-produk,nId,8038955",
+      "pubDate": "Sat, 08 Nov 2025 15:46:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Karol Nawrocki na Marszu Niepodległości? Prezydent rozwiał wątpliwości",
+      "link": "https://www.rp.pl/polityka/art43309151-karol-nawrocki-na-marszu-niepodleglosci-prezydent-rozwial-watpliwosci",
+      "pubDate": "Sat, 08 Nov 2025 15:43:18 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Karol Nawrocki pójdzie w Marszu Niepodległości. Nagrał film",
+      "link": "https://www.rmf24.pl/fakty/polska/news-karol-nawrocki-pojdzie-w-marszu-niepodleglosci-nagral-film,nId,8038960",
+      "pubDate": "Sat, 08 Nov 2025 15:42:02 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wyż \"gnije\". Kiedy pogoda się poprawi?",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-5-dni-zgnily-wyz-wplywa-na-aure-w-polsce-kiedy-pogoda-sie-poprawi-pogoda-na-11-listopada-dzien-niepodleglosci-st8743061?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 14:40:51 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "​Śmiertelny wypadek na kolei: Pociągi opóźnione nawet 3 godziny",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-smiertelny-wypadek-na-kolei-pociagi-opoznione-nawet-3-godzin,nId,8038961",
+      "pubDate": "Sat, 08 Nov 2025 15:37:20 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Bez tego sztuczna inteligencja się nie rozwinie. Giganci wykładają miliardy na podmorskie kable",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/bez-tego-sztuczna-inteligencja-sie-nie-rozwinie-giganci-wykladaja-miliardy-na/12vk9x0",
@@ -19587,6 +19623,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -32702,6 +32786,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71127,6 +71235,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -77822,6 +77954,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "2",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
