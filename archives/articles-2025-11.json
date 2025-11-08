@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T21:59:56.658Z",
+  "generatedAt": "2025-11-08T22:23:41.634Z",
   "items": [
+    {
+      "title": "Thousands take to Lisbon streets over proposed labour laws",
+      "link": "https://www.bbc.com/news/articles/cpd257jd3zzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 08 Nov 2025 22:07:31 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Researchers discover giant spider ‘Megacity’ in cave on Albania-Greece border",
+      "link": "http://www.euronews.com/video/2025/11/08/researchers-discover-giant-spider-megacity-in-cave-on-albania-greece-border",
+      "pubDate": "Sat, 08 Nov 2025 23:07:29 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Australia news live: Greens condemn neo-Nazi rally outside NSW parliament; Princess Anne in Sydney for start of royal tour",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/09/australia-news-live-sunday-politics-nsw-parliament-royal-tour-weather-ntwnfb",
+      "pubDate": "Sat, 08 Nov 2025 22:04:05 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "US cleaning woman shot and killed after arriving at wrong home ",
+      "link": "https://www.bbc.com/news/articles/ce3k5qv21g1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 08 Nov 2025 22:00:13 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Minister klimatu reaguje na weto Nawrockiego. \"To fejki\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-minister-klimatu-reaguje-na-weto-nawrockiego-to-fejki,nId,22452582",
+      "pubDate": "Sat, 08 Nov 2025 21:59:22 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Rzecznik prezydenta o \"absurdalnej\" sytuacji dotyczącej Ziobry",
       "link": "https://tvn24.pl/polska/rafal-leskiewicz-rzecznik-karola-nawrockiego-uchylenie-immunitetu-zbigniewowi-ziobrze-to-absurdalna-i-niebezpieczna-sytuacja-st8743348?source=rss",
@@ -21567,6 +21597,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -35450,6 +35528,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75411,6 +75513,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -86817,6 +86943,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -91260,66 +91410,6 @@
       "title": "Batonik z 7-centymetrowym wkrętem. Przykry finał halloweenowego żartu",
       "link": "https://www.rmf24.pl/regiony/poznan/news-batonik-z-7-centymetrowym-wkretem-przykry-final-halloweenowe,nId,8036788",
       "pubDate": "Sat, 01 Nov 2025 12:56:01 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Drone interrupts flight operations at Berlin Airport for two hours",
-      "link": "http://www.euronews.com/2025/11/01/drone-interrupts-flight-operations-at-berlin-airport-for-two-hours",
-      "pubDate": "Sat, 01 Nov 2025 12:55:05 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Rewolucja po 14 latach. Tyle wyniesie zasiłek pogrzebowy",
-      "link": "https://www.money.pl/pieniadze/oskar-sobolewski/rewolucja-po-14-latach-tyle-wyniesie-zasilek-pogrzebowy-7217071247673952a.html",
-      "pubDate": "Sat, 01 Nov 2025 12:51:19 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "1 listopada za kierownicą. \"Po drugiej stronie może być osoba, która przeżywa silne emocje\"",
-      "link": "https://tvn24.pl/polska/wszystkich-swietych-2025-1-listopada-za-kierownica-jak-sie-zachowac-na-co-uwazac-st8731096?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 11:50:31 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Weekendowa Lektura: odcinek 648 [2025-11-01]. Bierzcie i czytajcie",
-      "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-648-2025-11-01-bierzcie-i-czytajcie/",
-      "pubDate": "Sat, 01 Nov 2025 11:50:09 +0000",
-      "source": "Zaufana Trzecia Strona"
-    },
-    {
-      "title": "Hakerzy zaatakowali znane biuro podróży. Minister radzi, co powinni zrobić klienci",
-      "link": "https://www.bankier.pl/wiadomosc/Hakerzy-zaatakowali-znane-biuro-podrozy-Minister-radzi-co-powinni-zrobic-klienci-9033736.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 1 Nov 2025 12:50:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Zestawienie nowości Adobe MAX 2025 i gotowanie żaby",
-      "link": "https://www.chip.pl/2025/11/adobe-max-2025-nowosci",
-      "pubDate": "Sat, 01 Nov 2025 11:49:53 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Hamas przekazał kolejne szczątki. Izrael: nie należą do zakładników ",
-      "link": "https://tvn24.pl/swiat/strefa-gazy-hamas-przekazal-kolejne-szczatki-izrael-nie-naleza-do-zakladnikow-st8731184?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 11:45:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Klienci Itaki proszeni o czujność. Touroperator ofiarą ataku hakerskiego",
-      "link": "https://turystyka.rp.pl/biura-podrozy/art43274041-klienci-itaki-proszeni-o-czujnosc-touroperator-ofiara-ataku-hakerskiego",
-      "pubDate": "Sat, 01 Nov 2025 12:41:55 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Taniec, muzyka, festyn. W tym kraju 1 listopada nie ma milczenia i zadumy",
-      "link": "https://biznes.interia.pl/gospodarka/news-kolorowe-wszystkich-swietych-obchodzi-go-kraj-na-innym-konty,nId,22443632",
-      "pubDate": "Sat, 01 Nov 2025 11:40:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Rozpoznajesz tego mężczyznę? Chodzi o atak na kobietę",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-rozpoznajesz-tego-mezczyzne-chodzi-o-atak-na-kobiete,nId,8036786",
-      "pubDate": "Sat, 01 Nov 2025 12:40:00 +0100",
       "source": "RMF24"
     }
   ]
