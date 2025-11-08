@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T20:51:03.693Z",
+  "generatedAt": "2025-11-08T21:00:48.581Z",
   "items": [
+    {
+      "title": "\"Nigdy wcześniej niewidziana\" liczba rakiet i dronów zaatakowała w Ukrainie",
+      "link": "https://tvn24.pl/swiat/nigdy-wczesniej-niewidziana-liczba-rakiet-i-dronow-zaatakowala-w-ukrainie-st8743299?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 20:56:29 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sprzeczne sygnały z Budapesztu i Waszyngtonu. Co Orban wynegocjował z Trumpem?",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-sprzeczne-sygnaly-z-budapesztu-i-waszyngtonu-co-orban-wynego,nId,8039197",
+      "pubDate": "Sat, 08 Nov 2025 21:49:34 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Katastrofalna sytuacja w Strefie Gazy. Resort zdrowia ujawnia  liczbę zabitych",
+      "link": "https://wiadomosci.onet.pl/swiat/katastrofalna-sytuacja-w-strefie-gazy-resort-zdrowia-podal-liczbe-ofiar/qz9tbmr",
+      "pubDate": "Sat, 08 Nov 2025 20:43:50 GMT",
+      "source": "Onet"
+    },
     {
       "title": "\"Podatek od smartfonów\" bez ustawy. Elektronika zdrożeje już od stycznia",
       "link": "https://businessinsider.com.pl/gospodarka/podatki/podatek-od-smartfonow-bez-ustawy-elektronika-zdrozeje-juz-od-stycznia/7mm4mzc",
@@ -21309,6 +21327,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -35048,6 +35114,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74721,6 +74811,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -85983,6 +86097,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -90733,54 +90871,6 @@
       "link": "https://oko.press/na-zywo/na-zywo-relacja/premier-kanady-przeprasza-trumpa-za-spot-o-clach",
       "pubDate": "Sat, 01 Nov 2025 10:41:25 +0000",
       "source": "OKO.press"
-    },
-    {
-      "title": "Atak hakerski na biuro podróży. Wyciekły dane klientów",
-      "link": "https://businessinsider.com.pl/wiadomosci/atak-hakerski-na-nowa-itake-wyciekly-dane-klientow-najwiekszego-biura-podrozy/y4t0m9g",
-      "pubDate": "Sat, 01 Nov 2025 10:38:36 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Absolutnie odradzam\". Stworzył znaną markę",
-      "link": "https://www.money.pl/gospodarka/absolutnie-odradzam-stworzyl-znana-marke-7217124697794177v.html",
-      "pubDate": "Sat, 01 Nov 2025 11:38:04 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Serial \"1670\" przypomniał o niezwykłym i zapomnianym zwyczaju Rzeczypospolitej",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-serial-1670-przypomnial-o-niezwyklym-i-zapomnianym-zwyczaju-,nId,8036780",
-      "pubDate": "Sat, 01 Nov 2025 11:37:27 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Atak hakerski na popularne biuro podróży. Wyciekły dane części klientów",
-      "link": "https://www.rmf24.pl/fakty/polska/news-atak-hakerski-na-popularne-biuro-podrozy-wyciekly-dane-czesc,nId,8036784",
-      "pubDate": "Sat, 01 Nov 2025 11:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Polski film o wampirach, finansowe tarapaty reżysera i apel Billie Eilish",
-      "link": "https://tvn24.pl/kultura-i-styl/najciekawsze-nowosci-na-duzym-i-malym-ekranie-co-warto-obejrzec-kadr-na-kino-w-tvn24-st6430598?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 10:32:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Atak hakerski na znane biuro podróży. Wyciekły dane klientów",
-      "link": "https://wiadomosci.onet.pl/kraj/atak-hakerski-na-znane-biuro-podrozy-wyciekly-dane-czesci-klientow/8ksz29z",
-      "pubDate": "Sat, 01 Nov 2025 10:26:31 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Awaria BLIKa. Użytkownicy zgłaszają problemy",
-      "link": "https://pieniadze.rp.pl/konta-bankowe/art43273991-awaria-blika-uzytkownicy-zglaszaja-problemy",
-      "pubDate": "Sat, 01 Nov 2025 11:26:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Google chce mieć pewność, że jesteś pełnoletni",
-      "link": "https://www.tabletowo.pl/google-sklep-play-weryfikacja-wieku/",
-      "pubDate": "Sat, 01 Nov 2025 10:26:00 +0000",
-      "source": "Tabletowo"
     }
   ]
 }
