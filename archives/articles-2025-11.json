@@ -1,10 +1,40 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-08T20:10:35.988Z",
+  "generatedAt": "2025-11-08T20:29:57.843Z",
   "items": [
+    {
+      "title": "​Rosja odcina Ukrainie ciepło. \"Obecnie produkcja energii wynosi zero\"",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-rosja-odcina-ukrainie-cieplo-obecnie-produkcja-energii-wynos,nId,8039196",
+      "pubDate": "Sat, 08 Nov 2025 21:17:33 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "More than 1,000 flights canceled on second day of cuts tied to government shutdown",
+      "link": "https://www.theguardian.com/us-news/2025/nov/08/flight-cancellations-government-shutdown",
+      "pubDate": "Sat, 08 Nov 2025 20:14:15 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Israel and Hamas carry out exchange of remains as Gaza death toll continues to rise",
+      "link": "http://www.euronews.com/2025/11/08/israel-and-hamas-carry-out-exchange-of-remains-while-gaza-death-toll-continues-to-rise",
+      "pubDate": "Sat, 08 Nov 2025 21:12:53 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Ukraine's battle with Russia for Pokrovsk at pivotal point",
+      "link": "https://www.dw.com/en/ukraine-s-battle-with-russia-for-pokrovsk-at-pivotal-point/a-74673910?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 8 Nov 2025 20:10:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Paraliż wokół centrum handlowego w Warszawie. \"Za dużo klientów\"",
       "link": "https://kontakt24.tvn24.pl/najnowsze/paraliz-wokol-centrum-handlowego-w-warszawie-za-duzo-klientow-st8743311?source=rss",
+      "pubDate": "Sat, 08 Nov 2025 20:01:57 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Paraliż wokół centrum handlowego w Warszawie. \"Dużo klientów\"",
+      "link": "https://kontakt24.tvn24.pl/najnowsze/paraliz-wokol-centrum-handlowego-w-warszawie-duzo-klientow-st8743311?source=rss",
       "pubDate": "Sat, 08 Nov 2025 20:01:57 GMT",
       "source": "TVN24"
     },
@@ -21183,6 +21213,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -34850,6 +34928,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74379,6 +74481,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -85569,6 +85695,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -90451,66 +90601,6 @@
       "link": "https://www.dw.com/en/germany-news-wadephul-optimistic-about-mid-east-peace/live-74582023?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 1 Nov 2025 10:12:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Pet monkey gets loose inside Texas Halloween store",
-      "link": "http://www.euronews.com/video/2025/11/01/pet-monkey-gets-loose-inside-texas-halloween-store",
-      "pubDate": "Sat, 01 Nov 2025 11:09:27 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "\"Nie możemy przestać, nawet jeżeli czasem czujemy, że i nas ta tematyka przytłacza\"",
-      "link": "https://tvn24.pl/polska/magda-lucyan-z-nominacja-do-nagrody-viva-people-power-nie-mozemy-przestac-nawet-jezeli-czasem-czujemy-ze-i-nas-ta-tematyka-przytlacza-st8731037?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 10:08:48 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Powalił na ziemię, kopał po całym ciele. Policja szuka sprawcy pobicia kobiety",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/zyrardow-powalil-na-ziemie-kopal-po-calym-ciele-policja-szuka-sprawcy-pobicia-kobiety-st8731019?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 10:08:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Origami rozwiązuje zagadkę fizyki kwantowej. Matematyk odkrył związek ze zderzeniami cząstek",
-      "link": "https://www.chip.pl/2025/11/origami-zwiazek-ze-zderzeniami-czastek",
-      "pubDate": "Sat, 01 Nov 2025 10:08:22 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "O pożytkach z planowania własnego pogrzebu. Jak się dobrze żegnać?",
-      "link": "https://oko.press/o-pozytkach-z-planowania-wlasnego-pogrzebu-jak-sie-dobrze-zegnac",
-      "pubDate": "Sat, 01 Nov 2025 10:05:52 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Wyciek danych klientów biura podróży. Zainterweniował wicepremier Gawkowski",
-      "link": "https://wydarzenia.interia.pl/kraj/news-wyciek-danych-klientow-biura-podrozy-zainterweniowal-wicepre,nId,22449825",
-      "pubDate": "Sat, 01 Nov 2025 10:05:43 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Nowy przenośny biosensor wykrywa zaburzenia psychiczne w kilka minut",
-      "link": "https://geekweek.interia.pl/nauka/news-nowy-przenosny-biosensor-wykrywa-zaburzenia-psychiczne-w-kil,nId,22449604",
-      "pubDate": "Sat, 01 Nov 2025 10:05:03 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Atak hakerski na czołowe polskie biuro podróży. \"Ważna informacja\"",
-      "link": "https://tvn24.pl/biznes/tech/atak-hakerski-na-itake-wazna-informacja-st8731106?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 10:00:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "AI generuje gigantyczne zapotrzebowanie na pracowników. Firmy zakładają im \"złote kajdanki\"",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wielkie-firmy-zalozyly-pracownikom-zlote-kajdanki-zal-odejsc-przy-takiej-umowie/vmgg2gx",
-      "pubDate": "Sat, 01 Nov 2025 10:00:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Regiony węglowe apelują o zachowanie regionalnych instrumentów transformacyjnych",
-      "link": "https://www.bankier.pl/wiadomosc/Regiony-weglowe-apeluja-o-zachowanie-regionalnych-instrumentow-transformacyjnych-9033134.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 1 Nov 2025 11:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
