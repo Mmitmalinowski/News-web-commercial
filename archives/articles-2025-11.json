@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-09T06:48:29.404Z",
+  "generatedAt": "2025-11-09T06:58:25.181Z",
   "items": [
+    {
+      "title": "Ważniak z Microsoftu ostro o świadomych maszynach. Czy to już cyberrasizm?",
+      "link": "https://spidersweb.pl/2025/11/microsoft-ai-suleyman-rasizm.html",
+      "pubDate": "Sun, 09 Nov 2025 07:55:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Wysadzenie Nord Stream. Podejrzany \"jest w stanie krytycznym\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-wysadzenie-nord-stream-podejrzany-jest-w-stanie-krytycznym,nId,22452599",
+      "pubDate": "Sun, 09 Nov 2025 06:51:50 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Prawie milion ewakuowanych. Idzie supertajfun",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/filipiny-prawie-milion-ewakuowanych-idzie-supertajfun-st8743417?source=rss",
+      "pubDate": "Sun, 09 Nov 2025 06:48:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Paraliż komunikacyjny w okolicach Arkadii w Warszawie. Policja interweniowała dwukrotnie",
+      "link": "https://wiadomosci.onet.pl/warszawa/paraliz-komunikacyjny-w-okolicach-arkadii-policja-interweniowala-dwukrotnie/hht3t1g",
+      "pubDate": "Sun, 09 Nov 2025 06:47:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "\"Niewinny\" prezent od harcerzy miał drugie dno. Tak Amerykanie wpadli w pułapkę ZSRR",
+      "link": "https://wiadomosci.onet.pl/ciekawostki/to-mial-byc-drewniany-upominek-tak-zsrr-oszukalo-amerykanow-rekami-harcerzy/p3nfz15",
+      "pubDate": "Sun, 09 Nov 2025 06:47:07 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Defense brings Turkey and Germany closer",
       "link": "https://www.dw.com/en/defense-brings-turkey-and-germany-closer/a-74626914?maca=en-rss-en-all-1573-xml-mrss",
@@ -77,6 +107,12 @@
     {
       "title": "November 9 is a fateful day in the history of Germany",
       "link": "https://www.dw.com/en/november-9-is-a-fateful-day-in-the-history-of-germany/a-74659144?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 9 Nov 2025 06:16:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "November 9: A fateful day in the history of Germany",
+      "link": "https://www.dw.com/en/november-9-a-fateful-day-in-the-history-of-germany/a-74659144?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 9 Nov 2025 06:16:00 GMT",
       "source": "DW"
     },
@@ -22653,6 +22689,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -37064,6 +37148,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -78087,6 +78195,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -90021,6 +90153,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -93235,72 +93391,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/zmiana-na-stanowisku-premiera-tylu-zwolennikow-ma-donald-tusk-sondaz/qxdf17v",
       "pubDate": "Sat, 01 Nov 2025 17:25:42 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "38-latka z zarzutami po kradzieży w Luwrze",
-      "link": "https://tvn24.pl/swiat/38-latka-z-zarzutami-po-kradziezy-w-luwrze-st8731580?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 17:24:25 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "38-latka z zarzutami po kradzieży w Luwrze. \"Jest zdruzgotana i z całą mocą zaprzecza\"",
-      "link": "https://tvn24.pl/swiat/38-latka-z-zarzutami-po-kradziezy-w-luwrze-jest-zdruzgotana-i-z-cala-moca-zaprzecza-st8731580?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 17:24:25 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "38-latka z zarzutami po kradzieży w Luwrze. \"Jest zdruzgotana\"",
-      "link": "https://tvn24.pl/swiat/38-latka-z-zarzutami-po-kradziezy-w-luwrze-jest-zdruzgotana-st8731580?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 17:24:25 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tusk kontra Sikorski. Zapytali Polaków, kogo woleliby jako premiera",
-      "link": "https://wydarzenia.interia.pl/kraj/news-tusk-kontra-sikorski-zapytali-polakow-kogo-woleliby-jako-pre,nId,22449887",
-      "pubDate": "Sat, 01 Nov 2025 17:19:30 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Najmniej ufamy Braunowi i Kaczyńskiemu. Hołownia ostro w dół",
-      "link": "https://www.wirtualnemedia.pl/najmniej-ufamy-braunowi-i-kaczynskiemu-holownia-ostro-w-dol,7217222138727072a",
-      "pubDate": "Sat, 01 Nov 2025 18:18:15 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Walczyła z Bałtykiem prawie trzy dni. Jedno pytanie i koniec",
-      "link": "https://tvn24.pl/polska/karolina-szczepaniak-walczyla-z-baltykiem-plynela-przez-57-godzin-st8710595?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 17:14:17 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Marzenie księcia topnieje w słońcu. Największy projekt budowlany świata utknął w piasku",
-      "link": "https://businessinsider.com.pl/wideo/the-line-miasto-przyszlosci-czy-nierealny-sen-poznaj-szczegoly/fr6desy",
-      "pubDate": "Sat, 01 Nov 2025 17:11:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Polscy żołnierze polegli w obronie Lwowa. Ambasador Ukrainy wskazał datę ich pochówku",
-      "link": "https://wiadomosci.onet.pl/swiat/ekshumacje-polskich-zolnierzy-w-ukrainie-ambasador-ukrainy-wskazal-date/k2b9y20",
-      "pubDate": "Sat, 01 Nov 2025 17:10:18 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kto namalował dziesiątki serc na plaży? Wzruszająca dedykacja ",
-      "link": "https://tvn24.pl/swiat/wyjatkowy-widok-na-wloskiej-plazy-wiadomo-kto-za-tym-stoi-st8731590?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 17:06:41 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "UK aid for Hurricane Melissa reaches Jamaica as Britons to be evacuated",
-      "link": "https://www.bbc.com/news/articles/cvg441qyv2xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 01 Nov 2025 17:06:11 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "​Syn Kazimierza Górskiego w szczerym wyznaniu: Taty po prostu nie było w domu",
-      "link": "https://www.rmf24.pl/fakty/polska/news-syn-kazimierza-gorskiego-w-szczerym-wyznaniu-taty-po-prostu-,nId,8035089",
-      "pubDate": "Sat, 01 Nov 2025 18:03:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
