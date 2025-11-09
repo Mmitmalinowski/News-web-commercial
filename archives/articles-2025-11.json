@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-09T03:53:17.128Z",
+  "generatedAt": "2025-11-09T04:14:39.939Z",
   "items": [
+    {
+      "title": "Prezydent Syrii przyleciał do USA. Spotka się z Donaldem Trumpem. Podsumowanie nocy",
+      "link": "https://wiadomosci.onet.pl/swiat/prezydent-syrii-przylecial-do-usa-spotka-sie-z-trumpem-podsumowanie-nocy/dv1lqp6",
+      "pubDate": "Sun, 09 Nov 2025 04:09:32 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "More than 100,000 evacuated in the Philippines as Fung-wong intensifies into super typhoon",
+      "link": "https://www.theguardian.com/world/2025/nov/09/more-than-100000-evacuated-in-the-philippines-as-fung-wong-intensifies-into-super-typhoon",
+      "pubDate": "Sun, 09 Nov 2025 04:08:31 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Ponura jesień zawładnie dziś Polską. Tu możliwe są krótkie chwile ze słońcem [POGODA]",
+      "link": "https://wiadomosci.onet.pl/pogoda/polska-w-objeciach-ponurej-pogody-slonce-tylko-w-nielicznych-miejscach/ec9kr02",
+      "pubDate": "Sun, 09 Nov 2025 03:51:40 GMT",
+      "source": "Onet"
+    },
     {
       "title": "NSW police accused of ‘sickening’ double standard over neo-Nazi rally as Jewish groups demand answers",
       "link": "https://www.theguardian.com/australia-news/2025/nov/09/nsw-police-accused-of-sickening-double-standard-over-neo-nazi-rally-as-jewish-groups-demand-answers",
@@ -22101,6 +22119,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -36272,6 +36338,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76815,6 +76905,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -88509,6 +88623,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:42:34Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Jak rozpoznać osobę inteligentną? Wystarczy jedno zdanie",
       "link": "https://businessinsider.com.pl/wiadomosci/chcesz-podejmowac-lepsze-decyzje-poznaj-sekret-inteligentnych-ludzi/jlnkjbn",
       "pubDate": "Sun, 02 Nov 2025 13:40:38 GMT",
@@ -92353,54 +92491,6 @@
       "link": "https://android.com.pl/tech/984319-adres-zameldowania-zmiana-online/",
       "pubDate": "Sat, 01 Nov 2025 14:27:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Rachel Reeves considers 20% tax on assets of people deciding to leave UK",
-      "link": "https://www.theguardian.com/politics/2025/nov/01/rachel-reeves-considers-20-tax-on-assets-of-people-deciding-to-leave-uk",
-      "pubDate": "Sat, 01 Nov 2025 14:26:28 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"Królicza matka\". Przekonała cały kraj, oszukała medyków z królewskiego dworu",
-      "link": "https://tvn24.pl/ciekawostki/sprawa-mary-toft-krolicza-matka-przekonala-caly-kraj-oszukala-medykow-z-krolewskiego-dworu-st8640699?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 14:26:06 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Cukierek był \"dziwnie zawinięty\". \"Podłość ludzka nie ma granic\"",
-      "link": "https://tvn24.pl/katowice/chorzow-igla-w-cukierku-ktory-dzieci-dostaly-na-halloween-st8731250?source=rss",
-      "pubDate": "Sat, 01 Nov 2025 14:23:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tajemnie drony nad lotniskiem wojskowym w Belgii. Minister obrony alarmuje",
-      "link": "https://wiadomosci.onet.pl/swiat/tajemnie-drony-nad-lotniskiem-wojskowym-w-belgii-minister-obrony-alarmuje/91e7r0n",
-      "pubDate": "Sat, 01 Nov 2025 14:16:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Drony nad lotniskiem wojskowym w Belgii. Minister obrony alarmuje",
-      "link": "https://wiadomosci.onet.pl/swiat/drony-nad-lotniskiem-wojskowym-w-belgii-minister-obrony-alarmuje/91e7r0n",
-      "pubDate": "Sat, 01 Nov 2025 14:16:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zamieszki w Tanzanii po wyborach prezydenckich",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/tanzania-wybory-zamieszki",
-      "pubDate": "Sat, 01 Nov 2025 14:16:24 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "USA przekaże Ukrainie broń ostateczną. Zapadła decyzja",
-      "link": "https://spidersweb.pl/2025/11/tomahawki-ukraina-pentagon-decyzja-trump.html",
-      "pubDate": "Sat, 01 Nov 2025 15:15:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Tabletki „dzień po” będą wydawane bezpłatnie w aptekach w Anglii",
-      "link": "https://www.bankier.pl/wiadomosc/Tabletki-dzien-po-beda-wydawane-bezplatnie-w-aptekach-w-Anglii-9032048.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 1 Nov 2025 15:14:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
