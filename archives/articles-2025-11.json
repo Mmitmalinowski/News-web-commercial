@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-09T20:43:44.080Z",
+  "generatedAt": "2025-11-09T20:53:01.207Z",
   "items": [
+    {
+      "title": "Suspicious drone activity in Belgium, UK will send special team to support Brussels",
+      "link": "http://www.euronews.com/2025/11/09/suspicious-drone-activity-in-belgium-uk-will-send-special-team-to-support-brussels",
+      "pubDate": "Sun, 09 Nov 2025 21:45:10 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Rosyjskie uderzenie w sektor energetyczny. Wołodymyr Zełenski apeluje o wzmocnienie obrony",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-09/rosyjskie-uderzenie-w-sektor-energetyczny-wolodymyr-zelenski-apeluje-o-wzmocnienie-obrony/",
+      "pubDate": "Sun, 09 Nov 2025 21:43:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Na odkrycia warte Nagrody Nobla musimy w Polsce jeszcze poczekać",
+      "link": "https://www.rp.pl/zdrowie/art43311821-na-odkrycia-warte-nagrody-nobla-musimy-w-polsce-jeszcze-poczekac",
+      "pubDate": "Sun, 09 Nov 2025 21:40:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Australia news live: Politicians and celebrities pay tribute to John Laws after veteran talkback host’s death",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/10/australia-news-live-john-laws-radio-social-media-age-ban-reserve-bank-pauline-hanson-sussan-ley-anthony-albanese-net-zerontwnfb",
+      "pubDate": "Sun, 09 Nov 2025 20:35:53 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Zderzenie pociągów na Słowacji, są ranni",
       "link": "https://tvn24.pl/swiat/slowacja-niedaleko-bratyslawy-dwa-pociagi-pasazerskie-zderzyly-sie-sa-ranni-st8744338?source=rss",
@@ -27219,6 +27243,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -42998,6 +43070,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -86757,6 +86853,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-02T13:48:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Obaj wyprzedzali. Kierowca śmiertelnie potrącił motocyklistę koło Rybnika",
       "link": "https://wiadomosci.onet.pl/slask/tragedia-kolo-rybnika-41-letni-motocyklista-potracony-podczas-wyprzedzania/xs47d20",
       "pubDate": "Sun, 02 Nov 2025 13:43:14 GMT",
@@ -90596,198 +90716,6 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:42:34Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ Uwaga na e-maile od NFZ o “zwrocie kosztów zakupu leków”",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "2",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-na-e-maile-od-nfz-o-zwrocie-kosztow-zakupu-lekow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "2",
           "@_type": "application/atom+xml"
         }
       ],
