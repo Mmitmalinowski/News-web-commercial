@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T21:12:47.369Z",
+  "generatedAt": "2025-11-10T21:30:59.410Z",
   "items": [
+    {
+      "title": "Egzekucja na oczach mieszkańców. Dżihadyści zamordowali tiktokerkę",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-egzekucja-na-oczach-mieszkancow-dzihadysci-zamordowali-tikto,nId,8039374",
+      "pubDate": "Mon, 10 Nov 2025 22:23:37 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Prezydent weźmie udział w Marszu Niepodległości",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-wezmie-udzial-w-marszu-niepodleglosci-st8745925?source=rss",
+      "pubDate": "Mon, 10 Nov 2025 21:22:45 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rosyjskie klany władzy ujawnione. Kadyrow i Putin na czele",
+      "link": "https://wiadomosci.onet.pl/swiat/ramzan-kadyrow-liderem-najwiekszego-klanu-wladzy-w-rosji-obejmuje-96-osob/fqz5zxe",
+      "pubDate": "Mon, 10 Nov 2025 21:13:31 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "UK commentator detained by ICE after Israel criticism to be released, family says",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/sami-hamdi-to-be-released",
+      "pubDate": "Mon, 10 Nov 2025 21:08:41 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "IMGW ostrzega. Noc pod znakiem mgły",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-gesta-mgla-10-11-i-11-11-st8745946?source=rss",
@@ -85,6 +109,12 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-10/trump-na-rowni-pochylej-amerykanskie-media-pisza-o-czarnych-chmurach/",
       "pubDate": "Mon, 10 Nov 2025 21:24:00 +0100",
       "source": "Polsat News"
+    },
+    {
+      "title": "Chwilowe „zaginięcie” szefa tureckiego MSZ. Odnalazł się w Białym Domu",
+      "link": "https://www.rp.pl/dyplomacja/art43314421-chwilowe-zaginiecie-szefa-tureckiego-msz-odnalazl-sie-w-bialym-domu",
+      "pubDate": "Mon, 10 Nov 2025 21:23:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Jarosław Kaczyński grzmi i uderza w rząd. \"Niepodległość jest zagrożona\"",
@@ -35361,6 +35391,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -52868,6 +52946,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82183,54 +82285,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-wreszcie-ktos-wyjasnil-o-co-chodzi-w-powrocie-usa-do-testow-,nId,8036891",
       "pubDate": "Mon, 03 Nov 2025 07:24:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Ziobro może liczyć na ułaskawienie przez prezydenta. Żurek: Nie mam zaufania",
-      "link": "https://www.bankier.pl/wiadomosc/Ziobro-moze-liczyc-na-ulaskawienie-przez-prezydenta-Zurek-Nie-mam-zaufania-9033994.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 07:24:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Police find suspected cocaine in trick-or-treat bucket",
-      "link": "https://www.bbc.com/news/videos/cj41qqx1w4jo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 03 Nov 2025 06:21:04 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "AI, technologia i biznes. Zbliża się Infoshare Katowice 2025",
-      "link": "https://geekweek.interia.pl/technologia/news-infoshare-katowice-2025-nadchodzi-najwieksze-wydarzenie-tech,nId,22449594",
-      "pubDate": "Mon, 03 Nov 2025 06:20:04 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Trump: Nie chcę, żeby Amerykanie głodowali. Środki się znajdą",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-Nie-chce-zeby-Amerykanie-glodowali-Srodki-sie-znajda-9033985.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 07:20:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Massive crocodile taken to Steve Irwin’s Australia Zoo despite traditional owners’ anger over removal",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/03/crocodile-steve-irwin-australia-zoo-traditional-owners-anger-old-faithful",
-      "pubDate": "Mon, 03 Nov 2025 06:17:29 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Wstrząsająca zbrodnia i zaskakujący wyrok. Sprawca wyszedł na wolność",
-      "link": "https://wydarzenia.interia.pl/malopolskie/news-wstrzasajaca-zbrodnia-i-zaskakujacy-wyrok-sprawca-wyszedl-na,nId,22449609",
-      "pubDate": "Mon, 03 Nov 2025 06:15:03 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Akcja CBA i TVP w Rzymie. Gmyz czekał pod willą Giertycha",
-      "link": "https://www.bankier.pl/wiadomosc/Akcja-CBA-i-TVP-w-Rzymie-Gmyz-czekal-pod-willa-Giertycha-9033956.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 07:15:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "CBAM. Nowy podatek jeszcze nie wszedł w życie, a firmy już myślą, jak go uniknąć",
-      "link": "https://businessinsider.com.pl/prawo/mechanizm-cbam-od-2026-roku-co-czeka-importerow-i-przedsiebiorcow/hls5nk2",
-      "pubDate": "Mon, 03 Nov 2025 06:13:46 GMT",
-      "source": "Business Insider"
     }
   ]
 }
