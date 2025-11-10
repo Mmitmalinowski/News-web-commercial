@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T21:53:18.507Z",
+  "generatedAt": "2025-11-10T22:12:51.142Z",
   "items": [
+    {
+      "title": "David Szalay wins 2025 Booker prize for ‘dark’ Flesh",
+      "link": "https://www.theguardian.com/books/2025/nov/10/david-szalay-wins-2025-booker-prize-for-dark-flesh",
+      "pubDate": "Mon, 10 Nov 2025 22:00:01 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Empire State Building rozbłysnął bielą i czerwienią. Wyjątkowy gest USA",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-10/empire-state-building-rozblysnal-biela-i-czerwienia-wyjatkowy-gest-usa/",
+      "pubDate": "Mon, 10 Nov 2025 22:59:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Siemoniak zareagował po słowach Nawrockiego. Stanął w obronie szefów służb",
+      "link": "https://wydarzenia.interia.pl/kraj/news-siemoniak-zareagowal-po-slowach-nawrockiego-stanal-w-obronie,nId,22452927",
+      "pubDate": "Mon, 10 Nov 2025 21:48:16 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Viktor Orban wierzy, że Donald Trump ocali go przed Unią Europejską i porażką wyborczą",
       "link": "https://wiadomosci.onet.pl/swiat/viktor-orban-wierzy-ze-donald-trump-ocali-go-przed-unia-europejska-i-porazka-wyborcza/vf4w6l9",
@@ -121,6 +139,12 @@
       "link": "https://www.money.pl/gielda/niemcy-zainwestuja-w-surowce-chca-uniezaleznic-gospodarke-od-chin-7220451837750208a.html",
       "pubDate": "Mon, 10 Nov 2025 21:31:31 +0100",
       "source": "Money.pl"
+    },
+    {
+      "title": "Ros Atkins on... the BBC resignations",
+      "link": "https://www.bbc.com/news/videos/cr7mp7rnx48o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 10 Nov 2025 20:30:33 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Donald Trump grozi kontrolerom. \"Zastąpią was prawdziwi patrioci\"",
@@ -35493,6 +35517,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -53072,6 +53144,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82351,48 +82447,6 @@
       "link": "https://wiadomosci.onet.pl/pogoda/imgw-ostrzega-przed-ulewnym-deszczem-cztery-wojewodztwa-zagrozone/k1w686g",
       "pubDate": "Mon, 03 Nov 2025 06:46:52 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Ukraina przeprowadziła nocny atak. Uderzyli w czuły punkt Rosji",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-przeprowadzila-nocny-atak-uderzyli-w-czuly-punkt-ros,nId,22450117",
-      "pubDate": "Mon, 03 Nov 2025 06:46:19 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Niebezpieczne manewry i niesprawne auta. Policja walczy z ulicznymi wyścigami",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-niebezpieczne-manewry-i-niesprawne-auta-policja-walczy-z-uli,nId,8036899",
-      "pubDate": "Mon, 03 Nov 2025 07:45:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Holandia zwróci Egiptowi skradziony artefakt sprzed 3,5 tysiąca lat",
-      "link": "https://tvn24.pl/swiat/holandia-zwroci-egiptowi-skradziony-artefakt-sprzed-3-5-tysiaca-lat-st8732662?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 06:42:39 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wokalista disco polo w ogniu krytyki: Nie będzie kandydował na szefa międzynarodowej organizacji",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wokalista-disco-polo-w-ogniu-krytyki-nie-bedzie-kandydowal-n,nId,8036896",
-      "pubDate": "Mon, 03 Nov 2025 07:41:53 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Monday briefing: ‘Heroic’ rail worker fights for life after 15 minutes of horror",
-      "link": "https://www.theguardian.com/world/2025/nov/03/monday-briefing-heroic-rail-worker-fights-for-life-after-15-minutes-of-horror",
-      "pubDate": "Mon, 03 Nov 2025 06:40:49 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pat w USA. Jest wyrok sądu. Administracja Trumpa szuka pieniędzy",
-      "link": "https://www.money.pl/gospodarka/pat-w-usa-jest-wyrok-sadu-administracja-trumpa-szuka-pieniedzy-7217764905462368a.html",
-      "pubDate": "Mon, 03 Nov 2025 07:40:20 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Ministerstwo Cyfryzacji jest gotowe współpracować z Prezydentem ws. DSA",
-      "link": "https://cyberdefence24.pl/polityka-i-prawo/ministerstwo-cyfryzacji-jest-gotowe-wspolpracowac-z-prezydentem-ws-dsa",
-      "pubDate": "Mon, 03 Nov 2025 07:39:08 +0100",
-      "source": "Cyberdefence24"
     }
   ]
 }
