@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T07:50:16.340Z",
+  "generatedAt": "2025-11-10T07:59:24.840Z",
   "items": [
+    {
+      "title": "Rekordowy rozbłysk z czarnej dziury. Wyemitowana energia wykracza poza zwykłe skale",
+      "link": "https://www.chip.pl/2025/11/rozblysk-z-czarnej-dziury-rekordowa-energia",
+      "pubDate": "Mon, 10 Nov 2025 07:57:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Polacy sceptyczni wobec koalicji PiS i Konfederacji. Najnowszy sondaż",
+      "link": "https://www.rp.pl/polityka/art43312251-polacy-sceptyczni-wobec-koalicji-pis-i-konfederacji-najnowszy-sondaz",
+      "pubDate": "Mon, 10 Nov 2025 08:56:54 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Burze śnieżne w USA. Może spaść ponad metr śniegu",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burze-sniezne-w-usa-moze-spasc-ponad-metr-sniegu-st8744490?source=rss",
+      "pubDate": "Mon, 10 Nov 2025 07:53:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Duża sieć wycofuje produkt. Apel do klientów",
+      "link": "https://tvn24.pl/biznes/z-kraju/action-wycofuje-zabawke-apel-do-klientow-st8744515?source=rss",
+      "pubDate": "Mon, 10 Nov 2025 07:48:11 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polacy nieufni wobec koalicji PiS i Konfederacji. Najnowszy sondaż",
+      "link": "https://businessinsider.com.pl/wiadomosci/polacy-podzieleni-w-sprawie-sojuszu-pis-i-konfederacji-sondaz-rmf-fm/ecyd0p9",
+      "pubDate": "Mon, 10 Nov 2025 07:47:33 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Emocje posła PiS w studiu. Apel prowadzącego o \"mniej nagrzania\"",
+      "link": "https://wiadomosci.onet.pl/kraj/emocje-posla-pis-w-studiu-apel-prowadzacego-o-mniej-nagrzania/4vrg87x",
+      "pubDate": "Mon, 10 Nov 2025 07:47:16 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Podatek cukrowy ma iść w górę. Dziwne zasady opłaty chroniącej nasze zdrowie",
       "link": "https://businessinsider.com.pl/prawo/podatki/podatek-cukrowy-ma-isc-w-gore-dziwne-zasady-oplaty-chroniacej-nasze-zdrowie/gm3ff9j",
@@ -29547,6 +29583,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -46046,6 +46130,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83918,222 +84026,6 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "31",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-02T13:48:13Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "⚠️ [AKTUALIZACJA] Wyciek danych z SuperGrosz.pl",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "34",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-supergrosz-pl-wyciekly-wasze-dane/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "34",
           "@_type": "application/atom+xml"
         }
       ],
