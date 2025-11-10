@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T22:12:51.142Z",
+  "generatedAt": "2025-11-10T22:34:31.396Z",
   "items": [
+    {
+      "title": "Gaddafi's youngest son released after 10 years in Lebanese detention ",
+      "link": "https://www.bbc.com/news/articles/czxnq6d71y9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 10 Nov 2025 22:25:19 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "David Szalay wins 2025 Booker prize for ‘dark’ Flesh",
       "link": "https://www.theguardian.com/books/2025/nov/10/david-szalay-wins-2025-booker-prize-for-dark-flesh",
@@ -25,6 +31,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/viktor-orban-wierzy-ze-donald-trump-ocali-go-przed-unia-europejska-i-porazka-wyborcza/vf4w6l9",
       "pubDate": "Mon, 10 Nov 2025 21:46:52 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Syria to join US-led coalition to defeat IS group after Trump meeting",
+      "link": "https://www.bbc.com/news/articles/cvgvz6316zwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 10 Nov 2025 21:44:44 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Pożar pod Krakowem. Kilkanaście zastępów strażackich walczy z ogniem",
@@ -35541,6 +35553,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -53144,6 +53204,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82417,36 +82501,6 @@
       "link": "https://android.com.pl/tech/987425-youtube-cenzura-windows-11/",
       "pubDate": "Mon, 03 Nov 2025 06:53:07 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Kontrowersje wokół oświadczeń majątkowych w NBP. Prezes Glapiński miał namawiać do utajnienia danych",
-      "link": "https://businessinsider.com.pl/wiadomosci/kontrowersje-wokol-oswiadczen-majatkowych-w-nbp-prezes-glapinski-mial-namawiac-do/wf4rqmj",
-      "pubDate": "Mon, 03 Nov 2025 06:51:31 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Suta dotacja dla startupu walczącego z otyłością: Holi zyskuje 12,5 mln PLN w rundzie z 4growth VC",
-      "link": "https://mamstartup.pl/suta-dotacja-dla-startupu-walczacego-z-otyloscia-holi-zyskuje-125-mln-pln-w-rundzie-z-4growth-vc/",
-      "pubDate": "Mon, 03 Nov 2025 06:50:08 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Wytrzymają więcej niż inne. Te smartfony mają sporo plusów",
-      "link": "https://www.tabletowo.pl/wytrzymaja-wiecej-niz-inne-smartfony-realme-c85/",
-      "pubDate": "Mon, 03 Nov 2025 06:50:05 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Powerful Afghanistan earthquake leaves 20 dead and reportedly damages famous Blue Mosque",
-      "link": "https://www.theguardian.com/world/2025/nov/03/afghanistan-earthquake-death-toll-reportedly-damages-blue-mosque",
-      "pubDate": "Mon, 03 Nov 2025 06:48:50 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Uwaga na ulewy. IMGW wydał ostrzeżenia dla czterech województw",
-      "link": "https://wiadomosci.onet.pl/pogoda/imgw-ostrzega-przed-ulewnym-deszczem-cztery-wojewodztwa-zagrozone/k1w686g",
-      "pubDate": "Mon, 03 Nov 2025 06:46:52 GMT",
-      "source": "Onet"
     }
   ]
 }
