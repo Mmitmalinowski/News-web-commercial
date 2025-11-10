@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T20:42:16.734Z",
+  "generatedAt": "2025-11-10T20:54:01.550Z",
   "items": [
+    {
+      "title": "Sekretarz stanu USA podziękował Litwie. \"Udzielacie wspaniałego wsparcia\"",
+      "link": "https://wiadomosci.onet.pl/swiat/marco-rubio-podziekowal-litwie-udzielacie-wspanialego-wsparcia/9nxdzyx",
+      "pubDate": "Mon, 10 Nov 2025 20:50:57 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Wstajesz i nagle wzrasta ci tętno. Wiele osób, które przeszły COVID-19, nie wie, że ma POTS",
       "link": "https://tvn24.pl/fakty-artykuly/pots-co-to-jest-wstajesz-i-nagle-wzrasta-ci-tetno-wiele-osob-ktore-przeszly-covid-19-nie-wie-ze-to-ma-st8745802?source=rss",
@@ -41,6 +47,12 @@
     {
       "title": "Jarosław Kaczyński grzmi i uderza w rząd. \"Niepodległość jest zagrożona\"",
       "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-grzmi-i-uderza-w-rzad-niepodleglosc-jest-zagrozona/2c4elj0",
+      "pubDate": "Mon, 10 Nov 2025 20:17:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Jarosław Kaczyński grzmi i uderza w rząd. \"Niepodległość jest zagrożona\"",
+      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-znow-straszy-niepodleglosc-jest-zagrozona/2c4elj0",
       "pubDate": "Mon, 10 Nov 2025 20:17:18 GMT",
       "source": "Onet"
     },
@@ -431,6 +443,12 @@
     {
       "title": "US: Trump hosts Syria's new ruler in dramatic turnaround",
       "link": "https://www.dw.com/en/us-trump-hosts-syria-s-new-ruler-in-dramatic-turnaround/a-74692025?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 10 Nov 2025 18:38:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "US: Trump hosts Syria's new ruler at the White House in dramatic turnaround",
+      "link": "https://www.dw.com/en/us-trump-hosts-syria-s-new-ruler-at-the-white-house-in-dramatic-turnaround/a-74692025?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 10 Nov 2025 18:38:00 GMT",
       "source": "DW"
     },
@@ -35247,6 +35265,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -52706,6 +52772,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82087,42 +82177,6 @@
       "link": "http://www.press.pl/tresc/90100,w-prime-time-polsat-prowadzi-w-grupie-ogolnej_-a-tvn-----w-komercyjnej?rss=1",
       "pubDate": "Mon, 03 Nov 2025 07:06:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "TVP 1: emisja drugiego sezonu \"Zaraz wracam\" z Kurdej-Szatan od razu po zakończeniu pierwszego",
-      "link": "http://www.press.pl/tresc/90101,tvp-1_-emisja-drugiego-sezonu-_zaraz-wracam_-z-kurdej-szatan-od-razu-po-zakonczeniu-pierwszego?rss=1",
-      "pubDate": "Mon, 03 Nov 2025 07:05:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Stopy procentowe, dane z przemysłu, rating Polski",
-      "link": "https://tvn24.pl/biznes/z-kraju/stopy-procentowe-rating-polski-wyniki-spolek-to-najwazniejsze-wydarzenia-tygodnia-st8732688?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 06:04:29 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tajemnicze spotkanie w gabinecie dyrektora. Nowe doniesienia w sprawie działki pod CPK",
-      "link": "https://wiadomosci.onet.pl/kraj/tajemnicze-spotkanie-w-gabinecie-dyrektora-nowe-doniesienia-w-sprawie-dzialki-pod-cpk/4pd090j",
-      "pubDate": "Mon, 03 Nov 2025 06:04:03 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Program \"Wykrywacz kłamstw\" ma wyniki powyżej średniej TVP Info",
-      "link": "http://www.press.pl/tresc/90102,program-_wykrywacz-klamstw_-ma-wyniki-powyzej-sredniej-tvp-info?rss=1",
-      "pubDate": "Mon, 03 Nov 2025 07:04:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Top Marka 2025: konsekwencja w działaniu. Listę TOP 500 marek otwierają Onet, WP i PKO BP",
-      "link": "http://www.press.pl/tresc/90103,top-marka-2025_-konsekwencja-w-dzialaniu_-liste-top-500-marek-otwieraja-onet_-wp-i-pko-bp?rss=1",
-      "pubDate": "Mon, 03 Nov 2025 07:03:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 03.11.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-03-11-2025-7217765323184800a.html",
-      "pubDate": "Mon, 03 Nov 2025 07:02:20 +0100",
-      "source": "Money.pl"
     }
   ]
 }
