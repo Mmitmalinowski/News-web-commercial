@@ -1,12 +1,48 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T19:25:45.204Z",
+  "generatedAt": "2025-11-10T19:37:14.051Z",
   "items": [
+    {
+      "title": "OpenAI chce wejść do branży zdrowotnej",
+      "link": "https://android.com.pl/tech/990480-openai-chce-wejsc-do-branzy-zdrowotnej/",
+      "pubDate": "Mon, 10 Nov 2025 19:33:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Donald Trump żąda powrotu kontrolerów ruchu lotniczego do pracy i grozi cięciem pensji",
+      "link": "https://www.rp.pl/transport/art43314361-donald-trump-zada-powrotu-kontrolerow-ruchu-lotniczego-do-pracy-i-grozi-cieciem-pensji",
+      "pubDate": "Mon, 10 Nov 2025 20:30:57 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Węgry w grze o kluczowe uzbrojenie z USA. \"Musimy nadążać\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-wegry-w-grze-o-kluczowe-uzbrojenie-z-usa-musimy-nadazac,nId,22452908",
+      "pubDate": "Mon, 10 Nov 2025 19:28:30 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ich akcje wzrosły dziś o 130 proc. Inwestorzy widzą potencjał w leku na raka",
+      "link": "https://businessinsider.com.pl/gospodarka/ich-akcje-wzrosly-dzis-o-130-proc-inwestorzy-widza-potencjal-w-leku-na-raka/6x8lwd7",
+      "pubDate": "Mon, 10 Nov 2025 19:25:00 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Ministerstwo Funduszy i Polityki Regionalnej promuje Fundusze Europejskie",
       "link": "https://www.wirtualnemedia.pl/ministerstwo-funduszy-i-polityki-regionalnej-promuje-fundusze-europejskie,7220439019322240a",
       "pubDate": "Mon, 10 Nov 2025 20:24:19 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Drug dealer granted clemency by Trump sent back to prison for violating terms of release",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/drug-dealer-jonathan-braun-violate-trump-clemency",
+      "pubDate": "Mon, 10 Nov 2025 19:24:08 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Democratic candidate for Congress criticizes deal to end shutdown – which her mother voted to advance",
+      "link": "https://www.theguardian.com/us-news/2025/nov/10/democrat-candidate-congress-criticizes-deal-end-shutdown-mother",
+      "pubDate": "Mon, 10 Nov 2025 19:23:30 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Nowy lider na kontynencie. Zaostrza się walka mocarstw",
@@ -37,6 +73,12 @@
       "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43314321-wiza-do-egiptu-moze-zdrozec-rzad-szykuje-podwyzke",
       "pubDate": "Mon, 10 Nov 2025 20:12:31 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Niemcy rzucają wyzwanie Chinom. Miliard euro na fundusz surowcowy",
+      "link": "https://www.bankier.pl/wiadomosc/Niemcy-rzucaja-wyzwanie-Chinom-Miliard-euro-na-fundusz-surowcowy-9037659.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 10 Nov 2025 20:08:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Minister sprawiedliwości reaguje na oskarżenia. \"Koledzy Ziobry się wystraszyli\"",
@@ -34857,6 +34899,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -52196,6 +52286,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81793,66 +81907,6 @@
       "link": "https://tvn24.pl/swiat/serbia-glodowka-matki-przed-parlamentem-doszlo-do-zamieszek-st8732663?source=rss",
       "pubDate": "Mon, 03 Nov 2025 05:29:26 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Premier Rosji z wizytą w Chinach. Spotka się z Xi Jinpingiem. \"Bardzo duża waga\"",
-      "link": "https://wiadomosci.onet.pl/swiat/premier-rosji-z-wizyta-w-chinach-spotka-sie-z-xi-jinpingiem-bardzo-duza-waga/qxx6pz8",
-      "pubDate": "Mon, 03 Nov 2025 05:28:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Cła Trumpa przyspieszyły rozwój światowego handlu. Korzysta też Polska",
-      "link": "https://biznes.interia.pl/gospodarka/news-swiatowy-handel-bije-rekordy-nie-przeszkodzily-temu-nawet-cl,nId,22450116",
-      "pubDate": "Mon, 03 Nov 2025 05:27:32 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "OPEC+ podjął decyzję ws. wydobycia ropy",
-      "link": "https://www.money.pl/gospodarka/opec-podjal-decyzje-ws-wydobycia-ropy-7217752904342176a.html",
-      "pubDate": "Mon, 03 Nov 2025 06:24:45 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Donald Trump nie wyklucza nalotów na Nigerię. Jest reakcja władz tego kraju",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43277611-donald-trump-nie-wyklucza-nalotow-na-nigerie-jest-reakcja-wladz-tego-kraju",
-      "pubDate": "Mon, 03 Nov 2025 06:24:03 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Koniec naziemnej telewizji? \"Multipleksy podzielą los telefonii stacjonarnej\"",
-      "link": "https://www.wirtualnemedia.pl/naziemna-telewizja-cyfrowa-koniec-data-emitel-streaming-multipleksy,7215579641600608a",
-      "pubDate": "Mon, 03 Nov 2025 06:23:09 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Tąpnięcie w Gońcu. Odchodzą kluczowi pracownicy",
-      "link": "https://www.wirtualnemedia.pl/tapniecie-w-goncu-odchodza-wazni-pracownicy-irmina-jach-bartlomiej-cieslak,7216792435178080a",
-      "pubDate": "Mon, 03 Nov 2025 06:22:25 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Producent programów \"Rolnik szuka żony\" i \"Mam talent!\" ma nową szefową. Piotr Radzymiński odszedł po 25 latach",
-      "link": "https://www.wirtualnemedia.pl/fremantle-polska-dyrektor-zarzadzajacy-julita-brutus-piotr-radzyminski-rolnik-szuka-zony-mam-talent,7216860047641184a",
-      "pubDate": "Mon, 03 Nov 2025 06:22:10 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Wybrano najlepsze hotele świata. Ceny noclegów mogą robić wrażenie",
-      "link": "https://biznes.interia.pl/finanse/news-ranking-najlepszych-hoteli-swiata-za-noclegi-trzeba-slono-za,nId,22449758",
-      "pubDate": "Mon, 03 Nov 2025 05:20:03 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Israel says Hamas has returned remains of three hostages from Gaza as fragile ceasefire holds",
-      "link": "http://www.euronews.com/2025/11/03/israel-says-it-received-hamas-remains-of-3-hostages-from-gaza-as-fragile-ceasefire-holds",
-      "pubDate": "Mon, 03 Nov 2025 06:18:36 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Strzelanina w Wielkopolsce. Policja zakończyła obławę",
-      "link": "https://www.rmf24.pl/regiony/poznan/news-strzelanina-w-wielkopolsce-policja-zakonczyla-oblawe,nId,8036885",
-      "pubDate": "Mon, 03 Nov 2025 06:17:41 +0100",
-      "source": "RMF24"
     }
   ]
 }
