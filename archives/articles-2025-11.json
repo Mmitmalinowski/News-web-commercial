@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-10T23:43:51.663Z",
+  "generatedAt": "2025-11-10T23:58:00.843Z",
   "items": [
     {
       "title": "Prezydent Syrii przybył do Białego Domu. Pierwsze takie spotkanie",
@@ -35727,6 +35727,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -53474,6 +53522,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82753,24 +82825,6 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/amerykanskie-cla-w-sadzie-najwyzszym-najwieksza-bitwa-w-wojnie-handlowej-donalda-trumpa-st8732710?source=rss",
       "pubDate": "Mon, 03 Nov 2025 07:16:48 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Rosjanie odebrali nowe myśliwce. Najważniejszą informację znów ukryli",
-      "link": "https://tech.wp.pl/rosjanie-odebrali-nowe-mysliwce-najwazniejsza-informacje-znow-ukryli,7217770341784160a",
-      "pubDate": "Mon, 03 Nov 2025 08:14:51 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Israel receives remains of three more hostages from Gaza",
-      "link": "https://www.theguardian.com/world/2025/nov/03/israel-remains-hostages-gaza-hamas",
-      "pubDate": "Mon, 03 Nov 2025 07:14:47 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Walk My World: No seating, no stage, new Budapest show reimagines theatre and circus experience",
-      "link": "http://www.euronews.com/culture/2025/11/03/walk-my-world-no-seating-no-stage-new-budapest-show-reimagines-theatre-and-circus-experien",
-      "pubDate": "Mon, 03 Nov 2025 08:14:30 +0100",
-      "source": "Euronews"
     }
   ]
 }
