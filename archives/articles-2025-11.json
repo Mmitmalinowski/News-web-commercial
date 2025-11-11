@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T04:01:26.773Z",
+  "generatedAt": "2025-11-11T04:33:48.170Z",
   "items": [
+    {
+      "title": "Polska po 1918 mogła być mocarstwem. Na przeszkodzie stanęła polityka",
+      "link": "https://geekweek.interia.pl/historia/news-polska-po-1918-mogla-byc-mocarstwem-na-przeszkodzie-stanela,nId,22451803",
+      "pubDate": "Tue, 11 Nov 2025 04:30:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Koniec shutdownu coraz bliżej. Senat USA przegłosował prowizorium",
+      "link": "https://wiadomosci.onet.pl/swiat/koniec-shutdownu-coraz-blizej-senat-usa-przeglosowal-prowizorium/5snkvzz",
+      "pubDate": "Tue, 11 Nov 2025 04:29:40 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Paul Keating says he advised Gough Whitlam to put John Kerr ‘under police arrest’ during dismissal saga",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/11/paul-keating-gough-whitlam-dismissal-comments-john-kerr-arrest",
+      "pubDate": "Tue, 11 Nov 2025 04:23:16 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Przełom w Senacie. Koniec shutdownu coraz bliżej",
+      "link": "https://tvn24.pl/swiat/usa-przelom-w-senacie-koniec-shutdownu-coraz-blizej-st8745985?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 04:22:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Japan and China in growing row after PM Takaichi says Taiwan conflict could trigger military deployment",
+      "link": "https://www.theguardian.com/world/2025/nov/11/japan-china-row-takaichi-taiwan-conflict-military-deployment",
+      "pubDate": "Tue, 11 Nov 2025 04:17:49 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Izrael za karą śmierci dla \"terrorystów\". Pierwsze głosowanie przeszło przez Kneset",
       "link": "https://wiadomosci.onet.pl/swiat/izrael-za-kara-smierci-dla-terrorystow-pierwsze-glosowanie-przeszlo-przez-kneset/gb2b3vh",
@@ -36111,6 +36141,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -53978,6 +54056,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82993,54 +83095,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/nowa-rola-dla-szymona-holowni-miejsce-w-sam-raz-dla-niego/5wpg6br",
       "pubDate": "Mon, 03 Nov 2025 08:28:09 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Trump grozi, że Chiny i inne kraje nie dostaną najlepszych chipów NVIDII. „To technologia tylko dla USA”",
-      "link": "https://android.com.pl/tech/987433-trump-grozi-chipy-nvidia-tylko-dla-usa/",
-      "pubDate": "Mon, 03 Nov 2025 08:28:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Akcja \"Znicz\", policja podsumowała weekend. Zginęło dziewięć osób",
-      "link": "https://wydarzenia.interia.pl/kraj/news-akcja-znicz-policja-podsumowala-weekend-zginelo-dziewiec-oso,nId,22450168",
-      "pubDate": "Mon, 03 Nov 2025 08:26:50 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Najpierw sprzeczka, potem w ruch poszedł nóż. 40-latek z zarzutem usiłowania zabójstwa",
-      "link": "https://tvn24.pl/opole/glubczyce-zarzut-usilowania-zabojstwa-dla-40-latka-sam-zglosil-sie-do-szpitala-st8732813?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 08:25:10 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wszystkie oczy na Nowy Jork. Historyczne wybory. Trump grozi, że zabierze pieniądze",
-      "link": "https://www.money.pl/gospodarka/wszystkie-oczy-na-nowy-jork-historyczne-wybory-trump-grozi-ze-zabierze-pieniadze-7217795991575200a.html",
-      "pubDate": "Mon, 03 Nov 2025 09:23:06 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Prywatność przechodzi do historii. Oni wiedzą o nas wszystko",
-      "link": "https://spidersweb.pl/plus/2025/11/prywatnosc-przechodzi-do-historii/",
-      "pubDate": "Mon, 03 Nov 2025 09:22:59 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Pogoda w Polsce. Niż Marek. Strefa opadów będzie wędrować z zachodu na wschód",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-w-polsce-niz-marek-strefa-opadow-bedzie-wedrowac-z-zachodu-na-wschod-st8732761?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 08:21:23 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ukraińcy mają problem. Drony Rosjan są coraz lepsze",
-      "link": "https://tech.wp.pl/ukraincy-maja-problem-drony-rosjan-sa-coraz-lepsze,7217782175136352a",
-      "pubDate": "Mon, 03 Nov 2025 09:21:06 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Alarm dla podróżujących. MSZ stanowczo odradza ten kierunek",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-alarm-dla-podrozujacych-msz-stanowczo-odradza-ten-kierunek,nId,8036912",
-      "pubDate": "Mon, 03 Nov 2025 09:16:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
