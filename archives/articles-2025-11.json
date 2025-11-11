@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T04:49:19.370Z",
+  "generatedAt": "2025-11-11T04:58:32.524Z",
   "items": [
+    {
+      "title": "Chiny idą na całość, bo potęga myśliwców drzemie w napędzie. Gdzie w tym jest USA?",
+      "link": "https://www.chip.pl/2025/11/chiny-nowy-silnik-odrzutowy-mach-4",
+      "pubDate": "Tue, 11 Nov 2025 04:57:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Wojsko Polskie w kosmosie. Miliony wydane na potrzebne satelity",
+      "link": "https://geekweek.interia.pl/militaria/news-wojsko-polskie-w-kosmosie-miliony-wydane-na-potrzebne-sateli,nId,22452277",
+      "pubDate": "Tue, 11 Nov 2025 04:55:04 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Zwolnienia grupowe w byłym sponsorze reprezentacji Polski. W tle konflikt rodzinny o udziały warte setki milionów złotych",
+      "link": "https://wiadomosci.onet.pl/krakow/zwolnienia-grupowe-w-blachotrapezie-w-tle-konflikt-rodzinny-o-setki-milionow-zlotych/g4nztz4",
+      "pubDate": "Tue, 11 Nov 2025 04:50:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Koniec shutdownu coraz bliżej. Ważne głosowanie w Senacie USA",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-koniec-shutdownu-coraz-blizej-wazne-glosowanie-w-senacie-usa,nId,22452931",
+      "pubDate": "Tue, 11 Nov 2025 04:49:09 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Trump vows to support Syrian leadership after White House meeting with President al-Sharaa",
       "link": "http://www.euronews.com/2025/11/11/trump-vows-to-support-syrian-leadership-after-white-house-meeting-with-president-al-sharaa",
@@ -36207,6 +36231,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -54122,6 +54194,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83107,48 +83203,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-praca-szuka-czlowieka-oferuja-3-tys-euro-miesiecznie-i-darmo,nId,8036940",
       "pubDate": "Mon, 03 Nov 2025 09:44:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Zbigniew Ziobro zrzeknie się immunitetu? Były minister stawia sprawę jasno",
-      "link": "https://www.rmf24.pl/fakty/polska/news-zbigniew-ziobro-zrzeknie-sie-immunitetu-byly-minister-stawia,nId,8036941",
-      "pubDate": "Mon, 03 Nov 2025 09:40:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Nigeria reaguje na słowa Donalda Trumpa o interwencji militarnej. Składa propozycję",
-      "link": "https://wiadomosci.onet.pl/swiat/nigeria-reaguje-na-slowa-donalda-trumpa-o-interwencji-militarnej-sklada-propozycje/9254zvx",
-      "pubDate": "Mon, 03 Nov 2025 08:39:04 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Mercedes GLC 300e zaskakuje zasięgiem na prądzie. Komfort premium i realne oszczędności",
-      "link": "https://businessinsider.com.pl/technologie/motoryzacja/mercedes-glc-300e-czy-warto-wybrac-hybrydowego-suv-a-klasy-premium/2je8xh5",
-      "pubDate": "Mon, 03 Nov 2025 08:37:04 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Bon ciepłowniczy już czeka. Można dostać nawet 3,5 tys. zł",
-      "link": "https://www.bankier.pl/wiadomosc/Bon-cieplowniczy-juz-czeka-Mozna-dostac-nawet-3-5-tys-zl-9034048.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 09:37:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Oksana Zabużko: Mówiłam, że dziś Kijów, jutro Warszawa. To się właśnie rozgrywa",
-      "link": "https://wiadomosci.onet.pl/kraj/oksana-zabuzko-mowilam-ze-dzis-kijow-jutro-warszawa-to-sie-wlasnie-rozgrywa/ssp3gxt",
-      "pubDate": "Mon, 03 Nov 2025 08:34:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dekada sukcesów polskiego high-techu. Wyprzedzamy Szwecję i Hiszpanię w eksporcie zaawansowanych technologii",
-      "link": "https://mamstartup.pl/dekada-sukcesow-polskiego-high-techu-wyprzedzamy-szwecje-i-hiszpanie-w-eksporcie-zaawansowanych-technologii/",
-      "pubDate": "Mon, 03 Nov 2025 08:33:32 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Dzień Zaduszny na drogach. Policja przedstawiła tragiczne statystyki",
-      "link": "https://wiadomosci.onet.pl/kraj/dzien-zaduszny-na-drogach-policja-przedstawila-tragiczne-statystyki/fybnv82",
-      "pubDate": "Mon, 03 Nov 2025 08:31:16 GMT",
-      "source": "Onet"
     }
   ]
 }
