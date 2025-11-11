@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T23:19:30.088Z",
+  "generatedAt": "2025-11-11T23:32:34.083Z",
   "items": [
     {
       "title": "iPhone Pocket, czyli idą Święta – chowaj iPhone’a do skarpety",
@@ -42399,6 +42399,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -72033,6 +72081,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86479,24 +86551,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-usa-potwierdzaja-po-raz-pierwszy-donald-trump-mial-racje,nId,22450568",
       "pubDate": "Tue, 04 Nov 2025 04:56:09 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Prowokacje Kim Dzong Una. \"Wystrzelili około 10 pocisków\"",
-      "link": "https://wiadomosci.onet.pl/swiat/prowokacje-kim-dzong-una-wystrzelili-okolo-10-pociskow/hjj8x74",
-      "pubDate": "Tue, 04 Nov 2025 04:55:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "TVP pokaże koncert w Święto Niepodległości. Gwiazdy wystąpią w Lublinie",
-      "link": "https://www.wirtualnemedia.pl/tvp-pokaze-koncert-w-swieto-niepodleglosci-gwiazdy-wystapia-w-lublinie,7217942032611936a",
-      "pubDate": "Tue, 04 Nov 2025 05:55:28 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Po 20 latach odeszła z Radia ZET. Będzie pracować w sektorze kosmicznym",
-      "link": "https://www.wirtualnemedia.pl/anna-jozefowicz-po-20-latach-odeszla-z-radia-zet-wiadomo-gdzie-bedzie-pracowac,7217818821991008a",
-      "pubDate": "Tue, 04 Nov 2025 05:52:39 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
