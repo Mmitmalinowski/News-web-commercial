@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T22:57:37.602Z",
+  "generatedAt": "2025-11-11T23:19:30.088Z",
   "items": [
+    {
+      "title": "iPhone Pocket, czyli idą Święta – chowaj iPhone’a do skarpety",
+      "link": "https://www.chip.pl/2025/11/iphone-pocket-skartpeta-etui-cena-sklepy",
+      "pubDate": "Tue, 11 Nov 2025 23:12:23 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Woman eludes police after high-speed chase from California into Mexico",
+      "link": "https://www.theguardian.com/us-news/2025/nov/11/high-speed-chase-california-mexico",
+      "pubDate": "Tue, 11 Nov 2025 23:05:36 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pushback over proposal to lower speed limits on Australia’s country roads to between 70 and 90km/h",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/12/pushback-over-proposal-to-lower-speed-limits-on-australias-country-roads-to-between-70-and-90kmh",
+      "pubDate": "Tue, 11 Nov 2025 23:00:07 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "US ethics officials removed for inquiring into improper access of mortgage files",
+      "link": "https://www.theguardian.com/us-news/2025/nov/11/fannie-mae-mortgage-documents-letitia-james",
+      "pubDate": "Tue, 11 Nov 2025 22:52:07 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Moment newly opened bridge partially collapses in China",
       "link": "https://www.bbc.com/news/videos/c231yry75m3o?at_medium=RSS&at_campaign=rss",
@@ -42351,6 +42375,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -71937,6 +72009,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86401,48 +86497,6 @@
       "link": "https://www.wirtualnemedia.pl/anna-jozefowicz-po-20-latach-odeszla-z-radia-zet-wiadomo-gdzie-bedzie-pracowac,7217818821991008a",
       "pubDate": "Tue, 04 Nov 2025 05:52:39 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "To koniec godzin \"basiowych\". Czy wrócą szkolne wycieczki?",
-      "link": "https://tvn24.pl/polska/godziny-ponadwymiarowe-zmiana-przepisow-korzystna-dla-nauczycieli-st8733848?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 04:51:37 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prawo restrukturyzacyjne kontra praktyka ZUS, czyli spór o odsetki",
-      "link": "https://pro.rp.pl/biznes/art43275411-prawo-restrukturyzacyjne-kontra-praktyka-zus-czyli-spor-o-odsetki",
-      "pubDate": "Tue, 04 Nov 2025 05:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kiedy menedżer odpowie za oszustwo podatkowe",
-      "link": "https://pro.rp.pl/biznes/art43275401-kiedy-menedzer-odpowie-za-oszustwo-podatkowe",
-      "pubDate": "Tue, 04 Nov 2025 05:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Digital Network po trzech kwartałach miał 56,7 mln zł przychodów. Rok do roku o ok. 20 proc. więcej",
-      "link": "http://www.press.pl/tresc/90130,digital-network-po-trzech-kwartalach-mial-56_7-mln-zl-przychodow_-rok-do-roku-o-ok_-20-proc_-wiecej?rss=1",
-      "pubDate": "Tue, 04 Nov 2025 05:47:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Republika tym razem chce 250 tys. zł od widzów. Jest patronem Marszu Niepodległości",
-      "link": "https://www.wirtualnemedia.pl/republika-zbiorka-marsz-niepodleglosci-swieto-niepodlegosci-transmisja-danuta-holecka,7217973116574304a",
-      "pubDate": "Tue, 04 Nov 2025 05:46:11 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Zmarła znana aktorka Diana Ladd. Miała 89 lat",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-zmarla-znana-aktorka-diana-ladd-miala-89-lat,nId,8037220",
-      "pubDate": "Tue, 04 Nov 2025 05:42:36 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Alarm o uzbrojonym napastniku. Studenci zabarykadowali się w sali, wśród nich córka reportera",
-      "link": "https://tvn24.pl/swiat/usa-alarm-o-uzbrojonym-napastniku-studenci-zabarykadowali-sie-w-sali-wsrod-nich-corka-reportera-faktow-tvn-marcina-wrony-st8734205?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 04:41:49 GMT",
-      "source": "TVN24"
     }
   ]
 }
