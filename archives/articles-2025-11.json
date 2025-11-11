@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T15:45:08.328Z",
+  "generatedAt": "2025-11-11T15:54:48.182Z",
   "items": [
+    {
+      "title": "Chińskie macki sięgają naprawdę daleko. Skala jest przerażająca",
+      "link": "https://spidersweb.pl/2025/11/chinskie-macki-swiatowy-cyberszpieg-knownsec.html",
+      "pubDate": "Tue, 11 Nov 2025 16:49:27 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "German co-op banks close AfD accounts, prompting party outcry over ‘political’ move",
+      "link": "http://www.euronews.com/business/2025/11/11/german-co-op-banks-close-afd-accounts-prompting-party-outcry-over-political-move",
+      "pubDate": "Tue, 11 Nov 2025 16:47:41 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "NATO member Romania finds drone fragments after Russian strikes on Ukrainian ports",
+      "link": "http://www.euronews.com/2025/11/11/nato-member-romania-finds-drone-fragments-after-russian-strikes-on-ukrainian-ports",
+      "pubDate": "Tue, 11 Nov 2025 16:46:37 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Logowanie biometryczne i za pomocą kodu. Oto wady i zalety obu rozwiązań",
+      "link": "https://android.com.pl/tech/987737-logowanie-biometryczne-i-kodem/",
+      "pubDate": "Tue, 11 Nov 2025 15:45:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Fraudster who hid in London is jailed over £5.5bn bitcoin scam",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/11/fraudster-who-hid-in-london-is-jailed-over-bitcoin-scam",
+      "pubDate": "Tue, 11 Nov 2025 15:44:55 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Eurostat zaskoczył. Z okazji Święta Niepodległości podał sześć faktów o Polsce",
       "link": "https://businessinsider.com.pl/gospodarka/eurostat-zaskoczyl-z-okazji-swieta-niepodleglosci-podal-6-faktow-o-polsce/yyvlwz9",
@@ -40377,6 +40407,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -68667,6 +68745,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -84937,54 +85039,6 @@
       "link": "https://geekweek.interia.pl/internet/news-kolejny-atak-ddos-na-blik-platnosci-nie-dochodza,nId,22450510",
       "pubDate": "Mon, 03 Nov 2025 17:03:51 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Banki wsparły odbicie indeksów w Warszawie",
-      "link": "https://www.rp.pl/gielda/art43280951-banki-wsparly-odbicie-indeksow-w-warszawie",
-      "pubDate": "Mon, 03 Nov 2025 18:03:43 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Apple płaci Google za nową Siri. Steve Jobs przewraca się w grobie",
-      "link": "https://spidersweb.pl/2025/11/nowa-siri-iphone-gemini.html",
-      "pubDate": "Mon, 03 Nov 2025 18:03:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Puchnie majątek najbogatszych. Dzięki Trumpowi wzbogacili się o blisko 700 mld dol.",
-      "link": "https://www.bankier.pl/wiadomosc/Puchnie-majatek-najbogatszych-Dzieki-Trumpowi-wzbogacili-sie-o-blisko-700-mld-dol-9034394.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 18:03:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Powstanie nowy park rozrywki w południowej Polsce. Kiedy otwarcie?",
-      "link": "https://geekweek.interia.pl/lifestyle/news-powstanie-nowy-park-rozrywki-w-gliwicach-kiedy-otwarcie,nId,22450437",
-      "pubDate": "Mon, 03 Nov 2025 17:02:35 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Paulina Matysiak: Zostaję w Partii Razem. Nie ma rozmów o starcie z list PiS",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-paulina-matysiak-zostaje-w-partii-razem-nie-ma-rozmow-o-star,nId,8037070",
-      "pubDate": "Mon, 03 Nov 2025 18:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Paulina Matysiak: Nie odejdę",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-paulina-matysiak-nie-odejde,nId,8037070",
-      "pubDate": "Mon, 03 Nov 2025 18:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rafinerie Chin bojkotują ropę z Rosji. Eksport gazu wrócił do czasów Breżniewa",
-      "link": "https://energia.rp.pl/surowce-i-paliwa/art43280671-rafinerie-chin-bojkotuja-rope-z-rosji-eksport-gazu-wrocil-do-czasow-brezniewa",
-      "pubDate": "Mon, 03 Nov 2025 18:01:43 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Polskie ciężarówki z zakazem ruchu na Białorusi. Aleksander Łukaszenko wydał dekret",
-      "link": "https://wiadomosci.onet.pl/swiat/polskie-ciezarowki-z-zakazem-ruchu-na-bialorusi-lukaszenko-wydal-dekret/yc8el60",
-      "pubDate": "Mon, 03 Nov 2025 17:01:36 GMT",
-      "source": "Onet"
     }
   ]
 }
