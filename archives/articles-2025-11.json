@@ -1,11 +1,29 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T19:37:17.650Z",
+  "generatedAt": "2025-11-11T19:47:15.182Z",
   "items": [
+    {
+      "title": "Pożar mieszkania na piątym piętrze ",
+      "link": "https://tvn24.pl/tvnwarszawa/rembertow/rembertow-pozar-mieszkania-w-bloku-policja-bada-przyczyny-st8747415?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 19:45:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Afera korupcyjna w Ukrainie. Współpracownik Zełenskiego podejrzany",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-11/afera-korupcyjna-w-ukrainie-wspolpracownik-zelenskiego-podejrzany/",
+      "pubDate": "Tue, 11 Nov 2025 20:41:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Zakupy online z botem? Nadchodzi rewolucja w handlu, ale klienci mają obawy",
       "link": "https://pro.rp.pl/pro/art43313451-zakupy-online-z-botem-nadchodzi-rewolucja-w-handlu-ale-klienci-maja-obawy",
       "pubDate": "Tue, 11 Nov 2025 20:35:40 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zakupy online z botem? Nadchodzi rewolucja w handlu, ale klienci mają obawy",
+      "link": "https://pro.rp.pl/biznes/art43313451-zakupy-online-z-botem-nadchodzi-rewolucja-w-handlu-ale-klienci-maja-obawy",
+      "pubDate": "Tue, 11 Nov 2025 20:35:00 +0100",
       "source": "Rzeczpospolita"
     },
     {
@@ -41619,6 +41637,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -70533,6 +70599,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -85651,42 +85741,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-spod-gruzow-wiezy-zawalonej-w-rzymie-wydobyto-rannego-robotn,nId,8037216",
       "pubDate": "Mon, 03 Nov 2025 23:59:03 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "​Media: Nie żyje robotnik wydobyty spod gruzów wieży zawalonej w Rzymie",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-media-nie-zyje-robotnik-wydobyty-spod-gruzow-wiezy-zawalonej,nId,8037216",
-      "pubDate": "Mon, 03 Nov 2025 23:59:03 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "​\"Jeśli wygra Mamdani...\". Trump pogroził Nowemu Jorkowi",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-jesli-wygra-mamdani-trump-pogrozil-nowemu-jorkowi,nId,8037213",
-      "pubDate": "Mon, 03 Nov 2025 23:51:07 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Pornography depicting strangulation to become criminal offence in the UK",
-      "link": "https://www.theguardian.com/society/2025/nov/03/pornography-depicting-strangulation-to-become-criminal-offence-in-the-uk",
-      "pubDate": "Mon, 03 Nov 2025 22:30:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Prezydent Izraela ostrzega: kraj stoi na skraju przepaści",
-      "link": "https://wiadomosci.onet.pl/swiat/30-lat-po-zabojstwie-icchaka-rabina-prezydent-izraela-ostrzega/bqw0q81",
-      "pubDate": "Mon, 03 Nov 2025 22:14:15 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poseł KO Paweł Bliźniuk walczy z nowotworem. Apeluje: nie odkładajcie tego na później",
-      "link": "https://tvn24.pl/polska/posel-ko-pawel-blizniuk-walczy-z-nowotworem-apeluje-nie-odkladajcie-tego-na-pozniej-st8734187?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 21:55:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "China academic intimidation claim referred to counter-terrorism police",
-      "link": "https://www.bbc.com/news/articles/cj0e1lyyvdlo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 03 Nov 2025 21:52:28 GMT",
-      "source": "BBC News"
     }
   ]
 }
