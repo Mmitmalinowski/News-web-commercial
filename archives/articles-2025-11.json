@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T19:25:54.364Z",
+  "generatedAt": "2025-11-11T19:37:17.650Z",
   "items": [
+    {
+      "title": "Zakupy online z botem? Nadchodzi rewolucja w handlu, ale klienci mają obawy",
+      "link": "https://pro.rp.pl/pro/art43313451-zakupy-online-z-botem-nadchodzi-rewolucja-w-handlu-ale-klienci-maja-obawy",
+      "pubDate": "Tue, 11 Nov 2025 20:35:40 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Sztuczna inteligencja sterowała satelitą",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/sztuczna-inteligencja-sterowala-satelita-st8746446?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 19:32:13 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Australia news live: big banks lend $43bn to fossil fuel companies; NSW to spend $130m on beds for homeless",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/12/australia-news-live-fossil-fuel-lending-banks-net-zero-emissions-coalition-sussan-ley-liberals-nationals-anthony-albanese-labor-ntwnfb",
+      "pubDate": "Tue, 11 Nov 2025 19:29:46 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Children being ‘sedated’ by algorithmic YouTube content, MPs hear",
+      "link": "https://www.theguardian.com/society/2025/nov/11/children-being-sedated-by-algorithmic-youtube-content-mps-hear",
+      "pubDate": "Tue, 11 Nov 2025 19:25:41 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Tytanian strontu to nieoczekiwany sojusznik w rozwoju technologii kwantowych",
+      "link": "https://www.chip.pl/2025/11/tytanian-strontu-rozwoj-technologii-kwantowych",
+      "pubDate": "Tue, 11 Nov 2025 19:25:34 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "Kanał Zero obrywa za reklamy VPN. W tle piracki serwis i ogłoszenia prostytutek",
       "link": "https://www.wirtualnemedia.pl/kanal-zero-reklamy-krzysztof-stanowski-uncensor-vpn-zarzuty-jakub-k,7220791081909184a",
@@ -13,6 +43,12 @@
       "link": "https://tvn24.pl/polska/marsz-niepodleglosci-marcin-kierwinski-osoby-ktore-odpalily-race-beda-musialy-liczyc-sie-z-tym-ze-dostana-grzywne-st8747395?source=rss",
       "pubDate": "Tue, 11 Nov 2025 19:21:18 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Byliśmy na Marszu Niepodległości. \"Premier popełnił błąd\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-bylismy-na-marszu-niepodleglosci-premier-popelnil-blad,nId,22453066",
+      "pubDate": "Tue, 11 Nov 2025 19:21:08 GMT",
+      "source": "Interia"
     },
     {
       "title": "EU to relocate asylum seekers from Spain, Italy, Greece and Cyprus to other member states",
@@ -41559,6 +41595,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -70425,6 +70509,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -85579,60 +85687,6 @@
       "link": "https://www.bbc.com/news/articles/cj0e1lyyvdlo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Mon, 03 Nov 2025 21:52:28 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Polacy nie otrzymywali wynagrodzeń. Prezes norweskiej firmy umywa ręce",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-polacy-nie-otrzymywali-wynagrodzen-prezes-norweskiej-firmy-u,nId,22450555",
-      "pubDate": "Mon, 03 Nov 2025 21:46:56 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Terrorysta zginął w samochodzie. Tak RAF działa w Syrii",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-terrorysta-zginal-w-samochodzie-tak-raf-dziala-w-syrii,nId,8037193",
-      "pubDate": "Mon, 03 Nov 2025 22:46:04 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "AI dyktuje warunki i zaczyna przegrzewać Wall Street. W centrum uwagi \"deal\" Amazona i OpenAI",
-      "link": "https://www.bankier.pl/wiadomosc/AI-dyktuje-warunki-i-zaczyna-przegrzewac-Wall-Street-W-centrum-uwagi-deal-Amazona-i-OpenAI-9034473.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 22:38:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Białoruś wyśle \"siły pokojowe\" do Ukrainy? \"Będziemy gotowi\"",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-bialorus-wysle-sily-pokojowe-do-ukrainy-bedziemy-gotowi,nId,22450546",
-      "pubDate": "Mon, 03 Nov 2025 21:37:26 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Oscar-nominated actress Diane Ladd dies at 89",
-      "link": "https://www.bbc.com/news/articles/cvg41x3w1zvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 03 Nov 2025 21:32:42 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Kluczowy dostawca wściekły na dyrektywę Unii. Grozi zerwaniem dostaw gazu",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-kluczowy-dostawca-wsciekly-na-dyrektywe-unii-grozi-zerwaniem,nId,22450542",
-      "pubDate": "Mon, 03 Nov 2025 21:25:03 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Sztuczna inteligencja reaguje lepiej na niegrzeczne polecenia",
-      "link": "https://geekweek.interia.pl/aplikacje/news-sztuczna-inteligencja-reaguje-lepiej-na-niegrzeczne-poleceni,nId,22449617",
-      "pubDate": "Mon, 03 Nov 2025 21:22:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Rumunia pozyskała holenderskie F-16. Zapłacili za nie 1 euro",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-03/rumunia-pozyskala-holenderskie-f-16-zaplacili-za-nie-1-euro/",
-      "pubDate": "Mon, 03 Nov 2025 22:20:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Diane Ladd, Oscar-nominated actor of Alice Doesn’t Live Here Anymore, dies aged 89",
-      "link": "https://www.theguardian.com/film/2025/nov/03/diane-ladd-dead",
-      "pubDate": "Mon, 03 Nov 2025 20:59:21 GMT",
-      "source": "The Guardian"
     }
   ]
 }
