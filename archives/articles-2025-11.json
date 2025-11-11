@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T21:37:36.604Z",
+  "generatedAt": "2025-11-11T21:47:22.907Z",
   "items": [
+    {
+      "title": "Ziobro ma \"propozycję\" dla prokuratury",
+      "link": "https://tvn24.pl/polska/ziobro-ma-propozycje-dla-prokuratury-st8747444?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 21:43:25 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Kto stanie na czele potencjalnego rządu PiS? Sondaż wskazał faworyta",
       "link": "https://wydarzenia.interia.pl/kraj/news-kto-stanie-na-czele-potencjalnego-rzadu-pis-sondaz-wskazal-f,nId,22453078",
@@ -1439,6 +1445,12 @@
     {
       "title": "Jedna depesza przywróciła Polskę na mapę. Rozesłała ją poniemiecka stacja",
       "link": "https://geekweek.interia.pl/historia/news-w-1918-polska-odrodzila-sie-dzieki-jednej-depeszy-rozeslala,nId,22452357",
+      "pubDate": "Tue, 11 Nov 2025 15:00:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Jedna depesza przywróciła Polskę na mapę. Rozesłała ją poniemiecka stacja",
+      "link": "https://geekweek.interia.pl/historia/news-niepodlegla-polska-uratowana-dzieki-poniemieckiej-radiostacj,nId,22452357",
       "pubDate": "Tue, 11 Nov 2025 15:00:02 GMT",
       "source": "GeekWeek"
     },
@@ -42141,6 +42153,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -71439,6 +71499,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86089,36 +86173,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Peru-zrywa-stosunki-z-Meksykiem-Powodem-azyl-dla-bylej-premier-oskarzonej-o-zamachu-stanu-9034493.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 4 Nov 2025 05:05:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Koryfeusze Muzyki Polskiej. Jak odnieść sukces w trudnych czasach",
-      "link": "https://www.rp.pl/muzyka-klasyczna/art43275591-koryfeusze-muzyki-polskiej-jak-odniesc-sukces-w-trudnych-czasach",
-      "pubDate": "Tue, 04 Nov 2025 05:04:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Sprawa wiceszefa MSZ utknęła w sądzie i prokuraturze. W tle majątek po jego chrzestnym",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/wladyslaw-teofil-bartoszewski-sprawa-wiceszefa-msz-utknela-w-tle-majatek-po-jego/85k6k85",
-      "pubDate": "Tue, 04 Nov 2025 04:02:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Co w Czechach mówi się na temat wojny w Ukrainie? Niektóre odpowiedzi zaskakują",
-      "link": "https://wiadomosci.onet.pl/swiat/co-w-czechach-mowi-sie-na-temat-wojny-w-ukrainie-niektore-odpowiedzi-zaskakuja/m8cj4wr",
-      "pubDate": "Tue, 04 Nov 2025 04:00:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Marnowanie żywności w UE. Jak Polska wypada na tle innych państw Unii?",
-      "link": "https://klimat.rp.pl/na-talerzu/art43278271-marnowanie-zywnosci-w-ue-jak-polska-wypada-na-tle-innych-panstw-unii",
-      "pubDate": "Tue, 04 Nov 2025 05:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Coś dziwnego dzieje się z bezrobociem w Polsce. \"Można się łatwo wystraszyć\"",
-      "link": "https://businessinsider.com.pl/gospodarka/z-bezrobociem-w-polsce-dzieje-sie-cos-dziwnego-mozna-sie-latwo-wystraszyc/r3gbgjy",
-      "pubDate": "Tue, 04 Nov 2025 04:00:00 GMT",
-      "source": "Business Insider"
     }
   ]
 }
