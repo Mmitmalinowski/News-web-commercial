@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T05:42:00.586Z",
+  "generatedAt": "2025-11-11T05:52:07.798Z",
   "items": [
+    {
+      "title": "Ten fakt o Józefie Wybickim zaskoczy każdego Polaka! Hymn to tylko początek",
+      "link": "https://www.rmf24.pl/regiony/trojmiasto/news-ten-fakt-o-jozefie-wybickim-zaskoczy-kazdego-polaka-hymn-to-,nId,8037012",
+      "pubDate": "Tue, 11 Nov 2025 06:48:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Dlaczego Święto Niepodległości obchodzimy 11 listopada? Mija 107 lat od symbolicznego momentu",
+      "link": "https://wiadomosci.onet.pl/kraj/dlaczego-swieto-niepodleglosci-obchodzimy-11-listopada-mija-107-lat-od-symbolicznego/yn4jqp8",
+      "pubDate": "Tue, 11 Nov 2025 05:47:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Obchody Święta Niepodległości. \"Polityczne złoto\", które \"stało się świętem określonej grupy Polaków\"",
+      "link": "https://tvn24.pl/polska/obchody-swieta-niepodleglosci-polityczne-zloto-ktore-stalo-sie-swietem-okreslonej-grupy-polakow-st8745977?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 05:43:06 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nie wszyscy muszą płacić abonament, jest kilka wyjątków. Oto szczegóły",
+      "link": "https://biznes.interia.pl/finanse/news-nie-chcesz-placic-abonamentu-rtv-zobacz-czy-jestes-na-liscie,nId,22449101",
+      "pubDate": "Tue, 11 Nov 2025 05:40:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Alarmy IMGW. Tam należy zachować ostrożność",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-gesta-mgla-11-11-st8745946?source=rss",
@@ -29,6 +53,12 @@
     {
       "title": "Obniżka prądu o 33 proc. Nawrocki: głęboko przemyślane rozwiązanie",
       "link": "https://www.money.pl/emerytury/obnizka-pradu-o-33-proc-nawrocki-gleboko-przemyslane-rozwiazanie-7220583204715392a.html",
+      "pubDate": "Tue, 11 Nov 2025 06:19:43 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Obniżka prądu o 33 proc. Prezydent Nawrocki komentuje",
+      "link": "https://www.money.pl/emerytury/obnizka-pradu-o-33-proc-prezydent-nawrocki-komentuje-7220583204715392a.html",
       "pubDate": "Tue, 11 Nov 2025 06:19:43 +0100",
       "source": "Money.pl"
     },
@@ -36531,6 +36561,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -54518,6 +54596,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83263,54 +83365,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/dziwne-zagrania-donalda-trumpa-to-moze-byc-geopolityczny-zwrot-opinia/qcvkp13",
       "pubDate": "Mon, 03 Nov 2025 09:19:49 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Włączył światła awaryjne, wysiadł z auta. Nie żyje",
-      "link": "https://tvn24.pl/lodz/krepa-dk-14-zatrzymal-sie-przed-wiaduktem-wysiadl-z-auta-i-zostal-potracony-kierowca-nie-zyje-st8732896?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 09:19:32 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nowe informacje o ataku nożownika w brytyjskim pociągu. \"Nagrania z monitoringu pokazują\"",
-      "link": "https://wiadomosci.onet.pl/swiat/atak-nozownika-w-brytyjskim-pociagu-nowe-informacje-z-londynu/w2k844p",
-      "pubDate": "Mon, 03 Nov 2025 09:19:27 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "All set for Euronews' historic EU Enlargement Summit",
-      "link": "http://www.euronews.com/my-europe/2025/11/03/all-set-for-euronews-historic-eu-enlargement-summit",
-      "pubDate": "Mon, 03 Nov 2025 10:19:16 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Rodzice, uwaga! Oto objawy cyfrowego uzależnienia u dzieci, których nie możesz przegapić",
-      "link": "https://www.rmf24.pl/nauka/news-rodzice-uwaga-oto-objawy-cyfrowego-uzaleznienia-u-dzieci-kto,nId,8036962",
-      "pubDate": "Mon, 03 Nov 2025 10:18:55 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Można już składać wnioski o bon ciepłowniczy. Ile wynosi i komu przysługuje?",
-      "link": "https://www.rp.pl/nieruchomosci/art43278041-mozna-juz-skladac-wnioski-o-bon-cieplowniczy-ile-wynosi-i-komu-przysluguje",
-      "pubDate": "Mon, 03 Nov 2025 10:17:43 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Krzysztof Bosak o rządach PiS: Oczywiście, że byśmy rozliczali. Uważamy, że jest za co",
-      "link": "https://www.rp.pl/polityka/art43277731-krzysztof-bosak-o-rzadach-pis-oczywiscie-ze-bysmy-rozliczali-uwazamy-ze-jest-za-co",
-      "pubDate": "Mon, 03 Nov 2025 10:16:41 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Man charged after mass stabbing on train in Cambridgeshire",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/03/man-charged-after-mass-stabbing-on-cambridgeshire-train",
-      "pubDate": "Mon, 03 Nov 2025 09:16:14 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Ziobro \"ma do wyboru dwie drogi\"",
-      "link": "https://tvn24.pl/polska/ziobro-ma-do-wyboru-dwie-drogi-st8732791?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 09:15:41 GMT",
-      "source": "TVN24"
     }
   ]
 }
