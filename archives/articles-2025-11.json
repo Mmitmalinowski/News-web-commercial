@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T20:39:34.123Z",
+  "generatedAt": "2025-11-11T20:52:35.358Z",
   "items": [
+    {
+      "title": "UN welcomes aid supply talks with Sudan army",
+      "link": "https://www.dw.com/en/un-welcomes-aid-supply-talks-with-sudan-army/a-74705980?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 11 Nov 2025 20:48:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Policja podsumowała Marsz Niepodległości. Kilkadziesiąt osób zatrzymanych",
+      "link": "https://wydarzenia.interia.pl/kraj/news-policja-podsumowala-marsz-niepodleglosci-kilkadziesiat-osob,nId,22453074",
+      "pubDate": "Tue, 11 Nov 2025 20:43:39 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Góra rac i petard zarekwirowana. Policyjny bilans Marszu Niepodległości",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-gora-rac-i-petard-zarekwirowana-policyjny-bilans-marszu-niep,nId,8039439",
+      "pubDate": "Tue, 11 Nov 2025 21:42:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "‘The age of toys is over’: first Toy Story 5 teaser trailer introduces a new tech foe",
+      "link": "https://www.theguardian.com/film/2025/nov/11/toy-story-5-teaser-trailer",
+      "pubDate": "Tue, 11 Nov 2025 20:40:58 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Polski głos słyszalny na wystawie poświęconej energetyce jądrowej",
       "link": "https://energia.rp.pl/atom/art43317991-polski-glos-slyszalny-na-wystawie-poswieconej-energetyce-jadrowej",
@@ -13,6 +37,18 @@
       "link": "https://www.rmf24.pl/regiony/szczecin/news-siedmiu-aresztowanych-po-bojce-w-szczecinku-gdzie-jest-spraw,nId,8039440",
       "pubDate": "Tue, 11 Nov 2025 21:34:41 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Witness in Prince Harry case against Mail publisher says his confession was false",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/11/witness-in-prince-harry-case-against-mail-publisher-says-his-confession-was-false",
+      "pubDate": "Tue, 11 Nov 2025 20:33:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Andrew Mountbatten Windsor applies to shut down business interests",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/11/mountbatten-windsor-applies-to-shut-down-business-interests",
+      "pubDate": "Tue, 11 Nov 2025 20:33:08 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Będą kary po Marszu Niepodległości? Szef MSWiA zapowiada",
@@ -41913,6 +41949,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -71019,6 +71103,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -85848,60 +85956,6 @@
       "title": "Poznań - 04.11.2025. Prognoza pogody w mieście",
       "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-04112025/t6wz0l2",
       "pubDate": "Tue, 04 Nov 2025 03:04:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Opole. Sprawdź prognozę pogody w dniu 04.11.2025",
-      "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-04112025/39nftfy",
-      "pubDate": "Tue, 04 Nov 2025 03:03:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Olsztyn. Jaka pogoda czeka nas 04.11.2025?",
-      "link": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-04112025/m7ppkg1",
-      "pubDate": "Tue, 04 Nov 2025 03:03:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Lublin. Prognoza pogody w dniu 04.11.2025",
-      "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-04112025/4z0hj2k",
-      "pubDate": "Tue, 04 Nov 2025 03:03:36 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Łódź - 04.11.2025. Pogoda na dziś",
-      "link": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-04112025/725x3x9",
-      "pubDate": "Tue, 04 Nov 2025 03:03:24 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Senate Republicans strike down Democratic proposal to fully fund Snap",
-      "link": "https://www.theguardian.com/us-news/2025/nov/03/senate-republicans-snap-funds-resolution",
-      "pubDate": "Tue, 04 Nov 2025 03:03:23 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Kraków: Jaka pogoda na dziś? Prognoza w dniu 04.11.2025",
-      "link": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-04112025/st0vxgz",
-      "pubDate": "Tue, 04 Nov 2025 03:03:17 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kielce. Prognoza pogody w dniu 04.11.2025",
-      "link": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-04112025/971zf6c",
-      "pubDate": "Tue, 04 Nov 2025 03:03:03 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Katowice - sprawdź prognozę pogody w dniu 04.11.2025",
-      "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-04112025/hqgd82y",
-      "pubDate": "Tue, 04 Nov 2025 03:02:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gorzów Wielkopolski - 04.11.2025. Prognoza pogody w mieście",
-      "link": "https://wiadomosci.onet.pl/lubuskie/gorzow-wielkopolski-prognoza-pogody-w-dniu-04112025/syvh1w4",
-      "pubDate": "Tue, 04 Nov 2025 03:02:45 GMT",
       "source": "Onet"
     }
   ]
