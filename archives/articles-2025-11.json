@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T17:40:05.077Z",
+  "generatedAt": "2025-11-11T17:49:22.498Z",
   "items": [
+    {
+      "title": "iRobot ma problemy. My też (wkrótce) możemy je mieć",
+      "link": "https://www.tabletowo.pl/problemy-finansowe-irobot-roomba-2025/",
+      "pubDate": "Tue, 11 Nov 2025 17:44:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Mikroskopijny silnik gorętszy od Słońca. Europejska maszyna przekracza dotychczasowe granice",
+      "link": "https://www.chip.pl/2025/11/silnik-goretszy-od-slonca-zastosowania",
+      "pubDate": "Tue, 11 Nov 2025 17:43:37 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Pokrowsk walczy w cichych ruinach. Wojna na milimetry trwa. \"Rosyjski szturm zostanie odparty\"",
+      "link": "https://wiadomosci.onet.pl/swiat/pokrowsk-walczy-w-cichych-ruinach-wojna-na-milimetry-trwa-nadal-rosyjski-szturm/hhfxzzr",
+      "pubDate": "Tue, 11 Nov 2025 17:42:54 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Robert Lewandowski przed meczem z Holandią. „Może czasem brakowało mi empatii, ale serca nigdy”",
       "link": "https://sport.rp.pl/pilka-nozna/art43317801-robert-lewandowski-przed-meczem-z-holandia-moze-czasem-brakowalo-mi-empatii-ale-serca-nigdy",
@@ -41061,6 +41079,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -69639,6 +69705,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -85273,42 +85363,6 @@
       "link": "https://antyweb.pl/abonament-czy-oferta-na-karte",
       "pubDate": "Mon, 03 Nov 2025 19:00:18 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Na serię Galaxy S26 poczekamy dłużej. Samsung zmienia plany",
-      "link": "https://www.chip.pl/2025/11/na-serie-galaxy-s26-poczekamy-dluzej-samsung-zmienia-plany",
-      "pubDate": "Mon, 03 Nov 2025 19:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Orieszniki trafią do Caracas? Wpływowy rosyjski polityk: nie widzę żadnych przeszkód",
-      "link": "https://wiadomosci.onet.pl/swiat/orieszniki-trafia-do-caracas-wplywowy-rosyjski-polityk-nie-widze-zadnych-przeszkod/32gbgz8",
-      "pubDate": "Mon, 03 Nov 2025 18:59:53 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Krzysztof Luft będzie przekonywać władze TVP do pozostawienia kanału TVP Historia",
-      "link": "http://www.press.pl/tresc/90117,krzysztof-luft-bedzie-przekonywac-wladze-tvp-do-pozostawienia-kanalu-tvp-historia?rss=1",
-      "pubDate": "Mon, 03 Nov 2025 19:59:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "W wieku 84 lat zmarł Jerzy Derfel, autor muzyki do \"Misia\"",
-      "link": "https://tvn24.pl/polska/nie-zyje-jerzy-derfel-autor-muzyki-do-filmu-mis-zmarl-w-wieku-84-lat-st8734090?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 18:57:30 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trump administration will tap emergency fund to pay partial food stamp benefits",
-      "link": "https://www.bbc.com/news/articles/cglg632n719o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 03 Nov 2025 18:56:35 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Gigant obuwniczy zmuszony do ostrych cięć. Zwolni 900 pracowników",
-      "link": "https://biznes.interia.pl/gospodarka/news-puma-zmuszona-do-ostrych-ciec-wyprowadzimy-kota-na-wlasciwy,nId,22450528",
-      "pubDate": "Mon, 03 Nov 2025 18:55:25 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
