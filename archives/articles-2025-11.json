@@ -1,12 +1,30 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T04:33:48.170Z",
+  "generatedAt": "2025-11-11T04:49:19.370Z",
   "items": [
+    {
+      "title": "Trump vows to support Syrian leadership after White House meeting with President al-Sharaa",
+      "link": "http://www.euronews.com/2025/11/11/trump-vows-to-support-syrian-leadership-after-white-house-meeting-with-president-al-sharaa",
+      "pubDate": "Tue, 11 Nov 2025 05:42:09 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Apel do Nawrockiego, Święto Niepodległości, biało-czerwony Empire State Building",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-we-wtorek-11-listopada-najwazniejsze-informacje-st8745983?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 04:36:02 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Polska po 1918 mogła być mocarstwem. Na przeszkodzie stanęła polityka",
       "link": "https://geekweek.interia.pl/historia/news-polska-po-1918-mogla-byc-mocarstwem-na-przeszkodzie-stanela,nId,22451803",
       "pubDate": "Tue, 11 Nov 2025 04:30:03 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Ponura pogoda szybko nie ustąpi. Kilka regionów będzie dziś wyjątkiem",
+      "link": "https://wiadomosci.onet.pl/pogoda/dzis-pogoda-pozostawi-wiele-do-zyczenia-wyjatkiem-kilka-regionow/mwkwsdt",
+      "pubDate": "Tue, 11 Nov 2025 04:30:01 GMT",
+      "source": "Onet"
     },
     {
       "title": "Koniec shutdownu coraz bliżej. Senat USA przegłosował prowizorium",
@@ -36165,6 +36183,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -54056,6 +54122,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83058,42 +83148,6 @@
       "title": "Dzień Zaduszny na drogach. Policja przedstawiła tragiczne statystyki",
       "link": "https://wiadomosci.onet.pl/kraj/dzien-zaduszny-na-drogach-policja-przedstawila-tragiczne-statystyki/fybnv82",
       "pubDate": "Mon, 03 Nov 2025 08:31:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Biedronka rozbija bank. Elektronika nawet 60% taniej",
-      "link": "https://antyweb.pl/biedronka-rozbija-bank-elektronika-nawet-60-taniej",
-      "pubDate": "Mon, 03 Nov 2025 08:30:56 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Valencia president Carlos Mazón resigns over botched handling of deadly floods",
-      "link": "https://www.theguardian.com/world/2025/nov/03/valencia-president-carlos-mazon-resigns-deadly-floods-spain",
-      "pubDate": "Mon, 03 Nov 2025 08:30:45 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Tanzania president being sworn in after election marred by violence",
-      "link": "https://www.bbc.com/news/articles/cpv1ddevk9go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 03 Nov 2025 08:30:04 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Jest poprawa w polskim przemyśle. Takich danych nie było od miesięcy",
-      "link": "https://biznes.interia.pl/gospodarka/news-widac-swiatelko-w-tunelu-dla-polskiego-przemyslu-indeks-pmi,nId,22450166",
-      "pubDate": "Mon, 03 Nov 2025 08:29:54 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Można otrzymać nawet 1750 złotych. Ruszył nabór wniosków",
-      "link": "https://tvn24.pl/biznes/z-kraju/bon-cieplowniczy-2025-ile-wyniesie-wnioski-kryterium-dochodowe-st8732798?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 08:29:44 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nowa rola dla Szymona Hołowni? \"Miejsce w sam raz dla niego\"",
-      "link": "https://wiadomosci.onet.pl/kraj/nowa-rola-dla-szymona-holowni-miejsce-w-sam-raz-dla-niego/5wpg6br",
-      "pubDate": "Mon, 03 Nov 2025 08:28:09 GMT",
       "source": "Onet"
     }
   ]
