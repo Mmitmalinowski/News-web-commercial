@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T21:47:22.907Z",
+  "generatedAt": "2025-11-11T21:56:41.031Z",
   "items": [
     {
       "title": "Ziobro ma \"propozycję\" dla prokuratury",
@@ -42177,6 +42177,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -71523,6 +71571,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86155,24 +86227,6 @@
       "link": "https://businessinsider.com.pl/wideo/odkryj-tajemnice-najwiekszej-kuchni-swiata-jak-powstaje-biryani/rmbmx5t",
       "pubDate": "Tue, 04 Nov 2025 04:10:00 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Ekstradycja \"Wielkiego Bu\", atak na Blika, Hołownia nie przyszedł na przesłuchanie",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-we-wtorek-4-listopada-najwazniejsze-informacje-st8734206?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 04:08:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rewelacyjny miesiąc w wykonaniu polskich akcji",
-      "link": "https://www.rp.pl/gielda/art43282211-rewelacyjny-miesiac-w-wykonaniu-polskich-akcji",
-      "pubDate": "Tue, 04 Nov 2025 05:06:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Peru zrywa stosunki z Meksykiem. Powodem azyl dla byłej premier oskarżonej o zamachu stanu",
-      "link": "https://www.bankier.pl/wiadomosc/Peru-zrywa-stosunki-z-Meksykiem-Powodem-azyl-dla-bylej-premier-oskarzonej-o-zamachu-stanu-9034493.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 4 Nov 2025 05:05:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
