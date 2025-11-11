@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T17:49:22.498Z",
+  "generatedAt": "2025-11-11T17:58:27.517Z",
   "items": [
+    {
+      "title": "Donald Tusk nie ukrywa radości. \"Tak, jak mówiłem\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-tusk-nie-ukrywa-radosci-tak-jak-mowilem/kepvf7m",
+      "pubDate": "Tue, 11 Nov 2025 17:50:50 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Is the EU spy unit about to become reality? Von der Leyen wants her own secret service",
+      "link": "http://www.euronews.com/2025/11/11/is-the-eu-spy-unit-about-to-become-reality-von-der-leyen-wants-her-own-secret-service",
+      "pubDate": "Tue, 11 Nov 2025 18:50:06 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "iRobot ma problemy. My też (wkrótce) możemy je mieć",
       "link": "https://www.tabletowo.pl/problemy-finansowe-irobot-roomba-2025/",
@@ -41103,6 +41115,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -69729,6 +69789,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -85333,36 +85417,6 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-podatek-od-garazu-dla-niektorych-10-razy-wiekszy-reakcja-rpo,nId,8037175",
       "pubDate": "Mon, 03 Nov 2025 20:05:11 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Watch: Moment train collides with lorry carrying vehicles",
-      "link": "https://www.bbc.com/news/videos/c797xgpevdro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 03 Nov 2025 19:05:02 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Zaskakująca kooperacja na rynku. Siri ma korzystać z usług konkurenta",
-      "link": "https://android.com.pl/tech/987738-nowa-siri-integracja-z-gemini/",
-      "pubDate": "Mon, 03 Nov 2025 19:04:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Poseł poinformował o chorobie. \"Mam nowotwór. I walczę\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-posel-poinformowal-o-chorobie-mam-nowotwor-i-walcze,nId,22450534",
-      "pubDate": "Mon, 03 Nov 2025 19:03:10 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Dajesz 500 zł i masz dobry telefon. Honor X5C Plus ma giga baterię",
-      "link": "https://spidersweb.pl/2025/11/smartfon-honor-x5c-plus-za-500-zl.html",
-      "pubDate": "Mon, 03 Nov 2025 20:02:11 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Oferta na kartę czy abonament? Oto, jak operator namawia do zmiany",
-      "link": "https://antyweb.pl/abonament-czy-oferta-na-karte",
-      "pubDate": "Mon, 03 Nov 2025 19:00:18 GMT",
-      "source": "Antyweb"
     }
   ]
 }
