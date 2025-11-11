@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T22:37:26.141Z",
+  "generatedAt": "2025-11-11T22:47:39.501Z",
   "items": [
+    {
+      "title": "Moment newly opened bridge partially collapses in China",
+      "link": "https://www.bbc.com/news/videos/c231yry75m3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 11 Nov 2025 22:42:35 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Kansas county to pay more than $3m over police raiding local newspaper",
+      "link": "https://www.theguardian.com/us-news/2025/nov/11/kansas-marion-newspaper-police-raid-payment",
+      "pubDate": "Tue, 11 Nov 2025 22:34:26 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Reeves rejects plea for £1bn of extra cash to cover NHS redundancy payouts",
       "link": "https://www.theguardian.com/society/2025/nov/11/reeves-rejects-plea-1bn-extra-cash-cover-nhs-redundancy-payouts",
@@ -42291,6 +42303,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -71781,6 +71841,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86305,36 +86389,6 @@
       "link": "https://www.theguardian.com/australia-news/2025/nov/04/secret-nauru-deal-nyyq-two-more-detainees-deported-albanese-government",
       "pubDate": "Tue, 04 Nov 2025 04:38:39 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Donald Trump mówi nowojorczykom, jak mają głosować. Grozi wstrzymaniem funduszy",
-      "link": "https://www.rp.pl/polityka/art43283631-donald-trump-mowi-nowojorczykom-jak-maja-glosowac-grozi-wstrzymaniem-funduszy",
-      "pubDate": "Tue, 04 Nov 2025 05:38:30 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Związkowcy w Telewizji Polskiej chcą dodatku na Boże Narodzenie. \"Brak podwyżek od 2023 roku\"",
-      "link": "https://www.wirtualnemedia.pl/telewizja-polska-zarobki-dodatek-na-boze-narodzenie-zwiazek-zawodowy-solidarnosc,7217993398205024a",
-      "pubDate": "Tue, 04 Nov 2025 05:36:52 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Coca-Cola ogłasza ambasadorów na igrzyska olimpijskie",
-      "link": "https://www.wirtualnemedia.pl/coca-cola-oglasza-ambasadorow-na-igrzyska-olimpijskie,7217863942867616a",
-      "pubDate": "Tue, 04 Nov 2025 05:36:10 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "TVP z miniserialem na TikToku. Chce dotrzeć do młodych",
-      "link": "https://www.wirtualnemedia.pl/tvp-z-miniserialem-na-tiktoku-chce-dotrzec-do-mlodych,7217904344636000a",
-      "pubDate": "Tue, 04 Nov 2025 05:33:54 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nie żyje aktorka Diane Ladd",
-      "link": "https://tvn24.pl/kultura-i-styl/diane-ladd-nie-zyje-trzykrotnie-nominowana-do-oscara-aktorka-miala-89-lat-st8734211?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 04:33:29 GMT",
-      "source": "TVN24"
     }
   ]
 }
