@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T05:52:07.798Z",
+  "generatedAt": "2025-11-11T06:01:02.494Z",
   "items": [
+    {
+      "title": "DJI Osmo Nano jest absurdalnie małe. Po otwarciu zapytałem: \"Gdzie reszta?\"",
+      "link": "https://spidersweb.pl/2025/11/dji-osmo-nano-recenzja.html",
+      "pubDate": "Tue, 11 Nov 2025 07:00:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Sprawdź swoją wiedzę o Józefie Piłsudskim! Quiz z okazji Narodowego Święta Niepodległości",
+      "link": "https://www.rmf24.pl/ciekawostki/news-sprawdz-swoja-wiedze-o-jozefie-pilsudskim-quiz-z-okazji-naro,nId,8037770",
+      "pubDate": "Tue, 11 Nov 2025 06:53:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Operacja \"Midas\" i \"pralnia pieniędzy\" w biurze byłego deputowanego",
+      "link": "https://tvn24.pl/swiat/ukraina-uczestnicy-afery-korupcyjnej-w-energetyce-wyprali-okolo-100-milionow-dolarow-st8745969?source=rss",
+      "pubDate": "Tue, 11 Nov 2025 05:52:31 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Basia z hymnu narodowego. Czy istniała naprawdę? Fakty i mity",
+      "link": "https://www.rmf24.pl/fakty/polska/news-basia-z-hymnu-narodowego-czy-istniala-naprawde-fakty-i-mity,nId,8037040",
+      "pubDate": "Tue, 11 Nov 2025 06:52:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Ten fakt o Józefie Wybickim zaskoczy każdego Polaka! Hymn to tylko początek",
       "link": "https://www.rmf24.pl/regiony/trojmiasto/news-ten-fakt-o-jozefie-wybickim-zaskoczy-kazdego-polaka-hymn-to-,nId,8037012",
@@ -36585,6 +36609,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -54596,6 +54668,30 @@
           "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "45",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83322,48 +83418,6 @@
       "title": "Tragedia na Podhalu. Ciężarówka śmiertelnie potrąciła 13-letniego rowerzystę",
       "link": "https://wiadomosci.onet.pl/krakow/tragedia-na-podhalu-ciezarowka-smiertelnie-potracila-13-letniego-rowerzyste/t185j1r",
       "pubDate": "Mon, 03 Nov 2025 09:24:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Miał przystawić nóż do gardła, później strzelał w okna. To znaleźli w jego mieszkaniu",
-      "link": "https://tvn24.pl/olsztyn/elblag-przystawil-kobiecie-noz-do-gardla-potem-strzelal-w-okna-zarzuty-i-areszt-st8732837?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 09:23:30 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "UOKiK stawia zarzuty operatorowi sieci Plus. Chodzi m.in. o opłaty w telefonii na kartę",
-      "link": "https://www.wirtualnemedia.pl/uokik-stawia-zarzuty-operatorowi-sieci-plus-chodzi-o-oplaty-w-telefonii-na-karte,7217812004342432a",
-      "pubDate": "Mon, 03 Nov 2025 10:22:37 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Podwyżki na poziomie 150 zł rocznie. Tak prezydent wyobraża siebie \"godne emerytury\"",
-      "link": "https://www.bankier.pl/wiadomosc/Podwyzki-na-poziomie-150-zl-rocznie-Tak-prezydent-wyobraza-siebie-godne-emerytury-9034070.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 10:21:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Francja wieszczy upadek rewolucji Tuska. \"Zdaje się nie mieć planu B\"",
-      "link": "https://www.bankier.pl/wiadomosc/Francja-wieszczy-upadek-rewolucji-Tuska-Zdaje-sie-nie-miec-planu-B-9034071.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 3 Nov 2025 10:21:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Już kilka lat wcześniej widziała w nim kandydata\" i pomagała. \"Nowe światło\" na wybór papieża",
-      "link": "https://tvn24.pl/polska/listy-papieza-i-anny-teresy-tymienieckiej-marcin-gutowski-to-rzuca-nowe-swiatlo-na-dojscie-karola-wojtyly-do-funkcji-papieza-st8732797?source=rss",
-      "pubDate": "Mon, 03 Nov 2025 09:19:56 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zmiany w waloryzacji emerytur. Karol Nawrocki podpisał projekt ustawy",
-      "link": "https://biznes.interia.pl/polityka/news-waloryzacja-emerytur-na-innych-zasadach-karol-nawrocki-podpi,nId,22450209",
-      "pubDate": "Mon, 03 Nov 2025 09:19:52 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zagrywki Donalda Trumpa. Amerykański dyplomata przewiduje geopolityczne przetasowanie [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/dziwne-zagrania-donalda-trumpa-to-moze-byc-geopolityczny-zwrot-opinia/qcvkp13",
-      "pubDate": "Mon, 03 Nov 2025 09:19:49 GMT",
       "source": "Onet"
     }
   ]
