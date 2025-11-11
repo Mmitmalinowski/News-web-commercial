@@ -1,12 +1,30 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-11T21:56:41.031Z",
+  "generatedAt": "2025-11-11T22:19:02.960Z",
   "items": [
+    {
+      "title": "W środę przesłuchanie Daniela Obajtka. Stawi się w prokuraturze? \"Nigdy nie byłem tchórzem\"",
+      "link": "https://wiadomosci.onet.pl/kraj/daniel-obajtek-o-tym-czy-stawi-sie-na-srodowe-przesluchanie-w-prokuraturze/y9xzfm1",
+      "pubDate": "Tue, 11 Nov 2025 21:56:23 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ziobro stawia warunki. Wskazał, gdzie może zostać przesłuchany",
+      "link": "https://www.rmf24.pl/polityka/news-ziobro-stawia-warunki-wskazal-gdzie-moze-zostac-przesluchany,nId,8039444",
+      "pubDate": "Tue, 11 Nov 2025 22:55:14 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Ziobro ma \"propozycję\" dla prokuratury",
       "link": "https://tvn24.pl/polska/ziobro-ma-propozycje-dla-prokuratury-st8747444?source=rss",
       "pubDate": "Tue, 11 Nov 2025 21:43:25 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Children could face life sentences for serious offences under Victorian government ‘adult time’ plan",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/12/children-to-be-face-life-sentences-for-serious-offences-under-new-victorian-government-plan",
+      "pubDate": "Tue, 11 Nov 2025 21:43:18 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Kto stanie na czele potencjalnego rządu PiS? Sondaż wskazał faworyta",
@@ -42201,6 +42219,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -71595,6 +71661,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86191,42 +86281,6 @@
       "link": "https://pro.rp.pl/pit-rozliczenia-roczne/art43275331-bezplatny-bon-na-szczepienie-a-obowiazki-gminy-platnika-pit",
       "pubDate": "Tue, 04 Nov 2025 05:20:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Bezpłatny bon na szczepienie a obowiązki gminy – płatnika PIT",
-      "link": "https://pro.rp.pl/pit-zrodla-przychodu/art43275331-bezplatny-bon-na-szczepienie-a-obowiazki-gminy-platnika-pit",
-      "pubDate": "Tue, 04 Nov 2025 05:20:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Udzielenie pożyczki wspólnikowi przez spółkę komandytową bez PCC",
-      "link": "https://pro.rp.pl/biznes/art43275431-udzielenie-pozyczki-wspolnikowi-przez-spolke-komandytowa-bez-pcc",
-      "pubDate": "Tue, 04 Nov 2025 05:20:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Refresh Your Holidays\". AI w świątecznej kampanii Coca-Coli",
-      "link": "https://www.wirtualnemedia.pl/refresh-your-holidays-ai-w-swiatecznej-kampanii-coca-coli,7217953275169376a",
-      "pubDate": "Tue, 04 Nov 2025 05:19:33 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nowy autor \"Commentary\" w Kanale Zero",
-      "link": "https://www.wirtualnemedia.pl/kanal-zero-youtube-commentary-nowy-dziennikarz-wojciech-parol,7217898125261408a",
-      "pubDate": "Tue, 04 Nov 2025 05:13:52 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Almost 120 flying foxes hospitalised after giant hail smashes Queensland colony",
-      "link": "https://www.theguardian.com/environment/2025/nov/04/giant-hail-queensland-flying-foxes-hospitalised",
-      "pubDate": "Tue, 04 Nov 2025 04:12:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Byliśmy w kuchni, która karmi dwa miliony dzieci dziennie. Tak wygląda od środka",
-      "link": "https://businessinsider.com.pl/wideo/odkryj-tajemnice-najwiekszej-kuchni-swiata-jak-powstaje-biryani/rmbmx5t",
-      "pubDate": "Tue, 04 Nov 2025 04:10:00 GMT",
-      "source": "Business Insider"
     }
   ]
 }
