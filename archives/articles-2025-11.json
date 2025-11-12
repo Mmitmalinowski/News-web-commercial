@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T23:30:30.815Z",
+  "generatedAt": "2025-11-12T23:42:58.417Z",
   "items": [
+    {
+      "title": "Elon Musk’s Grok AI briefly says Trump won 2020 presidential election",
+      "link": "https://www.theguardian.com/us-news/2025/nov/12/elon-musk-grok-ai-trump-2020-presidential-election",
+      "pubDate": "Wed, 12 Nov 2025 23:22:47 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Jeffrey Epstein miał dać Rosjanom wgląd w Donalda Trumpa. Ujawniono listę maili",
       "link": "https://wiadomosci.onet.pl/swiat/jeffrey-epstein-mial-dac-rosjanom-wglad-w-donalda-trumpa-ujawniono-liste-maili/dfdc8c9",
@@ -3757,6 +3763,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -52845,6 +52875,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -63878,6 +63932,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -85839,6 +85917,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -88591,36 +88693,6 @@
       "link": "https://www.theguardian.com/us-news/2025/nov/05/andrew-cuomo-zohran-mamdani-new-york",
       "pubDate": "Wed, 05 Nov 2025 06:00:20 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Badania emocji zwierząt mogą pomóc korygować zaburzenia u ludzi",
-      "link": "https://www.rmf24.pl/nauka/news-badania-emocji-zwierzat-moga-pomoc-korygowac-zaburzenia-u-lu,nId,8037263",
-      "pubDate": "Wed, 05 Nov 2025 07:00:19 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Danish authorities in rush to close security loophole in Chinese electric buses",
-      "link": "https://www.theguardian.com/world/2025/nov/05/danish-authorities-in-rush-to-close-security-loophole-in-chinese-electric-buses",
-      "pubDate": "Wed, 05 Nov 2025 06:00:18 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Thinktanks urge Rachel Reeves to overhaul ‘broken’ tax system",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/05/thinktanks-urge-rachel-reeves-to-overhaul-broken-tax-system",
-      "pubDate": "Wed, 05 Nov 2025 06:00:18 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Low-income areas in England and Wales face worst air pollution, analysis finds",
-      "link": "https://www.theguardian.com/environment/2025/nov/05/low-income-areas-england-wales-worst-air-pollution",
-      "pubDate": "Wed, 05 Nov 2025 06:00:17 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nagrody Fundacji na rzecz Nauki Polskiej 2025 przyznane",
-      "link": "https://www.rmf24.pl/nauka/news-nagrody-fundacji-na-rzecz-nauki-polskiej-2025-przyznane,nId,8037252",
-      "pubDate": "Wed, 05 Nov 2025 07:00:05 +0100",
-      "source": "RMF24"
     }
   ]
 }
