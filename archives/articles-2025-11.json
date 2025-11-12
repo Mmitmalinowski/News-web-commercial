@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T07:46:27.470Z",
+  "generatedAt": "2025-11-12T07:56:13.951Z",
   "items": [
+    {
+      "title": "Donald Trump zarzuca BBC oszustwo. \"Chyba muszę pozwać\"",
+      "link": "https://www.wirtualnemedia.pl/donald-trump-pozwie-bbc-za-manipulacje-jego-wypowiedzi-przed-kapitolem-szef-bbc-rezgnuje,7220974286781312a",
+      "pubDate": "Wed, 12 Nov 2025 08:53:12 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Samsung wciąż nie naprawił tych trzech irytujących problemów z One UI",
+      "link": "https://android.com.pl/tech/990530-samsung-i-trzy-grzechy-one-ui/",
+      "pubDate": "Wed, 12 Nov 2025 07:49:26 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Bosak sprowokował posłanki. Pokazał plakat z Marszu Niepodległości",
+      "link": "https://www.rmf24.pl/polityka/news-bosak-sprowokowal-poslanki-pokazal-plakat-z-marszu-niepodleg,nId,8039479",
+      "pubDate": "Wed, 12 Nov 2025 08:49:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Europejska premiera Realme GT 8 Pro tuż, tuż. Znamy ceny",
+      "link": "https://www.tabletowo.pl/europejska-premiera-realme-gt-8-pro-znamy-ceny/",
+      "pubDate": "Wed, 12 Nov 2025 07:47:42 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Szef węgierskiego MSZ ostrzega. \"Ryzyko wojny wisi w powietrzu\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-szef-wegierskiego-msz-ostrzega-ryzyko-wojny-wisi-w-powietrzu,nId,22453114",
+      "pubDate": "Wed, 12 Nov 2025 07:45:55 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Chromecast z Google TV doczekał się dużej aktualizacji. Co w niej?",
+      "link": "https://antyweb.pl/chromecast-z-google-tv-doczekal-sie-duzej-aktualizacji-co-w-niej",
+      "pubDate": "Wed, 12 Nov 2025 07:45:38 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Zderzyli się na prostej drodze. Jedna osoba nie żyje, dwie są ranne",
+      "link": "https://tvn24.pl/wroclaw/lasowice-dk15-czolowe-zderzenie-dwoch-aut-jedna-osoba-nie-zyje-dwie-sa-ranne-st8747571?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 07:42:15 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Think the Paris Agreement failed? Here's what It actually achieved",
       "link": "https://www.dw.com/en/think-the-paris-agreement-failed-here-s-what-it-actually-achieved/a-74556928?maca=en-rss-en-all-1573-xml-mrss",
@@ -13,6 +55,12 @@
       "link": "https://biznes.interia.pl/praca/news-nadchodzace-boze-narodzenie-bedzie-inne-nawet-100-tys-zl-kar,nId,22453108",
       "pubDate": "Wed, 12 Nov 2025 07:39:59 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Watch: Australian windsurfer escapes shark attack",
+      "link": "https://www.bbc.com/news/videos/ckg45vpyg3ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 12 Nov 2025 07:38:21 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Leon XIV ma cztery ulubione filmy. Wśród nich oscarowe hity",
@@ -1127,6 +1175,12 @@
     {
       "title": "Joanna Parafianowicz: Aplikacja, czyli inicjacja",
       "link": "https://www.rp.pl/rzecz-o-prawie/art43315131-joanna-parafianowicz-aplikacja-czyli-inicjacja",
+      "pubDate": "Wed, 12 Nov 2025 05:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Fundusze unijne. Instytucja organizująca konkurs nie może wprowadzać w błąd",
+      "link": "https://pro.rp.pl/administracja/art43315221-fundusze-unijne-instytucja-organizujaca-konkurs-nie-moze-wprowadzac-w-blad",
       "pubDate": "Wed, 12 Nov 2025 05:50:00 +0100",
       "source": "Rzeczpospolita"
     },
@@ -44589,6 +44643,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -75135,6 +75237,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -87451,78 +87577,6 @@
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-trzy-scenariusze-dalszego-przebiegu-wojny-w-ukrainie,nId,8037284",
       "pubDate": "Tue, 04 Nov 2025 10:42:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Three countries are ‘willing and capable’ of assassinating political dissidents on Australian soil, Asio head warns",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/04/australia-spy-boss-asio-foreign-agent-warning",
-      "pubDate": "Tue, 04 Nov 2025 09:40:24 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "5 tys. zł mandatu i 15 pkt karnych dla kierowcy forda. Policjanci nie mieli litości",
-      "link": "https://www.rmf24.pl/regiony/rzeszow/news-5-tys-zl-mandatu-i-15-pkt-karnych-dla-kierowcy-forda-policja,nId,8037277",
-      "pubDate": "Tue, 04 Nov 2025 10:40:13 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "„To był czas pełen wyzwań, nieprzespanych nocy i małych-wielkich zwycięstw” – po 9 latach z PFR odchodzi Eliza Kruczkowska",
-      "link": "https://mamstartup.pl/to-byl-czas-pelen-wyzwan-nieprzespanych-nocy-i-malych-wielkich-zwyciestw-po-9-latach-z-pfr-odchodzi-eliza-kruczkowska/",
-      "pubDate": "Tue, 04 Nov 2025 09:39:42 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Skradzione obrazy Kossaka i Karpińskiego odzyskane przez policję",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-skradzione-obrazy-kossaka-i-karpinskiego-odzyskane-przez-pol,nId,8037286",
-      "pubDate": "Tue, 04 Nov 2025 10:38:30 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "How toddlers’ gut microbiome could affect their mental health in childhood",
-      "link": "http://www.euronews.com/health/2025/11/04/how-toddlers-gut-microbiome-could-affect-their-mental-health-in-childhood",
-      "pubDate": "Tue, 04 Nov 2025 10:38:21 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Jest akt oskarżenia ws. Radosława \"Zeszyta\" R. Chodzi o przemyt marihuany",
-      "link": "https://www.rmf24.pl/regiony/trojmiasto/news-jest-akt-oskarzenia-ws-radoslawa-zeszyta-r-chodzi-o-przemyt-,nId,8037301",
-      "pubDate": "Tue, 04 Nov 2025 10:38:10 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Radosław \"Zeszyt\" R. oskarżony. Chodzi o przemyt marihuany",
-      "link": "https://www.rmf24.pl/regiony/trojmiasto/news-radoslaw-zeszyt-r-oskarzony-chodzi-o-przemyt-marihuany,nId,8037301",
-      "pubDate": "Tue, 04 Nov 2025 10:38:10 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "As criticism grows, is UAE ready to walk away from Sudan’s RSF militia?",
-      "link": "https://www.theguardian.com/world/2025/nov/04/sudan-rsf-militia-uae-united-arab-emirates",
-      "pubDate": "Tue, 04 Nov 2025 09:37:36 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Odświeżony \"Dziennik Gazeta Prawna\". Nowy layout i format",
-      "link": "https://www.wirtualnemedia.pl/odswiezony-dziennik-gazeta-prawna-nowy-layout-i-format,7218171593423520a",
-      "pubDate": "Tue, 04 Nov 2025 10:37:30 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "First clinical trial testing pig kidney transplants in people launches in US",
-      "link": "http://www.euronews.com/health/2025/11/04/first-clinical-trial-testing-pig-kidney-transplants-in-people-launches-in-us",
-      "pubDate": "Tue, 04 Nov 2025 10:37:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Planowałeś kupić Samsunga Galaxy S26? Mamy złe wieści",
-      "link": "https://www.tabletowo.pl/planowales-kupic-samsunga-galaxy-s26-mamy-zle-wiesci/",
-      "pubDate": "Tue, 04 Nov 2025 09:36:03 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Ponad milion cudzoziemców na polskim rynku pracy. Ukraińcy dominują",
-      "link": "https://www.bankier.pl/wiadomosc/Ponad-milion-cudzoziemcow-na-Polskim-rynku-pracy-Ukraincy-dominuja-9034624.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 4 Nov 2025 10:36:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
