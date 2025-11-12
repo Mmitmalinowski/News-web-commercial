@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T00:56:10.741Z",
+  "generatedAt": "2025-11-12T02:41:33.113Z",
   "items": [
+    {
+      "title": "US supreme court extends Trump pause on $4bn in food aid benefits",
+      "link": "https://www.theguardian.com/us-news/2025/nov/11/us-supreme-court-trump-snap-food-benefits",
+      "pubDate": "Wed, 12 Nov 2025 02:02:28 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Donald Trump nalega, by nowy stadion w Waszyngtonie został nazwany jego imieniem - media",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-nalega-by-nowy-stadion-w-waszyngtonie-zostal-nazwany-jego-imieniem-media/8ly2pme",
+      "pubDate": "Wed, 12 Nov 2025 01:37:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Demonstranci wdarli się siłą na konferencję COP30. Ochroniarze ranni",
+      "link": "https://tvn24.pl/swiat/brazylia-demonstranci-wdarli-sie-na-miejsce-konferencji-cop30-rannych-dwoch-ochroniarzy-st8747461?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 01:29:57 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pogoda na dziś - środa, 12.11. Sporo chmur na niebie, do 12 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sroda-12-11-sporo-chmur-na-niebie-do-12-stopni-st8747437?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 01:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "China sharpens its language on Taiwan as part of ‘longer-term’ strategy",
+      "link": "https://www.theguardian.com/world/2025/nov/12/china-taiwan-statements-longer-term-strategy",
+      "pubDate": "Wed, 12 Nov 2025 00:59:01 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Russia’s high court bid over Canberra embassy fails but Australian government to pay costs",
       "link": "https://www.theguardian.com/australia-news/2025/nov/12/russian-embassy-canberra-high-court-bid-fails-federal-govenment-to-pay-costs-compensation",
@@ -41,6 +71,12 @@
     {
       "title": "‘Sobering’ study reveals extent of bullying and mental health problems for children in Wales",
       "link": "https://www.theguardian.com/society/2025/nov/12/sobering-study-reveals-extent-of-bullying-and-mental-health-problems-for-children-in-wales",
+      "pubDate": "Wed, 12 Nov 2025 00:01:08 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "‘Part of the joy economy’: adult buyers add to bumper year for toy sales",
+      "link": "https://www.theguardian.com/business/2025/nov/12/part-of-the-joy-economy-adult-buyers-add-bumper-year-toy-sales",
       "pubDate": "Wed, 12 Nov 2025 00:01:08 GMT",
       "source": "The Guardian"
     },
@@ -42555,6 +42591,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -72381,6 +72465,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86659,60 +86767,6 @@
       "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-turckiej-dzisiaj-po-ile-jest-lira-turecka-4-listopada-2025-r/me3k8y1",
       "pubDate": "Tue, 04 Nov 2025 05:02:46 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Ofwat letting water firms charge twice to tackle sewage, court to hear",
-      "link": "https://www.theguardian.com/environment/2025/nov/04/ofwat-letting-water-firms-charge-twice-to-tackle-sewage-court-to-hear",
-      "pubDate": "Tue, 04 Nov 2025 05:01:19 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Recenzja Football Manager 26. Ważny wykład o życiu",
-      "link": "https://spidersweb.pl/2025/11/recenzja-football-manager-26-wrazenia.html",
-      "pubDate": "Tue, 04 Nov 2025 06:01:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Vučić calls for EU membership based on merit, not political alignment",
-      "link": "http://www.euronews.com/2025/11/04/vucic-calls-for-eu-membership-based-on-merit-not-political-alignment",
-      "pubDate": "Tue, 04 Nov 2025 06:00:50 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Salon samochodowy jak dzieło sztuki i techniki. BYD zaprasza do Gdańska",
-      "link": "https://antyweb.pl/nowy-salon-samochodowy-byd-gdansk",
-      "pubDate": "Tue, 04 Nov 2025 05:00:45 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Polska w tubce i powrót córki króla keczupu",
-      "link": "https://krytykapolityczna.pl/archiwum/w-strefie-gazet-turning-point-dawtona-bogdan-rymanowski/",
-      "pubDate": "Tue, 04 Nov 2025 05:00:31 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Polska w tubce i powrót córki króla keczupu",
-      "link": "https://krytykapolityczna.pl/kraj/w-strefie-gazet-turning-point-dawtona-bogdan-rymanowski/",
-      "pubDate": "Tue, 04 Nov 2025 05:00:31 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Phillipson calls for ‘less public debate’ from EHRC on gender recognition rules",
-      "link": "https://www.theguardian.com/society/2025/nov/04/bridget-phillipson-public-debate-ehrc-gender-recognition",
-      "pubDate": "Tue, 04 Nov 2025 05:00:20 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"Śmieciowe\" DNA to przyszłość. Można je zmienić w zabójców raka",
-      "link": "https://geekweek.interia.pl/medycyna/news-smieciowe-dna-to-przyszlosc-mozna-je-zmienic-w-zabojcow-raka,nId,22450537",
-      "pubDate": "Tue, 04 Nov 2025 05:00:03 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Zapłacimy więcej za prąd, URE podnosi opłatę. \"To kwota zauważalna\"",
-      "link": "https://biznes.interia.pl/finanse/news-oplaty-za-prad-w-gore-zaplacimy-nawet-o-80-zl-wiecej,nId,22450276",
-      "pubDate": "Tue, 04 Nov 2025 05:00:02 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
