@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T22:31:58.221Z",
+  "generatedAt": "2025-11-12T22:43:53.246Z",
   "items": [
+    {
+      "title": "Anthropic announces $50bn plan for datacenter construction in US",
+      "link": "https://www.theguardian.com/technology/2025/nov/12/anthropic-50bn-datacenter-construction",
+      "pubDate": "Wed, 12 Nov 2025 22:29:49 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Trump apeluje o ułaskawienie Netanjahu. Jest odpowiedź",
       "link": "https://www.rmf24.pl/fakty/swiat/news-trump-apeluje-o-ulaskawienie-netanjahu-jest-odpowiedz,nId,8039823",
@@ -25,6 +31,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-byly-prezydent-ukrainy-chce-dymisji-rzadu-w-tle-oskarzenia-o,nId,22453522",
       "pubDate": "Wed, 12 Nov 2025 22:22:25 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Ex-top aide to Gavin Newsom indicted in scheme to steal money from ex-US health secretary",
+      "link": "https://www.theguardian.com/us-news/2025/nov/12/gavin-newsom-aide-indicted-xavier-becerra",
+      "pubDate": "Wed, 12 Nov 2025 22:18:45 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "What we know about new Epstein emails that mention Trump",
@@ -3715,6 +3727,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -52611,6 +52647,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -63644,6 +63704,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -85413,6 +85497,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -88297,42 +88405,6 @@
       "link": "https://spidersweb.pl/2025/11/gornicy-kopalnie-nowa-praca.html",
       "pubDate": "Wed, 05 Nov 2025 06:41:00 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Kubański rząd z wielką pomocą. Przekazały ją Stany Zjednoczone",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-kubanski-rzad-z-wielka-pomoca-przekazaly-ja-stany-zjednoczon,nId,22451005",
-      "pubDate": "Wed, 05 Nov 2025 05:40:55 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Ważny komunikat PKO BP. O tym powinni wiedzieć klienci",
-      "link": "https://biznes.interia.pl/finanse/news-wazny-komunikat-pko-bp-o-tym-powinni-wiedziec-klienci,nId,22450917",
-      "pubDate": "Wed, 05 Nov 2025 05:40:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Heweliusz zatonął, armator uniknął odpowiedzialności. \"Upudrowany\" wyrok za katastrofę",
-      "link": "https://businessinsider.com.pl/wiadomosci/heweliusz-zatonal-armator-uniknal-odpowiedzialnosci-dzis-ma-ambitne-plany/15gvh7m",
-      "pubDate": "Wed, 05 Nov 2025 05:37:31 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Academics say their net zero costing is being ‘misrepresented’ after Nationals repeat $9tn claim",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/05/academics-criticise-misrepresented-costing-of-net-zero-after-nationals-repeat-9tn-claim",
-      "pubDate": "Wed, 05 Nov 2025 05:37:17 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Iran uwolnił dwóch Francuzów. Byli więzieni przez ponad trzy lata",
-      "link": "https://tvn24.pl/swiat/iran-uwolnil-dwoch-francuzow-byli-wiezieni-przez-ponad-trzy-lata-st8736153?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 05:37:11 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Watch: US election night's big winners… in 90 seconds",
-      "link": "https://www.bbc.com/news/videos/cy8vy4yw70qo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 05 Nov 2025 05:36:32 GMT",
-      "source": "BBC News"
     }
   ]
 }
