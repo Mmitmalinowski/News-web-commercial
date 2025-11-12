@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T20:54:23.616Z",
+  "generatedAt": "2025-11-12T21:14:23.589Z",
   "items": [
+    {
+      "title": "Marsz Niepodległości na cenzurowanym. W sondażu dominuje jeden pogląd",
+      "link": "https://wydarzenia.interia.pl/kraj/news-marsz-niepodleglosci-na-cenzurowanym-w-sondazu-dominuje-jede,nId,22453455",
+      "pubDate": "Wed, 12 Nov 2025 21:06:52 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ukraine's corruption scandal: What do we know so far?",
+      "link": "https://www.dw.com/en/ukraine-s-corruption-scandal-what-do-we-know-so-far/a-74718720?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 12 Nov 2025 21:05:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Kwantowy przełom IBM. Nowe procesory mogą zmienić oblicze informatyki",
+      "link": "https://cyfrowa.rp.pl/technologie/art43323201-kwantowy-przelom-ibm-nowe-procesory-moga-zmienic-oblicze-informatyki",
+      "pubDate": "Wed, 12 Nov 2025 22:03:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "EU moves to protect elections, press amid ‘hybrid attacks’",
+      "link": "https://www.dw.com/en/eu-moves-to-protect-elections-press-amid-hybrid-attacks/a-74718866?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 12 Nov 2025 20:58:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Marian Banaś odpowiada na zarzuty prokuratury. \"Nagonka polityczna\" ",
+      "link": "https://wydarzenia.interia.pl/kraj/news-marian-banas-odpowiada-na-zarzuty-prokuratury-nagonka-polity,nId,22453513",
+      "pubDate": "Wed, 12 Nov 2025 20:56:43 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "​Wycieczka do Sarajewa, w ofercie strzelanie do ludzi. Szokujące śledztwo",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wycieczka-do-sarajewa-w-ofercie-strzelanie-do-ludzi-szokujac,nId,8039804",
+      "pubDate": "Wed, 12 Nov 2025 21:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Biało-Czerwone triumfują! Nerwowa końcówka meczu z Słowaczkami",
+      "link": "https://www.rmf24.pl/raporty/raport-polska-koszykowka/kobiety-reprezentacja/news-bialo-czerwone-triumfuja-nerwowa-koncowka-meczu-z-slowaczkam,nId,8039803",
+      "pubDate": "Wed, 12 Nov 2025 21:54:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Czujnik Xiaomi zapobiegnie skargom sąsiadów i uchroni przed dużymi kosztami",
       "link": "https://www.tabletowo.pl/czujnik-zalania-xiaomi-water-guard-2-premiera/",
@@ -3547,6 +3589,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -52155,6 +52221,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -63188,6 +63278,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -84669,6 +84783,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -87835,72 +87973,6 @@
       "link": "https://geekweek.interia.pl/medycyna/news-masz-go-w-apteczce-odkryli-ze-chroni-mozg-przed-chemioterapi,nId,22450941",
       "pubDate": "Wed, 05 Nov 2025 05:00:02 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Opłata za autostradę może być nadużyciem. Przełomowy wyrok hiszpańskiego sądu",
-      "link": "https://biznes.interia.pl/gospodarka/news-przelomowe-postanowienie-sadu-w-hiszpanii-oplata-za-autostra,nId,22450691",
-      "pubDate": "Wed, 05 Nov 2025 05:00:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Luksusowe noclegi przy Wielkim Muzeum Egipskim. Goście przejdą znad basenu do muzeum",
-      "link": "https://turystyka.rp.pl/hotele/art43285791-luksusowe-noclegi-przy-wielkim-muzeum-egipskim-goscie-przejda-znad-basenu-do-muzeum",
-      "pubDate": "Wed, 05 Nov 2025 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Zostać Alfą lub nigdy nie być najlepszym. O zakładzie Buffetta, kosztach i jedzeniu rynkowych owoców",
-      "link": "https://www.bankier.pl/wiadomosc/Zostac-Alfa-lub-nigdy-nie-byc-najlepszym-O-zakladzie-Buffetta-kosztach-i-jedzeniu-rynkowych-owocow-9032007.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Platforma inwestycyjna jak Spotify. Od katastrofy do zdefiniowania na nowo prostoty zarządzania pieniędzmi",
-      "link": "https://www.bankier.pl/wiadomosc/Platforma-inwestycyjna-jak-Spotify-Od-katastrofy-do-zdefiniowania-na-nowo-prostoty-zarzadzania-pieniedzmi-9032977.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "1 proc. zwrotu na karcie i inwestowanie reszty. Jak Trade Republic chce łączyć nasze wydatki z oszczędzaniem?",
-      "link": "https://www.bankier.pl/wiadomosc/1-proc-zwrotu-na-karcie-i-inwestowanie-reszty-Jak-Trade-Republic-chce-laczyc-nasze-wydatki-z-oszczedzaniem-9034717.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Polscy inwestorzy coraz chętniej stawiają na ETF-y. Polskie czy zagraniczne?",
-      "link": "https://www.bankier.pl/wiadomosc/Polscy-inwestorzy-coraz-chetniej-stawiaja-na-ETF-y-Polskie-czy-zagraniczne-9034976.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Fundusze aktywne wciąż górą, ale ETF-y rosną w siłę",
-      "link": "https://www.bankier.pl/wiadomosc/Fundusze-aktywne-wciaz-gora-ale-ETF-y-rosna-w-sile-9034968.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Koszty budowy domu zawróciły po ośmiu latach. Stan deweloperski tańszy niż przed rokiem",
-      "link": "https://www.bankier.pl/wiadomosc/Budowa-domu-ile-kosztuje-robocizna-i-materialy-9034652.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Samsung Pay podbije rynek? Jest nieźle, ale do Google Pay i Apple Pay daleko",
-      "link": "https://www.bankier.pl/wiadomosc/Samsung-Pay-opis-i-recenzja-9034744.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Z Bristolu do Krakowa. Coraz więcej Polaków wybiera pracę w kraju",
-      "link": "https://www.bankier.pl/wiadomosc/Zachod-juz-nie-kusi-jak-dawniej-Polacy-coraz-czesciej-zostaja-w-kraju-9034782.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Pasywna rewolucja trwa. Polacy coraz chętniej inwestują świadomie",
-      "link": "https://www.bankier.pl/wiadomosc/Pasywna-rewolucja-trwa-Polacy-coraz-chetniej-inwestuja-swiadomie-9034988.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
