@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T19:42:12.845Z",
+  "generatedAt": "2025-11-12T19:51:33.937Z",
   "items": [
+    {
+      "title": "Poprosiłem ChatGPT o plan na dochód pasywny. Oto co mi powiedział",
+      "link": "https://android.com.pl/tech/990909-poprosilem-chatgpt-o-dowod-pasywny/",
+      "pubDate": "Wed, 12 Nov 2025 19:48:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Kryzys w polskim gigancie meblarskim. 800 osób może stracić pracę",
+      "link": "https://www.rmf24.pl/fakty/polska/news-kryzys-w-polskim-gigancie-meblarskim-800-osob-moze-stracic-p,nId,8039795",
+      "pubDate": "Wed, 12 Nov 2025 20:46:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Grzegorz Schetyna w \"Kropce nad i\" o \"upartyjnianiu państwa\" przez prezydenta",
+      "link": "https://tvn24.pl/polska/grzegorz-schetyna-w-kropce-nad-i-o-upartyjnianiu-panstwa-przez-prezydenta-st8749079?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 19:43:37 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zacięte walki o Pokrowsk. Kijów prostuje narrację Kremla",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-zaciete-walki-o-pokrowsk-kijow-prostuje-narracje-kremla,nId,22453487",
+      "pubDate": "Wed, 12 Nov 2025 19:42:54 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Toyota rusza z produkcją baterii w USA. Ogromna inwestycja na lata",
+      "link": "https://businessinsider.com.pl/biznes/nowa-fabryka-toyoty-w-usa-ruszyla-hybrydy-i-auta-elektryczne-na-celowniku/4ye6fqs",
+      "pubDate": "Wed, 12 Nov 2025 19:41:00 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "France's National Assembly overwhelmingly votes to suspend controversial pension reform",
       "link": "http://www.euronews.com/my-europe/2025/11/12/frances-national-assembly-overwhelmingly-votes-to-suspend-controversial-pension-reform",
@@ -25,6 +55,12 @@
       "link": "https://www.rp.pl/prawo-karne/art43323161-marian-b-mial-podzegac-byly-szef-nik-z-zarzutami-prokuratorskimi",
       "pubDate": "Wed, 12 Nov 2025 20:36:52 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Peter Mandelson was in contact with Epstein till at least 2016, new emails reveal",
+      "link": "https://www.theguardian.com/politics/2025/nov/12/peter-mandelson-emails-epstein-2016",
+      "pubDate": "Wed, 12 Nov 2025 19:36:51 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Odebrali pierwszy sygnał radiowy tajemniczej komety 3I/ATLAS",
@@ -121,6 +157,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-grozny-wirus-dotarl-do-niemiec-sluzby-oceniaja-ryzyko,nId,22453469",
       "pubDate": "Wed, 12 Nov 2025 19:12:12 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Labour infighting puts chancellor’s budget plan to reassure bond markets at risk",
+      "link": "https://www.theguardian.com/business/2025/nov/12/labour-infighting-rachel-reeves-budget-government-bond-markets",
+      "pubDate": "Wed, 12 Nov 2025 19:11:08 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Epstein emails thrust Trump back into spotlight over past ties",
@@ -317,6 +359,12 @@
     {
       "title": "Były szef NIK Marian B. z zarzutami prokuratorskimi",
       "link": "https://tvn24.pl/polska/byly-szef-nik-marian-b-z-zarzutami-prokuratorskimi-st8749044?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 18:39:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Były szef NIK Marian Banaś z zarzutami prokuratorskimi",
+      "link": "https://tvn24.pl/polska/byly-szef-nik-marian-banas-z-zarzutami-prokuratorskimi-st8749044?source=rss",
       "pubDate": "Wed, 12 Nov 2025 18:39:07 GMT",
       "source": "TVN24"
     },
@@ -3253,6 +3301,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -51621,6 +51693,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -62654,6 +62750,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83895,6 +84015,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -87468,78 +87612,6 @@
       "title": "Metamorfoza jednego z najstarszych teatrów w Polsce. Walczy o prestiżową nagrodę",
       "link": "https://sukces.rp.pl/architektura/art43270671-metamorfoza-jednego-z-najstarszych-teatrow-w-polsce-walczy-o-prestizowa-nagrode",
       "pubDate": "Wed, 05 Nov 2025 05:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowi pogromcy czołgów zmienią wojnę, a wyglądają, jak sprzęt rodem z Battlefielda 6",
-      "link": "https://www.chip.pl/2025/11/swarmbotics-ai-roj-dronow-naziemnych-fireant-pogromcy-czolgow",
-      "pubDate": "Wed, 05 Nov 2025 03:59:22 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Wojna Rosji z Ukrainą. Dzień 1351",
-      "link": "https://www.rp.pl/swiat/art43289071-wojna-rosji-z-ukraina-dzien-1351",
-      "pubDate": "Wed, 05 Nov 2025 04:50:53 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Propozycja prezydenta w sprawie emerytur jest niespójna. Eksperci są sceptyczni",
-      "link": "https://www.rp.pl/praca-emerytury-i-renty/art43285651-propozycja-prezydenta-w-sprawie-emerytur-jest-niespojna-eksperci-sa-sceptyczni",
-      "pubDate": "Wed, 05 Nov 2025 04:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Leszek Kieliszewski: Kto grupą wojuje, od grupy zginie?",
-      "link": "https://www.rp.pl/rzecz-o-prawie/art43284741-leszek-kieliszewski-kto-grupa-wojuje-od-grupy-zginie",
-      "pubDate": "Wed, 05 Nov 2025 04:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Firmy szykują się na reformę Państwowej Inspekcji Pracy",
-      "link": "https://pro.rp.pl/prawo-pracy/art43284311-firmy-szykuja-sie-na-reforme-panstwowej-inspekcji-pracy",
-      "pubDate": "Wed, 05 Nov 2025 04:48:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Democrat Mikie Sherrill elected governor of New Jersey",
-      "link": "https://www.theguardian.com/us-news/2025/nov/04/new-jersey-election-result-mikie-sherrill-wins-governor-race",
-      "pubDate": "Wed, 05 Nov 2025 03:46:16 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Canada budget adds tens of billions to deficit as Carney spends to dampen Trump tariffs effect",
-      "link": "https://www.theguardian.com/world/2025/nov/05/canada-federal-budget-adds-tens-of-billions-to-deficit-as-carney-spends-to-dampen-trump-tariffs-effect",
-      "pubDate": "Wed, 05 Nov 2025 03:43:47 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Investigators board Coral Adventurer cruise ship after passenger dies on remote Australian island",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/05/investigators-board-coral-adventurer-cruise-ship-after-suzanne-rees-dies-remote-australian-island",
-      "pubDate": "Wed, 05 Nov 2025 03:42:44 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Maciej Zaborowski: Pięć minut prawdy",
-      "link": "https://www.rp.pl/rzecz-o-prawie/art43284761-maciej-zaborowski-piec-minut-prawdy",
-      "pubDate": "Wed, 05 Nov 2025 04:40:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Grupa Azoty z nową strategią. Oto jej główne założenia",
-      "link": "https://energia.rp.pl/surowce-i-paliwa/art43287801-grupa-azoty-z-nowa-strategia-oto-jej-glowne-zalozenia",
-      "pubDate": "Wed, 05 Nov 2025 04:39:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Donald Trump zmienił zdanie. Nominował szefa NASA, którego wcześniej nie chciał",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-ponownie-nominowal-jareda-isaacmana-na-szefa-nasa/d0q6jhc",
-      "pubDate": "Wed, 05 Nov 2025 03:38:41 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Co może zrobić KOWR, by odzyskać działkę pod CPK?",
-      "link": "https://www.rp.pl/nieruchomosci/art43285861-co-moze-zrobic-kowr-by-odzyskac-dzialke-pod-cpk",
-      "pubDate": "Wed, 05 Nov 2025 04:36:00 +0100",
       "source": "Rzeczpospolita"
     }
   ]
