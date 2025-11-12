@@ -1,12 +1,102 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T11:42:51.105Z",
+  "generatedAt": "2025-11-12T11:52:25.081Z",
   "items": [
+    {
+      "title": "Italian government faces a high-stakes bank merger clash with Brussels",
+      "link": "http://www.euronews.com/business/2025/11/12/italian-government-faces-a-high-stakes-bank-merger-clash-with-brussels",
+      "pubDate": "Wed, 12 Nov 2025 12:50:05 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "European shares hit record highs on US shutdown progress",
+      "link": "http://www.euronews.com/business/2025/11/12/european-shares-hit-record-highs-on-us-shutdown-progress",
+      "pubDate": "Wed, 12 Nov 2025 12:49:19 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Petycja do ministra Żurka. Chodzi o poważną lukę w prawie",
+      "link": "https://wydarzenia.interia.pl/kraj/news-petycja-do-ministra-zurka-chodzi-o-powazna-luke-w-prawie,nId,22453191",
+      "pubDate": "Wed, 12 Nov 2025 11:47:25 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Daniel Obajtek zabrał głos po wyjściu z prokuratury. \"Usłyszałem jeden zarzut\"",
+      "link": "https://wiadomosci.onet.pl/kraj/daniel-obajtek-zabral-glos-po-wyjsciu-z-prokuratury-uslyszalem-jeden-zarzut/nvvm3e4",
+      "pubDate": "Wed, 12 Nov 2025 11:47:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tragiczny wypadek, w którym zginęły nastolatki. Policja zatrzymała nieletniego kierowcę",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/nastolatki-zginely-w-wypadku-na-pomorzu-nieletni-kierowca-zatrzymany/ncsyb4e",
+      "pubDate": "Wed, 12 Nov 2025 11:47:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tragedia na polowaniu. Nie żyje 68-latek",
+      "link": "https://www.rmf24.pl/regiony/lublin/news-tragedia-na-polowaniu-nie-zyje-68-latek,nId,8039610",
+      "pubDate": "Wed, 12 Nov 2025 12:47:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Papież przemawiał do Polaków. Przypomniał słowa Benedykta XV",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-papiez-przemawial-do-polakow-przypomnial-slowa-benedykta-xv,nId,22453264",
+      "pubDate": "Wed, 12 Nov 2025 11:44:30 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Duże straty Rosjan. Zdjęcia satelitarne nie zostawiają złudzeń",
+      "link": "https://tech.wp.pl/duze-straty-rosjan-zdjecia-satelitarne-nie-zostawiaja-zludzen,7221023747840896a",
+      "pubDate": "Wed, 12 Nov 2025 12:44:10 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "\"Salsa na siedząco\" - cudowne ćwiczenie, które pomaga zwalczyć ból pleców",
+      "link": "https://www.rmf24.pl/ciekawostki/news-salsa-na-siedzaco-cudowne-cwiczenie-ktore-pomaga-zwalczyc-bo,nId,8039545",
+      "pubDate": "Wed, 12 Nov 2025 12:43:51 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "More women ride motorbikes in Tehran, testing Iran’s legal limits",
+      "link": "http://www.euronews.com/video/2025/11/12/more-women-ride-motorbikes-in-tehran-testing-irans-legal-limits",
+      "pubDate": "Wed, 12 Nov 2025 12:43:51 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "State-sanctioned fuel smuggling cost Libya $20bn over three years – report",
+      "link": "https://www.theguardian.com/world/2025/nov/12/state-sanctioned-fuel-smuggling-cost-libya-20bn-over-three-years-report",
+      "pubDate": "Wed, 12 Nov 2025 11:41:26 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Karol Nawrocki poszerza pole swoich wpływów. \"Stwarza wrażenie, że jest nadpremierem\"",
+      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-poszerza-pole-swoich-wplywow-stwarza-wrazenie-ze-jest-nadpremierem/fk3pe04",
+      "pubDate": "Wed, 12 Nov 2025 11:41:18 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Europejski rynek producentów taboru kolejowego potrzebuje konsolidacji",
       "link": "https://logistyka.rp.pl/szynowy/art43319551-europejski-rynek-producentow-taboru-kolejowego-potrzebuje-konsolidacji",
       "pubDate": "Wed, 12 Nov 2025 12:41:11 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "New Delhi blast: Indian police detain suspects in Kashmir",
+      "link": "https://www.dw.com/en/new-delhi-blast-indian-police-detain-suspects-in-kashmir/a-74712609?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 12 Nov 2025 11:41:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "House set to vote on deal to end shutdown amid Democratic splits – US politics live",
+      "link": "https://www.theguardian.com/us-news/live/2025/nov/12/donald-trump-us-government-shutdown-house-democrats-republicans-latest-news-updates",
+      "pubDate": "Wed, 12 Nov 2025 11:40:24 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Messi leci do Angoli. Zapłacili grube miliony",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-messi-leci-do-angoli-zaplacili-grube-miliony,nId,8039606",
+      "pubDate": "Wed, 12 Nov 2025 12:40:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Rosyjskie \"mini-Sonciepioki\" jadą na front. Co kryje ta nazwa?",
@@ -19,6 +109,12 @@
       "link": "https://spidersweb.pl/2025/11/pierwszy-sygnal-radiowy-z-komety-3i-atlas.html",
       "pubDate": "Wed, 12 Nov 2025 12:38:52 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Rozciągnęli stalową linkę w poprzek drogi. Kierowca jej nie zauważył. \"Poważne obrażenia\"",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/ciepielow-fragment-metalowej-linki-ranil-dwoch-mezczyzn-podczas-wycinki-st8747973?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 11:38:09 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Niemiecki polityk wywołał burzę. \"Polska może stanowić zagrożenie\"",
@@ -419,6 +515,12 @@
     {
       "title": "Daniel Obajtek w prokuraturze, przed budynkiem protestują jego zwolennicy. \"Murem za Obajtkiem\"",
       "link": "https://wiadomosci.onet.pl/kraj/daniel-obajtek-w-prokuraturze-przed-budynkiem-protestuja-jego-zwolennicy/dtmvt2g",
+      "pubDate": "Wed, 12 Nov 2025 10:50:24 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Daniel Obajtek stawił się w prokuraturze. Protest zwolenników PiS przed budynkiem",
+      "link": "https://wiadomosci.onet.pl/kraj/daniel-obajtek-stawil-sie-w-prokuraturze-protest-zwolennikow-pis-przed-budynkiem/dtmvt2g",
       "pubDate": "Wed, 12 Nov 2025 10:50:24 GMT",
       "source": "Onet"
     },
@@ -46809,6 +46911,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -77979,6 +78129,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -88105,126 +88279,6 @@
       "link": "http://www.press.pl/tresc/90134,michal-trela-dolacza-do-zespolu-sport_pl_-ma-pisac-o-polskiej-pilce-noznej?rss=1",
       "pubDate": "Tue, 04 Nov 2025 14:43:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "Grzegorz Braun laureatem Nagrody Pokoju i Praw Człowieka",
-      "link": "https://www.rmf24.pl/fakty/polska/news-grzegorz-braun-laureatem-nagrody-pokoju-i-praw-czlowieka,nId,8037410",
-      "pubDate": "Tue, 04 Nov 2025 14:42:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Paramount Skydance będzie nadal emitować program Jona Stewarta w Comedy Central",
-      "link": "http://www.press.pl/tresc/90133,paramount-skydance-bedzie-nadal-emitowac-program-jona-stewarta-w-comedy-central?rss=1",
-      "pubDate": "Tue, 04 Nov 2025 14:42:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "California father who killed his baby son sentenced to more than 30 years in prison",
-      "link": "https://www.theguardian.com/us-news/2025/nov/04/california-father-killed-baby-son-sentenced-prison",
-      "pubDate": "Tue, 04 Nov 2025 13:41:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Statek Rosjan w ogniu. Pożar widać z kosmosu",
-      "link": "https://tech.wp.pl/statek-rosjan-w-ogniu-pozar-widac-z-kosmosu,7218230742481504a",
-      "pubDate": "Tue, 04 Nov 2025 14:41:18 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Czy Zbigniew Ziobro powinien trafić do aresztu? Zapytamy Krzysztofa Śmiszka",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-czy-zbigniew-ziobro-powinien-trafic-do-aresztu-zapytamy-krzy,nId,8037417",
-      "pubDate": "Tue, 04 Nov 2025 14:41:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Bartosz Radzikowski: Kiedy fiskalizm udaje profilaktykę, czyli ciężki przypadek opłaty cukrowej",
-      "link": "https://www.rp.pl/opinie-prawne/art43285461-bartosz-radzikowski-kiedy-fiskalizm-udaje-profilaktyke-czyli-ciezki-przypadek-oplaty-cukrowej",
-      "pubDate": "Tue, 04 Nov 2025 14:40:21 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Polska wieprzowina na równi pochyłej. To problemy, które toczą sektor",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-wieprzowina-na-rowni-pochylej-To-problemy-ktore-tocza-sektor-9034776.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 4 Nov 2025 14:40:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Afera na Śląsku. Wyłudzali miliony na dotacjach z tarczy antykryzysowej",
-      "link": "https://businessinsider.com.pl/wiadomosci/falszywe-wnioski-o-dotacje-z-czasow-covid-19-oskarzono-21-osob/pfgry9s",
-      "pubDate": "Tue, 04 Nov 2025 13:39:57 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Zimowa siatka połączeń LOT-u. Nowe trasy i powrót popularnych kierunków",
-      "link": "https://turystyka.rp.pl/linie-lotnicze/art43285621-zimowa-siatka-polaczen-lot-u-nowe-trasy-i-powrot-popularnych-kierunkow",
-      "pubDate": "Tue, 04 Nov 2025 14:37:29 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowy Jork wybiera burmistrza. Czy są powody do radości?",
-      "link": "https://krytykapolityczna.pl/archiwum/nowy-jork-wybiera-burmistrza-zohran-mamdani-andrew-cuomo/",
-      "pubDate": "Tue, 04 Nov 2025 13:36:46 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Nowy Jork wybiera burmistrza. Czy są powody do radości?",
-      "link": "https://krytykapolityczna.pl/swiat/nowy-jork-wybiera-burmistrza-zohran-mamdani-andrew-cuomo/",
-      "pubDate": "Tue, 04 Nov 2025 13:36:46 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "\"Na zlecenie Rosjanina\". Nowe fakty ws. głośnej kradzieży starodruków",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-na-zlecenie-rosjanina-nowe-fakty-ws-glosnej-kradziezy-starod,nId,8037405",
-      "pubDate": "Tue, 04 Nov 2025 14:34:35 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Nowa kolekcja olimpijska. Oto jak będą wyglądać Polacy na ZIO 2026",
-      "link": "https://www.rmf24.pl/sport/news-nowa-kolekcja-olimpijska-oto-jak-beda-wygladac-polacy-na-zio,nId,8037413",
-      "pubDate": "Tue, 04 Nov 2025 14:32:45 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kraków będzie znów sparaliżowany? Ważna ulica przejdzie remont",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-krakow-bedzie-znow-sparalizowany-wazna-ulica-przejdzie-remon,nId,8037395",
-      "pubDate": "Tue, 04 Nov 2025 14:32:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Minister edukacji zatrzymany, bo uczniowie nie dostali podręczników na czas",
-      "link": "https://tvn24.pl/swiat/libia-minister-edukacji-zatrzymany-nie-dostarczono-uczniom-podrecznikow-na-czas-st8734935?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 13:31:36 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rodzice dzieci ze wsi oburzeni po słowach burmistrza. Ten przeprasza",
-      "link": "https://tvn24.pl/olsztyn/rodzice-dzieci-ze-wsi-oburzeni-po-slowach-burmistrza-ten-przeprasza-st8734940?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 13:31:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Koszmarna historia z Kołobrzegu. Miał zgwałcić dwie starsze kobiety. Stanie przed sądem",
-      "link": "https://wiadomosci.onet.pl/szczecin/mial-brutalnie-zgwalcic-dwie-starsze-kobiety-jest-akt-oskarzenia/5w7bgzc",
-      "pubDate": "Tue, 04 Nov 2025 13:31:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "David Beckham się doczekał. Otrzymał tytuł szlachecki na zamku Windsor",
-      "link": "https://www.bankier.pl/wiadomosc/David-Beckham-sie-doczekal-Otrzymal-tytul-szlachecki-na-zamku-Windsor-9034769.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 4 Nov 2025 14:31:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "'Celebrating a lifetime of literature': Gonzalo Celorio wins Spain's coveted Cervantes Prize 2025",
-      "link": "http://www.euronews.com/culture/2025/11/04/celebrating-a-lifetime-of-literature-gonzalo-celorio-wins-spains-coveted-cervantes-prize-2",
-      "pubDate": "Tue, 04 Nov 2025 14:30:27 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Ceny pójdą w górę. Branża ostrzega",
-      "link": "https://tvn24.pl/biznes/z-kraju/ceny-jaj-pojda-w-gore-branza-ostrzega-st8735358?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 13:30:17 GMT",
-      "source": "TVN24"
     }
   ]
 }
