@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T04:48:38.666Z",
+  "generatedAt": "2025-11-12T04:59:48.907Z",
   "items": [
+    {
+      "title": "Filip Chudyszewicz szefem poznańskiej kreacji GoldenSubmarine",
+      "link": "https://www.wirtualnemedia.pl/filip-chudyszewicz-szefem-poznanskiej-kreacji-goldensubmarine,7219267844152192a",
+      "pubDate": "Wed, 12 Nov 2025 05:57:56 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Nowi dziennikarze w grupie naTemat. Przejście z Radia ZET",
+      "link": "https://www.wirtualnemedia.pl/natemat-pl-dziennikarz-nowy-maciej-bak-szymon-janus,7220932369267584a",
+      "pubDate": "Wed, 12 Nov 2025 05:55:52 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Człowiek mówi, AI pisze kod. Aż sama spróbowałam \"vibe codingu\"",
+      "link": "https://geekweek.interia.pl/geekextra/news-czlowiek-mowi-ai-pisze-kod-az-sama-sprobowalam-vibe-codingu,nId,22452149",
+      "pubDate": "Wed, 12 Nov 2025 04:55:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Odsetki od pożyczki na zakup udziałów. Fiskus zmienia zdanie",
+      "link": "https://pro.rp.pl/cit-koszty-uzyskania-przychodu/art43312661-odsetki-od-pozyczki-na-zakup-udzialow-fiskus-zmienia-zdanie",
+      "pubDate": "Wed, 12 Nov 2025 05:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "G7 foreign ministers meet in Canada for talks on trade, Ukraine, and Trump's ceasefire plan in Gaza",
+      "link": "http://www.euronews.com/2025/11/12/g7-foreign-ministers-meet-in-canada-for-talks-on-trade-ukraine-and-trumps-ceasefire-plan-i",
+      "pubDate": "Wed, 12 Nov 2025 05:48:26 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Wojsko w Wenezueli przygotowuje się do walk partyzanckich z USA",
+      "link": "https://wiadomosci.onet.pl/swiat/wojsko-w-wenezueli-przygotowuje-sie-do-walk-partyzanckich-z-usa/z9z251d",
+      "pubDate": "Wed, 12 Nov 2025 04:45:03 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Grupa uderzeniowa lotniskowca Gerald Ford przemieściła się do regionu Ameryki Łacińskiej",
       "link": "https://tvn24.pl/swiat/usa-grupa-uderzeniowa-lotniskowca-gerald-ford-przemiescila-sie-do-regionu-ameryki-lacinskiej-st8747451?source=rss",
@@ -43065,6 +43101,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -73131,6 +73215,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86929,60 +87037,6 @@
       "link": "http://www.euronews.com/next/2025/11/04/france-treats-cyber-harassment-differently-to-rest-of-eu-these-are-the-other-high-profile-",
       "pubDate": "Tue, 04 Nov 2025 07:01:45 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 04.11.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-04-11-2025-7218119070964320a.html",
-      "pubDate": "Tue, 04 Nov 2025 07:01:44 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Niemcy chcą dokupić myśliwce F-35A. Nowe zamówienie za 2,5 mld euro",
-      "link": "https://tech.wp.pl/s/konflikty-pl/niemcy-chca-dokupic-mysliwce-f-35a-nowe-zamowienie-za-2-5-mld-euro,7217805806254752a",
-      "pubDate": "Tue, 04 Nov 2025 07:01:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Here are the digital changes EU candidate countries are making to align with the bloc",
-      "link": "http://www.euronews.com/next/2025/11/04/here-are-the-digital-changes-eu-candidate-countries-are-making-to-align-with-the-bloc",
-      "pubDate": "Tue, 04 Nov 2025 07:00:59 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "House sales in Europe: Which markets are growing, which are slowing?",
-      "link": "http://www.euronews.com/business/2025/11/04/house-sales-in-europe-which-markets-are-growing-which-are-slowing",
-      "pubDate": "Tue, 04 Nov 2025 07:00:49 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Latest news bulletin | November 4th, 2025 – Morning",
-      "link": "http://www.euronews.com/video/2025/11/04/latest-news-bulletin-november-4th-2025-morning",
-      "pubDate": "Tue, 04 Nov 2025 07:00:33 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Can at-home gut microbiome tests really tell you anything useful?",
-      "link": "http://www.euronews.com/health/2025/11/04/can-at-home-gut-microbiome-tests-really-tell-you-anything-useful",
-      "pubDate": "Tue, 04 Nov 2025 07:00:31 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Przeszukali cztery miejsca, zatrzymali sześć osób",
-      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-narkotyki-w-czterech-lokalizacjach-szesc-osob-zatrzymanych-st8734109?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 06:00:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Widmo cyberataków na Polskę. Apel ministra Krzysztofa Gawkowskiego",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-widmo-cyberatakow-na-polske-apel-ministra-krzysztofa-gawkows,nId,8036993",
-      "pubDate": "Tue, 04 Nov 2025 07:00:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Dramat niepełnosprawnych: Nawet rok czekania na decyzję ws. pieniędzy",
-      "link": "https://www.rmf24.pl/fakty/polska/news-dramat-niepelnosprawnych-nawet-rok-czekania-na-decyzje-ws-pi,nId,8036160",
-      "pubDate": "Tue, 04 Nov 2025 07:00:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
