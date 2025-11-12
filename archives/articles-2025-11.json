@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T03:36:23.169Z",
+  "generatedAt": "2025-11-12T03:59:18.577Z",
   "items": [
+    {
+      "title": "Będzie uproszczona legalizacja samowoli budowlanych",
+      "link": "https://www.rp.pl/nieruchomosci/art43314181-bedzie-uproszczona-legalizacja-samowoli-budowlanych",
+      "pubDate": "Wed, 12 Nov 2025 04:52:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1358",
+      "link": "https://www.rp.pl/swiat/art43318511-wojna-rosji-z-ukraina-dzien-1358",
+      "pubDate": "Wed, 12 Nov 2025 04:49:34 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Smog, handlarze i „eksperci od szczęścia”. Przeludniona stolica Indii tętni życiem",
+      "link": "https://www.rp.pl/spoleczenstwo/art43283571-smog-handlarze-i-eksperci-od-szczescia-przeludniona-stolica-indii-tetni-zyciem",
+      "pubDate": "Wed, 12 Nov 2025 04:47:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Jacek Czaputowicz: Co pokazuje sto dni prezydenta Karola Nawrockiego",
+      "link": "https://www.rp.pl/publicystyka/art43315611-jacek-czaputowicz-co-pokazuje-sto-dni-prezydenta-karola-nawrockiego",
+      "pubDate": "Wed, 12 Nov 2025 04:41:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Blackout-hit Dominican Republic begins restoring power",
+      "link": "https://www.dw.com/en/blackout-hit-dominican-republic-begins-restoring-power/a-74707062?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 12 Nov 2025 03:38:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Michał Szułdrzyński: KSeF zmieni wszystko. Dodatkowe miliardy w budżecie, ale i wielkie zagrożenia",
+      "link": "https://www.rp.pl/opinie-prawne/art43314301-michal-szuldrzynski-ksef-zmieni-wszystko-dodatkowe-miliardy-w-budzecie-ale-i-wielkie-zagrozenia",
+      "pubDate": "Wed, 12 Nov 2025 04:36:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "KSeF jak tykająca bomba. Służby specjalne jej nie sprawdziły",
       "link": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art43309331-ksef-jak-tykajaca-bomba-sluzby-specjalne-jej-nie-sprawdzily",
@@ -42825,6 +42861,54 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -72747,6 +72831,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "48",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -86767,60 +86875,6 @@
       "link": "https://biznes.interia.pl/gospodarka/news-podrobki-znanych-marek-plyna-do-europy-polska-duzym-odbiorca,nId,22450529",
       "pubDate": "Tue, 04 Nov 2025 05:40:03 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "IPG Mediabrands na czele zestawienia New Business Balance w kategorii grupy mediowe",
-      "link": "http://www.press.pl/tresc/90131,ipg-mediabrands-na-czele-zestawienia-new-business-balance-w-kategorii-grupy-mediowe?rss=1",
-      "pubDate": "Tue, 04 Nov 2025 06:39:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Trump poparł swojego byłego przeciwnika",
-      "link": "https://tvn24.pl/swiat/usa-donald-trump-poparl-swojego-bylego-przeciwnika-andrew-cuomo-w-wyborach-na-burmistrza-nowego-jorku-st8734218?source=rss",
-      "pubDate": "Tue, 04 Nov 2025 05:38:05 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Chcę to w Polsce: mają sposób, by karty działały bez sieci i zasięgu",
-      "link": "https://spidersweb.pl/2025/11/szwecja-dania-platnosci-offline.html",
-      "pubDate": "Tue, 04 Nov 2025 06:35:40 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Chińskie auta szturmem zdobywają Polskę. Wkrótce pęknie symboliczna bariera",
-      "link": "https://biznes.interia.pl/gospodarka/news-chinskie-auta-szturmem-zdobywaja-polske-wkrotce-peknie-symbo,nId,22450570",
-      "pubDate": "Tue, 04 Nov 2025 05:33:29 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Branża ostrzega w sprawie nowego podatku. \"Nie chodzi o promocję zdrowia\"",
-      "link": "https://biznes.interia.pl/finanse/news-branza-sokowa-alarmuje-ws-nowego-podatku-zaszkodzi-tysiacom,nId,22450457",
-      "pubDate": "Tue, 04 Nov 2025 05:30:03 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Burza wokół wywiadu Rymanowskiego nie cichnie. Co dziennikarz na tym zyskał?",
-      "link": "https://www.wirtualnemedia.pl/burza-wokol-wywiadu-rymanowskiego-nie-cichnie-co-dziennikarz-na-tym-zyskal,7217905154325088a",
-      "pubDate": "Tue, 04 Nov 2025 06:28:56 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Obowiązkowe OC dla psów? Jest apel do ministra: Najwyższa pora",
-      "link": "https://biznes.interia.pl/finanse/news-obowiazkowe-oc-dla-psow-jest-apel-do-ministra-najwyzsza-pora,nId,22450201",
-      "pubDate": "Tue, 04 Nov 2025 05:28:51 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "„Heweliusz” od jutra na Netfliksie. Przedpremierowa recenzja bez spoilerów",
-      "link": "https://www.rmf24.pl/kultura/news-heweliusz-od-jutra-na-netfliksie-przedpremierowa-recenzja-be,nId,8037182",
-      "pubDate": "Tue, 04 Nov 2025 06:26:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Peru breaks diplomatic relations with Mexico over asylum claim of former prime minister",
-      "link": "http://www.euronews.com/2025/11/04/peru-breaks-diplomatic-relations-with-mexico-over-asylum-claim-of-former-prime-minister",
-      "pubDate": "Tue, 04 Nov 2025 06:24:58 +0100",
-      "source": "Euronews"
     }
   ]
 }
