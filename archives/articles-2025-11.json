@@ -1,12 +1,54 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-12T17:42:38.077Z",
+  "generatedAt": "2025-11-12T17:52:23.914Z",
   "items": [
+    {
+      "title": "Zginęły ponad 200 delfinów. Temperatura jezior sięgnęła 41°C",
+      "link": "https://tech.wp.pl/zginely-ponad-200-delfinow-temperatura-jezior-siegnela-41-c,7221116700593024a",
+      "pubDate": "Wed, 12 Nov 2025 18:50:42 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Cristiano Ronaldo myśli o emeryturze. Pożegnanie z wielką sceną coraz bliżej",
+      "link": "https://sport.rp.pl/pilka-nozna/art43322951-cristiano-ronaldo-mysli-o-emeryturze-pozegnanie-z-wielka-scena-coraz-blizej",
+      "pubDate": "Wed, 12 Nov 2025 18:48:44 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Duże utrudnienia w alei Waszyngtona. Zaczyna się remont",
+      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-zamkna-glowna-ulice-zmiany-tras-autobusow-i-objazdy-st8748877?source=rss",
+      "pubDate": "Wed, 12 Nov 2025 17:45:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pojemność baterii to nie wszystko. iPhone nadal królem",
+      "link": "https://antyweb.pl/pojemnosc-baterii-to-nie-wszystko-iphone-nadal-krolem",
+      "pubDate": "Wed, 12 Nov 2025 17:45:28 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Premier Wielkiej Brytanii strofuje BBC. W tle konflikt stacji z Trumpem i dymisje",
+      "link": "https://www.wirtualnemedia.pl/premier-wielkiej-brytanii-strofuje-bbc-w-tle-konflikt-stacji-z-trumpem-i-dymisje,7221116041378752a",
+      "pubDate": "Wed, 12 Nov 2025 18:41:27 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
     {
       "title": "Allegro łączy siły z dużym bankiem. Klienci na tym zyskają",
       "link": "https://www.tabletowo.pl/allegro-laczy-sily-z-duzym-bankiem-nowe-uslugi/",
       "pubDate": "Wed, 12 Nov 2025 17:41:21 +0000",
       "source": "Tabletowo"
+    },
+    {
+      "title": "Afera korupcyjna, którą wstrząsnęła Ukrainą. Lecą kolejne głowy",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-afera-korupcyjna-ktora-wstrzasnela-ukraina-leca-kolejne-glow,nId,8039739",
+      "pubDate": "Wed, 12 Nov 2025 18:41:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zmiana na stanowisku marszałka Sejmu. Co dalej z Szymonem Hołownią?",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-zmiana-na-stanowisku-marszalka-sejmu-co-dalej-z-szymonem-hol,nId,8039546",
+      "pubDate": "Wed, 12 Nov 2025 18:40:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Współpraca PKO BP i Allegro. Nowe usługi jeszcze w tym roku",
@@ -119,6 +161,12 @@
     {
       "title": "Polska wnosi o pełne zwolnienie z unijnego paktu migracyjnego",
       "link": "https://businessinsider.com.pl/wiadomosci/polska-wnosi-o-pelne-zwolnienie-z-unijnego-paktu-migracyjnego/e8m7yv6",
+      "pubDate": "Wed, 12 Nov 2025 17:24:27 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Pakt migracyjny. Polska składa wniosek o całkowite wyłączenie",
+      "link": "https://businessinsider.com.pl/wiadomosci/pakt-migracyjny-i-sprzeciw-polski-warszawa-zada-wylaczenia-z-mechanizmu-ue/e8m7yv6",
       "pubDate": "Wed, 12 Nov 2025 17:24:27 GMT",
       "source": "Business Insider"
     },
@@ -2575,6 +2623,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -50607,6 +50679,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -61640,6 +61736,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82545,6 +82665,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -83809,6 +83953,12 @@
       "link": "https://biznes.interia.pl/gospodarka/news-zacznie-sie-juz-1-stycznia-decyzja-zapadla-zus-wysle-3000-zl,nId,22451054",
       "pubDate": "Wed, 05 Nov 2025 09:00:47 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "To nie zamach Hołowni. Chodzi o zamach Święczkowskiego",
+      "link": "https://oko.press/to-nie-zamach-holowni-chodzi-o-zamach-swieczkowskiego",
+      "pubDate": "Wed, 05 Nov 2025 09:00:47 +0000",
+      "source": "OKO.press"
     },
     {
       "title": "Jest decyzja w sprawie działki pod CPK",
@@ -86959,84 +87109,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-ruch-usa-wobec-lukaszenki-sankcje-na-bialoruskie-samoloty-zn,nId,22450974",
       "pubDate": "Tue, 04 Nov 2025 20:26:34 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Vučić shrugs off Brussels criticism by flaunting economic credentials",
-      "link": "http://www.euronews.com/business/2025/11/04/vucic-shrugs-off-brussels-criticism-by-flaunting-economic-credentials",
-      "pubDate": "Tue, 04 Nov 2025 21:22:34 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Nepal. Siedem śmiertelnych ofiar lawiny pod Yalung Ri. Trwają poszukiwania ciał",
-      "link": "https://www.rp.pl/wypadki/art43287851-nepal-siedem-smiertelnych-ofiar-lawiny-pod-yalung-ri-trwaja-poszukiwania-cial",
-      "pubDate": "Tue, 04 Nov 2025 21:19:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Zamknięte lotniska w Belgii. Drony w pobliżu portów lotniczych w Brukseli i Liège",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43287791-zamkniete-lotniska-w-belgii-drony-w-poblizu-portow-lotniczych-w-brukseli-i-liege",
-      "pubDate": "Tue, 04 Nov 2025 21:16:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "​Polak zamordowany w Anglii. 20 tys. funtów za informacje dla śledczych",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-polak-zamordowany-w-anglii-20-tys-funtow-za-informacje-dla-s,nId,8037510",
-      "pubDate": "Tue, 04 Nov 2025 21:14:52 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Two Massachusetts men arrested after explosion at Harvard Medical School, says FBI",
-      "link": "https://www.theguardian.com/us-news/2025/nov/04/harvard-medical-school-explosion-arrests",
-      "pubDate": "Tue, 04 Nov 2025 20:14:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Minister zdecydował w sprawie sędziego Iwańca. \"Nie ma świętych krów\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-minister-zdecydowal-w-sprawie-sedziego-iwanca-nie-ma-swietyc,nId,22450973",
-      "pubDate": "Tue, 04 Nov 2025 20:13:52 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Niemcy oferują pieniądze Afgańczykom. \"Haniebna propozycja\"",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-niemcy-oferuja-pieniadze-afganczykom-haniebna-propozycja,nId,8037509",
-      "pubDate": "Tue, 04 Nov 2025 21:13:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Traffic at Brussels Airport temporarily suspended and flights diverted due to drone sighting",
-      "link": "http://www.euronews.com/2025/11/04/traffic-at-brussels-airport-temporarily-suspended-and-flights-diverted-due-to-drone-sighti",
-      "pubDate": "Tue, 04 Nov 2025 21:12:32 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Hybrydowa Cessna 337 wzbiła się w powietrze. Węglik krzemu w lotnictwie pisze nowy rozdział",
-      "link": "https://www.chip.pl/2025/11/hybrydowa-cessna-337-weglik-krzemu",
-      "pubDate": "Tue, 04 Nov 2025 20:06:30 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Koniec z gruzińskimi marzeniami o UE? \"Kandydat tylko z nazwy\".  Bruksela bezlitosna dla Tbilisi",
-      "link": "https://wiadomosci.onet.pl/swiat/koniec-z-gruzinskimi-marzeniami-o-ue-bruksela-bezlitosna-dla-tbilisi/v05y8bw",
-      "pubDate": "Tue, 04 Nov 2025 20:04:36 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ranny Ukrainiec czekał 33 dni. Wysłali po niego robota",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-ranny-ukrainiec-czekal-33-dni-wyslali-po-niego-robota,nId,8037507",
-      "pubDate": "Tue, 04 Nov 2025 21:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Samsung kusi świetną promką na TV. Czas wymienić staruszka",
-      "link": "https://spidersweb.pl/2025/11/samsung-kusi-swietna-promka-na-tv-czas-wymienic-staruszka.html",
-      "pubDate": "Tue, 04 Nov 2025 21:01:02 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Alarmująca liczba zakłóceń sygnału GPS na morzach. Wzrost aż o 510 proc.",
-      "link": "https://tech.wp.pl/alarmujaca-liczba-zaklocen-sygnalu-gps-na-morzach-wzrost-az-o-510-proc,7218322498898528a",
-      "pubDate": "Tue, 04 Nov 2025 21:01:00 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
