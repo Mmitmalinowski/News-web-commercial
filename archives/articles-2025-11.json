@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T22:42:35.186Z",
+  "generatedAt": "2025-11-13T22:51:37.910Z",
   "items": [
+    {
+      "title": "BBC apologizes to Trump over documentary edit",
+      "link": "https://www.dw.com/en/bbc-apologizes-to-trump-over-documentary-edit/a-74737485?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 13 Nov 2025 22:44:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Polska, czyli dom reprezentacji Ukrainy",
+      "link": "https://sport.rp.pl/pilka-nozna/art43330851-polska-czyli-dom-reprezentacji-ukrainy",
+      "pubDate": "Thu, 13 Nov 2025 23:43:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Nowy ambasador USA w Polsce skrytykował unijny pakiet. Odpowiedział ambasador Niemiec ",
       "link": "https://tvn24.pl/polska/tom-rose-nowy-ambasador-usa-w-polsce-krytycznie-o-unijnym-pakiecie-omnibus-st8751193?source=rss",
@@ -3823,6 +3835,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -63903,6 +63939,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76592,6 +76652,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81985,36 +82069,6 @@
       "link": "https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-czy-w-ostatnim-czasie-nasilila-sie-rosyjska-dywersja-na-to-p,nId,8037920",
       "pubDate": "Wed, 05 Nov 2025 18:45:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Koniec z centrami danych na Ziemi? Google chce umieścić AI w kosmosie",
-      "link": "https://cyfrowa.rp.pl/it/art43291231-koniec-z-centrami-danych-na-ziemi-google-chce-umiescic-ai-w-kosmosie",
-      "pubDate": "Wed, 05 Nov 2025 18:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Longest-ever US shutdown affects troops stationed in Germany",
-      "link": "https://www.dw.com/en/longest-ever-us-shutdown-affects-troops-stationed-in-germany/a-74633962?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 17:45:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "US troops in Germany told to seek food banks amid shutdown",
-      "link": "https://www.dw.com/en/us-troops-in-germany-told-to-seek-food-banks-amid-shutdown/a-74633962?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 17:45:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "US troops given German food bank advice amid shutdown",
-      "link": "https://www.dw.com/en/us-troops-given-german-food-bank-advice-amid-shutdown/a-74633962?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 17:45:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Szereg zabójstw i kilkadziesiąt prób morderstwa na oddziale. Pielęgniarz skazany",
-      "link": "https://tvn24.pl/swiat/niemcy-pielegniarz-skazany-na-dozywocie-za-zabicie-10-pacjentow-i-probe-morderstwa-kilkudziesieciu-innych-st8737783?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 17:44:23 GMT",
-      "source": "TVN24"
     }
   ]
 }
