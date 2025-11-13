@@ -1,7 +1,55 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T21:15:59.261Z",
+  "generatedAt": "2025-11-13T21:30:39.808Z",
   "items": [
+    {
+      "title": "Szybsze i bezpieczniejsze płatności dzięki sztucznej inteligencji",
+      "link": "https://www.rp.pl/projekty-specjalne/art43330751-szybsze-i-bezpieczniejsze-platnosci-dzieki-sztucznej-inteligencji",
+      "pubDate": "Thu, 13 Nov 2025 22:28:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Niemcy wynaleźli koło na nowo. Teraz mówią o konsekwencjach dla motoryzacji",
+      "link": "https://www.chip.pl/2025/11/niemcy-kolo-na-nowo-recykling-aluminium",
+      "pubDate": "Thu, 13 Nov 2025 21:26:23 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "10 stacji metra zamkniętych. Utrudnienia do niedzieli",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-dziesiec-stacji-metra-zamknietych-powodem-wymiana-urzadzen-sterowania-ruchem-komunikacja-zastepcza-st8751100?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 21:22:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Donald Trump rozważa atak w innym państwie. Armia czeka na rozkaz",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-13/donald-trump-rozwaza-atak-w-innym-panstwie-armia-czeka-na-rozkaz/",
+      "pubDate": "Thu, 13 Nov 2025 22:22:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Twoja sprzedaż online bez granic w całej Europie - bramka płatnicza eService",
+      "link": "https://www.rp.pl/projekty-specjalne/art43330681-twoja-sprzedaz-online-bez-granic-w-calej-europie-bramka-platnicza-eservice",
+      "pubDate": "Thu, 13 Nov 2025 22:22:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "B2B w nowej rzeczywistości. Jak zmieniają się standardy sprzedaży i obsługi klienta",
+      "link": "https://www.rp.pl/projekty-specjalne/art43330641-b2b-w-nowej-rzeczywistosci-jak-zmieniaja-sie-standardy-sprzedazy-i-obslugi-klienta",
+      "pubDate": "Thu, 13 Nov 2025 22:16:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Rosyjski myśliwiec rozbił się w Karelii",
+      "link": "https://tvn24.pl/najnowsze/rosja-mysliwiec-su-30-rozbil-sie-w-karelii-dwoch-czlonkow-zalogi-zginelo-st8751169?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 21:15:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ustawa o zakazie hodowli zwierząt futerkowych u prezydenta. Co o tej sprawie sądzą Polacy?",
+      "link": "https://tvn24.pl/fakty-artykuly/karol-nawrocki-zdecyduje-o-ustawie-o-zakazie-hodowli-zwierzat-futerkowych-co-o-tym-sadza-polacy-st8751087?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 21:11:51 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "H2O odpowiada za wprowadzenie marki Foodify. Jej twarzą został Michał Meyer",
       "link": "https://www.wirtualnemedia.pl/h2o-odpowiada-za-wprowadzenie-marki-foodify-jej-twarza-zostal-michal-meyer,7221456776248192a",
@@ -19,6 +67,12 @@
       "link": "https://businessinsider.com.pl/wiadomosci/straz-graniczna-o-spadku-incydentow-na-granicy-z-bialorusia-nowe-wyzwania/kr5mjq9",
       "pubDate": "Thu, 13 Nov 2025 21:05:20 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Amerykanie otwierają rząd, ale giełdy spadają. Sektor AI znów pod presją",
+      "link": "https://www.bankier.pl/wiadomosc/Amerykanie-otwieraja-rzad-ale-gieldy-spadaja-9039261.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 13 Nov 2025 22:04:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "BBC apologises to Donald Trump over edit of speech  for Panorama",
@@ -171,10 +225,22 @@
       "source": "The Guardian"
     },
     {
+      "title": "Zalecenia Marka Rubio: Wiza do USA nie dla otyłych",
+      "link": "https://www.rp.pl/polityka/art43330491-zalecenia-marka-rubio-wiza-do-usa-nie-dla-otylych",
+      "pubDate": "Thu, 13 Nov 2025 21:21:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Europoseł PiS kontra dziennikarki. Wicenaczelny TVN24: to próba zastraszenia",
       "link": "https://www.wirtualnemedia.pl/dominik-tarczynski-europosel-pis-kontra-tvn24-i-agnieszka-gozdyre-z-polsat-news,7221510965603200a",
       "pubDate": "Thu, 13 Nov 2025 21:17:10 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Peers to mount fresh offensive to halt assisted dying bill",
+      "link": "https://www.theguardian.com/society/2025/nov/13/peers-will-mount-fresh-offensive-to-halt-assisted-dying-bill",
+      "pubDate": "Thu, 13 Nov 2025 20:13:40 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Hospital consultants gearing up to join resident doctors in striking over pay",
@@ -3631,6 +3697,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -63423,6 +63513,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76112,6 +76226,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81607,90 +81745,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-05/wjechal-autem-w-ludzi-na-francuskiej-wyspie-dziewiec-osob-poszkodowanych/",
       "pubDate": "Wed, 05 Nov 2025 18:11:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Media: Ukraina nie odpowiada na prośby z Polski. Chodzi o ekshumacje",
-      "link": "https://wiadomosci.onet.pl/swiat/media-ukraina-nie-odpowiada-na-prosby-z-polski-chodzi-o-ekshumacje/1fht59r",
-      "pubDate": "Wed, 05 Nov 2025 17:10:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dare Market to zapowiedź świata rodem z „Black Mirror”. To już się dzieje",
-      "link": "https://android.com.pl/tech/988627-dare-market-wyzwania-viral-black-mirror/",
-      "pubDate": "Wed, 05 Nov 2025 17:10:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "AI w bankowości. \"Zarządy często mają duży apetyt\". A rzeczywistość?",
-      "link": "https://biznes.interia.pl/finanse/news-ai-w-bankowosci-zarzady-czesto-maja-duzy-apetyt-a-jak-wyglad,nId,22451369",
-      "pubDate": "Wed, 05 Nov 2025 17:09:43 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zgodził się na sprzedaż działki pod CPK. Romanowski: będę wyjaśniać",
-      "link": "https://tvn24.pl/polska/afera-z-dzialka-pod-cpk-zebral-sie-specjalny-zespol-do-wyjasnienia-sprawy-robert-telus-i-rafal-romanowskiego-w-siedzibie-pis-st8737448?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 17:09:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Niemcy wydadzą \"Wielkiego Bu\" Polsce. Wiadomo, gdzie trafi",
-      "link": "https://businessinsider.com.pl/wiadomosci/niemcy-wydadza-wielkiego-bu-polsce-bedzie-w-tym-zakladzie-karnym/qh2q12t",
-      "pubDate": "Wed, 05 Nov 2025 17:07:48 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Tak nie rozprzestrzeniała się dżuma. Literacki żart zwiódł historyków",
-      "link": "https://geekweek.interia.pl/historia/news-tak-nie-rozprzestrzeniala-sie-dzuma-literacki-zart-zwiodl-hi,nId,22451179",
-      "pubDate": "Wed, 05 Nov 2025 17:05:02 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Onet największą domeną wśród polskich wydawców w październiku 2025 roku",
-      "link": "https://wiadomosci.onet.pl/kraj/onet-znow-triumfuje-pozostajemy-najwieksza-domena-wsrod-polskich-wydawcow/wfmtrmz",
-      "pubDate": "Wed, 05 Nov 2025 17:04:30 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Libyan general accused of crimes against humanity arrested in Tripoli",
-      "link": "https://www.theguardian.com/world/2025/nov/05/libyan-general-accused-of-crimes-against-humanity-arrested-in-tripoli",
-      "pubDate": "Wed, 05 Nov 2025 17:02:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Uwagi do nowelizacji wdrażającej DSA w Polsce",
-      "link": "https://cyberdefence24.pl/polityka-i-prawo/uwagi-do-nowelizacji-wdrazajacej-dsa-w-polsce",
-      "pubDate": "Wed, 05 Nov 2025 18:02:44 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Były minister zdrowia: Powinniśmy zmienić system szpitali",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-byly-minister-zdrowia-powinnismy-zmienic-system-szpitali,nId,8037980",
-      "pubDate": "Wed, 05 Nov 2025 18:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Były wiceminister zdrowia: Powinniśmy zmienić system szpitali",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-byly-wiceminister-zdrowia-powinnismy-zmienic-system-szpitali,nId,8037980",
-      "pubDate": "Wed, 05 Nov 2025 18:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "\"Wielki Bu\" przewieziony w inne miejsce. Niemcy zdecydowali",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wielki-bu-przewieziony-w-inne-miejsce-niemcy-zdecydowali,nId,8038042",
-      "pubDate": "Wed, 05 Nov 2025 18:00:31 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Latest news bulletin | November 5th, 2025 – Evening",
-      "link": "http://www.euronews.com/video/2025/11/05/latest-news-bulletin-november-5th-2025-evening",
-      "pubDate": "Wed, 05 Nov 2025 18:00:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "11 listopada. Czy w Święto Niepodległości trzeba iść do kościoła?",
-      "link": "https://wiadomosci.onet.pl/kraj/11-listopada-msza-sw-czy-w-swieto-niepodleglosci-trzeba-isc-do-kosciola/t256rk8",
-      "pubDate": "Wed, 05 Nov 2025 17:00:00 GMT",
-      "source": "Onet"
     }
   ]
 }
