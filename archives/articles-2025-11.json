@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T23:26:47.389Z",
+  "generatedAt": "2025-11-13T23:39:46.989Z",
   "items": [
+    {
+      "title": "Molly Ticehurst’s ex-boyfriend pleads guilty to 2024 murder that ignited national anti-DV campaign",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/14/molly-ticehurst-murder-ex-daniel-billings-pleads-guilty",
+      "pubDate": "Thu, 13 Nov 2025 23:24:52 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Alarm w całej Ukrainie. Rosja atakuje dronami i rakietami",
       "link": "https://wiadomosci.onet.pl/swiat/alarm-w-calej-ukrainie-rosja-atakuje-dronami-i-rakietami/4ch9yfz",
@@ -3883,6 +3889,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -64107,6 +64137,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76796,6 +76850,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82153,30 +82231,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-05/ukraina-zawarla-nowy-sojusz-jasny-sygnal-dla-putina/",
       "pubDate": "Wed, 05 Nov 2025 19:05:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Wielki sojusznik Rosji postawił na Chiny. Policzek dla Putina",
-      "link": "https://geekweek.interia.pl/militaria/news-wielki-sojusznik-rosji-postawil-na-chiny-policzek-dla-putina,nId,22451399",
-      "pubDate": "Wed, 05 Nov 2025 18:04:08 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Wielki sojusznik Rosji postawił na Chiny. Policzek dla Putina",
-      "link": "https://geekweek.interia.pl/militaria/news-azerbejdzan-odwraca-sie-od-rosji-stawia-na-chinska-bron,nId,22451399",
-      "pubDate": "Wed, 05 Nov 2025 18:04:08 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Ferromagnetyczny pościg, czyli co się dzieje, gdy światło wywołuje ruch bez reakcji",
-      "link": "https://www.chip.pl/2025/11/swiatlo-ferromagnetyczny-poscig",
-      "pubDate": "Wed, 05 Nov 2025 18:04:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Miss Piggy movie on way from Jennifer Lawrence, Emma Stone and Cole Escola",
-      "link": "https://www.theguardian.com/culture/2025/nov/05/miss-piggy-movie-jennifer-lawrence-emma-stone-cole-escola",
-      "pubDate": "Wed, 05 Nov 2025 18:01:29 GMT",
-      "source": "The Guardian"
     }
   ]
 }
