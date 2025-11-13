@@ -1,12 +1,72 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T19:50:21.702Z",
+  "generatedAt": "2025-11-13T20:00:03.566Z",
   "items": [
+    {
+      "title": "Ten silnik łączy Ziemię z kosmosem. Wytwarza energię w niewyobrażalny sposób",
+      "link": "https://www.chip.pl/2025/11/silnik-stirlinga-roznice-temperatur-kosmos",
+      "pubDate": "Thu, 13 Nov 2025 19:58:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Recenzja Samsung Bespoke AI Jet Ultra. Warto upaść na głowę?",
+      "link": "https://www.tabletowo.pl/recenzja-samsung-bespoke-ai-jet-ultra-test/",
+      "pubDate": "Thu, 13 Nov 2025 19:57:06 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "\"Moja kariera powoli dobiega końca\". Co planuje Lewandowski?",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-moja-kariera-powoli-dobiega-konca-co-planuje-lewandowski,nId,8040216",
+      "pubDate": "Thu, 13 Nov 2025 20:56:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Grenlandzki prztyczek w nos Trumpa. Ziemia i domy nie dla obcych",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-grenlandzki-prztyczek-w-nos-trumpa-ziemia-i-domy-nie-dla-obc,nId,8040217",
+      "pubDate": "Thu, 13 Nov 2025 20:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Żyła złota w Afryce. Wartość przekracza miliardy dolarów",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zloze-zlota-w-kenii-jednym-z-najwiekszych-w-afryce-wartosc-przekracza-5-mld-dolarow-st8750983?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 19:53:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polacy kradną w sklepach na potęgę. \"Forma desperackiego przetrwania\"",
+      "link": "https://biznes.interia.pl/finanse/news-oto-co-kradna-w-sklepach-polacy-forma-desperackiego-przetrwa,nId,22453937",
+      "pubDate": "Thu, 13 Nov 2025 19:50:57 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ministerstwo Kultury pozywa fundację ojca Rydzyka. Chce zwrotu ponad 200 mln zł",
+      "link": "https://wiadomosci.onet.pl/kraj/ministerstwo-kultury-pozywa-fundacje-ojca-rydzyka-chodzi-o-muzeum-pamiec-i-tozsamosc/rlwt0tm",
+      "pubDate": "Thu, 13 Nov 2025 19:50:39 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rosyjski raper z zakazem wjazdu na Litwę. Mówił o Putinie i wojnie",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-rosyjski-raper-z-zakazem-wjazdu-na-litwe-mowil-o-putinie-i-w,nId,22453911",
+      "pubDate": "Thu, 13 Nov 2025 19:50:37 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Zażywali go już w starożytności. To znana substancja psychoaktywna",
       "link": "https://tech.wp.pl/zazywali-go-juz-w-starozytnosci-to-znana-substancja-psychoaktywna,7221493088713600a",
       "pubDate": "Thu, 13 Nov 2025 20:49:40 +0100",
       "source": "Tech WP.pl"
+    },
+    {
+      "title": "Polska wzmacnia swoje siły zbrojne. 180 czołgów K2 już w kraju",
+      "link": "https://businessinsider.com.pl/wiadomosci/polska-armia-odebrala-komplet-czolgow-k2-nowy-kontrakt-juz-podpisany/yme9t7n",
+      "pubDate": "Thu, 13 Nov 2025 19:48:52 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Prezydent \"nie jest bezpiecznikiem, jest granatnikiem\"",
+      "link": "https://tvn24.pl/polska/krzysztof-gawkowski-wicepremier-i-minister-cyfryzacji-o-sporze-karola-nawrockiego-z-rzadem-st8751050?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 19:45:45 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Italy to investigate 'sniper tourism' during Bosnian War",
@@ -3283,6 +3343,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -62835,6 +62919,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -75524,6 +75632,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81343,84 +81475,6 @@
       "link": "https://businessinsider.com.pl/finanse/poduszka-finansowa-polakow-coraz-wieksza-mamy-juz-lacznie-36-bln-zl/tm6ey2s",
       "pubDate": "Wed, 05 Nov 2025 16:03:18 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Ukraina w nowym sojuszu. Wzrok zwrócony na Północ",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-ukraina-w-nowym-sojuszu-wzrok-zwrocony-na-polnoc,nId,8038028",
-      "pubDate": "Wed, 05 Nov 2025 17:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Przewoził rosyjski dron na dachu samochodu. Kierowca zatrzymany w Kijowie",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-przewozil-rosyjski-dron-na-dachu-samochodu-kierowca-zatrzyma,nId,22451346",
-      "pubDate": "Wed, 05 Nov 2025 16:01:56 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Nieunikniona rewolucja: Rola AI w budowaniu efektywności i innowacyjności organizacji",
-      "link": "https://android.com.pl/tech/984828-rola-ai-w-dzisiejszym-swiecie/",
-      "pubDate": "Wed, 05 Nov 2025 16:01:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Uwaga na fałszywe komunikaty o blokadzie konta na Facebooku",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/uwaga-na-falszywe-komunikaty-o-blokadzie-konta-na-facebooku",
-      "pubDate": "Wed, 05 Nov 2025 17:00:47 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Podcast „Rzecz w tym”: Lewicowa rewolucja w Nowym Jorku. Co wygrana Zohrana Mamdaniego znaczy dla USA, Trumpa i Europy",
-      "link": "https://www.rp.pl/polityka/art43291661-podcast-rzecz-w-tym-lewicowa-rewolucja-w-nowym-jorku-co-wygrana-zohrana-mamdaniego-znaczy-dla-usa-trumpa-i-europy",
-      "pubDate": "Wed, 05 Nov 2025 17:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Tłumaczenie na żywo w AirPodsach. Apple w końcu wprowadza wyczekiwaną funkcję w Unii Europejskiej",
-      "link": "https://www.chip.pl/2025/11/tlumaczenie-na-zywo-w-airpodsach-apple-w-koncu-wprowadza-wyczekiwana-funkcje-w-unii-europejskiej",
-      "pubDate": "Wed, 05 Nov 2025 16:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "A new batch of 'brain atlases' shows how brain cells change from embryo to maturity. The field could soon show when problems like dementia emerge.",
-      "link": "https://www.dw.com/en/a-new-batch-of-brain-atlases-shows-how-brain-cells-change-from-embryo-to-maturity-the-field-could-soon-show-when-problems-like-dementia-emerge/a-74630888?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 16:00:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "New 'brain atlases' may change fight against Alzheimer's, MS",
-      "link": "https://www.dw.com/en/new-brain-atlases-may-change-fight-against-alzheimer-s-ms/a-74630888?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 16:00:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Samsung szykuje własną odpowiedź dla Dolby Vision 2 dla telewizorów",
-      "link": "https://geekweek.interia.pl/technologia/news-samsung-szykuje-wlasna-odpowiedz-dla-dolby-vision-2-dla-tele,nId,22451139",
-      "pubDate": "Wed, 05 Nov 2025 15:59:59 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "CNN’s All Access election night ‘watch party’ might not be the network’s future",
-      "link": "https://www.theguardian.com/media/2025/nov/05/cnn-election-night-all-access-streaming",
-      "pubDate": "Wed, 05 Nov 2025 15:59:05 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nefertiti bust should be returned to Egypt, say historians",
-      "link": "https://www.dw.com/en/nefertiti-bust-should-be-returned-to-egypt-say-historians/a-74630030?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 15:58:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Nefertiti bust should be returned to Egypt, historians say",
-      "link": "https://www.dw.com/en/nefertiti-bust-should-be-returned-to-egypt-historians-say/a-74630030?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 15:58:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Historians say it's time for Germany to return the famous Nefertiti bust to Egypt as a new major museum opens there",
-      "link": "https://www.dw.com/en/historians-say-it-s-time-for-germany-to-return-the-famous-nefertiti-bust-to-egypt-as-a-new-major-museum-opens-there/a-74630030?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 15:58:00 GMT",
-      "source": "DW"
     }
   ]
 }
