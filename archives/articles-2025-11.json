@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T22:00:07.481Z",
+  "generatedAt": "2025-11-13T22:27:22.724Z",
   "items": [
+    {
+      "title": "Donald Trump zagroził BBC, kierownictwo podało się do dymisji. Medium z przeprosinami",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-13/donald-trump-zagrozil-bbc-kierownictwo-podalo-sie-do-dymisji-medium-z-przeprosinami/",
+      "pubDate": "Thu, 13 Nov 2025 23:14:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "BBC przeprasza Trumpa ",
+      "link": "https://tvn24.pl/swiat/bbc-przeprasza-donalda-trumpa-za-montaz-jego-slow-o-marszu-na-kapitol-st8751199?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 22:08:26 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Prawdziwe intencje Putina. Brytyjski wywiad nie ma wątpliwości",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-prawdziwe-intencje-putina-brytyjski-wywiad-nie-ma-watpliwosc,nId,22453967",
+      "pubDate": "Thu, 13 Nov 2025 22:08:03 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Były szef MI6: Putin usiłuje nas ograć. Musimy go przyszpilić",
+      "link": "https://wiadomosci.onet.pl/swiat/byly-szef-mi6-wladimir-putin-usiluje-nas-ograc-znam-ten-typ/8n9swm4",
+      "pubDate": "Thu, 13 Nov 2025 22:06:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Democrat Eric Swalwell faces federal criminal inquiry for alleged mortgage fraud",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/eric-swalwell-federal-criminal-inquiry-trump",
+      "pubDate": "Thu, 13 Nov 2025 22:05:24 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kasparow komentuje słowa Nawrockiego",
+      "link": "https://tvn24.pl/polska/garri-kasparow-rosyjski-opozycjonista-komentuje-slowa-prezydenta-karola-nawrockiego-o-ukrainie-st8751166?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 22:04:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Melania Trump launches new initiative to help children raised in foster system",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/melania-trump-initiative-children-foster-system",
+      "pubDate": "Thu, 13 Nov 2025 22:04:46 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Rosjanie postawią na szantaż? \"Wystarczyłoby, że zaatakowaliby Litwę lub Łotwę\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-13/rosjanie-postawia-na-szantaz-wystarczyloby-ze-zaatakowaliby-litwe-lub-lotwe/",
+      "pubDate": "Thu, 13 Nov 2025 23:01:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Niesmaczne porównanie Gawkowskiego. Odpowiedział na słowa Błaszczaka",
+      "link": "https://www.rmf24.pl/polityka/news-niesmaczne-porownanie-gawkowskiego-odpowiedzial-na-slowa-bla,nId,8040235",
+      "pubDate": "Thu, 13 Nov 2025 22:59:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "US markets struggle amid tech sell-off and economic uncertainty",
       "link": "https://www.theguardian.com/business/2025/nov/13/us-markets-struggle-tech",
@@ -31,6 +85,12 @@
       "link": "https://tvn24.pl/polska/antonow-na-lawecie-niecodzienna-akcja-w-centrum-warszawy-st8751180?source=rss",
       "pubDate": "Thu, 13 Nov 2025 21:36:36 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Mops i pekińczyk. Dog i wilczarz. Kiedy zaczęła się ta różnorodnośc?",
+      "link": "https://www.rp.pl/nauka/art43330821-mops-i-pekinczyk-dog-i-wilczarz-kiedy-zaczela-sie-ta-roznorodnosc",
+      "pubDate": "Thu, 13 Nov 2025 22:35:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Swiss deploy charm offensive in bid to slash crippling Trump tariffs",
@@ -3751,6 +3811,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -63735,6 +63819,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76424,6 +76532,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81829,84 +81961,6 @@
       "link": "https://www.rp.pl/samorzad/art43290431-gminy-polegly-w-walce-ze-smogiem-eksperci-o-wnioskach-plynacych-z-raportu-nik",
       "pubDate": "Wed, 05 Nov 2025 18:35:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Media: Angelina Jolie przybyła do Chersonia, miasta pod rosyjskim ostrzałem",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-media-angelina-jolie-przybyla-do-chersonia-miasta-pod-rosyjs,nId,8038048",
-      "pubDate": "Wed, 05 Nov 2025 18:34:50 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ten laptop wygląda jak dzieło sztuki. Kupisz go w Polsce",
-      "link": "https://www.tabletowo.pl/msi-prestige-13-ai-ukiyo-e-edition-cena-w-polsce/",
-      "pubDate": "Wed, 05 Nov 2025 17:33:33 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Sąd umorzył sprawę oskarżonej o ułatwienie zabójstwa męża. Uznał, że została już osądzona ",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/bialystok-ulatwienie-zabojstwa-meza-sad-umorzyl-sprawe-kobieta-zostala-juz-osadzona-st8737775?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 17:32:30 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "UK opts out of flagship fund to protect Amazon and other threatened tropical forests",
-      "link": "https://www.theguardian.com/environment/2025/nov/05/uk-opts-out-of-flagship-fund-to-protect-amazon-and-other-threatened-tropical-forests",
-      "pubDate": "Wed, 05 Nov 2025 17:32:04 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Tak Donald Trump może zagrać Brukseli na nosie. A z Orbana zrobić polityczne trofeum. \"Nie musi kochać UE, aby wykorzystać ją do swoich celów\"",
-      "link": "https://wiadomosci.onet.pl/swiat/tak-trump-moze-zagrac-brukseli-na-nosie-nie-musi-kochac-ue-by-wykorzystac-ja-do/yg781qp",
-      "pubDate": "Wed, 05 Nov 2025 17:31:22 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Czy to będzie ostatni Sylwester z fajerwerkami?",
-      "link": "https://oko.press/fajerwerki-petycja-projekty",
-      "pubDate": "Wed, 05 Nov 2025 17:30:23 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Black Weeks w Plusie z rabatem nawet 700 złotych na flagowe smartfony",
-      "link": "https://www.chip.pl/2025/11/black-weeks-w-plusie-z-rabatem-nawet-700-zlotych-na-flagowe-smartfony",
-      "pubDate": "Wed, 05 Nov 2025 17:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Sąsiad Polski podwyższa opłaty za autostrady",
-      "link": "https://tvn24.pl/biznes/ze-swiata/czechy-podwyzszaja-oplaty-za-autostrady-st8737767?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 17:29:29 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Niemcy przekażą Patryka M. Polsce. Podano datę",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-05/niemcy-przekaza-patryka-m-polsce-podano-date/",
-      "pubDate": "Wed, 05 Nov 2025 18:28:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Nowa promocja w PKP Intercity. Polski przewoźnik oferuje bilety za złotówkę",
-      "link": "https://biznes.interia.pl/finanse/news-pkp-za-zlotowke-polski-przewoznik-wraca-z-nowa-promocja,nId,22451414",
-      "pubDate": "Wed, 05 Nov 2025 17:26:48 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Philippines: Typhoon Kalmaegi death toll climbs past 90",
-      "link": "https://www.dw.com/en/philippines-typhoon-kalmaegi-death-toll-climbs-past-90/a-74633731?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 17:26:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Typhoon Kalmaegi death toll climbs past 90 in Philippines",
-      "link": "https://www.dw.com/en/typhoon-kalmaegi-death-toll-climbs-past-90-in-philippines/a-74633731?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 17:26:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Philippines declares emergency as Kalmaegi death toll soars",
-      "link": "https://www.dw.com/en/philippines-declares-emergency-as-kalmaegi-death-toll-soars/a-74633731?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 17:26:00 GMT",
-      "source": "DW"
     }
   ]
 }
