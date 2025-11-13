@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T21:40:44.027Z",
+  "generatedAt": "2025-11-13T21:50:23.306Z",
   "items": [
+    {
+      "title": "US markets struggle amid tech sell-off and economic uncertainty",
+      "link": "https://www.theguardian.com/business/2025/nov/13/us-markets-struggle-tech",
+      "pubDate": "Thu, 13 Nov 2025 21:43:59 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Rosja straciła 3 myśliwce w 2 miesiące. 150 milionów dolarów wyparowało",
+      "link": "https://geekweek.interia.pl/lotnictwo/news-rosja-stracila-kolejny-mysliwiec-50-milionow-dolarow-poszlo,nId,22453966",
+      "pubDate": "Thu, 13 Nov 2025 21:41:14 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Trump groził BBC. Medium pospieszyło z przeprosinami",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-grozil-bbc-medium-pospieszylo-z-przeprosinami,nId,22453959",
+      "pubDate": "Thu, 13 Nov 2025 21:39:45 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Przed warszawiakami trudne dni. Do niedzieli zamknięte 10 stacji metra",
+      "link": "https://wiadomosci.onet.pl/warszawa/przed-warszawiakami-trudne-dni-do-niedzieli-zamkniete-10-stacji-metra/3t3r2ky",
+      "pubDate": "Thu, 13 Nov 2025 21:39:21 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Antonow na lawecie. Niecodzienna akcja w centrum Warszawy",
+      "link": "https://tvn24.pl/polska/antonow-na-lawecie-niecodzienna-akcja-w-centrum-warszawy-st8751180?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 21:36:36 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Swiss deploy charm offensive in bid to slash crippling Trump tariffs",
       "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss",
@@ -3709,6 +3739,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -63597,6 +63651,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76286,6 +76364,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81751,54 +81853,6 @@
       "link": "https://wiadomosci.onet.pl/lublin/nowe-informacje-po-probie-ucieczki-z-aresztu-w-lublinie-ktos-jeszcze-poleci/31dmd5y",
       "pubDate": "Wed, 05 Nov 2025 17:20:28 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Vučić: Serbia open to resuming ammunition sales to Europe after export stop",
-      "link": "http://www.euronews.com/my-europe/2025/11/05/vucic-serbia-open-to-resuming-ammunition-sales-to-europe-after-export-stop",
-      "pubDate": "Wed, 05 Nov 2025 18:20:17 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "NATO zapowiada gigantyczne wsparcie dla Ukrainy. Historyczny moment",
-      "link": "https://geekweek.interia.pl/militaria/news-nato-zapowiada-gigantyczne-wsparcie-dla-ukrainy-historyczny,nId,22451423",
-      "pubDate": "Wed, 05 Nov 2025 17:20:10 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Czołgi i rakiety nie pociągną PKB? \"Wydatki na obronność mogą przynieść tylko krótkotrwały wzrost\"",
-      "link": "https://www.bankier.pl/wiadomosc/Czolgi-i-rakiety-nie-pociagna-PKB-Wydatki-na-obronnosc-moga-przyniesc-tylko-krotkotrwaly-wzrost-9035598.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 18:20:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Jedyny rosyjski kosmodrom odcięty od zasilania. Zdumiewający powód",
-      "link": "https://www.rp.pl/biznes/art43291831-jedyny-rosyjski-kosmodrom-odciety-od-zasilania-zdumiewajacy-powod",
-      "pubDate": "Wed, 05 Nov 2025 18:17:17 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rosyjski kosmodrom odcięty od zasilania. Zdumiewający powód",
-      "link": "https://www.rp.pl/biznes/art43291831-rosyjski-kosmodrom-odciety-od-zasilania-zdumiewajacy-powod",
-      "pubDate": "Wed, 05 Nov 2025 18:17:17 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "PGNiG przejdzie do historii. Gazowy gigant ma mieć w nazwie \"Orlen\"",
-      "link": "https://www.bankier.pl/wiadomosc/PGNiG-przejdzie-do-historii-Gazowy-gigant-ma-miec-w-nazwie-Orlen-9035597.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 18:17:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "‘We don't accept lectures’ when it comes to the fight against corruption, PM Rama says",
-      "link": "http://www.euronews.com/my-europe/2025/11/05/we-dont-accept-lectures-when-it-comes-to-the-fight-against-corruption-pm-rama-says",
-      "pubDate": "Wed, 05 Nov 2025 18:15:54 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Trudny quiz o ekstremalnych miejscach na Ziemi. Dasz radę?",
-      "link": "https://geekweek.interia.pl/quizy/news-geograficzne-rekordy-trudny-quiz-o-ekstremalnych-miejscach-n,nId,22450710",
-      "pubDate": "Wed, 05 Nov 2025 17:15:02 GMT",
-      "source": "GeekWeek"
     }
   ]
 }
