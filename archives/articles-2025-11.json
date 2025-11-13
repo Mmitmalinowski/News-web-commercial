@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T22:51:37.910Z",
+  "generatedAt": "2025-11-13T23:00:52.517Z",
   "items": [
+    {
+      "title": "Watch: Blue Origin sends satellites to Mars in historic launch",
+      "link": "https://www.bbc.com/news/videos/c5yd0zd6eddo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 22:51:55 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "BBC apologizes to Trump over documentary edit",
       "link": "https://www.dw.com/en/bbc-apologizes-to-trump-over-documentary-edit/a-74737485?maca=en-rss-en-all-1573-xml-mrss",
@@ -3835,6 +3841,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -63963,6 +63993,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76652,6 +76706,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82045,30 +82123,6 @@
       "link": "https://wiadomosci.onet.pl/slask/poszukiwania-krystiana-grobosza-wyszedl-z-domu-w-samych-skarpetkach/5tgqjt2",
       "pubDate": "Wed, 05 Nov 2025 17:50:57 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Czy Zbigniew Ziobro poprosi o azyl na Węgrzech?",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-czy-zbigniew-ziobro-poprosi-o-azyl-na-wegrzech,nId,8037896",
-      "pubDate": "Wed, 05 Nov 2025 18:50:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Znany producent AGD zwalnia pod Wrocławiem. Pracę straci 200 osób?",
-      "link": "https://biznes.interia.pl/praca/news-gigant-technologiczny-zwolni-200-osob-pod-wroclawiem-skala-n,nId,22451425",
-      "pubDate": "Wed, 05 Nov 2025 17:49:16 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Viktor Orban ma powody do niepokoju. Trudne położenie Fideszu",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-viktor-orban-ma-powody-do-niepokoju-trudne-polozenie-fideszu,nId,22451385",
-      "pubDate": "Wed, 05 Nov 2025 17:46:09 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Czy w ostatnim czasie nasiliła się rosyjska dywersja? Na to pytanie odpowie Tomasz Siemoniak",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-czy-w-ostatnim-czasie-nasilila-sie-rosyjska-dywersja-na-to-p,nId,8037920",
-      "pubDate": "Wed, 05 Nov 2025 18:45:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
