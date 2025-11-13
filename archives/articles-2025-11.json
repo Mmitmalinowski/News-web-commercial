@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T17:43:51.159Z",
+  "generatedAt": "2025-11-13T17:54:02.587Z",
   "items": [
+    {
+      "title": "Wojna domowa zatrzymała rosyjskie plany na Morzu Czerwonym. Budowa bazy wstrzymana",
+      "link": "https://businessinsider.com.pl/wiadomosci/morze-czerwone-bez-rosyjskiej-bazy-konflikt-w-sudanie-blokuje-projekt/8tq0ene",
+      "pubDate": "Thu, 13 Nov 2025 17:51:06 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ta sama pora, ten sam powiat. Dwie osoby nie żyją",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/plock-wypadki-smiertelne-na-drogach-krajowych-drogach-st8750967?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 17:49:55 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pogoda na jutro - piątek, 14.11. Nocą do Polski wkroczy front. Tu zacznie padać",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-piatek-14-11-noca-do-polski-wkroczy-front-przyniesie-chmury-i-deszcz-st8750755?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 17:48:32 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Wielki Bu\" doprowadzony do prokuratury. Usłyszał zarzuty",
+      "link": "https://wydarzenia.interia.pl/kraj/news-wielki-bu-doprowadzony-do-prokuratury-uslyszal-zarzuty,nId,22453873",
+      "pubDate": "Thu, 13 Nov 2025 17:46:41 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Zbigniew Ziobro stawia warunki śledczym. Co zrobi prokuratura?",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/poranna-rozmowa/news-zbigniew-ziobro-stawia-warunki-sledczym-co-zrobi-prokuratura,nId,8040020",
+      "pubDate": "Thu, 13 Nov 2025 18:45:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Wielki Bu\" przesłuchany w prokuraturze. Nowe informacje",
+      "link": "https://wiadomosci.onet.pl/kraj/wielki-bu-przesluchany-w-prokuraturze-nowe-informacje/q6mkrcj",
+      "pubDate": "Thu, 13 Nov 2025 17:44:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "15 mld dolarów tygodniowo. Biały Dom ujawnił dane dotyczące shutdownu",
+      "link": "https://biznes.interia.pl/polityka/news-shutdown-sparalizowal-usa-gospodarka-stracila-miliardy-dolar,nId,22453910",
+      "pubDate": "Thu, 13 Nov 2025 17:42:28 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Zelenskyy meets soldiers on Zaporizhzhia frontline as fighting with Russia intensifies",
       "link": "http://www.euronews.com/2025/11/13/zelenskyy-meets-soldiers-on-zaporizhzhia-frontline-as-fighting-with-russia-intensifies",
@@ -2701,6 +2743,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -61869,6 +61935,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -74558,6 +74648,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80929,66 +81043,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-05/zaskakujaca-interwencja-policji-w-kijowie-na-dachu-auta-szahed/",
       "pubDate": "Wed, 05 Nov 2025 15:27:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Shein opens store in Paris, as officials suspend online site",
-      "link": "https://www.dw.com/en/shein-opens-store-in-paris-as-officials-suspend-online-site/a-74626970?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 14:27:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Shein opens Paris store as France moves to suspend website",
-      "link": "https://www.dw.com/en/shein-opens-paris-store-as-france-moves-to-suspend-website/a-74626970?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 14:27:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "\"One polują\". Tak wojsko opisało polskie czołgi",
-      "link": "https://tech.wp.pl/one-poluja-tak-wojsko-opisalo-polskie-czolgi,7218581674515136a",
-      "pubDate": "Wed, 05 Nov 2025 15:26:34 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Ukraińcy czują się coraz gorzej w Niemczech. Jest badanie",
-      "link": "https://businessinsider.com.pl/wiadomosci/ukraincy-czuja-sie-coraz-gorzej-w-niemczech-jest-badanie/m8y7qxl",
-      "pubDate": "Wed, 05 Nov 2025 14:26:29 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Koniec kariery w rządzie. Wiceminister odchodzi, taki ma majątek",
-      "link": "https://biznes.interia.pl/finanse/news-koniec-kariery-w-rzadzie-wiceminister-odchodzi-taki-ma-majat,nId,22451283",
-      "pubDate": "Wed, 05 Nov 2025 14:25:11 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Próba ucieczki z aresztu w Lublinie. Dyrektor straciła stanowisko",
-      "link": "https://wydarzenia.interia.pl/lubelskie/news-proba-ucieczki-z-aresztu-w-lublinie-dyrektor-stracila-stanow,nId,22451323",
-      "pubDate": "Wed, 05 Nov 2025 14:24:49 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Motorola wraca do korzeni. Tani smartfon z funkcją, za którą tęskniliśmy",
-      "link": "https://android.com.pl/tech/988546-flagowce-motoroli-z-wazna-funkcja/",
-      "pubDate": "Wed, 05 Nov 2025 14:24:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Po wielkim zwycięstwie Mamdaniego czekają jeszcze większe wyzwania",
-      "link": "https://krytykapolityczna.pl/swiat/zohran-mamdani-burmistrz-nowego-jorku-jeszcze-zaden-socjalista-w-usa-nie-mial-takiej-wladzy/",
-      "pubDate": "Wed, 05 Nov 2025 14:23:32 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Germany cracks down on 'TikTok Islamism'",
-      "link": "https://www.dw.com/en/germany-cracks-down-on-tiktok-islamism/a-74630321?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 14:23:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Poseł Konfederacji, Krzysztof Szymański o ewentualnej koalicji z KO lub PiS: My nic nie musimy",
-      "link": "https://www.rp.pl/polityka/art43291391-posel-konfederacji-krzysztof-szymanski-o-ewentualnej-koalicji-z-ko-lub-pis-my-nic-nie-musimy",
-      "pubDate": "Wed, 05 Nov 2025 15:19:05 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
