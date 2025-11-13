@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T07:40:07.726Z",
+  "generatedAt": "2025-11-13T07:50:05.938Z",
   "items": [
+    {
+      "title": "Nominacje tych sędziów zablokował prezydent Karol Nawrocki. Jest lista",
+      "link": "https://www.rp.pl/sady-i-trybunaly/art43325471-nominacje-tych-sedziow-zablokowal-prezydent-karol-nawrocki-jest-lista",
+      "pubDate": "Thu, 13 Nov 2025 08:46:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nowe przepisy. Za co kierowca może wylądować w więzieniu? Minister Żurek precyzuje",
+      "link": "https://businessinsider.com.pl/wiadomosci/wiezienie-za-przekroczenie-predkosci-minister-precyzuje-kto-powinien-sie-obawiac/7px5fqe",
+      "pubDate": "Thu, 13 Nov 2025 07:40:53 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Rewolucyjna zmiana w MPK Łódź. Kontrolerzy wyposażeni w kamery",
+      "link": "https://www.rmf24.pl/regiony/lodz/news-rewolucyjna-zmiana-w-mpk-lodz-kontrolerzy-wyposazeni-w-kamer,nId,8039862",
+      "pubDate": "Thu, 13 Nov 2025 08:40:38 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Chciał zainwestować w amerykańskie spółki, stracił niemal 900 tysięcy złotych",
+      "link": "https://tvn24.pl/lublin/lublin-chcial-zainwestowac-w-amerykanskie-spolki-stracil-prawie-900-tysiecy-zlotych-st8749410?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 07:40:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zbigniew Ziobro nagle zaczął mówić o zarzutach. \"Donald Tusk był przeze mnie ścigany\"",
+      "link": "https://wiadomosci.onet.pl/kraj/ziobro-zaczal-mowic-o-podejrzeniu-korupcji-wobec-tuska-byl-obciazany/rh2814n",
+      "pubDate": "Thu, 13 Nov 2025 07:39:16 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Najbardziej pożądane marki modowe na świecie. Triumf szwedzkiej elegancji",
       "link": "https://sukces.rp.pl/moda/art43325411-najbardziej-pozadane-marki-modowe-na-swiecie-triumf-szwedzkiej-elegancji",
@@ -5491,6 +5521,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -55401,6 +55455,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -66434,6 +66512,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -89211,6 +89313,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -89791,60 +89917,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Nadchodzi-rewolucja-w-Apple-Firma-wypusci-najtanszego-MacBooka-w-historii-9035219.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 5 Nov 2025 11:25:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "KO i Konfederacja zyskują, PiS traci. Zwrot w nowym sondażu partyjnym",
-      "link": "https://wydarzenia.interia.pl/kraj/news-ko-i-konfederacja-zyskuja-pis-traci-zwrot-w-nowym-sondazu-pa,nId,22451125",
-      "pubDate": "Wed, 05 Nov 2025 10:24:19 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zwrot Niemiec w sprawie uchodźców. \"Wojna dobiegła końca\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-zwrot-niemiec-w-sprawie-uchodzcow-wojna-dobiegla-konca,nId,22451064",
-      "pubDate": "Wed, 05 Nov 2025 10:24:01 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Polska w centrum elektromobilnej rewolucji. Koreański gigant otwiera fabrykę w Brzegu",
-      "link": "https://moto.rp.pl/tu-i-teraz/art43290051-polska-w-centrum-elektromobilnej-rewolucji-koreanski-gigant-otwiera-fabryke-w-brzegu",
-      "pubDate": "Wed, 05 Nov 2025 11:23:54 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Więcej czasu na usunięcie azbestu z dachów. Kto nie zdąży, straci dofinansowanie",
-      "link": "https://www.bankier.pl/wiadomosc/Wiecej-czasu-na-usuniecie-azbestu-z-dachow-Kto-nie-zdazy-straci-dofinansowanie-9035257.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 11:23:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Strzelanina w Smogorzewie. Jest areszt dla rusznikarza",
-      "link": "https://wiadomosci.onet.pl/poznan/strzelanina-w-smogorzewie-jest-areszt-dla-rusznikarza/wpsrwc1",
-      "pubDate": "Wed, 05 Nov 2025 10:22:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "System kaucyjny działa od miesiąca. Zwrotna butelka jak igła w stogu siana",
-      "link": "https://android.com.pl/tech/988428-system-kaucyjny-po-pierwszym-miesiacu/",
-      "pubDate": "Wed, 05 Nov 2025 10:22:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Żurek odpowiada na decyzję Trybunału Stanu. Chodzi o immunitet Manowskiej",
-      "link": "https://tvn24.pl/polska/waldemar-zurek-odpowiada-na-decyzje-trybunalu-stanu-w-sprawie-immunitetu-malgorzaty-manowskiej-st8736569?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 10:21:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ważna wiadomość dla klientów Revolut",
-      "link": "https://www.tabletowo.pl/wazna-wiadomosc-dla-klientow-revolut/",
-      "pubDate": "Wed, 05 Nov 2025 10:21:19 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Onet: Tusk grozi dymisjami w KOWR w związku z aferą CPK",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/onet-tusk-grozi-dymisjami-w-kowr-w-zwiazku-z-afera-wokol-cpk",
-      "pubDate": "Wed, 05 Nov 2025 10:20:53 +0000",
-      "source": "OKO.press"
     }
   ]
 }
