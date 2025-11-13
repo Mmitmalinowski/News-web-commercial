@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T21:30:39.808Z",
+  "generatedAt": "2025-11-13T21:40:44.027Z",
   "items": [
+    {
+      "title": "Swiss deploy charm offensive in bid to slash crippling Trump tariffs",
+      "link": "https://www.bbc.com/news/articles/ce8zkrplpdyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 13 Nov 2025 21:30:12 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Szybsze i bezpieczniejsze płatności dzięki sztucznej inteligencji",
       "link": "https://www.rp.pl/projekty-specjalne/art43330751-szybsze-i-bezpieczniejsze-platnosci-dzieki-sztucznej-inteligencji",
@@ -13,6 +19,12 @@
       "link": "https://www.chip.pl/2025/11/niemcy-kolo-na-nowo-recykling-aluminium",
       "pubDate": "Thu, 13 Nov 2025 21:26:23 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Emails reveal Jeffrey Epstein and associate discussed ‘girls’ and travel",
+      "link": "https://www.theguardian.com/us-news/2025/nov/13/jeffrey-epstein-emails-associate",
+      "pubDate": "Thu, 13 Nov 2025 21:23:04 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "10 stacji metra zamkniętych. Utrudnienia do niedzieli",
@@ -3697,6 +3709,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -63537,6 +63573,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -76226,6 +76286,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81715,36 +81799,6 @@
       "link": "https://geekweek.interia.pl/quizy/news-geograficzne-rekordy-trudny-quiz-o-ekstremalnych-miejscach-n,nId,22450710",
       "pubDate": "Wed, 05 Nov 2025 17:15:02 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Republicans file lawsuit challenging California’s redistricting measure",
-      "link": "https://www.theguardian.com/us-news/2025/nov/05/california-redistricting-measure-republican-lawsuit",
-      "pubDate": "Wed, 05 Nov 2025 17:14:06 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "O nagrodzie pierwszy dowiedział się jego pies. O tym aktorze będzie teraz głośno",
-      "link": "https://tvn24.pl/kultura-i-styl/jonathan-bailey-z-tytulem-najseksowniejszego-mezczyzny-brytyjczyk-jest-uznanym-aktorem-st8736494?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 17:13:46 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Programista odpalił Dooma na... satelicie ESA. Kompletnie odleciał",
-      "link": "https://antyweb.pl/doom-na-satelicie",
-      "pubDate": "Wed, 05 Nov 2025 17:11:33 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Wcale nie Warszawa. Oto miasta z najdroższą kawą w Polsce",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/wcale-nie-warszawa-oto-miasta-z-najdrozsza-kawa-w-polsce/jrxrz4p",
-      "pubDate": "Wed, 05 Nov 2025 17:11:17 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wjechał autem w ludzi na francuskiej wyspie. Dziewięć osób poszkodowanych",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-05/wjechal-autem-w-ludzi-na-francuskiej-wyspie-dziewiec-osob-poszkodowanych/",
-      "pubDate": "Wed, 05 Nov 2025 18:11:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
