@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T18:46:31.975Z",
+  "generatedAt": "2025-11-13T18:58:46.514Z",
   "items": [
+    {
+      "title": "Polak pisze historię snookera. 14-letni Michał Szubarczyk mistrzem świata",
+      "link": "https://www.rmf24.pl/sport/news-polak-pisze-historie-snookera-14-letni-michal-szubarczyk-mis,nId,8040204",
+      "pubDate": "Thu, 13 Nov 2025 19:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ministerstwo odpowiada ws. niższych stawek VAT. Budżet straciłby miliardy",
+      "link": "https://biznes.interia.pl/podatki/news-rzad-nie-obnizy-stawek-vat-to-pewne-budzet-stracilby-ponad-1,nId,22453926",
+      "pubDate": "Thu, 13 Nov 2025 18:49:37 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "​Red Bull na cenzurowanym. Poważne zarzuty, dotyczą wycinania konkurencji",
+      "link": "https://www.rmf24.pl/ekonomia/news-red-bull-na-cenzurowanym-powazne-zarzuty-dotycza-wycinania-k,nId,8040203",
+      "pubDate": "Thu, 13 Nov 2025 19:49:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Paulina Matysiak chce wrócić do partii Razem? \"Mam taką możliwość\"",
+      "link": "https://wiadomosci.onet.pl/kraj/paulina-matysiak-chce-wrocic-do-partii-razem-mam-taka-mozliwosc/p8py1py",
+      "pubDate": "Thu, 13 Nov 2025 18:46:13 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sudan zwraca się ku USA i zawiesza proces budowy rosyjskiej bazy morskiej",
+      "link": "https://tvn24.pl/swiat/sudan-wojna-domowa-wstrzymala-budowe-rosyjskiej-bazy-na-morzu-czerwonym-st8751013?source=rss",
+      "pubDate": "Thu, 13 Nov 2025 18:45:59 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Stawiają bloki jak klocki. Rach, ciach i mieszkania gotowe",
       "link": "https://spidersweb.pl/2025/11/stawiaja-bloki-jak-klocki-rach-ciach-i-mieszkania-gotowe.html",
@@ -9,10 +39,22 @@
       "source": "Spider's Web"
     },
     {
+      "title": "AI zrobi rewolucję w polskich przetargach? Ma pomóc wygrywać",
+      "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art43330171-ai-zrobi-rewolucje-w-polskich-przetargach-ma-pomoc-wygrywac",
+      "pubDate": "Thu, 13 Nov 2025 19:44:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Przyszłość Disney+ pod znakiem AI. Prezes stawia sprawę jasno",
       "link": "https://android.com.pl/tech/991401-disney-przyszlosc-platformy/",
       "pubDate": "Thu, 13 Nov 2025 18:42:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Korzystne zmiany w PE dla polskich małych i średnich firm",
+      "link": "https://www.bankier.pl/wiadomosc/Korzystne-zmiany-w-PE-dla-polskich-malych-i-srednich-firm-9039213.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 13 Nov 2025 19:41:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "\"Wielki Bu\" z zarzutami. Jak zachowywał się w prokuraturze?",
@@ -541,6 +583,12 @@
       "link": "http://www.euronews.com/video/2025/11/13/gaza-residents-rebuild-daily-lives-amid-the-ruins",
       "pubDate": "Thu, 13 Nov 2025 18:04:25 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Putin traci przyczółek w Afryce. Wojna domowa w Sudanie paraliżuje plany Kremla",
+      "link": "https://www.bankier.pl/wiadomosc/Putin-traci-przyczolek-w-Afryce-Wojna-domowa-w-Sudanie-paralizuje-plany-Kremla-9039180.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 13 Nov 2025 18:04:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Woś o słowach Tuska: Piękny fikołek",
@@ -3025,6 +3073,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -62337,6 +62409,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -75026,6 +75122,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81085,72 +81205,6 @@
       "link": "http://www.euronews.com/video/2025/11/05/japan-deploys-troops-to-help-stop-bear-attacks",
       "pubDate": "Wed, 05 Nov 2025 16:18:42 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "GEM, Abu Simbel, Ramzes II. Co łączy Wielkie Muzeum Egipskie z polską archeologią?",
-      "link": "https://www.rp.pl/nauka/art43291081-gem-abu-simbel-ramzes-ii-co-laczy-wielkie-muzeum-egipskie-z-polska-archeologia",
-      "pubDate": "Wed, 05 Nov 2025 16:18:17 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "France suspends access to Shein as retailer opens first Paris store",
-      "link": "http://www.euronews.com/business/2025/11/05/france-suspends-access-to-shein-as-retailer-opens-first-paris-store",
-      "pubDate": "Wed, 05 Nov 2025 16:18:15 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "W tym kraju armia będzie walczyć z niedźwiedziami",
-      "link": "https://businessinsider.com.pl/wiadomosci/w-tym-kraju-armia-bedzie-walczyc-z-niedzwiedziami/z8x7vmz",
-      "pubDate": "Wed, 05 Nov 2025 15:17:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Donald Tusk \"sprząta\" po Barbarze Nowackiej. Czy to wystarczy nauczycielom?",
-      "link": "https://wiadomosci.onet.pl/kraj/juz-po-burzy-z-basiowym-dyrektor-od-zaraz-do-wyjsc-ze-szkoly-nie-wracamy/wqb18yq",
-      "pubDate": "Wed, 05 Nov 2025 15:16:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "AMD sprawiło, że Intel nie istnieje. To się nazywa marsz ku wielkości",
-      "link": "https://spidersweb.pl/2025/11/amd-wyniki-intel.html",
-      "pubDate": "Wed, 05 Nov 2025 16:16:05 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Shein na cenzurowanym we Francji. Paryż chce zawieszenia platformy",
-      "link": "https://www.bankier.pl/wiadomosc/Shein-na-cenzurowanym-we-Francji-Paryz-chce-zawieszenia-platformy-9035512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 16:16:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Grzywna za skatowanie Pandka, prokuratura się nie zgadza",
-      "link": "https://tvn24.pl/krakow/krakow-wyrok-w-sprawie-skatowanego-kota-pandka-sprawa-wraca-do-sadu-st8737466?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 15:14:42 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Lotnisko w Lublinie czasowo zamknięte. Wojsko prowadzi ćwiczenia",
-      "link": "https://wiadomosci.onet.pl/lublin/lotnisko-w-lublinie-czasowo-zamkniete-wojsko-prowadzi-cwiczenia/r74rng1",
-      "pubDate": "Wed, 05 Nov 2025 15:14:04 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dziewięć nowych sklepów. Ta sieć chce podbić Polskę",
-      "link": "https://businessinsider.com.pl/gospodarka/dziewiec-nowych-sklepow-ta-siec-chce-podbic-polske/wbmfdg2",
-      "pubDate": "Wed, 05 Nov 2025 15:12:54 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Trump U-turns to renominate billionaire for Nasa chief",
-      "link": "https://www.bbc.com/news/articles/c78ze3r1xrro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 05 Nov 2025 15:11:16 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Orban z problemami. Opozycja wygrywa w sondażach, a jej lider z samym premierem",
-      "link": "https://www.bankier.pl/wiadomosc/Orban-z-problemami-Opozycja-wygrywa-w-sondazach-a-jej-lider-z-samym-premierem-9035506.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 16:10:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
