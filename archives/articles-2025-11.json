@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-13T03:35:31.616Z",
+  "generatedAt": "2025-11-13T04:01:28.978Z",
   "items": [
+    {
+      "title": "Prezydencka propozycja obniżki cen prądu krytykowana i chwalona",
+      "link": "https://energia.rp.pl/ceny-energii/art43319161-prezydencka-propozycja-obnizki-cen-pradu-krytykowana-i-chwalona",
+      "pubDate": "Thu, 13 Nov 2025 04:59:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Witold M. Orłowski: Kilka myśli z okazji Dnia Niepodległości",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43318801-witold-m-orlowski-kilka-mysli-z-okazji-dnia-niepodleglosci",
+      "pubDate": "Thu, 13 Nov 2025 04:57:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1359",
+      "link": "https://www.rp.pl/swiat/art43325161-wojna-rosji-z-ukraina-dzien-1359",
+      "pubDate": "Thu, 13 Nov 2025 04:56:54 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Bardzo duża oferta nowych mieszkań. Będą promocje",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43318651-bardzo-duza-oferta-nowych-mieszkan-beda-promocje",
+      "pubDate": "Thu, 13 Nov 2025 04:53:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Darowizna od rodzica powinna iść na konto dziecka. Bo fiskus ją opodatkuje",
+      "link": "https://www.rp.pl/podatki/art43319621-darowizna-od-rodzica-powinna-isc-na-konto-dziecka-bo-fiskus-ja-opodatkuje",
+      "pubDate": "Thu, 13 Nov 2025 04:52:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "House passes funding bill to end US shutdown – see how lawmakers voted",
+      "link": "https://www.theguardian.com/us-news/ng-interactive/2025/nov/12/house-votes-visual-explainer",
+      "pubDate": "Thu, 13 Nov 2025 03:36:14 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Mikołaj Raczyński: Okno możliwości dla Polski",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43312981-mikolaj-raczynski-okno-mozliwosci-dla-polski",
+      "pubDate": "Thu, 13 Nov 2025 04:35:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Szymon Hołownia, symbol polaryzacji. Tak w sondażu ocenili go Polacy",
       "link": "https://www.rp.pl/polityka/art43318261-szymon-holownia-symbol-polaryzacji-tak-w-sondazu-ocenili-go-polacy",
@@ -99,8 +141,20 @@
       "source": "Onet"
     },
     {
+      "title": "Koniec shutdownu w USA. Donald Trump podpisał ustawę",
+      "link": "https://wiadomosci.onet.pl/swiat/koniec-shutdownu-w-usa-donald-trump-podpisal-ustawe/7e0pdt6",
+      "pubDate": "Thu, 13 Nov 2025 01:30:21 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "US House passes spending bill to end shutdown",
       "link": "https://www.dw.com/en/us-house-passes-spending-bill-to-end-shutdown/a-74720350?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 13 Nov 2025 01:26:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Trump signs spending bill, ending US government shutdown",
+      "link": "https://www.dw.com/en/trump-signs-spending-bill-ending-us-government-shutdown/a-74720350?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Thu, 13 Nov 2025 01:26:00 GMT",
       "source": "DW"
     },
@@ -3949,6 +4003,30 @@
       "link": "http://www.euronews.com/green/2025/11/12/un-cop30-climate-report-says-sustainable-cooling-essential-to-cut-emissions-and-save-lives",
       "pubDate": "Wed, 12 Nov 2025 13:27:44 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-12T12:26:07Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "⚠️ Uwaga Lekarze! ⚠️ Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -53283,6 +53361,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -64316,6 +64418,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "30",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "35",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "35",
           "@_type": "application/atom+xml"
         }
       ],
@@ -86517,6 +86643,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Atak na klientów 9000 różnych polskich sklepów internetowych",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/atak-na-klientow-9000-roznych-polskich-sklepow-internetowych/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "51",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-05T11:28:53Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przełom w sprawie działki pod budowę CPK",
       "link": "https://www.rp.pl/nieruchomosci/art43290161-przelom-w-sprawie-dzialki-pod-budowe-cpk",
       "pubDate": "Wed, 05 Nov 2025 12:28:22 +0100",
@@ -88903,84 +89053,6 @@
       "link": "https://www.theguardian.com/australia-news/2025/nov/05/erin-patterson-cites-unfair-and-oppressive-questioning-and-jury-irregularity-in-mushroom-appeal-ntwnfb",
       "pubDate": "Wed, 05 Nov 2025 06:34:09 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Duża kumulacja w Lotto",
-      "link": "https://tvn24.pl/biznes/pieniadze/lotto-i-lotto-plus-wyniki-z-4-listopada-2025-roku-jakie-liczby-padly-w-trakcie-losowania-st8736248?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 06:33:28 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "'Addictive' diaries win prestigious non-fiction prize ",
-      "link": "https://www.bbc.com/news/articles/c231r4984kko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 05 Nov 2025 06:31:51 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Kosmiczne skały właśnie uderzyły w Księżyc. Jest nagranie",
-      "link": "https://tech.wp.pl/kosmiczne-skaly-wlasnie-uderzyly-w-ksiezyc-jest-nagranie,7218475948202656a",
-      "pubDate": "Wed, 05 Nov 2025 07:30:05 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Szpitale odwołują planowane operacje. W kasie NFZ brakuje miliardów złotych",
-      "link": "https://www.bankier.pl/wiadomosc/Szpitale-odwoluja-planowane-operacje-W-kasie-NFZ-brakuje-miliardow-zlotych-9035114.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 07:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "How can Germany make immigrant nursing staff want to stay?",
-      "link": "https://www.dw.com/en/how-can-germany-make-immigrant-nursing-staff-want-to-stay/a-74613859?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 06:29:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kontrowersje w Serbii. Zięć Trumpa z planem luksusowego kompleksu",
-      "link": "https://www.bankier.pl/wiadomosc/Kontrowersje-w-Serbii-Ziec-Trumpa-z-planem-luksusowego-kompleksu-9035068.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 5 Nov 2025 07:28:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Unia Europejska szykuje \"wojskowe Schengen\". Nowy plan na wypadek kryzysu",
-      "link": "https://wiadomosci.onet.pl/swiat/unia-europejska-szykuje-wojskowe-schengen-nowy-plan-na-wypadek-kryzysu/cf3xd48",
-      "pubDate": "Wed, 05 Nov 2025 06:27:25 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Apetyt kredytobiorców rośnie. Rekord na horyzoncie",
-      "link": "https://tvn24.pl/biznes/pieniadze/apetyt-kredytobiorcow-rosnie-rekord-na-horyzoncie-st8736247?source=rss",
-      "pubDate": "Wed, 05 Nov 2025 06:27:17 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Mieszkańcy Katowic odczuli wstrząsy. Ewakuacja z kopalni Murcki-Staszic",
-      "link": "https://wydarzenia.interia.pl/slaskie/news-mieszkancy-katowic-odczuli-wstrzasy-ewakuacja-z-kopalni-murc,nId,22451014",
-      "pubDate": "Wed, 05 Nov 2025 06:27:08 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"Jak podniesiesz łeb, to ci go odstrzelimy!\". Pełne emocji nagranie Czarzastego",
-      "link": "https://www.rmf24.pl/polityka/news-jak-podniesiesz-leb-to-ci-go-odstrzelimy-pelne-emocji-nagran,nId,8037547",
-      "pubDate": "Wed, 05 Nov 2025 07:27:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "The global race to slash emissions – in nine charts",
-      "link": "https://www.dw.com/en/the-global-race-to-slash-emissions-in-nine-charts/a-59684637?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 5 Nov 2025 06:27:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "W piżamie i bez opieki. 3,5-latka błąkała się po ulicach Białegostoku",
-      "link": "https://www.rmf24.pl/regiony/bialystok/news-w-pizamie-i-bez-opieki-3-5-latka-blakala-sie-po-ulicach-bial,nId,8037553",
-      "pubDate": "Wed, 05 Nov 2025 07:26:35 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Niepokojące informacje płyną ze szpitali. Przesuwają planowane operacje",
-      "link": "https://wiadomosci.onet.pl/kraj/niepokojace-informacje-plyna-ze-szpitali-przesuwaja-planowane-operacje/zxrkr93",
-      "pubDate": "Wed, 05 Nov 2025 06:25:27 GMT",
-      "source": "Onet"
     }
   ]
 }
