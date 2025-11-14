@@ -1,7 +1,55 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-14T09:34:15.733Z",
+  "generatedAt": "2025-11-14T09:47:58.970Z",
   "items": [
+    {
+      "title": "Szymon Hołownia na krótkiej liście kandydatów na komisarza ONZ",
+      "link": "https://www.rp.pl/polityka/art43334011-szymon-holownia-na-krotkiej-liscie-kandydatow-na-komisarza-onz",
+      "pubDate": "Fri, 14 Nov 2025 10:45:56 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ciała noworodków znalezione w Kłobucku. Nowe ustalenia",
+      "link": "https://www.rmf24.pl/regiony/slaskie/news-ciala-noworodkow-znalezione-w-klobucku-nowe-ustalenia,nId,8040364",
+      "pubDate": "Fri, 14 Nov 2025 10:44:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Mózg kibica. Co dzieje się, gdy ulubiona drużyna strzela gola?",
+      "link": "https://tvn24.pl/zdrowie/mozg-kibica-co-dzieje-sie-gdy-ulubiona-druzyna-strzela-gola-st8750886?source=rss",
+      "pubDate": "Fri, 14 Nov 2025 09:37:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ceny ropy w górę. Rynki reagują na atak dronów",
+      "link": "https://tvn24.pl/biznes/rynki/ceny-ropy-w-gore-rynki-reaguja-na-atak-dronow-w-rosji-st8751542?source=rss",
+      "pubDate": "Fri, 14 Nov 2025 09:36:58 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Germany news: Fridays for Future revive climate protests",
+      "link": "https://www.dw.com/en/germany-news-fridays-for-future-revive-climate-protests/live-74739061?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 14 Nov 2025 09:36:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ukraina nad przepaścią. Kurczą się środki na obronę przed Rosją",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-nad-przepascia-kurcza-sie-srodki-na-obrone-przed-ros,nId,22454003",
+      "pubDate": "Fri, 14 Nov 2025 09:34:47 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Maleństwo z olbrzymim potencjałem. Nowy dron DJI już w Polsce",
+      "link": "https://www.tabletowo.pl/malenstwo-z-olbrzymim-potencjalem-nowy-dron-dji/",
+      "pubDate": "Fri, 14 Nov 2025 09:34:11 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Przybywa dzieci i nastolatków z tym problemem. Niepokojące dane",
+      "link": "https://tvn24.pl/zdrowie/przybywa-dzieci-i-nastolatkow-z-tym-problem-niepokojace-dane-o-nadcisnieniu-st8750793?source=rss",
+      "pubDate": "Fri, 14 Nov 2025 09:31:03 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Hit twórców GTA 6 powraca. Premiera już za kilka tygodni",
       "link": "https://antyweb.pl/hit-tworcow-gta-6-powraca-premiera-juz-za-kilka-tygodni",
@@ -13,6 +61,12 @@
       "link": "http://www.euronews.com/2025/11/14/german-companies-defenceless-against-cyberattacks-study-shows",
       "pubDate": "Fri, 14 Nov 2025 10:30:53 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Jak Nawrocki pomaga Tuskowi",
+      "link": "https://wydarzenia.interia.pl/felietony/news-jak-nawrocki-pomaga-tuskowi,nId,22454007",
+      "pubDate": "Fri, 14 Nov 2025 09:30:01 GMT",
+      "source": "Interia"
     },
     {
       "title": "Cisza wokół grobów Franco – jak przeszłość wpływa na przyszłość Hiszpanii",
@@ -35,6 +89,12 @@
     {
       "title": "Donald Trump ma gorsze dni. Republikanie skaczą sobie do gardeł. \"G***o z Epsteinem\"",
       "link": "https://wiadomosci.onet.pl/politico/trump-ma-gorsze-dni-republikanie-skacza-sobie-do-gardel-go-z-epsteinem/44m4b8g",
+      "pubDate": "Fri, 14 Nov 2025 09:27:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Donald Trump ma gorsze dni. Republikanie skaczą sobie do gardeł. \"To pochłonie prezydenturę\"",
+      "link": "https://wiadomosci.onet.pl/politico/fala-chaosu-w-bialym-domu-republikanie-skacza-sobie-do-gardel/44m4b8g",
       "pubDate": "Fri, 14 Nov 2025 09:27:49 GMT",
       "source": "Onet"
     },
@@ -209,6 +269,12 @@
     {
       "title": "Tak rosną ceny w Polsce",
       "link": "https://tvn24.pl/biznes/z-kraju/tak-rosna-ceny-w-polsce-st8751558?source=rss",
+      "pubDate": "Fri, 14 Nov 2025 09:01:15 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tak rosną ceny w Polsce. \"Dezinflacja trwa\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/tak-rosna-ceny-w-polsce-dezinflacja-trwa-st8751558?source=rss",
       "pubDate": "Fri, 14 Nov 2025 09:01:15 GMT",
       "source": "TVN24"
     },
@@ -6409,6 +6475,30 @@
       "link": "https://antyweb.pl/tania-oferta-do-telefonu-z-duzym-limitem",
       "pubDate": "Thu, 13 Nov 2025 12:00:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
@@ -67791,6 +67881,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:52:47Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
       "link": [
         {
@@ -80480,6 +80594,30 @@
           "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "35",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-06T10:51:23Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Policja nie może przechowywać danych bez wyraźnego celu – ważny wyrok NSA",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "38",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/policja-nie-moze-przechowywac-danych-bez-wyraznego-celu-wazny-wyrok-nsa/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "38",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83389,90 +83527,6 @@
       "link": "https://www.chip.pl/2025/11/zlota-kometa-c-2025-k1-obserwacje",
       "pubDate": "Thu, 06 Nov 2025 08:00:00 +0000",
       "source": "Chip.pl"
-    },
-    {
-      "title": "Czy lekarze w Polsce zarabiają za dużo? [ROZMOWA]",
-      "link": "https://oko.press/czy-lekarze-w-polsce-zarabiaja-za-duzo-rozmowa",
-      "pubDate": "Thu, 06 Nov 2025 07:59:25 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Hołownia wskaże swojego następcę w partii. \"Czekamy na zamknięcie listy kandydatów\"",
-      "link": "https://www.rmf24.pl/polityka/news-holownia-wskaze-swojego-nastepce-w-partii-czekamy-na-zamknie,nId,8038141",
-      "pubDate": "Thu, 06 Nov 2025 08:58:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Walka o polskie tory z Czechami. ABW zajmuje się sprawą wiadomości do prezesa PKP Intercity",
-      "link": "https://businessinsider.com.pl/wiadomosci/regiojet-i-dziwne-wiadomosci-do-prezesa-pkp-intercity-sprawa-w-abw/tm19msp",
-      "pubDate": "Thu, 06 Nov 2025 07:56:53 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Google ulepsza nawigację. Wskazówki będą bardziej zrozumiałe",
-      "link": "https://www.tabletowo.pl/google-ulepsza-nawigacje-z-gemini/",
-      "pubDate": "Thu, 06 Nov 2025 07:55:38 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Runął duży obiekt na terenie elektrociepłowni, pracownicy pod gruzami ",
-      "link": "https://tvn24.pl/swiat/korea-poludniowa-runela-wieza-elektrocieplowni-w-ulsan-pracownicy-pod-gruzami-akcja-ratunkowa-st8738362?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 07:55:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jeden z obiektów elektrociepłowni nagle runął na ziemię. Pod gruzami co najmniej 6 osób",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-jeden-z-obiektow-elektrocieplowni-nagle-runal-na-ziemie-pod-,nId,8038137",
-      "pubDate": "Thu, 06 Nov 2025 08:54:37 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Runął jeden z obiektów elektrociepłowni. Akcja ratunkowa",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-runal-jeden-z-obiektow-elektrocieplowni-akcja-ratunkowa,nId,8038137",
-      "pubDate": "Thu, 06 Nov 2025 08:54:37 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Powszechne szkolenia wojskowe. Minister obrony przedstawił szczegóły",
-      "link": "https://wiadomosci.onet.pl/kraj/powszechne-szkolenia-wojskowe-minister-obrony-stawia-sprawe-jasno/xrlltth",
-      "pubDate": "Thu, 06 Nov 2025 07:53:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Powszechne szkolenia wojskowe. Minister obrony przedstawił szczegóły",
-      "link": "https://wiadomosci.onet.pl/kraj/powszechne-szkolenia-wojskowe-minister-obrony-przedstawil-szczegoly/xrlltth",
-      "pubDate": "Thu, 06 Nov 2025 07:53:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "High stakes and hopes as world leaders gather ahead of COP30",
-      "link": "https://www.dw.com/en/high-stakes-and-hopes-as-world-leaders-gather-ahead-of-cop30/a-74613144?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 6 Nov 2025 07:53:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "3,5-latka w piżamie błąkała się po ulicach. Zaskakujący finał akcji w Białymstoku",
-      "link": "https://wiadomosci.onet.pl/bialystok/35-latka-w-pizamie-blakala-sie-po-bialymstoku-zaskakujacy-final-akcji/vxr8132",
-      "pubDate": "Thu, 06 Nov 2025 07:52:33 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "COP30 activists in Belem call for genuine climate action and implementation",
-      "link": "http://www.euronews.com/video/2025/11/06/cop30-activists-in-belem-call-for-genuine-climate-action-and-implementation",
-      "pubDate": "Thu, 06 Nov 2025 08:52:32 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "‘Vibe coding’ beats ‘clanker’ to be Collins dictionary’s word of the year",
-      "link": "https://www.theguardian.com/technology/2025/nov/06/vibe-coding-collins-dictionary-word-of-the-year-2025",
-      "pubDate": "Thu, 06 Nov 2025 07:51:58 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Runęła wieża w Korei Południowej. Ludzie uwięzieni pod gruzami",
-      "link": "https://wiadomosci.onet.pl/swiat/runela-wieza-w-korei-poludniowej-ludzie-uwiezieni-pod-gruzami/c9frex3",
-      "pubDate": "Thu, 06 Nov 2025 07:50:12 GMT",
-      "source": "Onet"
     }
   ]
 }
