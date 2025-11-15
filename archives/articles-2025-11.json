@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T18:28:55.837Z",
+  "generatedAt": "2025-11-15T18:47:16.132Z",
   "items": [
+    {
+      "title": "Recenzja T Phone 3 Pro. Sprawdzamy, na ile stać nowy telefon od T-Mobile",
+      "link": "https://android.com.pl/tech/982892-recenzja-t-phone-3-pro-opinia-test/",
+      "pubDate": "Sat, 15 Nov 2025 18:44:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Jak uciekał do Polski Tymur Mindicz? Nowe ustalenia ukraińskich mediów",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-jak-uciekal-do-polski-tymur-mindicz-nowe-ustalenia-ukrainski,nId,22454481",
+      "pubDate": "Sat, 15 Nov 2025 18:40:07 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ciało mężczyzny znalezione w Warszawie. Policja zatrzymała dwie osoby",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-cialo-mezczyzny-znalezione-w-warszawie-policja-zatrzymala-dw,nId,8040991",
+      "pubDate": "Sat, 15 Nov 2025 19:37:45 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Przełom między Ukrainą a Rosją. \"Powrót do porozumień stambulskich\"",
+      "link": "https://wiadomosci.onet.pl/swiat/przelom-miedzy-ukraina-a-rosja-powrot-do-porozumien-stambulskich/gcmz15p",
+      "pubDate": "Sat, 15 Nov 2025 18:35:57 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Afera korupcyjna w Ukrainie. Media: Tymur Mindicz przyjechał do Polski \"taksówką premium\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/z-kijowa-do-warszawy-za-1300-euro-afery-korupcyjnej-w-ukrainie-ciag-dalszy/vvd3epc",
+      "pubDate": "Sat, 15 Nov 2025 18:35:08 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Planujesz zakup Samsunga Galaxy S26? Podziękuj Apple",
+      "link": "https://www.tabletowo.pl/planujesz-zakup-samsunga-galaxy-s26-podziekuj-apple/",
+      "pubDate": "Sat, 15 Nov 2025 18:34:34 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Zwłoki 45-latka z widocznymi śladami pobicia leżały na ulicy w Poznaniu",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-zwloki-45-latka-z-widocznymi-sladami-pobicia-lezaly-na-ulicy,nId,8040990",
+      "pubDate": "Sat, 15 Nov 2025 19:31:57 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "To jeden z najlepszych seriali science fiction. Nie tylko bawi, ale też daje ludzkości ważną lekcję",
+      "link": "https://antyweb.pl/to-jeden-z-najlepszych-seriali-science-fiction-nie-tylko-bawi-ale-tez-daje-ludzkosci-wazna-lekcje",
+      "pubDate": "Sat, 15 Nov 2025 18:29:14 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Zwłoki na ulicy w Poznaniu. Dwie osoby zatrzymane",
+      "link": "https://wiadomosci.onet.pl/poznan/tragedia-w-poznaniu-znaleziono-skatowane-zwloki/kf4vye8",
+      "pubDate": "Sat, 15 Nov 2025 18:26:16 GMT",
+      "source": "Onet"
+    },
     {
       "title": "COP30: Environmental activists stage mass protest in Belem",
       "link": "https://www.dw.com/en/cop30-environmental-activists-stage-mass-protest-in-belem/a-74760961?maca=en-rss-en-all-1573-xml-mrss",
@@ -9429,6 +9483,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -12867,6 +12945,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -13045,6 +13147,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -24128,6 +24254,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69877,84 +70027,6 @@
       "link": "https://biznes.interia.pl/gospodarka/news-unia-odroczy-ets2-o-wiecej-niz-rok-polski-europosel-o-nowych,nId,22451828",
       "pubDate": "Thu, 06 Nov 2025 15:18:27 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "WPP przejmuje obsługę mediową koncernu Reckitt w Europie",
-      "link": "https://www.wirtualnemedia.pl/wpp-przejmuje-obsluge-mediowa-koncernu-reckitt-w-europie,7218956747352896a",
-      "pubDate": "Thu, 06 Nov 2025 16:17:58 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Polska straci 10 mln ludzi. „Łatwiej żyć w parze z psem niż z niemowlakiem”",
-      "link": "https://www.rp.pl/gospodarka/art43298991-polska-straci-10-mln-ludzi-latwiej-zyc-w-parze-z-psem-niz-z-niemowlakiem",
-      "pubDate": "Thu, 06 Nov 2025 16:17:30 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Europeans recognize Zohran Mamdani’s supposedly radical policies as ‘normal’",
-      "link": "https://www.theguardian.com/us-news/2025/nov/06/europe-zohran-mamdani-policies-normal",
-      "pubDate": "Thu, 06 Nov 2025 15:17:30 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "French competition authority slaps €4.6 million fine on telehealth app Doctolib for unfair practices",
-      "link": "http://www.euronews.com/next/2025/11/06/french-competition-authority-slaps-46-million-fine-on-telehealth-app-doctolib-for-unfair-p",
-      "pubDate": "Thu, 06 Nov 2025 16:17:10 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Garmin Fenix 7 Pro w szokująco niskiej cenie. Taka okazja zdarza się raz na... długo!",
-      "link": "https://antyweb.pl/garmin-fenix-7-pro-w-szokujaco-niskiej-cenie",
-      "pubDate": "Thu, 06 Nov 2025 15:16:41 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Louvre heist a 'deafening wake-up call' — French auditor",
-      "link": "https://www.dw.com/en/louvre-heist-a-deafening-wake-up-call-french-auditor/a-74645808?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 6 Nov 2025 15:16:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Ostre spięcie w studiu o Zbigniewa Ziobrę. \"Niech pan nie zakrzykuje\". Zobacz program \"Co mówi Polska\"",
-      "link": "https://wiadomosci.onet.pl/kraj/co-mowi-polska-spiecie-o-zbigniewa-ziobre-niech-pan-nie-zakrzykuje/ewt0n26",
-      "pubDate": "Thu, 06 Nov 2025 15:15:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trwa posiedzenie komisji ws. immunitetu Ziobry. Śledczy chcą aresztu",
-      "link": "https://www.rmf24.pl/polityka/news-trwa-posiedzenie-komisji-ws-immunitetu-ziobry-sledczy-chca-a,nId,8038374",
-      "pubDate": "Thu, 06 Nov 2025 16:15:29 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Trwa posiedzenie komisji ws. immunitetu Ziobry. Upadają kolejne wnioski",
-      "link": "https://www.rmf24.pl/polityka/news-trwa-posiedzenie-komisji-ws-immunitetu-ziobry-upadaja-kolejn,nId,8038374",
-      "pubDate": "Thu, 06 Nov 2025 16:15:29 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Gorące posiedzenie komisji ws. immunitetu Ziobry. Upadają kolejne wnioski",
-      "link": "https://www.rmf24.pl/polityka/news-gorace-posiedzenie-komisji-ws-immunitetu-ziobry-upadaja-kole,nId,8038374",
-      "pubDate": "Thu, 06 Nov 2025 16:15:29 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Chińskie JETOUR wjeżdża na polskie drogi — znamy polskie ceny",
-      "link": "https://antyweb.pl/jetour-w-polsce-modele-ceny",
-      "pubDate": "Thu, 06 Nov 2025 15:15:11 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Boli i piecze? To mogą być objawy raka pęcherza",
-      "link": "https://tvn24.pl/zdrowie/boli-i-piecze-to-moga-byc-objawy-raka-pecherza-st8738901?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 15:14:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Typhoon Kalmaegi hits Vietnam after killing at least 114 in Philippines",
-      "link": "https://www.bbc.com/news/articles/c70jnx9e414o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 06 Nov 2025 15:14:08 GMT",
-      "source": "BBC News"
     }
   ]
 }
