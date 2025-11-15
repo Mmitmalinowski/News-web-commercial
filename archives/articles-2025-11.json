@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T23:24:47.009Z",
+  "generatedAt": "2025-11-15T23:38:31.245Z",
   "items": [
+    {
+      "title": "Na Morzu Śródziemnym wywróciły się łodzie z migrantami. Są ofiary",
+      "link": "https://wiadomosci.onet.pl/swiat/tragedia-u-wybrzezy-libii-cztery-ofiary-wypadku-lodzi-z-migrantami/j0rjc70",
+      "pubDate": "Sat, 15 Nov 2025 23:31:54 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Thousands protest against government in Mexico over violent crime",
+      "link": "https://www.bbc.com/news/articles/cn8vm30rr78o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Nov 2025 23:12:20 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Teenager charged with murder after death of girl, 17, in South Wales",
       "link": "https://www.theguardian.com/uk-news/2025/nov/15/teenager-charged-with-after-death-of-girl-17-in-south-wales",
@@ -13,6 +25,12 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-i-rosja-doszly-do-porozumienia-dojdzie-do-wymiany,nId,22454561",
       "pubDate": "Sat, 15 Nov 2025 23:08:41 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "The US will help South Korea build nuclear 'attack' submarines - here's what that means",
+      "link": "https://www.bbc.com/news/articles/c620qppzlgwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Nov 2025 23:00:19 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Polska otwiera przejścia graniczne z Białorusią. Jest reakcja Mińska",
@@ -10407,6 +10425,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -14373,6 +14415,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -14551,6 +14617,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -26162,6 +26252,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71497,48 +71611,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Meta-zarabia-na-reklam-oszustw-i-zakazanych-towarow-Firma-nalicza-im-wyzsze-stawki-9036223.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Thu, 6 Nov 2025 18:25:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Wielka zmiana w Czechach. Rząd złożył dymisję",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wielka-zmiana-w-czechach-rzad-zlozyl-dymisje,nId,8038442",
-      "pubDate": "Thu, 06 Nov 2025 18:24:39 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Odkryli, jak najstarsza cywilizacja Ameryk przetrwała katastrofę",
-      "link": "https://geekweek.interia.pl/historia/news-odkryli-jak-najstarsza-cywilizacja-ameryk-przetrwala-katastr,nId,22451670",
-      "pubDate": "Thu, 06 Nov 2025 17:24:04 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Pierwszy taki wyrok od początku wojny. Rosjanin skazany na dożywocie ",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-pierwszy-taki-wyrok-od-poczatku-wojny-rosjanin-skazany-na-do,nId,22451831",
-      "pubDate": "Thu, 06 Nov 2025 17:23:29 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Sudan's RSF militia says it agrees to humanitarian ceasefire",
-      "link": "https://www.bbc.com/news/articles/c74070y9e3go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 06 Nov 2025 17:23:03 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Shein: France urges EU sanctions over 'childlike' sex dolls",
-      "link": "https://www.dw.com/en/shein-france-urges-eu-sanctions-over-childlike-sex-dolls/a-74648063?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 6 Nov 2025 17:22:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Nancy Pelosi odejdzie z Kongresu po czterech dekadach",
-      "link": "https://tvn24.pl/swiat/nancy-pelosi-odejdzie-z-kongresu-po-40-latach-otworzy-sie-nowy-rozdzial-dla-demokratow-st8739777?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 17:21:48 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Apple wycofało aktualizację iOS 26.2. Winna autorska część producenta",
-      "link": "https://android.com.pl/tech/989104-apple-wycofalo-ios-26-2-przez-modem-c1/",
-      "pubDate": "Thu, 06 Nov 2025 17:21:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
