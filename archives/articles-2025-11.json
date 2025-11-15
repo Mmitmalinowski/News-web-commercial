@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T11:30:15.085Z",
+  "generatedAt": "2025-11-15T11:41:11.135Z",
   "items": [
+    {
+      "title": "Kosiniak-Kamysz: przygotowujemy się do startu w wyborach jako PSL",
+      "link": "https://tvn24.pl/polska/psl-pojdzie-samo-do-wyborow-deklaracja-wladyslawa-kosiniaka-kamysza-st8753649?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 11:33:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Grożono prezydentowi Nawrockiemu. „Do zobaczenia Karolku”",
+      "link": "https://www.rp.pl/polityka/art43344081-grozono-prezydentowi-nawrockiemu-do-zobaczenia-karolku",
+      "pubDate": "Sat, 15 Nov 2025 12:31:44 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Zmiana w pogodzie, pierwszy śnieg w tym roku. Zostały godziny",
       "link": "https://wydarzenia.interia.pl/kraj/news-zmiana-w-pogodzie-pierwszy-snieg-w-tym-roku-zostaly-godziny,nId,22454453",
@@ -7323,6 +7335,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -10137,6 +10173,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -10315,6 +10375,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -20774,6 +20858,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68047,42 +68155,6 @@
       "link": "https://turystyka.rp.pl/popularne-trendy/art43297871-wyspy-kanaryjskie-zmagaja-sie-z-duzym-naplywem-migrantow-hiszpania-i-ue-szukaja-rozwiazan",
       "pubDate": "Thu, 06 Nov 2025 12:34:02 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wyjątkowa operacja bliźniaków. Ignaś i Wiktorek wracają do zdrowia",
-      "link": "https://geekweek.interia.pl/nauka/news-wyjatkowa-operacja-blizniakow-ignas-i-wiktorek-wracaja-do-zd,nId,22451679",
-      "pubDate": "Thu, 06 Nov 2025 11:33:39 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Sikorski złożył zeznania ws. użycia Pegasusa. \"Zwyrole podniecali się\"",
-      "link": "https://www.bankier.pl/wiadomosc/Sikorski-zlozyl-zeznania-ws-uzycia-Pegasusa-Zwyrole-podniecali-sie-9035903.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 12:33:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Startują dobrowolne powszechne szkolenia obronne. Można się zapisać przez aplikację mObywatel",
-      "link": "https://www.rp.pl/prawo-dla-ciebie/art43297841-startuja-dobrowolne-powszechne-szkolenia-obronne-mozna-sie-zapisac-przez-aplikacje-mobywatel",
-      "pubDate": "Thu, 06 Nov 2025 12:32:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Funkcjonariusz ABW na \"patriotycznej domówce\" z politykami PiS. Są konsekwencje  ",
-      "link": "https://tvn24.pl/polska/postepowanie-dyscyplinarne-wobec-funkcjonariusza-abw-byl-na-patriotycznej-domowce-z-politykami-pis-st8738616?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 11:31:51 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Uciekali po włamaniu, a z samochodu wyrzucali skradzione przedmioty",
-      "link": "https://tvn24.pl/lodz/skierniewice-uciekali-po-wlamaniu-z-samochodu-wyrzucali-skradzione-przedmioty-st8738312?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 11:30:35 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Mistakenly released prisoner Billy Smith turns himself in",
-      "link": "https://www.theguardian.com/society/2025/nov/06/mistakenly-released-prisoner-billy-smith-turns-himself-in-wandsworth",
-      "pubDate": "Thu, 06 Nov 2025 11:29:43 GMT",
-      "source": "The Guardian"
     }
   ]
 }
