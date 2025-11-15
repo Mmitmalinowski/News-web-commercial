@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T03:27:03.290Z",
+  "generatedAt": "2025-11-15T03:51:51.023Z",
   "items": [
+    {
+      "title": "China advises against travel to Japan amid escalating row over PM’s Taiwan comments",
+      "link": "https://www.theguardian.com/world/2025/nov/15/china-advises-against-travel-to-japan-amid-escalating-row-over-pms-taiwan-comments",
+      "pubDate": "Sat, 15 Nov 2025 03:46:38 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pogoda podzieli dziś Polskę. W tych regionach w nocy może pojawić się śnieg",
+      "link": "https://wiadomosci.onet.pl/pogoda/pod-oslona-nocy-nadejda-opady-sniegu-tu-moze-zrobic-sie-bialo-pogoda/18dh5xg",
+      "pubDate": "Sat, 15 Nov 2025 03:31:20 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Zielona Góra. Sprawdź prognozę pogody w dniu 15.11.2025",
       "link": "https://wiadomosci.onet.pl/lubuskie/zielona-gora-prognoza-pogody-w-dniu-15112025/42hz62z",
@@ -150,6 +162,12 @@
       "title": "Trump says he will take legal action against BBC over Panorama edit",
       "link": "https://www.bbc.com/news/articles/c891jp9j79do?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sat, 15 Nov 2025 02:19:43 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump rolls back tariffs on dozens of food products",
+      "link": "https://www.bbc.com/news/articles/cdjr4xw83eko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Nov 2025 02:11:46 GMT",
       "source": "BBC News"
     },
     {
@@ -4797,6 +4815,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -6867,6 +6909,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -7045,6 +7111,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -16760,6 +16850,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63673,174 +63787,6 @@
       "link": "https://spidersweb.pl/2025/11/nie-chca-masztu-na-bloku.html",
       "pubDate": "Thu, 06 Nov 2025 11:53:00 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bolt-zaczal-udostepniac-prywatne-e-maile-i-telefony-kierowcow/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-06T10:52:47Z",
-      "source": "Niebezpiecznik"
     },
     {
       "title": "Bolt zaczął udostępniać prywatne e-maile i telefony kierowców",
