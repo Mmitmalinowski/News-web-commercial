@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T13:35:18.987Z",
+  "generatedAt": "2025-11-15T13:45:06.463Z",
   "items": [
+    {
+      "title": "Tragedia w Pile. Służby próbują ustalić tożsamość wyłowionej z rzeki kobiety",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-tragedia-w-pile-sluzby-probuja-ustalic-tozsamosc-wylowionej-,nId,8040971",
+      "pubDate": "Sat, 15 Nov 2025 14:41:24 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Opracowali mikroroboty do walki z udarami i nowotworami",
+      "link": "https://geekweek.interia.pl/medycyna/news-opracowali-mikroroboty-do-walki-z-udarami-i-nowotworami,nId,22454150",
+      "pubDate": "Sat, 15 Nov 2025 13:40:04 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Wicepremier uderza w Karola Nawrockiego. \"Kompromituje Polskę\"",
+      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-krytykowany-wicepremier-mowi-o-kompromitacji/rq1fdsb",
+      "pubDate": "Sat, 15 Nov 2025 13:35:13 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Prezes FOR: Panie Prezydencie, niech Pan dotrzyma słowa!",
       "link": "https://www.rp.pl/opinie-ekonomiczne/art43344061-prezes-for-panie-prezydencie-niech-pan-dotrzyma-slowa",
@@ -95,6 +113,12 @@
     {
       "title": "PSL wybrało nowego prezesa",
       "link": "https://businessinsider.com.pl/wiadomosci/psl-wybralo-nowego-prezesa/cv1jnfs",
+      "pubDate": "Sat, 15 Nov 2025 12:56:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "PSL wybrało nowego prezesa",
+      "link": "https://businessinsider.com.pl/wiadomosci/psl-ma-nowego-prezesa-wiemy-po-co-jestesmy-w-polityce/cv1jnfs",
       "pubDate": "Sat, 15 Nov 2025 12:56:15 GMT",
       "source": "Business Insider"
     },
@@ -7899,6 +7923,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -10857,6 +10905,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -11035,6 +11107,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -21638,6 +21734,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68467,54 +68587,6 @@
       "link": "https://www.rmf24.pl/regiony/wroclaw/news-kon-przy-autostradzie-a4-nocna-akcja-policji-trwala-kilka-go,nId,8038289",
       "pubDate": "Thu, 06 Nov 2025 13:46:12 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Zakład, że zgadniemy twoje wykształcenie? Wystarczą odpowiedzi na 15 pytań",
-      "link": "https://wiadomosci.onet.pl/ciekawostki/zaklad-ze-zgadniemy-twoje-wyksztalcenie-wystarcza-odpowiedzi-na-15-pytan/tqj96xr",
-      "pubDate": "Thu, 06 Nov 2025 12:46:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dr Johannes-Paul Richter: tarczycę powinno się sprawdzić co najmniej raz w życiu",
-      "link": "https://wiadomosci.onet.pl/nauka/walczysz-ze-zmeczeniem-i-obnizonym-libido-odpowiedzialny-za-to-jest-1-organ/xylrg4e",
-      "pubDate": "Thu, 06 Nov 2025 12:46:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nie pobierzesz karty pokładowej na telefon. Ryanair zmienia zasady",
-      "link": "https://spidersweb.pl/2025/11/ryanair-karta-pokladowa-na-telefonie.html",
-      "pubDate": "Thu, 06 Nov 2025 13:45:58 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Trzy oznaki, że Chiny szykują się do wojny i \"imperialnego przeciążenia Ameryki\" [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/trzy-oznaki-ze-chiny-gotuja-sie-do-wojny-imperialne-przeciazenie-usa/n2dxn7g",
-      "pubDate": "Thu, 06 Nov 2025 12:45:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Włodzimierz Czarzasty zwrócił się do Zbigniewa Ziobry. Przypomniał sytuację sprzed lat. \"Chcieliście ją upodlić\"",
-      "link": "https://wiadomosci.onet.pl/kraj/wlodzimierz-czarzasty-zwrocil-sie-do-zbigniewa-ziobry-chcieliscie-ja-upodlic/jzknbwj",
-      "pubDate": "Thu, 06 Nov 2025 12:43:50 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Chipy do PC wracają do łask. To ważne dla rynku i inwestorów",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/chipy-do-pc-wracaja-do-lask-to-wazne-dla-rynku-i-inwestorow/5fhvz8l",
-      "pubDate": "Thu, 06 Nov 2025 12:42:51 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "BoE keeps rates steady at 4% as economy shows signs of slowing",
-      "link": "http://www.euronews.com/business/2025/11/06/boe-keeps-rates-steady-at-4-as-economy-shows-signs-of-slowing",
-      "pubDate": "Thu, 06 Nov 2025 13:42:16 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Czarzasty do Ziobry: Śmierć Barbary Blidy. Pamiętasz?",
-      "link": "https://tvn24.pl/polska/smierc-barbary-blidy-wlodzimierz-czarzasty-do-zbigniewa-ziobry-pamietasz-st8738975?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 12:40:26 GMT",
-      "source": "TVN24"
     }
   ]
 }
