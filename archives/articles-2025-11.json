@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T18:47:16.132Z",
+  "generatedAt": "2025-11-15T18:56:49.021Z",
   "items": [
+    {
+      "title": "\"Ciało leżało na ulicy\". W Poznaniu znaleziono zwłoki mężczyzny",
+      "link": "https://tvn24.pl/polska/poznan-na-ulicy-znaleziono-zwloki-mezczyzny-st8754191?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 18:48:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Sam głosiłeś takie poglądy\". \"Kotki i psiecka\" w dyskusji Szczuki i Terlikowskiego",
+      "link": "https://tvn24.pl/polska/marsz-niepodleglosci-baner-kotki-i-psiecka-nie-zastapia-ci-dziecka-komentuja-tomasz-terlikowski-i-kazimiera-szczuka-st8754152?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 18:46:18 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Recenzja T Phone 3 Pro. Sprawdzamy, na ile stać nowy telefon od T-Mobile",
       "link": "https://android.com.pl/tech/982892-recenzja-t-phone-3-pro-opinia-test/",
@@ -13,6 +25,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-jak-uciekal-do-polski-tymur-mindicz-nowe-ustalenia-ukrainski,nId,22454481",
       "pubDate": "Sat, 15 Nov 2025 18:40:07 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Todd Snider, alt-country singer-songwriter of Alright Guy, dies aged 59",
+      "link": "https://www.theguardian.com/us-news/2025/nov/15/todd-snider-country-music-dies-aged-59",
+      "pubDate": "Sat, 15 Nov 2025 18:38:59 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Ciało mężczyzny znalezione w Warszawie. Policja zatrzymała dwie osoby",
@@ -9507,6 +9525,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -12969,6 +13011,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -13147,6 +13213,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -24254,6 +24344,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69985,48 +70099,6 @@
       "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-nowosc-w-google-gemini-ai-moze-zajrzec-do-twoich-e-maili-i-p,nId,22451557",
       "pubDate": "Thu, 06 Nov 2025 15:26:52 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Kropiwnicki odszedł z MAP. Cieszy się Polska 2050, a czeka TK?",
-      "link": "https://www.bankier.pl/wiadomosc/Kropiwnicki-odszedl-z-MAP-Cieszy-sie-Polska-2050-a-czeka-TK-9036123.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 16:26:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Budżet zdrowia się nie spina. Wiceminister: trwają ustalenia",
-      "link": "https://tvn24.pl/zdrowie/budzet-zdrowia-sie-nie-spina-wiceminister-trwaja-ustalenia-w-kasie-nfz-brakuje-23-miliardow-zlotych-st8739654?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 15:24:45 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nie Warszawa ani Kraków. W tym mieście w Polsce jest najdroższa kawa",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-nie-warszawa-ani-krakow-w-tym-miescie-w-polsce-jest-najdrozs,nId,8038397",
-      "pubDate": "Thu, 06 Nov 2025 16:24:16 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ryanair i Wizz Air ograniczają połączenia z Polski. Te lotniska najwięcej stracą",
-      "link": "https://businessinsider.com.pl/wiadomosci/gdansk-i-krakow-traca-polaczenia-ryanair-i-wizz-air-zawieszaja-loty/57j6mtn",
-      "pubDate": "Thu, 06 Nov 2025 15:22:54 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Samsung Galaxy S26 może rozczarować fanów",
-      "link": "https://android.com.pl/tech/988990-samsung-galaxy-s26-przeciek-aparaty/",
-      "pubDate": "Thu, 06 Nov 2025 15:22:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Andrew’s HRH style and prince title officially removed by King Charles",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/06/andrew-hrh-style-prince-title-officially-removed-king-charles",
-      "pubDate": "Thu, 06 Nov 2025 15:21:22 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Unia odroczy ETS2 o więcej niż rok? Polski europoseł o nowych negocjacjach",
-      "link": "https://biznes.interia.pl/gospodarka/news-unia-odroczy-ets2-o-wiecej-niz-rok-polski-europosel-o-nowych,nId,22451828",
-      "pubDate": "Thu, 06 Nov 2025 15:18:27 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
