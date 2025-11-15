@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T21:55:36.343Z",
+  "generatedAt": "2025-11-15T22:12:32.134Z",
   "items": [
+    {
+      "title": "DR Congo and M23 agree to new framework for peace deal",
+      "link": "https://www.dw.com/en/dr-congo-and-m23-agree-to-new-framework-for-peace-deal/a-74761651?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 15 Nov 2025 22:09:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Australia news live: conservative Liberal says Ley’s leadership secure after net zero axing; storms batter Queensland and NSW;",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/16/australia-news-live-liberal-coalition-net-zero-sussan-ley-penny-wong-labor-cop30-chris-bowen-albanese-storms-queensland-nsw-ntwnfb",
+      "pubDate": "Sat, 15 Nov 2025 22:04:42 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Wypadek kolumny wiceprezydenta. Policjant w stanie krytycznym",
+      "link": "https://tvn24.pl/swiat/usa-wypadek-kolumny-wiceprezydenta-j-d-vance-a-policjant-w-stanie-krytycznym-st8754273?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 22:00:25 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wypadek kolumny J.D. Vance'a. Policjant walczy o życie",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wypadek-kolumny-j-d-vance-a-policjant-walczy-o-zycie,nId,8041003",
+      "pubDate": "Sat, 15 Nov 2025 22:58:36 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Sytuacja \"na krawędzi\", nie zdołali wykonać rozkazu Putina. Trwa bitwa",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-sytuacja-na-krawedzi-nie-zdolali-wykonac-rozkazu-putina-trwa,nId,22454553",
@@ -10179,6 +10203,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -14001,6 +14049,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -14179,6 +14251,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -25646,6 +25742,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71059,54 +71179,6 @@
       "link": "http://www.euronews.com/business/2025/11/06/uzbekistan-strengthens-labour-rights-through-union-led-reforms",
       "pubDate": "Thu, 06 Nov 2025 17:57:02 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Sprawa Zbigniewa Ziobry. Prokurator wskazuje na \"obawę prób mataczenia\"",
-      "link": "https://wiadomosci.onet.pl/kraj/sprawa-zbigniewa-ziobry-prokurator-wskazuje-obawa-prob-mataczenia/p3ec3g2",
-      "pubDate": "Thu, 06 Nov 2025 16:56:31 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tajemniczy skarb Habsburgów ujawniony. Milczeli ponad sto lat",
-      "link": "https://geekweek.interia.pl/styl-zycia/ciekawostki/news-tajemniczy-skarb-habsburgow-ujawniony-milczeli-ponad-sto-lat,nId,22451883",
-      "pubDate": "Thu, 06 Nov 2025 16:56:11 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Zmarł Leszek Kłosiński. Współtwórca marek kosmetycznych zginął podczas wakacji ",
-      "link": "https://tvn24.pl/biznes/z-kraju/nie-zyje-leszek-klosinski-oswiadczenie-grupy-tdj-st8739855?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 16:55:40 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Wojna buldogów\" w KO? W kuluarach komentują odejście wiceministra",
-      "link": "https://wydarzenia.interia.pl/kraj/news-wojna-buldogow-w-ko-w-kuluarach-komentuja-odejscie-wiceminis,nId,22451857",
-      "pubDate": "Thu, 06 Nov 2025 16:55:25 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Samsung Galaxy S26 Ultra z mnóstwem ulepszeń. Wszystko już jasne",
-      "link": "https://spidersweb.pl/2025/11/samsung-galaxy-s26-ultra-specyfikacja-wyciek.html",
-      "pubDate": "Thu, 06 Nov 2025 17:55:07 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "To koniec. Karol III oficjalnie pozbawił swojego brata Andrzeja tytułu księcia",
-      "link": "https://www.bankier.pl/wiadomosc/To-koniec-Karol-III-oficjalnie-pozbawil-swojego-brata-Andrzeja-tytulu-ksiecia-9036201.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 17:55:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Somalia: Pirates board fuel tanker off, crew reported safe",
-      "link": "https://www.dw.com/en/somalia-pirates-board-fuel-tanker-off-crew-reported-safe/a-74643992?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 6 Nov 2025 16:51:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Somalia: Pirates board fuel tanker, crew reported safe",
-      "link": "https://www.dw.com/en/somalia-pirates-board-fuel-tanker-crew-reported-safe/a-74643992?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 6 Nov 2025 16:51:00 GMT",
-      "source": "DW"
     }
   ]
 }
