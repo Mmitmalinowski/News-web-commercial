@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T20:16:01.085Z",
+  "generatedAt": "2025-11-15T20:32:52.661Z",
   "items": [
+    {
+      "title": "Podejrzany o kierowanie gróźb wobec Karola Nawrockiego zatrzymany",
+      "link": "https://www.rmf24.pl/fakty/polska/news-podejrzany-o-kierowanie-grozb-wobec-karola-nawrockiego-zatrz,nId,8041000",
+      "pubDate": "Sat, 15 Nov 2025 21:30:40 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zelensky vows energy sector overhaul after $100m corruption scandal",
+      "link": "https://www.bbc.com/news/articles/cvgwyyd8l58o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 15 Nov 2025 20:26:30 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Groźby wobec prezydenta. Policja dokonała zatrzymania",
+      "link": "https://wydarzenia.interia.pl/kraj/news-grozby-wobec-prezydenta-policja-dokonala-zatrzymania,nId,22454558",
+      "pubDate": "Sat, 15 Nov 2025 20:24:01 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Jarosław Kaczyński zabrał głos w sprawie Zbigniewa Ziobry. Padła ostra zapowiedź",
+      "link": "https://wiadomosci.onet.pl/olsztyn/jaroslaw-kaczynski-zabral-glos-w-sprawie-zbigniewa-ziobry-padla-ostra-zapowiedz/lrpvv6l",
+      "pubDate": "Sat, 15 Nov 2025 20:21:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Holocaust items auction draws outrage in Germany",
+      "link": "https://www.dw.com/en/holocaust-items-auction-draws-outrage-in-germany/a-74761373?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 15 Nov 2025 20:21:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Pajor show w El Clasico. Polka bohaterką Barcelony",
       "link": "https://www.rmf24.pl/sport/news-pajor-show-w-el-clasico-polka-bohaterka-barcelony,nId,8040996",
@@ -9,10 +39,22 @@
       "source": "RMF24"
     },
     {
+      "title": "Putin rozmawiał z Netanjahu. \"Szczegółowa wymiana poglądów\"",
+      "link": "https://tvn24.pl/swiat/strefa-gazy-iran-syria-wladimir-putin-i-benjamin-netanjahu-rozmawiali-telefonicznie-o-sytuacji-na-bliskim-wschodzie-st8754233?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 20:11:34 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Odkryto ciało 44-letniego mężczyzny. Akcja służb w Warszawie",
       "link": "https://wydarzenia.interia.pl/mazowieckie/news-odkryto-cialo-44-letniego-mezczyzny-akcja-sluzb-w-warszawie,nId,22454547",
       "pubDate": "Sat, 15 Nov 2025 20:10:55 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Marjorie Taylor Greene says she’s had ‘warnings for my safety’ after posts by Trump",
+      "link": "https://www.theguardian.com/us-news/2025/nov/15/marjorie-taylor-greene-safety-trump",
+      "pubDate": "Sat, 15 Nov 2025 20:07:08 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Wypadek kolumny J. D. Vance’a. Policjant jest w stanie krytycznym",
@@ -25,6 +67,12 @@
       "link": "https://www.rmf24.pl/sport/news-race-nielegalne-substancje-22-zatrzymanych-przed-meczem-pols,nId,8040995",
       "pubDate": "Sat, 15 Nov 2025 20:59:21 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Donald Trump \"gasi pożar, który sam wywołał\". Idzie na ustępstwa w kwestii ceł",
+      "link": "https://businessinsider.com.pl/gospodarka/donald-trump-kontra-inflacja-prezydent-usa-przegral-01/px5pxt5",
+      "pubDate": "Sat, 15 Nov 2025 19:54:35 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Sztuczna inteligencja pomaga w leczeniu dzieci z dysplazją stawu biodrowego",
@@ -9855,6 +9903,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -13485,6 +13557,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -13663,6 +13759,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -24938,6 +25058,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -57579,6 +57723,12 @@
       "source": "RMF24"
     },
     {
+      "title": "Hermann und Albert Göring: Two very different brothers",
+      "link": "https://www.dw.com/en/hermann-und-albert-göring-two-very-different-brothers/a-74621491?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 8 Nov 2025 15:15:00 GMT",
+      "source": "DW"
+    },
+    {
       "title": "Trzech mężczyzn wypadło z samochodu po dachowaniu. Policja ustala kluczowy szczegół",
       "link": "https://wiadomosci.onet.pl/poznan/uderzyli-oplem-w-znak-i-dachowali-trzech-mlodych-mezczyzn-wypadlo-z-auta/5rg17dj",
       "pubDate": "Sat, 08 Nov 2025 15:12:15 GMT",
@@ -70453,84 +70603,6 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-prezydent-spelnia-obietnice-wyborcza-projekt-ustawy,nId,8038414",
       "pubDate": "Thu, 06 Nov 2025 17:11:47 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Kilka centymetrów za blisko i… kara 5000 zł. Oto, co muszą wiedzieć właściciele działek",
-      "link": "https://businessinsider.com.pl/wiadomosci/szopa-moze-byc-samowola-budowlana-za-nielegalne-postawienie-wysoka-kara/z0r9fdd",
-      "pubDate": "Thu, 06 Nov 2025 16:10:10 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Śmiertelny wypadek na A1. Sebastian M. obciąża ofiary",
-      "link": "https://www.bankier.pl/wiadomosc/Smiertelny-wypadek-na-A1-Swiadkowie-nie-pamietaja-zderzenia-Sebastian-M-obciaza-ofiary-9036157.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 17:09:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Wrzawa na komisji sejmowej. \"Posłanki PiS złamały regulaminowy obowiązek\"",
-      "link": "https://wiadomosci.onet.pl/kraj/wrzawa-na-komisji-sejmowej-poslanki-pis-zlamaly-regulaminowy-obowiazek/w07qjqw",
-      "pubDate": "Thu, 06 Nov 2025 16:07:51 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Sztuczna inteligencja wesprze Mapy Google. „Jak przyjaciel na miejscu pasażera”",
-      "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43300091-sztuczna-inteligencja-wesprze-mapy-google-jak-przyjaciel-na-miejscu-pasazera",
-      "pubDate": "Thu, 06 Nov 2025 17:07:20 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "New York Post’s anti-Mamdani front page is a hit – with his supporters",
-      "link": "https://www.theguardian.com/us-news/2025/nov/06/zohran-mamdani-new-york-post",
-      "pubDate": "Thu, 06 Nov 2025 16:07:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Szef rosyjskiego MSZ popadł w niełaskę Putina? Powodem fiasko szczytu z Trumpem",
-      "link": "https://www.rp.pl/dyplomacja/art43300641-szef-rosyjskiego-msz-popadl-w-nielaske-putina-powodem-fiasko-szczytu-z-trumpem",
-      "pubDate": "Thu, 06 Nov 2025 17:05:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rosalía’s Warsaw wonderland: Can you unlock the hidden messages in 'Berghain' video?",
-      "link": "http://www.euronews.com/culture/2025/11/06/rosalias-warsaw-wonderland-can-you-unlock-the-hidden-messages-in-berghain-video",
-      "pubDate": "Thu, 06 Nov 2025 17:04:10 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Trzecie pokolenie rodziny Putina dochodzi do władzy",
-      "link": "https://wiadomosci.onet.pl/swiat/krewni-wladimira-putina-robia-kariery-w-rosji-tak-wyglada-rodzinna-elita/9lv2z74",
-      "pubDate": "Thu, 06 Nov 2025 16:04:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Prezes Nvidii łagodzi stanowisko. \"Chiny są nanosekundy za USA\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-prezes-nvidii-lagodzi-stanowisko-chiny-sa-nanosekundy-za-usa,nId,22451824",
-      "pubDate": "Thu, 06 Nov 2025 16:01:00 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "E-dyplomy na uczelniach. Sejmowa komisja przyjęła projekt",
-      "link": "https://cyberdefence24.pl/polityka-i-prawo/e-dyplomy-na-uczelniach-sejmowa-komisja-przyjela-projekt",
-      "pubDate": "Thu, 06 Nov 2025 17:00:16 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Odkryli miejsce z najgorszych koszmarów. Nie czytaj, jeśli masz słabe nerwy",
-      "link": "https://antyweb.pl/odkryli-miejsce-z-najgorszych-koszmarow-nie-czytaj-jesli-masz-slabe-nerwy",
-      "pubDate": "Thu, 06 Nov 2025 16:00:05 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Kto wygrałby wybory parlamentarne w najbliższą niedzielę? Najnowszy sondaż",
-      "link": "https://www.rmf24.pl/polityka/news-kto-wygralby-wybory-parlamentarne-w-najblizsza-niedziele-naj,nId,8038393",
-      "pubDate": "Thu, 06 Nov 2025 17:00:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "„Patrzmy na czyny, a nie tylko na słowa”. Paweł Kowal o Trumpie, Polsce i ryzyku wojny kognitywnej",
-      "link": "https://www.rp.pl/swiat/art43299801-patrzmy-na-czyny-a-nie-tylko-na-slowa-pawel-kowal-o-trumpie-polsce-i-ryzyku-wojny-kognitywnej",
-      "pubDate": "Thu, 06 Nov 2025 17:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
