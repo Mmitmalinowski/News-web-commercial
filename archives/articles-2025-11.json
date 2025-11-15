@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T22:12:32.134Z",
+  "generatedAt": "2025-11-15T22:30:33.593Z",
   "items": [
+    {
+      "title": "Wypadek kolumny J. D. Vance'a. Jeden z policjantów w stanie krytycznym",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-wypadek-kolumny-j-d-vance-a-jeden-z-policjantow-w-stanie-kry,nId,22454564",
+      "pubDate": "Sat, 15 Nov 2025 22:20:23 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Weekendowa Lektura: odcinek 650 [2025-11-15]. Bierzcie i czytajcie",
+      "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-650-2025-11-15-bierzcie-i-czytajcie/",
+      "pubDate": "Sat, 15 Nov 2025 22:14:30 +0000",
+      "source": "Zaufana Trzecia Strona"
+    },
     {
       "title": "DR Congo and M23 agree to new framework for peace deal",
       "link": "https://www.dw.com/en/dr-congo-and-m23-agree-to-new-framework-for-peace-deal/a-74761651?maca=en-rss-en-all-1573-xml-mrss",
@@ -67,6 +79,12 @@
       "link": "http://www.euronews.com/2025/11/15/orban-and-opposition-rival-stage-rallies-in-gyor-as-hungary-gears-up-for-elections",
       "pubDate": "Sat, 15 Nov 2025 22:17:19 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Reżim Łukaszenki zadowolony z decyzji Polski ws. przejść granicznych. \"Pogłębienie współpracy\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-15/rezim-lukaszenki-zadowolony-z-decyzji-polski-ws-przejsc-granicznych-poglebienie-wspolpracy/",
+      "pubDate": "Sat, 15 Nov 2025 22:11:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Jarosław Kaczyński wraca do śmierci Anderzeja Leppera",
@@ -10227,6 +10245,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -14073,6 +14115,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -14251,6 +14317,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -25742,6 +25832,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71137,48 +71251,6 @@
       "link": "https://antyweb.pl/internet-explorer-ie-mode-smartscreen",
       "pubDate": "Thu, 06 Nov 2025 17:00:47 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Latest news bulletin | November 6th, 2025 – Evening",
-      "link": "http://www.euronews.com/video/2025/11/06/latest-news-bulletin-november-6th-2025-evening",
-      "pubDate": "Thu, 06 Nov 2025 18:00:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Southport reveals year of cultural events to entice tourists after attack",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/06/southport-year-of-cultural-events-after-attack",
-      "pubDate": "Thu, 06 Nov 2025 17:00:02 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Słuchawki Motorola Moto Buds Bass zaliczają premierę. Na pokładzie ANC i bateria trzymająca ponad 40 godzin",
-      "link": "https://www.chip.pl/2025/11/motorola-moto-buds-bass-premiera-specyfikacja",
-      "pubDate": "Thu, 06 Nov 2025 17:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Polacy już nie będą się denerwować. Najnowszy komunikat Poczty Polskiej",
-      "link": "https://businessinsider.com.pl/wiadomosci/papierowe-awizo-odchodzi-do-lamusa-nowa-era-w-poczcie-polskiej/qlvt35n",
-      "pubDate": "Thu, 06 Nov 2025 16:58:48 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Były przewodniczący rady miasta usłyszał zarzuty. Teraz złożył zażalenie",
-      "link": "https://tvn24.pl/katowice/czestochowa-byly-przewodniczacy-rady-miasta-uslyszal-zarzuty-teraz-zlozyl-zazalenie-na-srodki-zapobiegawcze-st8739791?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 16:57:58 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Masowa kontrola paczek od Shein we Francji. Rząd mówi o akcji na \"wyjątkową skalę\"",
-      "link": "https://businessinsider.com.pl/finanse/platforma-shein-pod-lupa-we-francji-ruszyla-masowa-kontrola-paczek/btn0x5z",
-      "pubDate": "Thu, 06 Nov 2025 16:57:27 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Uzbekistan strengthens labour rights through union-led reforms",
-      "link": "http://www.euronews.com/business/2025/11/06/uzbekistan-strengthens-labour-rights-through-union-led-reforms",
-      "pubDate": "Thu, 06 Nov 2025 17:57:02 +0100",
-      "source": "Euronews"
     }
   ]
 }
