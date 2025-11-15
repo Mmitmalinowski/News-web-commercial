@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T17:28:19.003Z",
+  "generatedAt": "2025-11-15T17:38:38.049Z",
   "items": [
+    {
+      "title": "\"Zacząłem dorastać grubo po pięćdziesiątce\"",
+      "link": "https://tvn24.pl/kultura-i-styl/muniek-staszczyk-tak-mysle-ze-grubo-po-piecdziesiatce-zaczalem-dorastac-st8754078?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 17:36:24 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ładowanie smartfona. Trzy mity, w które nie należy wierzyć",
+      "link": "https://android.com.pl/tech/991404-ladowanie-smartfona-trzy-mity/",
+      "pubDate": "Sat, 15 Nov 2025 17:35:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Proboszcz zabrał głos po zaginięciu księdza. \"Nigdy nam nie mówił\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-proboszcz-zabral-glos-po-zaginieciu-ksiedza-nigdy-nam-nie-mo,nId,22454528",
+      "pubDate": "Sat, 15 Nov 2025 17:32:00 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Mdłości można dostać\". Tusk o wyroku w sprawie urzędników związanych z PiS-em",
+      "link": "https://tvn24.pl/polska/premier-donald-tusk-o-wyroku-w-sprawie-urzednikow-z-malopolski-zwiazanych-z-pis-em-st8754122?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 17:29:47 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kaczyński wrócił do sprawy Leppera. \"Chciał powiedzieć prawdę\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-kaczynski-wrocil-do-sprawy-leppera-chcial-powiedziec-prawde,nId,22454535",
+      "pubDate": "Sat, 15 Nov 2025 17:27:48 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Jarosław Kaczyński nagle wspomniał Andrzeja Leppera. \"Został zamordowany\"",
+      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-nagle-wspomnial-andrzeja-leppera-zostal-zamordowany/52j79yq",
+      "pubDate": "Sat, 15 Nov 2025 17:27:13 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nawrocki blokuje neosędziów. Kaczyński statystą na Marszu Niepodległości. Czarzasty pokonał Hołownię",
+      "link": "https://wiadomosci.onet.pl/kraj/nawrocki-blokuje-neosedziow-kaczynski-statysta-na-marszu-niepodleglosci/h50lkwp",
+      "pubDate": "Sat, 15 Nov 2025 17:25:32 GMT",
+      "source": "Onet"
+    },
     {
       "title": "DR Congo and M23 rebels sign framework for peace in Qatar",
       "link": "https://www.bbc.com/news/articles/cwy7zlngwepo?at_medium=RSS&at_campaign=rss",
@@ -43,6 +85,12 @@
       "link": "https://tvn24.pl/tvnmeteo/swiat/portugalia-silny-wiatr-zabil-turystke-to-mogla-byc-traba-powietrzna-st8754080?source=rss",
       "pubDate": "Sat, 15 Nov 2025 17:02:03 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Na te smartwatche warto polować w Black Friday 2025!",
+      "link": "https://antyweb.pl/smartwatche-black-friday-2025",
+      "pubDate": "Sat, 15 Nov 2025 17:00:37 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Latest news bulletin | November 15th, 2025 – Evening",
@@ -9129,6 +9177,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -12471,6 +12543,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -12649,6 +12745,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -23636,6 +23756,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69595,78 +69739,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/policja-zmienia-swoja-strukture-powstanie-narodowe-biuro-sledcze/0plqd50",
       "pubDate": "Thu, 06 Nov 2025 14:52:37 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Senat zamyka luki w fundacjach rodzinnych. Podatkowy cios we właścicieli nieruchomości",
-      "link": "https://www.bankier.pl/wiadomosc/Senat-zamyka-luki-w-fundacjach-rodzinnych-Podatkowy-cios-we-wlascicieli-nieruchomosci-9036081.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 15:52:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Nie żyje raper Pono. Miał 49 lat",
-      "link": "https://tvn24.pl/kultura-i-styl/pono-rafal-poniedzielski-nie-zyje-raper-mial-49-lat-st8739613?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 14:51:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Disinformation rife ahead of climate summit in Brazil",
-      "link": "https://www.dw.com/en/disinformation-rife-ahead-of-climate-summit-in-brazil/a-74539051?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 6 Nov 2025 14:50:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Nie żyje raper Pono. Sokół pożegnał przyjaciela",
-      "link": "https://www.rmf24.pl/kultura/news-nie-zyje-raper-pono-sokol-pozegnal-przyjaciela,nId,8038381",
-      "pubDate": "Thu, 06 Nov 2025 15:49:37 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Sejmowa komisja zajmie się immunitetem Zbigniewa Ziobry. Oglądaj na żywo",
-      "link": "https://wiadomosci.onet.pl/kraj/sejmowa-komisja-zajmie-sie-immunitetem-zbigniewa-ziobry-ogladaj-na-zywo/h1dpmff",
-      "pubDate": "Thu, 06 Nov 2025 14:49:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zatrzymani policjantka i policjant. Chodzi o narkotyki",
-      "link": "https://tvn24.pl/poznan/gniezno-nowy-tomysl-zatrzymani-policjantka-i-policjant-chodzi-o-narkotyki-st8738670?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 14:49:15 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "WhatsApp z funkcją, na którą czekaliśmy od lat. Pojawi się lada moment",
-      "link": "https://android.com.pl/tech/988882-whatsapp-z-opcja-nazw-uzytkownikow/",
-      "pubDate": "Thu, 06 Nov 2025 14:49:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Japonia szykuje armię. Będą walczyć z potężnym problemem",
-      "link": "https://tech.wp.pl/japonia-szykuje-armie-beda-walczyc-z-poteznym-problemem,7218946651339584a",
-      "pubDate": "Thu, 06 Nov 2025 15:48:51 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Śmigłowiec zahaczył o linię energetyczną. Prokuratura umorzyła sprawę",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/blaziny-gorne-smiglowiec-zahaczyl-o-linie-energetyczna-prokuratura-umorzyla-sledztwo-st8739550?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 14:48:28 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Mogłoby zatrząść całą koalicją\". Rządzący z obawami ws. przyszłości Ziobry",
-      "link": "https://wydarzenia.interia.pl/kraj/news-on-jest-glowa-tej-hydry-rzadzacy-szykuja-sie-na-decydujace-s,nId,22451800",
-      "pubDate": "Thu, 06 Nov 2025 14:48:21 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Stopa bezrobocia bez zmian. Ministerstwo pokazało najnowsze dane",
-      "link": "https://www.bankier.pl/wiadomosc/Stopa-bezrobocia-bez-zmian-Ministerstwo-pokazalo-dane-za-pazdziernik-2025-9036073.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 15:48:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Ukraina stoi w obliczu \"wiecznej wojny\". Były szef NATO ostrzega Europę",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-stoi-w-obliczu-wiecznej-wojny-byly-szef-nato-ostrzeg,nId,22451737",
-      "pubDate": "Thu, 06 Nov 2025 14:47:54 GMT",
-      "source": "Interia"
     }
   ]
 }
