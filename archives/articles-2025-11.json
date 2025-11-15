@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T23:01:59.571Z",
+  "generatedAt": "2025-11-15T23:24:47.009Z",
   "items": [
+    {
+      "title": "Teenager charged with murder after death of girl, 17, in South Wales",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/15/teenager-charged-with-after-death-of-girl-17-in-south-wales",
+      "pubDate": "Sat, 15 Nov 2025 23:09:28 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Ukraina i Rosja doszły do porozumienia. Dojdzie do wymiany",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-i-rosja-doszly-do-porozumienia-dojdzie-do-wymiany,nId,22454561",
+      "pubDate": "Sat, 15 Nov 2025 23:08:41 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Polska otwiera przejścia graniczne z Białorusią. Jest reakcja Mińska",
       "link": "https://wiadomosci.onet.pl/swiat/polska-otwiera-dwa-przejscia-graniczne-z-bialorusia-jest-reakcja-minska/1mqxvv3",
@@ -10371,6 +10383,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -14313,6 +14349,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -14491,6 +14551,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -26078,6 +26162,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71431,42 +71539,6 @@
       "link": "https://android.com.pl/tech/989104-apple-wycofalo-ios-26-2-przez-modem-c1/",
       "pubDate": "Thu, 06 Nov 2025 17:21:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Świąteczny rekord. Amerykanie wydadzą ponad bilion dolarów na prezenty",
-      "link": "https://businessinsider.com.pl/gospodarka/usa-swiateczna-sprzedaz-detaliczna-pobije-rekord-bilion-dolarow-w-zasiegu/nyf2771",
-      "pubDate": "Thu, 06 Nov 2025 17:19:54 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Najpierw zwalniali, teraz zatrudniają ponownie. Tam sztuczna inteligencja się nie sprawdziła",
-      "link": "https://businessinsider.com.pl/praca/najpierw-zwalniali-teraz-zatrudniaja-ponownie-tam-sztuczna-inteligencja-sie-nie/966ngrk",
-      "pubDate": "Thu, 06 Nov 2025 17:13:27 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Paweł Kukiz o areszcie dla Zbigniewa Ziobry. \"Będą się bali\"",
-      "link": "https://wiadomosci.onet.pl/kraj/kukiz-zapytany-o-to-jak-zaglosuje-w-sprawie-immunitetu-ziobry/lxxb95s",
-      "pubDate": "Thu, 06 Nov 2025 17:13:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"To są zwierzęce instynkty\". Krzyki na posiedzeniu komisji w sprawie Zbigniewa Ziobry",
-      "link": "https://wiadomosci.onet.pl/kraj/to-sa-zwierzece-instynkty-emocje-na-posiedzeniu-komisji-w-sprawie-ziobry/ex0s52j",
-      "pubDate": "Thu, 06 Nov 2025 17:12:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "W pożarze zginęły cztery osoby. \"Strzelnica nie była sprzątana\"",
-      "link": "https://tvn24.pl/opole/chrzastowice-w-pozarze-strzelnicy-zginely-cztery-osoby-po-trzech-latach-sledztwa-instruktor-uslyszal-zarzuty-st8739867?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 17:11:53 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kupujesz i pomagasz: wspieraj najbiedniejszych razem z Allegro",
-      "link": "https://antyweb.pl/allegro-szlachetna-paczka",
-      "pubDate": "Thu, 06 Nov 2025 17:11:35 GMT",
-      "source": "Antyweb"
     }
   ]
 }
