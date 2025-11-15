@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-15T11:20:32.486Z",
+  "generatedAt": "2025-11-15T11:30:15.085Z",
   "items": [
+    {
+      "title": "Zmiana w pogodzie, pierwszy śnieg w tym roku. Zostały godziny",
+      "link": "https://wydarzenia.interia.pl/kraj/news-zmiana-w-pogodzie-pierwszy-snieg-w-tym-roku-zostaly-godziny,nId,22454453",
+      "pubDate": "Sat, 15 Nov 2025 11:26:34 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Tu zimowe opony są już obowiązkowe",
+      "link": "https://tvn24.pl/biznes/turystyka/na-slowenii-zimowe-opony-sa-juz-obowiazkowe-st8753410?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 11:24:42 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zawodowo planuję podróże marzeń. Oto cztery błędy, które najczęściej popełniają turyści, organizując własne wakacje",
+      "link": "https://businessinsider.com.pl/lifestyle/tymi-bledami-zrujnujesz-sobie-urlop-zawodowy-planista-mowi-czego-unikac/pjxr7f3",
+      "pubDate": "Sat, 15 Nov 2025 11:21:09 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Polska broń na eksport. Nabywca pozostaje tajemnicą",
+      "link": "https://tech.wp.pl/polska-bron-na-eksport-nabywca-pozostaje-tajemnica,7222076333116352a",
+      "pubDate": "Sat, 15 Nov 2025 12:21:01 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Meta AI w końcu w języku polskim. Asystent wchodzi szerzej na nasze platformy społecznościowe",
+      "link": "https://android.com.pl/tech/991806-meta-ai-w-koncu-w-jezyku-polskim/",
+      "pubDate": "Sat, 15 Nov 2025 11:21:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Will Ecuador allow US troops on its soil?",
+      "link": "https://www.dw.com/en/will-ecuador-allow-us-troops-on-its-soil/a-74712635?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 15 Nov 2025 11:20:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Góral z USA zabudowuje polanę u stóp Tatr. \"Jedna wielka samowola\"",
+      "link": "https://tvn24.pl/krakow/koscielisko-goral-z-usa-zabudowuje-polane-bialy-potok-jedna-wielka-samowola-st8714637?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 11:19:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Nie ustąpiła pierwszeństwa\". 53-latka zginęła po zderzeniu z ciężarówką",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/broniewek-nie-ustapila-pierwszenstwa-i-doprowadzila-do-zderzenia-53-latka-nie-zyje-st8753548?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 11:19:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zdjęcie Polaka znów docenione przez Amerykanów",
+      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/zdjecia-dnia-nasa-fotografia-polaka-doceniona-przez-amerykanow-st8753534?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 11:18:24 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Ziścił się koszmar Donalda Trumpa. \"Zamieni Nowy Jork w piekło na ziemi\"",
       "link": "https://wiadomosci.onet.pl/swiat/ziscil-sie-koszmar-donalda-trumpa-zamieni-nowy-jork-w-pieklo-na-ziemi/lpq31qj",
@@ -115,6 +169,12 @@
       "link": "https://antyweb.pl/dni-tima-cooka-w-apple-sa-policzone-kto-go-zastapi",
       "pubDate": "Sat, 15 Nov 2025 11:00:01 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Zrobił niezwykłe zdjęcie. Polak wyróżniony przez NASA",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-15/zrobil-niezwykle-zdjecie-polak-wyrozniony-przez-nasa/",
+      "pubDate": "Sat, 15 Nov 2025 11:58:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "​Tajemnice faraona Szepseskafa. Polscy archeolodzy wracają do Egiptu",
@@ -7239,6 +7299,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -10029,6 +10113,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -10207,6 +10315,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -20642,6 +20774,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67927,90 +68083,6 @@
       "link": "https://www.theguardian.com/society/2025/nov/06/mistakenly-released-prisoner-billy-smith-turns-himself-in-wandsworth",
       "pubDate": "Thu, 06 Nov 2025 11:29:43 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Police investigate after swastikas painted on 50 cars with human blood in Germany",
-      "link": "http://www.euronews.com/2025/11/06/police-investigate-after-swastikas-painted-on-50-cars-with-human-blood-in-germany",
-      "pubDate": "Thu, 06 Nov 2025 12:29:30 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Woman with stage 4 cancer has welfare benefit stopped after falling ill abroad",
-      "link": "https://www.theguardian.com/society/2025/nov/06/woman-with-stage-4-cancer-has-welfare-benefit-stopped-after-falling-ill-abroad",
-      "pubDate": "Thu, 06 Nov 2025 11:27:44 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Malaysian rapper Namewee arrested over alleged murder of Taiwanese influencer",
-      "link": "https://www.theguardian.com/world/2025/nov/06/malaysian-rapper-namewee-arrested-over-alleged-of-taiwanese-influencer-hsieh-yu-hsin",
-      "pubDate": "Thu, 06 Nov 2025 11:27:05 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Niezwykła niemiecka brygada na skraju NATO przywozi ze sobą swój najnowocześniejszy ciężki wóz pancerny",
-      "link": "https://businessinsider.com.pl/wiadomosci/ta-brygada-ma-najwyzszy-priorytet-w-niemczech-przerzucaja-jej-najlepszy-sprzet-pod/kvfwg2d",
-      "pubDate": "Thu, 06 Nov 2025 11:26:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Wielki Bu\" przekazany Polsce przez niemieckie służby",
-      "link": "https://businessinsider.com.pl/wiadomosci/wielki-bu-przekazany-polskim-wladzom-patryk-m-stanie-przed-sadem/yeh00s9",
-      "pubDate": "Thu, 06 Nov 2025 11:26:06 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "​Burza po słowach posła PiS. Joński składa zawiadomienie do prokuratury",
-      "link": "https://www.rmf24.pl/polityka/news-burza-po-slowach-posla-pis-jonski-sklada-zawiadomienie-do-pr,nId,8038262",
-      "pubDate": "Thu, 06 Nov 2025 12:25:41 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "First Thing: Still a chance to return to 1.5C climate goal, experts say",
-      "link": "https://www.theguardian.com/us-news/2025/nov/06/first-thing-chance-return-climate-goal-brazil-talks",
-      "pubDate": "Thu, 06 Nov 2025 11:24:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Szukają tego mężczyzny. Miał pobić młode małżeństwo",
-      "link": "https://tvn24.pl/krakow/rabka-zdroj-pobicie-malzenstwa-policja-szuka-napastnika-st8738586?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 11:24:25 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rosja otrzymała dwa bolesne ciosy. Zniszczona baza dronów, pożar w rafinerii",
-      "link": "https://wiadomosci.onet.pl/swiat/rosja-otrzymala-dwa-bolesne-ciosy-zniszczona-baza-dronow-pozar-w-rafinerii/48mc0l0",
-      "pubDate": "Thu, 06 Nov 2025 11:23:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Makabryczne odkrycie w Poznaniu. Ciała dwóch mężczyzn znalezione w mieszkaniu",
-      "link": "https://wiadomosci.onet.pl/poznan/makabryczne-odkrycie-w-poznaniu-ciala-dwoch-mezczyzn-znalezione-w-mieszkaniu/9xxcvep",
-      "pubDate": "Thu, 06 Nov 2025 11:23:13 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rusza projekt „Da Się!”. W Krakowie niemożliwe staje się możliwe",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-rusza-projekt-da-sie-w-krakowie-niemozliwe-staje-sie-mozliwe,nId,8038256",
-      "pubDate": "Thu, 06 Nov 2025 12:22:20 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Odkryto pradawny monument cywilizacji Majów. Powstał jako mapa wszechświata",
-      "link": "https://tech.wp.pl/odkryto-pradawny-monument-cywilizacji-majow-powstal-jako-mapa-wszechswiata,7218847303494464a",
-      "pubDate": "Thu, 06 Nov 2025 12:21:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Założył blokadę na swoje auto. To miał być sposób na mandat",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-zalozyl-blokade-na-swoje-auto-to-mial-byc-sposob-na-mandat-st8738455?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 11:20:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Orban poleciał do Trumpa. Oznajmił, o czym będą dyskutować",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-orban-polecial-do-trumpa-oznajmil-o-czym-beda-dyskutowac,nId,8038252",
-      "pubDate": "Thu, 06 Nov 2025 12:20:04 +0100",
-      "source": "RMF24"
     }
   ]
 }
