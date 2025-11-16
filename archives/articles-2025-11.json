@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T01:23:37.999Z",
+  "generatedAt": "2025-11-16T02:58:54.471Z",
   "items": [
+    {
+      "title": "Mexico: 'Gen Z' protests spread following mayor's murder",
+      "link": "https://www.dw.com/en/mexico-gen-z-protests-spread-following-mayor-s-murder/a-74762149?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 16 Nov 2025 02:57:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "'We're just going to go through this again': Americans fear second government shutdown",
+      "link": "https://www.bbc.com/news/articles/ce8glerlyrgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 16 Nov 2025 02:55:31 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Suspected migrant boat capsizes off California coast, killing 4",
+      "link": "https://www.dw.com/en/suspected-migrant-boat-capsizes-off-california-coast-killing-4/a-74762105?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 16 Nov 2025 02:41:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Niebezpieczna pogoda w Portugalii. Ponad tysiąc interwencji służb",
+      "link": "https://wiadomosci.onet.pl/swiat/portugalia-walczy-z-pogoda-sluzby-interweniowaly-ponad-tysiac-razy/p8s0rkt",
+      "pubDate": "Sun, 16 Nov 2025 01:40:41 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Pogoda na dziś - niedziela, 16.11. Niewykluczone opady deszczu ze śniegiem",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-16-11-niewykluczone-opady-deszczu-ze-sniegiem-st8754198?source=rss",
@@ -10593,6 +10617,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -14655,6 +14703,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -14833,6 +14905,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -26540,6 +26636,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71779,54 +71899,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-drony-nad-szwedzkim-lotniskiem-znow-paraliz-lotow,nId,8038444",
       "pubDate": "Thu, 06 Nov 2025 18:58:54 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Chłopiec w samej bieliźnie na balkonie. Jego matka pijana spała",
-      "link": "https://tvn24.pl/kujawsko-pomorskie/strzelno-chlopiec-w-samej-bieliznie-na-balkonie-jego-matka-pijana-spala-st8739950?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 17:56:07 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Media: Donald Trump zlecił wojsku przygotowanie planów inwazji na Nigerię",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-rozwaza-militarna-interwencje-w-nigerii-africom-szykuje-plany/683kz3f",
-      "pubDate": "Thu, 06 Nov 2025 17:56:03 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wielka kontrola w Paryżu. Sprawdzają 200 tys. przesyłek z Shein",
-      "link": "https://www.wirtualnemedia.pl/wielka-kontrola-w-paryzu-sprawdzaja-200-tys-przesylek-z-shein,7218981495143200a",
-      "pubDate": "Thu, 06 Nov 2025 18:55:36 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Putin chce powrotu prób nuklearnych. Eksperci oceniają, kiedy to się stanie",
-      "link": "https://geekweek.interia.pl/militaria/news-rosja-wznowi-detonacje-broni-nuklearnej-eksperci-nie-pozosta,nId,22451756",
-      "pubDate": "Thu, 06 Nov 2025 17:55:24 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "W szkołach stawiają specjalne budki. Bez tego nie idzie wytrzymać",
-      "link": "https://spidersweb.pl/2025/11/budki-akustyczne-w-szkolach.html",
-      "pubDate": "Thu, 06 Nov 2025 18:53:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Black Friday już niedługo. Czy opłaca się robić zakupy?",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/kiedy-jest-black-friday-oto-data-i-jak-nie-dac-sie-naciagnac/v8ke63n",
-      "pubDate": "Thu, 06 Nov 2025 17:52:01 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Miss Universe Thailand organiser apologizes in tears after remarks to Mexico contestant",
-      "link": "http://www.euronews.com/video/2025/11/06/miss-universe-thailand-organiser-apologizes-in-tears-after-remarks-to-mexico-contestant",
-      "pubDate": "Thu, 06 Nov 2025 18:50:57 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Elektryczny SUV za 90 tys. zł. Przetestowałem najnowszy model Leapmotor",
-      "link": "https://android.com.pl/moto/988797-leapmotor-b10-opinia/",
-      "pubDate": "Thu, 06 Nov 2025 17:50:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
