@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T20:02:07.823Z",
+  "generatedAt": "2025-11-16T20:28:42.960Z",
   "items": [
+    {
+      "title": "USS Gerald R. Ford przybył na Morze Karaibskie. Co lub kto jest celem operacji „Południowa włócznia”?",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43346361-uss-gerald-r-ford-przybyl-na-morze-karaibskie-co-lub-kto-jest-celem-operacji-poludniowa-wlocznia",
+      "pubDate": "Sun, 16 Nov 2025 21:21:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dozens reportedly arrested in Charlotte, North Carolina, amid immigration crackdown",
+      "link": "https://www.theguardian.com/us-news/2025/nov/16/charlotte-north-carolina-immigration-crackdown",
+      "pubDate": "Sun, 16 Nov 2025 20:13:17 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "\"Pipo\" w rękach policji. \"Schwytaliśmy najbardziej poszukiwanego przestępcę\"",
+      "link": "https://wiadomosci.onet.pl/swiat/pipo-w-rekach-policji-schwytalismy-najbardziej-poszukiwanego-przestepce/erejq4c",
+      "pubDate": "Sun, 16 Nov 2025 20:10:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Cholera w Afryce. Największa epidemia od 25 lat",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/cholera-w-afryce-najwieksza-epidemia-choroby-od-25-lat-st8755107?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 20:02:40 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Immigration crackdown in Charlotte:  Man films car window being smashed by agents",
       "link": "http://www.euronews.com/video/2025/11/16/immigration-crackdown-in-charlotte-man-films-car-window-being-smashed-by-agents",
@@ -9,10 +33,22 @@
       "source": "Euronews"
     },
     {
+      "title": "Rosję czeka przykra niespodzianka. Za wszystkim stoi Donald Trump. \"Putin może stracić to, co mozolnie budował przez wiele lat\"",
+      "link": "https://wiadomosci.onet.pl/swiat/rosje-czeka-przykra-niespodzianka-putin-moze-stracic-to-co-budowal-przez-lata/575lmpt",
+      "pubDate": "Sun, 16 Nov 2025 19:58:41 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Ukryty uskok w kalderze śmiercionośnego wulkanu. Ostatnia erupcja miała fatalne konsekwencje",
       "link": "https://www.chip.pl/2025/11/wulkan-campi-flegrei-ukryty-uskok-wlochy",
       "pubDate": "Sun, 16 Nov 2025 19:55:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Europejski kraj ma handlować z Rosją. Ekolodzy alarmują",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-16/europejski-kraj-ma-handlowac-z-rosja-ekolodzy-alarmuja/",
+      "pubDate": "Sun, 16 Nov 2025 20:54:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Podejmiesz wyzwanie? Ten trudny QUIZ działa lepiej niż kawa!",
@@ -2201,6 +2237,12 @@
     {
       "title": "Operation Southern Spear: What is the US doing off Venezuela’s coast?",
       "link": "https://www.dw.com/en/operation-southern-spear-what-is-the-us-doing-off-venezuela-s-coast/a-74760152?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 16 Nov 2025 09:07:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "What's the US doing off Venezuela’s coast? Operation Southern Spear is setting off alarm bells worldwide",
+      "link": "https://www.dw.com/en/what-s-the-us-doing-off-venezuela-s-coast-operation-southern-spear-is-setting-off-alarm-bells-worldwide/a-74760152?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 16 Nov 2025 09:07:00 GMT",
       "source": "DW"
     },
@@ -6831,6 +6873,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Tu opady będą silne. IMGW ostrzega",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-w-poniedzialek-17-11-intensywne-opady-przejsciowo-sniegu-st8753254?source=rss",
+      "pubDate": "Sat, 15 Nov 2025 05:39:11 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Co trzeci dzień ktoś chce tu zabić kobietę. \"A teraz dajcie mi dożywocie\"",
       "link": "https://tvn24.pl/swiat/co-trzeci-dzien-ktos-chce-tu-zabic-kobiete-a-teraz-dajcie-mi-dozywocie-st8736914?source=rss",
       "pubDate": "Sat, 15 Nov 2025 05:35:04 GMT",
@@ -10879,6 +10927,30 @@
       "link": "https://www.money.pl/pieniadze/strzezcie-sie-tusk-zabral-glos-ws-afery-korupcyjnej-na-ukrainie-7221752266058624a.html",
       "pubDate": "Fri, 14 Nov 2025 13:32:46 +0100",
       "source": "Money.pl"
+    },
+    {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
@@ -21015,6 +21087,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21193,6 +21289,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -34412,6 +34532,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76291,78 +76435,6 @@
       "link": "https://biznes.interia.pl/finanse/news-ceny-pradu-w-dol-o-33-proc-karol-nawrocki-pokazuje-projekt-u,nId,22452166",
       "pubDate": "Fri, 07 Nov 2025 11:10:06 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "UN lifts sanctions against Syria's al-Sharaa before historic White House visit",
-      "link": "http://www.euronews.com/2025/11/07/un-lifts-sanctions-against-syrias-al-sharaa-before-historic-white-house-visit",
-      "pubDate": "Fri, 07 Nov 2025 12:10:03 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Martwy pies, stalowa linka i zaciskająca się pętla. Wstrząsające odkrycie koło Puław",
-      "link": "https://www.rmf24.pl/regiony/lublin/news-martwy-pies-stalowa-linka-i-zaciskajaca-sie-petla-wstrzasaja,nId,8038689",
-      "pubDate": "Fri, 07 Nov 2025 12:10:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Liczyli na bon ciepłowniczy, obejdą się smakiem. „Nawet nie składajcie wniosków”",
-      "link": "https://www.bankier.pl/wiadomosc/Liczyli-na-bon-cieplowniczy-obejda-sie-smakiem-Nawet-nie-skladajcie-wnioskow-9036589.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 12:10:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Z naTemat.pl żegna się wicenaczelna Daria Różańska-Danisz. \"To moja decyzja\"",
-      "link": "http://www.press.pl/tresc/90205,z-natemat_pl-zegna-sie-wicenaczelna-daria-rozanska-danisz_-_to-moja-decyzja_?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 12:10:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Sprawa sprzedaży działki pod CPK. Są pierwsze zawiadomienia do prokuratury",
-      "link": "https://www.rmf24.pl/fakty/polska/news-sprawa-sprzedazy-dzialki-pod-cpk-sa-pierwsze-zawiadomienia-d,nId,8038691",
-      "pubDate": "Fri, 07 Nov 2025 12:08:34 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Sprawa sprzedaży działki pod CPK. Do prokuratury wpłynęły pierwsze zawiadomienia",
-      "link": "https://www.rmf24.pl/fakty/polska/news-sprawa-sprzedazy-dzialki-pod-cpk-do-prokuratury-wplynely-pie,nId,8038691",
-      "pubDate": "Fri, 07 Nov 2025 12:08:34 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Leczenie raka płuca. Polska dorównuje Europie, ale są wyzwania",
-      "link": "https://tvn24.pl/zdrowie/leczenie-raka-pluca-polska-dorownuje-europie-ale-sa-wyzwania-st8739838?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:08:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Sieć CCC rośnie szybciej niż planowano. Ale zyski nie nadążają za tempem ekspansji",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/grupa-ccc-zmienia-zalozenia-na-2025-przecena-akcji-po-nowych-prognozach/chv3xdd",
-      "pubDate": "Fri, 07 Nov 2025 11:07:58 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Nowy projekt Karola Nawrockiego. Dotyczy cen prądu",
-      "link": "https://wiadomosci.onet.pl/kraj/nowy-projekt-karola-nawrockiego-dotyczy-cen-pradu/9q51w27",
-      "pubDate": "Fri, 07 Nov 2025 11:06:50 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Długi weekend listopadowy w podróży. Więcej rezerwacji niż na majówkę i czerwcówkę",
-      "link": "https://turystyka.rp.pl/hotele/art43304321-dlugi-weekend-listopadowy-w-podrozy-wiecej-rezerwacji-niz-na-majowke-i-czerwcowke",
-      "pubDate": "Fri, 07 Nov 2025 12:06:07 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Polak zaginął na Maderze. Trwają poszukiwania",
-      "link": "https://tvn24.pl/swiat/madera-polak-zaginal-podczas-wedrowki-trwaja-poszukiwania-31-latka-st8740781?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:05:32 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Germany news: German exports rebound as US shipments surge",
-      "link": "https://www.dw.com/en/germany-news-german-exports-rebound-as-us-shipments-surge/live-74655540?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 7 Nov 2025 11:05:00 GMT",
-      "source": "DW"
     }
   ]
 }
