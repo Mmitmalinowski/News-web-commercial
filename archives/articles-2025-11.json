@@ -1,12 +1,30 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T13:43:06.461Z",
+  "generatedAt": "2025-11-16T13:52:37.503Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Naukowcy zaobserwowali taniec atomów. Światło zmienia materiały kwantowe nie do poznania",
+      "link": "https://www.chip.pl/2025/11/taniec-atomow-swiatlo-zmienia-materialy",
+      "pubDate": "Sun, 16 Nov 2025 13:44:18 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "W Hiszpanii spadł pierwszy większy śnieg ",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/w-hiszpanii-spadl-pierwszy-wiekszy-snieg-st8754470?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 13:39:40 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Więcej szczekania niż gryzienia\". Biały Dom po cichu tępi nóż, który ledwo co sam wycelował w Rosję, by ją ukarać",
+      "link": "https://wiadomosci.onet.pl/swiat/sankcje-wobec-rosji-21-listopada-okaze-sie-jak-daleko-posunie-sie-ameryka/drtcx5h",
+      "pubDate": "Sun, 16 Nov 2025 13:39:11 GMT",
+      "source": "Onet"
     },
     {
       "title": "Jest demo strategicznej aplikacji MF. Biznes zaczyna testy",
@@ -13647,6 +13665,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -18597,6 +18639,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -18775,6 +18841,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -31370,6 +31460,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74448,48 +74562,6 @@
       "title": "Karolina Bornińska szefową video hub w Burda Media Polska",
       "link": "http://www.press.pl/tresc/90198,karolina-borninska-szefowa-video-hub-w-burda-media-polska?rss=1",
       "pubDate": "Fri, 07 Nov 2025 08:13:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "PBI zapowiada spięcie badań z ekosystemem reklamowym",
-      "link": "http://www.press.pl/tresc/90199,pbi-zapowiada-spiecie-badan-z-ekosystemem-reklamowym?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 08:13:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Średnio 40 tys. widzów ogląda nowy serial naziemnej Stopklatki",
-      "link": "http://www.press.pl/tresc/90200,Srednio-40-tys_-widzow-oglada-nowy-serial-naziemnej-stopklatki?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 08:13:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Bodnar o sprawie Ziobry. \"Retoryka, która moim zdaniem jest niedopuszczalna\"",
-      "link": "https://tvn24.pl/polska/adam-bodnar-o-sprawie-zbigniewa-ziobry-retoryka-ktora-moim-zdaniem-jest-niedopuszczalna-st8740390?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:12:57 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Złamał zakaz, nie ma prawa jazdy, poprosił, by nic nie mówili szefowi",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zlamal-zakaz-nie-mial-prawa-jazdy-prosil-straznikow-o-dyskrecje-st8740439?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:12:51 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ceny mieszkań w górę. Są najnowsze dane",
-      "link": "https://businessinsider.com.pl/nieruchomosci/ceny-mieszkan-w-gore-sa-najnowsze-dane/gtfcb34",
-      "pubDate": "Fri, 07 Nov 2025 07:12:28 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Fujian gotowy. Najnowszy chiński lotniskowiec oficjalnie w służbie",
-      "link": "https://geekweek.interia.pl/militaria/news-fujian-gotowy-najnowszy-chinski-lotniskowiec-oficjalnie-w-sl,nId,22451961",
-      "pubDate": "Fri, 07 Nov 2025 07:11:21 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Reckitt konsoliduje europejski budżet mediowy o wartości 700 mln dol. w WPP",
-      "link": "http://www.press.pl/tresc/90196,reckitt-konsoliduje-europejski-budzet-mediowy-o-wartosci-700-mln-dol_-w-wpp?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 08:09:00 +0100",
       "source": "Press.pl"
     }
   ]
