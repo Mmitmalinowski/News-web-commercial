@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T19:41:02.958Z",
+  "generatedAt": "2025-11-16T19:50:48.837Z",
   "items": [
+    {
+      "title": "Tragedia w kopalni kobaltu. Zginęło kilkadziesiąt osób",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tragedia-w-kopalni-kobaltu-zginelo-kilkadziesiat-osob,nId,8041066",
+      "pubDate": "Sun, 16 Nov 2025 20:44:04 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Teraz przeproś, kłamco\". Kierwiński odpowiada Morawieckiemu",
+      "link": "https://wydarzenia.interia.pl/kraj/news-teraz-przepros-klamco-kierwinski-odpowiada-morawieckiemu,nId,22454692",
+      "pubDate": "Sun, 16 Nov 2025 19:42:53 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Iran's foreign minister says Tehran not enriching uranium",
+      "link": "https://www.dw.com/en/iran-s-foreign-minister-says-tehran-not-enriching-uranium/a-74768442?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 16 Nov 2025 19:41:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Wiceminister MSWiA o uszkodzonych torach na Mazowszu. \"Sytuacja jest bardzo poważna\"",
+      "link": "https://wiadomosci.onet.pl/warszawa/wiceminister-mswia-o-uszkodzonych-torach-na-mazowszu-sytuacja-jest-bardzo-powazna/g8m261s",
+      "pubDate": "Sun, 16 Nov 2025 19:40:32 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tragiczny wypadek na torach. Poważne utrudnienia na Śląsku",
+      "link": "https://wiadomosci.onet.pl/slask/tragedia-na-torach-pociagi-nie-kursuja-na-trasie-bielsko-biala-katowice/kx2zn8r",
+      "pubDate": "Sun, 16 Nov 2025 19:38:42 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Ukraine: Kyiv urges allies to help fund its drone production",
       "link": "https://www.dw.com/en/ukraine-kyiv-urges-allies-to-help-fund-its-drone-production/live-74763231?maca=en-rss-en-all-1573-xml-mrss",
@@ -15345,6 +15375,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -20871,6 +20925,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21049,6 +21127,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -34220,6 +34322,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76165,60 +76291,6 @@
       "link": "https://tvn24.pl/biznes/tech/10-dochodow-facebooka-i-instagrama-od-oszustow-st8740681?source=rss",
       "pubDate": "Fri, 07 Nov 2025 11:02:07 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Żyje w niej ponad 100 tysięcy pająków. Odkryto ogromną sieć",
-      "link": "https://tvn24.pl/tvnmeteo/ciekawostki/grecja-albania-ogromna-siec-w-jaskini-zyje-w-niej-ponad-100-tysiecy-pajakow-st8740619?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:01:46 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Europe's NewAthena telescope to detect supermassive black holes at the edge of the universe",
-      "link": "http://www.euronews.com/next/2025/11/07/europes-newathena-telescope-to-detect-supermassive-black-holes-at-the-edge-of-the-universe",
-      "pubDate": "Fri, 07 Nov 2025 12:00:44 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Democrats score wins and flip seats to seize momentum for US midterms",
-      "link": "https://www.theguardian.com/us-news/2025/nov/07/democrats-state-local-elections",
-      "pubDate": "Fri, 07 Nov 2025 11:00:39 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Readers on Zohran Mamdani’s victory: ‘It was a collective exhale’",
-      "link": "https://www.theguardian.com/us-news/2025/nov/07/readers-zohran-mamdani-win",
-      "pubDate": "Fri, 07 Nov 2025 11:00:39 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Over 100 US leaders to attend Cop30 climate summit as Trump stays away",
-      "link": "https://www.theguardian.com/environment/2025/nov/07/cop30-climate-trump-us-officials",
-      "pubDate": "Fri, 07 Nov 2025 11:00:38 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "WhatsApp z prawdziwą bombą. Teraz porozmawiasz z każdym",
-      "link": "https://antyweb.pl/whatsapp-z-prawdziwa-bomba-teraz-porozmawiasz-z-kazdym",
-      "pubDate": "Fri, 07 Nov 2025 11:00:22 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Latest news bulletin | November 7th, 2025 – Midday",
-      "link": "http://www.euronews.com/video/2025/11/07/latest-news-bulletin-november-7th-2025-midday",
-      "pubDate": "Fri, 07 Nov 2025 12:00:16 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Co czeka Ziobrę, jeśli straci immunitet? \"Śledczy już się szykują\"",
-      "link": "https://www.rmf24.pl/polityka/news-co-czeka-ziobre-jesli-straci-immunitet-sledczy-juz-sie-szyku,nId,8038663",
-      "pubDate": "Fri, 07 Nov 2025 12:00:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "PiS na wojnie bez końca z Braunem i Konfederacją, Marsz Niepodległości sprawdzi kondycję prawicy",
-      "link": "https://www.rp.pl/polityka/art43303971-pis-na-wojnie-bez-konca-z-braunem-i-konfederacja-marsz-niepodleglosci-sprawdzi-kondycje-prawicy",
-      "pubDate": "Fri, 07 Nov 2025 12:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
