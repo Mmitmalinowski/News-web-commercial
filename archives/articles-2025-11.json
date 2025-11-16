@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T22:35:37.525Z",
+  "generatedAt": "2025-11-16T22:46:14.899Z",
   "items": [
+    {
+      "title": "MSZ Niemiec zabiera głos w sprawie oburzającej aukcji dokumentów z Holokaustu. \"Absolutnie niedopuszczalne\"",
+      "link": "https://wiadomosci.onet.pl/swiat/johann-wadephul-o-aukcji-dokumentow-z-holokaustu-odrazajace/f0qmv3y",
+      "pubDate": "Sun, 16 Nov 2025 22:35:07 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Shabana Mahmood warns Labour MPs ‘dark forces are stirring up anger’ over migration",
+      "link": "https://www.theguardian.com/world/2025/nov/16/shabana-mahmood-warns-labour-mps-dark-forces-are-stirring-up-anger-over-migration",
+      "pubDate": "Sun, 16 Nov 2025 22:30:43 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Man held on suspicion of murder after 21-year-old woman found dead in Welsh boatyard",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/16/man-held-on-suspicion-of-after-21-year-old-woman-found-dead-in-wales-boat-yard",
+      "pubDate": "Sun, 16 Nov 2025 22:25:53 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "\"Bezprecedensowy kryzys\". Wstrząsające dane z Ukrainy",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-bezprecedensowy-kryzys-wstrzasajace-dane-z-ukrainy,nId,22454718",
@@ -15867,6 +15885,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -21681,6 +21723,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21859,6 +21925,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -35318,6 +35408,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77041,48 +77155,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/to-on-postawil-26-zarzutow-ziobrze-tym-wczesniej-zajmowal-sie-piotr-wozniak/ns6ynll",
       "pubDate": "Fri, 07 Nov 2025 11:54:54 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "NBP przedstawia nowe prognozy. Takiej sytuacji z inflacją nie było od lat",
-      "link": "https://businessinsider.com.pl/gospodarka/nbp-przedstawia-najnowsza-projekcje-takiej-sytuacji-z-inflacja-nie-bylo-od-lat/r7fzrx8",
-      "pubDate": "Fri, 07 Nov 2025 11:54:49 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Alert zorzowy nad Polską. Wieczorem spójrz w niebo",
-      "link": "https://geekweek.interia.pl/nauka/news-alert-zorzowy-nad-polska-wieczorem-spojrz-w-niebo,nId,22452241",
-      "pubDate": "Fri, 07 Nov 2025 11:53:09 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Sztorm nie zatrzymał ekipy. Po roku udało się podnieść holownik",
-      "link": "https://tech.wp.pl/s/portalstoczniowy-pl/sztorm-nie-zatrzymal-ekipy-udalo-sie-podniesc-holownik-z-perkins-cove,7218384277039233a",
-      "pubDate": "Fri, 07 Nov 2025 12:53:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Policjanci zostali wezwani do domowej awantury. 65-latek zaczął do nich strzelać",
-      "link": "https://tvn24.pl/olsztyn/kolodziejowy-grad-65-latek-zaczal-strzelac-do-interweniujacych-policjantow-st8740948?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:53:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "North Korea fires ballistic missile towards Sea of Japan",
-      "link": "https://www.dw.com/en/north-korea-fires-ballistic-missile-towards-sea-of-japan/a-74652682?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 7 Nov 2025 11:52:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Marsz Niepodległości 2025. Godzina i miejsce rozpoczęcia, trasa, harmonogram",
-      "link": "https://wiadomosci.onet.pl/kraj/marsz-niepodleglosci-2025-jaka-trasa-przejda-uczestnicy-zgromadzenia/bsjet4h",
-      "pubDate": "Fri, 07 Nov 2025 11:50:46 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Park Akcji \"Burza\" walczy o tytuł najlepszego zielonego projektu Europy",
-      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-park-akcji-burza-w-kolejnym-prestizowym-konkursie-st8740871?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:50:45 GMT",
-      "source": "TVN24"
     }
   ]
 }
