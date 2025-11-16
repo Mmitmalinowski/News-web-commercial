@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T18:36:14.700Z",
+  "generatedAt": "2025-11-16T18:55:04.832Z",
   "items": [
+    {
+      "title": "Koniec prac, od poniedziałku pociągi metra na całej trasie",
+      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-koniec-prac-od-poniedzialku-pociagi-metra-na-calej-trasie-st8755106?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 18:37:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nie chcieli kupić Google, zignorowali iPhone’a. Oto błędy warte miliardy dolarów",
+      "link": "https://android.com.pl/tech/990905-bledy-porazki-firmy-yahoo-google-kodak/",
+      "pubDate": "Sun, 16 Nov 2025 18:36:00 +0000",
+      "source": "Android.com.pl"
+    },
     {
       "title": "Jerzy Haszczyński: Kto służy Putinowi? Ryzykowny atak ambasadora Niemiec",
       "link": "https://www.rp.pl/komentarze/art43346211-jerzy-haszczynski-kto-sluzy-putinowi-ryzykowny-atak-ambasadora-niemiec",
@@ -786,6 +798,12 @@
       "title": "Maszynista zauważył, że tory zostały uszkodzone. Na miejscu pracują służby",
       "link": "https://www.rp.pl/spoleczenstwo/art43345811-maszynista-zauwazyl-ze-tory-zostaly-uszkodzone-na-miejscu-pracuja-sluzby",
       "pubDate": "Sun, 16 Nov 2025 15:37:08 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Maszynista zauważył, że tory zostały uszkodzone. Incydent skomentował premier Donald Tusk",
+      "link": "https://www.rp.pl/spoleczenstwo/art43345811-maszynista-zauwazyl-ze-tory-zostaly-uszkodzone-incydent-skomentowal-premier-donald-tusk",
+      "pubDate": "Sun, 16 Nov 2025 15:37:00 +0100",
       "source": "Rzeczpospolita"
     },
     {
@@ -15063,6 +15081,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -20469,6 +20511,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -20647,6 +20713,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -33698,6 +33788,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75817,48 +75931,6 @@
       "link": "http://www.euronews.com/culture/2025/11/07/extra-time-needed-grand-theft-auto-6-delayed-again-as-rockstar-games-upsets-fans",
       "pubDate": "Fri, 07 Nov 2025 11:31:37 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Elon Musk wyciąga rękę do Intela. W planach budowa \"terafabryki\" chipów AI w Tesli",
-      "link": "https://businessinsider.com.pl/biznes/elon-musk-wyciaga-reke-do-intela-w-planach-budowa-terafabryki-chipow-ai-w-tesli/72r3cnh",
-      "pubDate": "Fri, 07 Nov 2025 10:31:34 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "GTA VI opóźnione. Jest nowa data premiery ",
-      "link": "https://tvn24.pl/biznes/tech/gta-vi-opoznione-jest-nowa-data-premiery-st8740768?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 10:31:23 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Eksplozja w meczecie podczas modlitwy. Ponad 50 rannych",
-      "link": "https://tvn24.pl/swiat/indonezja-dzakarta-ponad-50-rannych-po-eksplozji-w-meczecie-st8740641?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 10:31:12 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "What we know about China's first domestically made aircraft carrier, the Fujian",
-      "link": "http://www.euronews.com/2025/11/07/what-we-know-about-chinas-first-domestically-made-aircraft-carrier-the-fujian",
-      "pubDate": "Fri, 07 Nov 2025 11:29:36 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Przewoźnicy powrócili do zakupów taboru",
-      "link": "https://logistyka.rp.pl/drogowy/art43304231-przewoznicy-powrocili-do-zakupow-taboru",
-      "pubDate": "Fri, 07 Nov 2025 11:29:17 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wybory parlamentarne w Holandii. Są oficjalne wyniki",
-      "link": "https://wiadomosci.onet.pl/swiat/sa-wyniki-wyborow-parlamentarnych-w-holandii-zwyciezyla-partia-demokraci-66/we6lbwc",
-      "pubDate": "Fri, 07 Nov 2025 10:28:10 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Pełnowartościowa aplikacja Meta AI dostępna (w końcu) w Polsce. Zrobisz w niej cuda",
-      "link": "https://www.tabletowo.pl/pelnowartosciowa-aplikacja-meta-ai-dostepna-w-polsce/",
-      "pubDate": "Fri, 07 Nov 2025 10:27:32 +0000",
-      "source": "Tabletowo"
     }
   ]
 }
