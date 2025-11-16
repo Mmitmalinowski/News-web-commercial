@@ -1,12 +1,60 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T11:25:57.908Z",
+  "generatedAt": "2025-11-16T11:37:04.798Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Oburzająca aukcja w Niemczech. Pod młotek mają trafić pamiątki po ofiarach Holokaustu",
+      "link": "https://www.rp.pl/spoleczenstwo/art43344951-oburzajaca-aukcja-w-niemczech-pod-mlotek-maja-trafic-pamiatki-po-ofiarach-holokaustu",
+      "pubDate": "Sun, 16 Nov 2025 12:34:26 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Liczba Polaków spada, jak zmienić trend? Ekspertka wskazała ważny czynnik",
+      "link": "https://wydarzenia.interia.pl/kraj/news-liczba-polakow-spada-jak-zmienic-trend-ekspertka-wskazala-wa,nId,22454233",
+      "pubDate": "Sun, 16 Nov 2025 11:33:40 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Spotkanie Trumpa i Putina \"odłożone na jakiś czas\". Uszakow o \"dobrym szlaku\"",
+      "link": "https://tvn24.pl/swiat/spotkanie-donalda-trumpa-i-wladimira-putina-odlozone-na-jakis-czas-doradca-przywodcy-rosji-komentuje-st8754626?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 11:32:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Stworzył własny wyświetlacz. Sąsiedzi już korzystają",
+      "link": "https://tech.wp.pl/stworzyl-wlasny-wyswietlacz-sasiedzi-juz-korzystaja,7221709375568832a",
+      "pubDate": "Sun, 16 Nov 2025 12:30:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Prezydent Finlandii: Europa potrzebuje \"sisu\"",
+      "link": "https://tvn24.pl/swiat/prezydent-finlandii-alexander-stubb-o-zawieszeniu-broni-na-ukrainie-malo-prawdopodobne-przed-wiosna-st8754583?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 11:29:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ciężarówki Coca-Coli wyruszają w Polskę. Odwiedzą 7 miast",
+      "link": "https://www.wirtualnemedia.pl/ciezarowki-coca-coli-wyruszaja-w-polske-odwiedza-7-miast,7221732240534464a",
+      "pubDate": "Sun, 16 Nov 2025 12:28:35 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Szef MSZ Izraela grzmi o \"terrorystycznej\" Palestynie. Na horyzoncie głosowanie nad planem Donalda Trumpa",
+      "link": "https://wiadomosci.onet.pl/swiat/izrael-grzmi-o-terrorystycznej-palestynie-na-horyzoncie-glosowanie-nad-planem-trumpa/qr3vhlx",
+      "pubDate": "Sun, 16 Nov 2025 11:28:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Iran ingeruje w pogodę. Groźba ewakuacji stolicy",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-iran-ingeruje-w-pogode-grozba-ewakuacji-stolicy,nId,8041039",
+      "pubDate": "Sun, 16 Nov 2025 12:27:01 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Łukaszenko znów mydli Zachodowi oczy. To część planu Putina. \"Białoruś wchłonięta przez Rosję\"",
@@ -12945,6 +12993,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -17727,6 +17799,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -17905,6 +18001,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -30332,6 +30452,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73915,78 +74059,6 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-bolesny-cios-dla-rosji-straca-eksportowy-hit-i-waznego-sojus,nId,22451549",
       "pubDate": "Fri, 07 Nov 2025 06:00:02 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Belgium to strengthen airspace security following multiple drones incursions",
-      "link": "http://www.euronews.com/2025/11/07/belgium-to-strengthen-airspace-security-following-multiple-drones-incursions",
-      "pubDate": "Fri, 07 Nov 2025 07:00:02 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Biznes potrzebuje imigrantów, Shein pod ostrzałem Francji, Trump pomnaża majątek",
-      "link": "https://www.rp.pl/biznes/art43303031-biznes-potrzebuje-imigrantow-shein-pod-ostrzalem-francji-trump-pomnaza-majatek",
-      "pubDate": "Fri, 07 Nov 2025 07:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Moment krytyczny. O tyle zwiększy się średnia temperatura",
-      "link": "https://tech.wp.pl/moment-krytyczny-o-tyle-zwiekszy-sie-srednia-temperatura,7218917475302176a",
-      "pubDate": "Fri, 07 Nov 2025 07:00:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Wielkie zwycięstwo Trumpa w Sądzie Najwyższym. Koniec z opcją \"X\" dla Amerykanów",
-      "link": "https://www.bankier.pl/wiadomosc/Wielkie-zwyciestwo-Trumpa-w-Sadzie-Najwyzszym-Koniec-z-opcja-X-dla-Amerykanow-9036341.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 07:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Podejrzana paczka w amerykańskiej bazie wojskowej",
-      "link": "https://tvn24.pl/swiat/usa-podejrzana-paczka-w-bazie-wojskowej-z-bialym-proszkiem-sa-poszkodowani-st8740344?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 05:59:51 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Sąd Najwyższy blokuje prokuratorów w postępowaniach kasacyjnych",
-      "link": "https://wiadomosci.onet.pl/kraj/sad-najwyzszy-blokuje-prokuratorow-w-postepowaniach-kasacyjnych/hebbfy1",
-      "pubDate": "Fri, 07 Nov 2025 05:59:41 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Potężne pieniądze dla Muska. Są warunki",
-      "link": "https://tvn24.pl/biznes/tech/potezne-pieniadze-dla-elona-muska-sa-warunki-st8740373?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 05:59:36 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Czy wiesz, jak poprawnie wywiesić flagę? Sprawdź! Za te błędy możesz się wstydzić przed sąsiadami",
-      "link": "https://www.rmf24.pl/fakty/polska/news-czy-wiesz-jak-poprawnie-wywiesic-flage-sprawdz-za-te-bledy-m,nId,8037019",
-      "pubDate": "Fri, 07 Nov 2025 06:59:01 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "REM: Żakowski naruszył zasady etyki, nazywając lekarzy \"zabójcami\". \"Wzrusza mnie wrażliwość Rady\"",
-      "link": "http://www.press.pl/tresc/90189,rem_-Zakowski-naruszyl-zasady-etyki_-nazywajac-lekarzy-_zabojcami__-_wzrusza-mnie-wrazliwosc-rady_?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 06:56:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Flights delays at Delhi airport over 'technical issue'",
-      "link": "https://www.dw.com/en/flights-delays-at-delhi-airport-over-technical-issue/a-74652132?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 7 Nov 2025 05:55:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Flights delayed at Delhi airport over 'technical issue'",
-      "link": "https://www.dw.com/en/flights-delayed-at-delhi-airport-over-technical-issue/a-74652132?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 7 Nov 2025 05:55:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Paraliż komunikacyjny części Krakowa. Drugi dzień",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-paraliz-komunikacyjny-czesci-krakowa-drugi-dzien,nId,8038503",
-      "pubDate": "Fri, 07 Nov 2025 06:53:39 +0100",
-      "source": "RMF24"
     }
   ]
 }
