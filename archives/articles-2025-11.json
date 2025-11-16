@@ -1,12 +1,90 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T13:52:37.503Z",
+  "generatedAt": "2025-11-16T14:09:00.495Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Groźna sytuacja na kolei. Uszkodzone tory tuż przed nadjeżdżającym pociągiem",
+      "link": "https://wiadomosci.onet.pl/warszawa/grozna-sytuacja-na-kolei-uszkodzone-tory-tuz-przed-nadjezdzajacym-pociagiem/22qle37",
+      "pubDate": "Sun, 16 Nov 2025 14:06:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Stowarzyszenie mali bracia Ubogich zachęca: Podaruj Wigilię samotnym seniorom",
+      "link": "https://www.wirtualnemedia.pl/stowarzyszenie-mali-bracia-ubogich-zacheca-podaruj-wigilie-samotnym-seniorom,7222479414590400a",
+      "pubDate": "Sun, 16 Nov 2025 15:05:02 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Pokolenie \"Z\" będzie ostatnim pokoleniem śmiertelnym?",
+      "link": "https://wiadomosci.onet.pl/kraj/pokolenie-z-bedzie-ostatnim-pokoleniem-smiertelnym/d3vhr5n",
+      "pubDate": "Sun, 16 Nov 2025 14:02:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polacy ocenili kontrowersyjne decyzje prezydenta Karola Nawrockiego [SONDAŻ]",
+      "link": "https://businessinsider.com.pl/wiadomosci/polacy-ocenili-kontrowersyjne-decyzje-prezydenta-karola-nawrockiego-sondaz/73m3xxy",
+      "pubDate": "Sun, 16 Nov 2025 14:00:57 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Microsoft w ogniu krytyki. Szef: „wiemy, że mamy sporo do naprawienia”",
+      "link": "https://antyweb.pl/microsoft-w-ogniu-krytyki-szef-wiemy-ze-mamy-sporo-do-naprawienia",
+      "pubDate": "Sun, 16 Nov 2025 14:00:46 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Hannah Clarke murders: Queensland police made potentially critical mistakes, new evidence reveals",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/16/hannah-clarke-children-murder-qld-queensland-police",
+      "pubDate": "Sun, 16 Nov 2025 14:00:39 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Debt collecting giant pursued 200,000 debts from Victorians while allegedly banned from operating in state",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/17/debt-collecting-giant-pursued-200000-debts-from-victorians-while-allegedly-banned-from-operating-in-state",
+      "pubDate": "Sun, 16 Nov 2025 14:00:37 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "The banality of evil: how Epstein’s powerful friends normalised him",
+      "link": "https://www.theguardian.com/us-news/2025/nov/16/jeffrey-epstein-powerful-friends",
+      "pubDate": "Sun, 16 Nov 2025 14:00:36 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Gąbka na CO₂. Polimer z UW zamienia cieplarniany gaz w surowiec",
+      "link": "https://www.rp.pl/nauka/art43335291-gabka-na-co2-polimer-z-uw-zamienia-cieplarniany-gaz-w-surowiec",
+      "pubDate": "Sun, 16 Nov 2025 15:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Uwaga kierowcy. Utrudnienia na zakopiance związane z budową węzła Myślenice",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-uwaga-kierowcy-utrudnienia-na-zakopiance-zwiazane-z-budowa-w,nId,8041047",
+      "pubDate": "Sun, 16 Nov 2025 14:57:46 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Gawkowski o Nawrockim: szuka wszędzie wojny ",
+      "link": "https://tvn24.pl/polska/wicepremier-krzysztof-gawkowski-podsumowal-100-dni-karola-nawrockiego-szuka-wszedzie-wojny-st8754899?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 13:54:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Śmierć ojca Zbigniewa Ziobry. Sprawa stanęła w miejscu",
+      "link": "https://wiadomosci.onet.pl/kraj/smierc-ojca-zbigniewa-ziobry-ogromne-koszty-prowadzenia-sprawy/6dc3exd",
+      "pubDate": "Sun, 16 Nov 2025 13:53:02 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Storm Claudia clean-up begins in UK villages Ewyas Harold and Monmouth after flooding",
+      "link": "http://www.euronews.com/video/2025/11/16/storm-claudia-clean-up-begins-in-uk-villages-ewyas-harold-and-monmouth-after-flooding",
+      "pubDate": "Sun, 16 Nov 2025 14:52:06 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Naukowcy zaobserwowali taniec atomów. Światło zmienia materiały kwantowe nie do poznania",
@@ -13689,6 +13767,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -18663,6 +18765,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -18841,6 +18967,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -31460,6 +31610,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74461,108 +74635,6 @@
       "link": "https://antyweb.pl/elon-musk-tworzy-historie-na-nowo-to-sie-w-glowie-nie-miesci",
       "pubDate": "Fri, 07 Nov 2025 07:33:15 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Jarosław Kaczyński wysłał sygnał Zbigniewowi Ziobrze? \"Tajemnica poliszynela\"",
-      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-wyslal-sygnal-zbigniewowi-ziobrze-tajemnica-poliszynela/kxzm5pl",
-      "pubDate": "Fri, 07 Nov 2025 07:32:17 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kopali w twarz, zostawili w samej bieliźnie. Najmłodszy ma 16 lat",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-kopali-w-twarz-zostawili-w-samej-bieliznie-najmlodszy-ma-16-,nId,8038519",
-      "pubDate": "Fri, 07 Nov 2025 08:31:36 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Czy prezydent powinien mieć prawo łaski? [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/prezydent-dalej-powinien-miec-krolewski-przywilej-oto-co-mysla-o-nim-polacy-sondaz/st93ex8",
-      "pubDate": "Fri, 07 Nov 2025 07:31:15 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Alior przekonuje, że należy wam się 1000 zł. Rusza nowa promocja",
-      "link": "https://www.bankier.pl/wiadomosc/Alior-przekonuje-ze-nalezy-wam-sie-1000-zl-Rusza-nowa-promocja-9035967.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 08:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Widmo grupowych zwolnień. LG Electronics pod Wrocławiem wygasza produkcję",
-      "link": "https://www.rmf24.pl/regiony/wroclaw/news-widmo-grupowych-zwolnien-lg-electronics-pod-wroclawiem-wygas,nId,8038475",
-      "pubDate": "Fri, 07 Nov 2025 08:28:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Desperacki krok akcjonariuszy. Elon Musk dostał to, czego chciał najbardziej",
-      "link": "https://android.com.pl/tech/989258-elon-musk-dostal-czego-chcial-tesla/",
-      "pubDate": "Fri, 07 Nov 2025 07:27:54 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Vietnam, Philippines reel from deadly Typhoon Kalmaegi",
-      "link": "https://www.dw.com/en/vietnam-philippines-reel-from-deadly-typhoon-kalmaegi/a-74652594?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 7 Nov 2025 07:26:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Nawet miliardy złotych na nowy system antydronowy dla polskiej armii",
-      "link": "https://www.bankier.pl/wiadomosc/Nawet-miliardy-zlotych-na-nowy-system-antydronowy-dla-polskiej-armii-9036432.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 08:23:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Brutalne pobicie w Gdyni na tle rasowym. Napastnik zaatakował też miejskiego radnego. \"Jesteś Polakiem?\"",
-      "link": "https://wiadomosci.onet.pl/kraj/brutalne-pobicie-w-gdyni-na-tle-rasowym-napastnik-zaatakowal-miejskiego-radnego/j7lpvjc",
-      "pubDate": "Fri, 07 Nov 2025 07:22:53 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kiedy Putin umrze, Rosja będzie należeć do nich",
-      "link": "https://www.rp.pl/plus-minus/art43298001-kiedy-putin-umrze-rosja-bedzie-nalezec-do-nich",
-      "pubDate": "Fri, 07 Nov 2025 08:20:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Pocisk przeleciał 700 kilometrów. Reżim Kima znów testuje rakiety ",
-      "link": "https://tvn24.pl/swiat/korea-polnocna-kolejny-test-rakiety-pocisk-przelecial-700-kilometrow-st8740399?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:18:37 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Cyniczna gra mocarstw w Afryce spycha wielkie państwo w przepaść. Kryzys uderzy rykoszetem w Europę [ANALIZA]",
-      "link": "https://wiadomosci.onet.pl/swiat/cyniczna-gra-mocarstw-w-afryce-spycha-wielkie-panstwo-w-przepasc-kryzys-uderzy/8z5scze",
-      "pubDate": "Fri, 07 Nov 2025 07:17:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zakazane w Chinach, modne w Polsce. Jednorazowe e-papierosy trafiają w ręce dzieci",
-      "link": "https://android.com.pl/tech/989254-chinskie-e-papierosy-w-polsce/",
-      "pubDate": "Fri, 07 Nov 2025 07:17:48 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Warto zostać wikingiem. Teraz nawet bardziej",
-      "link": "https://www.tabletowo.pl/warto-zostac-wikingiem-teraz-nawet-bardziej/",
-      "pubDate": "Fri, 07 Nov 2025 07:17:03 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Polskie Nevomo, DP World i Deendayal Port Authority zawarły umowę na wdrożenie technologii MagRail w Indiach",
-      "link": "https://mamstartup.pl/polskie-nevomo-dp-world-i-deendayal-port-authority-zawarly-umowe-ma-wdrozenie-technologii-magrail-w-indiach/",
-      "pubDate": "Fri, 07 Nov 2025 07:16:00 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Netflix testuje cierpliwość widzów. Kontynuacja wielkiego hitu dopiero w 2029",
-      "link": "https://antyweb.pl/netflix-testuje-cierpliwosc-widzow-kontynuacja-hitu-dopiero-w-2029",
-      "pubDate": "Fri, 07 Nov 2025 07:15:55 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Karolina Bornińska szefową video hub w Burda Media Polska",
-      "link": "http://www.press.pl/tresc/90198,karolina-borninska-szefowa-video-hub-w-burda-media-polska?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 08:13:00 +0100",
-      "source": "Press.pl"
     }
   ]
 }
