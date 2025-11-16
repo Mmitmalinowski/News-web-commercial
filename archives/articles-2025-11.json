@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T05:11:22.615Z",
+  "generatedAt": "2025-11-16T05:32:36.448Z",
   "items": [
+    {
+      "title": "Prześmiewcza \"nagroda\" dla USA. Za nieobecność",
+      "link": "https://tvn24.pl/biznes/ze-swiata/brazylia-skamielina-roku-usa-wyroznione-przesmiewcza-nagroda-st8754285?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 05:21:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Gen Z protests against Mexico president turn violent amid anger over mayor’s death",
+      "link": "https://www.theguardian.com/world/2025/nov/16/gen-z-protests-against-mexico-president-turn-violent-amid-anger-over-mayors-death",
+      "pubDate": "Sun, 16 Nov 2025 05:17:26 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kaczyński: Będziemy bronić Ziobry. Cała patriotyczna Polska byłaby w kajdankach",
+      "link": "https://www.rmf24.pl/polityka/news-kaczynski-bedziemy-bronic-ziobry-cala-patriotyczna-polska-by,nId,8041009",
+      "pubDate": "Sun, 16 Nov 2025 06:13:06 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Od stycznia podatek w górę. Najwyższa maksymalna stawka w historii",
       "link": "https://biznes.interia.pl/finanse/news-podatek-od-psa-takie-sa-stawki-w-polsce,nId,22451701",
@@ -11013,6 +11031,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -15219,6 +15261,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -15397,6 +15463,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -27248,6 +27338,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72217,48 +72331,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/immunitet-zbigniewa-ziobry-sejmowa-komisja-podjela-decyzje/9c57r9w",
       "pubDate": "Thu, 06 Nov 2025 19:04:04 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Revealed: Qatar-linked intelligence operation targeted ICC prosecutor’s alleged victim",
-      "link": "https://www.theguardian.com/law/2025/nov/06/qatar-linked-intelligence-operation-targeted-icc-prosecutor-karim-khan-alleged-victim",
-      "pubDate": "Thu, 06 Nov 2025 19:03:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rosyjska dyplomacja bez twarzy. Czy Putin odsuwa lojalnego sojusznika? Tajemnicza nieobecność Siergieja Ławrowa",
-      "link": "https://wiadomosci.onet.pl/swiat/rosyjska-dyplomacja-bez-twarzy-czy-putin-odsuwa-lojalnego-sojusznika-tajemnicza/m020tm8",
-      "pubDate": "Thu, 06 Nov 2025 19:03:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Immunitet Zbigniewa Ziobry. Komisja sejmowa zadecydowała",
-      "link": "https://wydarzenia.interia.pl/kraj/news-immunitet-zbigniewa-ziobry-komisja-sejmowa-zadecydowala,nId,22451899",
-      "pubDate": "Thu, 06 Nov 2025 19:03:00 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Ławrow popadł w niełaskę na Kremlu po nieudanej rozmowie z Rubio",
-      "link": "https://www.bankier.pl/wiadomosc/Moscow-Times-Lawrow-popadl-w-nielaske-na-Kremlu-po-nieudanej-rozmowie-z-Rubio-9036275.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 20:03:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "To nie był żart. Policjanci z Chojnowa dostali zgłoszenie o koniu na autostradzie",
-      "link": "https://wiadomosci.onet.pl/wroclaw/kon-na-autostradzie-a4-policjanci-z-chojnowa-w-akcji-ratunkowej/z19m5kd",
-      "pubDate": "Thu, 06 Nov 2025 19:02:33 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Spotify uruchamia „małe Wrapped”. Do aplikacji trafiła ciekawa funkcja",
-      "link": "https://android.com.pl/tech/989164-spotify-uruchamia-male-wrapped/",
-      "pubDate": "Thu, 06 Nov 2025 19:02:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "​Burzliwe posiedzenie komisji ws. immunitetu Ziobry. Jest decyzja",
-      "link": "https://www.rmf24.pl/fakty/polska/news-burzliwe-posiedzenie-komisji-ws-immunitetu-ziobry-jest-decyz,nId,8038455",
-      "pubDate": "Thu, 06 Nov 2025 20:01:08 +0100",
-      "source": "RMF24"
     }
   ]
 }
