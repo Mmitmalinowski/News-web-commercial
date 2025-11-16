@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T19:29:42.306Z",
+  "generatedAt": "2025-11-16T19:41:02.958Z",
   "items": [
+    {
+      "title": "Ukraine: Kyiv urges allies to help fund its drone production",
+      "link": "https://www.dw.com/en/ukraine-kyiv-urges-allies-to-help-fund-its-drone-production/live-74763231?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 16 Nov 2025 19:38:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Marcin Ochmański doradcą zarządu AMS SA",
+      "link": "https://www.wirtualnemedia.pl/marcin-ochmanski-doradca-zarzadu-ams-sa,7221844197165952a",
+      "pubDate": "Sun, 16 Nov 2025 20:34:15 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Roman Abramovich makes claim of ‘conspiracy’ against Jersey government",
+      "link": "https://www.theguardian.com/world/2025/nov/16/roman-abramovich-makes-claim-of-conspiracy-against-jersey-government",
+      "pubDate": "Sun, 16 Nov 2025 19:30:39 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Wielka Brytania. Wylała rzeka, rekordowa powódź nawiedziła miasto",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wielka-brytania-claudia-rekordowa-powodz-nawiedzila-miasto-mieszkancy-jednocza-sily-st8755053?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 19:25:05 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Gigant meblowy zapowiada zwolnienia grupowe. Związkowcy protestują",
       "link": "https://businessinsider.com.pl/biznes/zwolnienia-grupowe-w-black-red-white-zwiazkowcy-nie-akceptuja-decyzji/9nq76rw",
@@ -15297,6 +15321,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -20799,6 +20847,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -20977,6 +21049,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -34124,6 +34220,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76099,54 +76219,6 @@
       "link": "https://www.rp.pl/polityka/art43303971-pis-na-wojnie-bez-konca-z-braunem-i-konfederacja-marsz-niepodleglosci-sprawdzi-kondycje-prawicy",
       "pubDate": "Fri, 07 Nov 2025 12:00:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ikea ulepszy ci dom. I nie puści cię z torbami",
-      "link": "https://spidersweb.pl/2025/11/ikea-ulepszy-ci-dom-i-nie-pusci-cie-z-torbami.html",
-      "pubDate": "Fri, 07 Nov 2025 11:59:13 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Polka w Dolinie Krzemowej. „Idąc ulicą, od razu można rozpoznać osobę z Polski\"",
-      "link": "https://kobieta.rp.pl/wywiad/art43161441-polka-w-dolinie-krzemowej-idac-ulica-od-razu-mozna-rozpoznac-osobe-z-polski",
-      "pubDate": "Fri, 07 Nov 2025 11:57:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nie miała \"nic do zgłoszenia\", w jej bagażu znaleźli 40 kilogramów narkotyków",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/lotnisko-chopina-nie-miala-nic-do-zgloszenia-w-jej-bagazu-znalezli-40-kilogramow-narkotykow-st8740903?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 10:56:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Są wyniki kontroli w KOWR. Prokuratura wchodzi do gry",
-      "link": "https://businessinsider.com.pl/wiadomosci/sa-wyniki-kontroli-w-kowr-prokuratura-wchodzi-do-gry/q9nh7z2",
-      "pubDate": "Fri, 07 Nov 2025 10:56:43 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Są wyniki kontroli w KOWR. Prokuratura wchodzi do gry",
-      "link": "https://businessinsider.com.pl/prawo/sa-wyniki-kontroli-w-kowr-prokuratura-wchodzi-do-gry/gpjqs59",
-      "pubDate": "Fri, 07 Nov 2025 10:56:43 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Partyjny kolega apeluje do Telusa. \"Powinien przeprosić\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-partyjny-kolega-apeluje-do-telusa-powinien-przeprosic,nId,22452028",
-      "pubDate": "Fri, 07 Nov 2025 10:55:53 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Myślisz, że cztery dni to długi weekend? Zaplanuj wolne w grudniu i styczniu",
-      "link": "https://geekweek.interia.pl/lifestyle/news-myslisz-ze-cztery-dni-to-dlugi-weekend-zaplanuj-wolne-w-grud,nId,22452018",
-      "pubDate": "Fri, 07 Nov 2025 10:55:37 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Tradition, sustainability and 'pomalo': How Croatia is redefining what it means to travel slow",
-      "link": "http://www.euronews.com/travel/2025/11/07/tradition-sustainability-and-pomalo-how-croatia-is-redefining-what-it-means-to-travel-slow",
-      "pubDate": "Fri, 07 Nov 2025 11:55:24 +0100",
-      "source": "Euronews"
     }
   ]
 }
