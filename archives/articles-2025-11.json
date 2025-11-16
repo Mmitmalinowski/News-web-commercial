@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T21:38:00.550Z",
+  "generatedAt": "2025-11-16T21:47:28.898Z",
   "items": [
+    {
+      "title": "Zelenskyy signs LNG deal with Greece, the first EU country to adopt US energy agenda",
+      "link": "http://www.euronews.com/2025/11/16/zelenskyy-signs-lng-deal-with-greece-the-first-eu-country-to-adopt-us-energy-agenda",
+      "pubDate": "Sun, 16 Nov 2025 22:46:29 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Papież zabrał głos w sprawie konfliktu w Ukrainie. \"Nie możemy przyzwyczajać się do wojny\"",
+      "link": "https://wiadomosci.onet.pl/swiat/leon-xiv-apeluje-o-pokoj-w-ukrainie-nie-mozemy-przyzwyczajac-sie-do-wojny/s2m42se",
+      "pubDate": "Sun, 16 Nov 2025 21:40:02 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Uszodzony tor pod Garwolinem. Tusk „nie wyklucza” aktu dywersji",
       "link": "https://oko.press/na-zywo/na-zywo-relacja/uszodzony-tor-pod-garwolinem-tusk-nie-wyklucza-aktu-dywersji",
@@ -373,6 +385,12 @@
       "link": "https://tvn24.pl/polska/alina-makarczuk-wspolpracujaca-z-tvn24-dziennikarka-z-odznaczeniem-prezydenta-ukrainy-st8755085?source=rss",
       "pubDate": "Sun, 16 Nov 2025 18:11:29 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Federal agents launch immigration crackdown in city of Charlotte",
+      "link": "https://www.bbc.com/news/articles/cqx3n4r2g04o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 16 Nov 2025 18:10:10 GMT",
+      "source": "BBC News"
     },
     {
       "title": "PSL stawia na modernizację i inwestycje. Metro w 10 miastach pomoże im wejść do Sejmu?",
@@ -15723,6 +15741,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -21441,6 +21483,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21619,6 +21685,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -34982,6 +35072,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76753,48 +76867,6 @@
       "link": "https://cyberdefence24.pl/polityka-i-prawo/krzysztof-gawkowski-ukrocil-liste-pelnomocnikow-w-ministerstwie-cyfryzacji",
       "pubDate": "Fri, 07 Nov 2025 12:35:39 +0100",
       "source": "Cyberdefence24"
-    },
-    {
-      "title": "Nowoczesna technologia na polskim lotnisku. Przyda się podczas oczekiwania na lot",
-      "link": "https://www.tabletowo.pl/nowoczesna-technologia-na-polskim-lotnisku/",
-      "pubDate": "Fri, 07 Nov 2025 11:33:08 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Kolejna prowokacji Korei Północnej. Pocisk przeleciał 700 km",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-07/korea-polnocna-wystrzelila-rakiety-duze-napiecie-w-regionie/",
-      "pubDate": "Fri, 07 Nov 2025 12:33:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Heart damage in midlife could raise dementia risks later on, study warns",
-      "link": "http://www.euronews.com/health/2025/11/07/heart-damage-in-midlife-could-raise-dementia-risks-later-on-study-warns",
-      "pubDate": "Fri, 07 Nov 2025 12:31:34 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "\"Trump wrócił do języka Putina\". Dziennikarze o stylu amerykańskiego prezydenta w polityce międzynarodowej",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/strefy-wplywow-wedlug-trumpa-to-powrot-do-jezyka-putina/6twrt5h",
-      "pubDate": "Fri, 07 Nov 2025 11:31:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Orban leci do Waszyngtonu. \"Okaże się, ile warta jest przyjaźń Trumpa\"",
-      "link": "https://www.bankier.pl/wiadomosc/Orban-leci-do-Waszyngtonu-Okaze-sie-ile-warta-jest-przyjazn-Trumpa-9036623.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 12:31:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Gorzów znów staje się centrum biznesu. Zostało już tylko kilka wolnych miejsc na VII Gorzowskie Forum Gospodarcze",
-      "link": "https://wiadomosci.onet.pl/kraj/vii-gorzowskie-forum-gospodarcze-zostalo-tylko-kilka-wolnych-miejsc/zgy9dms",
-      "pubDate": "Fri, 07 Nov 2025 11:30:17 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ceny prądu niższe o 1/3? Prezydent kieruje do Sejmu projekt ustawy",
-      "link": "https://www.bankier.pl/wiadomosc/Ceny-pradu-nizsze-o-1-3-Prezydent-kieruje-do-Sejmu-projekt-ustawy-9036622.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 12:30:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
