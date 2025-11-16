@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T10:34:42.613Z",
+  "generatedAt": "2025-11-16T10:47:43.285Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "T. rex w swetrze podbija Londyn. Świąteczny sezon w Muzeum Historii Naturalnej",
+      "link": "https://www.rmf24.pl/ciekawostki/news-t-rex-w-swetrze-podbija-londyn-swiateczny-sezon-w-muzeum-his,nId,8041037",
+      "pubDate": "Sun, 16 Nov 2025 11:41:18 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Dobre wiadomości dla warszawiaków. Koniec utrudnień w metrze",
+      "link": "https://wiadomosci.onet.pl/warszawa/dobre-wiadomosci-dla-warszawiakow-koniec-utrudnien-w-metrze/4hlr4fd",
+      "pubDate": "Sun, 16 Nov 2025 10:40:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Afera korupcyjna w Ukrainie. Zełenski ogłasza zmiany kadrowe",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/afera-korupcyjna-w-ukrainie-zelenski-oglasza-zmiany-kadrowe",
+      "pubDate": "Sun, 16 Nov 2025 10:38:03 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Jak wyprawa do jaskini zmienia się w walkę o życie? Poznaj te historie",
+      "link": "https://geekweek.interia.pl/przyroda/news-jak-wyprawa-do-jaskini-zmienia-sie-w-walke-o-zycie-poznaj-te,nId,22453373",
+      "pubDate": "Sun, 16 Nov 2025 10:33:46 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Skandal w samolocie na Maltę. Polscy kibice trafili prosto do radiowozu",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-skandal-w-samolocie-na-malte-polscy-kibice-trafili-prosto-do,nId,8041036",
+      "pubDate": "Sun, 16 Nov 2025 11:33:11 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Ukraine: Kyiv working on prisoner exchange with Russia",
@@ -12627,6 +12657,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -17313,6 +17367,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -17491,6 +17569,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -29822,6 +29924,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73645,60 +73771,6 @@
       "link": "https://spidersweb.pl/2025/11/cieplej-o-1-5-stopnia-do-2035-onz-raport.html",
       "pubDate": "Fri, 07 Nov 2025 06:08:00 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Księżycowe skały na Ziemi. Potwierdzają wielką teorię",
-      "link": "https://spidersweb.pl/2025/11/ziemia-i-ksiezyc-wspolne-pochodzenie-sklad.html",
-      "pubDate": "Fri, 07 Nov 2025 06:06:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Orbán to visit White House to try to broker Trump-Putin summit for peace in Ukraine",
-      "link": "https://www.theguardian.com/world/2025/nov/07/orban-hungary-white-house-visit-trump",
-      "pubDate": "Fri, 07 Nov 2025 05:05:16 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pułkowa w korku. Burmistrz ma trzy propozycje, chce spotkania z Trzaskowskim",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/lomianki-korki-na-pulkowej-propozycje-burmistrza-chce-spotkania-z-prezydentem-trzaskowskim-st8739681?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 05:05:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jak Narodowe Centrum Kultury nie kupiło sobie siedziby. A pieniądze z dotacji poszły na TVP",
-      "link": "https://tvn24.pl/polska/klopoty-nck-nie-kupilo-nowej-siedziby-a-zwrocona-dotacja-poszla-na-tvp-st8730593?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 05:05:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "TVN z nowym programem twórców ślubnego hitu. Nakręcono go na egzotycznej wyspie [TYLKO U NAS]",
-      "link": "https://www.wirtualnemedia.pl/tvn-z-nowym-programem-tworcow-slubnego-hitu-nakrecono-go-na-egzotycznej-wyspie-tylko-u-nas,7218996512299840a",
-      "pubDate": "Fri, 07 Nov 2025 06:04:31 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Kurs JPY/PLN 07 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-japonskiego-dzisiaj-po-ile-jest-jen-japonski-7-listopada-2025-r/rr74q3c",
-      "pubDate": "Fri, 07 Nov 2025 05:03:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs EUR/PLN 07 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-7-listopada-2025-r/4k0392w",
-      "pubDate": "Fri, 07 Nov 2025 05:03:46 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs USD/PLN 07 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-amerykanskiego-dzisiaj-po-ile-jest-dolar-amerykanski-7-listopada-2025-r/jgjscct",
-      "pubDate": "Fri, 07 Nov 2025 05:03:40 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs GBP/PLN 07 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funtow-brytyjskich-dzisiaj-po-ile-jest-funt-brytyjski-7-listopada-2025-r/9q20v9v",
-      "pubDate": "Fri, 07 Nov 2025 05:03:26 GMT",
-      "source": "Business Insider"
     }
   ]
 }
