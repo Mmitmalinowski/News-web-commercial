@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T14:29:57.019Z",
+  "generatedAt": "2025-11-16T14:44:51.121Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
@@ -9,10 +9,40 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Czy język polski naprawdę jest najlepszy do promptowania? Prawda jest nieco inna",
+      "link": "https://android.com.pl/tech/991908-czy-jezyk-polski-naprawde-jest-najlepszy-do-promptowania/",
+      "pubDate": "Sun, 16 Nov 2025 14:44:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Maszynista zauważył, że tory zostały uszkodzone. Na miejscu pracują służby",
+      "link": "https://www.rp.pl/spoleczenstwo/art43345811-maszynista-zauwazyl-ze-tory-zostaly-uszkodzone-na-miejscu-pracuja-sluzby",
+      "pubDate": "Sun, 16 Nov 2025 15:37:08 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wysłali drony. Ukraina zaatakowała rafinerię na południu Rosji",
+      "link": "https://wiadomosci.onet.pl/swiat/ukraina-atakuje-w-glebi-rosji-drony-uderzyly-w-rafinerie/p9bbt03",
+      "pubDate": "Sun, 16 Nov 2025 14:28:32 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Pogoda na 16 dni: czeka nas wyraźne ochłodzenie",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-czeka-nas-wyrazne-ochlodzenie-prognoza-dlugoterminowa-kiedy-spadnie-snieg-st8754392?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 14:27:35 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Chile decides its future today in polarised presidential elections",
       "link": "http://www.euronews.com/2025/11/16/chile-decides-its-future-today-in-polarised-presidential-elections",
       "pubDate": "Sun, 16 Nov 2025 15:27:24 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "​Czy Władysław Kosiniak-Kamysz uratuje PSL? Zapytamy Marka Sawickiego",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-czy-wladyslaw-kosiniak-kamysz-uratuje-psl-zapytamy-marka-saw,nId,8041051",
+      "pubDate": "Sun, 16 Nov 2025 15:25:41 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Echa skandalicznej aukcji. Jest reakcja ambasadora Niemiec",
@@ -13863,6 +13893,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -18885,6 +18939,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -19063,6 +19141,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -31730,6 +31832,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74653,60 +74779,6 @@
       "link": "https://wiadomosci.onet.pl/krakow/rewolucja-pod-tatrami-ratownik-medyczny-bedzie-jezdzil-takze-na-motocyklu/mv6nzme",
       "pubDate": "Fri, 07 Nov 2025 07:56:34 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Chiński smok rzuca wyzwanie. \"Fujian\" ma być postrachem mórz",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-chinski-smok-rzuca-wyzwanie-fujian-ma-byc-postrachem-morz,nId,22451948",
-      "pubDate": "Fri, 07 Nov 2025 07:56:20 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Tak młodzi Rosjanie uczą się uwielbiać przemoc państwa",
-      "link": "https://www.rp.pl/plus-minus/art43298011-tak-mlodzi-rosjanie-ucza-sie-uwielbiac-przemoc-panstwa",
-      "pubDate": "Fri, 07 Nov 2025 08:55:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Chiński statek uchwycił obiekt międzygwiezdny, który przemierza nasz układ. Wyjątkowe zdjęcia 3l/ATLAS",
-      "link": "https://www.chip.pl/2025/11/3l-atlas-kometa-chinski-statek-tianwen-1",
-      "pubDate": "Fri, 07 Nov 2025 07:55:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Dobra wiadomość dla właścicieli składaków od Samsunga. Ważna aktualizacja w drodze",
-      "link": "https://android.com.pl/tech/989259-samsung-rozwija-one-ui-8-5/",
-      "pubDate": "Fri, 07 Nov 2025 07:54:55 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Precious antique Egyptian vase found in Pompeii 'street food' area",
-      "link": "http://www.euronews.com/culture/2025/11/07/precious-antique-egyptian-vase-found-in-pompeii-street-food-area",
-      "pubDate": "Fri, 07 Nov 2025 08:54:30 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Tropił neonazistów i losy spadku po Gudzowatym. Teraz wraca",
-      "link": "https://tvn24.pl/polska/sprawa-prokuratora-grzegorza-maslowskiego-jest-decyzja-sadu-st8736707?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:54:09 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zgłoszenia o spadającym obiekcie na Dolnym Śląsku. Akcja służb ",
-      "link": "https://tvn24.pl/wroclaw/dolny-slask-zgloszenia-o-spadajacym-niezidentyfikowanym-obiekcie-akcja-sluzb-st8740451?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 07:52:10 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Circus Defence łączy siły z BRAVE1. Ukraina pierwszym krajem z autonomiczną logistyką żywieniową",
-      "link": "https://mamstartup.pl/circus-defence-laczy-sily-z-brave1-ukraina-pierwszym-krajem-z-autonomiczna-logistyka-zywieniowa/",
-      "pubDate": "Fri, 07 Nov 2025 07:51:11 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "LPP zanotowało w III kw. wzrost przychodów o 23 proc. Sprzedaż LFL wzrosła o 4,3 proc.",
-      "link": "https://www.bankier.pl/wiadomosc/LPP-zanotowalo-w-III-kw-wzrost-przychodow-o-23-proc-sprzedaz-LFL-wzrosla-o-4-3-proc-9036452.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 08:50:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
