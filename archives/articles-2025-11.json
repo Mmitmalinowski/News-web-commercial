@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T19:50:48.837Z",
+  "generatedAt": "2025-11-16T20:02:07.823Z",
   "items": [
+    {
+      "title": "Immigration crackdown in Charlotte:  Man films car window being smashed by agents",
+      "link": "http://www.euronews.com/video/2025/11/16/immigration-crackdown-in-charlotte-man-films-car-window-being-smashed-by-agents",
+      "pubDate": "Sun, 16 Nov 2025 20:59:38 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Ukryty uskok w kalderze śmiercionośnego wulkanu. Ostatnia erupcja miała fatalne konsekwencje",
+      "link": "https://www.chip.pl/2025/11/wulkan-campi-flegrei-ukryty-uskok-wlochy",
+      "pubDate": "Sun, 16 Nov 2025 19:55:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Podejmiesz wyzwanie? Ten trudny QUIZ działa lepiej niż kawa!",
+      "link": "https://geekweek.interia.pl/quizy/news-podejmiesz-wyzwanie-ten-trudny-quiz-dziala-lepiej-niz-kawa,nId,22454117",
+      "pubDate": "Sun, 16 Nov 2025 19:50:03 GMT",
+      "source": "GeekWeek"
+    },
     {
       "title": "Tragedia w kopalni kobaltu. Zginęło kilkadziesiąt osób",
       "link": "https://www.rmf24.pl/fakty/swiat/news-tragedia-w-kopalni-kobaltu-zginelo-kilkadziesiat-osob,nId,8041066",
@@ -15399,6 +15417,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -20949,6 +20991,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21127,6 +21193,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -34322,6 +34412,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76249,48 +76363,6 @@
       "link": "https://www.dw.com/en/germany-news-german-exports-rebound-as-us-shipments-surge/live-74655540?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 7 Nov 2025 11:05:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Flight cancellations take effect amid government shutdown – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2025/nov/07/donald-trump-government-shutdown-air-traffic-flights-snap-viktor-orban-hungary-ukraine-us-politics-live-news-updates",
-      "pubDate": "Fri, 07 Nov 2025 11:04:49 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Sędzia jechała po alkoholu, są konsekwencje",
-      "link": "https://tvn24.pl/lublin/zamosc-pijana-uczestniczka-kolizji-pijana-uczestniczka-kolizji-to-sedzia-uslyszala-juz-zarzuty-st8740783?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:04:30 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Szok we Wrocławiu - głosował nawet \"200-latek\". Urząd zawiadamia prokuraturę",
-      "link": "https://businessinsider.com.pl/wiadomosci/wroclawski-budzet-obywatelski-prokuratura-bada-glosowanie-nawet-200-latek-figuruje-w/jgltymn",
-      "pubDate": "Fri, 07 Nov 2025 11:04:27 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kenya demands safety for its citizens after Tanzania's post-poll crackdown",
-      "link": "https://www.bbc.com/news/articles/ckgz2vzlyzpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:03:40 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Metale ziem rzadkich uwolnione. Chiny realizują porozumienie z Donaldem Trumpem",
-      "link": "https://businessinsider.com.pl/gospodarka/metale-ziem-rzadkich-uwolnione-chiny-realizuja-porozumienie-z-donaldem-trumpem/wr5pmfx",
-      "pubDate": "Fri, 07 Nov 2025 11:03:17 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "China’s latest aircraft carrier enters service to extend reach into high seas",
-      "link": "https://www.theguardian.com/world/2025/nov/07/chinas-latest-aircraft-carrier-enters-service-to-extend-reach-into-high-seas",
-      "pubDate": "Fri, 07 Nov 2025 11:02:17 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "15 miliardów oszukańczych reklam dziennie. Meta zarabia na nich fortunę",
-      "link": "https://tvn24.pl/biznes/tech/10-dochodow-facebooka-i-instagrama-od-oszustow-st8740681?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:02:07 GMT",
-      "source": "TVN24"
     }
   ]
 }
