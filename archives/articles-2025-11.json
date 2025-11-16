@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T07:31:18.943Z",
+  "generatedAt": "2025-11-16T07:41:41.192Z",
   "items": [
+    {
+      "title": "L4 z kodem \"C\". Mało kto wie, co to znaczy",
+      "link": "https://biznes.interia.pl/praca/news-l4-z-kodem-c-malo-kto-wie-co-to-znaczy,nId,22451338",
+      "pubDate": "Sun, 16 Nov 2025 07:40:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Viktor Orban rusza w \"antywojenny objazd\" Węgier. Największy rywal nie ustępuje",
+      "link": "https://wiadomosci.onet.pl/swiat/viktor-orban-rusza-w-antywojenny-objazd-wegier-najwiekszy-rywal-nie-ustepuje/dt590p8",
+      "pubDate": "Sun, 16 Nov 2025 07:39:52 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tyle osób dziennie ginie na polskich drogach",
+      "link": "https://www.rmf24.pl/fakty/polska/news-tyle-osob-dziennie-ginie-na-polskich-drogach,nId,8041022",
+      "pubDate": "Sun, 16 Nov 2025 08:38:28 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Mróz w Polsce. Gdzie było najzimniej?",
+      "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-gdzie-bylo-najzimniej-st8754338?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 07:37:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rośnie liczba \"upośledzonych poznawczo\". Winny nadmiar technologii?",
+      "link": "https://www.wirtualnemedia.pl/rosnie-liczba-uposledzonych-poznawczo-winny-nadmiar-technologii,7221067248643008a",
+      "pubDate": "Sun, 16 Nov 2025 08:34:53 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Judo: Spectacular Middleweight Action in Zagreb",
+      "link": "http://www.euronews.com/2025/11/16/judo-spectacular-middleweight-action-in-zagreb",
+      "pubDate": "Sun, 16 Nov 2025 08:33:33 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Kary dla stacji Canal+ potwierdzone. Powodem dezinformacja klimatyczna i imigranci",
+      "link": "https://www.wirtualnemedia.pl/canal-plus-cnews-grzywna-kara-rada-stanu-sad,7221190190050240a",
+      "pubDate": "Sun, 16 Nov 2025 08:31:50 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Białoruś reaguje na decyzję Polski. MSZ apeluje do sąsiadów",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-bialorus-reaguje-na-decyzje-polski-msz-apeluje-do-sasiadow,nId,22454574",
+      "pubDate": "Sun, 16 Nov 2025 07:28:46 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Former MP from Katter’s Australian party claims victory in Townsville mayoral race after swing against former leader",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/16/former-mp-from-katters-australian-party-claims-victory-in-townsville-mayoral-race-after-swing-against-former-leader",
+      "pubDate": "Sun, 16 Nov 2025 07:27:55 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Ostrzeżenia IMGW dla 5 województw. Marznące opady i gołoledź",
       "link": "https://www.rmf24.pl/pogoda/news-ostrzezenia-imgw-dla-5-wojewodztw-marznace-opady-i-gololedz,nId,8041021",
@@ -197,6 +251,12 @@
     {
       "title": "Kaczyński o Ziobrze: W wielu sprawach miał rację. Będziemy go bronić",
       "link": "https://tvn24.pl/najnowsze/jaroslaw-kaczynski-bedziemy-bronic-zbigniewa-ziobry-st8754303?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 06:05:17 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kaczyński o Ziobrze: W wielu sprawach miał rację. Będziemy go bronić",
+      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-bedziemy-bronic-zbigniewa-ziobry-st8754303?source=rss",
       "pubDate": "Sun, 16 Nov 2025 06:05:17 GMT",
       "source": "TVN24"
     },
@@ -11523,6 +11583,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -15921,6 +16005,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -16099,6 +16207,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -28142,6 +28274,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72750,90 +72906,6 @@
       "title": "\"Onet Rano\" | 07.11",
       "link": "https://wiadomosci.onet.pl/kraj/onet-rano-or-0711/1nxs2s1",
       "pubDate": "Thu, 06 Nov 2025 21:10:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Morze czerwieni na Wall Street. Spora wyprzedaż bigtechów",
-      "link": "https://www.bankier.pl/wiadomosc/Morze-czerwieni-na-Wall-Street-Spora-wyprzedaz-bigtechow-9036330.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 6 Nov 2025 22:08:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Dwa podpisy i weto. Karol Nawrocki zdecydował o trzech ustawach",
-      "link": "https://www.rp.pl/prawo-w-polsce/art43301211-dwa-podpisy-i-weto-karol-nawrocki-zdecydowal-o-trzech-ustawach",
-      "pubDate": "Thu, 06 Nov 2025 22:02:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Zbigniew Ziobro: nie złożyłem wniosku o azyl polityczny na Węgrzech",
-      "link": "https://wiadomosci.onet.pl/kraj/zbigniew-ziobro-nie-zlozylem-wniosku-o-azyl-polityczny-na-wegrzech/rvf67g9",
-      "pubDate": "Thu, 06 Nov 2025 21:00:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowe weto Karola Nawrockiego. Słowa o \"negatywnych praktykach\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-nowe-weto-karola-nawrockiego-slowa-o-negatywnych-praktykach,nId,22451926",
-      "pubDate": "Thu, 06 Nov 2025 21:00:08 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Tesla shareholders to vote on $1tn pay package for CEO Elon Musk",
-      "link": "https://www.theguardian.com/technology/2025/nov/06/tesla-1tn-pay-package-elon-musk",
-      "pubDate": "Thu, 06 Nov 2025 21:00:07 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Słowacja. Z populacji niedźwiedzi „usunięto” ponad 200 zwierząt",
-      "link": "https://www.rp.pl/spoleczenstwo/art43301261-slowacja-z-populacji-niedzwiedzi-usunieto-ponad-200-zwierzat",
-      "pubDate": "Thu, 06 Nov 2025 21:57:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Podwyżka CIT dla banków. Jest ostateczna decyzja parlamentu",
-      "link": "https://www.money.pl/banki/podwyzka-cit-dla-bankow-jest-ostateczna-decyzja-parlamentu-7219036739038016a.html",
-      "pubDate": "Thu, 06 Nov 2025 21:54:17 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Nawrocki zawetował ustawę o zmianach w ubezpieczeniach. \"Osłabienie ochrony obywateli\"",
-      "link": "https://tvn24.pl/biznes/pieniadze/nawrocki-zawetowal-ustawe-o-zmianach-w-ubezpieczeniach-oslabienie-ochrony-obywateli-st8740169?source=rss",
-      "pubDate": "Thu, 06 Nov 2025 20:48:19 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zaskoczenie przy liczeniu głosów. Brać udział miał nawet 200-latek",
-      "link": "https://wydarzenia.interia.pl/dolnoslaskie/news-zaskoczenie-przy-liczeniu-glosow-brac-udzial-mial-nawet-200,nId,22451909",
-      "pubDate": "Thu, 06 Nov 2025 20:48:12 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "US supreme court allows Trump to block passport sex markers for trans and non-binary people",
-      "link": "https://www.theguardian.com/us-news/2025/nov/06/supreme-court-ruling-passports-transgender-trump",
-      "pubDate": "Thu, 06 Nov 2025 20:46:16 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Zwrot na konferencji Donalda Trumpa. Musieli przerwać wystąpienie [NAGRANIE]",
-      "link": "https://wiadomosci.onet.pl/swiat/nietypowa-sytuacja-na-konferencji-donalda-trumpa-mezczyzna-nagle-zemdlal/248pr79",
-      "pubDate": "Thu, 06 Nov 2025 20:45:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "ARC Raiders to test na ludzką naturę. Zachwyca mnie wpływ na graczy",
-      "link": "https://spidersweb.pl/2025/11/arc-raiders-est-na-ludzka-nature.html",
-      "pubDate": "Thu, 06 Nov 2025 21:45:46 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Przełom na Bliskim Wschodzie? Nowy kraj ma dołączyć do porozumienia",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-przelom-na-bliskim-wschodzie-nowy-kraj-ma-dolaczyc-do-porozu,nId,22451905",
-      "pubDate": "Thu, 06 Nov 2025 20:45:02 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"Raport międzynarodowy\". Nowy Jork skręca w lewo. Czy nowy burmistrz stanie się zagrożeniem dla Trumpa?",
-      "link": "https://wiadomosci.onet.pl/swiat/raport-miedzynarodowy-nowy-jork-skreca-w-lewo-czy-to-zagrozenie-dla-trumpa/y853vnr",
-      "pubDate": "Thu, 06 Nov 2025 20:40:26 GMT",
       "source": "Onet"
     }
   ]
