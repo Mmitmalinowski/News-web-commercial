@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T21:56:35.732Z",
+  "generatedAt": "2025-11-16T22:17:44.171Z",
   "items": [
+    {
+      "title": "Wypadek w województwie lubuskim. Kierowców czekają utrudnienia",
+      "link": "https://wiadomosci.onet.pl/lubuskie/wypadek-w-poblizu-miejscowosci-wilkowo-droga-jest-zablokowana/j6vxr2v",
+      "pubDate": "Sun, 16 Nov 2025 21:59:07 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Popularni artyści rezygnują. Pokłosie głośnej afery korupcyjnej w Ukrainie",
       "link": "https://www.rmf24.pl/fakty/swiat/news-popularni-artysci-rezygnuja-poklosie-glosnej-afery-korupcyjn,nId,8041069",
@@ -1145,6 +1151,12 @@
     {
       "title": "Maszynista zauważył, że tory zostały uszkodzone. Incydent skomentował premier Donald Tusk",
       "link": "https://www.rp.pl/spoleczenstwo/art43345811-maszynista-zauwazyl-ze-tory-zostaly-uszkodzone-incydent-skomentowal-premier-donald-tusk",
+      "pubDate": "Sun, 16 Nov 2025 15:37:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Uszkodzono fragment torowiska. Premier Tusk: niewykluczony akt dywersji",
+      "link": "https://www.rp.pl/spoleczenstwo/art43345811-uszkodzono-fragment-torowiska-premier-tusk-niewykluczony-akt-dywersji",
       "pubDate": "Sun, 16 Nov 2025 15:37:00 +0100",
       "source": "Rzeczpospolita"
     },
@@ -15795,6 +15807,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -21561,6 +21597,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21739,6 +21799,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -35150,6 +35234,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76903,42 +77011,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/pokazali-dokument-z-czasow-pis-data-otwarcia-cpk-byla-malo-realna/ej9glsp",
       "pubDate": "Fri, 07 Nov 2025 11:45:28 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Zmarli decydują o budżetach. Wrocław zawiadomił prokuraturę",
-      "link": "https://android.com.pl/tech/989280-wroclaw-zglasza-sprawe-do-prokuratury/",
-      "pubDate": "Fri, 07 Nov 2025 11:44:17 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Nadchodzi termiczne przedzimie. Znamy prognozy do końca listopada [POGODA]",
-      "link": "https://wiadomosci.onet.pl/pogoda/nadciaga-termiczne-przedzimie-oto-co-przyniesie-reszta-listopada/v1209d7",
-      "pubDate": "Fri, 07 Nov 2025 11:44:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tych pięć wielkich obietnic brexitu zawiodło Brytyjczyków. Teraz mówią o bregrecie",
-      "link": "https://wiadomosci.onet.pl/swiat/tych-piec-wielkich-obietnic-brexitu-zawiodlo-brytyjczykow-teraz-mowia-o-bregrecie/s8cjnlb",
-      "pubDate": "Fri, 07 Nov 2025 11:42:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Długi weekend. Kiedy trzeba wywiesić flagę na 11 listopada? ",
-      "link": "https://geekweek.interia.pl/historia/news-dlugi-weekend-kiedy-trzeba-wywiesic-flage-na-11-listopada,nId,22452145",
-      "pubDate": "Fri, 07 Nov 2025 11:40:54 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Boty, które służą ludziom i zabierają im pracy. Microsoft tworzy piękną utopię",
-      "link": "https://spidersweb.pl/2025/11/microsoft-ludzka-superinteligencja.html",
-      "pubDate": "Fri, 07 Nov 2025 12:39:38 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Nowy sondaż wyborczy. Zbliża się \"mijanka\" po prawej stronie",
-      "link": "https://businessinsider.com.pl/polityka/nowy-sondaz-wyborczy-zbliza-sie-mijanka-po-prawej-stronie/sfyecev",
-      "pubDate": "Fri, 07 Nov 2025 11:39:06 GMT",
-      "source": "Business Insider"
     }
   ]
 }
