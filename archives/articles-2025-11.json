@@ -1,12 +1,72 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T11:11:46.260Z",
+  "generatedAt": "2025-11-16T11:25:57.908Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Łukaszenko znów mydli Zachodowi oczy. To część planu Putina. \"Białoruś wchłonięta przez Rosję\"",
+      "link": "https://wiadomosci.onet.pl/swiat/lukaszenko-wyciaga-reke-do-zachodu-eksperci-ostrzegaja/dwsjfr7",
+      "pubDate": "Sun, 16 Nov 2025 11:24:26 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Dyson przegląda globalny budżet mediowy wart 500 mln dolarów. Po czterech latach wraca przetarg",
+      "link": "https://www.wirtualnemedia.pl/dyson-przeglada-globalny-budzet-mediowy-wart-500-mln-dolarow-po-czterech-latach-wraca-przetarg,7221725354646400a",
+      "pubDate": "Sun, 16 Nov 2025 12:23:36 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Wojtek Chaber i Marta Piechnik dołączyli do oLIVE media",
+      "link": "https://www.wirtualnemedia.pl/wojtek-chaber-i-marta-piechnik-dolaczyli-do-olive-media,7221812921265088a",
+      "pubDate": "Sun, 16 Nov 2025 12:21:02 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Wielkie sprzątanie w Windowsie. Pirackie aktywacje właśnie przestały działać",
+      "link": "https://android.com.pl/tech/991898-wielkie-sprzatanie-w-windows/",
+      "pubDate": "Sun, 16 Nov 2025 11:19:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Marka Oppo dołączyła do grona klientów agencji Ro",
+      "link": "https://www.wirtualnemedia.pl/marka-oppo-dolaczyla-do-grona-klientow-agencji-ro,7221814390569920a",
+      "pubDate": "Sun, 16 Nov 2025 12:15:53 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Dramat w hotelu. Matka i dzieci nie żyją, budynek zamknięty",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-dramat-w-hotelu-matka-i-dzieci-nie-zyja-budynek-zamkniety,nId,8041038",
+      "pubDate": "Sun, 16 Nov 2025 12:15:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Kosmos staje się coraz zimniejszy. Era gwałtownego rozwoju już się skończyła",
+      "link": "https://geekweek.interia.pl/kosmos/news-kosmos-staje-sie-coraz-zimniejszy-era-gwaltownego-rozwoju-ju,nId,22453323",
+      "pubDate": "Sun, 16 Nov 2025 11:15:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Iran walczy z suszą zasiewając chmury",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/iran-susza-walcza-z-susza-zasiewajac-chmury-st8754515?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 11:13:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Marcel Płoszczyński dołącza do agencji RO",
+      "link": "https://www.wirtualnemedia.pl/marcel-ploszczynski-dolacza-do-agencji-ro,7221815561976768a",
+      "pubDate": "Sun, 16 Nov 2025 12:11:32 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Jaja przed świętami \"najprawdopodobniej będą droższe\"",
+      "link": "https://tvn24.pl/biznes/z-kraju/ceny-jaj-przed-bozym-narodzeniem-moga-wzrosnac-st8754446?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 11:09:27 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Świąteczna gorączka już trwa. Wynagrodzenia pracowników sezonowych biją rekordy",
@@ -12861,6 +12921,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -17619,6 +17703,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -17797,6 +17905,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -30200,6 +30332,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73831,90 +73987,6 @@
       "link": "https://www.rmf24.pl/regiony/krakow/news-paraliz-komunikacyjny-czesci-krakowa-drugi-dzien,nId,8038503",
       "pubDate": "Fri, 07 Nov 2025 06:53:39 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Paraliż komunikacyjny części Krakowa. Prezydent Miszalski przeprasza",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-paraliz-komunikacyjny-czesci-krakowa-prezydent-miszalski-prz,nId,8038503",
-      "pubDate": "Fri, 07 Nov 2025 06:53:39 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Danuta Wałęsa i Andrzej Poczobut laureatami Nagrody im. Andrzeja Wajdy",
-      "link": "http://www.press.pl/tresc/90186,danuta-walesa-i-andrzej-poczobut-laureatami-nagrody-im_-andrzeja-wajdy?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 06:53:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "W piątek sześciotysięczne wydanie \"Poplisty\" w RMF FM",
-      "link": "http://www.press.pl/tresc/90187,w-piatek-szesciotysieczne-wydanie-_poplisty_-w-rmf-fm?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 06:53:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Okładka \"Newsweeka\" z Rymanowskim podbiła liczbę subskrypcji jego kanału na YouTubie",
-      "link": "http://www.press.pl/tresc/90188,okladka-_newsweeka_-z-rymanowskim-podbila-liczbe-subskrypcji-jego-kanalu-na-youtubie?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 06:53:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Konrad Sitek w ramach globalnej restrukturyzacji żegna się z Warner Music Polska",
-      "link": "http://www.press.pl/tresc/90184,konrad-sitek-w-ramach-globalnej-restrukturyzacji-zegna-sie-z-warner-music-polska?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 06:52:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Natalia Hołownia i Martyna Wyrzykowska prowadzą nowy podcast serwisu MamaDu.pl",
-      "link": "http://www.press.pl/tresc/90185,natalia-holownia-i-martyna-wyrzykowska-prowadza-nowy-podcast-serwisu-mamadu_pl?rss=1",
-      "pubDate": "Fri, 07 Nov 2025 06:52:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Bony dla 42 mln Amerykanów. Jest decyzja sądu. Oto co musi zrobić Trump",
-      "link": "https://www.money.pl/gospodarka/bony-dla-42-mln-amerykanow-jest-decyzja-sadu-oto-co-musi-zrobic-trump-7219175243344704a.html",
-      "pubDate": "Fri, 07 Nov 2025 06:50:24 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Zapominalscy pasażerowie Ryanair zapłacą. Nowe zasady od 12 listopada",
-      "link": "https://biznes.interia.pl/finanse/news-nowe-zasady-w-ryanair-od-12-listopada-uokik-ma-informacje-dl,nId,22451894",
-      "pubDate": "Fri, 07 Nov 2025 05:50:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Mają tylko parę dni i nie wiedzą, ile zapłacą. Sprawdziliśmy obowiązkowe OC operatora drona",
-      "link": "https://android.com.pl/tech/988471-oc-operatora-drona-ile-trzeba-zaplacic/",
-      "pubDate": "Fri, 07 Nov 2025 05:50:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Tesla mówi \"tak\". Historyczna fortuna dla Muska. Warunki jak z filmu sci-fi",
-      "link": "https://biznes.interia.pl/firma/news-tesla-zatwierdzila-gigantyczny-pakiet-dla-muska-moze-zostac,nId,22451944",
-      "pubDate": "Fri, 07 Nov 2025 05:49:40 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "To on może zostać pierwszym bilionerem świata",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-to-on-moze-zostac-pierwszym-bilionerem-swiata,nId,8038501",
-      "pubDate": "Fri, 07 Nov 2025 06:47:22 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Projekt prezydenta Nawrockiego w Sejmie. O tyle mają wzrosnąć emerytury",
-      "link": "https://www.money.pl/emerytury/projekt-prezydenta-nawrockiego-w-sejmie-o-tyle-maja-wzrosnac-emerytury-7219173583190848a.html",
-      "pubDate": "Fri, 07 Nov 2025 06:45:41 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Michał Szułdrzyński: Mołdawia musi się spieszyć. Czy Europa to rozumie?",
-      "link": "https://www.rp.pl/plus-minus/art43297961-michal-szuldrzynski-moldawia-musi-sie-spieszyc-czy-europa-to-rozumie",
-      "pubDate": "Fri, 07 Nov 2025 06:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rockstar Games przełożył premierę \"GTA VI\". \"Gra będzie bardzo dochodowa\"",
-      "link": "https://www.bankier.pl/wiadomosc/Rockstar-Games-przelozyl-premiere-GTA-VI-Gra-bedzie-bardzo-dochodowa-9036390.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 06:44:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
