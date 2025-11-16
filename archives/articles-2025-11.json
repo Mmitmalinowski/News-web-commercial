@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T14:44:51.121Z",
+  "generatedAt": "2025-11-16T14:52:30.342Z",
   "items": [
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
@@ -9,10 +9,34 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Pentagon podjął decyzję. Chce u siebie rozwiązania z Ukrainy",
+      "link": "https://tech.wp.pl/pentagon-podjal-decyzje-chce-u-siebie-rozwiazania-z-ukrainy,7222461881547712a",
+      "pubDate": "Sun, 16 Nov 2025 15:46:43 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Groźby wobec Karola Nawrockiego. 19-latek przyznał się do winy",
+      "link": "https://wiadomosci.onet.pl/kraj/grozby-wobec-karola-nawrockiego-19-latek-przyznal-sie-do-winy/dtyw877",
+      "pubDate": "Sun, 16 Nov 2025 14:45:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Od cienia ojca do własnej legendy. W co dziś inwestuje Sebastian Kulczyk?",
+      "link": "https://businessinsider.com.pl/wiadomosci/od-kawiarenek-do-miliardow-sebastiana-kulczyka-droga-na-szczyt/yx7xv3j",
+      "pubDate": "Sun, 16 Nov 2025 14:44:52 GMT",
+      "source": "Business Insider"
+    },
+    {
       "title": "Czy język polski naprawdę jest najlepszy do promptowania? Prawda jest nieco inna",
       "link": "https://android.com.pl/tech/991908-czy-jezyk-polski-naprawde-jest-najlepszy-do-promptowania/",
       "pubDate": "Sun, 16 Nov 2025 14:44:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Hundreds of low-paid NHS hospital staff win improved terms after strike threat",
+      "link": "https://www.theguardian.com/society/2025/nov/16/hundreds-of-low-paid-nhs-hospital-staff-win-improved-terms-after-strike-threat",
+      "pubDate": "Sun, 16 Nov 2025 14:43:46 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Maszynista zauważył, że tory zostały uszkodzone. Na miejscu pracują służby",
@@ -13917,6 +13941,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -18963,6 +19011,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -19141,6 +19213,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -31832,6 +31928,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74730,54 +74850,6 @@
       "title": "Tajemnicze obiekty miały spaść w trzech miejscach na Dolnym Śląsku. Jest wyjaśnienie zjawiska",
       "link": "https://wiadomosci.onet.pl/wroclaw/nieznane-obiekty-mialy-spasc-na-dolnym-slasku-policja-zakonczyla-akcje/v3ewnek",
       "pubDate": "Fri, 07 Nov 2025 08:01:51 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Drony znów zakłócają działanie lotniska w Belgii",
-      "link": "https://www.rp.pl/spoleczenstwo/art43303361-drony-znow-zaklocaja-dzialanie-lotniska-w-belgii",
-      "pubDate": "Fri, 07 Nov 2025 09:01:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Szef OpenAI mówi, że musi zastąpić go bot. \"Inaczej będzie mi wstyd\"",
-      "link": "https://spidersweb.pl/2025/11/openai-altman-szef-bot.html",
-      "pubDate": "Fri, 07 Nov 2025 09:00:56 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "China launches new aircraft carrier in naval race with the US",
-      "link": "https://www.bbc.com/news/articles/c62e0yx39g5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 07 Nov 2025 08:00:25 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "‘Huge step in the right direction’: arts leaders hail move to boost creative subjects in England’s schools",
-      "link": "https://www.theguardian.com/education/2025/nov/07/arts-leaders-hail-move-to-boost-creative-subjects-england-schools",
-      "pubDate": "Fri, 07 Nov 2025 08:00:21 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Apple zapłaci Google miliard dolarów za Gemini. I tak co rok...",
-      "link": "https://antyweb.pl/apple-zaplaci-google-miliard-dolarow-za-gemini-i-tak-co-rok",
-      "pubDate": "Fri, 07 Nov 2025 08:00:18 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Groźny wypadek w Małopolsce. Ciężarówka zderzyła się z pociągiem",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-grozny-wypadek-w-malopolsce-ciezarowka-zderzyla-sie-z-pociag,nId,8038546",
-      "pubDate": "Fri, 07 Nov 2025 09:00:13 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kolejny dron nad belgijskim lotniskiem. Ruch ponownie wstrzymany",
-      "link": "https://wiadomosci.onet.pl/swiat/kolejny-dron-nad-belgijskim-lotniskiem-ruch-ponownie-wstrzymany/8cty546",
-      "pubDate": "Fri, 07 Nov 2025 07:59:38 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rewolucja pod Tatrami. Od maja rusza \"motoambulans\"",
-      "link": "https://wiadomosci.onet.pl/krakow/rewolucja-pod-tatrami-ratownik-medyczny-bedzie-jezdzil-takze-na-motocyklu/mv6nzme",
-      "pubDate": "Fri, 07 Nov 2025 07:56:34 GMT",
       "source": "Onet"
     }
   ]
