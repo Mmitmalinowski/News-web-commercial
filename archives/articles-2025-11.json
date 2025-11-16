@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T22:17:44.171Z",
+  "generatedAt": "2025-11-16T22:35:37.525Z",
   "items": [
+    {
+      "title": "\"Bezprecedensowy kryzys\". Wstrząsające dane z Ukrainy",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-bezprecedensowy-kryzys-wstrzasajace-dane-z-ukrainy,nId,22454718",
+      "pubDate": "Sun, 16 Nov 2025 22:16:13 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Wypadek w województwie lubuskim. Kierowców czekają utrudnienia",
       "link": "https://wiadomosci.onet.pl/lubuskie/wypadek-w-poblizu-miejscowosci-wilkowo-droga-jest-zablokowana/j6vxr2v",
@@ -1157,6 +1163,12 @@
     {
       "title": "Uszkodzono fragment torowiska. Premier Tusk: niewykluczony akt dywersji",
       "link": "https://www.rp.pl/spoleczenstwo/art43345811-uszkodzono-fragment-torowiska-premier-tusk-niewykluczony-akt-dywersji",
+      "pubDate": "Sun, 16 Nov 2025 15:37:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Uszkodzony fragment torowiska. Premier Tusk: niewykluczony akt dywersji",
+      "link": "https://www.rp.pl/spoleczenstwo/art43345811-uszkodzony-fragment-torowiska-premier-tusk-niewykluczony-akt-dywersji",
       "pubDate": "Sun, 16 Nov 2025 15:37:00 +0100",
       "source": "Rzeczpospolita"
     },
@@ -15831,6 +15843,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -21621,6 +21657,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -21799,6 +21859,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -35234,6 +35318,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76975,42 +77083,6 @@
       "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-park-akcji-burza-w-kolejnym-prestizowym-konkursie-st8740871?source=rss",
       "pubDate": "Fri, 07 Nov 2025 11:50:45 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Woman who claimed to be Madeleine McCann found guilty of harassing family",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/07/woman-who-claimed-to-be-madeleine-mccann-found-guilty-harassing-family",
-      "pubDate": "Fri, 07 Nov 2025 11:49:44 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Sprzedawał kradzione części. Odwiedzili go policjanci",
-      "link": "https://tvn24.pl/lodz/lodz-sprzedawal-kradzione-czesci-odwiedzili-go-policjanci-st8740754?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 11:48:08 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Apple skopiuje mniejszych i sprzeda jako swoje? iPhone 18 nie taki nowy",
-      "link": "https://antyweb.pl/apple-skopiuje-mniejszych-i-sprzeda-jako-swoje-iphone-18-nie-taki-nowy",
-      "pubDate": "Fri, 07 Nov 2025 11:47:47 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "At least five people killed as Typhoon Kalmaegi makes landfall in Vietnam",
-      "link": "http://www.euronews.com/green/2025/11/07/at-least-five-people-killed-as-typhoon-kalmaegi-makes-landfall-in-vietnam",
-      "pubDate": "Fri, 07 Nov 2025 12:46:23 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Meta AI dotarła do Polski, teraz ty też możesz tracić czas na Vibes",
-      "link": "https://www.chip.pl/2025/11/meta-ai-polska-vibes",
-      "pubDate": "Fri, 07 Nov 2025 11:45:47 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Dziennikarze dotarli do dokumentów z czasów PiS. Rzucają nowe światło na otwarcie CPK",
-      "link": "https://wiadomosci.onet.pl/kraj/pokazali-dokument-z-czasow-pis-data-otwarcia-cpk-byla-malo-realna/ej9glsp",
-      "pubDate": "Fri, 07 Nov 2025 11:45:28 GMT",
-      "source": "Onet"
     }
   ]
 }
