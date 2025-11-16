@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T06:46:17.514Z",
+  "generatedAt": "2025-11-16T06:56:53.888Z",
   "items": [
+    {
+      "title": "Athens bans gatherings ahead of Volodymyr Zelenskyy's Sunday visit",
+      "link": "http://www.euronews.com/2025/11/16/athens-bans-gatherings-ahead-of-volodymyr-zelenskyys-sunday-visit",
+      "pubDate": "Sun, 16 Nov 2025 07:50:39 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "mObywatelowi brakuje tylko jednej rzeczy. Mają ją w USA",
+      "link": "https://spidersweb.pl/2025/11/mobywatel-paszport-apple-wallet-google-portfel.html",
+      "pubDate": "Sun, 16 Nov 2025 07:50:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Ujawniono e-maile Epsteina. Pisał o katastrofie smoleńskiej i Tusku",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-ujawniono-e-maile-epsteina-pisal-o-katastrofie-smolenskiej-i,nId,8041013",
+      "pubDate": "Sun, 16 Nov 2025 07:45:39 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Przydacz odpowiada ambasadorowi Niemiec. \"Proszę się powstrzymać\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-minister-prezydenta-odpowiada-ambasadorowi-niemiec-prosze-si,nId,22454565",
+      "pubDate": "Sun, 16 Nov 2025 06:45:21 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Skończą się koncerty autobusowych DJ-ów. Miasto w końcu mówi dość",
       "link": "https://spidersweb.pl/2025/11/telefony-halas-komunikacja-miejska.html",
@@ -11319,6 +11343,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -15645,6 +15693,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -15823,6 +15895,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -27794,6 +27890,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72571,54 +72691,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/kolejne-weto-karola-nawrockiego-jest-glos-z-palacu-prezydenckiego/6rzk43p",
       "pubDate": "Thu, 06 Nov 2025 20:04:10 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Pościg ulicami Warszawy. Uciekając, spowodował pięć kolizji",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-poscig-ulicami-warszawy-uciekajac-spowodowal-piec-kolizji,nId,8038465",
-      "pubDate": "Thu, 06 Nov 2025 21:03:10 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Coś z impetem uderzyło w Księżyc. Naukowcy alarmują",
-      "link": "https://antyweb.pl/dwa-uderzenia-na-ksiezycu",
-      "pubDate": "Thu, 06 Nov 2025 20:00:28 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Nancy Pelosi pożegna się z Kongresem. Zasiada w nim od niemal 40 lat",
-      "link": "https://www.rp.pl/polityka/art43299241-nancy-pelosi-pozegna-sie-z-kongresem-zasiada-w-nim-od-niemal-40-lat",
-      "pubDate": "Thu, 06 Nov 2025 21:00:04 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Poprzednicy kapitana Nemo",
-      "link": "https://historia.rp.pl/historia-swiata/art43297801-poprzednicy-kapitana-nemo",
-      "pubDate": "Thu, 06 Nov 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Franz Kafka – idol postmodernistycznego pokolenia",
-      "link": "https://historia.rp.pl/historia-swiata/art43297791-franz-kafka-idol-postmodernistycznego-pokolenia",
-      "pubDate": "Thu, 06 Nov 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rok 1919: Czas triumfów Józefa Piłsudskiego",
-      "link": "https://historia.rp.pl/historia-polski/art43297761-rok-1919-czas-triumfow-jozefa-pilsudskiego",
-      "pubDate": "Thu, 06 Nov 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Arktyczna odsłona pradziejów",
-      "link": "https://historia.rp.pl/historia-swiata/art43297781-arktyczna-odslona-pradziejow",
-      "pubDate": "Thu, 06 Nov 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Bolszewicki zamach stanu",
-      "link": "https://historia.rp.pl/historia-swiata/art43297751-bolszewicki-zamach-stanu",
-      "pubDate": "Thu, 06 Nov 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
