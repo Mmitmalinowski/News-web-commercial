@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T15:40:17.029Z",
+  "generatedAt": "2025-11-16T15:49:43.955Z",
   "items": [
+    {
+      "title": "Groźny incydent na torach w Życzynie. Nowe informacje",
+      "link": "https://www.rmf24.pl/fakty/polska/news-grozny-incydent-na-torach-w-zyczynie-nowe-informacje,nId,8041055",
+      "pubDate": "Sun, 16 Nov 2025 16:46:02 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Central Asian leaders deepen regional integration as Azerbaijan joins consultative format",
+      "link": "http://www.euronews.com/2025/11/16/central-asian-leaders-deepen-regional-integration-as-azerbaijan-joins-consultative-format",
+      "pubDate": "Sun, 16 Nov 2025 16:45:55 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "\"Czy Izrael powinien chronić palestyńskich cywili bardziej niż własnych?\". Gebert o \"wojnie sprawiedliwej\" i dehumanizacji",
+      "link": "https://tvn24.pl/swiat/wojna-w-gazie-konstanty-gebert-o-izraelu-palestynie-i-wojnie-sprawiedliwej-st8754999?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 15:44:42 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "UK to announce biggest immigration shake-up, including temporary asylum and stricter conditions for protection",
       "link": "http://www.euronews.com/2025/11/16/uk-to-announce-biggest-immigration-shake-up-including-temporary-asylum-and-stricter-condit",
@@ -14277,6 +14295,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -19419,6 +19461,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -19597,6 +19663,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -32384,6 +32474,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75025,48 +75139,6 @@
       "link": "https://www.rmf24.pl/polityka/news-sadny-dzien-zbigniewa-ziobry-w-sejmie-poslowie-zdecyduja-o-i,nId,8038515",
       "pubDate": "Fri, 07 Nov 2025 09:53:01 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Zakup urządzeń Securebox przez Ministerstwo Sprawiedliwości pod lupą prokuratury. Są zarzuty",
-      "link": "https://www.rp.pl/prawo-karne/art43303591-zakup-urzadzen-securebox-przez-ministerstwo-sprawiedliwosci-pod-lupa-prokuratury-sa-zarzuty",
-      "pubDate": "Fri, 07 Nov 2025 09:50:58 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Oszuści na rynku nieruchomości. \"Blokują\" mieszkanie i zmuszają właścicieli do ostrego zejścia z ceny. Siedem porad, jak się przed tym chronić",
-      "link": "https://wiadomosci.onet.pl/swiat/oszusci-blokuja-mieszkania-ekspert-siedem-rad-jak-nie-dac-sie-oszukac/442kbbw",
-      "pubDate": "Fri, 07 Nov 2025 08:49:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rzecznik rządu ostro o Zbigniewie Ziobrze. \"To naprawdę zły człowiek\"",
-      "link": "https://wiadomosci.onet.pl/kraj/adam-szlapka-dosadnie-o-zbigniewie-ziobrze-on-sie-naprawde-boi/pkq7wdc",
-      "pubDate": "Fri, 07 Nov 2025 08:48:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zrzucił mężczyznę z mostu do rzeki. Prawomocny wyrok sądu",
-      "link": "https://tvn24.pl/olsztyn/olsztyn-zrzucil-mezczyzne-z-mostu-do-rzeki-prawomocny-wyrok-sadu-st8740440?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 08:48:13 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tablet, który zawstydza laptopy. iPad Pro (2025) z Apple M5 - recenzja",
-      "link": "https://spidersweb.pl/2025/11/ipad-pro-2025-apple-m5-recenzja-opinie.html",
-      "pubDate": "Fri, 07 Nov 2025 09:47:08 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Dino i CCC wyraźnie tracą na giełdzie. Dwaj polscy giganci wcześniej pokazali wyniki",
-      "link": "https://www.money.pl/gielda/dino-i-ccc-wyraznie-traca-na-gieldzie-dwaj-polscy-giganci-wczesniej-pokazali-wyniki-7219220731575168a.html",
-      "pubDate": "Fri, 07 Nov 2025 09:46:40 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Zaczęło się. AI czyta w naszych myślach!",
-      "link": "https://mamstartup.pl/zaczelo-sie-ai-czyta-w-naszych-myslach/",
-      "pubDate": "Fri, 07 Nov 2025 08:45:01 +0000",
-      "source": "MamStartup"
     }
   ]
 }
