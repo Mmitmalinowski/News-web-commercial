@@ -1,12 +1,78 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T14:52:30.342Z",
+  "generatedAt": "2025-11-16T15:09:05.281Z",
   "items": [
+    {
+      "title": "Five people killed and three injured in car crash in County Louth, Ireland",
+      "link": "https://www.theguardian.com/world/2025/nov/16/people-killed-injured-car-crash-county-louth-ireland",
+      "pubDate": "Sun, 16 Nov 2025 15:03:20 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Jeden formularz i ZUS nie pobiera zaliczek. Jest jednak \"haczyk\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-jeden-formularz-i-zus-nie-pobiera-zaliczek-jest-jednak-haczy,nId,22453681",
+      "pubDate": "Sun, 16 Nov 2025 15:00:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Żegna książkę, będzie żegnać ludzi. Pogrzeby jak z \"Bajki\" ",
+      "link": "https://tvn24.pl/poznan/zegna-ksiazke-bedzie-zegnac-ludzi-pogrzeby-jak-z-bajki-st8745936?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 15:00:01 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Polska armia robi historyczny krok. Pomaga nam Elon Musk",
+      "link": "https://spidersweb.pl/2025/11/polska-armia-satelity-start.html",
+      "pubDate": "Sun, 16 Nov 2025 16:00:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Auto zgniecione jak puszka, 34-latka w szpitalu",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-auto-zgniecione-jak-puszka-34-latka-w-szpitalu,nId,8041049",
+      "pubDate": "Sun, 16 Nov 2025 15:55:35 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Android zyska nową funkcję. Widać inspirację pomysłem Apple",
+      "link": "https://www.tabletowo.pl/android-testy-funkcji-podobnej-do-namedrop-z-ios/",
+      "pubDate": "Sun, 16 Nov 2025 14:54:22 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "German vice-chancellor heads to China in difficult times",
+      "link": "https://www.dw.com/en/german-vice-chancellor-heads-to-china-in-difficult-times/a-74751588?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 16 Nov 2025 14:54:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Zamkną prawie 70 szkół. Z powodu obaw o obecność azbestu w piasku",
+      "link": "https://tvn24.pl/swiat/australia-69-szkol-w-canberze-bedzie-zamknietych-z-powodu-obaw-o-obecnosc-azbestu-w-piasku-do-zabawy-st8754917?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 14:53:55 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Możemy nawet przepłacić\". Deklaracja prezydenta",
+      "link": "https://tvn24.pl/biznes/ze-swiata/serbowie-chca-odkupic-od-rosji-udzialy-w-koncernie-i-rafinerii-mozemy-nawet-przeplacic-st8754939?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 14:53:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "MSZ wiedziało, że zwalnia niewinnego człowieka. Ostre słowa Witolda Jurasza",
+      "link": "https://wiadomosci.onet.pl/kraj/szokujace-ustalenia-onetu-msz-wiedzialo-ze-zwalnia-niewinnego-czlowieka/8p4zplc",
+      "pubDate": "Sun, 16 Nov 2025 14:51:25 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Fala oburzenia po wpisie niemieckiego ambasadora. \"Buta i arogancja\"",
+      "link": "https://wiadomosci.onet.pl/kraj/fala-oburzenia-po-wpisie-niemieckiego-ambasadora-buta-i-arogancja/065gcmq",
+      "pubDate": "Sun, 16 Nov 2025 14:50:26 GMT",
+      "source": "Onet"
     },
     {
       "title": "Pentagon podjął decyzję. Chce u siebie rozwiązania z Ukrainy",
@@ -17,6 +83,12 @@
     {
       "title": "Groźby wobec Karola Nawrockiego. 19-latek przyznał się do winy",
       "link": "https://wiadomosci.onet.pl/kraj/grozby-wobec-karola-nawrockiego-19-latek-przyznal-sie-do-winy/dtyw877",
+      "pubDate": "Sun, 16 Nov 2025 14:45:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Groźby wobec Karola Nawrockiego. 19-latek przyznał się do winy",
+      "link": "https://wiadomosci.onet.pl/kraj/grozil-karolowi-nawrockiemu-nowe-informacje-z-prokuratury-w-sprawie-19-latka/dtyw877",
       "pubDate": "Sun, 16 Nov 2025 14:45:59 GMT",
       "source": "Onet"
     },
@@ -13965,6 +14037,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -19035,6 +19131,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -19213,6 +19333,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -31928,6 +32072,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74755,102 +74923,6 @@
       "link": "https://www.tabletowo.pl/promocja-na-uslugi-serwisowe-huawei-11-2025-1-2026/",
       "pubDate": "Fri, 07 Nov 2025 08:18:08 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Przecena akcji Dino i CCC. Spółki rozczarowały wynikami",
-      "link": "https://www.bankier.pl/wiadomosc/Kurs-Dino-spada-o-6-5-proc-a-CCC-znizkuje-o-5-6-proc-WIG20-lekko-rosnie-9036478.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 09:18:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Rosjanom wracającym zza granicy rząd wyłączy w telefonie internet i SMS-y. Chodzi o wojnę",
-      "link": "https://wiadomosci.onet.pl/swiat/rosja-wprowadza-blokade-internetu-dla-powracajacych-obywateli-nowe-zasady/c6cb98j",
-      "pubDate": "Fri, 07 Nov 2025 08:17:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Donald Trump mówi o postępie przy zakończeniu wojny w Ukrainie. \"Znaczący\"",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-o-postepach-w-rozmowach-pokojowych-znaczace/qez17ck",
-      "pubDate": "Fri, 07 Nov 2025 08:15:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowy system antydronowy za miliardy. Wojskowi mają co do niego wątpliwości",
-      "link": "https://www.rmf24.pl/fakty/polska/news-nowy-system-antydronowy-za-miliardy-wojskowi-maja-co-do-nieg,nId,8038551",
-      "pubDate": "Fri, 07 Nov 2025 09:15:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "PKP Intercity klei pociągi. Wyjadą gąsienice, żebyście nie zostali na peronie",
-      "link": "https://spidersweb.pl/2025/11/pkp-intercity-dlugi-weekend-listopad-2025.html",
-      "pubDate": "Fri, 07 Nov 2025 09:14:13 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Agroturystyka i projekt „Odpoczywaj na wsi” – szansa na nową rolę polskiej wsi",
-      "link": "https://turystyka.rp.pl/tendencje/art43180971-agroturystyka-i-projekt-odpoczywaj-na-wsi-szansa-na-nowa-role-polskiej-wsi",
-      "pubDate": "Fri, 07 Nov 2025 09:11:35 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Brzoska: ktoś musi to wygrać i stworzyć precedens",
-      "link": "https://tvn24.pl/biznes/tech/rafal-brzoska-ktos-musi-to-wygrac-i-stworzyc-precedens-st8740415?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 08:11:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "China's exports fall 1.1% in October, hit by lower shipments to US",
-      "link": "http://www.euronews.com/business/2025/11/07/chinas-exports-fall-11-in-october-hit-by-lower-shipments-to-us",
-      "pubDate": "Fri, 07 Nov 2025 09:08:12 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Może zostać pierwszym bilionerem świata. Gigantyczne wynagrodzenie dla Elona Muska",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-07/moze-zostac-pierwszym-bilionerem-swiata-gigantyczne-wynagrodzenie-dla-elona-muska/",
-      "pubDate": "Fri, 07 Nov 2025 09:08:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Wiemy co dalej z inflacją. NBP publikuje kluczowy dokument",
-      "link": "https://businessinsider.com.pl/gospodarka/wiemy-co-dalej-z-inflacja-nbp-publikuje-kluczowy-dokument/d6p5jm1",
-      "pubDate": "Fri, 07 Nov 2025 08:06:39 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Eksplozja powerbanku na lotnisku. Urządzenie przegrzało się w kieszeni mężczyzny",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-eksplozja-powerbanku-na-lotnisku-urzadzenie-przegrzalo-sie-w,nId,8038527",
-      "pubDate": "Fri, 07 Nov 2025 09:05:08 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zysk EBITDA CCC w III kw. sporo poniżej oczekiwań. Marże też spadły",
-      "link": "https://www.bankier.pl/wiadomosc/CCC-szacuje-zysk-EBITDA-w-III-kw-na-404-mln-zl-wobec-konsensusu-470-2-mln-zl-9036465.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 09:04:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "From plov to fine dining: Uzbekistan's push for global culinary recognition",
-      "link": "http://www.euronews.com/travel/2025/11/07/from-plov-to-fine-dining-uzbekistans-push-for-global-culinary-recognition",
-      "pubDate": "Fri, 07 Nov 2025 09:02:44 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Nie jesteś miękiszonem? Udowodnij to w naszym quizie",
-      "link": "https://tvn24.pl/quizy/nie-jestes-miekiszonem-udowodnij-to-w-naszym-quizie-st8739458?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 08:02:19 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tajemniczy obiekt miał spaść na pole. Poszukiwania na Dolnym Śląsku",
-      "link": "https://wiadomosci.onet.pl/wroclaw/nieznany-obiekt-mial-spasc-niedaleko-wroclawia-policja-prowadzi-poszukiwania/v3ewnek",
-      "pubDate": "Fri, 07 Nov 2025 08:01:51 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tajemnicze obiekty miały spaść w trzech miejscach na Dolnym Śląsku. Jest wyjaśnienie zjawiska",
-      "link": "https://wiadomosci.onet.pl/wroclaw/nieznane-obiekty-mialy-spasc-na-dolnym-slasku-policja-zakonczyla-akcje/v3ewnek",
-      "pubDate": "Fri, 07 Nov 2025 08:01:51 GMT",
-      "source": "Onet"
     }
   ]
 }
