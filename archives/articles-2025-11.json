@@ -1,12 +1,60 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-16T09:37:35.562Z",
+  "generatedAt": "2025-11-16T09:47:06.978Z",
   "items": [
+    {
+      "title": "Gwiazda ruchu MAGA otrzymuje groźby. Wcześniej Trump nazwał ją „narzekającą wariatką”",
+      "link": "https://www.rp.pl/polityka/art43344771-gwiazda-ruchu-maga-otrzymuje-grozby-wczesniej-trump-nazwal-ja-narzekajaca-wariatka",
+      "pubDate": "Sun, 16 Nov 2025 10:43:37 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"Zobaczyłem samochód jadący z dużą prędkością  pod prąd\"",
+      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-jechal-trasa-siekierkowska-pod-prad-nagranie-st8754450?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 09:43:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nie rób tego na działce ROD. Mandat jest ogromny",
+      "link": "https://biznes.interia.pl/finanse/news-nie-rob-tego-na-dzialce-rod-mandaty-sa-ogromne,nId,22451351",
+      "pubDate": "Sun, 16 Nov 2025 09:40:05 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ciało ze śladami pobicia na ulicy. Nowe informacje RMF FM",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-cialo-ze-sladami-pobicia-na-ulicy-nowe-informacje-rmf-fm,nId,8041032",
+      "pubDate": "Sun, 16 Nov 2025 10:38:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Rosyjski samolot pasażerski \"rozpadł się w trakcie lotu\". Musiał awaryjnie lądować ",
+      "link": "https://tvn24.pl/swiat/rosja-samolot-pasazerski-ulegl-awarii-w-trakcie-lotu-musial-awaryjnie-ladowac-na-dalekim-wschodzie-st8754436?source=rss",
+      "pubDate": "Sun, 16 Nov 2025 09:37:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Cenne znalezisko w pobliżu warszawskiej synagogi. Mamy zdjęcia",
+      "link": "https://wiadomosci.onet.pl/warszawa/cenne-znalezisko-w-poblizu-warszawskiej-synagogi-mamy-zdjecia/vspmt43",
+      "pubDate": "Sun, 16 Nov 2025 09:37:36 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Adam Bodnar: \"Nie mam się czego bać. Wszystko, co robiłem, było zgodne z prawem\"",
+      "link": "https://wiadomosci.onet.pl/kraj/adam-bodnar-wszystko-co-robilem-bylo-zgodne-z-prawem/tkwv1ee",
+      "pubDate": "Sun, 16 Nov 2025 09:33:23 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Kończy się wsparcie Pekinu. Czy to koniec tanich samochodów z Chin?",
       "link": "https://moto.rp.pl/na-prad/art43344761-konczy-sie-wsparcie-pekinu-czy-to-koniec-tanich-samochodow-z-chin",
       "pubDate": "Sun, 16 Nov 2025 10:31:40 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Sikorski reaguje na słowa Kaczyńskiego. \"Hańba kanaliom i ich patronom\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-sikorski-reaguje-na-slowa-kaczynskiego-hanba-kanaliom-i-ich,nId,22454592",
+      "pubDate": "Sun, 16 Nov 2025 09:30:25 GMT",
+      "source": "Interia"
     },
     {
       "title": "Zrazili do siebie turystów. \"Negatywne odczucia\"",
@@ -12255,6 +12303,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -16845,6 +16917,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -17023,6 +17119,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -29258,6 +29378,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73339,78 +73483,6 @@
       "link": "https://pro.rp.pl/biznes/art43296771-drsi-jakie-ulatwienia-przewiduje-specustawa-obronna",
       "pubDate": "Fri, 07 Nov 2025 05:30:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Interia z materiałami od kolejnego uznanego wydawcy",
-      "link": "https://www.wirtualnemedia.pl/interia-z-materialami-od-financial-times,7219001965370176a",
-      "pubDate": "Fri, 07 Nov 2025 05:28:04 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Polak zaginął na Maderze. Trwa akcja służb",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-polak-zaginal-na-maderze-trwa-akcja-sluzb,nId,22451941",
-      "pubDate": "Fri, 07 Nov 2025 04:26:07 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "30 marek na shortliście Marketing Master 2025 SAR",
-      "link": "https://www.wirtualnemedia.pl/30-marek-na-shortliscie-marketing-master-2025-sar,7218874521295680a",
-      "pubDate": "Fri, 07 Nov 2025 05:25:47 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "US strikes another alleged drug boat bringing death toll from campaign in Latin America to 70",
-      "link": "https://www.theguardian.com/us-news/2025/nov/07/us-strikes-another-alleged-drug-boat-latin-america",
-      "pubDate": "Fri, 07 Nov 2025 04:25:33 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nowa dziennikarka w Gońcu. Poprowadzi dwa programy",
-      "link": "https://www.wirtualnemedia.pl/nowa-dziennikarka-w-goncu-poprowadzi-dwa-programy,7219029010033440a",
-      "pubDate": "Fri, 07 Nov 2025 05:24:03 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Spada liczba wniosków o wizy pracownicze. \"Rykoszet dla legalnych firm\"",
-      "link": "https://wiadomosci.onet.pl/kraj/spada-liczba-wnioskow-o-wizy-pracownicze-rykoszet-dla-legalnych-firm/4hvbvkh",
-      "pubDate": "Fri, 07 Nov 2025 04:23:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Władza Trumpa nieograniczona? Rezolucja zablokowana",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wladza-trumpa-nieograniczona-rezolucja-zablokowana,nId,8038498",
-      "pubDate": "Fri, 07 Nov 2025 05:21:41 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Trump będzie zachwycony. Republikanie zablokowali ważną rezolucje",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-trump-bedzie-zachwycony-republikanie-zablokowali-wazna-rezol,nId,8038498",
-      "pubDate": "Fri, 07 Nov 2025 05:21:41 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kiedy liczby tworzą znak towarowy?",
-      "link": "https://pro.rp.pl/biznes/art43296781-kiedy-liczby-tworza-znak-towarowy",
-      "pubDate": "Fri, 07 Nov 2025 05:20:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Skandaliczne zachowanie na posiedzeniu komisji. \"I co się patrzysz? Ciebie nikt nie lubi!\"",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/skandaliczne-zachowanie-na-posiedzeniu-komisji-i-co-sie-patrzysz-ciebie-nikt-nie-lubi/k4h2yfp",
-      "pubDate": "Fri, 07 Nov 2025 04:18:06 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Donald Trump o wizji denuklearyzacji. \"Byłaby czymś wspaniałym\"",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-o-wizji-denuklearyzacji-bylaby-czyms-wspanialym/9qve4xc",
-      "pubDate": "Fri, 07 Nov 2025 04:13:53 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zagrożony immunitet Ziobry, \"Wielki Bu\" w Polsce, nie żyje raper Pono",
-      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-piatek-7-listopada-najwazniejsze-informacje-st8740337?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 04:10:00 GMT",
-      "source": "TVN24"
     }
   ]
 }
