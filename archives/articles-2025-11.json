@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T04:51:10.735Z",
+  "generatedAt": "2025-11-17T05:00:03.347Z",
   "items": [
+    {
+      "title": "Republika zapowiada platformę e-commerce. Eksperci: Goryla.pl na razie bez treści i strategii",
+      "link": "https://www.wirtualnemedia.pl/republika-zapowiada-platforme-e-commerce-eksperci-goryla-pl-na-razie-bez-tresci-i-strategii,7221834051836800a",
+      "pubDate": "Mon, 17 Nov 2025 05:56:44 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "To będzie najdłuższy lot samolotem. W trakcie podróży niezwykłe zjawisko",
+      "link": "https://geekweek.interia.pl/technologia/news-to-bedzie-najdluzszy-lot-samolotem-w-trakcie-podrozy-niezwyk,nId,22454087",
+      "pubDate": "Mon, 17 Nov 2025 04:55:00 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Drony w pobliżu lotniska. Duński port lotniczy zamknięty",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-drony-w-poblizu-lotniska-dunski-port-lotniczy-zamkniety,nId,22454733",
+      "pubDate": "Mon, 17 Nov 2025 04:52:13 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Bez not korygujących od lutego 2026 r.",
       "link": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art43334101-bez-not-korygujacych-od-lutego-2026-r",
@@ -539,6 +557,12 @@
     {
       "title": "Chile election: Jara and Kast on course for December runoff",
       "link": "https://www.dw.com/en/chile-election-jara-and-kast-on-course-for-december-runoff/a-74770287?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 17 Nov 2025 00:24:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Chile: Far-left, far-right candidates proceed to runoff vote",
+      "link": "https://www.dw.com/en/chile-far-left-far-right-candidates-proceed-to-runoff-vote/a-74770287?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 17 Nov 2025 00:24:00 GMT",
       "source": "DW"
     },
@@ -16839,6 +16863,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -22941,6 +22989,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -23119,6 +23191,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -36866,6 +36962,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77898,54 +78018,6 @@
       "title": "11-latka zgubiła się podczas szkolnej wycieczki. Odnalazła ją mama",
       "link": "https://tvn24.pl/poznan/poznan-11-latka-zgubila-sie-podczas-szkolnej-wycieczki-odnalazla-ja-mama-st8741397?source=rss",
       "pubDate": "Fri, 07 Nov 2025 13:36:51 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wrzuć do garnka i zagotuj. Skórka pomarańczy z nowym zastosowaniem",
-      "link": "https://www.rmf24.pl/ciekawostki/news-wrzuc-do-garnka-i-zagotuj-skorka-pomaranczy-z-nowym-zastosow,nId,8038562",
-      "pubDate": "Fri, 07 Nov 2025 14:36:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Orlen dostarczy Ukrainie gaz z USA. Nowe porozumienie",
-      "link": "https://businessinsider.com.pl/wiadomosci/orlen-dostarczy-ukrainie-gaz-z-usa-porozumienie-na-2026-r/0018gq1",
-      "pubDate": "Fri, 07 Nov 2025 13:35:53 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Tusk na małym plusie, prawica się dzieli. Nowy Sejm bez starych graczy?",
-      "link": "https://www.rmf24.pl/polityka/news-tusk-na-malym-plusie-prawica-sie-dzieli-nowy-sejm-bez-staryc,nId,8038745",
-      "pubDate": "Fri, 07 Nov 2025 14:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "What pop culture got wrong about Frankenstein",
-      "link": "https://www.dw.com/en/what-pop-culture-got-wrong-about-frankenstein/a-74653161?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 7 Nov 2025 13:35:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Orlen dostarczy Ukrainie gaz z USA. Wydano komunikat",
-      "link": "https://biznes.interia.pl/gospodarka/news-orlen-dostarczy-ukrainie-gaz-z-usa-dostawy-w-2026-roku,nId,22452309",
-      "pubDate": "Fri, 07 Nov 2025 13:34:54 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "No 10 launches charm offensive to avoid budget backlash among Labour MPs",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/07/no-10-launches-charm-offensive-to-avoid-budget-backlash-among-labour-mps",
-      "pubDate": "Fri, 07 Nov 2025 13:34:16 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "UE zaostrza przepisy wobec Rosjan. Decyzja uderzy w oligarchów",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-ue-zaostrza-przepisy-wobec-rosjan-decyzja-uderzy-w-oligarcho,nId,8038755",
-      "pubDate": "Fri, 07 Nov 2025 14:33:34 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "10-latek zginął potrącony przez pijanego kierowcę. Jest wyrok w sprawie",
-      "link": "https://tvn24.pl/krakow/krasne-lasocice-pijany-kierowca-zabil-dziecko-zapadl-wyrok-st8741407?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 13:31:36 GMT",
       "source": "TVN24"
     }
   ]
