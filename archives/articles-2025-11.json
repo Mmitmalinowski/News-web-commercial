@@ -1,12 +1,84 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T10:48:00.341Z",
+  "generatedAt": "2025-11-17T10:57:20.881Z",
   "items": [
+    {
+      "title": "Kup smartfon, a Samsung dorzuci jeszcze prezent",
+      "link": "https://www.tabletowo.pl/kup-smartfon-a-samsung-dorzuci-jeszcze-prezent/",
+      "pubDate": "Mon, 17 Nov 2025 10:56:24 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Moots właśnie zbudował rower dla tych, którzy nie potrafią wybrać między gravelem a MTB",
+      "link": "https://www.chip.pl/2025/11/moots-rower-scrambler-gravel-mtb",
+      "pubDate": "Mon, 17 Nov 2025 10:56:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Tim Cook musi aktualizować CV? Nadciąga trzęsienie ziemi w Apple",
+      "link": "https://android.com.pl/tech/991992-sukcesja-w-apple-tim-cook-moze-odejsc/",
+      "pubDate": "Mon, 17 Nov 2025 10:52:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Akty dywersji na kolei. Zanim zauważono wyrwę, przez tory przejechały trzy pociągi",
+      "link": "https://www.rmf24.pl/fakty/polska/news-akty-dywersji-na-kolei-zanim-zauwazono-wyrwe-przez-tory-prze,nId,8041166",
+      "pubDate": "Mon, 17 Nov 2025 11:51:02 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Barbarzyńcy z Rosji. \"Rusicz\" ogłosiła przerażający konkurs fotograficzny",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-barbarzyncy-z-rosji-rusicz-oglosila-przerazajacy-konkurs-fot,nId,8041151",
+      "pubDate": "Mon, 17 Nov 2025 11:50:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Co drugi Polak ma kredyt. Zadłużenie rośnie, ale wciąż odstajemy od Europy",
+      "link": "https://businessinsider.com.pl/gospodarka/raport-zbp-ujawnia-zadluzenie-polakow-kredyty-i-pozyczki-na-rekordowym-poziomie/l69vtlc",
+      "pubDate": "Mon, 17 Nov 2025 10:49:09 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Bruksela zmienia prognozy dla Polski",
+      "link": "https://tvn24.pl/biznes/z-kraju/bruksela-zmienia-prognozy-dla-polski-st8755644?source=rss",
+      "pubDate": "Mon, 17 Nov 2025 10:48:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "USA dokręcają potężną śrubę Rosji i jej sojusznikom. Kongres podnosi stawkę, Donald Trump popiera. \"Nie mam nic przeciwko\"",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-dokrecaja-potezna-srube-rosji-i-jej-sojusznikom-kongres-podnosi-stawke-donald/sz9hldb",
+      "pubDate": "Mon, 17 Nov 2025 10:46:56 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ekspert ostrzega przed sabotażem na kolei. \"Zagrożenie będzie rosło\"",
+      "link": "https://wiadomosci.onet.pl/kraj/ekspert-ostrzega-przed-sabotazem-na-kolei-zagrozenie-bedzie-roslo/tpzmls2",
+      "pubDate": "Mon, 17 Nov 2025 10:46:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Reeves could allow holiday tax on English hotel and Airbnb stays",
+      "link": "https://www.theguardian.com/business/2025/nov/17/rachel-reeves-holiday-tax-english-hotel-airbnb-stays",
+      "pubDate": "Mon, 17 Nov 2025 10:44:23 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "KE zmienia zdanie. Podała nowe prognozy dla polskiej gospodarki",
       "link": "https://www.money.pl/gospodarka/ke-zmienia-zdanie-podala-nowe-prognozy-dla-polskiej-gospodarki-7222785881590656a.html",
       "pubDate": "Mon, 17 Nov 2025 11:43:49 +0100",
       "source": "Money.pl"
+    },
+    {
+      "title": "\"Nasze kampanie inspirowane są prawdziwymi historiami\"",
+      "link": "https://businessinsider.com.pl/media/nasze-kampanie-inspirowane-sa-prawdziwymi-historiami/lrhgxqx",
+      "pubDate": "Mon, 17 Nov 2025 10:43:02 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Gruzja zamknie biuro antykorupcyjne, ustanowione na podstawie zaleceń UE",
+      "link": "https://www.bankier.pl/wiadomosc/Gruzja-zamknie-biuro-antykorupcyjne-ustanowione-na-podstawie-zalecen-UE-9040615.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 17 Nov 2025 11:43:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Podziemne szpitale powstaną w Polsce? \"Chcemy stworzyć sieć\"",
@@ -281,6 +353,12 @@
     {
       "title": "Ukraine updates: Odesa attack sparks port fires",
       "link": "https://www.dw.com/en/ukraine-updates-odesa-attack-sparks-port-fires/live-74772550?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 17 Nov 2025 09:54:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ukraine updates: Zelenskyy, Macron talk air defense in Paris",
+      "link": "https://www.dw.com/en/ukraine-updates-zelenskyy-macron-talk-air-defense-in-paris/live-74772550?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 17 Nov 2025 09:54:00 GMT",
       "source": "DW"
     },
@@ -1163,6 +1241,12 @@
     {
       "title": "\"Bezprecedensowy akt dywersji\". Tusk: dopadniemy ich ",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/akt-dywersji-na-trasie-warszawa-lublin-wies-mika-st8755372?source=rss",
+      "pubDate": "Mon, 17 Nov 2025 08:02:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Bezprecedensowy akt dywersji\". Tusk: dopadniemy ich ",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/eksplozja-ladunku-zniszczyla-tor-kolejowy-akt-dywersji-na-trasie-warszawa-lublin-donald-tusk-komentuje-st8755372?source=rss",
       "pubDate": "Mon, 17 Nov 2025 08:02:08 GMT",
       "source": "TVN24"
     },
@@ -19779,6 +19863,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -26313,6 +26421,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -26491,6 +26623,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -40670,6 +40826,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79135,114 +79315,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Agencja-S-P-utrzymala-rating-Polski-na-poziomie-A-z-perspektywa-stabilna-9037050.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 7 Nov 2025 22:25:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Sejm przedłużył zawieszenie prawa do azylu na granicy PL-BY",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/sejm-przedluzyl-zawieszenie-prawa-do-azylu-na-granicy-pl-by",
-      "pubDate": "Fri, 07 Nov 2025 21:23:45 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Polka podawała się za zaginioną dziewczynkę. Brytyjski sąd wydał wyrok",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-polka-podawala-sie-za-zaginiona-dziewczynke-brytyjski-sad-wy,nId,22452407",
-      "pubDate": "Fri, 07 Nov 2025 21:21:50 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Spór Tuska z Nawrockim. Wkracza Siemoniak, pokazał dokument",
-      "link": "https://tvn24.pl/polska/tomasz-siemoniak-odpowiada-karolowi-nawrockiemu-prezydent-zemscil-sie-na-funkcjonariuszach-st8742256?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 21:15:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jest ruch prokuratury w sprawie Zbigniewa Ziobry. Wydano postanowienie",
-      "link": "https://wydarzenia.interia.pl/kraj/news-jest-ruch-prokuratury-w-sprawie-zbigniewa-ziobry-wydano-post,nId,22452441",
-      "pubDate": "Fri, 07 Nov 2025 21:14:33 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Świat odwraca się od rosyjskiej ropy. Azja zrywa kontrakty, Arabia kusi dużymi zniżkami",
-      "link": "https://energia.rp.pl/ropa/art43306461-swiat-odwraca-sie-od-rosyjskiej-ropy-azja-zrywa-kontrakty-arabia-kusi-duzymi-znizkami",
-      "pubDate": "Fri, 07 Nov 2025 22:12:22 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Jest postanowienie prokuratury ws. Zbigniewa Ziobry",
-      "link": "https://www.rmf24.pl/fakty/polska/news-jest-postanowienie-prokuratury-ws-zbigniewa-ziobry,nId,8038906",
-      "pubDate": "Fri, 07 Nov 2025 22:09:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zarzuty i areszt dla Ziobry. Jest postanowienie prokuratora",
-      "link": "https://www.bankier.pl/wiadomosc/Zarzuty-i-areszt-dla-Ziobry-Jest-postanowienie-prokuratora-9037042.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 22:08:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Nie płacisz za YouTube Premium? To już niczego nie obejrzysz",
-      "link": "https://antyweb.pl/nie-placisz-za-youtube-premium-to-juz-niczego-nie-obejrzysz",
-      "pubDate": "Fri, 07 Nov 2025 21:07:59 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Zbigniew Ziobro bez immunitetu. Jest pierwsza reakcja prokuratury",
-      "link": "https://wiadomosci.onet.pl/kraj/zbigniew-ziobro-bez-immunitetu-jest-pierwsza-reakcja-prokuratury/pj7791s",
-      "pubDate": "Fri, 07 Nov 2025 21:05:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zbigniew Ziobro bez immunitetu. Jest pierwsza reakcja prokuratury",
-      "link": "https://wiadomosci.onet.pl/kraj/zbigniew-ziobro-bez-immunitetu-jest-reakcja-prokuratury/pj7791s",
-      "pubDate": "Fri, 07 Nov 2025 21:05:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nastroje się pogorszyły. Tak na Wall Street jak i wśród Amerykanów",
-      "link": "https://www.bankier.pl/wiadomosc/Nastroje-sie-pogorszyly-Tak-na-Wall-Street-jak-i-wsrod-zwyklych-Amerykanow-9037039.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 7 Nov 2025 22:05:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Kumulacja w Eurojackpot rozbita",
-      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-7-listopada-2025-liczby-i-wygrane-z-ostatniego-losowania-st8742234?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 21:03:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Chwile grozy na pokładzie samolotu Ryanair. Wysłano komunikat \"mayday\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-07/chwile-grozy-na-pokladzie-samolotu-ryanair-wyslano-komunikat-mayday/",
-      "pubDate": "Fri, 07 Nov 2025 22:02:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Nowe korzyści i nowe obowiązki biur podróży – Sejm zmienił ustawę o imprezach turystycznych",
-      "link": "https://turystyka.rp.pl/biura-podrozy/art43306621-nowe-korzysci-i-nowe-obowiazki-biur-podrozy-sejm-zmienil-ustawe-o-imprezach-turystycznych",
-      "pubDate": "Fri, 07 Nov 2025 22:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Błyskawiczny ruch prokuratury w sprawie Ziobry",
-      "link": "https://tvn24.pl/polska/blyskawiczny-ruch-prokuratury-w-sprawie-ziobry-st8742267?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 20:58:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Błyskawiczny ruch prokuratury w sprawie Ziobry. \"Państwo działa. Dobranoc\"",
-      "link": "https://tvn24.pl/polska/blyskawiczny-ruch-prokuratury-w-sprawie-ziobry-panstwo-dziala-dobranoc-st8742267?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 20:58:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Błyskawiczny ruch prokuratury w sprawie Ziobry. \"Państwo działa. Dobranoc\"",
-      "link": "https://tvn24.pl/polska/zbigniew-ziobro-bez-immunitetu-blyskawiczny-ruch-prokuratury-st8742267?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 20:58:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zbigniew Ziobro stracił immunitet. Tak głosowali posłowie",
-      "link": "https://wiadomosci.onet.pl/kraj/immunitet-zbigniewa-ziobry-tak-glosowaly-poszczegolne-kluby-poselskie/5z267gs",
-      "pubDate": "Fri, 07 Nov 2025 20:58:04 GMT",
-      "source": "Onet"
     }
   ]
 }
