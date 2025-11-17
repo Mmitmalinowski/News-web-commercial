@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T23:20:18.984Z",
+  "generatedAt": "2025-11-17T23:34:15.364Z",
   "items": [
+    {
+      "title": "Web Summit po raz pierwszy w Polsce? Trwają rozmowy",
+      "link": "https://www.wirtualnemedia.pl/web-summit-po-raz-pierwszy-w-polsce-trwaja-rozmowy,7222874846308896a",
+      "pubDate": "Tue, 18 Nov 2025 00:31:06 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Polskie dzieci marzą o karierach w social mediach. Autorytetem Lewandowski",
+      "link": "https://www.wirtualnemedia.pl/polskie-dzieci-marza-o-karierach-w-social-mediach-autorytetem-lewandowski,7222872067594784a",
+      "pubDate": "Tue, 18 Nov 2025 00:27:13 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Plan Trumpa dla Strefy Gazy. Jest decyzja Rady Bezpieczeństwa ONZ",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-plan-trumpa-dla-strefy-gazy-jest-decyzja-rady-bezpieczenstwa,nId,22455162",
+      "pubDate": "Mon, 17 Nov 2025 23:26:19 GMT",
+      "source": "Interia"
+    },
     {
       "title": "\"Polsat Box prezentuje się pod choinkę\".  Dorota Kolak i Jacek Braciak w świątecznej kampanii",
       "link": "https://www.wirtualnemedia.pl/polsat-box-prezentuje-sie-pod-choinke-dorota-kolak-i-jacek-braciak-w-swiatecznej-kampanii,7222896961014272a",
@@ -19,6 +37,12 @@
       "link": "https://pro.rp.pl/kalendarium/art43351251-kalendarium-wtorek-18-listopada",
       "pubDate": "Tue, 18 Nov 2025 00:07:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Reform would ‘cut benefits for EU nationals and hike NHS immigration surcharge’",
+      "link": "https://www.theguardian.com/politics/2025/nov/17/reform-would-cut-benefits-and-hike-nhs-surcharge-for-eu-nationals",
+      "pubDate": "Mon, 17 Nov 2025 23:06:02 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Koniec sporu Disney z YouTube. Kanały wróciły na platformę",
@@ -83,6 +107,12 @@
     {
       "title": "Holendrzy nie zostawili złudzeń. Show Niemców w Lipsku",
       "link": "https://www.rmf24.pl/sport/pilka-nozna/news-holendrzy-nie-zostawili-zludzen-show-niemcow-w-lipsku,nId,8041473",
+      "pubDate": "Mon, 17 Nov 2025 23:27:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Holendrzy nie pozostawili złudzeń. Show Niemców w Lipsku",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-holendrzy-nie-pozostawili-zludzen-show-niemcow-w-lipsku,nId,8041473",
       "pubDate": "Mon, 17 Nov 2025 23:27:00 +0100",
       "source": "RMF24"
     },
@@ -623,6 +653,12 @@
     {
       "title": "Chciał ostrzec sąsiadkę, sam zginął. Tragiczne skutki lawiny błotnej we Włoszech",
       "link": "https://www.rmf24.pl/fakty/swiat/news-chcial-ostrzec-sasiadke-sam-zginal-tragiczne-skutki-lawiny-b,nId,8041439",
+      "pubDate": "Mon, 17 Nov 2025 20:07:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Chciał pomóc sąsiadce, sam zginął. Tragiczne skutki lawiny błotnej we Włoszech",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-chcial-pomoc-sasiadce-sam-zginal-tragiczne-skutki-lawiny-blo,nId,8041439",
       "pubDate": "Mon, 17 Nov 2025 20:07:00 +0100",
       "source": "RMF24"
     },
@@ -2377,6 +2413,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -26355,6 +26415,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -27247,6 +27331,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -39782,6 +39890,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -54854,6 +54986,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82902,72 +83058,6 @@
       "title": "Siergiej Ławrow powrócił. W nowym wywiadzie przypomniał o rzekomych ustaleniach Putina i Trumpa. \"Najwyraźniej pojawiły się trudności\"",
       "link": "https://wiadomosci.onet.pl/politico/lawrow-wrocil-w-nowym-wywiadzie-przypomnial-o-rzekomych-ustaleniach-putina-i-trumpa/mxybveg",
       "pubDate": "Sun, 09 Nov 2025 11:16:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szykuje się na tąpnięcie temperatury. Silna fala zimna zmierza w stronę Polski [POGODA]",
-      "link": "https://wiadomosci.onet.pl/pogoda/fala-wielkiego-chlodu-uderzy-w-polske-pogoda-diametralnie-sie-zmieni/vl4ly26",
-      "pubDate": "Sun, 09 Nov 2025 11:14:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowy powerbank Xiaomi pozwala zapomnieć o dwóch rzeczach",
-      "link": "https://www.tabletowo.pl/xiaomi-5000-mah-magnetic-ultra-slim-powerbank/",
-      "pubDate": "Sun, 09 Nov 2025 11:14:40 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Android 16 z istotną zmianą. W grę wchodzi twoja prywatność",
-      "link": "https://android.com.pl/tech/989863-android-16-nowa-funkcja-lokalizacji/",
-      "pubDate": "Sun, 09 Nov 2025 11:10:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Słowacja sprzeciwia się wykorzystaniu zamrożonych rosyjskich aktywów. \"Mamy dać pieniądze Ukrainie, by utrzymać wojnę?\"",
-      "link": "https://businessinsider.com.pl/polityka/slowacja-sprzeciwia-sie-wykorzystaniu-zamrozonych-rosyjskich-aktywow-mamy-dac/g9xgetb",
-      "pubDate": "Sun, 09 Nov 2025 11:10:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Donald Tusk czy Karol Nawrocki? Polacy wskazali lepszego polityka [SONDAŻ]",
-      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-czy-karol-nawrocki-polacy-wskazali-lepszego-polityka-sondaz/lgvddby",
-      "pubDate": "Sun, 09 Nov 2025 11:08:20 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Samorządy oburzone planami MF. „Drastyczny spadek dochodów”",
-      "link": "https://regiony.rp.pl/finanse-w-regionach/art43305031-samorzady-oburzone-planami-mf-drastyczny-spadek-dochodow",
-      "pubDate": "Sun, 09 Nov 2025 12:06:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rodzina od trzech lat walczy o dostęp do własnego domu. \"Grozi nam osiem lat więzienia\"",
-      "link": "https://wiadomosci.onet.pl/slask/rodzina-walczy-o-dostep-do-wlasnego-domu-grozi-nam-osiem-lat-wiezienia/bjqcc0z",
-      "pubDate": "Sun, 09 Nov 2025 11:05:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kolejna fala izraelskich nalotów. Jeden w pobliżu szpitala",
-      "link": "https://tvn24.pl/swiat/liban-kolejna-fala-izraelskich-nalotow-trzy-osoby-nie-zyja-sa-ranni-st8743383?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 11:05:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Dzieci adopcyjne będą miały pozakolejkowy dostęp do opieki zdrowotnej",
-      "link": "https://www.bankier.pl/wiadomosc/Dzieci-adopcyjne-beda-mialy-pozakolejkowy-dostep-do-opieki-zdrowotnej-9037273.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 9 Nov 2025 12:05:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Spotify odpala petardę. Udostępnia wszystkim niezwykłą funkcję",
-      "link": "https://antyweb.pl/spotify-odpala-petarde-udostepnia-wszystkim-niezwykla-funkcje",
-      "pubDate": "Sun, 09 Nov 2025 11:00:55 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Siergiej Ławrow mówi o kulisach rozmów z USA. \"Ta kwestia jest rozpatrywana\"",
-      "link": "https://wiadomosci.onet.pl/swiat/siergiej-lawrow-mowi-o-kulisach-rozmow-z-usa-ta-kwestia-jest-rozpatrywana/2c3cerr",
-      "pubDate": "Sun, 09 Nov 2025 11:00:53 GMT",
       "source": "Onet"
     }
   ]
