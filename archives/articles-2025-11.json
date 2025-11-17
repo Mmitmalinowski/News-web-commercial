@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T22:17:02.889Z",
+  "generatedAt": "2025-11-17T22:36:59.127Z",
   "items": [
+    {
+      "title": "Ostre słowa Donalda Trumpa o Wenezueli. \"Musimy się nią zająć\"",
+      "link": "https://wiadomosci.onet.pl/swiat/ostre-slowa-donalda-trumpa-o-wenezueli-musimy-sie-nia-zajac/6vm94lj",
+      "pubDate": "Mon, 17 Nov 2025 22:30:02 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Holendrzy nie zostawili złudzeń. Show Niemców w Lipsku",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-holendrzy-nie-zostawili-zludzen-show-niemcow-w-lipsku,nId,8041473",
+      "pubDate": "Mon, 17 Nov 2025 23:27:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Malta – Polska 2:3. Niespodziewane męki na koniec eliminacji mundialu, uratował nas rykoszet",
+      "link": "https://sport.rp.pl/pilka-nozna/art43351541-malta-polska-2-3-niespodziewane-meki-na-koniec-eliminacji-mundialu-uratowal-nas-rykoszet",
+      "pubDate": "Mon, 17 Nov 2025 23:17:11 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Victorian Liberal party ousts Brad Battin to install Jess Wilson as first female leader",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/18/victorian-liberal-party-ousts-brad-battin-to-install-jess-wilson-as-first-female-leader",
+      "pubDate": "Mon, 17 Nov 2025 22:13:34 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Kto rywalem Polski w barażach o mundial? Unikniemy Włochów pod dwoma warunkami",
       "link": "https://sport.rp.pl/pilka-nozna/art43351411-kto-rywalem-polski-w-barazach-o-mundial-unikniemy-wlochow-pod-dwoma-warunkami",
@@ -2281,6 +2305,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -6815,6 +6863,12 @@
     {
       "title": "Germany news: Klingbeil in China seeks better trade ties",
       "link": "https://www.dw.com/en/germany-news-klingbeil-in-china-seeks-better-trade-ties/live-74771192?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 17 Nov 2025 07:22:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Germany news: Berlin commits €60 million to Adaptation Fund",
+      "link": "https://www.dw.com/en/germany-news-berlin-commits-€60-million-to-adaptation-fund/live-74771192?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 17 Nov 2025 07:22:00 GMT",
       "source": "DW"
     },
@@ -26055,6 +26109,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -26947,6 +27025,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -39386,6 +39488,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -54362,6 +54488,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82549,66 +82699,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/trzesienie-ziemi-na-pacyfiku-japonia-ostrzega-przed-tsunami/g5nwfwd",
       "pubDate": "Sun, 09 Nov 2025 10:33:29 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Jaki tani odkurzacz pionowy? Najlepsze odkurzacze do 500 i 1000 złotych",
-      "link": "https://www.tabletowo.pl/jaki-tani-odkurzacz-pionowy-ranking/",
-      "pubDate": "Sun, 09 Nov 2025 10:33:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Wstrząsy na Pacyfiku. Japonia wydała ostrzeżenia przed tsunami",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-09/wstrzasy-na-pacyfiku-japonia-wydala-ostrzezenia-przed-tsunami/",
-      "pubDate": "Sun, 09 Nov 2025 11:31:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Prezes Biura Informacji Kredytowej: nie powinniśmy dopuścić do rozszczelnienia systemu",
-      "link": "https://businessinsider.com.pl/finanse/mariusz-cholewa-o-cyberoszustwach-prezes-bik-mowi-jak-technologia-pomaga-sie-bronic/1q8f9bn",
-      "pubDate": "Sun, 09 Nov 2025 10:30:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Pogoda na 16 dni. Zbliża się przedzimie",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-pogoda-na-11-listopada-prognoza-dlugoterminowa-tomasza-wasilewskiego-st8743604?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 10:28:09 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Uciekł przez okno, ratując się przed torturami. \"Prosił o wodę i o wezwanie pogotowia\"",
-      "link": "https://tvn24.pl/lodz/lodz-wyskoczyl-przez-okno-ratujac-sie-przed-torturami-prosil-o-wode-i-o-wezwanie-pogotowia-st8743632?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 10:26:34 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "To największe wyzwanie rzucone Trumpowi. Ale Demokraci nadal mają problem",
-      "link": "https://wiadomosci.onet.pl/opinie/to-najwieksze-wyzwanie-rzucone-trumpowi-ale-demokraci-nadal-maja-problem/gn4qx65",
-      "pubDate": "Sun, 09 Nov 2025 10:19:54 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jak rodzą się supertajfuny i dlaczego tak często niszczą Filipiny?",
-      "link": "https://geekweek.interia.pl/meteorologia/news-jak-rodza-sie-supertajfuny-i-dlaczego-tak-czesto-niszcza-fil,nId,22452640",
-      "pubDate": "Sun, 09 Nov 2025 10:19:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Polska chce uregulować rynek kryptowalut. \"Poszkodowane będą uczciwe firmy\"",
-      "link": "https://tvn24.pl/biznes/rynki/rynek-kryptowalut-w-polsce-wymaga-regulacji-jurand-drop-bez-ustawy-poszkodowane-beda-uczciwe-firmy-st8743648?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 10:18:29 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Marek Woźniak: Chcemy tworzyć sieć miejsc ochrony ludności",
-      "link": "https://regiony.rp.pl/okiem-samorzadowca/art43298851-marek-wozniak-chcemy-tworzyc-siec-miejsc-ochrony-ludnosci",
-      "pubDate": "Sun, 09 Nov 2025 11:18:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dworzec Centralny wyłączony z ruchu. \"Pasażerowie dobrze sobie radzą z sytuacją\"",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-remont-dworca-centralnego-sytuacja-na-innych-dworcach-st8743603?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 10:16:50 GMT",
-      "source": "TVN24"
     }
   ]
 }
