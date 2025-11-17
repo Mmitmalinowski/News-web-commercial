@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T19:47:12.922Z",
+  "generatedAt": "2025-11-17T19:56:15.943Z",
   "items": [
+    {
+      "title": "Najbardziej \"znienawidzony\" senator. Ted Cruz chce walczyć o Biały Dom",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-17/najbardziej-znienawidzony-senator-ted-cruz-chce-walczyc-o-bialy-dom/",
+      "pubDate": "Mon, 17 Nov 2025 20:49:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Amerykański gigant w grze o przejęcie cennych aktywów rosyjskiego Łukoila",
+      "link": "https://businessinsider.com.pl/biznes/kto-przejmie-aktywa-lukoila-amerykanski-gigant-w-grze/21fmm1v",
+      "pubDate": "Mon, 17 Nov 2025 19:48:13 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Woman killed herself after south London hospital neglect, coroner concludes",
+      "link": "https://www.theguardian.com/society/2025/nov/17/woman-killed-herself-after-south-london-hospital-neglect-coroner-concludes",
+      "pubDate": "Mon, 17 Nov 2025 19:46:42 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "USA o krok od kluczowej ustawy. Chodzi o sankcje Trumpa na Rosję",
       "link": "https://biznes.interia.pl/gospodarka/news-kongres-usa-o-krok-od-kluczowej-ustawy-chodzi-o-sankcje-trum,nId,22455136",
@@ -15,6 +33,12 @@
       "source": "OKO.press"
     },
     {
+      "title": "Ukraine to get up to 100 French-made Rafale fighter jets",
+      "link": "https://www.bbc.com/news/articles/cwy170jkekdo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 17 Nov 2025 19:42:33 GMT",
+      "source": "BBC News"
+    },
+    {
       "title": "Biura podróży wstrzymują sprzedaż. Te wypowiedzi \"drastycznie pogorszyły atmosferę\"",
       "link": "https://tvn24.pl/biznes/ze-swiata/chiny-japonia-biura-podrozy-wstrzymuja-sprzedaz-te-wypowiedzi-drastycznie-pogorszyly-atmosfere-st8756751?source=rss",
       "pubDate": "Mon, 17 Nov 2025 19:41:10 GMT",
@@ -25,6 +49,12 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-produkt-pilnie-wycofywany-z-rynku-wykryto-niebezpieczne-subs,nId,8041447",
       "pubDate": "Mon, 17 Nov 2025 20:39:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Acting Fema head resigns after furor over handling of deadly Texas flooding",
+      "link": "https://www.theguardian.com/us-news/2025/nov/17/fema-acting-administrator-resignation",
+      "pubDate": "Mon, 17 Nov 2025 19:38:32 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Windows pod ostrzałem. Szef Microsoftu próbuje gasić pożar",
@@ -1933,6 +1963,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -25227,6 +25281,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -26119,6 +26197,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -38318,6 +38420,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -53054,6 +53180,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81649,66 +81799,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Skad-weto-ws-utworzenia-nowego-parku-narodowego-Rzecznik-prezydenta-tlumaczy-9037211.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 9 Nov 2025 08:59:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Takiego doświadczenia jak nasze nie miał nikt\". Ukraińcy dzielą się wiedzą z przygotowania na kryzysy",
-      "link": "https://www.bankier.pl/wiadomosc/Takiego-doswiadczenia-jak-nasze-nie-mial-nikt-Ukraincy-dziela-sie-z-krajami-baltyckimi-doswiadczeniem-z-przygotowania-na-kryzysy-9037227.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 9 Nov 2025 08:55:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "France's 'yellow vest' activists find a new voice on stage",
-      "link": "https://www.dw.com/en/france-s-yellow-vest-activists-find-a-new-voice-on-stage/a-74573451?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 9 Nov 2025 07:54:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "BBC on Luzon Island as super typhoon nears Philippines",
-      "link": "https://www.bbc.com/news/videos/c20p2m83p5go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 09 Nov 2025 07:53:37 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Kometa 3I/ATLAS świeci na zielono. Międzygwiezdny obiekt ukrywa swój warkocz",
-      "link": "https://www.chip.pl/2025/11/3i-atlas-kometa-obiekt-miedzygwiezdny-koma",
-      "pubDate": "Sun, 09 Nov 2025 07:49:22 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Jesienna szaruga ogarnęła Polskę. Wiemy, czy w kolejnych dniach pogoda się zmieni",
-      "link": "https://wiadomosci.onet.pl/pogoda/ponura-jesien-ogarnela-polske-wiemy-co-z-pogoda-w-kolejnych-dniach/x8677pb",
-      "pubDate": "Sun, 09 Nov 2025 07:48:06 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rodziców adopcyjnych jest mniej niż dzieci, które poszukują domu",
-      "link": "https://www.bankier.pl/wiadomosc/Rodzicow-adopcyjnych-jest-mniej-niz-dzieci-ktore-poszukuja-domu-9037243.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 9 Nov 2025 08:42:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Kijów trafił w elektrociepłownię. Przerwy w dostawie prądu i ciepła",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kijow-trafil-w-elektrocieplownie-przerwy-w-dostawie-pradu-i-,nId,8039207",
-      "pubDate": "Sun, 09 Nov 2025 08:41:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Nie każdy dług trzeba spłacać. Wystarczy, że dłużnik poczeka",
-      "link": "https://biznes.interia.pl/finanse/news-nie-kazdy-dlug-trzeba-splacac-wystarczy-ze-dluznik-poczeka,nId,22450215",
-      "pubDate": "Sun, 09 Nov 2025 07:40:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Padły dwie szóstki w Lotto. Ogromna kumulacja rozbita",
-      "link": "https://tvn24.pl/biznes/z-kraju/lotto-wyniki-z-dnia-8-11-2025-jakie-liczby-padly-podczas-losowania-st8743465?source=rss",
-      "pubDate": "Sun, 09 Nov 2025 07:39:11 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Back from the brink: UK red kites aid Spanish cousins",
-      "link": "https://www.bbc.com/news/articles/crrez8x7l55o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 09 Nov 2025 07:38:34 GMT",
-      "source": "BBC News"
     }
   ]
 }
