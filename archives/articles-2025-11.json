@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T05:46:02.860Z",
+  "generatedAt": "2025-11-17T05:55:06.414Z",
   "items": [
+    {
+      "title": "Wróciłem do Guitar Hero po dekadzie. Dalej wciąga tak samo",
+      "link": "https://android.com.pl/tech/991143-guitar-hero-wrocilem-po-dekadzie/",
+      "pubDate": "Mon, 17 Nov 2025 05:50:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "The Big Question: Has Europe improved its competitiveness since the Draghi report?",
+      "link": "http://www.euronews.com/business/2025/11/17/the-big-question-has-europe-improved-its-competitiveness-since-the-draghi-report",
+      "pubDate": "Mon, 17 Nov 2025 06:47:08 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Polska przeciw obowiązkowemu skanowaniu prywatnych wiadomości. Kontrowersyjna propozycja w UE",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/polska-przeciw-obowiazkowemu-skanowaniu-wiadomosci-kontrowersyjna-propozycja-w-ue/4g8xw9k",
+      "pubDate": "Mon, 17 Nov 2025 05:46:59 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "\"Bulwersujący przypadek\" na niemieckiej aukcji",
+      "link": "https://tvn24.pl/polska/aukcja-pamiatek-po-zbrodniach-bulwersujacy-przypadek-st8755173?source=rss",
+      "pubDate": "Mon, 17 Nov 2025 05:45:33 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "\"Szczurza ulica\" we Wrocławiu. Mieszkańcy walczą z plagą gryzoni",
       "link": "https://wiadomosci.onet.pl/wroclaw/szczurza-ulica-we-wroclawiu-mieszkancy-walcza-z-plaga-gryzoni/mllqqc5",
       "pubDate": "Mon, 17 Nov 2025 05:42:27 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "USA chcą zadać potężny cios Rosji. Trump stawia sprawę jasno",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-usa-chca-zadac-potezny-cios-rosji-trump-stawia-sprawe-jasno,nId,22454734",
+      "pubDate": "Mon, 17 Nov 2025 05:41:37 GMT",
+      "source": "Interia"
     },
     {
       "title": "Bosch i ZF chcą zelektryfikować traktor. Oto technologie, które mogą zmienić rolnictwo",
@@ -17223,6 +17253,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -23397,6 +23451,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Przyłapani na gorącym uczynku. Jest apel: Weź kolegę do lekarza, a nie do tunelu",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-przylapani-na-goracym-uczynku-jest-apel-wez-kolege-do-lekarz,nId,8040405",
       "pubDate": "Fri, 14 Nov 2025 11:48:00 +0100",
@@ -23575,6 +23653,30 @@
       "link": "https://edukacja.rp.pl/badania-rozwoj-biznes/art43334431-malachowski-wspolpraca-nauki-z-biznesem-to-wyzwanie-ktore-nalezy-podjac",
       "pubDate": "Fri, 14 Nov 2025 11:25:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -37394,6 +37496,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -78109,60 +78235,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/oswiadczenie-poslow-pis-or-711/5wlv8zb",
       "pubDate": "Fri, 07 Nov 2025 14:20:59 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Po spotkaniu szefów resortu zdrowia i finansów: dodatkowe pieniądze dla NFZ",
-      "link": "https://tvn24.pl/zdrowie/po-spotkaniu-szefow-resortu-zdrowia-i-finansow-dodatkowe-pieniadze-dla-nfz-st8741606?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 14:20:11 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jan Maciejewski: Listopad ma w sobie wszystko, co trzeba wiedzieć o świecie",
-      "link": "https://www.rp.pl/plus-minus/art43298121-jan-maciejewski-listopad-ma-w-sobie-wszystko-co-trzeba-wiedziec-o-swiecie",
-      "pubDate": "Fri, 07 Nov 2025 15:20:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rosjanie zaniepokojeni. Wiodące zakłady zbrojeniowe szykują zwolnienia",
-      "link": "https://tech.wp.pl/rosjanie-zaniepokojeni-wiodace-zaklady-zbrojeniowe-szykuja-zwolnienia,7219290092501952a",
-      "pubDate": "Fri, 07 Nov 2025 15:19:24 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Domański spotkał się z minister zdrowia. \"Rozmawiamy o dodatkowej kwocie\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-domanski-spotkal-sie-z-minister-zdrowia-rozmawiamy-o-dodatko,nId,22452017",
-      "pubDate": "Fri, 07 Nov 2025 14:19:15 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Miliardy złotych wsparcia dla NFZ. Ministerstwo podjęło decyzję",
-      "link": "https://biznes.interia.pl/gospodarka/news-miliardy-zlotych-wsparcia-dla-nfz-ministerstwo-podjelo-decyz,nId,22452017",
-      "pubDate": "Fri, 07 Nov 2025 14:19:15 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "NS&I increases interest rates on fixed-term savings accounts",
-      "link": "https://www.theguardian.com/money/2025/nov/07/nsi-increases-interest-rates-on-fixed-term-savings-accounts",
-      "pubDate": "Fri, 07 Nov 2025 14:18:59 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "W weekend pogoda mocno się zmieni",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-5-dni-zgnily-wyz-w-weekend-pogoda-mocno-sie-zmieni-st8741484?source=rss",
-      "pubDate": "Fri, 07 Nov 2025 14:18:40 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Released Israeli hostage says he was sexually assaulted in Gaza captivity",
-      "link": "https://www.bbc.com/news/articles/cgkz0yzde80o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 07 Nov 2025 14:18:27 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Nowe podatność w ChatGPT ujawnione. Zagrożone dane użytkowników",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/nowe-podatnosc-w-chatgpt-ujawnione-zagrozone-dane-uzytkownikow",
-      "pubDate": "Fri, 07 Nov 2025 15:18:26 +0100",
-      "source": "Cyberdefence24"
     }
   ]
 }
