@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-17T18:35:02.994Z",
+  "generatedAt": "2025-11-17T18:53:17.139Z",
   "items": [
+    {
+      "title": "Policjantka z Opola zatrzymana. Nie dała się zbadać alkomatem",
+      "link": "https://wiadomosci.onet.pl/opole/afera-w-opolu-policjantka-od-wykroczen-nie-dala-sie-zbadac-alkomatem/th27rbl",
+      "pubDate": "Mon, 17 Nov 2025 18:48:43 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "X wprowadza szyfrowane wiadomości. Platforma Muska chce rzucić wyzwanie Messengerowi",
+      "link": "https://android.com.pl/tech/992210-x-wprowadza-szyfrowane-wiadomosci/",
+      "pubDate": "Mon, 17 Nov 2025 18:44:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Zginął pieszy potrącony przez samochód",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolka-minska-potracenie-pieszego-zmarl-mimo-wysilkow-ratownikow-st8756910?source=rss",
+      "pubDate": "Mon, 17 Nov 2025 18:43:09 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nowa inicjatywa Marty Nawrockiej. Pierwsza dama ujawnia szczegóły",
+      "link": "https://wydarzenia.interia.pl/kraj/news-nowa-inicjatywa-marty-nawrockiej-pierwsza-dama-ujawnia-szcze,nId,22455095",
+      "pubDate": "Mon, 17 Nov 2025 18:42:01 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Śmigłowiec wesprze WOT w patrolowaniu kolei",
+      "link": "https://www.rmf24.pl/fakty/polska/news-smiglowiec-wesprze-wot-w-patrolowaniu-kolei,nId,8041434",
+      "pubDate": "Mon, 17 Nov 2025 19:39:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Innowacje bliżej biznesu",
+      "link": "https://www.rp.pl/prawo-dla-ciebie/art43351021-innowacje-blizej-biznesu",
+      "pubDate": "Mon, 17 Nov 2025 19:39:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"Jesteśmy świadomi\". Dom aukcyjny zabrał głos po skandalu",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-jestesmy-swiadomi-niemiecki-dom-aukcyjny-przerywa-milczenie,nId,22455116",
+      "pubDate": "Mon, 17 Nov 2025 18:35:55 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Oppo pokazało nowe smartfony. Mają w sobie sporo elegancji",
       "link": "https://www.tabletowo.pl/oppo-reno-15-i-reno-15-pro-premiera-specyfikacja/",
@@ -73,6 +115,12 @@
       "link": "https://android.com.pl/tech/992179-samsung-aktualizuje-galaxy-s25-s24-s23/",
       "pubDate": "Mon, 17 Nov 2025 18:23:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "David Nicholls to adapt The Secret Diary of Adrian Mole Aged 13¾ for BBC",
+      "link": "https://www.theguardian.com/culture/2025/nov/17/david-nicholls-to-adapt-the-secret-diary-of-adrian-mole-aged-1334-for-bbc",
+      "pubDate": "Mon, 17 Nov 2025 18:20:08 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Jak się zabezpieczyć przed aktami dywersji?  Odpowie Paweł Kowal",
@@ -1609,6 +1657,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -24663,6 +24735,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -25555,6 +25651,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -37634,6 +37754,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -52250,6 +52394,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81181,84 +81349,6 @@
       "link": "https://www.dw.com/en/events-like-the-1938-pogroms-and-fall-of-the-berlin-wall-made-november-9-germany-s-day-of-destiny/a-74659144?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 9 Nov 2025 06:16:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Why is North Korea's women's football team so good",
-      "link": "https://www.dw.com/en/why-is-north-korea-s-women-s-football-team-so-good/a-70313505?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 9 Nov 2025 06:15:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Why North Korea's women's football team is so good",
-      "link": "https://www.dw.com/en/why-north-korea-s-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 9 Nov 2025 06:15:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Why the North Korean women's football team is so good",
-      "link": "https://www.dw.com/en/why-the-north-korean-women-s-football-team-is-so-good/a-70313505?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 9 Nov 2025 06:15:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Stworzyli sztuczny liść. Pomoże naszej planecie",
-      "link": "https://spidersweb.pl/2025/11/polsztuczny-lisc-wodor-co2-przelom.html",
-      "pubDate": "Sun, 09 Nov 2025 07:11:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Jan Paweł II wiedział. Ale na potrzeby jego beatyfikacji tę korespondencję ukryto",
-      "link": "https://oko.press/jan-pawel-ii-wiedzial-ale-na-potrzeby-beatyfikacji-korespondencje-ukryto",
-      "pubDate": "Sun, 09 Nov 2025 06:10:52 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Bunt pokolenia Z w kilku krajach. \"Niewiele dostali od świata\"",
-      "link": "https://wiadomosci.onet.pl/swiat/bunt-pokolenia-z-w-kilku-krajach-niewiele-dostali-od-swiata/gn09xyq",
-      "pubDate": "Sun, 09 Nov 2025 06:10:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Victoria police re-enact single gunshot heard hour after Dezi Freeman fled into Porepunkah bushland",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/09/victoria-police-re-enact-single-gunshot-heard-hour-after-dezi-freeman-fled-into-porepunkah-bushland",
-      "pubDate": "Sun, 09 Nov 2025 06:09:40 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Walka hinduskich nacjonalistów z własną historią. Jak opowiadać o Indiach? [WYWIAD]",
-      "link": "https://oko.press/walka-hinduskich-nacjonalistow-z-wlasna-historia-wywiad",
-      "pubDate": "Sun, 09 Nov 2025 06:06:43 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Testuję Oppo Find X9 Pro. Samsungu, Apple'u - zaczynam się o was bać",
-      "link": "https://spidersweb.pl/2025/11/oppo-find-x9-test-opinie.html",
-      "pubDate": "Sun, 09 Nov 2025 07:01:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Equivalised net income across Europe: Where do households earn the most?",
-      "link": "http://www.euronews.com/business/2025/11/09/equivalised-net-income-across-europe-where-do-households-earn-the-most",
-      "pubDate": "Sun, 09 Nov 2025 07:00:34 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Latest news bulletin | November 9th, 2025 – Morning",
-      "link": "http://www.euronews.com/video/2025/11/09/latest-news-bulletin-november-9th-2025-morning",
-      "pubDate": "Sun, 09 Nov 2025 07:00:33 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Makaron, antysemityzm i populiści. Na Litwie kultura wyszła na ulice",
-      "link": "https://oko.press/makaron-antysemityzm-i-populisci-na-litwie-kultura-wyszla-na-ulice",
-      "pubDate": "Sun, 09 Nov 2025 06:00:28 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Royal College of Psychiatrists faces member backlash over Qatar partnership",
-      "link": "https://www.theguardian.com/society/2025/nov/09/royal-college-of-psychiatrists-faces-member-backlash-over-qatar-partnership",
-      "pubDate": "Sun, 09 Nov 2025 06:00:25 GMT",
-      "source": "The Guardian"
     }
   ]
 }
