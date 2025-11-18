@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T23:39:44.913Z",
+  "generatedAt": "2025-11-18T23:49:39.675Z",
   "items": [
+    {
+      "title": "Australia has some of highest consumption rates of ultra-processed foods, researchers say",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/19/australia-ultra-processed-foods-consumption-rate-upf-lancet",
+      "pubDate": "Tue, 18 Nov 2025 23:30:00 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "US: Meta wins huge antitrust case, avoids break-up",
       "link": "https://www.dw.com/en/us-meta-wins-huge-antitrust-case-avoids-break-up/a-74798391?maca=en-rss-en-all-1573-xml-mrss",
@@ -10585,6 +10591,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -37509,6 +37539,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -38401,6 +38455,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -52400,6 +52478,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68936,6 +69038,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -88423,42 +88549,6 @@
       "link": "https://antyweb.pl/iphone-17-pro-max-google-pixel-10-pro-xl-samsung-galaxy-s25-ultra-porownanie-gigantow",
       "pubDate": "Tue, 11 Nov 2025 09:00:29 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Tornado z \"włosów bogini\" zawirowało nad wulkanem",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/hawaje-tornado-z-wlosow-bogini-zawirowalo-nad-wulkanem-st8746133?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 09:00:17 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nie tylko Narodowe Święto Niepodległości. To ważny dzień w całej Europie",
-      "link": "https://wydarzenia.interia.pl/religia/news-nie-tylko-narodowe-swieto-niepodleglosci-to-wazny-dzien-w-ca,nId,22450386",
-      "pubDate": "Tue, 11 Nov 2025 09:00:02 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zmarło tu 100 tys. ludzi. Była wyspą-kwarantanną",
-      "link": "https://tech.wp.pl/zmarlo-tu-100-tys-ludzi-byla-wyspa-kwarantanna,7218565611158208a",
-      "pubDate": "Tue, 11 Nov 2025 10:00:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Trump is not going to COP30 in Brazil, but America is",
-      "link": "https://www.dw.com/en/trump-is-not-going-to-cop30-in-brazil-but-america-is/a-74662940?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 11 Nov 2025 09:00:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Polski rynek najmu prywatnego czeka raczej ewolucja niż rewolucja",
-      "link": "https://www.bankier.pl/wiadomosc/Polski-rynek-najmu-prywatnego-czeka-raczej-ewolucja-niz-rewolucja-9031824.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 11 Nov 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Tajne testy jądrowe Rosji i Chin? Prof. Chmielewski: To niemożliwe",
-      "link": "https://www.bankier.pl/wiadomosc/Tajne-testy-jadrowe-Rosji-i-Chin-Prof-Chmielewski-To-niemozliwe-9034955.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 11 Nov 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
