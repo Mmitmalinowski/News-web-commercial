@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T22:28:33.363Z",
+  "generatedAt": "2025-11-18T22:44:00.123Z",
   "items": [
     {
       "title": "Stranded whale euthanized after failed rescue attempt off Oregon coast",
@@ -17,6 +17,12 @@
     {
       "title": "End spurt at the UN climate talks: What you need to know",
       "link": "https://www.dw.com/en/end-spurt-at-the-un-climate-talks-what-you-need-to-know/a-74796062?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 22:09:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Final push at the UN climate talks: What you need to know",
+      "link": "https://www.dw.com/en/final-push-at-the-un-climate-talks-what-you-need-to-know/a-74796062?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Tue, 18 Nov 2025 22:09:00 GMT",
       "source": "DW"
     },
@@ -73,6 +79,12 @@
       "link": "https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-polskie-materialy-wybuchowe-trafialy-do-izraela,nId,8041797",
       "pubDate": "Tue, 18 Nov 2025 22:25:29 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "'Things happen' - Trump defends Saudi crown prince over Khashoggi killing",
+      "link": "https://www.bbc.com/news/articles/cn0gdkwp2p9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Nov 2025 21:24:57 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Media: fabryka z Polski dostarczała materiały wybuchowe do Izraela",
@@ -3125,6 +3137,12 @@
     {
       "title": "Trzeci stopień alarmowy. Jakie będą kolejne kroki? ",
       "link": "https://tvn24.pl/polska/wiadomo-kto-stoi-za-aktami-dywersji-tusk-przedstawil-kolejne-kroki-st8758379?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 13:29:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Premier wprowadził trzeci stopień alarmowy CHARLIE na określonych liniach kolejowych ",
+      "link": "https://tvn24.pl/polska/trzeci-stopien-alarmowy-charlie-na-okreslonych-liniach-kolejowych-decyzja-premiera-st8758379?source=rss",
       "pubDate": "Tue, 18 Nov 2025 13:29:36 GMT",
       "source": "TVN24"
     },
@@ -10489,6 +10507,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -37173,6 +37215,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -38065,6 +38131,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -51944,6 +52034,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68360,6 +68474,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -87961,54 +88099,6 @@
       "link": "https://antyweb.pl/airpods-2025-ktore-wybrac",
       "pubDate": "Tue, 11 Nov 2025 08:00:41 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Zwrot na rynku. \"Wyboisty listopad\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-zwrot-na-rynku-wyboisty-listopad-st8746060?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 08:00:36 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zwrot na rynku. \"Wyboisty listopad\"",
-      "link": "https://tvn24.pl/biznes/rynki/usa-zwrot-na-rynku-wyboisty-listopad-st8746060?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 08:00:36 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Pitching rogala świętomarcińskiego? Challenge accepted",
-      "link": "https://mamstartup.pl/pitching-rogala-swietomarcinskiego-challenge-accepted/",
-      "pubDate": "Tue, 11 Nov 2025 08:00:12 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Violent reprisals after DRC whistleblowers discover profiteering in protected land",
-      "link": "https://www.theguardian.com/environment/2025/nov/11/violent-reprisals-after-drc-whistleblowers-discover-profiteering-in-protected-land",
-      "pubDate": "Tue, 11 Nov 2025 08:00:12 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Hungarian-British writer David Szalay wins prestigious Booker Prize for fiction with 'Flesh'",
-      "link": "http://www.euronews.com/culture/2025/11/11/hungarian-british-writer-david-szalay-wins-prestigious-booker-prize-for-fiction-with-flesh",
-      "pubDate": "Tue, 11 Nov 2025 08:59:24 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Prezydent złożył wieńce pod sześcioma pomnikami. \"Hołd dla Ojców naszej Niepodległości\"",
-      "link": "https://wiadomosci.onet.pl/kraj/prezydent-karol-nawrocki-zlozyl-wience-pod-pomnikami-ojcow-niepodleglosci/qmmgg8r",
-      "pubDate": "Tue, 11 Nov 2025 07:58:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Polska prezydencja ożywiła aktywność polskiego biznesu w Brukseli",
-      "link": "https://www.rp.pl/opinie-ekonomiczne/art43313591-polska-prezydencja-ozywila-aktywnosc-polskiego-biznesu-w-brukseli",
-      "pubDate": "Tue, 11 Nov 2025 08:58:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Lewandowski jako pierwszy w historii Polak rozświetlił Empire State Building z okazji Święta Niepodległości",
-      "link": "https://www.wirtualnemedia.pl/lewandowski-jako-pierwszy-w-historii-polak-rozswietlil-empire-state-building-z-okazji-swieta-niepodleglosci,7220621786688448a",
-      "pubDate": "Tue, 11 Nov 2025 08:56:04 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
