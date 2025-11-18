@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T21:51:13.911Z",
+  "generatedAt": "2025-11-18T22:00:19.276Z",
   "items": [
+    {
+      "title": "Ujawnienie akt Epsteina. Izba Reprezentantów podjęła niemal jednogłośną decyzję",
+      "link": "https://wiadomosci.onet.pl/swiat/ujawnienie-akt-epsteina-izba-reprezentantow-usa-podjela-decyzje/rzcnckt",
+      "pubDate": "Tue, 18 Nov 2025 21:52:37 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Lebanon says Israeli strike killed 13 people near Palestinian refugee camp",
       "link": "https://www.bbc.com/news/articles/c0l73j781y9o?at_medium=RSS&at_campaign=rss",
@@ -10441,6 +10447,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -37029,6 +37059,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -37921,6 +37975,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -51752,6 +51830,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68120,6 +68222,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -87793,42 +87919,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Ponad-60-tys-mieszkan-czeka-na-kupcow-Sprzedaz-u-deweloperow-poszla-w-gore-9037746.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 11 Nov 2025 08:31:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Śmierć 31-letniego Polaka na Maderze. Policja przekazała nowe informacje",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-11/smierc-31-letniego-polaka-na-maderze-policja-przekazala-nowe-informacje/",
-      "pubDate": "Tue, 11 Nov 2025 08:25:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Polscy renciści są coraz młodsi. Jak to wytłumaczyć?",
-      "link": "https://www.rp.pl/praca-emerytury-i-renty/art43313431-polscy-rencisci-sa-coraz-mlodsi-jak-to-wytlumaczyc",
-      "pubDate": "Tue, 11 Nov 2025 08:24:54 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Koncerty, wystawy, biegi patriotyczne. Tak Polacy będą świętować odzyskanie niepodległości",
-      "link": "https://tvn24.pl/polska/obchody-swieta-niepodleglosci-wydarzenia-w-calej-polsce-st8746012?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 07:20:42 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Deadly car explosion in New Delhi being investigated under anti-terrorism law",
-      "link": "http://www.euronews.com/2025/11/11/deadly-car-explosion-in-new-delhi-being-investigated-under-anti-terrorism-law",
-      "pubDate": "Tue, 11 Nov 2025 08:20:04 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Odwiedziłam północnokoreańską restaurację. Zaskoczeń było kilka",
-      "link": "https://businessinsider.com.pl/lifestyle/podroze/restauracja-z-korei-polnocnej-bylo-prawie-jak-w-polsce/gh7xy88",
-      "pubDate": "Tue, 11 Nov 2025 07:20:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Trwają obchody Narodowego Święta Niepodległości",
-      "link": "https://www.rp.pl/spoleczenstwo/art43315321-trwaja-obchody-narodowego-swieta-niepodleglosci",
-      "pubDate": "Tue, 11 Nov 2025 08:18:34 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
