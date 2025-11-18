@@ -1,7 +1,349 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T12:22:46.864Z",
+  "generatedAt": "2025-11-18T13:05:35.200Z",
   "items": [
+    {
+      "title": "As COP30 continues, what are European citizens' views on climate change?",
+      "link": "http://www.euronews.com/my-europe/2025/11/18/as-cop30-continues-what-are-european-citizens-views-on-climate-change",
+      "pubDate": "Tue, 18 Nov 2025 14:03:42 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "\"Wysyłają dwóch, ale przeżywa tylko jeden z nich\". Front w Ukrainie odsłonił nowy wymiar piekła. Tak Rosjanie powiększają strefę śmierci",
+      "link": "https://wiadomosci.onet.pl/politico/idzie-dwoch-przezywa-tylko-jeden-rosja-powieksza-strefe-smierci-w-ukrainie/ftfte0s",
+      "pubDate": "Tue, 18 Nov 2025 13:02:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "ZUS przypomina: Kończy się termin. Blisko 2,5 mln wniosków już wpłynęło",
+      "link": "https://biznes.interia.pl/firma/news-zus-przypomina-o-mijajacym-terminie-blisko-2-5-mln-wnioskow,nId,22455440",
+      "pubDate": "Tue, 18 Nov 2025 13:00:05 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Poland identifies 2 suspects in rail line sabotage as Ukrainians working for Russia",
+      "link": "https://www.dw.com/en/poland-identifies-2-suspects-in-rail-line-sabotage-as-ukrainians-working-for-russia/a-74790998?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 13:00:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Donald Tusk ujawnia: utrwalono wizerunki sprawców dywersji [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-ujawnia-utrwalono-wizerunki-sprawcow-dywersji-relacja-na-zywo/hnn9qv5",
+      "pubDate": "Tue, 18 Nov 2025 12:59:45 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Several websites such as X and OpenAI down amid Cloudflare outage",
+      "link": "http://www.euronews.com/next/2025/11/18/several-websites-such-as-x-and-openai-down-amid-cloudflare-outage",
+      "pubDate": "Tue, 18 Nov 2025 13:58:12 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "\"Zabójca dronów\". Dotrze do Ukrainy jeszcze w listopadzie",
+      "link": "https://tech.wp.pl/zabojca-dronow-dotrze-do-ukrainy-jeszcze-w-listopadzie,7223156248771072a",
+      "pubDate": "Tue, 18 Nov 2025 13:57:19 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Specjalna oferta Business Insidera na Black Week [AUTOPROMOCJA]",
+      "link": "https://businessinsider.com.pl/wiadomosci/specjalna-oferta-business-insidera-na-black-week-autopromocja/v70cpjn",
+      "pubDate": "Tue, 18 Nov 2025 12:56:52 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Woda z kranu i pasta do zębów szkodzą? \"Jednozdaniowe mity\" o fluorze",
+      "link": "https://konkret24.tvn24.pl/zdrowie/woda-z-kranu-i-pasta-do-zebow-szkodza-jednozdaniowe-mity-o-fluorze-st8729463?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:53:26 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Trump uśmiecha się do Saudów. Liczy na sprzedaż potężnej machiny",
+      "link": "https://tech.wp.pl/trump-usmiecha-sie-do-saudow-liczy-na-zakup-poteznej-machiny,7223160537901600a",
+      "pubDate": "Tue, 18 Nov 2025 13:53:22 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Doprowadził do Brexitu. Teraz chce pozbawić zasiłków imigrantów. \"Kilkaset tysięcy Polaków\"",
+      "link": "https://www.money.pl/gospodarka/doprowadzil-do-brexitu-teraz-chce-pozbawic-zasilkow-imigrantow-kilkaset-tysiecy-polakow-7223165324495392a.html",
+      "pubDate": "Tue, 18 Nov 2025 13:52:12 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Wysoki nasyp, most w pobliżu i duże prędkości. Tak wygląda miejsce, gdzie wysadzono tory",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/mika-wysoki-nasyp-most-i-duze-predkosci-tak-wyglada-miejsce-gdzie-wysadzono-tory-st8757941?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:51:42 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rząd uspokaja, lekarze alarmują. Rozbieżne informacje o przyjęciach na onkologię",
+      "link": "https://tvn24.pl/polska/rzad-uspokaja-nil-alarmuje-czy-szpitale-wstrzymuja-przyjecia-na-onkologie-st8757993?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:51:30 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rząd wprowadzi 3. stopień alarmowy CHARLIE-CRP",
+      "link": "https://wiadomosci.onet.pl/kraj/rzad-wprowadzi-3-stopien-alarmowy-charlie-crp/h06mt7e",
+      "pubDate": "Tue, 18 Nov 2025 12:51:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "US to sell F-35s to Saudi Arabia, Trump says ahead of crown prince's visit",
+      "link": "https://www.bbc.com/news/articles/c7512rkvg7ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:50:24 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump lavishes praise on McDonald’s as soaring beef prices hit US households",
+      "link": "http://www.euronews.com/business/2025/11/18/trump-lavishes-praise-on-mcdonalds-as-soaring-beef-prices-hit-us-households",
+      "pubDate": "Tue, 18 Nov 2025 13:50:11 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Premier wprowadza trzeci stopień alarmowy CHARLIE",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-premier-wprowadza-trzeci-stopien-alarmowy-charlie,nId,22455443",
+      "pubDate": "Tue, 18 Nov 2025 12:49:26 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Bezprecedensowe wyzwanie\" dla polskich producentów",
+      "link": "https://tvn24.pl/biznes/moto/sprzedaz-aut-2025-bezprecedensowe-wyzwanie-dla-polskich-producentow-st8757896?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:49:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "South Africa tries to shake off US 'snub cloud' as G20 nears",
+      "link": "https://www.dw.com/en/south-africa-tries-to-shake-off-us-snub-cloud-as-g20-nears/a-74781094?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 12:48:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Dan Wootton denies catfishing man who claims to be former colleague",
+      "link": "https://www.theguardian.com/media/2025/nov/18/dan-wootton-denies-catfishing-man-who-claims-to-be-former-colleague",
+      "pubDate": "Tue, 18 Nov 2025 12:47:15 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Odkrycie archeologiczne w Warszawie. Polskie godło na podłodze piwnicy",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-odkrycie-archeologiczne-w-warszawie-polskie-godlo-na-podlodz,nId,8041663",
+      "pubDate": "Tue, 18 Nov 2025 13:47:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "NASA zapowiada konferencję. Pokaże nowe zdjęcia komety 3I/ATLAS",
+      "link": "https://tech.wp.pl/nasa-zapowiada-konferencje-pokaze-nowe-zdjecia-komety-3i-atlas,7223168806046240a",
+      "pubDate": "Tue, 18 Nov 2025 13:46:14 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Garaż podowdny i szpital. Właściciel Steama kupił jacht za 500 mln dolarów",
+      "link": "https://tech.wp.pl/s/gryonline-pl/garaz-podowdny-i-szpital-wlasciciel-steama-kupil-jacht-za-500-mln-dolarow,7222830115379329a",
+      "pubDate": "Tue, 18 Nov 2025 13:45:35 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "At least 94 Palestinians died in Israeli prisons in two years, human rights group says",
+      "link": "https://www.bbc.com/news/articles/crreg2l7kezo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:45:31 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Australian prisoner sues for right to eat Vegemite in jail",
+      "link": "https://www.dw.com/en/australian-prisoner-sues-for-right-to-eat-vegemite-in-jail/a-74789439?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 12:45:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Śnieżnie w górach. Warunki na szlakach są już zimowe",
+      "link": "https://tvn24.pl/tvnmeteo/polska/snieg-w-gorach-tatry-beskidy-gdzie-panuja-trudne-warunki-st8758009?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:44:04 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Przestarzałe polskie lotnisko przejdzie przemianę. Prace ruszyły",
+      "link": "https://businessinsider.com.pl/gospodarka/przestarzale-polskie-lotnisko-przejdzie-przemiane-prace-ruszyly/37py81e",
+      "pubDate": "Tue, 18 Nov 2025 12:44:01 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Awaria znacznej części internetu",
+      "link": "https://tvn24.pl/biznes/tech/awaria-znacznej-czesci-internetu-problemy-systemu-cloudflare-i-platformy-x-dawniej-twitter-st8758108?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:41:30 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Dywersja na kolei. Znaleziono kabel, który prawdopodobnie służył do zainicjowania wybuchu",
+      "link": "https://www.rmf24.pl/fakty/polska/news-dywersja-na-kolei-znaleziono-kabel-ktory-prawdopodobnie-sluz,nId,8041668",
+      "pubDate": "Tue, 18 Nov 2025 13:40:33 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Donald Tusk o aktach dywersji. \"Ustalono osoby odpowiedzialne\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-tusk-potwierdza-dywersje-na-kolei-ukraincy-wspolpracowali-z-rosja/c0mvlc3",
+      "pubDate": "Tue, 18 Nov 2025 12:40:03 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "First Thing: ‘They have total impunity’ – West Bank settler violence rises after Gaza ceasefire",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/first-thing-west-bank-settler-violence-gaza-ceasefire-israel",
+      "pubDate": "Tue, 18 Nov 2025 12:38:50 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Syria begins first public trial over deadly clashes in minority's coastal heartland",
+      "link": "http://www.euronews.com/2025/11/18/syria-begins-first-public-trial-over-deadly-clashes-in-minoritys-coastal-heartland",
+      "pubDate": "Tue, 18 Nov 2025 13:37:45 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Mieli go wywieźć do lasu, zabić i ukryć ciało. Po 27 latach ruszył proces",
+      "link": "https://tvn24.pl/poznan/roznowo-zabojstwo-marka-m-po-27-latach-ruszyl-proces-st8755174?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:36:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Chiny rozbudowują doświadczalny poligon nuklearny",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-chiny-rozbudowuja-doswiadczalny-poligon-nuklearny,nId,8041657",
+      "pubDate": "Tue, 18 Nov 2025 13:36:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Premier: ustalono osoby odpowiedzialne za akty dywersji ",
+      "link": "https://tvn24.pl/polska/premier-ustalono-osoby-odpowiedzialne-za-akty-dywersji-st8758089?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:35:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Większość Polaków pracuje w czasie choroby",
+      "link": "https://businessinsider.com.pl/praca/wiekszosc-polakow-pracuje-w-czasie-choroby/ct0lgl2",
+      "pubDate": "Tue, 18 Nov 2025 12:34:56 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Stubb o strategii Trumpa wobec Rosji: próbował marchewki, teraz kij ",
+      "link": "https://tvn24.pl/swiat/prezydent-finlandii-trump-przeszedl-do-etapu-kija-marchewka-nie-dzialala-na-rosje-st8757657?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:34:32 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tusk: Dwaj Ukraińcy odpowiedzialni za dywersję na kolei",
+      "link": "https://www.rmf24.pl/polityka/news-tusk-dwaj-ukraincy-odpowiedzialni-za-dywersje-na-kolei,nId,8041661",
+      "pubDate": "Tue, 18 Nov 2025 13:33:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Czy kolej w Polsce jest bezpieczna? Co roku setki wypadków i tysiąc incydentów [TABELE]",
+      "link": "https://businessinsider.com.pl/wiadomosci/dywersja-na-kolei-jestesmy-bezpieczni-co-roku-setki-wypadkow-i-tysiac-incydentow/1vmfz4k",
+      "pubDate": "Tue, 18 Nov 2025 12:31:24 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ćwiczenia niedaleko granicy z Rosją. Polityk Putina wspomniał o Polsce",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-cwiczenia-niedaleko-granicy-z-rosja-polityk-putina-wspomnial,nId,22455367",
+      "pubDate": "Tue, 18 Nov 2025 12:31:00 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Tylu Palestyńczyków zmarło w izraelskich więzieniach. Co najmniej",
+      "link": "https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-tylu-palestynczykow-zmarlo-w-izraelskich-wiezieniach-co-najm,nId,8041643",
+      "pubDate": "Tue, 18 Nov 2025 13:31:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Poland blames Russian intelligence for blast on railway line to Ukraine",
+      "link": "http://www.euronews.com/2025/11/18/poland-suggests-russia-is-responsible-for-railway-blast-on-ukraine-delivery-line",
+      "pubDate": "Tue, 18 Nov 2025 13:30:52 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Donald Tusk: udało się ustalić osoby odpowiedzialne za akt dywersji",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-udalo-sie-ustalic-osoby-odpowiedzialne-za-akt-dywersji/mef2zb4",
+      "pubDate": "Tue, 18 Nov 2025 12:30:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Global climate progress visible but major emitters lag, new report finds",
+      "link": "https://www.dw.com/en/global-climate-progress-visible-but-major-emitters-lag-new-report-finds/a-74781925?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 12:30:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Nowa atrakcja turystyczna czy nowy \"Miś\"? Spór o staw, na którego odnowienie nie ma pieniędzy",
+      "link": "https://tvn24.pl/bialystok/suprasl-nowa-atrakcja-turystyczna-czy-nowy-mis-spor-o-staw-na-ktorego-odnowienie-nie-ma-pieniedzy-st8756528?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:29:35 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "EU wants a seat on Trump’s Gaza Board of Peace, Commissioner for the Mediterranean says",
+      "link": "http://www.euronews.com/my-europe/2025/11/18/eu-wants-a-seat-on-trumps-gaza-board-of-peace-commissioner-for-the-mediterranean-says",
+      "pubDate": "Tue, 18 Nov 2025 13:29:25 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Germany at the 2026 World Cup: What next?",
+      "link": "https://www.dw.com/en/germany-at-the-2026-world-cup-what-next/a-74787002?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 12:29:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ukraińscy żołnierze narzekają na szkolenia w Polsce. \"Realia sprzed 20 lat\"",
+      "link": "https://wiadomosci.onet.pl/swiat/ukrainscy-zolnierze-narzekaja-na-szkolenia-w-polsce-realia-sprzed-20-lat/4hkgsl4",
+      "pubDate": "Tue, 18 Nov 2025 12:28:44 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Dywersja na torach. Informator Onetu ujawnia kulisy. Po uszkodzonych torach przejechało aż 12 pociągów",
+      "link": "https://wiadomosci.onet.pl/warszawa/dywersja-na-torach-informator-onetu-ujawnia-kulisy-po-uszkodzonych-torach-przejechalo/tceelx4",
+      "pubDate": "Tue, 18 Nov 2025 12:27:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wiadomo, kto stoi za aktami dywersji na torach. Donald Tusk: Mamy pewność",
+      "link": "https://wydarzenia.interia.pl/kraj/news-wiadomo-kto-stoi-za-aktami-dywersji-na-torach-donald-tusk-ma,nId,22455363",
+      "pubDate": "Tue, 18 Nov 2025 12:27:52 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "ING Bank Śląski ogłasza nową długoterminową strategię „ING. W rytmie życia”",
+      "link": "https://wiadomosci.onet.pl/kraj/ing-bank-slaski-oglasza-nowa-dlugoterminowa-strategie-ing-w-rytmie-zycia/2nghffr",
+      "pubDate": "Tue, 18 Nov 2025 12:25:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Po aktach dywersji wojskowi nie tylko przy torach. Uzbrojony żołnierz na peronie ważnego dworca",
+      "link": "https://wiadomosci.onet.pl/lodz/zolnierze-nie-tylko-przy-torach-uzbrojony-patrol-na-peronie-waznego-dworca/rcm494k",
+      "pubDate": "Tue, 18 Nov 2025 12:24:23 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Burza po wybraniu marszałka. Kulisy rozgrywki w obozie władzy",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/burza-po-wybraniu-marszalka-kulisy-rozgrywki-w-obozie-wladzy/5pprcxb",
+      "pubDate": "Tue, 18 Nov 2025 12:23:45 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Katastrofa UFO u naszych zachodnich sąsiadów. Świadek zrobił zdjęcie",
+      "link": "https://geekweek.interia.pl/lotnictwo/news-ufo-na-niemiecko-czeskiej-granicy-swiadek-zrobil-zdjecie-slu,nId,22455352",
+      "pubDate": "Tue, 18 Nov 2025 12:23:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Marek Siwiec ma zostać nowym szefem Kancelarii Sejmu. \"Ryzykowna nominacja\"",
+      "link": "https://tvn24.pl/polska/marek-siwiec-szefem-kancelarii-sejmu-kim-jest-ryzykowna-nominacja-reka-aleksandra-kwasniewskiego-st8757748?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 12:21:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Włodzimierz Czarzasty zapytany o krzyki posłów PiS w Sejmie. \"Mieli taką wewnętrzną potrzebę\"",
+      "link": "https://wiadomosci.onet.pl/kraj/wlodzimierz-czarzasty-zabral-glos-po-wyborze-na-marszalka-jestem-wdzieczny/wedxgmq",
+      "pubDate": "Tue, 18 Nov 2025 12:20:02 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "MI5 issues alert to MPs and peers over Chinese espionage",
+      "link": "https://www.theguardian.com/world/2025/nov/18/mi5-issues-alert-to-mps-and-peers-over-chinese-espionage",
+      "pubDate": "Tue, 18 Nov 2025 12:19:27 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Roman Giertych komentuje wybór nowego marszałka. \"Nie ma dyscypliny cieszenia się\"",
       "link": "https://wiadomosci.onet.pl/kraj/roman-giertych-komentuje-wybor-nowego-marszalka-nie-ma-dyscypliny-cieszenia-sie/cr3mde9",
@@ -27,6 +369,12 @@
       "source": "Interia"
     },
     {
+      "title": "Trump says US will sell F-35 stealth jets to Saudis as Prince Mohammed visits",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/trump-says-us-will-sell-f-35-stealth-jets-to-saudis-as-prince-mohammed-visits",
+      "pubDate": "Tue, 18 Nov 2025 12:16:49 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "Wielka awaria Cloudflare. Padła usługa, na której opiera się internet",
       "link": "https://geekweek.interia.pl/internet/news-wielka-awaria-cloudflare-padla-usluga-na-ktorej-opiera-sie-i,nId,22455421",
       "pubDate": "Tue, 18 Nov 2025 12:15:46 GMT",
@@ -43,6 +391,12 @@
       "link": "https://sukces.rp.pl/architektura/art43349171-brutalistyczny-kosciol-z-tytulem-najlepszego-budynku-na-swiecie-stoi-w-europie",
       "pubDate": "Tue, 18 Nov 2025 13:14:01 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wagner Moura to lead Ibsen update in unique festival collaboration",
+      "link": "https://www.theguardian.com/stage/2025/nov/18/wagner-moura-to-lead-ibsen-update-in-unique-festival-collaboration",
+      "pubDate": "Tue, 18 Nov 2025 12:11:59 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Ujawnione e-maile Epsteina pogrążają byłego sekretarza skarbu USA",
@@ -69,6 +423,12 @@
       "source": "RMF24"
     },
     {
+      "title": "Gigantyczna awaria. Nie działa wiele stron internetowych",
+      "link": "https://www.rmf24.pl/fakty/polska/news-gigantyczna-awaria-nie-dziala-wiele-stron-internetowych,nId,8041658",
+      "pubDate": "Tue, 18 Nov 2025 13:09:10 +0100",
+      "source": "RMF24"
+    },
+    {
       "title": "Masz drona - musisz mieć polisę OC",
       "link": "https://www.rp.pl/ubezpieczenia-i-odszkodowania/art43354621-masz-drona-musisz-miec-polise-oc",
       "pubDate": "Tue, 18 Nov 2025 13:09:00 +0100",
@@ -79,6 +439,12 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/somalia-turysci-jada-mimo-ostrzezen-sa-miejsca-do-ktorych-wyjazd-bylby-ogromna-glupota-st8757611?source=rss",
       "pubDate": "Tue, 18 Nov 2025 12:07:08 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Sally Rooney says UK prisoners linked to Palestine Action face ‘shocking mistreatment’",
+      "link": "https://www.theguardian.com/books/2025/nov/18/sally-rooney-says-uk-prisoners-linked-to-palestine-action-face-shocking-mistreatment",
+      "pubDate": "Tue, 18 Nov 2025 12:06:13 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Tomasz Konieczny w nowej roli w Nowym Jorku",
@@ -85573,372 +85939,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-10/nowe-zarzuty-dla-bylego-prezydenta-korei-pld-moze-mu-grozic-kara-smierci/",
       "pubDate": "Mon, 10 Nov 2025 13:24:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Polacy podzieleni w ocenie Marszu Niepodległości [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/marsz-niepodleglosci-oceniany-przez-polakow-wyniki-sondazu/es425jk",
-      "pubDate": "Mon, 10 Nov 2025 12:23:45 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Hipokrytka\". Unia Europejska rzucona na głęboką wodę. Na szczycie klimatycznym będzie \"złym policjantem\", choć sama ma swoje za uszami",
-      "link": "https://wiadomosci.onet.pl/politico/hipokrytka-unia-europejska-rzucona-na-gleboka-wode-na-szczycie-klimatycznym-cop30/7l0s9w8",
-      "pubDate": "Mon, 10 Nov 2025 12:23:03 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Protesters disrupt event at Nigerian museum embroiled in looted artefacts row",
-      "link": "https://www.theguardian.com/world/2025/nov/10/protesters-disrupt-event-at-nigeria-museum-mowaa-embroiled-in-looted-artefacts-row",
-      "pubDate": "Mon, 10 Nov 2025 12:22:37 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Polska armia wysyła satelity w kosmos. 11 listopada inny niż zwykle",
-      "link": "https://spidersweb.pl/2025/11/satelity-piast-polska.html",
-      "pubDate": "Mon, 10 Nov 2025 13:21:46 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Port w Świnoujściu musi szybko znaleźć dzierżawcę terminala kontenerowego",
-      "link": "https://logistyka.rp.pl/morski/art43313261-port-w-swinoujsciu-musi-szybko-znalezc-dzierzawce-terminala-kontenerowego",
-      "pubDate": "Mon, 10 Nov 2025 13:18:16 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Trump pardons Giuliani and allies accused of trying to subvert 2020 election – latest updates",
-      "link": "https://www.theguardian.com/us-news/live/2025/nov/10/us-government-shutdown-record-donald-trump-syria-president-ahmed-al-sharaa-rudy-giuliani-pardon-politics-live-news-updates",
-      "pubDate": "Mon, 10 Nov 2025 12:17:36 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Za co kochają Polskę? Za przyrodę, Chopina, \"za wspaniałych ludzi z przeszłości\"",
-      "link": "https://tvn24.pl/polska/swieto-niepodleglosci-2025-za-co-kochamy-polske-za-przyrode-chopina-za-wspanialych-ludzi-z-przeszlosci-st8744818?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 12:16:44 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Spór o nominacje oficerskie. Jacek Dobrzyński: to jest oszukiwanie Polaków",
-      "link": "https://wiadomosci.onet.pl/kraj/rzecznik-nawrockiego-uderza-w-tuska-dobrzynski-odpowiada-mija-sie-z-prawda/cwsvtdj",
-      "pubDate": "Mon, 10 Nov 2025 12:14:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "In world-first, UK and US surgeons perform remote stroke operation from across the Atlantic",
-      "link": "http://www.euronews.com/health/2025/11/10/in-world-first-uk-and-us-surgeons-perform-remote-stroke-operation-from-across-the-atlantic",
-      "pubDate": "Mon, 10 Nov 2025 13:13:48 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Ukryty podatek dla dobrze zarabiających Polaków. Jeszcze bardziej uszczupli portfele",
-      "link": "https://www.money.pl/podatki/malgorzata-samborska/ukryty-podatek-dla-dobrze-zarabiajacych-polakow-jeszcze-bardziej-uszczupli-portfele-7220015293926336a.html",
-      "pubDate": "Mon, 10 Nov 2025 13:13:02 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Dwa dni muzyki na światowym poziomie. Zakończył się Inside Seaside",
-      "link": "https://tvn24.pl/kultura-i-styl/inside-seaside-2025-relacja-st8744843?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 12:12:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Londyn wypadł z czołówki, Warszawa wysoko",
-      "link": "https://tvn24.pl/biznes/rynki/odwilz-na-rynku-ipo-w-europie-londyn-poza-pierwsza-dwudziestka-st8744702?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 12:11:35 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Samolot eksplodował, zginęło 21 osób. Po 30 latach ujęto podejrzanego o zamach w Panamie",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-10/samolot-eksplodowal-zginelo-21-osob-po-30-latach-ujeto-podejrzanego-o-zamach-w-panamie/",
-      "pubDate": "Mon, 10 Nov 2025 13:11:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Daughter of ex-South African President Jacob Zuma denies terrorism charges",
-      "link": "https://www.bbc.com/news/articles/cj6nppg2kklo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 10 Nov 2025 12:10:20 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Ostatnia szansa na wakacje składkowe. Przedsiębiorcy zapomnieli o uldze?",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/wakacje-skladkowe-zus-2025-do-kiedy-skorzystala-tylko-polowa-uprawnionych/r73s9jw",
-      "pubDate": "Mon, 10 Nov 2025 12:09:44 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "King Charles III and Prince William honor war dead in London ceremony",
-      "link": "http://www.euronews.com/video/2025/11/10/king-charles-iii-and-prince-william-honor-war-dead-in-london-ceremony",
-      "pubDate": "Mon, 10 Nov 2025 13:08:27 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Fala chłodu wkrótce rozleje się po Polsce. W prognozach na 14 dni widać śnieg",
-      "link": "https://wiadomosci.onet.pl/pogoda/ogromne-zawirowania-w-pogodzie-na-14-dni-na-zimnie-i-sniegu-sie-nie-skonczy/mzpwvxb",
-      "pubDate": "Mon, 10 Nov 2025 12:08:25 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Pożar w restauracji na wrocławskim Rynku",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-pozar-w-restauracji-na-rynku-st8745018?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 12:06:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tragiczny wypadek w Maroku. Nie żyje dwóch Polaków ",
-      "link": "https://tvn24.pl/swiat/maroko-tragiczny-wypadek-nie-zyje-dwoch-polakow-st8745021?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 12:05:31 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kaczyński grzmiał o \"haniebnym napisie\" na wieńcu. Krzyki na miesięcznicy",
-      "link": "https://wydarzenia.interia.pl/kraj/news-kaczynski-grzmial-o-haniebnym-napisie-na-wiencu-krzyki-na-mi,nId,22452789",
-      "pubDate": "Mon, 10 Nov 2025 12:04:48 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Rosja sięga po oszczędności na \"czarną godzinę\". Tak topnieje państwowa skarbonka",
-      "link": "https://businessinsider.com.pl/gospodarka/finanse-rosji-pod-presja-drastyczny-spadek-aktywow-funduszu-narodowego-dobrobytu/mw6rddt",
-      "pubDate": "Mon, 10 Nov 2025 12:03:48 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Niezbadane tajemnice oceanów, legendy i intrygujące życie z głębin",
-      "link": "https://geekweek.interia.pl/przyroda/news-oceany-pelne-tajemnic-niewyjasnione-dzwieki-legendy-i-niezwy,nId,22451296",
-      "pubDate": "Mon, 10 Nov 2025 12:03:45 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Budowa gazociągu Gdańsk-Gustorzyn na półmetku. To ważna inwestycja",
-      "link": "https://tech.wp.pl/s/portalstoczniowy-pl/budowa-gazociagu-gdansk-gustorzyn-na-polmetku-to-wazna-inwestycja,7219770345384065a",
-      "pubDate": "Mon, 10 Nov 2025 13:01:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Bezpieczeństwo – fałszywa narracja władzy o granicy [SŁOWA]",
-      "link": "https://oko.press/bezpieczenstwo-falszywa-narracja-wladzy-o-granicy-slowa",
-      "pubDate": "Mon, 10 Nov 2025 12:00:51 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Próbował wciągnąć nastolatkę do busa. Usłyszał zarzut",
-      "link": "https://www.rmf24.pl/regiony/wroclaw/news-probowal-wciagnac-nastolatke-do-busa-uslyszal-zarzut,nId,8039312",
-      "pubDate": "Mon, 10 Nov 2025 13:00:49 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Medicaid head falsely claims $1bn is being spent on healthcare for ‘illegal immigrants’, say experts",
-      "link": "https://www.theguardian.com/us-news/2025/nov/10/medicaid-head-mispending-claims",
-      "pubDate": "Mon, 10 Nov 2025 12:00:49 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Play ze świąteczną petardą - 3 telefony tańsze o 50%. Sprawdzamy",
-      "link": "https://antyweb.pl/abonament-play-ze-smartfonem-50-taniej",
-      "pubDate": "Mon, 10 Nov 2025 12:00:27 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Znany piłkarz z poważnym oskarżeniem. Rozesłał filmik z dziecięcą pornografią",
-      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-znany-pilkarz-z-powaznym-oskarzeniem-rozeslal-filmik-z-dziec,nId,8039309",
-      "pubDate": "Mon, 10 Nov 2025 13:00:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Wyceny na GPW wciąż są niskie. \"To poprzeczka jest wyżej zawieszona dla banków i Orlenu\"",
-      "link": "https://www.bankier.pl/wiadomosc/Wyceny-na-GPW-wciaz-sa-niskie-To-poprzeczka-jest-wyzej-zawieszona-dla-bankow-i-Orlenu-9037506.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 13:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Lake District theatre to be renamed after Victoria Wood and unveil new musical of her songs",
-      "link": "https://www.theguardian.com/stage/2025/nov/10/lake-district-theatre-to-be-renamed-after-victoria-wood-old-laundry",
-      "pubDate": "Mon, 10 Nov 2025 11:59:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Ma pojawić się iPhone z ekranem bez dziur. To niemożliwe",
-      "link": "https://spidersweb.pl/2025/11/iphone-z-ekranem-bez-dziur-nie-wierze-w-to.html",
-      "pubDate": "Mon, 10 Nov 2025 12:59:22 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Tim Westwood appears in court charged with rape and sexual assault",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/10/tim-westwood-appears-in-court-charged-with-rape-and-sexual-assault",
-      "pubDate": "Mon, 10 Nov 2025 11:58:22 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Lloyds the landlord: how the bank quietly became a big rental property player",
-      "link": "https://www.theguardian.com/business/2025/nov/10/lloyds-the-landlord-how-the-bank-quietly-became-a-big-rental-property-player",
-      "pubDate": "Mon, 10 Nov 2025 11:57:16 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Prokuratura stawia zarzuty dyrektorom cyberbezpieczeństwa w MS. „Autorski produkt”",
-      "link": "https://cyberdefence24.pl/polityka-i-prawo/prokuratura-stawia-zarzuty-dyrektorom-cyberbezpieczenstwa-w-ms-autorski-produkt",
-      "pubDate": "Mon, 10 Nov 2025 12:55:50 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "OpenAI chce wejść na amerykański rynek zdrowia. Pracuje nad aplikacją",
-      "link": "https://businessinsider.com.pl/wiadomosci/openai-wchodzi-na-rynek-opieki-zdrowotnej-chce-stworzyc-aplikacje/17sbsjc",
-      "pubDate": "Mon, 10 Nov 2025 11:54:43 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Były prezydent Korei Południowej z zarzutami. Grozi mu nawet kara śmierci",
-      "link": "https://wiadomosci.onet.pl/swiat/korea-poludniowa-probowala-wywolac-konflikt-bylemu-prezydentowi-grozi-kara-smierci/1w84ys7",
-      "pubDate": "Mon, 10 Nov 2025 11:54:17 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trzy popularne leki wycofane z aptek. GIF ostrzega pacjentów o zagrożeniu zdrowia",
-      "link": "https://businessinsider.com.pl/wiadomosci/glowny-inspektorat-farmaceutyczny-wycofuje-euthyrox-n-25-vendal-retard-i-storvas-crt/dr63mk6",
-      "pubDate": "Mon, 10 Nov 2025 11:51:46 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Poznaliśmy kolejne zmiany w serii Galaxy S26. Smartfony możemy zobaczyć szybciej",
-      "link": "https://android.com.pl/tech/990209-kolejne-zmiany-w-seii-galaxy-s26/",
-      "pubDate": "Mon, 10 Nov 2025 11:51:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Marsz Niepodległości w Warszawie. Znamy kulisy wydarzenia",
-      "link": "https://wiadomosci.onet.pl/warszawa/marsz-niepodleglosci-w-warszawie-znamy-kulisy-wydarzenia/flzzs8p",
-      "pubDate": "Mon, 10 Nov 2025 11:49:24 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ksiądz potrącił nastolatkę i uciekł. Apelacja od wyroku",
-      "link": "https://wiadomosci.onet.pl/warszawa/ksiadz-potracil-nastolatke-i-uciekl-apelacja-od-wyroku/31lx1sd",
-      "pubDate": "Mon, 10 Nov 2025 11:48:58 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Robert Biedroń ostro o Zbigniewie Ziobrze. \"Jest miękiszonem, fujarą\"",
-      "link": "https://wiadomosci.onet.pl/kraj/robert-biedron-ostro-o-zbigniewie-ziobrze-jest-miekiszonem-fujara/wk8w22h",
-      "pubDate": "Mon, 10 Nov 2025 11:48:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Sąd apelacyjny po stronie najuboższych. \"Rząd USA nie może wstrzymać wypłaty 4 mld dolarów pomocy\"",
-      "link": "https://www.bankier.pl/wiadomosc/Sad-apelacyjny-po-stronie-najubozszych-Rzad-USA-nie-moze-wstrzymac-wyplaty-4-mld-dolarow-pomocy-9037503.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 12:48:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Bestsellery polskich sprzedawców w promocji AliExpress. Duże rabaty na Singles Day",
-      "link": "https://spidersweb.pl/2025/11/bestsellery-polscy-sprzedawcy-aliexpress-promocja.html",
-      "pubDate": "Mon, 10 Nov 2025 12:47:13 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Następna stacja: frontalny upadek. Rosyjskiej kolei odpadają koła. Załamanie transportu obnaża o wiele większy kryzys w kraju Putina",
-      "link": "https://wiadomosci.onet.pl/swiat/frontalny-upadek-rosyjskiego-przemyslu-dane-z-kolei-ujawniaja-jego-skale/pprt8zv",
-      "pubDate": "Mon, 10 Nov 2025 11:46:14 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gazociąg Gdańsk–Gustorzyn na półmetku. Program FSRU nabiera tempa",
-      "link": "https://tech.wp.pl/s/portalstoczniowy-pl/gazociag-gdansk-gustorzyn-na-polmetku-program-fsru-nabiera-tempa,7219770345384065a",
-      "pubDate": "Mon, 10 Nov 2025 12:46:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Kolorowe kule na liniach wysokiego napięcia. Jaką funkcję pełnią?",
-      "link": "https://tech.wp.pl/kolorowe-kule-na-liniach-wysokiego-napiecia-jaka-funkcje-pelnia,7218225857153696a",
-      "pubDate": "Mon, 10 Nov 2025 12:46:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Rekordowa susza w Teheranie. Zbiorniki wodne niemal puste, przerwy w dostawach wody",
-      "link": "https://www.bankier.pl/wiadomosc/Rekordowa-susza-w-Teheranie-Zbiorniki-wodne-niemal-puste-przerwy-w-dostawach-wody-9037461.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 12:45:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "COP30: EU backs global carbon markets alliance to crack down on CO2 emissions",
-      "link": "http://www.euronews.com/my-europe/2025/11/10/cop30-eu-backs-global-carbon-markets-alliance-to-crack-down-on-co2-emissions",
-      "pubDate": "Mon, 10 Nov 2025 12:41:15 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Jelcz nie nadąża z dostawą ciężarówek dla wojska. Kary przekroczyły 10 mln zł",
-      "link": "https://businessinsider.com.pl/wiadomosci/kary-dla-jelcza-przekraczaja-10-mln-zl-polskie-wojsko-traci-na-opoznieniach/hcx6lvl",
-      "pubDate": "Mon, 10 Nov 2025 11:41:03 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kolejny sygnał deeskalacji. Chiny zawieszają sankcje wobec spółek z USA",
-      "link": "https://wiadomosci.onet.pl/swiat/kolejny-sygnal-odprezenia-chiny-zawieszaja-sankcje-wobec-spolek-z-usa/c68lvgw",
-      "pubDate": "Mon, 10 Nov 2025 11:40:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Second launch of New Glenn rocket postponed due to weather in test for Bezos’ Blue Origin",
-      "link": "http://www.euronews.com/next/2025/11/10/second-launch-of-new-glenn-rocket-postponed-due-to-weather-in-test-for-bezos-blue-origin",
-      "pubDate": "Mon, 10 Nov 2025 12:40:15 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Przepisy pozwalają. Państwo może przejąć dom pomimo testamentu",
-      "link": "https://biznes.interia.pl/finanse/news-testament-napiszesz-a-dom-i-tak-przejmie-panstwo-jest-na-to,nId,22451320",
-      "pubDate": "Mon, 10 Nov 2025 11:40:05 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "W Królewcu narasta strach. Pozostanie tylko jedna droga dostaw towarów",
-      "link": "https://www.rp.pl/gospodarka/art43312961-w-krolewcu-narasta-strach-pozostanie-tylko-jedna-droga-dostaw-towarow",
-      "pubDate": "Mon, 10 Nov 2025 12:39:59 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Trójka bez audycji o zwierzętach. Polskie Radio: nie mogliśmy zaakceptować ograniczeń",
-      "link": "https://www.wirtualnemedia.pl/trojka-koniec-audycji-wielkie-glaskanie-polskie-radio-kontra-aneta-awtoniuk,7220321642015680a",
-      "pubDate": "Mon, 10 Nov 2025 12:39:20 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nexperia cleared to resume civilian chip shipments, vital to European car production",
-      "link": "http://www.euronews.com/business/2025/11/10/nexperia-cleared-to-resume-civilian-chip-shipments-vital-to-european-car-production",
-      "pubDate": "Mon, 10 Nov 2025 12:39:06 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "\"Za dużo ludzi chce putinizmu\". Prof. Maciej Kisilowski ostrzega przed złudzeniami liberałów. \"Oburzenie nie jest strategią\"",
-      "link": "https://wiadomosci.onet.pl/kraj/za-duzo-ludzi-chce-putinizmu-prof-maciej-kisilowski-ostrzega/qy2b29x",
-      "pubDate": "Mon, 10 Nov 2025 11:38:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"To droga donikąd\". Prof. Maciej Kisilowski ostrzega przed złudzeniami liberałów",
-      "link": "https://wiadomosci.onet.pl/kraj/to-droga-donikad-prof-maciej-kisilowski-ostrzega-przed-zludzeniami-liberalow/qy2b29x",
-      "pubDate": "Mon, 10 Nov 2025 11:38:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Otwierają cztery sklepy dziennie. Handlowy gigant przejął kolejną spółkę w Polsce",
-      "link": "https://businessinsider.com.pl/wiadomosci/ccc-przejmuje-siec-handlowa-zapowiada-nawet-400-sklepow-do-konca-2026-r/gfhnrwp",
-      "pubDate": "Mon, 10 Nov 2025 11:35:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Spięcie ministrów w rządowym busie. \"Kondolencje. Umarłeś\" [FRAGMENT KSIĄŻKI]",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/spiecie-ministrow-w-rzadowym-busie-kondolencje-umarles-fragment-ksiazki/sfders8",
-      "pubDate": "Mon, 10 Nov 2025 11:35:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Apple szykuje dużo zmian. Nie tylko w iPhone’ach",
-      "link": "https://www.tabletowo.pl/apple-szykuje-duzo-zmian-nie-tylko-w-iphone-ach/",
-      "pubDate": "Mon, 10 Nov 2025 11:34:44 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Nieoficjalnie: Tajna misja szefa FBI w Chinach. Nikt o niej nie informował",
-      "link": "https://www.rp.pl/dyplomacja/art43313041-nieoficjalnie-tajna-misja-szefa-fbi-w-chinach-nikt-o-niej-nie-informowal",
-      "pubDate": "Mon, 10 Nov 2025 12:34:38 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
