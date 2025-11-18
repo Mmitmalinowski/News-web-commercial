@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T23:29:41.940Z",
+  "generatedAt": "2025-11-18T23:39:44.913Z",
   "items": [
+    {
+      "title": "US: Meta wins huge antitrust case, avoids break-up",
+      "link": "https://www.dw.com/en/us-meta-wins-huge-antitrust-case-avoids-break-up/a-74798391?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 23:29:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Anna Maria Żukowska uznała, że Razem to prawica. Adrian Zandberg: noc jeszcze młoda",
       "link": "https://wiadomosci.onet.pl/kraj/poslanka-lewicy-uznala-ze-razem-to-prawica-zandberg-noc-jeszcze-mloda/rcgkcbt",
@@ -10579,6 +10585,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -37455,6 +37485,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -38347,6 +38401,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -52322,6 +52400,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68834,6 +68936,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -88333,42 +88459,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Tajne-testy-jadrowe-Rosji-i-Chin-Prof-Chmielewski-To-niemozliwe-9034955.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 11 Nov 2025 10:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Rekrutacja na agentów na ulicy? Wywiad Portugalii sięga po nietypowe środki",
-      "link": "https://www.bankier.pl/wiadomosc/Rekrutacja-na-agentow-na-ulicy-Wywiad-Portugalii-siega-po-nietypowe-srodki-9035075.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 11 Nov 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Karabiny, które przyniosły wolność. Czym walczyli Polacy w 1918 roku?",
-      "link": "https://tech.wp.pl/karabiny-ktore-przyniosly-wolnosc-czym-walczyli-polacy-w-1918-roku,7220635254164416a",
-      "pubDate": "Tue, 11 Nov 2025 09:59:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Smart drzwi, czyli sprawdziłem zestaw inteligentnego zamka od EZVIZ",
-      "link": "https://android.com.pl/tech/989185-ezviz-dl01-pro-smart-zamek-opinia/",
-      "pubDate": "Tue, 11 Nov 2025 08:57:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Wystąpienie premiera Donalda Tuska w Gdańsku | 11.11",
-      "link": "https://wiadomosci.onet.pl/kraj/wystapienie-premiera-donalda-tuska-w-gdansku-or-1111/6509ff8",
-      "pubDate": "Tue, 11 Nov 2025 08:56:07 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Is South Korea ready to command its own troops at wartime?",
-      "link": "https://www.dw.com/en/is-south-korea-ready-to-command-its-own-troops-at-wartime/a-74685586?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 11 Nov 2025 08:56:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "W Polsce święto, na świecie się dzieje. Nowe dane z giełd",
-      "link": "https://www.money.pl/gielda/w-polsce-swieto-na-swiecie-sie-dzieje-nowe-dane-z-gield-7220637622942656a.html",
-      "pubDate": "Tue, 11 Nov 2025 09:52:02 +0100",
-      "source": "Money.pl"
     }
   ]
 }
