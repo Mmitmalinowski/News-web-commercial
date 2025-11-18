@@ -1,7 +1,187 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T16:14:13.168Z",
+  "generatedAt": "2025-11-18T16:46:29.476Z",
   "items": [
+    {
+      "title": "Burzliwe obrady ws. wynagrodzeń medyków. Związkowcy wyszli z sali",
+      "link": "https://biznes.interia.pl/finanse/news-burzliwe-obrady-ws-wynagrodzen-medykow-strona-zwiazkowa-opus,nId,22455559",
+      "pubDate": "Tue, 18 Nov 2025 16:44:10 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Antydronowe rakiety z Estonii. PGZ chce ich współprodukować 10 tys. rocznie",
+      "link": "https://tech.wp.pl/antydronowe-rakiety-z-estonii-pgz-chce-ich-wspolprodukowac-10-tys-rocznie,7223195389688352a",
+      "pubDate": "Tue, 18 Nov 2025 17:43:49 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Jak budować strategię cyberodporności",
+      "link": "https://cyfrowa.rp.pl/bezpieczenstwo/art43357181-jak-budowac-strategie-cyberodpornosci",
+      "pubDate": "Tue, 18 Nov 2025 17:43:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Sprawdziłem Samsung Internet na Windows 11. Jedno rozwiązanie namieszało mi w głowie",
+      "link": "https://android.com.pl/tech/991789-sprawdzilem-samsung-internet-windows-11/",
+      "pubDate": "Tue, 18 Nov 2025 16:41:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Kompletnie pijany taksówkarz zatrzymany w Oławie. Jechał po czteropak",
+      "link": "https://wiadomosci.onet.pl/wroclaw/pijany-kierowca-taksowki-zatrzymany-w-olawie-kupowal-piwo-na-stacji-paliw/pzd7hyw",
+      "pubDate": "Tue, 18 Nov 2025 16:40:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Eight people arrested over suspected plot to kill Brussels chief prosecutor, officials say",
+      "link": "http://www.euronews.com/2025/11/18/eight-people-arrested-over-suspected-plot-to-kill-brussels-chief-prosecutor-officials-say",
+      "pubDate": "Tue, 18 Nov 2025 17:39:48 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Biblioteki budują wspólnotę",
+      "link": "https://www.rp.pl/kultura/art43357141-biblioteki-buduja-wspolnote",
+      "pubDate": "Tue, 18 Nov 2025 17:37:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Spowodował kolizję po pijanemu, jego samochód chcą przejąć służby ",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sierpc-spowodowal-kolizje-po-alkoholu-jego-auto-moze-posluzyc-sluzbom-st8758671?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 16:34:58 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Blady strach padł na Japończyków w Chinach. \"Nie wychodźcie z domów\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-blady-strach-padl-na-japonczykow-w-chinach-nie-wychodzcie-z,nId,22455192",
+      "pubDate": "Tue, 18 Nov 2025 16:32:37 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Federal judge approves opioid settlement for Purdue Pharma",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/purdue-pharma-opioid-settlement-oxycontin",
+      "pubDate": "Tue, 18 Nov 2025 16:31:30 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Meloni's Brothers of Italy party launches saucy carbonara crusade in the European Parliament",
+      "link": "http://www.euronews.com/my-europe/2025/11/18/melonis-brothers-of-italy-party-launches-saucy-carbonara-crusade-in-the-european-parliamen",
+      "pubDate": "Tue, 18 Nov 2025 17:30:07 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Xiaomi podbija segment AGD nową pralką Mijia. Gwarancja na 10 lat mówi sama za siebie",
+      "link": "https://www.chip.pl/2025/11/xiaomi-mija-xqg120mj103-premiera",
+      "pubDate": "Tue, 18 Nov 2025 16:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Koniec prostych SMS-ów na Androidzie. Google wprowadza funkcje, o których nie śniłeś",
+      "link": "https://www.chip.pl/2025/11/wiadomosci-google-wzmianki-ai-i-bezpieczenstwo-na-wyzszym-poziomie",
+      "pubDate": "Tue, 18 Nov 2025 16:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "US: Trump rolls out red carpet for Saudi prince",
+      "link": "https://www.dw.com/en/us-trump-rolls-out-red-carpet-for-saudi-prince/a-74794067?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 16:29:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Przejazd drogami i autostradami będzie droższy. Rząd chce podwyższyć opłaty",
+      "link": "https://www.rp.pl/prawo-drogowe/art43354701-przejazd-drogami-i-autostradami-bedzie-drozszy-rzad-chce-podwyzszyc-oplaty",
+      "pubDate": "Tue, 18 Nov 2025 17:28:56 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Złoty pod presją. Możliwe dalsze osłabienie",
+      "link": "https://tvn24.pl/biznes/rynki/kursy-walut-zloty-pod-presja-ile-kosztuje-euro-dolar-st8758697?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 16:26:17 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Dywersja\". Już jutro debata w TVN24+",
+      "link": "https://tvn24.pl/polska/dywersja-juz-jutro-debata-w-tvn24-st8758597?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 16:24:41 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Globalna awaria internetu zażegnana. Jednak ujawniła poważny problem",
+      "link": "https://android.com.pl/tech/992649-awaria-internetu-cloudflare-zazegnana/",
+      "pubDate": "Tue, 18 Nov 2025 16:24:40 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Ministerialna kontrola w Związku Artystów Scen Polskich. Sprawdzi wydatki",
+      "link": "https://www.wirtualnemedia.pl/ministerialna-kontrola-w-zwiazku-artystow-scen-polskich-sprawdzi-wydatki,7223225357085184a",
+      "pubDate": "Tue, 18 Nov 2025 17:23:14 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Chcesz tanio podróżować? Tu znajdziesz dobre oferty",
+      "link": "https://www.tabletowo.pl/tanie-podroze-dobre-oferty-czasowe-esky/",
+      "pubDate": "Tue, 18 Nov 2025 16:22:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Zelensky to meet Trump envoy in Turkey in bid to 'intensify' peace talks",
+      "link": "https://www.bbc.com/news/articles/c620p6jnynko?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 18 Nov 2025 16:21:51 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "ExxonMobil shuts chemicals plant in Fife with loss of up to 450 jobs",
+      "link": "https://www.theguardian.com/business/2025/nov/18/exxonmobil-shuts-chemicals-plant-fife-near-cowdenbeath-job-losses",
+      "pubDate": "Tue, 18 Nov 2025 16:19:21 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "\"Ingerencja obcego mocarstwa\". Chińscy agenci śmieją się Brytyjczykom w twarz. Wykorzystują LinkedIn, by polować na posłów",
+      "link": "https://wiadomosci.onet.pl/politico/ostrzezenie-dla-poslow-w-wielkiej-brytanii-chinscy-agenci-infiltruja-przez-linkedin/92j1fj7",
+      "pubDate": "Tue, 18 Nov 2025 16:18:47 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wiemy, co zdradziło dywersantów, którzy wysadzili tory. Nowe ustalenia „Rzeczpospolitej”",
+      "link": "https://www.rp.pl/przestepczosc/art43355541-wiemy-co-zdradzilo-dywersantow-ktorzy-wysadzili-tory-nowe-ustalenia-rzeczpospolitej",
+      "pubDate": "Tue, 18 Nov 2025 17:18:09 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Akty dywersji. Premier Szwecji z propozycją dla Polski",
+      "link": "https://wiadomosci.onet.pl/swiat/akty-dywersji-premier-szwecji-z-propozycja-dla-polski/h4vvbbr",
+      "pubDate": "Tue, 18 Nov 2025 16:17:14 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Mahmood faces calls for compassion and clarity over hardline asylum policies",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/18/shabana-mahmood-faces-calls-for-compassion-and-clarity-over-hardline-asylum-policies",
+      "pubDate": "Tue, 18 Nov 2025 16:16:55 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apel ambasadora USA przy NATO. Chodzi o podejście Europy do Rosji",
+      "link": "https://businessinsider.com.pl/wiadomosci/matthew-whitaker-apeluje-do-europy-o-zdecydowane-dzialania-wobec-rosji/700x8jw",
+      "pubDate": "Tue, 18 Nov 2025 16:16:35 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Argentina judge fired after causing mistrial in case over Maradona’s death",
+      "link": "https://www.theguardian.com/world/2025/nov/18/argentina-judge-diego-maradona-case-fired",
+      "pubDate": "Tue, 18 Nov 2025 16:15:52 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Energetyczne spadki na GPW. WIG odpadł z podwójnego szczytu. Najgorsza sesja od trzech miesięcy",
+      "link": "https://www.bankier.pl/wiadomosc/Energetyczne-spadki-na-GPW-Najgorsza-sesja-od-trzech-miesiecy-9041554.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 18 Nov 2025 17:15:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Symulacja 100 mld gwiazd Drogi Mlecznej. Dzięki AI i superkomputerom",
+      "link": "https://tech.wp.pl/symulacja-100-mld-gwiazd-drogi-mlecznej-dzieki-ai-i-superkomputerom,7223218894805504a",
+      "pubDate": "Tue, 18 Nov 2025 17:13:15 +0100",
+      "source": "Tech WP.pl"
+    },
     {
       "title": "Drony nad Moskwą. Dwa lotniska wstrzymały ruch",
       "link": "https://tvn24.pl/biznes/ze-swiata/drony-nad-moskwa-dwa-lotniska-wstrzymaly-ruch-st8758708?source=rss",
@@ -9,10 +189,22 @@
       "source": "TVN24"
     },
     {
+      "title": "Rosyjska propaganda o \"polskich partyzantach”. Nowa odsłona dezinformacji",
+      "link": "https://businessinsider.com.pl/wiadomosci/rosyjska-propaganda-uderza-w-polske-ekspert-ostrzega-przed-dezinformacja/yqfrp22",
+      "pubDate": "Tue, 18 Nov 2025 16:10:17 GMT",
+      "source": "Business Insider"
+    },
+    {
       "title": "Europosłowie PiS i KO zawnioskowali o debatę i rezolucję ws. aktów dywersji w Polsce",
       "link": "https://www.rmf24.pl/polityka/news-europoslowie-pis-i-ko-zawnioskowali-o-debate-i-rezolucje-ws-,nId,8041724",
       "pubDate": "Tue, 18 Nov 2025 17:10:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Dywersja w naszych głowach. Rosja testuje, a Polska daje się wkręcić",
+      "link": "https://krytykapolityczna.pl/kraj/dywersja-na-torach-putinofile-pis-opus-dei-bielan-tramwaj-ambasador-niemiec/",
+      "pubDate": "Tue, 18 Nov 2025 16:07:45 +0000",
+      "source": "Krytyka Polityczna"
     },
     {
       "title": "Mniejsza od Warszawy. Google chce zbudować centrum na Wyspie Bożego Narodzenia ",
@@ -25,6 +217,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/wlodzimierz-czarzasty-wspomnial-o-krzyzu-w-sejmie-stawia-sprawe-jasno/m705cpr",
       "pubDate": "Tue, 18 Nov 2025 16:05:43 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Włodzimierz Czarzasty nowym marszałkiem Sejmu. Jest pierwszy komentarz Nawrockiego",
+      "link": "https://www.rp.pl/polityka/art43356701-wlodzimierz-czarzasty-nowym-marszalkiem-sejmu-jest-pierwszy-komentarz-nawrockiego",
+      "pubDate": "Tue, 18 Nov 2025 17:05:25 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Neandertalczycy nie wyginęli? Nowe badanie rozpaliło umysły naukowców",
@@ -69,6 +267,12 @@
       "source": "RMF24"
     },
     {
+      "title": "Co planuje Donald Tusk na wybory 2027? Kulisy wyjazdowego posiedzenia klubu KO",
+      "link": "https://www.rp.pl/polityka/art43354741-co-planuje-donald-tusk-na-wybory-2027-kulisy-wyjazdowego-posiedzenia-klubu-ko",
+      "pubDate": "Tue, 18 Nov 2025 17:00:42 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Gemini 3 już jest, dla każdego. Tak działa \"pogromca ChatGPT\"",
       "link": "https://spidersweb.pl/2025/11/gemini-3-nowy-model-sztuczna-inteligencja-agent-funkcje.html",
       "pubDate": "Tue, 18 Nov 2025 17:00:32 +0100",
@@ -93,6 +297,12 @@
       "source": "Chip.pl"
     },
     {
+      "title": "„Rzecz w tym”: „Faszyści z partii Razem”. Kto zawłaszczył patriotyzm? Bitwa o symbole na lewicy",
+      "link": "https://www.rp.pl/polityka/art43356101-rzecz-w-tym-faszysci-z-partii-razem-kto-zawlaszczyl-patriotyzm-bitwa-o-symbole-na-lewicy",
+      "pubDate": "Tue, 18 Nov 2025 17:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "ONZ przyjął plan Trumpa dla Strefy Gazy. Izrael \"wyciąga rękę\", prezydent USA \"gratuluje światu\"",
       "link": "https://tvn24.pl/swiat/onz-przyjal-plan-pokojowy-donalda-trumpa-dla-strefy-gazy-st8757229?source=rss",
       "pubDate": "Tue, 18 Nov 2025 15:59:14 GMT",
@@ -109,6 +319,18 @@
       "link": "https://spidersweb.pl/2025/11/czy-3i-atlas-to-tylko-kometa-avi-loeb-prowokuje.html",
       "pubDate": "Tue, 18 Nov 2025 16:56:57 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Gigant ostrzega przed pęknięciem bańki AI. „Ucierpi każda z firm, nawet Google\"",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43355701-gigant-ostrzega-przed-peknieciem-banki-ai-ucierpi-kazda-z-firm-nawet-google",
+      "pubDate": "Tue, 18 Nov 2025 16:56:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zachodnia Kurna-2 bez Rosjan? Chevron może przejąć największe zagraniczne aktywo Łukoilu",
+      "link": "https://energia.rp.pl/paliwa/art43356001-zachodnia-kurna-2-bez-rosjan-chevron-moze-przejac-najwieksze-zagraniczne-aktywo-lukoilu",
+      "pubDate": "Tue, 18 Nov 2025 16:55:33 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Central Asia and South Caucasus forge stronger ties at Tashkent summit",
@@ -165,6 +387,18 @@
       "source": "Wirtualnemedia.pl"
     },
     {
+      "title": "Venezuela’s top opposition leader claims ‘new era’ is coming despite lack of clear plan",
+      "link": "https://www.theguardian.com/world/2025/nov/18/venezuela-new-era-maria-corina-machado-trump",
+      "pubDate": "Tue, 18 Nov 2025 15:50:46 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pożar w kamienicy. Jedna osoba trafiła do szpitala",
+      "link": "https://tvn24.pl/wroclaw/wroclaw-pozar-w-kamienicy-jedna-osoba-trafila-do-szpitala-st8758454?source=rss",
+      "pubDate": "Tue, 18 Nov 2025 15:50:00 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Trzeci filar do remontu? Ruszają prace grupy roboczej przy Radzie Dialogu Społecznego",
       "link": "https://businessinsider.com.pl/praca/czy-trzeci-filar-czekaja-zmiany-grupa-ekspertow-szykuje-rekomendacje/y4p49nq",
       "pubDate": "Tue, 18 Nov 2025 15:47:36 GMT",
@@ -215,6 +449,12 @@
     {
       "title": "Young German launches startup to tackle space debris crisis",
       "link": "https://www.dw.com/en/young-german-launches-startup-to-tackle-space-debris-crisis/a-74779937?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 15:41:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Munich student launches startup to tackle space debris crisis",
+      "link": "https://www.dw.com/en/munich-student-launches-startup-to-tackle-space-debris-crisis/a-74779937?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Tue, 18 Nov 2025 15:41:00 GMT",
       "source": "DW"
     },
@@ -8599,6 +8839,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -34467,6 +34731,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -35359,6 +35647,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -48830,6 +49142,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64838,6 +65174,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -86208,276 +86568,6 @@
       "title": "Widmo zapaści na giełdzie. Nad Trumpem zbierają się czarne chmury",
       "link": "https://www.bankier.pl/wiadomosc/Widmo-zapasci-na-gieldzie-Nad-Trumpem-zbieraja-sie-czarne-chmury-9037645.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 10 Nov 2025 18:52:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Nord Stream suspect accuses Italy of pressure to confess",
-      "link": "https://www.bbc.com/news/articles/cj3zpdvxz3zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 10 Nov 2025 17:49:08 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Przyszły Xbox wycieka. 5 nowych konkretów o \"konsoli\"",
-      "link": "https://spidersweb.pl/2025/11/nowy-xbox-jak-komputer-co-przyniesie.html",
-      "pubDate": "Mon, 10 Nov 2025 18:48:51 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Jailed climate activist wins appeal against deportation from UK",
-      "link": "https://www.theguardian.com/world/2025/nov/10/jailed-climate-activist-wins-appeal-against-deportation-from-uk",
-      "pubDate": "Mon, 10 Nov 2025 17:48:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Debata \"Przemoc domowa\". Już w środę w TVN24+",
-      "link": "https://tvn24.pl/polska/debata-przemoc-domowa-w-tvn24-emisja-w-srode-o-godzinie-15-st8745717?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 17:47:41 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Pięć osób w aucie, jedna trzeźwa. Kierowcę \"odcięło\"",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/lisewo-kierowca-przyznal-sie-ze-go-odcielo-byl-pijany-i-pod-wplywem-narkotykow-st8745658?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 17:46:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Von der Leyen offers minor concessions on EU budget to placate centrist MEPs",
-      "link": "http://www.euronews.com/my-europe/2025/11/10/von-der-leyen-offers-minor-concessions-on-eu-budget-to-placate-centrist-meps",
-      "pubDate": "Mon, 10 Nov 2025 18:43:39 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Ursula von der Leyen ugięła się pod presją PE. Zapowiada zmiany",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-ursula-von-der-leyen-ugiela-sie-pod-presja-pe-zapowiada-zmia,nId,22452895",
-      "pubDate": "Mon, 10 Nov 2025 17:43:32 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"To dało mi siłę\". Sarkozy zabrał głos po wyjściu z więzienia",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-to-dalo-mi-sile-sarkozy-zabral-glos-po-wyjsciu-z-wiezienia,nId,8039357",
-      "pubDate": "Mon, 10 Nov 2025 18:42:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Fatalne wieści dla Elona Muska. Tak źle nie było od trzech lat",
-      "link": "https://tvn24.pl/biznes/ze-swiata/tesla-fatalne-wiesci-dla-elona-muska-tak-zle-nie-bylo-od-trzech-lat-st8745692?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 17:39:10 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Finlandia tłumaczy, dlaczego nie cofnie kontraktów zbrojeniowych z Izraelem",
-      "link": "https://www.bankier.pl/wiadomosc/Finlandia-tlumaczy-dlaczego-nie-cofnie-kontraktow-zbrojeniowych-z-Izraelem-9037070.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 18:39:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Donald Trump chce od BBC miliarda dolarów odszkodowania",
-      "link": "https://www.wirtualnemedia.pl/donald-trump-chce-od-bbc-miliarda-dolarow-odszkodowania,7220411457813376a",
-      "pubDate": "Mon, 10 Nov 2025 18:36:13 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Hiszpańskie media o Polsce: Przemysłowe serce Europy",
-      "link": "https://www.rmf24.pl/fakty/polska/news-hiszpanskie-media-o-polsce-przemyslowe-serce-europy,nId,8039358",
-      "pubDate": "Mon, 10 Nov 2025 18:36:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Balony z papierosami przyleciały do Polski. \"Paczka\" za 100 tys. zł",
-      "link": "https://businessinsider.com.pl/wiadomosci/balony-z-papierosami-przylecialy-do-polski-paczka-za-100-tys-zl/4thzcse",
-      "pubDate": "Mon, 10 Nov 2025 17:35:42 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Szef programu „Cybertruck” opuszcza Teslę. To wiele mówi o projekcie",
-      "link": "https://android.com.pl/moto/990341-szef-programu-cybertruck-opuszcza-tesle/",
-      "pubDate": "Mon, 10 Nov 2025 17:32:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "KGB próbuje werbować w Polsce. \"Wykorzystują szantaż\"",
-      "link": "https://wiadomosci.onet.pl/kraj/oferuja-czysta-karte-kgb-probuje-werbowac-w-polsce/v85y2rh",
-      "pubDate": "Mon, 10 Nov 2025 17:30:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trump chce pozwać BBC na miliard dolarów i nie jest bez szans",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-trump-chce-pozwac-bbc-na-miliard-dolarow-i-nie-jest-bez-szan,nId,8039359",
-      "pubDate": "Mon, 10 Nov 2025 18:30:17 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Uznano go za zmarłego. Znalazł się po 17 latach w parku narodowym w Bułgarii",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-10/uznano-go-za-zmarlego-znalazl-sie-po-17-latach-w-parku-narodowym-w-bulgarii/",
-      "pubDate": "Mon, 10 Nov 2025 18:30:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Internet Starlink trafi na pokład samolotów  British Airways",
-      "link": "https://www.chip.pl/2025/11/internet-starlink-british-airways",
-      "pubDate": "Mon, 10 Nov 2025 17:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Smartwatch ze słuchawkami od Huawei powróci w nowej odsłonie",
-      "link": "https://www.chip.pl/2025/11/smartwatch-ze-sluchawkami-od-huawei-powroci-w-nowej-odslonie",
-      "pubDate": "Mon, 10 Nov 2025 17:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Donald Trump chwalił się, że zakończył tam wojnę. Władze zawiesiły porozumienie pokojowe",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-mial-zakonczyc-te-wojne-porozumienie-zawieszone/6kbeb0c",
-      "pubDate": "Mon, 10 Nov 2025 17:29:54 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ukraine’s energy sector faces wide-scale investigation over ‘kickback’ allegations",
-      "link": "https://www.theguardian.com/world/2025/nov/10/ukraine-anti-corruption-agency-investigates-energy-sector",
-      "pubDate": "Mon, 10 Nov 2025 17:29:44 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rachel Reeves signals plan to remove two-child benefit cap in budget",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/10/rachel-reeves-signals-plan-remove-two-child-benefit-cap-budget",
-      "pubDate": "Mon, 10 Nov 2025 17:28:37 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nie widać końca pochmurnej i mglistej pogody. We wtorek szansa na słońce tylko w kilku regionach",
-      "link": "https://wiadomosci.onet.pl/pogoda/to-nie-koniec-pochmurnej-i-mglistej-pogody-slonce-tylko-w-kilku-regionach/9nev94q",
-      "pubDate": "Mon, 10 Nov 2025 17:27:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ukraine updates: Kyiv launches energy corruption probe",
-      "link": "https://www.dw.com/en/ukraine-updates-kyiv-launches-energy-corruption-probe/live-74689628?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 10 Nov 2025 17:25:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Belarus threatens to seize over 1,000 Lithuanian trucks stranded after border closure",
-      "link": "http://www.euronews.com/2025/11/10/belarus-threatens-to-seize-over-1000-lithuanian-trucks-stranded-after-border-closure",
-      "pubDate": "Mon, 10 Nov 2025 18:21:40 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Badają konie z Morskiego Oka. Na zlecenie fiakrów",
-      "link": "https://tvn24.pl/krakow/tatry-kolejne-badania-koni-z-morskiego-oka-ciagnely-ponad-1-5-tony-st8745641?source=rss",
-      "pubDate": "Mon, 10 Nov 2025 17:20:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Suspect admits to driving car in Magdeburg Christmas market attack",
-      "link": "https://www.dw.com/en/suspect-admits-to-driving-car-in-magdeburg-christmas-market-attack/a-74691645?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 10 Nov 2025 17:20:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kijów nie strzela w ciemno - uderza coraz głębiej. Morze Czarne płonie, a Putin udaje, że nic się nie dzieje. \"Rosyjskie ataki nie pozostaną bezkarne\"",
-      "link": "https://wiadomosci.onet.pl/swiat/kijow-nie-strzela-w-ciemno-uderza-coraz-glebiej-putin-udaje-ze-nic-sie-nie-dzieje-a/1r4nxpq",
-      "pubDate": "Mon, 10 Nov 2025 17:19:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tysiące lotów w USA odwoływanych przez brak wypłat dla kontrolerów. Donald Trump grozi",
-      "link": "https://businessinsider.com.pl/gospodarka/tysiace-lotow-w-usa-odwolywanych-przez-brak-wyplat-dla-kontrolerow-donald-trump-grozi/kyy73qp",
-      "pubDate": "Mon, 10 Nov 2025 17:18:20 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Man admits driving car in Magdeburg Christmas market attack",
-      "link": "https://www.dw.com/en/man-admits-driving-car-in-magdeburg-christmas-market-attack/a-74691645?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 10 Nov 2025 17:16:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Afera w nowosądeckim magistracie. Premier wskazał nowego prezydenta",
-      "link": "https://wydarzenia.interia.pl/malopolskie/news-afera-w-nowosadeckim-magistracie-premier-wskazal-nowego-prez,nId,22452882",
-      "pubDate": "Mon, 10 Nov 2025 17:15:51 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Łukaszenko: broń atomowa wciąż jest na Białorusi. Wspomniał Polskę",
-      "link": "https://businessinsider.com.pl/polityka/lukaszenko-bron-atomowa-wciaz-jest-na-bialorusi-odnosi-sie-do-polski/s1ebrrq",
-      "pubDate": "Mon, 10 Nov 2025 17:14:19 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Shetland islanders accuse Tom Daley’s Game of Wool of cultural appropriation",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/10/shetlanders-accuse-tom-daley-game-of-wool-cultural-appropriation",
-      "pubDate": "Mon, 10 Nov 2025 17:13:12 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "'It's a huge scandal': GTA VI delay row reaches Polish parliament",
-      "link": "http://www.euronews.com/culture/2025/11/10/its-a-huge-scandal-gta-vi-delay-row-reaches-polish-parliament",
-      "pubDate": "Mon, 10 Nov 2025 18:12:50 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Serbowie mają dość upokorzeń. Rosja traktuje ich kraj jak pionek, nigdy jak partnera. Jeden komentarz przelał czarę goryczy [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/rosja-oferuje-serbii-jedynie-szantaz-i-mity-serbowie-maja-dosc-upokorzen/wgqx6rd",
-      "pubDate": "Mon, 10 Nov 2025 17:09:31 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Związkowcy mówią nie automatyzacji terminali morskich",
-      "link": "https://logistyka.rp.pl/morski/art43314231-zwiazkowcy-mowia-nie-automatyzacji-terminali-morskich",
-      "pubDate": "Mon, 10 Nov 2025 18:08:02 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kanada zmaga się z powrotem odry. \"Niewystarczający poziom wyszczepienia\"",
-      "link": "https://www.bankier.pl/wiadomosc/Kanada-zmaga-sie-z-powrotem-odry-Niewystarczajacy-poziom-wyszczepienia-9037633.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 18:05:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Poseł w Sejmie wściekły na opóźnienie GTA 6. Pajacowanie czy sigma?",
-      "link": "https://spidersweb.pl/2025/11/gta-6-sejm-tumanowicz-konfederacja.html",
-      "pubDate": "Mon, 10 Nov 2025 18:04:32 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "At least eight killed after car explodes near Delhi's Red Fort",
-      "link": "https://www.bbc.com/news/articles/ceq0p8qnnrno?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 10 Nov 2025 17:03:55 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Polska nowym sercem przemysłowym Europy. Niemcy reanimują swoje",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-nowym-sercem-przemyslowym-Europy-Niemcy-reanimuja-swoje-9037632.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 18:03:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "US supreme court to decide if states can accept late-arriving mail ballots",
-      "link": "https://www.theguardian.com/us-news/2025/nov/10/supreme-court-mail-in-ballots",
-      "pubDate": "Mon, 10 Nov 2025 17:01:46 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Kolejne balony z nielegalnymi paczkami na terenie Polski. Dwie osoby zatrzymane",
-      "link": "https://wiadomosci.onet.pl/bialystok/zatrzymano-dwie-osoby-w-zwiazku-z-przemytem-papierosow-balonami/n5t9kjq",
-      "pubDate": "Mon, 10 Nov 2025 17:01:08 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Latest news bulletin | November 10th, 2025 – Evening",
-      "link": "http://www.euronews.com/video/2025/11/10/latest-news-bulletin-november-10th-2025-evening",
-      "pubDate": "Mon, 10 Nov 2025 18:00:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Xiaomi wypuszcza mały gadżet, który pozwoli uniknąć wielu problemów",
-      "link": "https://www.chip.pl/2025/11/xiaomi-wypuszcza-maly-gadzet-ktory-pozwoli-uniknac-wielu-problemow",
-      "pubDate": "Mon, 10 Nov 2025 17:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Drony - czym i jak zwalczać zagrożenie? Przykłady z ukraińskiej linii frontu",
-      "link": "https://www.bankier.pl/wiadomosc/Drony-czym-i-jak-zwalczac-zagrozenie-Przyklady-z-ukrainskiej-linii-frontu-9035726.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 10 Nov 2025 18:00:00 +0100",
       "source": "Bankier.pl"
     }
   ]
