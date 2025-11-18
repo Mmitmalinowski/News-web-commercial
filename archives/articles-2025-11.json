@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T22:00:19.276Z",
+  "generatedAt": "2025-11-18T22:28:33.363Z",
   "items": [
+    {
+      "title": "Stranded whale euthanized after failed rescue attempt off Oregon coast",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/stranded-humpback-whale-euthanized-oregon",
+      "pubDate": "Tue, 18 Nov 2025 22:19:56 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Baraże o mundial. Złe wieści dla Biało-Czerwonych",
+      "link": "https://www.rmf24.pl/sport/news-baraze-o-mundial-zle-wiesci-dla-bialo-czerwonych,nId,8041810",
+      "pubDate": "Tue, 18 Nov 2025 23:19:37 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "End spurt at the UN climate talks: What you need to know",
+      "link": "https://www.dw.com/en/end-spurt-at-the-un-climate-talks-what-you-need-to-know/a-74796062?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 18 Nov 2025 22:09:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "3. stopień alarmowy CHARLIE-CRP. Donald Tusk podpisał zarządzenie",
+      "link": "https://wiadomosci.onet.pl/kraj/3-stopien-alarmowy-charlie-crp-donald-tusk-podpisal-zarzadzenie/1lq8rcn",
+      "pubDate": "Tue, 18 Nov 2025 22:08:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sekurak patronem medialnym konferencji Nowe Horyzonty Biometrii",
+      "link": "https://sekurak.pl/sekurak-patronem-medialnym-konferencji-nowe-horyzonty-biometrii/",
+      "pubDate": "Tue, 18 Nov 2025 22:08:30 +0000",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Trzeci stopień alarmowy na kolei. Premier zdecydował",
+      "link": "https://wydarzenia.interia.pl/kraj/news-trzeci-stopien-alarmowy-na-kolei-premier-zdecydowal,nId,22455623",
+      "pubDate": "Tue, 18 Nov 2025 22:05:34 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Ujawnienie akt Epsteina. Izba Reprezentantów podjęła niemal jednogłośną decyzję",
       "link": "https://wiadomosci.onet.pl/swiat/ujawnienie-akt-epsteina-izba-reprezentantow-usa-podjela-decyzje/rzcnckt",
@@ -24,6 +60,12 @@
       "title": "Chińscy \"łowcy głów\" grasują w sieci. Brytyjczycy podnoszą alarm",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-18/chinscy-lowcy-glow-grasuja-w-sieci-brytyjczycy-podnosza-alarm/",
       "pubDate": "Tue, 18 Nov 2025 22:32:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Media: Polska fabryka dostarczała Izraelowi materiały wybuchowe. W tle wojna w Gazie",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-18/media-polska-fabryka-dostarczala-izraelowi-materialy-wybuchowe-w-tle-wojna-w-gazie/",
+      "pubDate": "Tue, 18 Nov 2025 22:26:00 +0100",
       "source": "Polsat News"
     },
     {
@@ -10447,6 +10489,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -37083,6 +37149,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -37975,6 +38065,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -51830,6 +51944,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68222,6 +68360,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -87847,78 +88009,6 @@
       "link": "https://www.wirtualnemedia.pl/lewandowski-jako-pierwszy-w-historii-polak-rozswietlil-empire-state-building-z-okazji-swieta-niepodleglosci,7220621786688448a",
       "pubDate": "Tue, 11 Nov 2025 08:56:04 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Media: UE tworzy nową jednostkę wywiadowczą",
-      "link": "https://www.money.pl/gospodarka/media-ue-tworzy-nowa-jednostke-wywiadowcza-7220617759984512a.html",
-      "pubDate": "Tue, 11 Nov 2025 08:55:31 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Naukowcy odebrali pierwszy sygnał radiowy komety 3I/ATLAS. Historyczna detekcja podsyca dyskusję o pochodzeniu obiektu",
-      "link": "https://www.chip.pl/2025/11/3i-atlas-kometa-odebrany-sygnal-radiowy",
-      "pubDate": "Tue, 11 Nov 2025 07:54:15 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "WA windsurfer escapes with bitten board after great white shark encounter at popular surf spot",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/11/wa-windsurfer-escapes-with-bitten-board-after-great-white-shark-encounter-at-popular-surf-spot",
-      "pubDate": "Tue, 11 Nov 2025 07:52:18 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Chris Minns announces fresh laws restricting protests near places of worship as questions continue over neo-Nazi protest",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/11/chris-minns-announces-fresh-laws-restricting-protests-near-places-of-worship-as-questions-continue-over-neo-nazi-protest",
-      "pubDate": "Tue, 11 Nov 2025 07:49:54 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Koniec Europy \"dobrobytu\"? Dług publiczny może eksplodować, MFW ostrzega",
-      "link": "https://biznes.interia.pl/gospodarka/news-presja-wydatkow-przytlacza-europe-czy-to-koniec-panstw-dobro,nId,22451634",
-      "pubDate": "Tue, 11 Nov 2025 07:49:37 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "The night an explosion shook Delhi",
-      "link": "https://www.bbc.com/news/articles/clyl7n4q3qyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 11 Nov 2025 07:49:17 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Anna Próchniak nominowana do nagrody BAFTA Scotland. „Nazwałabym siebie aktorką europejską”",
-      "link": "https://kobieta.rp.pl/wywiad/art43189131-anna-prochniak-nominowana-do-nagrody-bafta-scotland-nazwalabym-siebie-aktorka-europejska",
-      "pubDate": "Tue, 11 Nov 2025 08:45:42 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Współwłaściciel samochodu nie żyje. Co z prawem własności?",
-      "link": "https://biznes.interia.pl/finanse/news-wspolwlasciciel-samochodu-nie-zyje-co-z-prawem-wlasnosci,nId,22450441",
-      "pubDate": "Tue, 11 Nov 2025 07:40:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "UE tworzy nową jednostkę wywiadowczą. \"Komisja i służby wiedzą dużo\"",
-      "link": "https://wiadomosci.onet.pl/kraj/ue-tworzy-nowa-jednostke-wywiadowcza-komisja-i-sluzby-wiedza-duzo/0fvetm6",
-      "pubDate": "Tue, 11 Nov 2025 07:39:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Metro poza Warszawą coraz bliżej. Są chętni do kopania tunelu",
-      "link": "https://spidersweb.pl/2025/11/metro-krakow-konsultacje-rynkowe.html",
-      "pubDate": "Tue, 11 Nov 2025 08:33:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Donald Trump grozi BBC pozwem na 1 mld dol.",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-grozi-bbc-pozwem-na-miliard-dolarow-film-wywolal-burze/x22g9v0",
-      "pubDate": "Tue, 11 Nov 2025 07:32:43 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ponad 60 tys. mieszkań czeka na kupców. Sprzedaż u deweloperów poszła w górę",
-      "link": "https://www.bankier.pl/wiadomosc/Ponad-60-tys-mieszkan-czeka-na-kupcow-Sprzedaz-u-deweloperow-poszla-w-gore-9037746.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 11 Nov 2025 08:31:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
