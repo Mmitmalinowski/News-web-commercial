@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-18T19:31:58.935Z",
+  "generatedAt": "2025-11-18T19:42:03.522Z",
   "items": [
+    {
+      "title": "Tak dobrze jeszcze nie było. Składany iPhone zaskoczy baterią",
+      "link": "https://android.com.pl/tech/992689-skladany-iphone-bateria-przecieki/",
+      "pubDate": "Tue, 18 Nov 2025 19:35:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Allegro pożycza miliardy. Spłaci obecne kredyty",
+      "link": "https://www.wirtualnemedia.pl/allegro-bierze-kredyt-nowy-na-splate-zadluzenia,7223270022527488a",
+      "pubDate": "Tue, 18 Nov 2025 20:34:20 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Judge rejects ‘racially gerrymandered’ maps in Texas that gave Republicans extra districts",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/texas-congressional-redistricting-maps",
+      "pubDate": "Tue, 18 Nov 2025 19:31:02 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Australia news live: Optus fined $800k over phone scam; NSW targets ‘dehumanising’ work systems such as Amazon’s",
+      "link": "https://www.theguardian.com/australia-news/live/2025/nov/19/australia-news-live-optus-amazon-nsw-leaders-mark-speakman-challenge-spill-coalition-john-laws-funeral-ntwnfbhip-liberal",
+      "pubDate": "Tue, 18 Nov 2025 19:30:15 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Tym jest Agentyczny Windows. Będziemy jak klawisz pilnujący AI",
       "link": "https://spidersweb.pl/2025/11/windows-agentic-os-co-to.html",
@@ -13,6 +37,12 @@
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-18-11-2025-7223269573966368a.html",
       "pubDate": "Tue, 18 Nov 2025 20:28:29 +0100",
       "source": "Money.pl"
+    },
+    {
+      "title": "US must face ‘same consequences’ as former prince Andrew over Epstein, congressman says",
+      "link": "https://www.theguardian.com/us-news/2025/nov/18/epstein-files-vote-thomas-massie",
+      "pubDate": "Tue, 18 Nov 2025 19:26:09 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "​Nie do zatrzymania. Młodzieżówka znowu wygrywa",
@@ -9997,6 +10027,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -36345,6 +36399,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -37237,6 +37315,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -50948,6 +51050,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67196,6 +67322,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "11",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
           "@_type": "application/atom+xml"
         }
       ],
@@ -87319,66 +87469,6 @@
       "link": "https://www.theguardian.com/australia-news/2025/nov/11/linda-reynolds-bankruptcy-proceedings-against-brittany-higgins-stalled-by-paperwork-glitch-ntwnfb",
       "pubDate": "Tue, 11 Nov 2025 05:10:56 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Izrael stawia krok w stronę kary śmierci. Podsumowanie nocy",
-      "link": "https://wiadomosci.onet.pl/swiat/izrael-stawia-krok-w-strone-kary-smierci-podsumowanie-nocy/hechmz2",
-      "pubDate": "Tue, 11 Nov 2025 05:05:43 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jest ruch Senatu. Koniec najdłuższego w historii shutdownu coraz bliżej",
-      "link": "https://www.money.pl/gospodarka/jest-ruch-senatu-koniec-najdluzszego-w-historii-shutdownu-coraz-blizej-7220579300748224a.html",
-      "pubDate": "Tue, 11 Nov 2025 06:05:02 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Kurs JPY/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-japonskiego-dzisiaj-po-ile-jest-jen-japonski-11-listopada-2025-r/zlx5vyn",
-      "pubDate": "Tue, 11 Nov 2025 05:04:28 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs EUR/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-11-listopada-2025-r/y6dz59r",
-      "pubDate": "Tue, 11 Nov 2025 05:04:17 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs USD/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-amerykanskiego-dzisiaj-po-ile-jest-dolar-amerykanski-11-listopada-2025-r/qvg54c5",
-      "pubDate": "Tue, 11 Nov 2025 05:04:13 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs CHF/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-szwajcarskiego-dzisiaj-po-ile-jest-frank-szwajcarski-11-listopada-2025-r/bz7dmgv",
-      "pubDate": "Tue, 11 Nov 2025 05:04:01 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs GBP/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funtow-brytyjskich-dzisiaj-po-ile-jest-funt-brytyjski-11-listopada-2025-r/nz4xltr",
-      "pubDate": "Tue, 11 Nov 2025 05:03:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs CZK/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-czeska-11-listopada-2025-r/gjh3ddm",
-      "pubDate": "Tue, 11 Nov 2025 05:03:42 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs NOK/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-norweska-11-listopada-2025-r/wrheer6",
-      "pubDate": "Tue, 11 Nov 2025 05:03:37 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs SEK/PLN 11 listopada 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-szwedzkiej-dzisiaj-po-ile-jest-korona-szwedzka-11-listopada-2025-r/163082r",
-      "pubDate": "Tue, 11 Nov 2025 05:03:09 GMT",
-      "source": "Business Insider"
     }
   ]
 }
