@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-19T04:38:46.052Z",
+  "generatedAt": "2025-11-19T04:52:18.603Z",
   "items": [
+    {
+      "title": "Czekaliśmy na te zdjęcia z ataku broni nowej ery. Pocisk bez prochu, a efekt jak po młocie boga",
+      "link": "https://www.chip.pl/2025/11/japonia-test-elektromagnetycznego-dziala-skutki-ataku-broni",
+      "pubDate": "Wed, 19 Nov 2025 04:48:33 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Music Box Group uruchomi jeszcze więcej kanałów muzycznych",
+      "link": "https://www.wirtualnemedia.pl/music-box-rrtv-wnioski-80-90-00-koniec-mtv-wypowiedzenie,7222939703482880a",
+      "pubDate": "Wed, 19 Nov 2025 05:45:12 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Ukraina atakuje systemami ATACMS. \"To przełomowe wydarzenie\"",
+      "link": "https://tvn24.pl/swiat/ukraina-atakuje-rosje-systemami-atacms-to-przelomowe-wydarzenie-st8759032?source=rss",
+      "pubDate": "Wed, 19 Nov 2025 04:43:28 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tyle samorząd zapłaci TVP za \"Sylwestra z Dwójką\"",
+      "link": "https://www.wirtualnemedia.pl/tyle-samorzad-zaplaci-tvp-za-sylwestra-z-dwojka,7223141464214016a",
+      "pubDate": "Wed, 19 Nov 2025 05:43:01 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Brutalny nalot Rosji na Ukrainę. Wśród rannych są dzieci. Podsumowanie nocy",
+      "link": "https://wiadomosci.onet.pl/swiat/nalot-rosji-na-charkow-co-najmniej-32-osoby-sa-ranne-podsumowanie-nocy/8ne858h",
+      "pubDate": "Wed, 19 Nov 2025 04:37:57 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kanał TVP może przejść rewolucję. Decyzję podejmie Bruksela",
+      "link": "https://www.wirtualnemedia.pl/komisja-europejska-list-tvp-world-radio-wolna-europa-donald-trump-finansowanie,7223279464802848a",
+      "pubDate": "Wed, 19 Nov 2025 05:37:57 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Tropical cyclone Fina on torrential path to hit northern Australian coast this week",
+      "link": "https://www.theguardian.com/environment/2025/nov/19/tropical-cyclone-fina-northern-territory-darwin",
+      "pubDate": "Wed, 19 Nov 2025 04:36:58 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Reklama lodów Kaktus \"Środa dzień loda\" pod lupą Komisji Etyki Reklamy. Jest werdykt",
       "link": "https://www.wirtualnemedia.pl/reklama-lodow-kaktus-sroda-dzien-loda-pod-lupa-komisji-etyki-reklamy-jest-werdykt,7222817058544576a",
@@ -25,6 +67,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/polskie-lotnictwo-w-najwyzszej-gotowosci-dorsz-reakcja-na-ataki-rosji/67009nk",
       "pubDate": "Wed, 19 Nov 2025 04:33:19 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Poderwano polskie i sojusznicze myśliwce. \"Stan najwyższej gotowości\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-poderwano-polskie-i-sojusznicze-mysliwce-stan-najwyzszej-got,nId,22455629",
+      "pubDate": "Wed, 19 Nov 2025 04:32:13 GMT",
+      "source": "Interia"
     },
     {
       "title": "Netflix, Lidl i Polsat rządzą na TikToku",
@@ -11065,6 +11113,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -38325,6 +38397,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -39217,6 +39313,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -53384,6 +53504,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72663,6 +72807,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Gwałtowny\" wzrost na rynku",
       "link": "https://tvn24.pl/biznes/moto/motoryzacja-gwaltowny-wzrost-na-rynku-st8749550?source=rss",
       "pubDate": "Thu, 13 Nov 2025 12:00:00 GMT",
@@ -89011,84 +89179,6 @@
       "link": "https://turystyka.rp.pl/biura-podrozy/art43314971-biuro-podrozy-pod-ostrzalem-wierzyciel-upomnial-sie-publicznie-o-pieniadze",
       "pubDate": "Tue, 11 Nov 2025 12:28:01 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Tragiczna śmierć Polaka na Maderze. Nowe informacje służb",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-tragiczna-smierc-polaka-na-maderze-nowe-informacje-sluzb,nId,22452949",
-      "pubDate": "Tue, 11 Nov 2025 11:20:11 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Andrzej Poczobut odznaczony przez prezydenta Orderem Orła Białego",
-      "link": "https://www.wirtualnemedia.pl/andrzej-poczobut-odznaczony-przez-prezydenta-orderem-orla-bialego,7220668357680064a",
-      "pubDate": "Tue, 11 Nov 2025 12:17:33 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Europe in the green as Wall Street hesitates ahead of US shutdown deal",
-      "link": "http://www.euronews.com/business/2025/11/11/europe-in-the-green-as-wall-street-hesitates-ahead-of-us-shutdown-deal",
-      "pubDate": "Tue, 11 Nov 2025 12:16:33 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Kiedy pękają tamy – jak budować odporność społeczną na kryzysy?",
-      "link": "https://www.rp.pl/opinie-polityczno-spoleczne/art43278521-kiedy-pekaja-tamy-jak-budowac-odpornosc-spoleczna-na-kryzysy",
-      "pubDate": "Tue, 11 Nov 2025 12:15:52 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Młodzi są dumni z Polski. \"Za granicą niesamowicie doceniam to, że jestem Polką\"",
-      "link": "https://wiadomosci.onet.pl/kraj/swieto-niepodleglosci-z-czego-w-polsce-sa-dumni-mlodzi-polacy-sonda/25m08pc",
-      "pubDate": "Tue, 11 Nov 2025 11:15:05 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ten years on, survivors still struggle with trauma of deadly Paris terror attacks",
-      "link": "http://www.euronews.com/2025/11/11/ten-years-on-survivors-still-struggle-with-trauma-of-deadly-paris-terror-attacks",
-      "pubDate": "Tue, 11 Nov 2025 12:11:31 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Vinted users lash out over sizing changes",
-      "link": "https://www.bbc.com/news/articles/c87421v7lzro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 11 Nov 2025 11:09:49 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Powstanie nowa służba mundurowa. Zniknie Inspekcja Transportu Drogowego",
-      "link": "https://businessinsider.com.pl/wiadomosci/powstanie-nowa-sluzba-mundurowa-zniknie-inspekcja-transportu-drogowego/ec5z7md",
-      "pubDate": "Tue, 11 Nov 2025 11:08:58 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rosyjska rafineria w Saratowie w ogniu",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/rosyjska-rafineria-w-saratowie-w-ogniu",
-      "pubDate": "Tue, 11 Nov 2025 11:08:29 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Kosmiczny kurczak przejdzie do historii. To pierwsze danie upieczone w kosmosie",
-      "link": "https://android.com.pl/nauka/988911-chiny-stacja-kosmiczna-kurczak-kosmos/",
-      "pubDate": "Tue, 11 Nov 2025 11:08:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Próba sił na polskiej giełdzie. WIG20 nie rezygnuje z pobicia rekordu hossy",
-      "link": "https://biznes.interia.pl/gospodarka/news-proba-sil-na-gpw-pomogly-dobre-wiadomosci-zza-oceanu,nId,22452983",
-      "pubDate": "Tue, 11 Nov 2025 11:06:51 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "\"Uwaga na cenę złota\"",
-      "link": "https://tvn24.pl/biznes/rynki/ekspert-uwaga-na-cene-zlota-st8746432?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 11:03:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Netflix za darmo 2025: Tylko te promocje naprawdę działają",
-      "link": "https://antyweb.pl/netflix-za-darmo-2025",
-      "pubDate": "Tue, 11 Nov 2025 11:00:59 GMT",
-      "source": "Antyweb"
     }
   ]
 }
