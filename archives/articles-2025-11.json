@@ -1,12 +1,54 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-19T07:31:34.527Z",
+  "generatedAt": "2025-11-19T07:44:14.260Z",
   "items": [
+    {
+      "title": "Ukraine updates: Zelenskyy due in Turkey to meet Erdogan",
+      "link": "https://www.dw.com/en/ukraine-updates-zelenskyy-due-in-turkey-to-meet-erdogan/live-74799873?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 19 Nov 2025 07:41:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ukrywał kradzione rzeczy w szafkach depozytowych. Zatrzymał go policjant po służbie ",
+      "link": "https://tvn24.pl/opole/kedzierzyn-kozle-ukrywal-kradzione-w-szafkach-depozytowych-zatrzymal-go-policjant-po-sluzbie-st8759163?source=rss",
+      "pubDate": "Wed, 19 Nov 2025 07:38:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "USA i Rosja szykują przełomowy dokument. 28 punktów dotyczących pokoju na Ukrainie",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-prowadzi-tajne-rozmowy-z-rosja-chodzi-o-pokoj-na-ukrainie/qgkw6x5",
+      "pubDate": "Wed, 19 Nov 2025 07:38:08 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Nadchodzi koniec wysokich rachunków za gaz? Oto co mówią prognozy",
+      "link": "https://www.rmf24.pl/ekonomia/news-nadchodzi-koniec-wysokich-rachunkow-za-gaz-oto-co-mowia-prog,nId,8041846",
+      "pubDate": "Wed, 19 Nov 2025 08:36:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Izrael zaatakował w obozie dla uchodźców. 13 osób nie żyje",
+      "link": "https://tvn24.pl/swiat/liban-izrael-zaatakowal-w-obozie-dla-uchodzcow-13-osob-nie-zyje-st8759011?source=rss",
+      "pubDate": "Wed, 19 Nov 2025 07:32:50 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Google musi szybko to naprawić. Ten błąd można odczuć po kieszeni",
+      "link": "https://antyweb.pl/google-musi-szybko-to-naprawic-ten-blad-mozna-odczuc-po-kieszeni",
+      "pubDate": "Wed, 19 Nov 2025 07:30:12 GMT",
+      "source": "Antyweb"
+    },
     {
       "title": "Co piąte dziecko w Polsce je fast foody codziennie. Alarmujące dane",
       "link": "https://www.rmf24.pl/fakty/polska/news-co-piate-dziecko-w-polsce-je-fast-foody-codziennie-alarmujac,nId,8041842",
       "pubDate": "Wed, 19 Nov 2025 08:30:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Koniec problemów z gruntami po PRL? Milion Polaków odetchnie z ulgą",
+      "link": "https://www.bankier.pl/wiadomosc/Koniec-problemow-z-gruntami-po-PRL-Milion-Polakow-odetchnie-z-ulga-9041794.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 19 Nov 2025 08:30:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Rosjanie odsłonili się z nową strategią. Atak w Polsce zmienia zasady \"gry\"",
@@ -1179,6 +1221,12 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "Nie stać nas na to, by płacić kolejne miliardy",
+      "link": "https://pro.rp.pl/sady-i-prokuratura/art43353731-nie-stac-nas-na-to-by-placic-kolejne-miliardy",
+      "pubDate": "Wed, 19 Nov 2025 05:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Czekaliśmy na te zdjęcia z ataku broni nowej ery. Pocisk bez prochu, a efekt jak po młocie boga",
       "link": "https://www.chip.pl/2025/11/japonia-test-elektromagnetycznego-dziala-skutki-ataku-broni",
       "pubDate": "Wed, 19 Nov 2025 04:48:33 +0000",
@@ -1205,6 +1253,12 @@
     {
       "title": "Jacek Dubois: O rozbrajaniu betonu",
       "link": "https://www.rp.pl/rzecz-o-prawie/art43353651-jacek-dubois-o-rozbrajaniu-betonu",
+      "pubDate": "Wed, 19 Nov 2025 05:40:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Niezależny, losowy przydział spraw",
+      "link": "https://pro.rp.pl/sady-i-prokuratura/art43353751-niezalezny-losowy-przydzial-spraw",
       "pubDate": "Wed, 19 Nov 2025 05:40:00 +0100",
       "source": "Rzeczpospolita"
     },
@@ -12391,6 +12445,30 @@
       "link": "https://tvn24.pl/kultura-i-styl/orange-warsaw-festival-2026-olivia-dean-lewis-capaldi-i-tv-girl-przyjada-do-warszawy-st8756299?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:47:23 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "28",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
@@ -40083,6 +40161,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -40975,6 +41077,30 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:48:05Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
@@ -55358,6 +55484,30 @@
           "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T10:24:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75069,6 +75219,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Uwaga Lekarze! Ktoś próbuje wyłudzać hasła do dokumentacji medycznej!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-lekarze-ktos-wyludza-hasla-do-dokumentacji-medycznej/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-13T12:00:26Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Gwałtowny\" wzrost na rynku",
       "link": "https://tvn24.pl/biznes/moto/motoryzacja-gwaltowny-wzrost-na-rynku-st8749550?source=rss",
       "pubDate": "Thu, 13 Nov 2025 12:00:00 GMT",
@@ -89815,90 +89989,6 @@
       "link": "http://www.euronews.com/2025/11/11/three-years-since-the-liberation-of-kherson-no-russian-troops-but-thousands-of-attack-dron",
       "pubDate": "Tue, 11 Nov 2025 17:27:00 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Projekt futurystycznego miasta upada. Kasa topnieje, a wizja się sypie",
-      "link": "https://spidersweb.pl/2025/11/neom-the-line-projekt-upada-finanse-chaos.html",
-      "pubDate": "Tue, 11 Nov 2025 17:26:19 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "SoftBank ditches Nvidia in favour of deeper dive into AI",
-      "link": "http://www.euronews.com/business/2025/11/11/softbank-ditches-nvidia-in-favour-of-deeper-drive-into-ai",
-      "pubDate": "Tue, 11 Nov 2025 17:25:42 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Co z relokacją migrantów? Jest decyzja Komisji Europejskiej",
-      "link": "https://tvn24.pl/swiat/pakt-migracyjny-ue-co-z-relokacja-migrantow-jest-decyzja-komisji-europejskiej-st8747282?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 16:24:21 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "USA wzmacniają siły wokół Wenezueli. Maduro oskarża Waszyngton o plan obalenia",
-      "link": "https://www.bankier.pl/wiadomosc/USA-wzmacniaja-sily-wokol-Wenezueli-Maduro-oskarza-Waszyngton-o-plan-obalenia-9037870.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 11 Nov 2025 17:23:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Katastrofa tureckiego samolotu wojskowego. Na pokładzie było 20 osób",
-      "link": "https://tvn24.pl/swiat/katastrofa-tureckiego-samolotu-wojskowego-st8747275?source=rss",
-      "pubDate": "Tue, 11 Nov 2025 16:21:50 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nieznane tunele pod Nottingham. Według legend ukrywał się tam Robin Hood",
-      "link": "https://tech.wp.pl/nieznane-tunele-pod-nottingham-wedlug-legend-ukrywal-sie-tam-robin-hood,7220738621295552a",
-      "pubDate": "Tue, 11 Nov 2025 17:20:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Motorola też szykuje swojego ultraflagowca. Już wiemy, co zaoferuje",
-      "link": "https://www.chip.pl/2025/11/motorola-tez-szykuje-swojego-ultraflagowca-juz-wiemy-co-zaoferuje",
-      "pubDate": "Tue, 11 Nov 2025 16:15:49 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Men with family stuck in Gaza say lack of action from UK government is a breach of human rights",
-      "link": "https://www.theguardian.com/world/2025/nov/11/men-with-family-stuck-in-gaza-say-lack-uk-government-action-breach-of-human-rights",
-      "pubDate": "Tue, 11 Nov 2025 16:13:55 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"Poważna presja migracyjna\". Sześć państw UE może być zwolnionych z relokacji migrantów",
-      "link": "https://www.bankier.pl/wiadomosc/Powazna-presja-migracyjna-Szesc-panstw-UE-moze-byc-zwolnionych-z-relokacji-migrantow-9037869.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 11 Nov 2025 17:12:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Incydent w Warszawie. Władze miasta informują",
-      "link": "https://wiadomosci.onet.pl/kraj/incydent-w-warszawie-wladze-miasta-informuja/mwgr2nq",
-      "pubDate": "Tue, 11 Nov 2025 16:10:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Incydent w Warszawie. Władze miasta informują o szczegółach",
-      "link": "https://wiadomosci.onet.pl/kraj/incydent-w-warszawie-jeden-z-uczestnikow-rzucil-srodek-pirotechniczny/mwgr2nq",
-      "pubDate": "Tue, 11 Nov 2025 16:10:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Komisja Europejska ogłasza. Chodzi o Pakt Migracyjny, wskazali na Polskę",
-      "link": "https://wydarzenia.interia.pl/kraj/news-komisja-europejska-oglasza-chodzi-o-pakt-migracyjny-wskazali,nId,22453050",
-      "pubDate": "Tue, 11 Nov 2025 16:09:38 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Co z Polską i paktem migracyjnym? Jest stanowisko Komisji Europejskiej",
-      "link": "https://wiadomosci.onet.pl/kraj/co-z-polska-i-paktem-migracyjnym-jest-stanowisko-komisji-europejskiej/4nvcrh9",
-      "pubDate": "Tue, 11 Nov 2025 16:08:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "​Ukrainiec przerwał strajk głodowy. Niemcy oskarżają go o atak na Nord Stream",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-ukrainiec-przerwal-strajk-glodowy-niemcy-oskarzaja-go-o-atak,nId,8039426",
-      "pubDate": "Tue, 11 Nov 2025 17:08:06 +0100",
-      "source": "RMF24"
     }
   ]
 }
