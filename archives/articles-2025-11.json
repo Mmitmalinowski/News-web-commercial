@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-21T18:21:07.842Z",
+  "generatedAt": "2025-11-21T18:43:20.916Z",
   "items": [
+    {
+      "title": "Debiutuje Nothing OS 4.0 z Androidem 16. Na pokładzie wiele zmian",
+      "link": "https://android.com.pl/tech/993823-na-phone-3-debiutuje-nothing-os-4-0/",
+      "pubDate": "Fri, 21 Nov 2025 18:41:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Kuchenne rewolucje… w Twoim domu? Streamingowa platforma Flavoury dostępna w Polsce",
+      "link": "https://mamstartup.pl/kuchenne-rewolucje-w-twoim-domu-streamingowa-platforma-flavoury-dostepna-w-polsce/",
+      "pubDate": "Fri, 21 Nov 2025 18:38:04 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Władimir Putin: Plan Donalda Trumpa mógłby być podstawą pokoju",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-wladimir-putin-plan-donalda-trumpa-moglby-byc-podstawa-pokoj,nId,22456998",
+      "pubDate": "Fri, 21 Nov 2025 18:33:28 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Węgierski miliarder wychodzi z \"Rzeczpospolitej\". Strata na akcjach",
+      "link": "https://www.wirtualnemedia.pl/gremi-media-wydawca-rzeczpospolitej-zoltan-varga-sprzedal-akcje,7224317367040512a",
+      "pubDate": "Fri, 21 Nov 2025 19:31:19 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Plan pokojowy dla Ukrainy. Władimir Putin zabrał głos",
+      "link": "https://businessinsider.com.pl/wiadomosci/plan-pokojowy-dla-ukrainy-wladimir-putin-zabral-glos/n9k8bsb",
+      "pubDate": "Fri, 21 Nov 2025 18:27:39 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Była świadkiem wypadku na Trasie Łazienkowskiej. Dramatyczne słowa. \"Pierwszy raz coś takiego widziałam\"",
+      "link": "https://wiadomosci.onet.pl/warszawa/byla-swiadkiem-wypadku-na-trasie-lazienkowskiej-wstrzasajaca-relacja/we43rkf",
+      "pubDate": "Fri, 21 Nov 2025 18:24:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "W USA rosną szanse na grudniowe cięcie stóp. Złoty w piątek stracił",
+      "link": "https://biznes.interia.pl/waluty/aktualnosci/news-zloty-slabszy-w-stosunku-do-euro-i-dolara-w-usa-golebi-komen,nId,22456999",
+      "pubDate": "Fri, 21 Nov 2025 18:24:09 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "\"Polska jest silna tymi ludźmi\". Ruszył nabór zgłoszeń do \"biznesowych Oscarów\"",
       "link": "https://tvn24.pl/biznes/dlafirm/ruszyl-nabor-do-15-edycji-nagrody-polskiej-rady-biznesu-st8764743?source=rss",
@@ -19,6 +61,12 @@
       "link": "https://www.rmf24.pl/regiony/trojmiasto/news-szukamy-taty-rodzina-pracownika-strazy-granicznej-prosi-o-po,nId,8042907",
       "pubDate": "Fri, 21 Nov 2025 19:17:39 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Sarkozy wydaje „Dziennik więźnia”. Były prezydent opisał pobyt za kratami",
+      "link": "https://www.bankier.pl/wiadomosc/Sarkozy-wydaje-Dziennik-wieznia-Byly-prezydent-opisal-pobyt-za-kratami-9043957.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 21 Nov 2025 19:16:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Te flagowce zmiatają konkurencję. Wszystko przez te zdjęcia",
@@ -4591,6 +4639,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -15242,6 +15314,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -47505,6 +47601,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -76971,6 +77091,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -77863,294 +78007,6 @@
       "link": "https://tvn24.pl/swiat/rosjanie-maja-plan-sprowadza-12-tysiecy-ludzi-kima-st8751587?source=rss",
       "pubDate": "Fri, 14 Nov 2025 10:48:58 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/bezpieczne-finanse-dla-wymagajacych-jak-nie-dac-sie-zlowic-oszustom-kiedy-masz-wiecej-na-koncie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "5",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T10:48:05Z",
-      "source": "Niebezpiecznik"
     },
     {
       "title": "Bezpieczne finanse dla wymagających – jak nie dać się złowić oszustom, kiedy masz więcej na koncie?",
