@@ -1,10 +1,40 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T19:58:02.091Z",
+  "generatedAt": "2025-11-22T20:24:07.409Z",
   "items": [
+    {
+      "title": "Germany's Merz, Brazil's Lula reconcile after Belem comments",
+      "link": "https://www.dw.com/en/germany-s-merz-brazil-s-lula-reconcile-after-belem-comments/a-74850206?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 22 Nov 2025 20:16:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Tragiczny finał pożaru. Zginęły dwie osoby, w tym dziecko",
+      "link": "https://wiadomosci.onet.pl/bialystok/tragiczny-final-pozaru-zginely-dwie-osoby-w-tym-dziecko/8jrb2zg",
+      "pubDate": "Sat, 22 Nov 2025 20:13:54 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kazakhstan shows support towards Armenia’s peace and transport corridor initiatives",
+      "link": "http://www.euronews.com/2025/11/22/kazakhstan-shows-support-towards-armenias-peace-and-transport-corridor-initiatives",
+      "pubDate": "Sat, 22 Nov 2025 21:06:05 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Ukłon w stronę Orbana. Trump dotrzymuje słowa",
+      "link": "https://tvn24.pl/biznes/ze-swiata/uklon-w-strone-viktora-orbana-donald-trump-dotrzymuje-slowa-st8766364?source=rss",
+      "pubDate": "Sat, 22 Nov 2025 20:00:00 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Kierowca zakleszczony, wzywano LPR. Groźny wypadek pod Sielcami",
       "link": "https://wydarzenia.interia.pl/mazowieckie/news-kierowca-zakleszczony-wzywano-lpr-grozny-wypadek-pod-sielcam,nId,22457174",
+      "pubDate": "Sat, 22 Nov 2025 19:56:20 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Kierowca zakleszczony, wzywano LPR. Groźny wypadek pod Siedlcami",
+      "link": "https://wydarzenia.interia.pl/mazowieckie/news-kierowca-zakleszczony-wzywano-lpr-grozny-wypadek-pod-siedlca,nId,22457174",
       "pubDate": "Sat, 22 Nov 2025 19:56:20 GMT",
       "source": "Interia"
     },
@@ -13,6 +43,12 @@
       "link": "https://www.chip.pl/2025/11/ogromne-zloze-rudy-zelaza-australia-zachodnia",
       "pubDate": "Sat, 22 Nov 2025 19:55:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Deweloperzy kontra mieszkańcy. Spory o przestrzeń stają się codziennością",
+      "link": "https://businessinsider.com.pl/nieruchomosci/budowa-w-miescie-to-pole-bitwy-sprawdzamy-skad-biora-sie-lokalne-spory/gml8bln",
+      "pubDate": "Sat, 22 Nov 2025 19:54:20 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Pożar domu jednorodzinnego. Nie żyją dwie osoby, w tym dwuletnie dziecko",
@@ -443,6 +479,12 @@
     {
       "title": "Drony nad bazą wojskową. Holendrzy otworzyli ogień",
       "link": "https://www.rmf24.pl/fakty/swiat/news-drony-nad-baza-wojskowa-holendrzy-otworzyli-ogien,nId,8043020",
+      "pubDate": "Sat, 22 Nov 2025 18:27:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Drony nad bazą wojskową. Holendrzy użyli broni",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-drony-nad-baza-wojskowa-holendrzy-uzyli-broni,nId,8043020",
       "pubDate": "Sat, 22 Nov 2025 18:27:00 +0100",
       "source": "RMF24"
     },
@@ -9313,6 +9355,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -22124,6 +22190,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -58707,6 +58797,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -74701,66 +74815,6 @@
       "link": "https://www.theguardian.com/australia-news/2025/nov/15/david-pocock-job-ready-graduates-program",
       "pubDate": "Fri, 14 Nov 2025 14:00:50 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Bus chaperone kept working at school during months-long police investigation into alleged child sexual abuse",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/15/bus-chaperone-kept-working-at-school-during-months-long-police-investigation-into-alleged-child-sexual-abuse-ntwnfb",
-      "pubDate": "Fri, 14 Nov 2025 14:00:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "‘Red cup rebellion’: striking Starbucks baristas urge customers to stay away",
-      "link": "https://www.theguardian.com/business/2025/nov/14/starbucks-strike-red-cup-rebellion",
-      "pubDate": "Fri, 14 Nov 2025 14:00:46 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "National parks facing ‘nightmare’ under Trump, warns ex-director of service",
-      "link": "https://www.theguardian.com/us-news/2025/nov/14/national-park-service-trump-administration",
-      "pubDate": "Fri, 14 Nov 2025 14:00:42 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "South Carolina to carry out third firing-squad execution this year",
-      "link": "https://www.theguardian.com/us-news/2025/nov/14/south-carolina-firing-squad-execution",
-      "pubDate": "Fri, 14 Nov 2025 14:00:40 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rosyjska kompromitacja. Pokazali urządzenie, które nie działa",
-      "link": "https://antyweb.pl/rosyjska-kompromitacja-pokazali-urzadzenie-ktore-nie-dziala",
-      "pubDate": "Fri, 14 Nov 2025 14:00:28 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Prezydent chce zwołać Radę Gabinetową. Ustalenia Polsat News",
-      "link": "https://wydarzenia.interia.pl/kraj/news-prezydent-chce-zwolac-rade-gabinetowa-ustalenia-polsat-news,nId,22454223",
-      "pubDate": "Fri, 14 Nov 2025 14:00:23 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Znaleźliśmy Ziobrę w Budapeszcie. Zapytaliśmy go o azyl",
-      "link": "https://tvn24.pl/polska/znalezlismy-zbigniewa-ziobre-w-budapeszcie-zapytalismy-go-o-azyl-st8752560?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 14:00:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Sąd zarejestrował partię Wadima Tyszkiewicza. Czy ma szansę namieszać po liberalnej stronie?",
-      "link": "https://www.rp.pl/polityka/art43327241-sad-zarejestrowal-partie-wadima-tyszkiewicza-czy-ma-szanse-namieszac-po-liberalnej-stronie",
-      "pubDate": "Fri, 14 Nov 2025 15:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Krew na arenie. Zwierzęta krzywdzone w imię źle pojętej definicji sportu",
-      "link": "https://www.rp.pl/plus-minus/art43327911-krew-na-arenie-zwierzeta-krzywdzone-w-imie-zle-pojetej-definicji-sportu",
-      "pubDate": "Fri, 14 Nov 2025 15:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Geopolityka winduje ceny złota. Czy tak zostanie?:",
-      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43289741-geopolityka-winduje-ceny-zlota-czy-tak-zostanie",
-      "pubDate": "Fri, 14 Nov 2025 15:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
