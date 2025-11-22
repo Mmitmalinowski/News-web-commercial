@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T11:21:53.450Z",
+  "generatedAt": "2025-11-22T11:28:57.068Z",
   "items": [
+    {
+      "title": "Nieoficjalnie: europejscy liderzy mają spotkać się z Donaldem Trumpem. Padła wstępna data",
+      "link": "https://wiadomosci.onet.pl/swiat/europejscy-liderzy-maja-spotkac-sie-z-donaldem-trumpem-padla-wstepna-data/qvdtgq6",
+      "pubDate": "Sat, 22 Nov 2025 11:23:14 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Były prezydent zatrzymany. W tle próba zamachu stanu",
+      "link": "https://tvn24.pl/swiat/zatrzymano-bylego-prezydenta-brazylii-jaira-bolsonaro-st8765603?source=rss",
+      "pubDate": "Sat, 22 Nov 2025 11:22:40 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polski gigant w Chile. \"Są plany poszukiwania nowych złóż\"",
+      "link": "https://www.money.pl/gospodarka/polski-gigant-w-chile-sa-plany-poszukiwania-nowych-zloz-7224548630465024a.html",
+      "pubDate": "Sat, 22 Nov 2025 12:22:20 +0100",
+      "source": "Money.pl"
+    },
     {
       "title": "Totalizator Sportowy informuje o incydencie bezpieczeństwa. E-mail na prywatną skrzynkę, z załącznikiem zawierającym dane osobowe pracowników / współpracowników",
       "link": "https://sekurak.pl/totalizator-sportowy-informuje-o-incydencie-bezpieczenstwa-e-mail-na-prywatna-skrzynke-z-zalacznikiem-zawierajacym-dane-osobowe-pracownikow-wspolpracownikow/",
@@ -21,10 +39,22 @@
       "source": "Tech WP.pl"
     },
     {
+      "title": "Grypa to nie \"gorsze przeziębienie\". Idzie sezon, który zapamiętamy na długo",
+      "link": "https://geekweek.interia.pl/nauka/news-grypa-to-nie-gorsze-przeziebienie-idzie-sezon-ktory-zapamiet,nId,22456635",
+      "pubDate": "Sat, 22 Nov 2025 11:17:42 GMT",
+      "source": "GeekWeek"
+    },
+    {
       "title": "Nigeria: At least 315 taken in school abduction — report",
       "link": "https://www.dw.com/en/nigeria-at-least-315-taken-in-school-abduction-report/a-74847071?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 22 Nov 2025 11:17:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Gigantyczne kary dla firm, które złamią planowane przepisy",
+      "link": "https://tvn24.pl/biznes/tech/gawkowski-wysokie-kary-dla-firm-ktore-lamia-przepisy-i-stwarzaja-powazne-zagrozenie-st8765471?source=rss",
+      "pubDate": "Sat, 22 Nov 2025 11:15:55 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Dubai Air Show. Pokaz arabskiej siły, indyjska tragedia i rosyjska porażka",
@@ -701,6 +731,12 @@
     {
       "title": "Dwie ciężarówki i laweta zderzyły się na A2. Lądował śmigłowiec ratunkowy",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/baranow-dwie-ciezarowki-i-laweta-zderzyly-sie-na-a2-ladowal-lpr-st8765267?source=rss",
+      "pubDate": "Sat, 22 Nov 2025 08:20:58 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Na A2 kierowca lawety wbił się w stojącą ciężarówkę",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/baranow-dwie-ciezarowki-i-laweta-zderzyly-sie-na-a2-st8765267?source=rss",
       "pubDate": "Sat, 22 Nov 2025 08:20:58 GMT",
       "source": "TVN24"
     },
@@ -7339,6 +7375,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -19334,6 +19394,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -54285,6 +54369,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -76640,222 +76748,6 @@
           "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-14T12:32:08Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "1",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "1",
           "@_type": "application/atom+xml"
         }
       ],
