@@ -1,12 +1,18 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T05:50:37.974Z",
+  "generatedAt": "2025-11-22T06:00:04.235Z",
   "items": [
     {
       "title": "First year of Israel-Hezbollah ceasefire marred by violations",
       "link": "https://www.dw.com/en/first-year-of-israel-hezbollah-ceasefire-marred-by-violations/a-74839862?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 22 Nov 2025 05:49:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Vance nie zostawia złudzeń ws. Ukrainy. Pisze o „fantazjach”",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-vance-nie-zostawia-zludzen-ws-ukrainy-pisze-o-fantazjach,nId,8042961",
+      "pubDate": "Sat, 22 Nov 2025 06:48:59 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Krytyka planu Trumpa w USA. \"Podyktowany przez Putina\"",
@@ -5899,6 +5905,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -17390,6 +17420,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -51333,6 +51387,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -81639,6 +81717,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -81913,36 +82015,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Premier-o-nowym-szybie-KGHM-daje-nadzieje-na-bardzo-powazne-zyski-9039581.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 14 Nov 2025 12:55:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Nietrwała poprawa na rynku naczep",
-      "link": "https://logistyka.rp.pl/drogowy/art43335011-nietrwala-poprawa-na-rynku-naczep",
-      "pubDate": "Fri, 14 Nov 2025 12:54:38 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ogromna inwestycja KGHM. Tusk: Czekają nas bardzo poważne zyski",
-      "link": "https://biznes.interia.pl/gospodarka/news-tusk-o-wydobyciu-miedzi-jest-strategicznym-surowcem-dla-ener,nId,22454048",
-      "pubDate": "Fri, 14 Nov 2025 11:54:36 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Brazil: What COP30 means for the people of Belem",
-      "link": "https://www.dw.com/en/brazil-what-cop30-means-for-the-people-of-belem/a-74706250?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 14 Nov 2025 11:54:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Micheil Saakaszwili zaapelował do Wołodymyra Zełenskiego. Chce wpisania na listę jeńców",
-      "link": "https://tvn24.pl/swiat/micheil-saakaszwili-zaapelowal-do-wolodymyra-zelenskiego-chce-wpisania-na-liste-jencow-st8751743?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 11:53:08 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Uprzedzałem Zełenskiego\". Tusk o skandalu korupcyjnym w Ukrainie",
-      "link": "https://wydarzenia.interia.pl/kraj/news-uprzedzalem-zelenskiego-tusk-o-skandalu-korupcyjnym-w-ukrain,nId,22454132",
-      "pubDate": "Fri, 14 Nov 2025 11:52:19 GMT",
-      "source": "Interia"
     }
   ]
 }
