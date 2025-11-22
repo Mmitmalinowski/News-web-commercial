@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T22:41:09.107Z",
+  "generatedAt": "2025-11-22T22:50:45.637Z",
   "items": [
+    {
+      "title": "Four top Labour figures could beat Starmer in a leadership race, poll finds",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/22/four-top-labour-figures-could-beat-starmer-in-a-leadership-race-poll-finds",
+      "pubDate": "Sat, 22 Nov 2025 22:30:52 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Relief for rail passengers as fare freeze in England announced for 2026",
+      "link": "https://www.theguardian.com/money/2025/nov/22/rail-passengers-freeze-fares-england-2026-budget",
+      "pubDate": "Sat, 22 Nov 2025 22:30:51 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Nie żyje kierowca ciężarówki, policjant jest ranny. Dramatyczna akcja na S3",
       "link": "https://wiadomosci.onet.pl/lubuskie/nie-zyje-kierowca-ciezarowki-policjant-jest-ranny-dramatyczna-akcja-na-s3/sj39hrz",
@@ -9505,6 +9517,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -22580,6 +22616,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -59691,6 +59751,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -75325,36 +75409,6 @@
       "link": "https://spidersweb.pl/2025/11/czolgi-k2-w-komplecie.html",
       "pubDate": "Fri, 14 Nov 2025 15:42:27 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Złoto bije rekordy! Mennica Skarbowa rozszerza ofertę",
-      "link": "https://www.rmf24.pl/ekonomia/news-zloto-bije-rekordy-mennica-skarbowa-rozszerza-oferte,nId,8040669",
-      "pubDate": "Fri, 14 Nov 2025 15:42:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "W łódzkiej archidiecezji zbadają przypadki nadużyć seksualnych. Powołano komisję ",
-      "link": "https://tvn24.pl/lodz/lodz-zbadaja-przypadki-naduzyc-seksualnych-w-archidiecezji-powolano-komisje-st8752588?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 14:41:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "„Frankenstein”: Lęk przed potęgą nauki",
-      "link": "https://www.rp.pl/plus-minus/art43327951-frankenstein-lek-przed-potega-nauki",
-      "pubDate": "Fri, 14 Nov 2025 15:40:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Groźna sytuacja w autobusie. Pies zaatakował kobietę z dzieckiem",
-      "link": "https://wiadomosci.onet.pl/warszawa/grozna-sytuacja-w-autobusie-pies-zaatakowal-kobiete-z-dzieckiem/l23jlb2",
-      "pubDate": "Fri, 14 Nov 2025 14:37:03 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Man who grabbed Ariana Grande at Wicked sequel premiere charged",
-      "link": "https://www.theguardian.com/film/2025/nov/14/man-who-grabbed-ariana-grande-at-wicked-for-good-premiere-charged",
-      "pubDate": "Fri, 14 Nov 2025 14:36:58 GMT",
-      "source": "The Guardian"
     }
   ]
 }
