@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T17:39:45.010Z",
+  "generatedAt": "2025-11-22T17:49:27.161Z",
   "items": [
+    {
+      "title": "Nowa emerytura w Polsce od dwóch lat. Kto i jak oszczędza?",
+      "link": "https://www.money.pl/emerytury/oskar-sobolewski/nowa-emerytura-w-polsce-od-dwoch-lat-kto-i-jak-oszczedza-7224384657549824a.html",
+      "pubDate": "Sat, 22 Nov 2025 18:43:44 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Awantura o dywersję na torach. Sikorski atakuje Nawrockiego. Komuniści z PiS lepsi od Czarzastego",
+      "link": "https://wiadomosci.onet.pl/kraj/awantura-o-dywersje-na-torach-sikorski-atakuje-nawrockiego-komunisci-z-pis-lepsi-od/2tblw3t",
+      "pubDate": "Sat, 22 Nov 2025 17:40:41 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Wyjątkowa loteria. Do wygrania miejsce na cmentarzu",
       "link": "https://tvn24.pl/biznes/ze-swiata/francja-wyjatkowa-loteria-do-wygrania-miejsce-na-cmentarzu-pere-lachaise-w-paryzu-st8766056?source=rss",
@@ -8869,6 +8881,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -21440,6 +21476,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -57543,6 +57603,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -74191,36 +74275,6 @@
       "link": "https://businessinsider.com.pl/wiadomosci/szymon-holownia-walczy-o-stanowisko-w-onz-znalazl-sie-w-scislym-finale/y192y71",
       "pubDate": "Fri, 14 Nov 2025 12:44:55 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Mocarstwo ma nową broń. Pokazało ją podczas symulowanego ataku jądrowego",
-      "link": "https://tech.wp.pl/mocarstwo-ma-nowa-bron-pokazalo-ja-podczas-symulowanego-ataku-jadrowego,7221731933223872a",
-      "pubDate": "Fri, 14 Nov 2025 13:43:23 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "KNF ostrzega. Kolejny podmiot na \"czarnej\" liście",
-      "link": "https://www.money.pl/pieniadze/knf-ostrzega-kolejny-podmiot-na-czarnej-liscie-7221749138557888a.html",
-      "pubDate": "Fri, 14 Nov 2025 13:43:17 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Puchar sprzed 4,3 tys. lat. Pokryty jest zaskakującym obrazem",
-      "link": "https://tech.wp.pl/puchar-sprzed-4-3-tys-lat-pokryty-jest-zaskakujacym-obrazem,7221742511770496a",
-      "pubDate": "Fri, 14 Nov 2025 13:43:14 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Propaganda Kremla wspina się na wyżyny. Próbuje zatuszować katastrofę, która trawi Rosję. \"Samo się oczyści\"",
-      "link": "https://wiadomosci.onet.pl/swiat/ukrainskie-drony-ujawnily-problem-kremla-rosje-trawi-katastrofa/zedzjcr",
-      "pubDate": "Fri, 14 Nov 2025 12:42:40 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Pierwsza dama zapowiada nową inicjatywę. \"Zrobię to w najbliższych dniach\"",
-      "link": "https://wiadomosci.onet.pl/kraj/ruch-marty-nawrockiej-pierwsza-dama-zapowiada-nowa-inicjatywe/r80wjr1",
-      "pubDate": "Fri, 14 Nov 2025 12:41:45 GMT",
-      "source": "Onet"
     }
   ]
 }
