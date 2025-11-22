@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T17:49:27.161Z",
+  "generatedAt": "2025-11-22T17:58:40.593Z",
   "items": [
+    {
+      "title": "Pierwsza teleportacja kwantowa z kropek kwantowych. Historyczne osiągnięcie stworzy internet przyszłości",
+      "link": "https://www.chip.pl/2025/11/teleportacja-kwantowa-kropki-kwantowe-internet",
+      "pubDate": "Sat, 22 Nov 2025 17:56:33 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "COP30: New climate deal reached in Brazil, but still no fossil fuel roadmap",
+      "link": "http://www.euronews.com/green/2025/11/22/cop30-new-climate-deal-reached-in-brazil-but-still-no-fossil-fuel-roadmap",
+      "pubDate": "Sat, 22 Nov 2025 18:54:36 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Kupiłeś nowy telefon? Oto co musisz zrobić ze starym smartfonem, nim trafi do szuflady",
+      "link": "https://android.com.pl/tech/992223-co-zrobic-ze-starym-smartfonem-2/",
+      "pubDate": "Sat, 22 Nov 2025 17:51:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Drony nad holenderską bazą. Wojsko użyło broni",
+      "link": "https://wiadomosci.onet.pl/swiat/drony-nad-holenderska-baza-wojsko-uzylo-broni/w9j8sbc",
+      "pubDate": "Sat, 22 Nov 2025 17:48:50 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Dlaczego kubańskie cygara wciąż są symbolem luksusu? Świat dawno je dogonił",
+      "link": "https://businessinsider.com.pl/wideo/kubanskie-cygara-uwodza-prestizem-jak-odroznic-oryginal-od-podrobki/8tqsmwr",
+      "pubDate": "Sat, 22 Nov 2025 17:46:54 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Nowa emerytura w Polsce od dwóch lat. Kto i jak oszczędza?",
       "link": "https://www.money.pl/emerytury/oskar-sobolewski/nowa-emerytura-w-polsce-od-dwoch-lat-kto-i-jak-oszczedza-7224384657549824a.html",
@@ -29,6 +59,12 @@
     {
       "title": "Donald Trump łagodzi ton w sprawie planu pokojowego dla Ukrainy. \"Próbujemy to zakończyć\"",
       "link": "https://wiadomosci.onet.pl/kraj/donald-trump-lagodzi-ton-w-sprawie-planu-pokojowego-dla-ukrainy-probujemy-to/t0w1elk",
+      "pubDate": "Sat, 22 Nov 2025 17:28:13 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Donald Trump łagodzi ton w sprawie planu pokojowego dla Ukrainy. \"Próbujemy to zakończyć\"",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-trump-zostal-zapytany-o-plan-pokojowy-dla-ukrainy-kolejna-deklaracja/t0w1elk",
       "pubDate": "Sat, 22 Nov 2025 17:28:13 GMT",
       "source": "Onet"
     },
@@ -359,6 +395,12 @@
     {
       "title": "Ewakuacja kamienicy i pensjonatu. Dwa groźne pożary w powiecie jeleniogórskim",
       "link": "https://www.rmf24.pl/regiony/wroclaw/news-ewakuacja-kamienicy-i-pensjonatu-dwa-grozne-pozary-w-powieci,nId,8043015",
+      "pubDate": "Sat, 22 Nov 2025 16:33:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ewakuacja kamienicy i pensjonatu. Dwa groźne pożary",
+      "link": "https://www.rmf24.pl/regiony/wroclaw/news-ewakuacja-kamienicy-i-pensjonatu-dwa-grozne-pozary,nId,8043015",
       "pubDate": "Sat, 22 Nov 2025 16:33:00 +0100",
       "source": "RMF24"
     },
@@ -8881,6 +8923,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -21476,6 +21542,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -57627,6 +57717,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -74215,66 +74329,6 @@
       "link": "https://www.rmf24.pl/ciekawostki/news-oto-najlepsza-stacja-narciarska-na-swiecie-triumfuje-w-prest,nId,8040492",
       "pubDate": "Fri, 14 Nov 2025 13:49:39 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "PKP Intercity ma problem z butelkami. System kaucyjny daje się we znaki",
-      "link": "https://spidersweb.pl/2025/11/system-kaucyjny-pociagi-pkp-intercity.html",
-      "pubDate": "Fri, 14 Nov 2025 13:48:14 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Rubber tappers march in Belem to call for an end to deforestation at COP30",
-      "link": "http://www.euronews.com/video/2025/11/14/rubber-tappers-march-in-belem-to-call-for-an-end-to-deforestation-at-cop30",
-      "pubDate": "Fri, 14 Nov 2025 13:48:11 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Wrócili na Ziemię po starciu z kosmicznym śmieciem",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/awaria-shenzhou-20-wrocili-na-ziemie-po-starciu-z-kosmicznym-smieciem-st8751942?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 12:48:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Startuje Innovate Poland. W „Planie Domańskiego” do firm trafią miliardy złotych",
-      "link": "https://www.bankier.pl/wiadomosc/Startuje-program-Innovate-Poland-W-Planie-Domanskiego-do-firm-trafia-miliardy-zlotych-9039655.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 13:47:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Second brother of French anti-drugs campaigner shot dead in Marseille",
-      "link": "https://www.bbc.com/news/articles/c7v846p9nd1o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 14 Nov 2025 12:45:52 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Rząd zrobi dobrze kierowcom. Tak łatwo jeszcze nie było",
-      "link": "https://antyweb.pl/rzad-zrobi-dobrze-kierowcom-tak-latwo-jeszcze-nie-bylo",
-      "pubDate": "Fri, 14 Nov 2025 12:45:32 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Duży problem w Niemczech, miasta popadają w ruinę. \"Granica wytrzymałości\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-wielki-problem-za-polska-granica-granica-wytrzymalosci-zosta,nId,22454143",
-      "pubDate": "Fri, 14 Nov 2025 12:45:07 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Michał Tabisz: Dlaczego organizujemy Podkarpacki Festiwal Nauki i Innowacji | PFNI 2025",
-      "link": "https://www.rp.pl/pfni-2025/art43335221-michal-tabisz-dlaczego-organizujemy-podkarpacki-festiwal-nauki-i-innowacji-pfni-2025",
-      "pubDate": "Fri, 14 Nov 2025 13:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Darmowe mieszkania dla ministrów? \"Obecnie stawki są dość poważnym obciążeniem\"",
-      "link": "https://www.bankier.pl/wiadomosc/Darmowe-mieszkania-dla-ministrow-Obecnie-stawki-sa-dosc-powaznym-obciazeniem-9039652.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 13:45:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "MSZ finansuje podróże Szymona Hołowni. Rząd nie przewiduje planu B",
-      "link": "https://businessinsider.com.pl/wiadomosci/szymon-holownia-walczy-o-stanowisko-w-onz-znalazl-sie-w-scislym-finale/y192y71",
-      "pubDate": "Fri, 14 Nov 2025 12:44:55 GMT",
-      "source": "Business Insider"
     }
   ]
 }
