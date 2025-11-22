@@ -1,7 +1,43 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T06:37:06.235Z",
+  "generatedAt": "2025-11-22T06:51:52.636Z",
   "items": [
+    {
+      "title": "3 podmioty chcą kupić Warner Bros. Discovery. Jedna oferta dotyczy m.in. TVN",
+      "link": "https://www.wirtualnemedia.pl/tvn-warner-bros-discovery-sprzedaz-paramount-skydance-donald-trump-oferty-kwota,7224384185948704a",
+      "pubDate": "Sat, 22 Nov 2025 07:45:17 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Microsoft mówi, że ma sposób na nudną pracę. Oby ci jej nie zabrał",
+      "link": "https://spidersweb.pl/2025/11/project-opal-microsoft.html",
+      "pubDate": "Sat, 22 Nov 2025 07:44:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Europa szuka pomysłu na pokój w Ukrainie. Są pierwsze doniesienia mediów",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-europa-szuka-pomyslu-na-pokoj-w-ukrainie-sa-pierwsze-doniesi,nId,8042963",
+      "pubDate": "Sat, 22 Nov 2025 07:40:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Amerykański dziennikarz oglądał w Polsce nowego \"pogromcę dronów\" dla NATO. Oto co ten sprzęt potrafi, a czego nie",
+      "link": "https://businessinsider.com.pl/wiadomosci/pogromca-dronow-odpowiedzia-na-rosyjskie-prowokacje-amerykanie-przylecieli-na-polski/es6xcbq",
+      "pubDate": "Sat, 22 Nov 2025 06:38:48 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ważne słowa ambasadora USA. \"Polska zbyt długo obciążana za zbrodnie innych\"",
+      "link": "https://wiadomosci.onet.pl/kraj/ambasador-usa-stanal-w-obronie-polski-groteskowe-falszowanie-historii/9kst9ve",
+      "pubDate": "Sat, 22 Nov 2025 06:38:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Plan pokojowy dla Ukrainy. Europa opracowuje własną propozycję",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-plan-pokojowy-dla-ukrainy-europa-opracowuje-wlasna-propozycj,nId,22457037",
+      "pubDate": "Sat, 22 Nov 2025 06:34:55 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Algorytmy szukają życia w skałach. Doskonale im to wychodzi",
       "link": "https://spidersweb.pl/2025/11/algorytmy-szukaja-zycia-w-skalach.html",
@@ -6079,6 +6115,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -17618,6 +17678,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -51657,6 +51741,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -82011,6 +82119,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Krytyczna luka w Fortinet FortiWeb używana do ataków. Paczujcie się",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/krytyczna-luka-w-fortinet-fortiweb-uzywana-do-atakow-paczujcie-sie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-14T12:32:08Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Telewizja Republika uruchomi „własne Allegro”",
       "link": "https://www.tabletowo.pl/telewizja-republika-uruchomi-wlasne-allegro/",
       "pubDate": "Fri, 14 Nov 2025 12:31:23 +0000",
@@ -82027,66 +82159,6 @@
       "link": "https://www.chip.pl/2025/11/hama-ewm-500-l-pionowa-myszka-dla-leworecznych",
       "pubDate": "Fri, 14 Nov 2025 12:30:00 +0000",
       "source": "Chip.pl"
-    },
-    {
-      "title": "Rewolucja w rejestracji pojazdów. Apel do prezydenta",
-      "link": "https://www.rmf24.pl/fakty/polska/news-rewolucja-w-rejestracji-pojazdow-apel-do-prezydenta,nId,8040473",
-      "pubDate": "Fri, 14 Nov 2025 13:29:31 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Czy zima zaskoczy nas już w listopadzie? Niemcy już wiedzą, 100-letni kalendarz wskazuje konkretną datę śniegu!",
-      "link": "https://www.rmf24.pl/pogoda/news-czy-zima-zaskoczy-nas-juz-w-listopadzie-niemcy-juz-wiedza-10,nId,8040480",
-      "pubDate": "Fri, 14 Nov 2025 13:27:43 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rolnicy na ulicach. Ogólnopolski protest przeciwko umowie Mercosur i importowi z Ukrainy",
-      "link": "https://businessinsider.com.pl/wiadomosci/rolnicy-domagaja-sie-ochrony-rynku-demonstracje-w-50-miejscach-w-kraju/13sxj71",
-      "pubDate": "Fri, 14 Nov 2025 12:25:40 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Źródła dyplomatyczne: Szymon Hołownia na krótkiej liście kandydatów na komisarza ONZ",
-      "link": "https://www.bankier.pl/wiadomosc/Zrodla-dyplomatyczne-Szymon-Holownia-na-krotkiej-liscie-kandydatow-na-komisarza-ONZ-9039588.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 13:25:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "163 osoby ewakuowane ze szkoły. Uczeń rozpylił gaz",
-      "link": "https://tvn24.pl/opole/boguszyce-163-osoby-ewakuowane-ze-szkoly-uczen-rozpylil-gaz-st8751855?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 12:24:40 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Roman Giertych uderza w Karola Nawrockiego. \"Dobrze zrobiłem\"",
-      "link": "https://wiadomosci.onet.pl/kraj/roman-giertych-uderza-w-karola-nawrockiego-dobrze-zrobilem/l7ymnfg",
-      "pubDate": "Fri, 14 Nov 2025 12:24:25 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Korupcja na Ukrainie. Tusk: Przegracie wojnę, jeśli będziecie ją tolerowali",
-      "link": "https://www.bankier.pl/wiadomosc/Korupcja-na-Ukrainie-Tusk-Przegracie-wojne-jesli-bedziecie-ja-tolerowali-9039630.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 13:24:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Idzie zmiana pogody. Burze śnieżne uderzą w Polskę",
-      "link": "https://www.rmf24.pl/pogoda/news-idzie-zmiana-pogody-burze-sniezne-uderza-w-polske,nId,8040452",
-      "pubDate": "Fri, 14 Nov 2025 13:23:02 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Luksusowe auto stoczyło się ze skarpy do jeziora",
-      "link": "https://tvn24.pl/olsztyn/winiec-luksusowe-auto-wpadlo-do-jeziora-st8751969?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 12:21:15 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Oto kto najczęściej lata z premierem. Dane o lotach Donalda Tuska ujawnione",
-      "link": "https://wiadomosci.onet.pl/kraj/loty-head-premiera-tuska-ujawniono-kogo-najczesciej-zabiera-na-poklad/33974gf",
-      "pubDate": "Fri, 14 Nov 2025 12:20:25 GMT",
-      "source": "Onet"
     }
   ]
 }
