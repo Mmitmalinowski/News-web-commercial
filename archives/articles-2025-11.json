@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T23:00:51.078Z",
+  "generatedAt": "2025-11-22T23:28:13.959Z",
   "items": [
+    {
+      "title": "Pilne spotkanie. Europa żąda zmian w planie pokojowym Donalda Trumpa",
+      "link": "https://wiadomosci.onet.pl/swiat/pilne-spotkanie-europa-zada-zmian-w-planie-pokojowym-donalda-trumpa/22m6cd3",
+      "pubDate": "Sat, 22 Nov 2025 23:21:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Czworo dzieci spłonęło żywcem w Ukrainie. Najmłodsze miało kilka miesięcy",
+      "link": "https://wiadomosci.onet.pl/swiat/czworo-dzieci-splonelo-zywcem-w-ukrainie-najmlodsze-mialo-kilka-miesiecy/5ff2tm1",
+      "pubDate": "Sat, 22 Nov 2025 23:08:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "First rebuilt home in wake of LA fires celebrated in Pacific Palisades",
+      "link": "https://www.theguardian.com/us-news/2025/nov/22/first-rebuilt-home-los-angeles-fires",
+      "pubDate": "Sat, 22 Nov 2025 22:57:54 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Four top Labour figures could beat Starmer in a leadership race, poll finds",
       "link": "https://www.theguardian.com/uk-news/2025/nov/22/four-top-labour-figures-could-beat-starmer-in-a-leadership-race-poll-finds",
@@ -301,6 +319,12 @@
       "link": "https://www.theguardian.com/science/2025/nov/22/human-rights-fears-over-australias-role-in-f-35-parts-after-trumps-decision-to-sell-fighter-jets-to-saudi-arabia",
       "pubDate": "Sat, 22 Nov 2025 19:00:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "System kaucyjny a syropy do saturatorów. Wyjaśniamy",
+      "link": "https://antyweb.pl/czy-na-syropy-do-saturatorow-jest-kaucja",
+      "pubDate": "Sat, 22 Nov 2025 19:00:15 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Podcast „Rzecz o geopolityce”: Chińska inwigilacja rośnie. Geopolityka technologii i Arktyka",
@@ -9517,6 +9541,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -22640,6 +22688,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -59847,6 +59919,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -75421,48 +75517,6 @@
       "link": "https://geekweek.interia.pl/historia/news-po-3000-lat-z-koryta-rzeki-wynurzyly-sie-lodzie-odkrywaja-se,nId,22454165",
       "pubDate": "Fri, 14 Nov 2025 14:47:28 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Po brutalnym pobiciu 15-latek przebywa w hospicjum. Jest wyrok dla oprawcy",
-      "link": "https://tvn24.pl/szczecin/koszalin-zwabil-15-latka-w-ustronne-miejsce-i-dotkliwie-go-pobil-jest-prawomocny-wyrok-sadu-st8752631?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 14:47:11 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ostatnie dni na środki dla rodziców. ZUS przypomina o ważnym terminie",
-      "link": "https://tvn24.pl/biznes/pieniadze/dobry-start-ostatnie-dni-na-srodki-dla-rodzicow-zus-przypomina-o-waznym-terminie-st8752624?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 14:47:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "UniCredit wraca do Polski i chce rzucić wyzwanie lokalnym bankom",
-      "link": "https://www.rp.pl/banki/art43335751-unicredit-wraca-do-polski-i-chce-rzucic-wyzwanie-lokalnym-bankom",
-      "pubDate": "Fri, 14 Nov 2025 15:45:53 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ambasadorski pat. Prezydent wciąż bez porozumienia z MSZ",
-      "link": "https://www.bankier.pl/wiadomosc/Ambasadorski-pat-Prezydent-wciaz-bez-porozumienia-z-MSZ-ws-ambasadorow-9039793.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 15:45:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Portugal remains on alert as Storm Claudia moves towards UK",
-      "link": "http://www.euronews.com/2025/11/14/portugal-remains-on-alert-as-storm-claudia-moves-towards-uk",
-      "pubDate": "Fri, 14 Nov 2025 15:44:59 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "To on będzie nowym marszałkiem Sejmu. Donald Tusk długo nie chciał z nim rozmawiać [FRAGMENT KSIĄŻKI]",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/to-on-bedzie-nowym-marszalkiem-sejmu-tusk-przez-rok-nie-chcial-z-nim-rozmawiac/6m3lzp1",
-      "pubDate": "Fri, 14 Nov 2025 14:43:25 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Prawdziwa historia buntu na radzieckim okręcie, która posłużyła do napisania \"Polowania na Czerwony Październik\"",
-      "link": "https://wiadomosci.onet.pl/swiat/walerij-sablin-i-bunt-na-radzieckim-okrecie-historia-ukrywana-przed-swiatem/eyemeff",
-      "pubDate": "Fri, 14 Nov 2025 14:43:00 GMT",
-      "source": "Onet"
     }
   ]
 }
