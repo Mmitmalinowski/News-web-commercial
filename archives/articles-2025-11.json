@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-22T21:19:41.593Z",
+  "generatedAt": "2025-11-22T21:31:28.523Z",
   "items": [
+    {
+      "title": "UN climate talks fail to secure new fossil fuel promises",
+      "link": "https://www.bbc.com/news/articles/c75vn7yel73o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 22 Nov 2025 21:30:46 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Historyk: Klęska Ukrainy może uruchomić wyścig nuklearny w Europie",
+      "link": "https://businessinsider.com.pl/wiadomosci/historyk-z-harvardu-porazka-ukrainy-zachwieje-zaufaniem-do-bezpieczenstwa-europy/vmb2krk",
+      "pubDate": "Sat, 22 Nov 2025 21:26:27 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Szef MON zainaugurował pilotaż programu „wGotowości”. Tysiące chętnych",
       "link": "https://www.rmf24.pl/polityka/news-szef-mon-zainaugurowal-pilotaz-programu-wgotowosci-tysiace-c,nId,8043031",
@@ -25,6 +37,12 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-kolejna-fala-opadow-sniegu-sypia-sie-alerty-zachowaj-ostrozn,nId,22457180",
       "pubDate": "Sat, 22 Nov 2025 20:55:20 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Israeli strikes across Gaza kill 22 Palestinians, medical and civil defence officials say",
+      "link": "https://www.bbc.com/news/articles/c20879zzqn8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 22 Nov 2025 20:43:36 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Uszkodzona elektrownia, budynki do rozbiórki. Dziesięć osób nie żyje",
@@ -9433,6 +9451,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -22364,6 +22406,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -59187,6 +59253,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -74995,42 +75085,6 @@
       "link": "https://www.dw.com/en/why-is-india-upping-forces-at-chokepoint-with-bangladesh/a-74745741?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 14 Nov 2025 14:17:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Umowa Mercosur może być niezgodna z traktatami? Sprawdzi to TSUE",
-      "link": "https://www.bankier.pl/wiadomosc/Umowa-Mercosur-moze-byc-niezgodna-z-traktatami-Sprawdzi-to-TSUE-9039758.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 15:17:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Piotr Zgorzelski walczy o nową funkcję. Dotarliśmy do wewnętrznego listu",
-      "link": "https://wydarzenia.interia.pl/kraj/news-piotr-zgorzelski-walczy-o-nowa-funkcje-dotarlismy-do-wewnetr,nId,22454189",
-      "pubDate": "Fri, 14 Nov 2025 14:16:53 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Karolowi Nawrockiemu ufa coraz więcej Polaków. Tak wypada na tle byłych prezydentów [SONDAŻ]",
-      "link": "https://wiadomosci.onet.pl/swiat/karolowi-nawrockiemu-ufa-coraz-wiecej-polakow-tak-wypada-na-tle-bylych-prezydentow/5074vl4",
-      "pubDate": "Fri, 14 Nov 2025 14:15:34 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Black Weeks zaliczone. Jak połączyć nowy telewizor z telefonem?",
-      "link": "https://geekweek.interia.pl/technologia/news-kupilem-nowy-telewizor-jak-polaczyc-go-z-telefonem,nId,22454061",
-      "pubDate": "Fri, 14 Nov 2025 14:15:05 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Brytyjskie loty krajowe na równi pochyłej. Liczba połączeń spadła o połowę w ciągu dwóch dekad",
-      "link": "https://businessinsider.com.pl/gospodarka/wielka-brytania-ogranicza-loty-krajowe-kolej-i-ekologia-zmieniaja-rynek/6jr82vp",
-      "pubDate": "Fri, 14 Nov 2025 14:12:15 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Nowe szczegóły ws. programu Domańskiego. Na stole miliardy. \"Efekt dźwigni\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-nowe-szczegoly-ws-programu-domanskiego-na-stole-nawet-10-mld,nId,22454220",
-      "pubDate": "Fri, 14 Nov 2025 14:11:35 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
