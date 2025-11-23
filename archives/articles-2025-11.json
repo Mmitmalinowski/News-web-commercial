@@ -1,7 +1,49 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-23T09:18:58.101Z",
+  "generatedAt": "2025-11-23T09:33:28.322Z",
   "items": [
+    {
+      "title": "Squid Game nie powiedziało jeszcze ostatniego słowa. Nowy serial zapowiada się znakomicie",
+      "link": "https://antyweb.pl/squid-game-nie-powiedzialo-jeszcze-ostatniego-slowa-nowy-serial-zapowiada-sie-znakomicie",
+      "pubDate": "Sun, 23 Nov 2025 09:30:32 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "W którym kierunku Leon XIV poprowadzi Kościół? \"Jeszcze nas zaskoczy\"",
+      "link": "https://wiadomosci.onet.pl/swiat/w-ktorym-kierunku-leon-xiv-poprowadzi-kosciol-jeszcze-nas-zaskoczy/b9p0jqc",
+      "pubDate": "Sun, 23 Nov 2025 09:28:52 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Barcelona fans return to Camp Nou after two years as stadium reopens",
+      "link": "http://www.euronews.com/video/2025/11/23/barcelona-fans-return-to-camp-nou-after-two-years-as-stadium-reopens",
+      "pubDate": "Sun, 23 Nov 2025 10:26:30 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Roboty AI nie są jeszcze gotowe. Czy grożą nam poważne zagrożenia?",
+      "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-czy-roboty-z-ai-sa-gotowe-na-kontakt-z-ludzmi-eksperci-alarm,nId,22453265",
+      "pubDate": "Sun, 23 Nov 2025 09:25:05 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Ucieczka zakończona na ogrodzeniu. Dwaj mężczyźni zatrzymani, jeden był nietrzeźwy",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sochaczew-ucieczka-zakonczona-na-ogrodzeniu-dwaj-mezczyzni-zatrzymani-jeden-byl-nietrzezwy-st8766717?source=rss",
+      "pubDate": "Sun, 23 Nov 2025 09:20:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "USA szykują się do wojny z Wenezuelą? Rośnie niepokój europejskich mocarstw",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-usa-szykuja-sie-do-wojny-z-wenezuela-rosnie-niepokoj-europej,nId,22457213",
+      "pubDate": "Sun, 23 Nov 2025 09:20:11 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Kolejna fala śnieżyc i -15 st. C. W nowym tygodniu zima przypuści mocny atak",
+      "link": "https://wiadomosci.onet.pl/pogoda/zimowa-pogoda-dopiero-sie-rozkreca-szykuja-sie-kolejne-sniezyce-i-tegi-mroz/er5ssxg",
+      "pubDate": "Sun, 23 Nov 2025 09:16:41 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Polska na celowniku hakerów z Korei Północnej, MON \"dysponuje wiedzą\". Czym jest tajemnicza grupa Lazarus?",
       "link": "https://businessinsider.com.pl/wiadomosci/polska-na-celowniku-hakerow-z-korei-polnocnej-mon-dysponuje-wiedza-czym-jest/hjx12np",
@@ -25,6 +67,12 @@
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-premier-przedstawi-polska-wizje-pokoju-w-ukrainie-sa-szczego,nId,8043266",
       "pubDate": "Sun, 23 Nov 2025 10:04:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "System kaucyjny 2025: Czy Dafi PushAir to sposób na butelki PET?",
+      "link": "https://antyweb.pl/dafi-pushair-co-oferuja-polskie-saturatory",
+      "pubDate": "Sun, 23 Nov 2025 09:00:51 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Czy gaśnica w samochodzie jest obowiązkowa? Przepisy są jednoznaczne",
@@ -14559,6 +14607,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -24440,6 +24512,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -62799,6 +62895,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -76693,72 +76813,6 @@
       "link": "https://android.com.pl/tech/991582-google-kopiuje-apple-wymiana-gestem/",
       "pubDate": "Fri, 14 Nov 2025 18:38:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Czekał na przejeździe, nagle ruszył i uderzył w pociąg",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/komorow-zderzenie-pociagu-wkd-z-samochodem-st8752922?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 18:37:35 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Marsz Niepodległości nazwany marszem nazistów. Norweska telewizja przeprasza",
-      "link": "https://www.bankier.pl/wiadomosc/Marsz-Niepodleglosci-nazwany-marszem-nazistow-Norweska-telewizja-przeprasza-9040052.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 19:37:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Polski raper poszukiwany czerwoną notą Interpolu. Zdążył udzielić wywiadu",
-      "link": "https://wiadomosci.onet.pl/kraj/raper-jongmen-poszukiwany-przez-interpol-wystawili-za-nim-czerwona-note/msb93v1",
-      "pubDate": "Fri, 14 Nov 2025 18:34:24 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Man, 64, arrested after reports of ‘impostor’ dressed as rear admiral at Remembrance event in Wales",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/14/man-64-arrested-after-reports-of-dressing-as-rear-admiral-at-remembrance-event-in-wales",
-      "pubDate": "Fri, 14 Nov 2025 18:34:17 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "US military planning for divided Gaza with ‘green zone’ secured by international and Israeli troops",
-      "link": "https://www.theguardian.com/world/2025/nov/14/us-military-plan-divided-gaza-green-zone",
-      "pubDate": "Fri, 14 Nov 2025 18:31:07 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Deweloperzy ratują miasta. A ja pytam: po co nam politycy?",
-      "link": "https://spidersweb.pl/2025/11/deweloperzy-ratuja-miasta-a-ja-pytam-po-co-nam-politycy.html",
-      "pubDate": "Fri, 14 Nov 2025 19:30:45 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "100 dni Nawrockiego. Prezydent: Każdy dzień był zobowiązaniem",
-      "link": "https://www.bankier.pl/wiadomosc/100-dni-Nawrockiego-Prezydent-Kazdy-dzien-byl-zobowiazaniem-9039991.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 14 Nov 2025 19:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Ukraina uderza w ważny port w Rosji",
-      "link": "https://tvn24.pl/swiat/ukraina-uderza-w-wazny-port-w-rosji-st8752923?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 18:29:20 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ukraina uderzyła Neptunami. Celem ważny port w Rosji",
-      "link": "https://tvn24.pl/swiat/ukraina-uderzyla-neptunami-celem-wazny-port-w-rosji-st8752923?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 18:29:20 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nowa afera w Ukrainie. Lider partii przyłapany z gotówką w ręku",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-nowa-afera-w-ukrainie-lider-partii-przylapany-z-gotowka-w-re,nId,22454293",
-      "pubDate": "Fri, 14 Nov 2025 18:28:22 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Man who stole Banksy print to pay off drug debt given 13-month sentence",
-      "link": "https://www.theguardian.com/artanddesign/2025/nov/14/man-who-stole-banksy-print-to-pay-off-drug-debt-given-sentence",
-      "pubDate": "Fri, 14 Nov 2025 18:27:39 GMT",
-      "source": "The Guardian"
     }
   ]
 }
