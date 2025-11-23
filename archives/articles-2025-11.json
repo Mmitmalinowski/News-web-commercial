@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-23T04:06:18.212Z",
+  "generatedAt": "2025-11-23T04:43:27.631Z",
   "items": [
+    {
+      "title": "Rozmowy o pokoju, szczyt bez Trumpa, drony nad lotniskiem",
+      "link": "https://tvn24.pl/swiat/piec-rzeczy-ktore-warto-wiedziec-w-niedziele-23-listopada-najwazniejsze-informacje-st8766525?source=rss",
+      "pubDate": "Sun, 23 Nov 2025 04:21:02 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Nadchodzi apogeum zimowej pogody. W nocy do śniegu dołączy tęgi mróz",
       "link": "https://wiadomosci.onet.pl/pogoda/dzis-zimowa-pogoda-osiagnie-apogeum-nowa-porcja-sniegu-i-tegi-mroz/y64p57k",
@@ -9763,6 +9769,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -23054,6 +23084,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -60597,6 +60651,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -75817,30 +75895,6 @@
       "link": "https://businessinsider.com.pl/prawo/tsue-moze-ocenic-porozumienie-ue-z-mercosurem-hetman-ujawnia-kulisy/1rtxbf9",
       "pubDate": "Fri, 14 Nov 2025 15:25:15 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Najaktywniejszy wulkan w tej części świata. Odliczają czas do wybuchu",
-      "link": "https://geekweek.interia.pl/nauka/news-najaktywniejszy-wulkan-w-tej-czesci-swiata-naukowcy-prowadza,nId,22454004",
-      "pubDate": "Fri, 14 Nov 2025 15:23:35 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Atakują, gdy odporność zawodzi. Mikrobiolog apeluje o czujność",
-      "link": "https://tvn24.pl/zdrowie/grzybice-atakuja-gdy-odpornosc-zawodzi-mikrobiolog-apeluje-o-czujnosc-st8752637?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 15:23:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "First Thing: Jeffrey Epstein advised Steve Bannon during 2018 pro-Trump media campaign",
-      "link": "https://www.theguardian.com/us-news/2025/nov/14/first-thing-epstein-steve-bannon-trump-media-campaign",
-      "pubDate": "Fri, 14 Nov 2025 15:21:24 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Portugal warns Ryanair cannot refuse passengers with paper boarding passes",
-      "link": "http://www.euronews.com/travel/2025/11/14/portugal-warns-ryanair-cannot-refuse-passengers-with-paper-boarding-passes",
-      "pubDate": "Fri, 14 Nov 2025 16:20:55 +0100",
-      "source": "Euronews"
     }
   ]
 }
