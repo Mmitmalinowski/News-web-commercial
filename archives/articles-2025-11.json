@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-23T05:38:54.562Z",
+  "generatedAt": "2025-11-23T05:48:28.872Z",
   "items": [
+    {
+      "title": "Takie emerytury mają Czesi. Polacy będą zaskoczeni",
+      "link": "https://biznes.interia.pl/emerytury/news-takie-emerytury-maja-czesi-polacy-beda-mocno-zdziwieni,nId,22455383",
+      "pubDate": "Sun, 23 Nov 2025 05:40:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Trump zwiększa presję. Waszyngton szykuje \"nową fazę operacji\"",
       "link": "https://tvn24.pl/swiat/napiecie-na-linii-usa-wenezuela-reuters-trump-szykuje-nowa-faze-operacji-st8766523?source=rss",
@@ -25,6 +31,12 @@
       "link": "https://tvn24.pl/swiat/kto-opracowal-plan-amerykanski-senator-o-rosyjskiej-liscie-zyczen-st8766524?source=rss",
       "pubDate": "Sun, 23 Nov 2025 05:28:40 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Kto jest autorem planu pokojowego dla Ukrainy? Sprzeczne sygnały",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kto-jest-autorem-planu-pokojowego-dla-ukrainy-sprzeczne-sygn,nId,8043250",
+      "pubDate": "Sun, 23 Nov 2025 06:28:24 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Mikole, zbiorkom i kolejowy boom. Czy nad Wisłę wkracza moda na pociągi?",
@@ -9877,6 +9889,30 @@
       "link": "https://www.chip.pl/2025/11/quick-share-airdrop-pixel-iphone-apple-google",
       "pubDate": "Fri, 21 Nov 2025 09:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
@@ -23264,6 +23300,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -60999,6 +61059,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -76027,36 +76111,6 @@
       "link": "http://www.press.pl/tresc/90284,serwisy-internetowe-kanalow-informacyjnych-ze-spadkami-liczby-uzytkownikow_-liderem-tvn24_pl?rss=1",
       "pubDate": "Fri, 14 Nov 2025 16:49:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "How can Tanzania heal after deadly election protests?",
-      "link": "https://www.dw.com/en/how-can-tanzania-heal-after-deadly-election-protests/a-74746398?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 14 Nov 2025 15:48:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Frank szwajcarski w tak dobrej formie nie był od dekady. Euro zdeklasowane ",
-      "link": "https://biznes.interia.pl/waluty/aktualnosci/news-frank-w-swietnej-formie-euro-zdeklasowane-przez-szwajcarska,nId,22454260",
-      "pubDate": "Fri, 14 Nov 2025 15:47:52 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Call of Duty is back, and it's got a battle on its hands",
-      "link": "https://www.bbc.com/news/articles/cy9pwgqvr7go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 14 Nov 2025 15:47:29 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Atak na Polkę w Niemczech. Śledczy badają powiązania z wcześniejszą sprawą",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-atak-na-polke-w-niemczech-sledczy-badaja-powiazania-z-wczesn,nId,22454251",
-      "pubDate": "Fri, 14 Nov 2025 15:47:15 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Atak na Polkę w Niemczech. Policja poszukuje sprawcy i świadków",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-atak-na-polke-w-niemczech-policja-poszukuje-sprawcy-i-swiadk,nId,22454251",
-      "pubDate": "Fri, 14 Nov 2025 15:47:15 GMT",
-      "source": "Interia"
     }
   ]
 }
