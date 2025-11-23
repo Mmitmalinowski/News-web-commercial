@@ -1,7 +1,13 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-23T05:48:28.872Z",
+  "generatedAt": "2025-11-23T05:58:02.425Z",
   "items": [
+    {
+      "title": "Strzelanina po zapaleniu miejskiej choinki w Chicago. Nie żyje nastolatek, ośmioro jest rannych",
+      "link": "https://wiadomosci.onet.pl/swiat/tragiczny-final-swiatecznych-uroczystosci-w-chicago-jest-wielu-rannych/sc09gmz",
+      "pubDate": "Sun, 23 Nov 2025 05:45:01 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Takie emerytury mają Czesi. Polacy będą zaskoczeni",
       "link": "https://biznes.interia.pl/emerytury/news-takie-emerytury-maja-czesi-polacy-beda-mocno-zdziwieni,nId,22455383",
@@ -13419,6 +13425,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -23300,6 +23330,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -61083,6 +61137,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -76087,30 +76165,6 @@
       "link": "https://www.dw.com/en/sweden-several-killed-injured-as-bus-crashes-into-bus-stop/a-74753082?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 14 Nov 2025 15:51:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "‘Prolific’ sex offender Chao Xu jailed for life",
-      "link": "https://www.theguardian.com/uk-news/2025/nov/14/sex-offender-chao-xu-jailed-for-life",
-      "pubDate": "Fri, 14 Nov 2025 15:50:22 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Zadłużenie seniorów wzrosło. Rekordzista ma ponad 96 mln zł do oddania",
-      "link": "https://www.rmf24.pl/ekonomia/news-zadluzenie-seniorow-wzroslo-rekordzista-ma-ponad-96-mln-zl-d,nId,8040712",
-      "pubDate": "Fri, 14 Nov 2025 16:50:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ambasada Azerbejdżanu ucierpiała w rosyjskim ataku. Jest reakcja",
-      "link": "https://tvn24.pl/swiat/ambasada-azerbejdzanu-ucierpiala-w-rosyjskim-ataku-jest-reakcja-st8752546?source=rss",
-      "pubDate": "Fri, 14 Nov 2025 15:49:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Serwisy internetowe kanałów informacyjnych ze spadkami liczby użytkowników",
-      "link": "http://www.press.pl/tresc/90284,serwisy-internetowe-kanalow-informacyjnych-ze-spadkami-liczby-uzytkownikow_-liderem-tvn24_pl?rss=1",
-      "pubDate": "Fri, 14 Nov 2025 16:49:00 +0100",
-      "source": "Press.pl"
     }
   ]
 }
