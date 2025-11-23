@@ -1,7 +1,61 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-23T08:30:48.010Z",
+  "generatedAt": "2025-11-23T08:47:28.746Z",
   "items": [
+    {
+      "title": "Bez niej Ziemia byłaby inna. Skąd się wzięła Theia?",
+      "link": "https://tech.wp.pl/bez-niej-ziemia-bylaby-inna-skad-sie-wziela-theia,7224879049693696a",
+      "pubDate": "Sun, 23 Nov 2025 09:42:09 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "US senators claim Rubio told them Trump’s Ukraine peace plan is Russia’s ‘wish list’",
+      "link": "http://www.euronews.com/2025/11/23/us-senators-claim-rubio-told-them-trumps-ukraine-peace-plan-is-russias-wish-list",
+      "pubDate": "Sun, 23 Nov 2025 09:40:17 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Europejscy liderzy spotkają się w sprawie planu dla Ukrainy. Premier Tusk: przedstawię polski punkt widzenia",
+      "link": "https://wiadomosci.onet.pl/kraj/europejscy-liderzy-spotkaja-sie-w-sprawie-planu-dla-ukrainy-tusk-przedstawie-polski/0968jk8",
+      "pubDate": "Sun, 23 Nov 2025 08:37:38 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kryzys demograficzny czy nowy etap transformacji społeczeństwa?",
+      "link": "https://businessinsider.com.pl/praca/polska-w-obliczu-zmian-demograficznych-czy-naprawde-grozi-nam-kryzys/v0gxntv",
+      "pubDate": "Sun, 23 Nov 2025 08:36:43 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Nastolatek nie żyje, wielu jest rannych. Tragiczne \"świętowanie\" choinki",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-nastolatek-nie-zyje-wielu-jest-rannych-tragiczne-swietowanie,nId,8043262",
+      "pubDate": "Sun, 23 Nov 2025 09:33:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Jest \"gotowość\", ale też \"zastrzeżenia\". Tusk: przedstawię polski punkt widzenia",
+      "link": "https://tvn24.pl/polska/plan-w-sprawie-ukrainy-donald-tusk-komentuje-gotowosc-do-pracy-ale-sa-zastrzezenia-st8766726?source=rss",
+      "pubDate": "Sun, 23 Nov 2025 08:31:46 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Śnieżna niedziela. Zimowa Polska na waszych zdjęciach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/sniezna-niedziela-zimowa-polska-na-waszych-zdjeciach-st8766648?source=rss",
+      "pubDate": "Sun, 23 Nov 2025 08:30:30 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Samsung wraca na szczyt. Niespodziewany zwrot w biznesie",
+      "link": "https://antyweb.pl/samsung-wraca-na-szczyt-niespodziewany-zwrot-w-biznesie",
+      "pubDate": "Sun, 23 Nov 2025 08:30:19 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Plan pokojowy dla Ukrainy. Premier Donald Tusk zabrał głos",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-plan-pokojowy-dla-ukrainy-premier-donald-tusk-zabral-glos,nId,22457220",
+      "pubDate": "Sun, 23 Nov 2025 08:29:54 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Pierwszy śnieg w stolicy. \"Ulice momentalnie przykryła biała warstwa\" ",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-pierwsze-opady-sniegu-i-prognoza-pogody-na-niedziele-st8766615?source=rss",
@@ -14349,6 +14403,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -24230,6 +24308,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "8",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
           "@_type": "application/atom+xml"
         }
       ],
@@ -62445,6 +62547,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "78",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -76525,78 +76651,6 @@
       "link": "https://tvn24.pl/trojmiasto/chojnice-komornik-znalazl-cialo-ponad-rok-po-zbrodni-55-latek-oskarzony-o-zabojstwo-znajomej-st8752902?source=rss",
       "pubDate": "Fri, 14 Nov 2025 18:04:37 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "The unexpected coalition trying to force fossil fuels onto the agenda at COP30",
-      "link": "https://www.dw.com/en/the-unexpected-coalition-trying-to-force-fossil-fuels-onto-the-agenda-at-cop30/a-74751915?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 14 Nov 2025 18:01:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Rząd zmienia reformę PIP. Idzie na rękę firmom",
-      "link": "https://pro.rp.pl/prawo-pracy/art43335361-rzad-zmienia-reforme-pip-idzie-na-reke-firmom",
-      "pubDate": "Fri, 14 Nov 2025 19:00:40 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ekstra funkcja Spotify tylko w tej przeglądarce. Dodatkowo darmowy dostęp",
-      "link": "https://antyweb.pl/ekstra-funkcja-spotify-tylko-w-tej-przegladarce-dodatkowo-darmowy-dostep",
-      "pubDate": "Fri, 14 Nov 2025 18:00:27 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Pierwsza biografia Stanisława Tyma, ostatnia książka Katarzyny Stoparczyk",
-      "link": "https://www.rp.pl/literatura/art43335791-pierwsza-biografia-stanislawa-tyma-ostatnia-ksiazka-katarzyny-stoparczyk",
-      "pubDate": "Fri, 14 Nov 2025 19:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nikt nie chce iPhone'a 16e. I szczerze, trudno się dziwić",
-      "link": "https://spidersweb.pl/2025/11/sprzedaz-iphone-16e-apple.html",
-      "pubDate": "Fri, 14 Nov 2025 18:53:20 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Kolejne przedłużenie terminu dla MŚP. Więcej czasu na oświadczenia o zamrożonych cenach energii",
-      "link": "https://businessinsider.com.pl/prawo/ministerstwo-energii-przedluza-termin-dla-msp-zmiany-w-ustawie-o-cenach-energii/n5s2l6w",
-      "pubDate": "Fri, 14 Nov 2025 17:51:28 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "mObywatel znów ułatwia życie. Koniec papierologii przy rejestracji pojazdów",
-      "link": "https://android.com.pl/tech/991677-rejestracja-pojazdow-prawo-mobywatel/",
-      "pubDate": "Fri, 14 Nov 2025 17:50:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Rosja bierze Afrykę, zdobywa nowe kontrakty. Kraje Zachodu w odwrocie",
-      "link": "https://biznes.interia.pl/gospodarka/news-rosja-bierze-afryke-kraje-zachodu-w-odwrocie,nId,22454312",
-      "pubDate": "Fri, 14 Nov 2025 17:48:32 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Ambasador USA odpowiada Donaldowi Tuskowi. \"Z dumą wspieramy\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-ambasador-usa-odpowiada-donaldowi-tuskowi-z-duma-wspieramy,nId,22454297",
-      "pubDate": "Fri, 14 Nov 2025 17:47:14 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "'Champion of terror' Russian gymnast signs for German club",
-      "link": "https://www.dw.com/en/champion-of-terror-russian-gymnast-signs-for-german-club/a-74752775?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 14 Nov 2025 17:46:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Russian pro-Putin star gymnast Melnikova joins German club",
-      "link": "https://www.dw.com/en/russian-pro-putin-star-gymnast-melnikova-joins-german-club/a-74752775?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 14 Nov 2025 17:46:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Bańka AI rośnie szybciej niż dotąd. Wall Street czeka \"sądny dzień\" [ANALIZA]",
-      "link": "https://businessinsider.com.pl/gospodarka/economist-ostrzega-przed-kryzysem-ai-banka-moze-wstrzasnac-swiatem/ctqw9vx",
-      "pubDate": "Fri, 14 Nov 2025 17:44:33 GMT",
-      "source": "Business Insider"
     }
   ]
 }
