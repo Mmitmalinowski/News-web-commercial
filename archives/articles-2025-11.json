@@ -1,12 +1,18 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T23:46:23.943Z",
+  "generatedAt": "2025-11-24T23:55:49.490Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Brisbane storms and hail leave nearly 100,000 without power as trees downed and roofs stripped",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/25/brisbane-storms-qld-power-outages-hail-queensland-bom-weather",
+      "pubDate": "Mon, 24 Nov 2025 23:44:52 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Pożar hotelu w Olsztynie. Goście i personel zostali ewakuowani przez straż",
@@ -10574,6 +10580,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -30489,6 +30519,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -37411,6 +37465,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -47162,6 +47240,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -85851,6 +85953,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -86082,42 +86208,6 @@
       "title": "Szykuje się zmiana na czele giganta",
       "link": "https://tvn24.pl/biznes/tech/apple-szykuje-sie-do-zmiany-prezesa-tim-cook-moze-ustapic-w-2026-roku-st8756385?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:14:05 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "WhatsApp wyśle Ci takie powiadomienie. Wiele zmieni w Twoim życiu",
-      "link": "https://www.tabletowo.pl/whatsapp-wysle-takie-powiadomienie-wielka-zmiana/",
-      "pubDate": "Mon, 17 Nov 2025 14:13:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Wyspy Kanaryjskie mają nową ustawę o mieszkaniach wakacyjnych. Celem ochrona mieszkańców",
-      "link": "https://turystyka.rp.pl/apartamenty/art43348901-wyspy-kanaryjskie-maja-nowa-ustawe-o-mieszkaniach-wakacyjnych-celem-ochrona-mieszkancow",
-      "pubDate": "Mon, 17 Nov 2025 15:12:48 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Znany wokalista odwołuje koncerty. Ma problemy zdrowotne",
-      "link": "https://tvn24.pl/kultura-i-styl/yungblud-odwoluje-koncerty-do-konca-roku-st8756304?source=rss",
-      "pubDate": "Mon, 17 Nov 2025 14:10:55 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Incredible story of Irish labourer buried alive in coffin for 61 days told in new documentary",
-      "link": "https://www.theguardian.com/world/2025/nov/17/incredible-story-of-irish-labourer-buried-alive-in-coffin-for-61-days-told-in-new-documentary",
-      "pubDate": "Mon, 17 Nov 2025 14:10:51 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Akty dywersji w Polsce. Ministrowie zapowiadają działanie",
-      "link": "https://android.com.pl/tech/992107-akty-dywersji-w-polsce-na-kolei/",
-      "pubDate": "Mon, 17 Nov 2025 14:09:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Chcieli mu pomóc, okazało się, że odpoczywa po kradzieży",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-mysleli-ze-potrzebuje-pomocy-on-odpoczywal-po-kradziezy-st8756449?source=rss",
-      "pubDate": "Mon, 17 Nov 2025 14:08:57 GMT",
       "source": "TVN24"
     }
   ]
