@@ -1,12 +1,36 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T21:56:50.387Z",
+  "generatedAt": "2025-11-24T22:19:53.881Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "US judge drops cases against James Comey, Letitia James",
+      "link": "https://www.dw.com/en/us-judge-drops-cases-against-james-comey-letitia-james/a-74873633?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 24 Nov 2025 22:18:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "AI wykorzystała głos kultowego lektora? Pierwszy taki pozew w Polsce",
+      "link": "https://www.wirtualnemedia.pl/ai-wykorzystala-glos-kultowego-lektora-pierwszy-taki-pozew-w-polsce,7225252618140192a",
+      "pubDate": "Mon, 24 Nov 2025 23:10:12 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "US justice department renews request to unseal Epstein grand jury materials",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/epstein-grand-jury-materials-release-request-us-latest",
+      "pubDate": "Mon, 24 Nov 2025 22:01:12 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Motability scheme to drop BMW and Mercedes as it aims to buy UK-made cars",
+      "link": "https://www.theguardian.com/business/2025/nov/24/motability-scheme-bmw-mercedes-uk-rachel-reeves",
+      "pubDate": "Mon, 24 Nov 2025 22:00:15 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Sprzedawali Ukrainie drony z 20-krotnym przebiciem. Wpadli przez podatki",
@@ -233,6 +257,12 @@
     {
       "title": "German club cuts ties with Russian gymnast with Putin links",
       "link": "https://www.dw.com/en/german-club-cuts-ties-with-russian-gymnast-with-putin-links/a-74872775?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 24 Nov 2025 20:13:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "German club cuts ties with Russian gymnast linked to Putin",
+      "link": "https://www.dw.com/en/german-club-cuts-ties-with-russian-gymnast-linked-to-putin/a-74872775?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 24 Nov 2025 20:13:00 GMT",
       "source": "DW"
     },
@@ -10430,6 +10460,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -30009,6 +30063,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -36931,6 +37009,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -46514,6 +46616,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -84867,6 +84993,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -85428,66 +85578,6 @@
       "title": "Trump: 'Okay with me' on plan to sanction countries trading with Russia",
       "link": "http://www.euronews.com/business/2025/11/17/trump-okay-with-me-on-plan-to-sanction-countries-trading-with-russia",
       "pubDate": "Mon, 17 Nov 2025 14:43:12 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Wydawca \"Rzeczpospolitej\" ze stratą netto po trzech kwartałach. Wzrosły przychody",
-      "link": "http://www.press.pl/tresc/90312,wydawca-_rzeczpospolitej_-ze-strata-netto-po-trzech-kwartalach_-przychody-wzrosly-o-6_5-proc_?rss=1",
-      "pubDate": "Mon, 17 Nov 2025 14:43:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Nadużycia seksualne w Archidiecezji Łódzkiej będą zbadane",
-      "link": "https://www.rmf24.pl/regiony/lodz/news-naduzycia-seksualne-w-archidiecezji-lodzkiej-beda-zbadane,nId,8041349",
-      "pubDate": "Mon, 17 Nov 2025 14:42:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Sky Sports zamyka konto na TikToku po zaledwie trzech dniach z powodu zarzutów o seksizm",
-      "link": "http://www.press.pl/tresc/90311,sky-sports-zamyka-tiktoka-po-zaledwie-trzech-dniach-z-powodu-zarzutow-o-seksizm?rss=1",
-      "pubDate": "Mon, 17 Nov 2025 14:42:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "EU countries should have have 'multiple' security guarantees beyond Article 5, Kubilius says",
-      "link": "http://www.euronews.com/my-europe/2025/11/17/eu-countries-should-have-have-multiple-security-guarantees-beyond-article-5-kubilius-says",
-      "pubDate": "Mon, 17 Nov 2025 14:41:37 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Deficyt w budżecie to już 227 mld zł. MF podało nowe dane",
-      "link": "https://www.rp.pl/budzet-i-podatki/art43348451-deficyt-w-budzecie-to-juz-227-mld-zl-mf-podalo-nowe-dane",
-      "pubDate": "Mon, 17 Nov 2025 14:40:49 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowy film Smarzowskiego rządzi w kinach. Już ponad milion widzów",
-      "link": "https://www.wirtualnemedia.pl/dom-dobry-film-zwiastun-wojtek-smarzowski-ilu-widzow-w-kinach,7222815765568384a",
-      "pubDate": "Mon, 17 Nov 2025 14:40:42 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "\"Natychmiast zabezpieczono miejsce\". Wykryto podejrzany element przy torze",
-      "link": "https://wydarzenia.interia.pl/kraj/news-natychmiast-zabezpieczono-miejsce-wykryto-podejrzany-element,nId,22454989",
-      "pubDate": "Mon, 17 Nov 2025 13:39:24 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Przebywali w Polsce nielegalnie, zatrzymania w Wólce Kosowskiej",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/wolka-kosowska-szesciu-azjatow-zatrzymanych-przebywali-w-polsce-nielegalnie-st8756018?source=rss",
-      "pubDate": "Mon, 17 Nov 2025 13:38:48 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Przelewy od byłego męża mogą być zwolnione z podatku od spadków i darowizn",
-      "link": "https://www.rp.pl/podatki/art43348401-przelewy-od-bylego-meza-moga-byc-zwolnione-z-podatku-od-spadkow-i-darowizn",
-      "pubDate": "Mon, 17 Nov 2025 14:38:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "‘When you deliver, you progress’: EU opens final negotiations cluster with Albania",
-      "link": "http://www.euronews.com/my-europe/2025/11/17/when-you-deliver-you-progress-eu-opens-final-negotiations-cluster-with-albania",
-      "pubDate": "Mon, 17 Nov 2025 14:36:07 +0100",
       "source": "Euronews"
     }
   ]
