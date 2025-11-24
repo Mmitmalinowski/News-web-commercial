@@ -1,12 +1,48 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T20:49:40.451Z",
+  "generatedAt": "2025-11-24T20:58:48.713Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Google ze świetną nowością. Osiem razy szybsze prognozy",
+      "link": "https://spidersweb.pl/2025/11/google-ze-swietna-nowoscia-osiem-razy-szybsze-prognozy.html",
+      "pubDate": "Mon, 24 Nov 2025 21:57:08 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "​Polska najbardziej skorzysta z \"wojskowego Schengen\"? Pierwszy krok za nami",
+      "link": "https://www.rmf24.pl/polityka/news-polska-najbardziej-skorzysta-z-wojskowego-schengen-pierwszy-,nId,8043620",
+      "pubDate": "Mon, 24 Nov 2025 21:55:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Valve gasi entuzjazm graczy. Steam Machine będzie drogi",
+      "link": "https://spidersweb.pl/2025/11/valve-gasi-entuzjazm-graczy-steam-machine-bedzie-drogi.html",
+      "pubDate": "Mon, 24 Nov 2025 21:51:27 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "HBO Max w promocji aż na rok. Trzeba się pospieszyć",
+      "link": "https://www.tabletowo.pl/hbo-max-promocja-polowa-ceny-az-na-rok/",
+      "pubDate": "Mon, 24 Nov 2025 20:49:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Bitcoin zmierza w kierunku najgorszego miesiąca. Z funduszy ETF zniknęło już 3,5 mld dol.",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/bitcoin-zmierza-w-kierunku-najgorszego-miesiaca-z-funduszy-etf-zniknelo-juz-35-mld/hbqhxb9",
+      "pubDate": "Mon, 24 Nov 2025 20:49:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kobieta znaleziona żywa w trumnie. Brat chciał ją skremować",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-kobieta-znaleziona-zywa-w-trumnie-brat-chcial-ja-skremowac,nId,8043621",
+      "pubDate": "Mon, 24 Nov 2025 21:48:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "W Czechach sypnęło śniegiem. Liczne utrudnienia na drogach",
@@ -25,6 +61,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/klamliwy-wpis-jad-waszem-zdecydowana-deklaracja-wlodzimierza-czarzastego/g270fg3",
       "pubDate": "Mon, 24 Nov 2025 20:38:30 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Maga world discomfited by Trump’s warm welcome for Mamdani",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/trump-mamdani-white-house-maga",
+      "pubDate": "Mon, 24 Nov 2025 20:36:09 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Senator w burce i szpilkach wywołała skandal. Oskarżenia o rasizm i islamofobię",
@@ -10280,6 +10322,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -29619,6 +29685,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -36541,6 +36631,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -46004,6 +46118,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -84117,6 +84255,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -84967,78 +85129,6 @@
       "link": "https://tvn24.pl/swiat/akty-dywersji-na-kolei-w-polsce-szef-nato-jestesmy-w-kontakcie-z-polakami-st8756246?source=rss",
       "pubDate": "Mon, 17 Nov 2025 13:10:33 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Inflacja bazowa w październiku. NBP opublikował nowe dane",
-      "link": "https://biznes.interia.pl/gospodarka/news-dobre-dane-z-nbp-inflacja-bazowa-ponownie-spada,nId,22454939",
-      "pubDate": "Mon, 17 Nov 2025 13:09:26 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Polski marketplace coraz zyskowniejszy. Przyciąga nowych kupujących",
-      "link": "https://www.wirtualnemedia.pl/erli-zakupy-jak-dziala-ile-zarabia-zysk-w-2025-roku,7222822282382208a",
-      "pubDate": "Mon, 17 Nov 2025 14:08:47 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Szef MSWiA o eksplozji na torach: Ponad wszelką wątpliwość ",
-      "link": "https://wydarzenia.interia.pl/kraj/news-szef-mswia-o-eksplozji-na-torach-ponad-wszelka-watpliwosc,nId,22454980",
-      "pubDate": "Mon, 17 Nov 2025 13:07:37 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Dywersja na kolei. Ministrowie zabierają głos. \"Doszło do odpalenia ładunku wybuchowego\"",
-      "link": "https://wiadomosci.onet.pl/kraj/dywersja-na-kolei-minister-ujawnia-doszlo-do-odpalenia-ladunku-wybuchowego/5hx0y75",
-      "pubDate": "Mon, 17 Nov 2025 13:06:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Mniej wydajemy, więcej odkładamy. Jak wojna w Ukrainie zmieniła finansowe nawyki Polaków",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/mniej-wydajemy-wiecej-odkladamy-jak-wojna-w-ukrainie-zmienila-finansowe-nawyki/w9hbzbb",
-      "pubDate": "Mon, 17 Nov 2025 13:04:42 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Inflacja bazowa w Polsce. Nowe dane",
-      "link": "https://tvn24.pl/biznes/pieniadze/inflacja-bazowa-w-polsce-pazdziernik-2025-dane-gus-st8756061?source=rss",
-      "pubDate": "Mon, 17 Nov 2025 13:04:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Odtworzyli hymn babiloński sprzed tysięcy lat. Pomogła sztuczna inteligencja",
-      "link": "https://tech.wp.pl/odtworzyli-hymn-babilonski-sprzed-tysiecy-lat-pomogla-sztuczna-inteligencja,7222810746969024a",
-      "pubDate": "Mon, 17 Nov 2025 14:04:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "‘There is so much corruption’: hundreds of thousands protest in Manila over missing flood funds",
-      "link": "https://www.theguardian.com/world/2025/nov/17/manila-philippines-corruption-protest-flood-funds",
-      "pubDate": "Mon, 17 Nov 2025 13:03:52 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Wykonanie budżetu państwa. Na to rząd przeznacza najwięcej pieniędzy",
-      "link": "https://biznes.interia.pl/gospodarka/news-wykonanie-budzetu-panstwa-oto-na-co-rzad-wydaje-najwiecej-pi,nId,22454902",
-      "pubDate": "Mon, 17 Nov 2025 13:03:51 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wynajem powierzchni handlowych przyspiesza. \"Najwyższy poziom optymizmu\" w Polsce",
-      "link": "https://businessinsider.com.pl/gospodarka/sieci-wielobranzowe-rosna-w-europie-polska-liderem-zaufania-konsumentow/v288y9k",
-      "pubDate": "Mon, 17 Nov 2025 13:03:48 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wybuchła epidemia. Trzy zgony, afrykański kraj potwierdza",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-wybuchla-epidemia-trzy-zgony-afrykanski-kraj-potwierdza,nId,22454888",
-      "pubDate": "Mon, 17 Nov 2025 13:03:41 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "At least three people killed in Russian strikes on Ukraine's Kharkiv and Odesa",
-      "link": "http://www.euronews.com/2025/11/17/at-least-three-people-killed-in-russian-strikes-on-ukraines-kharkiv-and-odesa",
-      "pubDate": "Mon, 17 Nov 2025 14:03:31 +0100",
-      "source": "Euronews"
     }
   ]
 }
