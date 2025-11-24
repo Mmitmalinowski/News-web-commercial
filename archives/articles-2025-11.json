@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T20:22:23.815Z",
+  "generatedAt": "2025-11-24T20:39:06.321Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
@@ -9,8 +9,44 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Senator w burce i szpilkach wywołała skandal. Oskarżenia o rasizm i islamofobię",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-senator-w-burce-i-szpilkach-wywolala-skandal-oskarzenia-o-ra,nId,8043615",
+      "pubDate": "Mon, 24 Nov 2025 21:35:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Groźny pestycyd w mące jaglanej. Produkt zagraża zdrowiu konsumentów",
+      "link": "https://wydarzenia.interia.pl/kraj/news-grozny-pestycyd-w-mace-jaglanej-produkt-zagraza-zdrowiu-kons,nId,22459735",
+      "pubDate": "Mon, 24 Nov 2025 20:30:31 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Źle policzony\" projekt prezydenta. Minister komentuje",
+      "link": "https://tvn24.pl/biznes/pieniadze/zle-policzony-projekt-prezydenta-minister-komentuje-st8769569?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 20:21:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Duża zmiana w pogodzie. Długoterminowa prognoza nie pozostawia wątpliwości",
+      "link": "https://wydarzenia.interia.pl/kraj/news-duza-zmiana-w-pogodzie-dlugoterminowa-prognoza-nie-pozostawi,nId,22459732",
+      "pubDate": "Mon, 24 Nov 2025 20:21:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Former Phoenix news anchor sentenced to 10 years for $63m fraud in Covid relief scheme",
+      "link": "https://www.theguardian.com/us-news/2025/nov/24/former-phoenix-news-anchor-covid-relief-fraud",
+      "pubDate": "Mon, 24 Nov 2025 20:20:21 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "Żona Stevena Spielberg Kate Capshaw stworzyła unikatowy portret reżysera. Wybitne dzieło?",
       "link": "https://kobieta.rp.pl/kultura/art43357791-zona-stevena-spielberg-kate-capshaw-stworzyla-unikatowy-portret-rezysera-wybitne-dzielo",
+      "pubDate": "Mon, 24 Nov 2025 21:20:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Żona Stevena Spielberga Kate Capshaw stworzyła unikatowy portret reżysera. Wybitne dzieło?",
+      "link": "https://kobieta.rp.pl/kultura/art43357791-zona-stevena-spielberga-kate-capshaw-stworzyla-unikatowy-portret-rezysera-wybitne-dzielo",
       "pubDate": "Mon, 24 Nov 2025 21:20:00 +0100",
       "source": "Rzeczpospolita"
     },
@@ -10208,6 +10244,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -29451,6 +29511,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -36373,6 +36457,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -45788,6 +45896,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -83805,6 +83937,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -84793,72 +84949,6 @@
       "link": "https://tvn24.pl/olsztyn/olsztynek-miasto-chce-przejac-od-pasjonata-historii-album-o-stalagu-ib-st8756021?source=rss",
       "pubDate": "Mon, 17 Nov 2025 12:55:57 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Adam Czarnota, Maciej Kisilowski: Nowelizując konstytucję, nie zamieńmy siekierki na kijek",
-      "link": "https://www.rp.pl/publicystyka/art43345141-adam-czarnota-maciej-kisilowski-nowelizujac-konstytucje-nie-zamienmy-siekierki-na-kijek",
-      "pubDate": "Mon, 17 Nov 2025 13:54:44 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Administrator przesyła na żądanie kopię danych na wskazany adres e-mail. Wyrok NSA",
-      "link": "https://www.rp.pl/dane-osobowe/art43348171-administrator-przesyla-na-zadanie-kopie-danych-na-wskazany-adres-e-mail-wyrok-nsa",
-      "pubDate": "Mon, 17 Nov 2025 13:54:09 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Palestine, Basques meet in first-of-a-kind football friendly",
-      "link": "https://www.dw.com/en/palestine-basques-meet-in-first-of-a-kind-football-friendly/a-74769599?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 17 Nov 2025 12:54:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Palestine plays first-of-a-kind football friendly in Spain",
-      "link": "https://www.dw.com/en/palestine-plays-first-of-a-kind-football-friendly-in-spain/a-74769599?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 17 Nov 2025 12:54:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Atmospheric river storm leaves six dead after drenching California",
-      "link": "https://www.theguardian.com/us-news/2025/nov/17/california-atmospheric-river-storm",
-      "pubDate": "Mon, 17 Nov 2025 12:52:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Psychiczne problemy młodzieży. Marcin Teodorczyk z Nagrodą im. Różewicza",
-      "link": "https://www.rp.pl/teatr/art43348261-psychiczne-problemy-mlodziezy-marcin-teodorczyk-z-nagroda-im-rozewicza",
-      "pubDate": "Mon, 17 Nov 2025 13:52:32 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Teleskop Jamesa Webba jest rozchwytywany. Nie dla każdego astronoma",
-      "link": "https://tech.wp.pl/teleskop-jamesa-webba-jest-rozchwytywany-nie-dla-kazdego-astronoma,7222813452577664a",
-      "pubDate": "Mon, 17 Nov 2025 13:51:09 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Jedyny taki jarmark bożonarodzeniowy w Europie. Zainteresowanie ogromne, liczba miejsc ograniczona",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-jedyny-taki-jarmark-bozonarodzeniowy-w-europie-zainteresowan,nId,8041336",
-      "pubDate": "Mon, 17 Nov 2025 13:51:07 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Symfonia stali i duszy: Adam Wesołowski o łączeniu muzyki klasycznej z przemysłem 4.0",
-      "link": "https://mamstartup.pl/symfonia-stali-i-duszy-adam-wesolowski-o-laczeniu-muzyki-klasycznej-z-przemyslem-4-0/",
-      "pubDate": "Mon, 17 Nov 2025 12:50:06 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Kibice z całego kraju maszerowali ramię w ramię. Nie chcą zmian na stadionach",
-      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-kibice-z-calego-kraju-maszerowali-ramie-w-ramie-nie-chca-zmi,nId,8041322",
-      "pubDate": "Mon, 17 Nov 2025 13:49:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Uszkodzony bagaż i problem z reklamacją? UOKiK bierze się za LOT",
-      "link": "https://android.com.pl/tech/992008-uokik-bada-naruszenie-prawa-przez-lot/",
-      "pubDate": "Mon, 17 Nov 2025 12:49:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
