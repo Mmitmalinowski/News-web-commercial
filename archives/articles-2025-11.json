@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T05:36:18.076Z",
+  "generatedAt": "2025-11-24T05:49:48.032Z",
   "items": [
+    {
+      "title": "Wybrali prezydenta w przedterminowych wyborach",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wybrali-prezydenta-w-przedterminowych-wyborach,nId,8043328",
+      "pubDate": "Mon, 24 Nov 2025 06:43:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Magda Gessler organizuje sylwestra. Cena zaskakuje, ale jest haczyk",
+      "link": "https://biznes.interia.pl/finanse/news-gessler-organizuje-sylwestra-cena-niezbyt-wysoka-ale-cos-sie,nId,22455508",
+      "pubDate": "Mon, 24 Nov 2025 05:40:01 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Jasna deklaracja premiera ws. Ukrainy. Mówi o polskim punkcie widzenia",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-jasna-deklaracja-premiera-ws-ukrainy-mowi-o-polskim-punkcie,nId,22457349",
+      "pubDate": "Mon, 24 Nov 2025 05:37:50 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Zmasowany atak na Charków w czasie rozmów w Genewie. Ofiary śmiertelne i ranni",
       "link": "https://tvn24.pl/swiat/ukraina-zmasowany-atak-na-charkow-kolejne-ofiary-smiertelne-i-ranni-st8767890?source=rss",
       "pubDate": "Mon, 24 Nov 2025 05:33:52 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Plan pokojowy dla Ukrainy budzi kontrowersje. Wołodymyr Zełenski leci do USA",
+      "link": "https://businessinsider.com.pl/wiadomosci/prezydenci-usa-i-ukrainy-moga-sie-spotkac-w-tym-tygodniu-reuters-ujawnia-kulisy/q6vwwzx",
+      "pubDate": "Mon, 24 Nov 2025 05:32:51 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Najtragiczniejszy weekend od dawna. Straż pożarna podała nowe dane o ofiarach pożarów",
+      "link": "https://wiadomosci.onet.pl/kraj/najtragiczniejszy-weekend-od-dawna-psp-podala-nowe-dane-o-ofiarach-pozarow/0m8w0h5",
+      "pubDate": "Mon, 24 Nov 2025 05:31:16 GMT",
+      "source": "Onet"
     },
     {
       "title": "HPV vaccine slashes cervical cancer risk with minimal side effects, major review finds",
@@ -3615,6 +3645,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -3641,6 +3695,12 @@
     {
       "title": "Zawieje, zamiecie i silny mróz. Ostrzeżenia IMGW",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-zawieje-zamiecie-mroz-i-silny-wiatr-w-czesci-polski-ostrzezenia-imgw-23-24-11-st8767196?source=rss",
+      "pubDate": "Sun, 23 Nov 2025 13:01:13 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "IMGW ostrzega. W mocy żółte i pomarańczowe alarmy",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-zawieje-zamiecie-mroz-i-silny-wiatr-w-czesci-polski-ostrzezenia-imgw-24-11-st8767196?source=rss",
       "pubDate": "Sun, 23 Nov 2025 13:01:13 GMT",
       "source": "TVN24"
     },
@@ -20913,6 +20973,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -34946,6 +35030,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "24",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "24",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72273,6 +72381,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "86",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "86",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -81127,66 +81259,6 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-potezny-atak-na-wolgograd-eksplozje-i-pozary,nId,22454568",
       "pubDate": "Sun, 16 Nov 2025 05:44:30 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Rodzice przekazali majątek komuś innemu? Nadal możesz żądać pieniędzy",
-      "link": "https://biznes.interia.pl/finanse/news-rodzice-pomineli-cie-w-testamencie-mozesz-dostac-zachowek,nId,22450340",
-      "pubDate": "Sun, 16 Nov 2025 05:40:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "\"Stan Wyjątkowy\". Nawrocki blokuje neosędziów. Kaczyński statystą na Marszu Niepodległości. Czarzasty wygrał z Hołownią",
-      "link": "https://wiadomosci.onet.pl/kraj/stan-wyjatkowy-nawrocki-wycina-sedziow-czarzasty-wygral-z-holownia/xfsvp8g",
-      "pubDate": "Sun, 16 Nov 2025 05:37:06 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jest reakcja Białorusi na decyzję Polski",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-jest-reakcja-bialorusi-na-decyzje-polski,nId,8041010",
-      "pubDate": "Sun, 16 Nov 2025 06:33:11 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Prześmiewcza \"nagroda\" dla USA. Za nieobecność",
-      "link": "https://tvn24.pl/biznes/ze-swiata/brazylia-skamielina-roku-usa-wyroznione-przesmiewcza-nagroda-st8754285?source=rss",
-      "pubDate": "Sun, 16 Nov 2025 05:21:01 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Gen Z protests against Mexico president turn violent amid anger over mayor’s death",
-      "link": "https://www.theguardian.com/world/2025/nov/16/gen-z-protests-against-mexico-president-turn-violent-amid-anger-over-mayors-death",
-      "pubDate": "Sun, 16 Nov 2025 05:17:26 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Kaczyński: Będziemy bronić Ziobry. Cała patriotyczna Polska byłaby w kajdankach",
-      "link": "https://www.rmf24.pl/polityka/news-kaczynski-bedziemy-bronic-ziobry-cala-patriotyczna-polska-by,nId,8041009",
-      "pubDate": "Sun, 16 Nov 2025 06:13:06 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Od stycznia podatek w górę. Najwyższa maksymalna stawka w historii",
-      "link": "https://biznes.interia.pl/finanse/news-podatek-od-psa-takie-sa-stawki-w-polsce,nId,22451701",
-      "pubDate": "Sun, 16 Nov 2025 05:00:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Szykuje się rewolucja w kosmologii? „To oznacza ogromną zmianę paradygmatu”",
-      "link": "https://www.rp.pl/kosmos/art43303561-szykuje-sie-rewolucja-w-kosmologii-to-oznacza-ogromna-zmiane-paradygmatu",
-      "pubDate": "Sun, 16 Nov 2025 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Chiny budują superlotniskowiec. Wyposażą go w broń, którą porzuciły Stany Zjednoczone",
-      "link": "https://www.chip.pl/2025/11/chiny-superlotniskowiec-uzbrojenie-dzialo-elektromagnetyczne",
-      "pubDate": "Sun, 16 Nov 2025 05:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Ryczałt, skala czy podatek liniowy? Podpowiadamy, jaką formę opodatkowania wybrać w 2026 r., by oszczędzić [WYLICZENIA]",
-      "link": "https://businessinsider.com.pl/prawo/podatki/skala-podatkowa-liniowy-czy-ryczalt-sprawdz-ktora-opcja-najbardziej-sie-oplaca/wxm839g",
-      "pubDate": "Sun, 16 Nov 2025 05:00:00 GMT",
-      "source": "Business Insider"
     }
   ]
 }
