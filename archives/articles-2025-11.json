@@ -1,12 +1,60 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T20:58:48.713Z",
+  "generatedAt": "2025-11-24T21:24:27.057Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Belgium faces nationwide disruption as unions strike",
+      "link": "https://www.dw.com/en/belgium-faces-nationwide-disruption-as-unions-strike/a-74870459?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 24 Nov 2025 21:20:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Nigel Farage’s shifting answers on school-days racism claims – a timeline",
+      "link": "https://www.theguardian.com/politics/2025/nov/24/nigel-farages-shifting-answers-on-school-days-racism-claims-a-timeline",
+      "pubDate": "Mon, 24 Nov 2025 21:17:39 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Cyfrowy Kalendarz Adwentowy Grześków od NAV agency",
+      "link": "https://www.wirtualnemedia.pl/cyfrowy-kalendarz-adwentowy-grzeskow-od-nav-agency,7225386628753952a",
+      "pubDate": "Mon, 24 Nov 2025 22:08:38 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Tragiczny pożar w Pszczynie. Burmistrz: Niestety nie mam dobrych wieści",
+      "link": "https://www.rmf24.pl/regiony/slaskie/news-tragiczny-pozar-w-pszczynie-burmistrz-niestety-nie-mam-dobry,nId,8043628",
+      "pubDate": "Mon, 24 Nov 2025 22:03:20 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ncuti Gatwa leads star winners at first Speakies awards for audio storytelling",
+      "link": "https://www.theguardian.com/books/2025/nov/24/ncuti-gatwa-leads-star-winners-at-first-speakies-awards-for-audio-storytelling",
+      "pubDate": "Mon, 24 Nov 2025 21:00:14 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kontrowersyjna umowa. We wtorek ważna decyzja europosłów",
+      "link": "https://tvn24.pl/biznes/ze-swiata/umowa-ue-mercosur-we-wtorek-decyzja-pe-w-sprawie-rozporzadzenia-st8769583?source=rss",
+      "pubDate": "Mon, 24 Nov 2025 21:00:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tokyo’s centuries-old Tori-no-ichi festival attracts visitors to Ootori Shrine",
+      "link": "http://www.euronews.com/video/2025/11/24/tokyos-centuries-old-tori-no-ichi-festival-attracts-visitors-to-ootori-shrine",
+      "pubDate": "Mon, 24 Nov 2025 21:59:24 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Andrej Babisz o rozmowie z Karolem Nawrockim. Wskazał pola współpracy",
+      "link": "https://wiadomosci.onet.pl/swiat/andrej-babisz-o-rozmowie-z-karolem-nawrockim-wskazal-pola-wspolpracy/kp7n1nn",
+      "pubDate": "Mon, 24 Nov 2025 20:58:04 GMT",
+      "source": "Onet"
     },
     {
       "title": "Google ze świetną nowością. Osiem razy szybsze prognozy",
@@ -19,6 +67,12 @@
       "link": "https://www.rmf24.pl/polityka/news-polska-najbardziej-skorzysta-z-wojskowego-schengen-pierwszy-,nId,8043620",
       "pubDate": "Mon, 24 Nov 2025 21:55:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Nauru president floats returning NZYQ refugees to home countries, in interview Australia tried to suppress",
+      "link": "https://www.theguardian.com/world/2025/nov/25/nauru-president-floats-returning-nzyq-refugees-to-home-countries-in-interview-australia-tried-to-suppress",
+      "pubDate": "Mon, 24 Nov 2025 20:54:09 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Valve gasi entuzjazm graczy. Steam Machine będzie drogi",
@@ -10322,6 +10376,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -29709,6 +29787,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -36631,6 +36733,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -46118,6 +46244,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -84279,6 +84429,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -85045,90 +85219,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-lukaszenka-zabral-glos-w-sprawie-polski-chce-innych-ludzi-u,nId,22454925",
       "pubDate": "Mon, 17 Nov 2025 13:21:02 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Partia Razem zagłosuje za kandydaturą Czarzastego?",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-partia-razem-zaglosuje-za-kandydatura-czarzastego,nId,8041290",
-      "pubDate": "Mon, 17 Nov 2025 14:21:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Wojewoda usunął krzyż z sali urzędu. Jest decyzja sądu",
-      "link": "https://tvn24.pl/lublin/lublin-wojewoda-zdjal-krzyz-w-sali-urzedu-sad-oglosil-wyrok-st8755972?source=rss",
-      "pubDate": "Mon, 17 Nov 2025 13:19:05 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Inflacja bazowa w Polsce w dół. Jest najniższa od 2019 r.",
-      "link": "https://www.rp.pl/dane-gospodarcze/art43348691-inflacja-bazowa-w-polsce-w-dol-jest-najnizsza-od-2019-r",
-      "pubDate": "Mon, 17 Nov 2025 14:18:49 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "This space suit designed by a French sportswear brand will be tested in orbit next year",
-      "link": "http://www.euronews.com/next/2025/11/17/this-space-suit-designed-by-a-french-sportswear-brand-will-be-tested-in-orbit-next-year",
-      "pubDate": "Mon, 17 Nov 2025 14:18:41 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Waldemar Żurek o dywersji na kolei. \"Nie będzie takiego miejsca na ziemi\"",
-      "link": "https://wiadomosci.onet.pl/kraj/waldemar-zurek-o-dywersji-na-kolei-nie-bedzie-takiego-miejsca-na-ziemi/q6vxq90",
-      "pubDate": "Mon, 17 Nov 2025 13:18:08 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gangster z Czerwonego Komanda w szeregach ukraińskiej armii. Jego perfidny plan zaowocował 100 ofiarami śmiertelnymi na drugim końcu świata",
-      "link": "https://wiadomosci.onet.pl/swiat/najemnicy-z-faweli-w-szeregach-ukrainskiej-armii-fatalne-konsekwencje/vcjrb4r",
-      "pubDate": "Mon, 17 Nov 2025 13:17:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Oto Debian 13.2. Co się zmieniło w legendzie Linuxa?",
-      "link": "https://antyweb.pl/debian-13-2-aktualizacja",
-      "pubDate": "Mon, 17 Nov 2025 13:16:26 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Generał komentuje incydenty na torach. Mówi o przygotowaniach do wojny",
-      "link": "https://wydarzenia.interia.pl/kraj/news-adwersarz-rozpoczal-przygotowania-do-wojny-gen-kukula-o-incy,nId,22454942",
-      "pubDate": "Mon, 17 Nov 2025 13:15:36 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Rosalía's 'Lux' dethrones Taylor Swift as the world's most-streamed album in a week",
-      "link": "http://www.euronews.com/culture/2025/11/17/rosalias-lux-dethrones-taylor-swift-as-the-worlds-most-streamed-album-in-a-week",
-      "pubDate": "Mon, 17 Nov 2025 14:15:32 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Akt dywersji na kolei. Co wiadomo? Minister: Doszło do odpalenia ładunku wybuchowego",
-      "link": "https://www.rp.pl/przestepczosc/art43348461-akt-dywersji-na-kolei-co-wiadomo-minister-doszlo-do-odpalenia-ladunku-wybuchowego",
-      "pubDate": "Mon, 17 Nov 2025 14:14:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "TotalEnergies buys £5.1bn stake in Czech tycoon’s power plants business",
-      "link": "https://www.theguardian.com/business/2025/nov/17/totalenergies-czech-tycoon-daniel-kretinsky-power-plants-shareholder",
-      "pubDate": "Mon, 17 Nov 2025 13:13:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Greeks mark anniversary of 1973 Polytechnic uprising",
-      "link": "http://www.euronews.com/video/2025/11/17/greeks-mark-anniversary-of-1973-polytechnic-uprising",
-      "pubDate": "Mon, 17 Nov 2025 14:12:12 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Młodzi zawodnicy z Wielkopolski najlepsi w finale zawodów programu Lekkoatletyka dla Każdego! w Spale",
-      "link": "https://wiadomosci.onet.pl/kraj/mlodzi-zawodnicy-z-wielkopolski-najlepsi-w-finale-zawodow-programu-lekkoatletyka-dla/qrtqfyn",
-      "pubDate": "Mon, 17 Nov 2025 13:10:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szef NATO o dywersji na kolei w Polsce: jesteśmy w kontakcie",
-      "link": "https://tvn24.pl/swiat/akty-dywersji-na-kolei-w-polsce-szef-nato-jestesmy-w-kontakcie-z-polakami-st8756246?source=rss",
-      "pubDate": "Mon, 17 Nov 2025 13:10:33 GMT",
-      "source": "TVN24"
     }
   ]
 }
