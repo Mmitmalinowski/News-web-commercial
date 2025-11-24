@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T21:24:27.057Z",
+  "generatedAt": "2025-11-24T21:38:27.700Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "\"Proceder trwał latami\". Prezes Orlenu ogłasza",
+      "link": "https://www.rmf24.pl/fakty/polska/news-proceder-trwal-latami-prezes-orlenu-oglasza,nId,8043627",
+      "pubDate": "Mon, 24 Nov 2025 22:32:25 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Orlen Kolej zwiększy o blisko jedną trzecią możliwości transportowe",
+      "link": "https://logistyka.rp.pl/szynowy/art43391281-orlen-kolej-zwiekszy-o-blisko-jedna-trzecia-mozliwosci-transportowe",
+      "pubDate": "Mon, 24 Nov 2025 22:31:41 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Łukaszenka jest pewien w sprawie Ukrainy. \"Zakończymy te męczarnie\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-lukaszenka-jest-pewien-w-sprawie-ukrainy-zakonczymy-te-mecza,nId,22459739",
+      "pubDate": "Mon, 24 Nov 2025 21:28:58 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Robert Fico idzie na zwarcie z Brukselą. Ekspert: jesteśmy zdecydowanie bliżej wyjścia z UE niż jeszcze kilka lat temu",
+      "link": "https://wiadomosci.onet.pl/swiat/robert-fico-idzie-na-zwarcie-z-bruksela-ekspert-jestesmy-zdecydowanie-blizej-wyjscia/531ztn8",
+      "pubDate": "Mon, 24 Nov 2025 21:26:43 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rosja zagrożeniem dla sąsiadów. Tak Szwecja chce wzmacniać swoje wojsko",
+      "link": "https://wiadomosci.onet.pl/swiat/rosja-zagrozeniem-dla-sasiadow-tak-szwecja-chce-wzmacniac-swoje-wojsko/51r52tv",
+      "pubDate": "Mon, 24 Nov 2025 21:25:31 GMT",
+      "source": "Onet"
     },
     {
       "title": "Belgium faces nationwide disruption as unions strike",
@@ -1477,6 +1507,12 @@
       "link": "https://geekweek.interia.pl/historia/news-poszukiwacz-znalazl-skarb-z-czasow-rzymian-najwiekszy-w-wali,nId,22457386",
       "pubDate": "Mon, 24 Nov 2025 16:09:04 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Venezuela accuses US of using ‘narco-terrorism’ allegations to justify ‘regime change’",
+      "link": "https://www.theguardian.com/world/2025/nov/24/venezuela-maduro-us-drug-cartel-terrorism",
+      "pubDate": "Mon, 24 Nov 2025 16:08:31 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Kreml reaguje na propozycje z Genewy. \"Nie odpowada nam\"",
@@ -10376,6 +10412,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -29811,6 +29871,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -36733,6 +36817,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -46244,6 +46352,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -84453,6 +84585,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -85153,72 +85309,6 @@
       "link": "https://android.com.pl/tech/991993-agenci-ai-mieli-stworzyc-aplikacje/",
       "pubDate": "Mon, 17 Nov 2025 13:24:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Fact check: Did Brazil chop down 100,000 trees for COP30?",
-      "link": "http://www.euronews.com/my-europe/2025/11/17/fact-check-did-brazil-chop-down-100000-trees-for-cop30",
-      "pubDate": "Mon, 17 Nov 2025 14:23:56 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Walka o rosyjskie aktywa. Bruksela kontra Bruksela",
-      "link": "https://www.rp.pl/finanse/art43348511-walka-o-rosyjskie-aktywa-bruksela-kontra-bruksela",
-      "pubDate": "Mon, 17 Nov 2025 14:23:38 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Odkryli zaginioną technologię Rzymian. Zdradza nową historię Imperium",
-      "link": "https://geekweek.interia.pl/historia/news-archeolodzy-znalezli-pod-ziemia-starozytna-technologie-rzymi,nId,22454812",
-      "pubDate": "Mon, 17 Nov 2025 13:23:03 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Nowy smartfon w mniej niż godzinę. Nowa usługa w znanej sieci elektromarketów",
-      "link": "https://www.tabletowo.pl/nowy-smartfon-w-mniej-niz-godzine-nowa-usluga/",
-      "pubDate": "Mon, 17 Nov 2025 13:22:47 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Nowy raport: przynajmniej 98 Palestyńczyków zmarło w izraelskich więzieniach po 7 października",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/nowy-raport-przynajmniej-98-palestynczykow-zmarlo-w-izraelskich-wiezieniach-po-7-pazdziernika",
-      "pubDate": "Mon, 17 Nov 2025 13:22:29 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Jako pierwsi uznają ryzyko załamania prądów Atlantyku za zagrożenie państwa",
-      "link": "https://geekweek.interia.pl/nauka/news-islandia-uznaje-ryzyko-zalamania-pradow-atlantyku-za-zagroze,nId,22454863",
-      "pubDate": "Mon, 17 Nov 2025 13:22:02 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Nie terroryzm, nie przecinanie kabli. Pierwsi uznali to za zagrożenie",
-      "link": "https://geekweek.interia.pl/nauka/news-islandia-jako-pierwsza-uznaje-to-za-zagrozenie-dla-panstwa-t,nId,22454863",
-      "pubDate": "Mon, 17 Nov 2025 13:22:02 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Rząd obiecuje złapanie sprawców dywersji. Kierwiński: Służby zabezpieczyły materiał dowodowy",
-      "link": "https://www.bankier.pl/wiadomosc/Rzad-obiecuje-zlapanie-sprawcow-dywersji-Kierwinski-Sluzby-zabezpieczyl-material-dowodowy-9040798.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 17 Nov 2025 14:22:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Coraz więcej ostrzeżeń przed zimowym zjawiskiem. Będzie niebezpiecznie",
-      "link": "https://wydarzenia.interia.pl/kraj/news-coraz-wiecej-ostrzezen-przed-zimowym-zjawiskiem-bedzie-niebe,nId,22454981",
-      "pubDate": "Mon, 17 Nov 2025 13:21:42 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Dywersja na kolei. PKP: zwracajcie uwagę na wszelkie odstępstwa",
-      "link": "https://wiadomosci.onet.pl/lublin/akt-dywersji-na-kolei-nowy-komunikat-pkp-plk/fzcf2q5",
-      "pubDate": "Mon, 17 Nov 2025 13:21:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Łukaszenka zabrał głos w sprawie Polski. Chce \"innych ludzi\" u władzy",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-lukaszenka-zabral-glos-w-sprawie-polski-chce-innych-ludzi-u,nId,22454925",
-      "pubDate": "Mon, 17 Nov 2025 13:21:02 GMT",
-      "source": "Interia"
     }
   ]
 }
