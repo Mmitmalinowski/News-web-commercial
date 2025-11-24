@@ -1,12 +1,48 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-24T22:58:38.741Z",
+  "generatedAt": "2025-11-24T23:22:50.101Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Fundacja Basta złożyła skargę do sądu na bierność KRRiT w sprawie reportażu Radia Maryja \"Wirus LGBT\"",
+      "link": "http://www.press.pl/tresc/90424,fundacja-basta-zlozyla-skarge-do-sadu-na-biernosc-krrit-w-sprawie-reportazu-radia-maryja-_wirus-lgbt_?rss=1",
+      "pubDate": "Tue, 25 Nov 2025 00:18:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Kalendarium - wtorek 25 listopada",
+      "link": "https://pro.rp.pl/kalendarium/art43391271-kalendarium-wtorek-25-listopada",
+      "pubDate": "Tue, 25 Nov 2025 00:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Plan pokojowy dla Ukrainy. Nocne informacje z Białego Domu",
+      "link": "https://wiadomosci.onet.pl/swiat/plan-pokojowy-dla-ukrainy-noca-bialy-dom-przekazal-najnowsze-informacje/e2mn1yt",
+      "pubDate": "Mon, 24 Nov 2025 23:02:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kuszenie niezdecydowanych. „Promocje są agresywne”",
+      "link": "https://www.rp.pl/nieruchomosci/art43388811-kuszenie-niezdecydowanych-promocje-sa-agresywne",
+      "pubDate": "Tue, 25 Nov 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nowy system oznaczeń geograficznych",
+      "link": "https://www.rp.pl/prawo-dla-ciebie/art43390961-nowy-system-oznaczen-geograficznych",
+      "pubDate": "Tue, 25 Nov 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Projekt ustawy o ROP wymaga zmian",
+      "link": "https://www.rp.pl/biznes/art43391001-projekt-ustawy-o-rop-wymaga-zmian",
+      "pubDate": "Tue, 25 Nov 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Viola Ford Fletcher, one of last survivors of Tulsa race massacre, dies aged 111",
@@ -175,6 +211,12 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/umowa-ue-mercosur-we-wtorek-decyzja-pe-w-sprawie-rozporzadzenia-st8769583?source=rss",
       "pubDate": "Mon, 24 Nov 2025 21:00:10 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Kto kupi portugalskie linie lotnicze TAP? Jest trzech chętnych",
+      "link": "https://turystyka.rp.pl/linie-lotnicze/art43391341-kto-kupi-portugalskie-linie-lotnicze-tap-jest-trzech-chetnych",
+      "pubDate": "Mon, 24 Nov 2025 22:00:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Tokyo’s centuries-old Tori-no-ichi festival attracts visitors to Ootori Shrine",
@@ -4897,6 +4939,12 @@
       "link": "https://wiadomosci.onet.pl/ciekawostki/nowe-trendy-w-cyfrowej-walucie-sitonmining-wprowadza-xrp-w-nowa-ere-wydobycia/9tvqj87",
       "pubDate": "Mon, 24 Nov 2025 09:35:00 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Meta ukrywała dane o negatywnym wpływie Facebooka na użytkowników",
+      "link": "http://www.press.pl/tresc/90420,meta-ukrywala-dane-o-negatywnym-wplywie-facebooka-na-uzytkownikow?rss=1",
+      "pubDate": "Mon, 24 Nov 2025 10:35:00 +0100",
+      "source": "Press.pl"
     },
     {
       "title": "‘How could that happen?’: footage of Sea World helicopters in deadly mid-air collision shown at inquest",
@@ -10520,6 +10568,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
           "@_type": "application/atom+xml"
         }
       ],
@@ -30291,6 +30363,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "14",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -37213,6 +37309,30 @@
       "link": "http://www.euronews.com/my-europe/2025/11/20/are-carbon-rating-agencies-the-key-to-avoiding-greenwashing",
       "pubDate": "Thu, 20 Nov 2025 14:54:04 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
@@ -46892,6 +47012,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "24",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "26",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "26",
           "@_type": "application/atom+xml"
         }
       ],
@@ -85437,6 +85581,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "88",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-17T14:47:18Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Posiedzenie aresztowe w sprawie Zbigniewa Ziobry. Sąd podał datę",
       "link": "https://wydarzenia.interia.pl/kraj/news-posiedzenie-aresztowe-w-sprawie-zbigniewa-ziobry-sad-podal-d,nId,22455034",
       "pubDate": "Mon, 17 Nov 2025 14:46:55 GMT",
@@ -85771,84 +85939,6 @@
       "link": "https://tvn24.pl/polska/poradnik-bezpieczenstwa-kiedy-trafi-do-domow-rozpocznie-sie-dystrybucja-st8756046?source=rss",
       "pubDate": "Mon, 17 Nov 2025 14:01:27 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Apple Sports w Polsce... ale (jeszcze) bez polskich rozgrywek",
-      "link": "https://antyweb.pl/apple-sports-w-polsce-ale-jeszcze-bez-polskich-rozgrywek",
-      "pubDate": "Mon, 17 Nov 2025 14:00:59 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "South Korean decision to close all coal-fired power plants by 2040 sounds alarm for Australian exports",
-      "link": "https://www.theguardian.com/environment/2025/nov/17/south-korean-decision-to-close-all-coal-fired-power-plants-by-2040-sounds-alarm-for-australian-exports",
-      "pubDate": "Mon, 17 Nov 2025 14:00:51 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Owner of scandal-plagued Panthera Finance tells court it was not technically operating illegally in Victoria",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/17/owner-of-scandal-plagued-panthera-finance-tells-court-it-was-not-technically-operating-illegally-in-victoria",
-      "pubDate": "Mon, 17 Nov 2025 14:00:51 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Schools in Australia have closed over asbestos in play sand fears – here’s what you need to know",
-      "link": "https://www.theguardian.com/environment/2025/nov/17/schools-in-australia-have-closed-over-asbestos-in-play-sand-fears-heres-what-you-need-to-know",
-      "pubDate": "Mon, 17 Nov 2025 14:00:46 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Business and energy leaders warn Coalition dumping net zero won’t cut power bills and demand more detail",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/18/business-and-energy-leaders-warn-coalition-dumping-net-zero-wont-cut-power-bills-and-demand-more-detail",
-      "pubDate": "Mon, 17 Nov 2025 14:00:45 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Is your olive oil real or fake?  How the Food Detectives can fight fraud using DNA tests",
-      "link": "http://www.euronews.com/next/2025/11/17/is-your-olive-oil-real-or-fake-how-the-food-detectives-can-fight-fraud-using-dna-tests",
-      "pubDate": "Mon, 17 Nov 2025 15:00:04 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Wartość aktywów i liczba uczestników PPK biją rekordy. Ile dają zarobić?",
-      "link": "https://pro.rp.pl/poradniki-rzeczpospolitej-ekonomia/art43347841-wartosc-aktywow-i-liczba-uczestnikow-ppk-bija-rekordy-ile-daja-zarobic",
-      "pubDate": "Mon, 17 Nov 2025 15:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Umowa z Mercosur. \"Patrzymy z niepokojem na rynek cukru, wołowinę, drób\"",
-      "link": "https://biznes.interia.pl/rolnictwo/news-umowa-z-mercosur-niezgodna-z-traktatami-ue-polska-chce-to-sp,nId,22455005",
-      "pubDate": "Mon, 17 Nov 2025 13:59:06 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Watch: Hundreds of sheep cross historic German city during annual tradition",
-      "link": "https://www.bbc.com/news/videos/cwy7vv71d09o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 17 Nov 2025 13:58:23 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Zapłacimy więcej. Unia Europejska szykuje nowe opłaty",
-      "link": "https://businessinsider.com.pl/gospodarka/komisja-europejska-stawia-na-zdrowie-nowe-oplaty-za-przetworzona-zywnosc/dyf48vh",
-      "pubDate": "Mon, 17 Nov 2025 13:57:04 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Możemy zapłacić więcej. Unia Europejska szykuje nowe opłaty",
-      "link": "https://businessinsider.com.pl/gospodarka/komisja-europejska-stawia-na-zdrowie-chce-nowych-oplat-za-przetworzona-zywnosc/dyf48vh",
-      "pubDate": "Mon, 17 Nov 2025 13:57:04 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kontrowersyjna aukcja w Niemczech. Polska żąda zwrotu wojennych artefaktów",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-kontrowersyjna-aukcja-w-niemczech-polska-zada-zwrotu-wojenny,nId,22454983",
-      "pubDate": "Mon, 17 Nov 2025 13:56:48 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Busy elektryczne znikają z trasy do Morskiego Oka. Powrót dopiero wiosną 2025",
-      "link": "https://businessinsider.com.pl/wiadomosci/zmiany-na-trasie-do-morskiego-oka-elektryczne-busy-wroca-dopiero-wiosna/mk4zhpk",
-      "pubDate": "Mon, 17 Nov 2025 13:56:33 GMT",
-      "source": "Business Insider"
     }
   ]
 }
