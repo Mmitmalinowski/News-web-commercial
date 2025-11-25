@@ -1,11 +1,41 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T21:09:07.753Z",
+  "generatedAt": "2025-11-25T21:29:12.786Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Skażona woda z kranu w Gdyni. Służby ostrzegają mieszkańców",
+      "link": "https://wydarzenia.interia.pl/pomorskie/news-skazona-woda-z-kranu-w-gdyni-sluzby-ostrzegaja-mieszkancow,nId,22460246",
+      "pubDate": "Tue, 25 Nov 2025 21:20:01 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Can Europe save frozen Russian assets from Donald Trump?",
+      "link": "https://www.dw.com/en/can-europe-save-frozen-russian-assets-from-donald-trump/a-74885380?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 25 Nov 2025 21:15:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Tradycji stało się zadość. Trump ułaskawił dwa indyki",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tradycji-stalo-sie-zadosc-trump-ulaskawil-dwa-indyki,nId,8043941",
+      "pubDate": "Tue, 25 Nov 2025 22:10:55 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Duch i litera Anchorage\". Co Rosjanie sądzą o propozycjach Donalda Trumpa? Chwalą, ale też ostrzegają",
+      "link": "https://wiadomosci.onet.pl/swiat/duch-i-litera-anchorage-lawrow-i-pieskow-o-propozycjach-trumpa-chwala-ale-tez/jzqtm7e",
+      "pubDate": "Tue, 25 Nov 2025 21:05:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nasdaq i S&P500 w górę trzecią sesję z rzędu. Czy Fed przyjdzie z odsieczą?",
+      "link": "https://www.bankier.pl/wiadomosc/Nasdaq-i-S-P500-w-gore-trzecia-sesje-z-rzedu-Czy-Fed-przyjdzie-z-odsiecza-9045664.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 25 Nov 2025 22:05:00 +0100",
       "source": "Bankier.pl"
     },
     {
@@ -259,6 +289,12 @@
       "link": "https://www.rmf24.pl/regiony/krakow/news-krakow-szykuje-podwyzke-cen-biletow-pokazano-nowy-cennik,nId,8043937",
       "pubDate": "Tue, 25 Nov 2025 20:54:39 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Bolsonaro ordered to start serving 27-year prison sentence for Brazil coup plot",
+      "link": "https://www.bbc.com/news/articles/cr4dl19npv5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 25 Nov 2025 19:52:47 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Amerykanie postradali zmysły? Zasilą domy jednym z najbardziej niebezpiecznych wulkanów",
@@ -19868,6 +19904,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -41253,6 +41313,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -49394,6 +49478,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -60494,6 +60602,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80425,66 +80557,6 @@
       "link": "https://kobieta.rp.pl/wywiad/art43346961-sylwia-sudol-odkad-pracuje-jako-ratownik-medyczny-nie-boje-sie-smierci",
       "pubDate": "Tue, 18 Nov 2025 12:01:24 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Trump’s focus on race backfires as voters punish economic failings",
-      "link": "https://www.theguardian.com/business/2025/nov/18/trump-race-inflation",
-      "pubDate": "Tue, 18 Nov 2025 11:00:52 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The Congo basin may be the world’s most important rainforest – why is it the least researched?",
-      "link": "https://www.theguardian.com/environment/2025/nov/18/congo-basin-rainforest-africa-research-funding-aoe",
-      "pubDate": "Tue, 18 Nov 2025 11:00:50 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Przez lata grali na nosie policjantów. Cyberprzestępcy w końcu złapani",
-      "link": "https://antyweb.pl/przez-lata-grali-na-nosie-policjantow-cyberprzestepcy-w-koncu-zlapani",
-      "pubDate": "Tue, 18 Nov 2025 11:00:29 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Latest news bulletin | November 18th, 2025 – Midday",
-      "link": "http://www.euronews.com/video/2025/11/18/latest-news-bulletin-november-18th-2025-midday",
-      "pubDate": "Tue, 18 Nov 2025 12:00:01 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Sejm wybrał Włodzimierza Czarzastego na marszałka. Kto jak głosował?",
-      "link": "https://www.rp.pl/polityka/art43354441-sejm-wybral-wlodzimierza-czarzastego-na-marszalka-kto-jak-glosowal",
-      "pubDate": "Tue, 18 Nov 2025 12:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Włodzimierz Czarzasty nowym marszałkiem. Sejm podjął decyzję",
-      "link": "https://wiadomosci.onet.pl/kraj/wlodzimierz-czarzasty-nowym-marszalkiem-sejm-podjal-decyzje/jjcyb0c",
-      "pubDate": "Tue, 18 Nov 2025 10:59:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowy marszałek Sejmu wybrany",
-      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-nowym-marszalkiem-sejmu-st8757628?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 10:59:46 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wirtualnemedia.pl i Pracuj.pl łączą siły. Jeszcze łatwiejsze szukanie pracy w branży mediów, marketingu i PR",
-      "link": "https://www.wirtualnemedia.pl/nowy-wymiar-rekrutacji-pracuj-pl-partnerem-wirtualne-media-jak-znalexc-prace,7222848653908512a",
-      "pubDate": "Tue, 18 Nov 2025 11:59:46 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Włodzimierz Czarzasty za Szymona Hołownię. Jest decyzja w sprawie marszałka Sejmu",
-      "link": "https://businessinsider.com.pl/wiadomosci/wlodzimierz-czarzasty-za-szymona-holownie-sejm-wybral-marszalka/3whn75d",
-      "pubDate": "Tue, 18 Nov 2025 10:59:43 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Nowy marszałek Sejmu wybrany. Posłowie zdecydowali",
-      "link": "https://wydarzenia.interia.pl/kraj/news-nowy-marszalek-sejmu-wybrany-poslowie-zdecydowali,nId,22455271",
-      "pubDate": "Tue, 18 Nov 2025 10:59:28 GMT",
-      "source": "Interia"
     }
   ]
 }
