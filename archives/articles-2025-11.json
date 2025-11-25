@@ -1,12 +1,30 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T18:52:51.240Z",
+  "generatedAt": "2025-11-25T18:59:45.177Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "How the European Union looks to counter China in Africa",
+      "link": "https://www.dw.com/en/how-the-european-union-looks-to-counter-china-in-africa/a-74888365?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 25 Nov 2025 18:55:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Tysiące lat ciszy przerwane. Afrykański wulkan wybuchł z ogromną siłą",
+      "link": "https://geekweek.interia.pl/nauka/news-wulkan-tarczowy-hayli-gubbi-w-etiopii-wybuchl-po-raz-pierwsz,nId,22459846",
+      "pubDate": "Tue, 25 Nov 2025 18:54:14 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "\"Onet Rano.\" | 26.11",
+      "link": "https://wiadomosci.onet.pl/kraj/onet-rano-or-2611/tz5j5wx",
+      "pubDate": "Tue, 25 Nov 2025 18:51:51 GMT",
+      "source": "Onet"
     },
     {
       "title": "Paweł Zalewski potwierdza RMF FM: Zapis o Polsce usunięty z planu pokojowego",
@@ -19,6 +37,24 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-zbiorowy-gwalt-na-18-latce-w-rzymie-zwrot-akcji-w-sledztwie,nId,8043920",
       "pubDate": "Tue, 25 Nov 2025 19:49:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Jair Bolsonaro ordered to start 27-year prison term for plotting Brazil coup",
+      "link": "https://www.theguardian.com/world/2025/nov/25/jair-bolsonaro-brazil-prison",
+      "pubDate": "Tue, 25 Nov 2025 18:47:39 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Campbell’s Soup executive called its products food for ‘poor people’, lawsuit alleges",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/campbell-soup-executive-comments",
+      "pubDate": "Tue, 25 Nov 2025 18:47:35 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Istanbul rally urges Turkey to rejoin treaty against violence on women",
+      "link": "http://www.euronews.com/video/2025/11/25/istanbul-rally-urges-turkey-to-rejoin-treaty-against-violence-on-women",
+      "pubDate": "Tue, 25 Nov 2025 19:47:09 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Biały Dom mówi o \"znaczących postępach\" w rozmowach pokojowych",
@@ -95,6 +131,12 @@
     {
       "title": "Polka zatrzymana w Niemczech. Jej dzieci od trzech tygodni są w ośrodku",
       "link": "https://wiadomosci.onet.pl/kraj/polka-zatrzymana-w-niemczech-jej-dzieci-od-trzech-tygodni-sa-w-osrodku/8pn8zfk",
+      "pubDate": "Tue, 25 Nov 2025 18:31:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polka trafiła do niemieckiego aresztu. Służby zatrzymały jej troje dzieci",
+      "link": "https://wiadomosci.onet.pl/kraj/polka-trafila-do-niemieckiego-aresztu-sluzby-zatrzymaly-jej-troje-dzieci/8pn8zfk",
       "pubDate": "Tue, 25 Nov 2025 18:31:04 GMT",
       "source": "Onet"
     },
@@ -19268,6 +19310,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -40221,6 +40287,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -48362,6 +48452,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -59246,6 +59360,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79771,72 +79909,6 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/zyrardow-dziesiatki-tysiecy-nielegalnych-papierosow-w-aucie-i-domu-st8757427?source=rss",
       "pubDate": "Tue, 18 Nov 2025 09:30:52 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "UOKiK bierze się za LOT. Chodzi o twój bagaż",
-      "link": "https://antyweb.pl/uokik-bierze-sie-za-lot-chodzi-o-twoj-bagaz",
-      "pubDate": "Tue, 18 Nov 2025 09:30:04 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Kolejny gracz dołącza do wyścigu o właściciela TVN",
-      "link": "https://www.bankier.pl/wiadomosc/Kolejny-gracz-dolacza-do-wyscigu-o-wlasciciela-TVN-9041258.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 18 Nov 2025 10:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Rosja ma plan na Shahedy. Media: obrali niespodziewany cel",
-      "link": "https://tech.wp.pl/rosja-ma-plan-na-shahedy-media-obrali-niespodziewany-cel,7223116071438848a",
-      "pubDate": "Tue, 18 Nov 2025 10:28:51 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Bronisław Komorowski: Głosowanie na Włodzimierza Czarzastego to rzecz wątpliwa moralnie",
-      "link": "https://www.rp.pl/polityka/art43353351-bronislaw-komorowski-glosowanie-na-wlodzimierza-czarzastego-to-rzecz-watpliwa-moralnie",
-      "pubDate": "Tue, 18 Nov 2025 10:27:19 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Fatalne warunki w Tatrach. TPN ostrzega turystów: „Lód może się załamać!”",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-fatalne-warunki-w-tatrach-tpn-ostrzega-turystow-lod-moze-sie,nId,8041570",
-      "pubDate": "Tue, 18 Nov 2025 10:26:51 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Szef Google'a ostrzega: każda firma to odczuje",
-      "link": "https://tvn24.pl/biznes/tech/szef-google-sundar-pichai-ostrzega-kazda-firma-to-odczuje-st8757372?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 09:26:50 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zniknęła na dwa dni. Znaleźli ją w zaroślach, \"po kolana w błocie\"",
-      "link": "https://tvn24.pl/lublin/lukow-73-latka-zniknela-na-dwa-dni-utknela-w-zaroslach-po-kolana-w-blocie-st8757350?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 09:26:01 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wiadomo, kiedy ruszy nowy system transakcyjny GPW",
-      "link": "https://www.bankier.pl/wiadomosc/GPW-planuje-uruchomienie-systemu-GPW-WATS-w-II-kw-26-ostatnia-proba-generalna-9-maja-9041256.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 18 Nov 2025 10:26:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Prowly.com daje więcej za resztę akcji Brand24. Kolejna oferta",
-      "link": "https://www.wirtualnemedia.pl/brand24-kurs-akcji-na-gieldzie-prowly-com-oferuje-kupno,7223118687693344a",
-      "pubDate": "Tue, 18 Nov 2025 10:25:11 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Rząd szykuję podwyżkę opłat drogowych. Nawet o 42 proc.",
-      "link": "https://businessinsider.com.pl/technologie/motoryzacja/nowe-stawki-e-toll-juz-od-lutego-przewoznicy-zaplaca-duzo-wiecej/g3164fs",
-      "pubDate": "Tue, 18 Nov 2025 09:24:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ceny w sklepach znów w górę. Dwa produkty stały się królami drożyzny",
-      "link": "https://biznes.interia.pl/finanse/news-inflacja-spada-ale-codzienne-zakupy-drozeja-dwaj-liderzy-wzr,nId,22455279",
-      "pubDate": "Tue, 18 Nov 2025 09:24:36 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
