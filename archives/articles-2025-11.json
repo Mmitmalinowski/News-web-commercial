@@ -1,12 +1,60 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T03:44:57.942Z",
+  "generatedAt": "2025-11-25T04:04:55.825Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Od niewinnego snippetu do RCE – podatność XSS w Open WebUI",
+      "link": "https://sekurak.pl/od-niewinnego-snippetu-do-rce-podatnosc-xss-w-open-webui/",
+      "pubDate": "Tue, 25 Nov 2025 04:01:00 +0000",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Drapacz chmur w alpejskim kurorcie. Ma być wyższy niż Pałac Kultury i Nauki",
+      "link": "https://sukces.rp.pl/architektura/art43388611-drapacz-chmur-w-alpejskim-kurorcie-ma-byc-wyzszy-niz-palac-kultury-i-nauki",
+      "pubDate": "Tue, 25 Nov 2025 05:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Amnestia dla Putina za zbrodnie na Ukrainie byłaby mało skuteczna",
+      "link": "https://www.rp.pl/prawo-na-swiecie/art43388341-amnestia-dla-putina-za-zbrodnie-na-ukrainie-bylaby-malo-skuteczna",
+      "pubDate": "Tue, 25 Nov 2025 04:58:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Mniej pełnomocników na walnych zgromadzeniach. Posłowie zmienili projekt nowelizacji ustawy o spółdzielniach mieszkaniowych",
+      "link": "https://www.rp.pl/nieruchomosci/art43388491-mniej-pelnomocnikow-na-walnych-zgromadzeniach-poslowie-zmienili-projekt-nowelizacji-ustawy-o-spoldzielniach-mieszkaniowych",
+      "pubDate": "Tue, 25 Nov 2025 04:57:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1371",
+      "link": "https://www.rp.pl/swiat/art43393111-wojna-rosji-z-ukraina-dzien-1371",
+      "pubDate": "Tue, 25 Nov 2025 04:50:26 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Labor’s attempts to woo Greens and Coalition on nature laws revealed amid criticism of ‘coin toss’",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/25/labors-attempts-to-woo-greens-and-coalition-on-nature-laws-revealed-amid-criticism-of-coin-toss",
+      "pubDate": "Tue, 25 Nov 2025 03:47:54 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Gdzie jest granica ograniczania prawa ojca do kontaktów z dzieckiem?",
+      "link": "https://www.rp.pl/prawo-rodzinne/art43387701-gdzie-jest-granica-ograniczania-prawa-ojca-do-kontaktow-z-dzieckiem",
+      "pubDate": "Tue, 25 Nov 2025 04:45:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nocny wpis Wołodymyra Zełenskiego na X. Prezydent Ukrainy nie ma wątpliwości",
+      "link": "https://wiadomosci.onet.pl/swiat/nocny-wpis-wolodymyra-zelenskiego-na-x-prezydent-ukrainy-nie-ma-watpliwosci/5lvbgys",
+      "pubDate": "Tue, 25 Nov 2025 03:42:49 GMT",
+      "source": "Onet"
     },
     {
       "title": "Marcin Matczak przyciąga tłumy. Czy tata Maty chce być prezydentem?",
@@ -12098,6 +12146,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -30981,6 +31053,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -39122,6 +39218,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -48974,6 +49094,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -85376,294 +85520,6 @@
           "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "86",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-17T14:47:18Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Brawo policja! Mikołaj, który podszywał się m.in. pod Niebezpiecznika został w końcu zatrzymany",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "88",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/cyberpodszywacz-marcinnowak2080-zatrzymany-aresztowany-podszywacz/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "88",
           "@_type": "application/atom+xml"
         }
       ],
