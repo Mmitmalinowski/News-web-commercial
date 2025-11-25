@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T22:54:02.774Z",
+  "generatedAt": "2025-11-25T23:13:19.031Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
@@ -9,8 +9,44 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Państwowy i konkurencyjny. Specyfika spółek Skarbu Państwa",
+      "link": "https://www.rp.pl/wydarzenia-gospodarcze/art43397711-panstwowy-i-konkurencyjny-specyfika-spolek-skarbu-panstwa",
+      "pubDate": "Wed, 26 Nov 2025 00:01:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Hazard i wartości – trudny związek czy trwały sojusz? Eksperci ocenili, czy da się je połączyć",
+      "link": "https://www.rp.pl/wydarzenia-gospodarcze/art43397661-hazard-i-wartosci-trudny-zwiazek-czy-trwaly-sojusz-eksperci-ocenili-czy-da-sie-je-polaczyc",
+      "pubDate": "Wed, 26 Nov 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "KGHM stawia na inwestycje i local content",
+      "link": "https://energia.rp.pl/nowa-energia/art43398631-kghm-stawia-na-inwestycje-i-local-content",
+      "pubDate": "Wed, 26 Nov 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wyzwania współczesnej ekonomii",
+      "link": "https://www.rp.pl/wydarzenia-gospodarcze/art43397641-wyzwania-wspolczesnej-ekonomii",
+      "pubDate": "Wed, 26 Nov 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wołodymyr Zełenski: z amerykańską siłą Rosja liczy się najbardziej",
+      "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-z-amerykanska-sila-rosja-liczy-sie-najbardziej/md7m710",
+      "pubDate": "Tue, 25 Nov 2025 22:58:07 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Brutalny atak na kierowców MPK. Sprawcy użyli gazu pieprzowego",
       "link": "https://www.rmf24.pl/regiony/wroclaw/news-brutalny-atak-na-kierowcow-mpk-sprawcy-uzyli-gazu-pieprzoweg,nId,8043962",
+      "pubDate": "Tue, 25 Nov 2025 23:51:06 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Brutalny atak na kierowców MPK. Sprawca użył gazu pieprzowego",
+      "link": "https://www.rmf24.pl/regiony/wroclaw/news-brutalny-atak-na-kierowcow-mpk-sprawca-uzyl-gazu-pieprzowego,nId,8043962",
       "pubDate": "Tue, 25 Nov 2025 23:51:06 +0100",
       "source": "RMF24"
     },
@@ -20054,6 +20090,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -41775,6 +41835,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -49916,6 +50000,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -61184,6 +61292,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80929,66 +81061,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-czarzasty-nowym-marszalkiem-kto-z-koalicji-sie-wylamal,nId,22455391",
       "pubDate": "Tue, 18 Nov 2025 11:37:15 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Black Friday 2025. Ile planujemy wydać i co chcemy kupować?",
-      "link": "https://geekweek.interia.pl/lifestyle/news-ile-wydamy-w-black-friday-2025-polacy-znow-rusza-do-sklepow,nId,22453628",
-      "pubDate": "Tue, 18 Nov 2025 11:37:07 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Kto z koalicji nie poparł Czarzastego? Szczegółowe wyniki głosowania",
-      "link": "https://www.rmf24.pl/polityka/news-kto-z-koalicji-nie-poparl-czarzastego-szczegolowe-wyniki-glo,nId,8041624",
-      "pubDate": "Tue, 18 Nov 2025 12:37:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "\"Musieliśmy znaleźć sposób, by się wyróżnić\"",
-      "link": "https://businessinsider.com.pl/biznes/media/musielismy-znalezc-sposob-by-sie-wyroznic/jhdhx1f",
-      "pubDate": "Tue, 18 Nov 2025 11:36:05 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Cena tego pierwiastka skoczyła o 4400 proc. Dlaczego jest tak ważny?",
-      "link": "https://www.money.pl/gielda/cena-tego-pierwiastka-skoczyla-o-4400-proc-dlaczego-jest-tak-wazny-7223095062931968a.html",
-      "pubDate": "Tue, 18 Nov 2025 12:35:06 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Lekarze chcą rozmowy z Tuskiem i Nawrockim. Pacjenci szukają wsparcia w Sejmie",
-      "link": "https://tvn24.pl/zdrowie/nil-apeluje-o-spotkanie-z-premierem-i-prezydentem-lekarze-i-pacjenci-alarmuja-o-kryzysie-w-ochronie-zdrowia-st8757783?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:34:40 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Przemysław Czarnek nagle zaczął cytować Bronisława Komorowskiego. \"Nie sądziłem\" [WIDEO]",
-      "link": "https://wiadomosci.onet.pl/kraj/czarnek-nagle-zaczal-cytowac-komorowskiego-nie-sadzilem-wideo/mx671c4",
-      "pubDate": "Tue, 18 Nov 2025 11:34:40 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poseł KO nie zagłosował za kandydaturą Włodzimierza Czarzastego. \"To nie miejsce na klub seniora\"",
-      "link": "https://wiadomosci.onet.pl/kraj/posel-ko-nie-zaglosowal-za-kandydatura-czarzastego-to-nie-miejsce-na-klub-seniora/ghwdkbv",
-      "pubDate": "Tue, 18 Nov 2025 11:33:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poseł KO nie zagłosował za kandydaturą Włodzimierza Czarzastego. \"To nie miejsce na klub seniora\"",
-      "link": "https://wiadomosci.onet.pl/kraj/posel-ko-nie-zaglosowal-za-kandydatura-czarzastego-to-nie-klub-seniora/ghwdkbv",
-      "pubDate": "Tue, 18 Nov 2025 11:33:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Australia will not oppose Turkey staging Cop31 as Albanese signals policy shift",
-      "link": "https://www.theguardian.com/environment/2025/nov/18/australia-will-not-oppose-turkey-staging-cop31-as-albanese-signals-policy-shift",
-      "pubDate": "Tue, 18 Nov 2025 11:31:50 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rzeki wystąpiły z brzegów. Stan wyjątkowy, szukają zaginionych",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/boliwia-rzeki-wystapily-z-brzegow-stan-wyjatkowy-sa-zaginieni-st8757680?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:31:44 GMT",
-      "source": "TVN24"
     }
   ]
 }
