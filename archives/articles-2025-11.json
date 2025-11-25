@@ -1,12 +1,54 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T22:01:55.184Z",
+  "generatedAt": "2025-11-25T22:29:56.324Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Waldemar Żurek o wyroku TSUE w sprawie małżeństw jednopłciowych: będziemy musieli w jakiś sposób wdrożyć",
+      "link": "https://wiadomosci.onet.pl/kraj/waldemar-zurek-o-malzenstwach-jednoplciowych-po-wyroku-tsue/3bdgeg2",
+      "pubDate": "Tue, 25 Nov 2025 22:14:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Mark Read obejmuje stery Kantar Media. HIG Capital stawia na AI i ekspansję",
+      "link": "https://www.wirtualnemedia.pl/mark-read-obejmuje-stery-kantar-media-hig-capital-stawia-na-ai-i-ekspansje,7225323188488736a",
+      "pubDate": "Tue, 25 Nov 2025 23:11:48 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Officials find source of leak in Olympic Pipeline two weeks after first report",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/olympic-pipeline-leak-washington-oregon",
+      "pubDate": "Tue, 25 Nov 2025 22:09:20 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Człowiek Trumpa miał doradzać Rosjanom. Media ujawniły nagrania rozmów",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-czlowiek-trumpa-mial-doradzac-rosjanom-media-ujawnily-nagran,nId,22460259",
+      "pubDate": "Tue, 25 Nov 2025 22:09:05 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Najpotężniejszy asystent zakupów w ChatGPT. Sprawdzamy działanie",
+      "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-analiza-zakupow-w-chatgpt-tak-poteznego-asystenta-jeszcze-ni,nId,22460077",
+      "pubDate": "Tue, 25 Nov 2025 22:00:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "\"Zorganizujmy rozmowę\". Media: Witkoff radził człowiekowi Putina ",
+      "link": "https://tvn24.pl/swiat/bloomberg-steve-witkoff-wyslannik-prezydenta-usa-donalda-trumpa-udzielal-rosjanom-rad-co-wladimir-putin-powinien-powiedziec-prezydentowi-usa-st8771630?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 22:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Mother who hid children’s bodies in suitcases jailed for life in New Zealand",
+      "link": "https://www.theguardian.com/world/2025/nov/25/mother-who-hid-childrens-bodies-in-suitcases-jailed-for-life-in-new-zealand",
+      "pubDate": "Tue, 25 Nov 2025 21:58:14 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Apel papieża Leona XIV: Na Ukrainie konieczne jest zawieszenie broni",
@@ -19946,6 +19988,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -41523,6 +41589,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -49664,6 +49754,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -60860,6 +60974,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80707,72 +80845,6 @@
       "link": "https://android.com.pl/tech/992416-do-czego-sluza-kolorowe-kule/",
       "pubDate": "Tue, 18 Nov 2025 11:19:53 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Czarzasty \"bardzo zestresowany\" nową funkcją. Jakim będzie marszałkiem?",
-      "link": "https://tvn24.pl/polska/wlodzimierz-czarzasty-bardzo-zestresowany-nowa-funkcja-jakim-bedzie-marszalkiem-sejmu-st8757700?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:18:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Pracownicy TVP żądają dodatkowych pieniędzy na święta. Padła konkretna kwota",
-      "link": "https://businessinsider.com.pl/wiadomosci/pracownicy-tvp-chca-dodatkowych-pieniedzy-na-swieta-minimum-2-tys-zl/zkp8rb9",
-      "pubDate": "Tue, 18 Nov 2025 11:18:40 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Archeolodzy odkryli pod wodą ruiny. \"Atlantyda Kirgistanu\"",
-      "link": "https://geekweek.interia.pl/nauka/news-zatopione-miasto-na-dnie-jeziora-archeolodzy-odkryli-liczne,nId,22455199",
-      "pubDate": "Tue, 18 Nov 2025 11:18:22 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Zderzenie z ciężarówką, droga zablokowana",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/sielc-ostrow-mazowiecka-dk60-zderzenie-na-drodze-krajowej-numer-60-utrudnienia-objazdy-st8757789?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:17:55 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nowe zasady pisowni. Rada Języka Polskiego wycofuje się z jednej zmiany",
-      "link": "https://tvn24.pl/polska/nowe-zasady-pisowni-rada-jezyka-polskiego-wycofuje-sie-z-jednej-zmiany-st8757614?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:16:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nowe zasady pisowni? RJP wycofuje ważną zmianę",
-      "link": "https://tvn24.pl/polska/nowe-zasady-pisowni-rjp-wycofuje-wazna-zmiane-st8757614?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:16:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Projektor laserowy: zachwycająca jakość i bezproblemowa obsługa na wyciągnięcie ręki. Wybieramy najciekawsze",
-      "link": "https://antyweb.pl/projektor-laserowy-zachwycajaca-jakosc-i-bezproblemowa-obsluga-na-wyciagniecie-reki",
-      "pubDate": "Tue, 18 Nov 2025 11:15:35 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Gorąca dyskusja o dywersji w Sejmie. Poseł PiS grzmi o dymisji [RELACJA NA ŻYWO]",
-      "link": "https://wiadomosci.onet.pl/kraj/goraca-dyskusja-o-dywersji-w-sejmie-posel-pis-grzmi-o-dymisji-relacja-na-zywo/hnn9qv5",
-      "pubDate": "Tue, 18 Nov 2025 11:13:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Negocjacje z udziałem Wołodymyra Zełenskiego w Stambule. Zabraknie przedstawiciela Rosji",
-      "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-przybedzie-do-stambulu-zabraknie-za-to-przedstawiciela-rosji/sm345nc",
-      "pubDate": "Tue, 18 Nov 2025 11:13:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Murapol zapowiada mocny finisz w IV kwartale. W centrum uwagi marże",
-      "link": "https://www.rp.pl/nieruchomosci/art43353961-murapol-zapowiada-mocny-finisz-w-iv-kwartale-w-centrum-uwagi-marze",
-      "pubDate": "Tue, 18 Nov 2025 12:12:55 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Four men in Swedish ‘active club’ jailed over racially motivated assaults",
-      "link": "https://www.theguardian.com/world/2025/nov/18/four-men-in-swedish-active-club-jailed-over-racially-motivated-assaults",
-      "pubDate": "Tue, 18 Nov 2025 11:11:59 GMT",
-      "source": "The Guardian"
     }
   ]
 }
