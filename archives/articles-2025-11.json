@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T21:52:07.158Z",
+  "generatedAt": "2025-11-25T22:01:55.184Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
@@ -9,16 +9,40 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Apel papieża Leona XIV: Na Ukrainie konieczne jest zawieszenie broni",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-apel-papieza-leona-xiv-na-ukrainie-konieczne-jest-zawieszeni,nId,8043947",
+      "pubDate": "Tue, 25 Nov 2025 22:56:29 +0100",
+      "source": "RMF24"
+    },
+    {
       "title": "Smak, który dojrzewa z naturą. Vortumnus wprowadza nową linię przetworów - 80% owoców, bez dodatku cukru",
       "link": "https://www.wirtualnemedia.pl/smak-ktory-dojrzewa-z-natura-vortumnus-wprowadza-nowa-linie-przetworow-80-owocow-bez-dodatku-cukru,7225782103853600a",
       "pubDate": "Tue, 25 Nov 2025 22:48:27 +0100",
       "source": "Wirtualnemedia.pl"
     },
     {
+      "title": "Trump envoy reportedly told Kremlin official that Ukraine must cede land for peace deal",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/trump-envoy-on-russia-ukraine-peace-deal",
+      "pubDate": "Tue, 25 Nov 2025 21:47:54 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "Wysłannik Donalda Trumpa miał doradzać przedstawicielowi Putina - Bloomberg",
       "link": "https://wiadomosci.onet.pl/swiat/steve-witkoff-mial-doradzac-jurijowi-uszakowowi-przed-rozmowa-trump-putin-media/je5h530",
       "pubDate": "Tue, 25 Nov 2025 21:46:06 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Gobble-degook: Trump talks turkey and trashes another presidential tradition",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/thanksgiving-trump-turkey-tradition",
+      "pubDate": "Tue, 25 Nov 2025 21:36:00 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Louisiana official who called Covid-19 vaccines ‘dangerous’ given key CDC post",
+      "link": "https://www.theguardian.com/us-news/2025/nov/25/ralph-abraham-deputy-cdc-director",
+      "pubDate": "Tue, 25 Nov 2025 21:35:58 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Ukraińcy pokazują przestarzałe mapy? Media: Sytuacja jest znacznie gorsza",
@@ -19922,6 +19946,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -41451,6 +41499,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -49592,6 +49664,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -60764,6 +60860,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80653,54 +80773,6 @@
       "link": "https://www.theguardian.com/world/2025/nov/18/four-men-in-swedish-active-club-jailed-over-racially-motivated-assaults",
       "pubDate": "Tue, 18 Nov 2025 11:11:59 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Sojusznik Putina dostarcza te drony. \"Są niezbadane\"",
-      "link": "https://tech.wp.pl/sojusznik-putina-dostarcza-te-drony-sa-niezbadane,7223139918100992a",
-      "pubDate": "Tue, 18 Nov 2025 12:11:55 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Ameryka zaniepokojona sabotażem w Polsce. \"To ma znaczenie dla całego świata\"",
-      "link": "https://biznes.interia.pl/polityka/news-ameryka-zaniepokojona-sabotazem-w-polsce-to-ma-znaczenie-dla,nId,22455282",
-      "pubDate": "Tue, 18 Nov 2025 11:11:39 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Crypto darling no more? Bitcoin drops from its high as market panics",
-      "link": "http://www.euronews.com/business/2025/11/18/crypto-darling-no-more-bitcoin-drops-from-its-high-as-market-panics",
-      "pubDate": "Tue, 18 Nov 2025 12:10:55 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Tyle wydamy na Black Friday. Jest badanie",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/tyle-wydamy-na-black-friday-jest-badanie/9j00x4c",
-      "pubDate": "Tue, 18 Nov 2025 11:10:02 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "At least 15 English sewage plants use plastic beads spilled at Camber Sands",
-      "link": "https://www.theguardian.com/environment/2025/nov/18/at-least-15-english-sewage-plants-use-plastic-beads-spilled-at-camber-sands",
-      "pubDate": "Tue, 18 Nov 2025 11:10:01 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"Mapy muszą zostać zmienione\". Ceniony strateg z USA tłumaczy potajemne ruchy Ukrainy w Rosji. O tym się nie mówi",
-      "link": "https://wiadomosci.onet.pl/swiat/mapy-musza-zostac-zmienione-potajemne-ruchy-ukrainy-w-rosji-strateg-z-usa-tlumaczy/vb7h3l4",
-      "pubDate": "Tue, 18 Nov 2025 11:09:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "UE tnie wydatki na zdrowie, a oczekiwania rosną",
-      "link": "https://www.rp.pl/ochrona-zdrowia/art43354341-ue-tnie-wydatki-na-zdrowie-a-oczekiwania-rosna",
-      "pubDate": "Tue, 18 Nov 2025 12:09:09 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wywróciła się ciężarówka z dwoma cysternami. Duże utrudnienia",
-      "link": "https://tvn24.pl/olsztyn/nowy-probark-wywrocila-sie-ciezarowka-z-dwoma-cysternami-duze-utrudnienia-w-ruchu-st8757740?source=rss",
-      "pubDate": "Tue, 18 Nov 2025 11:07:58 GMT",
-      "source": "TVN24"
     }
   ]
 }
