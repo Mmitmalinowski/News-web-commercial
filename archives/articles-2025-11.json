@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-25T20:40:32.013Z",
+  "generatedAt": "2025-11-25T20:52:12.201Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "\"Nauczycielka roku\" aresztowana za znęcanie się nad synem",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-nauczycielka-roku-aresztowana-za-znecanie-sie-nad-synem,nId,8043943",
+      "pubDate": "Tue, 25 Nov 2025 21:50:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Waldemar Żurek o sprawie Grzegorza Brauna. \"Młyny sprawiedliwości go dopadną\"",
+      "link": "https://wiadomosci.onet.pl/kraj/waldemar-zurek-o-sprawie-brauna-mlyny-sprawiedliwosci-go-dopadna/smtbmel",
+      "pubDate": "Tue, 25 Nov 2025 20:46:31 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Pokój w Ukrainie coraz bliżej? Radosław Sikorski: to idzie w lepszym kierunku",
+      "link": "https://wiadomosci.onet.pl/swiat/radoslaw-sikorski-o-mozliwym-pokoju-idzie-w-lepszym-kierunku/n4qq0en",
+      "pubDate": "Tue, 25 Nov 2025 20:44:15 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rośnie kumulacja w Eurojackpot",
+      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-25-listopada-2025-liczby-i-wygrane-z-ostatniego-losowania-st8771597?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 20:43:57 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Deadly floods hit southern Thailand after heavy rains",
+      "link": "https://www.dw.com/en/deadly-floods-hit-southern-thailand-after-heavy-rains/a-74897131?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 25 Nov 2025 20:41:00 GMT",
+      "source": "DW"
     },
     {
       "title": "Zrabowane milion euro w monetach z parkometrów. Służby ujęły podejrzanych",
@@ -6545,6 +6575,12 @@
     {
       "title": "Pomarańczowe alarmy w części kraju. IMGW ostrzega",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-pomaranczowe-alarmy-w-czesci-kraju-st8769674?source=rss",
+      "pubDate": "Tue, 25 Nov 2025 06:04:41 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Śnieg i roztopy. Ostrzeżenia IMGW są w mocy. Mają aż drugi stopień",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-intensywne-opady-sniegu-roztopy-pomaranczowe-alarmy-w-czesci-kraju-st8769674?source=rss",
       "pubDate": "Tue, 25 Nov 2025 06:04:41 GMT",
       "source": "TVN24"
     },
@@ -19772,6 +19808,30 @@
           "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "11",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "11",
           "@_type": "application/atom+xml"
         }
       ],
@@ -41061,6 +41121,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -49202,6 +49286,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
@@ -60254,6 +60362,30 @@
           "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "26",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "29",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "29",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80281,66 +80413,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Dywersja-na-kolei-inicjowana-przez-rosyjskie-sluzby-Mozna-powiedziec-zamach-terrorystyczny-9041317.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 18 Nov 2025 11:52:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Czeski biznesmen zostanie trzecim największym akcjonariuszem TotalEnergies",
-      "link": "https://www.bankier.pl/wiadomosc/Czeski-biznesmen-zostanie-trzecim-najwiekszym-akcjonariuszem-TotalEnergies-9041318.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 18 Nov 2025 11:52:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Energy price cap in Great Britain expected to fall in January – but higher bills loom",
-      "link": "https://www.theguardian.com/money/2025/nov/18/energy-price-cap-great-britain-fall-january-higher-bills",
-      "pubDate": "Tue, 18 Nov 2025 10:48:41 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Crest Nicholson plans job cuts and warns on profits, blaming budget uncertainty",
-      "link": "https://www.theguardian.com/business/2025/nov/18/crest-nicholson-job-cuts-warns-profits-budget-property-taxes",
-      "pubDate": "Tue, 18 Nov 2025 10:48:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nabici w fotowoltaiczną butelkę. Słońce nie zawsze się opłaca",
-      "link": "https://android.com.pl/finanse/991647-nabici-w-butelke-fotowoltaika/",
-      "pubDate": "Tue, 18 Nov 2025 10:47:37 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "\"To było jak eksplozja\". Niemiec poświęcił swoje życie",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-to-bylo-jak-eksplozja-niemiec-poswiecil-swoje-zycie,nId,22455347",
-      "pubDate": "Tue, 18 Nov 2025 10:47:04 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Rosja i USA negocjują wymianę więźniów. Kogo mogłaby objąć?",
-      "link": "https://www.rp.pl/dyplomacja/art43354281-rosja-i-usa-negocjuja-wymiane-wiezniow-kogo-moglaby-objac",
-      "pubDate": "Tue, 18 Nov 2025 11:47:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Mniej energii. \"Globalnie ślad energetyczny AI jest niezauważalny\"",
-      "link": "https://tech.wp.pl/czy-jest-zle-globalnie-slad-energetyczny-ai-jest-niezauwazalny,7223123523037696a",
-      "pubDate": "Tue, 18 Nov 2025 11:45:39 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Eksperci nie mają wątpliwości po sabotażu. \"Nowy wymiar konfliktu\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-eksperci-nie-maja-watpliwosci-po-sabotazu-nowy-wymiar-konfli,nId,22455173",
-      "pubDate": "Tue, 18 Nov 2025 10:45:21 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Paweł Kowal ostrzega przed planem Putina. \"Wchodzimy w kolejną fazę\"",
-      "link": "https://wiadomosci.onet.pl/kraj/pawel-kowal-komentuje-sabotaz-na-kolei-ostrzega-przed-planem-putina/vrnnlpf",
-      "pubDate": "Tue, 18 Nov 2025 10:45:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jeśli wybuchnie wojna, wsparcie prędko nie nadejdzie. Przynajmniej teraz",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-jesli-wybuchnie-wojna-wsparcie-predko-nie-nadejdzie-przynajm,nId,8041585",
-      "pubDate": "Tue, 18 Nov 2025 11:44:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
