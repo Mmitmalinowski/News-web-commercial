@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-26T21:22:10.453Z",
+  "generatedAt": "2025-11-26T21:33:47.340Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
@@ -9,10 +9,34 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Thailand scrambles to help flood-hit Hai Yat",
+      "link": "https://www.dw.com/en/thailand-scrambles-to-help-flood-hit-hai-yat/a-74912404?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 26 Nov 2025 21:32:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Obowiązkowa służba wojskowa. Zdecydowana deklaracja Kosiniaka-Kamysza",
+      "link": "https://wydarzenia.interia.pl/kraj/news-obowiazkowa-sluzba-wojskowa-zdecydowana-deklaracja-kosiniaka,nId,22460698",
+      "pubDate": "Wed, 26 Nov 2025 21:28:11 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Bułgaria protestuje. Ludzie wyszli na ulice, zamieszanie w parlamencie",
+      "link": "https://wiadomosci.onet.pl/swiat/bulgaria-protestuje-ludzie-wyszli-na-ulice-zamieszanie-w-parlamencie/9y55ftv",
+      "pubDate": "Wed, 26 Nov 2025 21:26:17 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "​Zamieszanie wokół Waldemara Budy. Czy grozi mu zawieszenie w partii?",
       "link": "https://www.rmf24.pl/polityka/news-zamieszanie-wokol-waldemara-budy-czy-grozi-mu-zawieszenie-w-,nId,8044269",
       "pubDate": "Wed, 26 Nov 2025 22:13:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Labor strikes deal with Greens to pass long-awaited overhaul of nature protection laws",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/27/labor-strikes-deal-with-greens-to-pass-long-awaited-overhaul-of-nature-protection-laws",
+      "pubDate": "Wed, 26 Nov 2025 21:11:44 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Rośnie tragiczny bilans pożaru w Hongkongu. Policja poinformowała o pierwszych zatrzymaniach",
@@ -273,6 +297,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Strzały w okolicach Białego Domu. Gubernator o  \"sprzecznych informacjach\" ",
+      "link": "https://tvn24.pl/swiat/strzaly-w-okolicach-bialego-domu-gubernator-o-sprzecznych-informacjach-st8773482?source=rss",
+      "pubDate": "Wed, 26 Nov 2025 20:04:36 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Alarm w Białym Domu. W pobliżu doszło do strzelaniny",
       "link": "https://www.rmf24.pl/fakty/swiat/news-alarm-w-bialym-domu-w-poblizu-doszlo-do-strzelaniny,nId,8044263",
       "pubDate": "Wed, 26 Nov 2025 21:04:28 +0100",
@@ -299,6 +329,12 @@
     {
       "title": "Strzelanina w pobliżu Białego Domu. Dwaj żołnierze nie żyją",
       "link": "https://wydarzenia.interia.pl/zagranica/news-strzelanina-w-poblizu-bialego-domu-dwaj-zolnierze-nie-zyja,nId,22460694",
+      "pubDate": "Wed, 26 Nov 2025 20:03:29 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Strzelanina w pobliżu Białego Domu. Ostra reakcja Trumpa",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-strzelanina-w-poblizu-bialego-domu-ostra-reakcja-trumpa,nId,22460694",
       "pubDate": "Wed, 26 Nov 2025 20:03:29 GMT",
       "source": "Interia"
     },
@@ -3163,6 +3199,30 @@
       "link": "https://spidersweb.pl/2025/11/plus-rozwija-5g-czujesz-roznice.html",
       "pubDate": "Wed, 26 Nov 2025 14:33:54 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
@@ -31899,6 +31959,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -53685,6 +53769,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -64184,6 +64292,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77571,6 +77703,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.11.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-11-2025-7223852305324544a.html",
       "pubDate": "Thu, 20 Nov 2025 12:13:09 +0100",
@@ -84541,72 +84697,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-polska-podwyzsza-poziom-alarmowy-co-trzeba-wiedziec-o-nowym,nId,22455901",
       "pubDate": "Wed, 19 Nov 2025 13:46:19 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Zima rozgości się na dobre. Mróz utrzyma się nawet za dnia",
-      "link": "https://wydarzenia.interia.pl/kraj/news-zima-rozgosci-sie-na-dobre-mroz-utrzyma-sie-nawet-za-dnia,nId,22455985",
-      "pubDate": "Wed, 19 Nov 2025 13:46:08 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Były prezes wielkiej chińskiej firmy skazany na karę śmierci. Ma ostatnią szansę",
-      "link": "https://businessinsider.com.pl/wiadomosci/byly-prezes-wielkiej-chinskiej-firmy-skazany-na-kare-smierci-za-korupcje/2w6gxj4",
-      "pubDate": "Wed, 19 Nov 2025 13:45:44 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Marcin Kącki musi zamówić dodruk swojej książki o dziennikarstwie \"Bez znieczulenia\"",
-      "link": "http://www.press.pl/tresc/90357,marcin-kacki-musi-zamowic-dodruk-swojej-ksiazki-o-dziennikarstwie-_bez-znieczulenia_?rss=1",
-      "pubDate": "Wed, 19 Nov 2025 14:45:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Polski debiut Samsung Smart Keyboard, klawiatury dla urządzeń mobilnych",
-      "link": "https://www.chip.pl/2025/11/polski-debiut-samsung-smart-keyboard",
-      "pubDate": "Wed, 19 Nov 2025 13:45:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Amazon przegrywa w sądzie. Firma oceniła wyrok jako \"rozczarowujący\"",
-      "link": "https://biznes.interia.pl/firma/news-ue-wzmacnia-kontrole-nad-amazonem-sad-oddalil-skarge-giganta,nId,22455997",
-      "pubDate": "Wed, 19 Nov 2025 13:44:39 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Akty dywersji w Polsce. Szef MON: aktywujemy operację \"Horyzont\"",
-      "link": "https://wiadomosci.onet.pl/kraj/akty-dywersji-w-polsce-szef-mon-aktywujemy-operacje-horyzont/6yx5svs",
-      "pubDate": "Wed, 19 Nov 2025 13:44:36 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Polsat będzie kontynuować teleturniej \"Milionerzy\". Nowe odcinki w wiosennej ramówce",
-      "link": "http://www.press.pl/tresc/90356,polsat-bedzie-kontynuowac-teleturniej-_milionerzy__-nowe-odcinki-w-wiosennej-ramowce?rss=1",
-      "pubDate": "Wed, 19 Nov 2025 14:44:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Wiosna w TVN bez programu z serii \"MasterChef\". Po raz pierwszy od 10 lat",
-      "link": "http://www.press.pl/tresc/90355,wiosna-w-tvn-bez-programu-z-serii-_masterchef__-po-raz-pierwszy-od-10-lat?rss=1",
-      "pubDate": "Wed, 19 Nov 2025 14:43:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Meta nie musi sprzedawać WhatsAppa i Instagrama. Firma Zuckerberga wygrywa proces",
-      "link": "http://www.press.pl/tresc/90354,meta-nie-musi-sprzedawac-whatsappa-i-instagrama_-firma-zuckerberga-wygrywa-proces?rss=1",
-      "pubDate": "Wed, 19 Nov 2025 14:42:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "A roadmap to move away from fossil fuels would be a big deal",
-      "link": "https://www.dw.com/en/a-roadmap-to-move-away-from-fossil-fuels-would-be-a-big-deal/a-74806037?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 19 Nov 2025 13:42:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Why a roadmap to move away from fossil fuels matters",
-      "link": "https://www.dw.com/en/why-a-roadmap-to-move-away-from-fossil-fuels-matters/a-74806037?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 19 Nov 2025 13:42:00 GMT",
-      "source": "DW"
     }
   ]
 }
