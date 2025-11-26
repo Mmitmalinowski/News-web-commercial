@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-26T23:16:37.777Z",
+  "generatedAt": "2025-11-26T23:31:47.666Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
@@ -479,6 +479,12 @@
     {
       "title": "Strzelanina nieopodal Białego Domu. Nie żyją dwie osoby",
       "link": "https://www.rmf24.pl/fakty/swiat/news-strzelanina-nieopodal-bialego-domu-nie-zyja-dwie-osoby,nId,8044263",
+      "pubDate": "Wed, 26 Nov 2025 21:04:28 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Strzelanina nieopodal Białego Domu. Nowe informacje",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-strzelanina-nieopodal-bialego-domu-nowe-informacje,nId,8044263",
       "pubDate": "Wed, 26 Nov 2025 21:04:28 +0100",
       "source": "RMF24"
     },
@@ -3385,6 +3391,30 @@
       "link": "https://spidersweb.pl/2025/11/plus-rozwija-5g-czujesz-roznice.html",
       "pubDate": "Wed, 26 Nov 2025 14:33:54 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
@@ -32505,6 +32535,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -54483,6 +54537,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -64982,6 +65060,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -78753,6 +78855,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.11.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-11-2025-7223852305324544a.html",
       "pubDate": "Thu, 20 Nov 2025 12:13:09 +0100",
@@ -85291,42 +85417,6 @@
       "link": "https://www.rp.pl/konsumenci/art43362241-zniknie-zwolnienie-z-cla-dla-malych-przesylek-z-chin-zakupy-na-shein-mniej-oplacalne",
       "pubDate": "Wed, 19 Nov 2025 15:32:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Portuguese doctor arrested for prescribing Ozempic to fake diabetics, defrauding state of €3 million",
-      "link": "http://www.euronews.com/health/2025/11/19/portuguese-doctor-arrested-for-prescribing-ozempic-to-fake-diabetics-defrauding-state-of-3",
-      "pubDate": "Wed, 19 Nov 2025 15:30:37 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Akty dywersji na kolei. Są zarzuty dla dwóch Ukraińców",
-      "link": "https://wydarzenia.interia.pl/kraj/news-akty-dywersji-na-kolei-sa-zarzuty-dla-dwoch-ukraincow,nId,22455981",
-      "pubDate": "Wed, 19 Nov 2025 14:28:44 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "W rosyjskim ataku w Tarnopolu zginęło 25 osób. Ponad 70 jest rannych",
-      "link": "https://oko.press/w-rosyjskim-ataku-w-tarnopolu-zginelo-25-osob-ponad-70-jest-rannych",
-      "pubDate": "Wed, 19 Nov 2025 14:28:42 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Tej broni obawiają się Rosjanie. Wiceminister ogłosił jej dostawy do Polski",
-      "link": "https://geekweek.interia.pl/militaria/news-kolejne-wyrzutnie-homar-k-w-polsce-to-jedna-z-naszych-najgro,nId,22455707",
-      "pubDate": "Wed, 19 Nov 2025 14:28:05 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Co 8. polska przedsiębiorczyni przy pozyskiwaniu finansowania doświadczyła trudności związanych z płcią. Najnowsze dane",
-      "link": "https://www.rp.pl/biznes/art43362221-co-8-polska-przedsiebiorczyni-przy-pozyskiwaniu-finansowania-doswiadczyla-trudnosci-zwiazanych-z-plcia-najnowsze-dane",
-      "pubDate": "Wed, 19 Nov 2025 15:27:41 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Polska gospodarka odporna na kryzysy? Minister finansów zabrał głos",
-      "link": "https://biznes.interia.pl/gospodarka/news-polska-rosnie-w-cieniu-kryzysow-gospodarka-radzi-sobie-bardz,nId,22456020",
-      "pubDate": "Wed, 19 Nov 2025 14:27:23 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
