@@ -1,12 +1,24 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-26T19:27:55.346Z",
+  "generatedAt": "2025-11-26T19:38:38.524Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Tajemnicze zaginięcie Polaka we Włoszech. W kamperze zostały dokumenty",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tajemnicze-zaginiecie-polaka-we-wloszech-w-kamperze-zostal-t,nId,22460657",
+      "pubDate": "Wed, 26 Nov 2025 19:33:21 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Lubią grać na emocjach\". Największy bank w Polsce ostrzega",
+      "link": "https://tvn24.pl/biznes/pieniadze/pko-bp-lubia-grac-na-emocjach-najwiekszy-bank-w-polsce-ostrzega-st8773278?source=rss",
+      "pubDate": "Wed, 26 Nov 2025 19:29:09 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Gemini rozpycha się w Mapach Google. Debiut nowego asystenta AI w nawigacji",
@@ -575,6 +587,12 @@
     {
       "title": "Orlen chce przejąć całą kontrolę nad energetyczną spółką",
       "link": "https://businessinsider.com.pl/firmy/orlen-przejmuje-pelna-kontrole-nad-energa-zaproszenie-dla-akcjonariuszy/yqw8lmg",
+      "pubDate": "Wed, 26 Nov 2025 17:48:31 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Orlen chce przejąć pełną kontrolę. Daje akcjonariuszom sporą premię",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/orlen-chce-przejac-pelna-kontrole-nad-energa-zaproszenie-dla-akcjonariuszy/1n6239e",
       "pubDate": "Wed, 26 Nov 2025 17:48:31 GMT",
       "source": "Business Insider"
     },
@@ -2677,6 +2695,30 @@
       "link": "https://spidersweb.pl/2025/11/plus-rozwija-5g-czujesz-roznice.html",
       "pubDate": "Wed, 26 Nov 2025 14:33:54 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
@@ -31029,6 +31071,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -52623,6 +52689,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -63122,6 +63212,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76125,6 +76239,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.11.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-11-2025-7223852305324544a.html",
       "pubDate": "Thu, 20 Nov 2025 12:13:09 +0100",
@@ -83690,198 +83828,6 @@
           "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-19T12:58:30Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "3",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "3",
           "@_type": "application/atom+xml"
         }
       ],
