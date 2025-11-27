@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-27T23:09:31.372Z",
+  "generatedAt": "2025-11-27T23:29:14.494Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
@@ -2687,6 +2687,12 @@
     {
       "title": "Hong Kong fire death toll rises to 83, another 250 missing",
       "link": "https://www.dw.com/en/hong-kong-fire-death-toll-rises-to-83-another-250-missing/live-74913913?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 27 Nov 2025 14:54:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Hong Kong fire death toll rises to 94, scores missing",
+      "link": "https://www.dw.com/en/hong-kong-fire-death-toll-rises-to-94-scores-missing/live-74913913?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Thu, 27 Nov 2025 14:54:00 GMT",
       "source": "DW"
     },
@@ -11881,6 +11887,30 @@
       "link": "https://spidersweb.pl/2025/11/plus-rozwija-5g-czujesz-roznice.html",
       "pubDate": "Wed, 26 Nov 2025 14:33:54 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
@@ -44373,6 +44403,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -68031,6 +68085,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -81009,6 +81087,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Komunikat PKP Intercity po decyzji premiera. Zawieszenie ważnej usługi",
       "link": "https://wydarzenia.interia.pl/kraj/news-komunikat-pkp-intercity-po-decyzji-premiera-zawieszenie-wazn,nId,22456413",
       "pubDate": "Thu, 20 Nov 2025 13:53:00 GMT",
@@ -81733,36 +81835,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Rosyjska-prowokacja-Ukraina-zabiera-glos-ws-nowego-planu-pokojowego-9042858.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Thu, 20 Nov 2025 13:33:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "W Polsce są złe warunki pracy? Twórca ChataGPT mówi \"potrzymaj mi piwo\"",
-      "link": "https://spidersweb.pl/2025/11/tools-for-humanity-toksyczna-kultura-pracy-sam-altman-world-orb.html",
-      "pubDate": "Thu, 20 Nov 2025 13:31:38 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Szwajcarska bajka runęła. \"Wielu rodzinom coraz trudniej jest związać koniec z końcem\"",
-      "link": "https://wiadomosci.onet.pl/swiat/bogata-szwajcaria-to-mit-dla-wybranych-coraz-trudniej-zwiazac-koniec-z-koncem/zhgq5ny",
-      "pubDate": "Thu, 20 Nov 2025 12:30:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "AI patrzy na ręce projektantom CAD i… zaczyna ich wyręczać.",
-      "link": "https://www.chip.pl/2025/11/ai-z-mit-nauka-cad-projektowanie",
-      "pubDate": "Thu, 20 Nov 2025 12:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Man arrested in Sydney for alleged harassment of federal MP over neo-Nazi criticism",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/20/man-arrested-in-sydney-for-alleged-harassment-of-federal-mp-ntwnfb",
-      "pubDate": "Thu, 20 Nov 2025 12:29:14 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Mocarstwo w końcu zdecydowało. Pociski dalekiego zasięgu dla Ukrainy",
-      "link": "https://tech.wp.pl/mocarstwo-w-koncu-zdecydowalo-pociski-dalekiego-zasiegu-dla-ukrainy,7223860083542560a",
-      "pubDate": "Thu, 20 Nov 2025 13:29:07 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
