@@ -1,12 +1,42 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-27T05:41:43.752Z",
+  "generatedAt": "2025-11-27T05:52:18.017Z",
   "items": [
     {
       "title": "„Dar solidarności i braterstwa”. Rosyjskie moskwicze będą jeździć po Havanie",
       "link": "https://www.bankier.pl/wiadomosc/Darem-solidarnosci-i-braterstwa-Rosyjskie-moskwicze-beda-jezdzic-po-Havanie-9044383.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 09:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Pociąg testowy wjechał w robotników. 11 osób nie żyje",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-pociag-testowy-wjechal-w-robotnikow-11-osob-nie-zyje,nId,8044297",
+      "pubDate": "Thu, 27 Nov 2025 06:50:35 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Atak rekina na australijskiej plaży. Zginęła 20-letnia kobieta",
+      "link": "https://wiadomosci.onet.pl/swiat/atak-rekina-na-australijskiej-plazy-zginela-20-letnia-kobieta/3h69j4t",
+      "pubDate": "Thu, 27 Nov 2025 05:45:56 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Strzelanina koło Białego Domu. Jest decyzja w sprawie Afgańczyków",
+      "link": "https://wiadomosci.onet.pl/swiat/strzelanina-kolo-bialego-domu-jest-decyzja-w-sprawie-afganczykow/qzwchgs",
+      "pubDate": "Thu, 27 Nov 2025 05:45:23 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Do wojska za kilkaset euro. Media o rewolucji w kraju NATO",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-do-wojska-za-kilkaset-euro-media-o-rewolucji-w-kraju-nato,nId,22460691",
+      "pubDate": "Thu, 27 Nov 2025 05:44:54 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Brakuje specjalistów, UE bije na alarm. Szczególnie źle jest w 5 sektorach",
+      "link": "https://biznes.interia.pl/praca/news-ue-bije-na-alarm-brakuje-specjalistow-niepokojaca-sytuacja-w,nId,22460609",
+      "pubDate": "Thu, 27 Nov 2025 05:40:01 GMT",
+      "source": "Biznes.interia.pl"
     },
     {
       "title": "Turyści z Niemiec nie żyją. Podano przyczynę ",
@@ -4339,6 +4369,30 @@
       "link": "https://spidersweb.pl/2025/11/plus-rozwija-5g-czujesz-roznice.html",
       "pubDate": "Wed, 26 Nov 2025 14:33:54 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
@@ -33993,6 +34047,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -56235,6 +56313,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wyciekły dane osób zamawiających jedzenie przez internet",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wyciekly-dane-osob-zamawiajacych-jedzenie-przez-internet/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "16",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-21T08:59:38Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Pięć przykazań Donalda Tuska dla Polek i Polaków. Premier apeluje",
       "link": "https://businessinsider.com.pl/wiadomosci/rosja-przekracza-kolejna-granice-donald-tusk-ostrzega-w-sejmie/gcpg3lq",
       "pubDate": "Fri, 21 Nov 2025 08:59:19 GMT",
@@ -66734,6 +66836,30 @@
           "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T13:53:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Boimy się geopolityki i AI, a wciąż nie mamy antywirusów…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/boimy-sie-geopolityki-i-ai-a-wciaz-nie-mamy-antywirusow/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81033,6 +81159,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Wojsko udostępni Polakom aplikację do zgłaszania zagrożeń i aktów dywersji",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/wojsko-udostepni-polakom-aplikacje-do-zglaszania-zagrozen-i-aktow-dywersji/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "34",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-20T11:14:46Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 20.11.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-20-11-2025-7223852305324544a.html",
       "pubDate": "Thu, 20 Nov 2025 12:13:09 +0100",
@@ -86257,66 +86407,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/policja-odpiera-zarzuty-ws-aktow-dywersji-pokazali-nowe-informacje-relacja-na-zywo/htxlpez",
       "pubDate": "Wed, 19 Nov 2025 17:18:53 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Billionaire environmental activist Tom Steyer announces run for California governor",
-      "link": "https://www.theguardian.com/us-news/2025/nov/19/tom-steyer-california-governor",
-      "pubDate": "Wed, 19 Nov 2025 17:18:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pościg za policjantką z Opola. Są nowe informacje",
-      "link": "https://wiadomosci.onet.pl/opole/nowe-informacje-o-zatrzymanej-policjantce-z-opola-nie-ma-przyzwolenia/s0fyncv",
-      "pubDate": "Wed, 19 Nov 2025 17:17:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kuriozalne zachowanie dyrektora krakowskiego liceum. Jest ostra reakcja władz miasta",
-      "link": "https://wiadomosci.onet.pl/krakow/kuriozalne-zachowanie-dyrektora-krakowskiego-liceum-jest-reakcja-wladz-miasta/tjt2m67",
-      "pubDate": "Wed, 19 Nov 2025 17:17:07 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Akty dywersji na kolei. Dariusz Korneluk: prokuratura złożyła wnioski o tymczasowe aresztowanie",
-      "link": "https://tvn24.pl/polska/akty-dywersji-na-kolei-dariusz-korneluk-prokuratura-zlozyla-wnioski-o-tymczasowe-aresztowanie-st8760666?source=rss",
-      "pubDate": "Wed, 19 Nov 2025 17:16:38 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "167 razy więcej. Ogromna różnica w zarobkach",
-      "link": "https://tvn24.pl/biznes/ze-swiata/przepasc-majatkowa-we-francji-najbogatsi-zarabiaja-167-razy-wiecej-niz-najbiedniejsi-st8759852?source=rss",
-      "pubDate": "Wed, 19 Nov 2025 17:14:38 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rosyjski gigant pod presją sankcji USA. Media: pojawił się ważny problem",
-      "link": "https://businessinsider.com.pl/finanse/lukoil-musi-sprzedac-aktywa-do-grudnia-pojawili-sie-nowi-chetni/37dnfly",
-      "pubDate": "Wed, 19 Nov 2025 17:14:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Niemiecki koncern szuka oszczędności. Przenosi część produkcji do Polski",
-      "link": "https://biznes.interia.pl/gospodarka/news-man-przenosi-czesc-produkcji-z-niemiec-do-polski-tak-szuka-o,nId,22456076",
-      "pubDate": "Wed, 19 Nov 2025 17:12:21 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "\"Tsunami dezinformacji\". Tak doszło do eksplozji na kolei. Ekspert tłumaczy",
-      "link": "https://wydarzenia.interia.pl/kraj/news-tsunami-dezinformacji-o-dywersji-ekspert-tlumaczy-jak-doszlo,nId,22455939",
-      "pubDate": "Wed, 19 Nov 2025 17:10:12 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Jubileusz policyjnych związkowców. Dziennikarz Onetu nagrodzony",
-      "link": "https://wiadomosci.onet.pl/warszawa/jubileusz-policyjnych-zwiazkowcow-dziennikarz-onetu-nagrodzony/x50g5sd",
-      "pubDate": "Wed, 19 Nov 2025 17:10:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Wróg Putina na celowniku Kremla. Chodorkowski uznany za ekstremistę",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-wrog-putina-na-celowniku-kremla-chodorkowski-uznany-za-ekstr,nId,22456060",
-      "pubDate": "Wed, 19 Nov 2025 17:09:54 GMT",
-      "source": "Interia"
     }
   ]
 }
