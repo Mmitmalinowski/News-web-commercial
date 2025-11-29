@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T17:42:20.197Z",
+  "generatedAt": "2025-11-29T17:51:53.988Z",
   "items": [
     {
       "title": "Fortuna w drobniakach. Ukradli milion euro z parkometrów, wpadli przez bank",
@@ -19,6 +19,12 @@
       "link": "https://www.bankier.pl/wiadomosc/To-problem-Niemcow-ze-podbili-tyle-panstw-Mocne-slowa-w-debacie-o-berlinskim-pomniku-9045600.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 19:02:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Polska wieś się kurczy. Wyludnienie zmienia rynek nieruchomości i życie mieszkańców",
+      "link": "https://businessinsider.com.pl/nieruchomosci/zmiany-demograficzne-na-polskiej-wsi-co-czeka-rynek-nieruchomosci/nb8v9l0",
+      "pubDate": "Sat, 29 Nov 2025 17:48:13 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Pięć metropolii „wysysa” młodych Polaków. Dramatyczny raport socjologów",
@@ -377,6 +383,12 @@
     {
       "title": "Katastrofa śmigłowca i pożar. Dwie osoby zginęły",
       "link": "https://tvn24.pl/rzeszow/malawa-katastrofa-smiglowca-i-pozar-dwie-osoby-nie-zyja-st8778229?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 15:52:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Katastrofa śmigłowca i pożar. Dwie osoby zginęły",
+      "link": "https://tvn24.pl/rzeszow/wies-cierpisz-podkarpacie-katastrofa-smiglowca-i-pozar-dwie-osoby-nie-zyja-st8778229?source=rss",
       "pubDate": "Sat, 29 Nov 2025 15:52:01 GMT",
       "source": "TVN24"
     },
@@ -9951,6 +9963,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -16225,6 +16261,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -30758,6 +30818,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66333,6 +66417,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -75571,42 +75679,6 @@
       "link": "https://spidersweb.pl/2025/11/slepe-naboje-na-torach-wielkopolska-prowokacja.html",
       "pubDate": "Fri, 21 Nov 2025 15:05:19 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Which EU countries recycle the most raw materials?",
-      "link": "http://www.euronews.com/my-europe/2025/11/21/which-eu-countries-recycle-the-most-raw-materials",
-      "pubDate": "Fri, 21 Nov 2025 15:05:13 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Co z cenami mieszkań? Ekonomiści o \"potencjale\" na rynku",
-      "link": "https://tvn24.pl/biznes/nieruchomosci/co-z-cenami-mieszkan-ekonomisci-o-potencjale-na-rynku-st8763912?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 14:02:53 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Drony nad lotniskiem w Norwegii. Ruch wstrzymany",
-      "link": "https://tvn24.pl/swiat/drony-nad-lotniskiem-w-norwegii-ruch-wstrzymany-st8764345?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 14:02:32 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Labor to rule out controversial ‘national interest’ exemption for coal and gas if Greens back nature laws",
-      "link": "https://www.theguardian.com/environment/2025/nov/22/labor-to-rule-out-national-interest-exemption-for-coal-gas-if-greens-back-nature-laws",
-      "pubDate": "Fri, 21 Nov 2025 14:00:15 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Fast, easy, interactive and adaptative: the “game-changing” 3D design tool",
-      "link": "http://www.euronews.com/my-europe/2025/11/21/fast-easy-interactive-and-adaptative-the-game-changing-3d-design-tool",
-      "pubDate": "Fri, 21 Nov 2025 15:00:14 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "As Labor seeks to pass end-of-year environmental law reform, Ley and the Greens will be vying to seal the deal",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/22/as-labor-seeks-to-pass-end-of-year-environmental-law-reform-ley-and-the-greens-will-be-vying-to-seal-the-deal",
-      "pubDate": "Fri, 21 Nov 2025 14:00:13 GMT",
-      "source": "The Guardian"
     }
   ]
 }
