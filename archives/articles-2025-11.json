@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T17:51:53.988Z",
+  "generatedAt": "2025-11-29T18:00:46.346Z",
   "items": [
     {
       "title": "Fortuna w drobniakach. Ukradli milion euro z parkometrów, wpadli przez bank",
@@ -19,6 +19,18 @@
       "link": "https://www.bankier.pl/wiadomosc/To-problem-Niemcow-ze-podbili-tyle-panstw-Mocne-slowa-w-debacie-o-berlinskim-pomniku-9045600.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 29 Nov 2025 19:02:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Arcybiskup Marek Jędraszewski z listem do wiernych. \"Proszę o wybaczenie\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-arcybiskup-marek-jedraszewski-z-listem-do-wiernych-prosze-o,nId,22461988",
+      "pubDate": "Sat, 29 Nov 2025 17:55:48 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Nie ma już świętych krów\". Waldemar Żurek o sprawie rozliczeń PiS",
+      "link": "https://wiadomosci.onet.pl/kraj/nie-ma-juz-swietych-krow-waldemar-zurek-o-sprawie-rozliczen-pis/wqd24s1",
+      "pubDate": "Sat, 29 Nov 2025 17:52:59 GMT",
+      "source": "Onet"
     },
     {
       "title": "Polska wieś się kurczy. Wyludnienie zmienia rynek nieruchomości i życie mieszkańców",
@@ -757,6 +769,12 @@
       "link": "https://wiadomosci.onet.pl/tylko-w-onecie/fronty-wojny-polska-gotowa-na-wojne-dronowa-ekspert-prawda-jest-brutalna/vhpchlb",
       "pubDate": "Sat, 29 Nov 2025 14:15:10 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "\"Tylko ryzykant zagrałby przeciwko Polsce\". Sen o drugiej Japonii się spełnił",
+      "link": "https://www.bankier.pl/wiadomosc/Tylko-ryzykant-zagralby-przeciwko-Polsce-Sen-o-drugiej-Japonii-sie-spelnil-9047993.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 29 Nov 2025 15:15:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "W wieku 35 oraz 40 lat osiągnęliśmy finansowy spokój. Oto nasze pięć rad dla innych",
@@ -9987,6 +10005,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -16261,6 +16303,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -30818,6 +30884,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66441,6 +66531,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -75637,48 +75751,6 @@
       "link": "https://www.rp.pl/komentarze/art43378931-michal-szuldrzynski-czy-jaroslaw-kaczynski-dalej-wierzy-w-pax-americana-po-ujawnieniu-planu-trumpa",
       "pubDate": "Fri, 21 Nov 2025 15:12:31 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Drony nad lotniskiem w Norwegii. Opóźnienia sięgały kilkudziesięciu minut",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-21/drony-nad-lotniskiem-w-norwegii-opoznienia-siegaly-kilkudziesieciu-minut/",
-      "pubDate": "Fri, 21 Nov 2025 15:11:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Wygrać życie: doczesne i wieczne",
-      "link": "https://www.rp.pl/plus-minus/art43365901-wygrac-zycie-doczesne-i-wieczne",
-      "pubDate": "Fri, 21 Nov 2025 15:10:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Śmierć podczas interwencji policji w Koninie. Prokuratura przeprowadziła sekcję zwłok",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/smierc-podczas-interwencji-policji-w-koninie-prokuratura-przeprowadzila-sekcje-zwlok/s6hbdgl",
-      "pubDate": "Fri, 21 Nov 2025 14:09:46 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Partia Sławomira Mentzena wykreślona z rejestru. Sąd zadecydował",
-      "link": "https://wydarzenia.interia.pl/kraj/news-partia-slawomira-mentzena-wykreslona-z-rejestru-sad-zadecydo,nId,22456926",
-      "pubDate": "Fri, 21 Nov 2025 14:07:39 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Finansowanie na innowacje. 15 milionów złotych na innowacje dla Auxilius Pharma",
-      "link": "https://mamstartup.pl/finansowanie-na-innowacje-15-milionow-zlotych-na-innowacje-dla-auxilius-pharma/",
-      "pubDate": "Fri, 21 Nov 2025 14:06:25 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Do kiedy będzie trwała operacja \"Horyzont\". Szef MON w RMF FM",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa/news-do-kiedy-bedzie-trwala-operacja-horyzont-szef-mon-w-rmf-fm,nId,8042731",
-      "pubDate": "Fri, 21 Nov 2025 15:05:49 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Atrapa bomby na torach. Policja: \"To prowokacja\"",
-      "link": "https://spidersweb.pl/2025/11/slepe-naboje-na-torach-wielkopolska-prowokacja.html",
-      "pubDate": "Fri, 21 Nov 2025 15:05:19 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
