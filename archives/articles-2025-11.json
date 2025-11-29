@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T23:01:13.919Z",
+  "generatedAt": "2025-11-29T23:26:06.030Z",
   "items": [
+    {
+      "title": "More than 70,000 killed in Gaza since Israel offensive began, Hamas-run health ministry says",
+      "link": "https://www.bbc.com/news/articles/c8e97kl240lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Nov 2025 23:16:22 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Four-year-old Gus Lamont disappeared from his homestead into the Australian outback. Two months on, questions remain",
+      "link": "https://www.theguardian.com/australia-news/2025/nov/29/four-year-old-gus-lamont-disappeared-from-his-homestead-into-the-australian-outback-two-months-on-questions-remain",
+      "pubDate": "Sat, 29 Nov 2025 23:00:50 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Ukraine hits tankers in Black Sea in escalation against Russia",
       "link": "https://www.bbc.com/news/articles/cp9ky5z2gx0o?at_medium=RSS&at_campaign=rss",
@@ -11001,6 +11013,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -17281,6 +17317,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -32342,6 +32402,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68973,6 +69057,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -77155,42 +77263,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-nowy-komunikat-trumpa-stawia-ultimatum-chodzi-o-plan-pokojow,nId,22456970",
       "pubDate": "Fri, 21 Nov 2025 16:03:08 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Ranking 50 najbardziej kreatywnych ludzi biznesu w Polsce. Za nami 14. edycja konkursu",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-ranking-50-najbardziej-kreatywnych-ludzi-biznesu-w-polsce-za,nId,8042857",
-      "pubDate": "Fri, 21 Nov 2025 17:01:58 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kasety VHS wracają do łask. Kolekcjonerzy płacą setki złotych",
-      "link": "https://biznes.interia.pl/finanse/news-kasety-vhs-wracaja-do-lask-kolekcjonerzy-placa-setki-zlotych,nId,22456948",
-      "pubDate": "Fri, 21 Nov 2025 16:01:25 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zełenski o planie pokojowym: teraz jest jeden z najtrudniejszych momentów naszej historii",
-      "link": "https://www.bankier.pl/wiadomosc/Zelenski-o-planie-pokojowym-teraz-jest-jeden-z-najtrudniejszych-momentow-naszej-historii-9043827.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 21 Nov 2025 17:01:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "ChatGPT otwiera się na rozmowy grupowe i współpracę. OpenAI udostępnia nową funkcję globalnie",
-      "link": "https://www.chip.pl/2025/11/chatgpt-czaty-grupowe-udostepnione-globalnie",
-      "pubDate": "Fri, 21 Nov 2025 16:00:43 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Dubai bank is behind British businessman’s 30-year jail sentence, family claims",
-      "link": "https://www.theguardian.com/world/2025/nov/21/dubai-islamic-bank-british-businessmans-30-year-jail-sentence",
-      "pubDate": "Fri, 21 Nov 2025 16:00:14 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Not just for Paddington: is the humble duffel coat having a fashion moment?",
-      "link": "https://www.theguardian.com/fashion/2025/nov/21/paddington-bear-duffel-coat-fashion-moment",
-      "pubDate": "Fri, 21 Nov 2025 16:00:13 GMT",
-      "source": "The Guardian"
     }
   ]
 }
