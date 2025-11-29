@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T20:56:42.360Z",
+  "generatedAt": "2025-11-29T21:17:16.897Z",
   "items": [
+    {
+      "title": "Zandberg kontra \"emeryci żywiący się nienawiścią\". Razem rusza w Polskę",
+      "link": "https://www.rmf24.pl/polityka/news-zandberg-kontra-emeryci-zywiacy-sie-nienawiscia-razem-rusza-,nId,8045355",
+      "pubDate": "Sat, 29 Nov 2025 22:05:28 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ukraine releases video showing moment naval drones striking Russian oil tankers in the Black Sea",
+      "link": "http://www.euronews.com/video/2025/11/29/ukraine-releases-video-showing-moment-naval-drones-striking-russian-oil-tankers-in-the-bla",
+      "pubDate": "Sat, 29 Nov 2025 22:00:47 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Radosław Sikorski stanowczo o \"kupczeniu ukraińskimi ziemiami\"",
       "link": "https://businessinsider.com.pl/polityka/plan-pokojowy-radoslaw-sikorski-stanowczo-o-kupczeniu-ukrainskimi-ziemiami/f5ms9n7",
@@ -11,6 +23,12 @@
     {
       "title": "Drugie dno rozmów pokojowych? \"Uwierzyli w wizję roztaczaną przez Kreml\"",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-drugie-dno-rozmow-pokojowych-uwierzyli-w-wizje-roztaczana-pr,nId,22462016",
+      "pubDate": "Sat, 29 Nov 2025 20:52:48 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Media opisują drugie dno negocjacji pokojowych. \"Świadoma strategia\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-drugie-dno-rozmow-pokojowych-media-opisuja-prawdziwy-cel-ros,nId,22462016",
       "pubDate": "Sat, 29 Nov 2025 20:52:48 GMT",
       "source": "Interia"
     },
@@ -229,6 +247,12 @@
       "link": "https://www.tabletowo.pl/recenzja-oneplus-15-test-opinia/",
       "pubDate": "Sat, 29 Nov 2025 19:05:01 +0000",
       "source": "Tabletowo"
+    },
+    {
+      "title": "„WSJ”: Róbcie pieniądze, nie wojnę, czyli jak USA i Rosja chcą zarobić na pokoju",
+      "link": "https://www.rp.pl/polityka/art43426811-wsj-robcie-pieniadze-nie-wojne-czyli-jak-usa-i-rosja-chca-zarobic-na-pokoju",
+      "pubDate": "Sat, 29 Nov 2025 20:05:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Przełomowe odkrycia w Taş Tepeler: nowe neolityczne rzeźby zmieniają historię Anatolii",
@@ -10707,6 +10731,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -16987,6 +17035,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -31832,6 +31904,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68031,6 +68127,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -76495,54 +76615,6 @@
       "link": "https://businessinsider.com.pl/wiadomosci/wolodymyr-zelenski-o-planie-pokoju-usa-ukraina-przed-trudnym-wyborem/4m0y3sf",
       "pubDate": "Fri, 21 Nov 2025 15:31:30 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Miasto wypowiedziało umowę dzierżawy działki. Stała tam monstrualna reklama",
-      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-gigantyczna-reklama-na-dzierzawionej-dzialce-decyzja-miasta-st8764423?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 15:31:29 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "How the global competition to win the AI race is going",
-      "link": "http://www.euronews.com/next/2025/11/21/how-the-global-competition-to-win-the-ai-race-is-going",
-      "pubDate": "Fri, 21 Nov 2025 16:31:01 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "„Football Manager 26”: Zmagania na boisku",
-      "link": "https://www.rp.pl/plus-minus/art43366011-football-manager-26-zmagania-na-boisku",
-      "pubDate": "Fri, 21 Nov 2025 16:30:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Koniec z mozolnym klikaniem. Spotify wreszcie ma wbudowany importer playlist z konkurencyjnych serwisów",
-      "link": "https://www.chip.pl/2025/11/spotify-import-playlist-z-innych-serwisow",
-      "pubDate": "Fri, 21 Nov 2025 15:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Boso, bez spodni wbiegł w nocy do autobusu z niemowlęciem na rękach",
-      "link": "https://tvn24.pl/kujawsko-pomorskie/bydgoszcz-boso-bez-spodni-wbiegl-w-nocy-do-autobusu-z-niemowleciem-na-rekach-st8764239?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 15:29:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "LPP widzi potencjał w Azji Centralnej",
-      "link": "https://www.rp.pl/wydarzenia-gospodarcze/art43379221-lpp-widzi-potencjal-w-azji-centralnej",
-      "pubDate": "Fri, 21 Nov 2025 16:29:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Plan pokojowy USA. Wołodymyr Zełenski rozmawiał z J.D. Vance'em",
-      "link": "https://wiadomosci.onet.pl/swiat/plan-pokojowy-usa-wolodymyr-zelenski-rozmawial-z-jd-vanceem/vy3ft8c",
-      "pubDate": "Fri, 21 Nov 2025 15:26:51 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Chadwick Boseman posthumously receives star on the Hollywood Walk of Fame",
-      "link": "http://www.euronews.com/video/2025/11/21/chadwick-boseman-posthumously-receives-star-on-the-hollywood-walk-of-fame",
-      "pubDate": "Fri, 21 Nov 2025 16:26:14 +0100",
-      "source": "Euronews"
     }
   ]
 }
