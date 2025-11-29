@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T20:16:11.135Z",
+  "generatedAt": "2025-11-29T20:35:21.096Z",
   "items": [
+    {
+      "title": "Kto, kiedy i dlaczego zakłóca sygnał GPS nad Polską (i nie tylko)",
+      "link": "https://zaufanatrzeciastrona.pl/post/kto-kiedy-i-dlaczego-zakloca-sygnal-gps-nad-polska-i-nie-tylko/",
+      "pubDate": "Sat, 29 Nov 2025 20:32:56 +0000",
+      "source": "Zaufana Trzecia Strona"
+    },
+    {
+      "title": "Zamieszki i masowe protesty. W tle nowy ruch skrajnie prawicowej AfD",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-zamieszki-i-masowe-protesty-w-tle-nowy-ruch-skrajnie-prawico,nId,22462013",
+      "pubDate": "Sat, 29 Nov 2025 20:28:18 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Koniec z rajem dla bogaczy? Tuż przed głosowaniem wielu jest gotowych do wyprowadzki",
+      "link": "https://businessinsider.com.pl/gospodarka/podatki/koniec-z-rajem-dla-bogaczy-wielu-jest-gotowych-do-wyprowadzki/cr1wzby",
+      "pubDate": "Sat, 29 Nov 2025 20:14:08 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Wenezuela oburzona wpisem Donalda Trumpa. \"Kolonialne zagrożenie\"",
+      "link": "https://wiadomosci.onet.pl/swiat/wenezuela-oburzona-wpisem-donalda-trumpa-kolonialne-zagrozenie/yp0q5fb",
+      "pubDate": "Sat, 29 Nov 2025 20:12:31 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Kurs ochroniarski okazał się pułapką. Jak córka byłego prezydenta RPA postępem werbowała rekrutów do rosyjskiej armii",
       "link": "https://wiadomosci.onet.pl/swiat/kurs-ochroniarski-okazal-sie-pulapka-jak-corka-bylego-prezydenta-rpa-postepem/r8grh4q",
@@ -19,6 +43,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/odmawialam-spotkania-z-prezydentem-duda-partnerka-ambasadora-odslania-kulisy/66dkc77",
       "pubDate": "Sat, 29 Nov 2025 20:07:02 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Sri Lanka declares emergency as floods kill more than 150",
+      "link": "https://www.dw.com/en/sri-lanka-declares-emergency-as-floods-kill-more-than-150/a-74952338?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 29 Nov 2025 20:04:00 GMT",
+      "source": "DW"
     },
     {
       "title": "Fortuna w drobniakach. Ukradli milion euro z parkometrów, wpadli przez bank",
@@ -143,6 +173,12 @@
     {
       "title": "Sikorski zapowiada \"osobisty list\" do Nawrockiego. \"Ktoś wprowadził go w błąd\" ",
       "link": "https://tvn24.pl/polska/radoslaw-sikorski-wicepremier-i-minister-spraw-zagranicznych-o-slowach-prezydenta-karola-nawrockiego-w-sprawie-unii-europejskiej-st8778288?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 19:01:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sikorski zapowiada \"osobisty list\" do Nawrockiego. \"Ktoś wprowadził go w błąd\" ",
+      "link": "https://tvn24.pl/polska/radoslaw-sikorski-zapowiada-osobisty-list-do-karola-nawrockiego-ktos-wprowadzil-go-w-blad-st8778288?source=rss",
       "pubDate": "Sat, 29 Nov 2025 19:01:44 GMT",
       "source": "TVN24"
     },
@@ -10527,6 +10563,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -16807,6 +16867,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -31580,6 +31664,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67635,6 +67743,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -76267,66 +76399,6 @@
       "link": "https://biznes.interia.pl/gospodarka/news-kongresu-polska-moc-biznesu-bezpieczenstwo-w-centrum-debat,nId,22456904",
       "pubDate": "Fri, 21 Nov 2025 15:11:45 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Kongres Polska Moc Biznesu: Bezpieczeństwo w centrum debat",
-      "link": "https://biznes.interia.pl/gospodarka/news-kongres-polska-moc-biznesu-bezpieczenstwo-w-centrum-debat,nId,22456904",
-      "pubDate": "Fri, 21 Nov 2025 15:11:45 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Unia chce uderzyć w rosyjską \"flotę cieni\". W grze są dwa pomysły",
-      "link": "https://wiadomosci.onet.pl/kraj/unia-chce-uderzyc-w-rosyjska-flote-cieni-w-grze-sa-dwa-pomysly/j4fc4zt",
-      "pubDate": "Fri, 21 Nov 2025 15:11:18 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ugrupowanie Sławomira Mentzena wykreślone z ewidencji partii politycznych ",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nowa-nadzieja-ugrupowanie-slawomira-mentzena-wykreslone-z-ewidencji-partii-politycznych-powodem-niezlozenie-sprawozdania-finansowego-st8764434?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 15:11:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Przejmujące orędzie Zełenskiego. \"Stajemy przed trudnym wyborem\"",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-przejmujace-oredzie-zelenskiego-stajemy-przed-trudnym-wybore,nId,22456893",
-      "pubDate": "Fri, 21 Nov 2025 15:10:17 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "„Marvel Zombies”: Nikt nam nie pomoże",
-      "link": "https://www.rp.pl/plus-minus/art43365981-marvel-zombies-nikt-nam-nie-pomoze",
-      "pubDate": "Fri, 21 Nov 2025 16:10:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Amerykański projekt gwarancji bezpieczeństwa dla Ukrainy. Polska na liście",
-      "link": "https://businessinsider.com.pl/wiadomosci/axios-publikuje-projekt-gwarancji-bezpieczenstwa-dla-ukrainy-co-zawiera-dokument/s2x522p",
-      "pubDate": "Fri, 21 Nov 2025 15:09:37 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Pies obrońcą domowej firmy? Fiskus zmienia interpretację i zgadza się na odliczenie VAT",
-      "link": "https://pro.rp.pl/pit-koszty-uzyskania-przychodu-i-ulgi/art43379011-pies-obronca-domowej-firmy-fiskus-zmienia-interpretacje-i-zgadza-sie-na-odliczenie-vat",
-      "pubDate": "Fri, 21 Nov 2025 16:09:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wołodymyr Zełenski: Albo utrata godności, albo kluczowego partnera",
-      "link": "https://www.rp.pl/dyplomacja/art43379411-wolodymyr-zelenski-albo-utrata-godnosci-albo-kluczowego-partnera",
-      "pubDate": "Fri, 21 Nov 2025 16:08:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Katarzyna Pełczyńska-Nałęcz startuje na szefową Polski 2050. \"Jestem w ruchu od początku\"",
-      "link": "https://wiadomosci.onet.pl/kraj/katarzyna-pelczynska-nalecz-oglasza-start-w-wyborach-na-przewodniczaca-polski-2050/0jt5e2z",
-      "pubDate": "Fri, 21 Nov 2025 15:07:04 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "HBO kontynuuje dwa seriale ze świata \"Gry o tron\"",
-      "link": "https://www.wirtualnemedia.pl/hbo-kontynuuje-dwa-seriale-ze-swiata-gry-o-tron,7224266793994784a",
-      "pubDate": "Fri, 21 Nov 2025 16:06:00 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
