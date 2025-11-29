@@ -1,7 +1,31 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T10:47:46.774Z",
+  "generatedAt": "2025-11-29T10:57:04.851Z",
   "items": [
+    {
+      "title": "Pogoda wkrótce stanie na głowie. Będzie prawie 10 st. C. Wiemy, kiedy wróci śnieżna i mroźna zima",
+      "link": "https://wiadomosci.onet.pl/pogoda/pogoda-stanie-na-glowie-bedzie-niemal-10-st-c-wiemy-kiedy-wroci-sniezna-zima/xx3p4k8",
+      "pubDate": "Sat, 29 Nov 2025 10:52:40 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Czy PiS wróci do władzy w 2027 r.? Polacy zabrali głos. Nowy sondaż",
+      "link": "https://wiadomosci.onet.pl/kraj/czy-pis-wroci-do-wladzy-w-2027-r-polacy-zabrali-glos-nowy-sondaz/devbq1q",
+      "pubDate": "Sat, 29 Nov 2025 10:52:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kometa 3I/ATLAS zmienia naukę. Potrzeba było 10 mld lat podróży",
+      "link": "https://spidersweb.pl/2025/11/3i-atlas-sklad-historia.html",
+      "pubDate": "Sat, 29 Nov 2025 11:51:52 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Stał w korku i nagle zjechał na chodnik. Nagranie",
+      "link": "https://tvn24.pl/bialystok/bialystok-stal-w-korku-i-nagle-zjechal-na-chodnik-nagranie-st8777692?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 10:49:08 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Kolejny kraj dołącza do Wielkiej Orkiestry Świątecznej Pomocy. Owsiak pokazał nowy plakat",
       "link": "https://tvn24.pl/polska/wosp-2026-kolejny-kraj-dolacza-do-orkiestry-jerzy-owsiak-zaprezentowal-nowy-plakat-st8777663?source=rss",
@@ -6145,6 +6169,30 @@
       "link": "https://businessinsider.com.pl/wiadomosci/plan-pokojowy-dla-ukrainy-jest-najnowszy-komunikat-kremla/zfrpv40",
       "pubDate": "Fri, 28 Nov 2025 10:54:26 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -14053,6 +14101,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -27986,6 +28058,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -62361,6 +62457,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -73759,54 +73879,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-sniezyce-na-poludniu-tworza-nowy-problem-zwiekszono-stopien,nId,22456743",
       "pubDate": "Fri, 21 Nov 2025 10:10:15 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Zmiana w podatku od spadków. Sejm przyjął projekt",
-      "link": "https://tvn24.pl/biznes/pieniadze/zmiana-w-podatku-od-spadkow-sejm-przyjal-projekt-st8763455?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 10:10:05 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "EuroPMI: i po ożywieniu w europejskim przemyśle. Ale usługi trzymają się nieźle",
-      "link": "https://www.bankier.pl/wiadomosc/Wskazniki-PMI-dla-strefy-euro-w-listopadzie-2025-Przemysl-pod-kreska-ale-uslugi-trzymaja-sie-niezle-9043548.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 21 Nov 2025 11:08:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Nigeria: over 200 students abducted from Catholic school",
-      "link": "https://www.dw.com/en/nigeria-over-200-students-abducted-from-catholic-school/a-74831286?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 21 Nov 2025 10:07:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Trzech chińskich astronautów utknęło w kosmosie. Nie mają kapsuły",
-      "link": "https://tech.wp.pl/trzech-chinskich-astronautow-utknelo-w-kosmosie-nie-maja-kapsuly,7224176156502528a",
-      "pubDate": "Fri, 21 Nov 2025 11:06:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Znaleźli w jaskini dziwną postać bez twarzy. Liczy ok. 8 tys. lat",
-      "link": "https://geekweek.interia.pl/historia/news-znalezli-w-jaskini-postac-bez-twarzy-ujawnia-historie-sprzed,nId,22456668",
-      "pubDate": "Fri, 21 Nov 2025 10:05:10 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Ewakuacja i akcja służb. 65-latek chciał wysadzić blok w powietrze",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-ewakuacja-i-akcja-sluzb-65-latek-chcial-wysadzic-blok-w-powi,nId,8042692",
-      "pubDate": "Fri, 21 Nov 2025 11:04:39 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Telekomy straciły blisko 1,3 mln zł. Policja rozbiła grupę przestępczą",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/telekomy-stracily-blisko-13-mln-zl-policja-rozbila-grupe-przestepcza",
-      "pubDate": "Fri, 21 Nov 2025 11:04:18 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Lekarz wystawiał recepty, dilerzy sprzedawali psychotropy młodym kobietom. Cztery zmarły",
-      "link": "https://tvn24.pl/krakow/lekarz-wystawial-recepty-dilerzy-sprzedawali-psychotropy-mlodym-kobietom-cztery-zmarly-st8763419?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 10:03:46 GMT",
-      "source": "TVN24"
     }
   ]
 }
