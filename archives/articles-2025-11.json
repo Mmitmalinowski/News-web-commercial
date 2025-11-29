@@ -1,12 +1,66 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-29T09:34:22.427Z",
+  "generatedAt": "2025-11-29T09:45:02.424Z",
   "items": [
+    {
+      "title": "Ford tnie miejsca pracy w niemieckiej fabryce. 3,5 tys. osób straci zatrudnienie",
+      "link": "https://moto.rp.pl/tu-i-teraz/art43425851-ford-tnie-miejsca-pracy-w-niemieckiej-fabryce-3-5-tys-osob-straci-zatrudnienie",
+      "pubDate": "Sat, 29 Nov 2025 10:40:06 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Fala oszustw w Polsce. Najpierw ofiary dostają taką paczkę",
+      "link": "https://biznes.interia.pl/finanse/news-policja-ostrzega-nie-odbieraj-tej-paczki-blyskawicznie-kradn,nId,22460762",
+      "pubDate": "Sat, 29 Nov 2025 09:40:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Nagła akcja serwisowa Airbusa. O krok od uziemienia tysięcy lotów",
+      "link": "https://geekweek.interia.pl/transport/news-nagla-akcja-serwisowa-airbusa-o-krok-od-uziemienia-tysiecy-l,nId,22461901",
+      "pubDate": "Sat, 29 Nov 2025 09:39:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Zmarł na skutek pobicia. Jego znajomi przenieśli ciało na łóżko i wezwali pogotowie",
+      "link": "https://tvn24.pl/lodz/lodz-smiertelne-pobicie-sprawcy-polozyli-ofiare-na-lozku-jeden-wycieral-krew-z-podlogi-st8777601?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 09:36:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nigeria blames jihadist groups for wave of kidnappings but others accuse criminal gangs",
+      "link": "https://www.bbc.com/news/articles/cvgj9dd983xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 29 Nov 2025 09:34:57 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "O losie byłego prezydenta zdecydują wyborcy. Grozi mu 45 lat więzienia",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-29/trump-ulaskawi-prezydenta-ale-stawia-warunek-wszystko-zalezy-od-wynikow-wyborow/",
+      "pubDate": "Sat, 29 Nov 2025 10:34:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Wojtek zarabia 20 tys., a pod koniec miesiąca był pod kreską. Jak oszczędzają Polacy?",
+      "link": "https://wiadomosci.onet.pl/kraj/wojtek-zarabia-20-tys-a-pod-koniec-miesiaca-byl-pod-kreska-jak-oszczedzaja-polacy/d2760jh",
+      "pubDate": "Sat, 29 Nov 2025 09:33:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Staże w nowej odsłonie mogą stać się dla firm nieopłacalne",
+      "link": "https://www.rp.pl/praca-emerytury-i-renty/art43412431-staze-w-nowej-odslonie-moga-stac-sie-dla-firm-nieoplacalne",
+      "pubDate": "Sat, 29 Nov 2025 10:31:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Kirby Air Riders - recenzja. Odważna reanimacja w dobie Mario Kart, ale czy udana?",
       "link": "https://antyweb.pl/kirby-air-riders-recenzja-odwazna-reanimacja-w-dobie-mario-kart-ale-czy-udana",
       "pubDate": "Sat, 29 Nov 2025 09:30:35 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Wrexham AFC receives £18m from government despite Hollywood backing",
+      "link": "https://www.theguardian.com/football/2025/nov/29/wrexham-afc-receives-18m-from-government-despite-hollywood-backing",
+      "pubDate": "Sat, 29 Nov 2025 09:26:05 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Mass protests in the central German town of Giessen against new AfD youth group",
@@ -5863,6 +5917,30 @@
       "link": "https://businessinsider.com.pl/wiadomosci/plan-pokojowy-dla-ukrainy-jest-najnowszy-komunikat-kremla/zfrpv40",
       "pubDate": "Fri, 28 Nov 2025 10:54:26 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
@@ -13651,6 +13729,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -27464,6 +27566,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -61599,6 +61725,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -73368,84 +73518,6 @@
       "title": "Apple odpala petardę. Takiej promocji dawno nie było",
       "link": "https://antyweb.pl/apple-odpala-petarde-takiej-promocji-dawno-nie-bylo",
       "pubDate": "Fri, 21 Nov 2025 09:30:40 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Spokojny poranek na rynku złotego. Kurs euro lekko w górę",
-      "link": "https://www.bankier.pl/wiadomosc/Spokojny-poranek-na-rynku-zlotego-Kurs-euro-lekko-w-gore-9043512.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 21 Nov 2025 10:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Pupils abducted from Catholic school in fresh Nigeria attack ",
-      "link": "https://www.bbc.com/news/articles/cj4qxvy74qyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 21 Nov 2025 09:29:20 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "EU reiterates support for Palestinian Authority, but offers no additional money",
-      "link": "http://www.euronews.com/my-europe/2025/11/21/eu-reiterates-support-for-palestinian-authority-but-offers-no-additional-money",
-      "pubDate": "Fri, 21 Nov 2025 10:27:41 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "14-latek dźgnięty nożem w Bydgoszczy. Nowe informacje w sprawie ataku",
-      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/14-latek-dzgniety-nozem-w-bydgoszczy-nowe-informacje-w-sprawie-ataku/fxfkp6c",
-      "pubDate": "Fri, 21 Nov 2025 09:27:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Spokojnie, to tylko testy. W Gdańsku zawyją syreny",
-      "link": "https://www.rmf24.pl/regiony/trojmiasto/news-spokojnie-to-tylko-testy-w-gdansku-zawyja-syreny,nId,8042659",
-      "pubDate": "Fri, 21 Nov 2025 10:27:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Takim majątkiem dysponuje Zbigniew Ziobro. Jest zmiana",
-      "link": "https://wiadomosci.onet.pl/kraj/zbigniew-ziobro-juz-nie-deklaruje-tego-w-oswiadczeniu-majatkowym-jest-zmiana/03wwdm3",
-      "pubDate": "Fri, 21 Nov 2025 09:25:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Prowokacja i sprawdzanie służb\". Naboje znalezione na torach",
-      "link": "https://wydarzenia.interia.pl/kraj/news-prowokacja-i-sprawdzanie-sluzb-naboje-znalezione-na-torach,nId,22456718",
-      "pubDate": "Fri, 21 Nov 2025 09:24:58 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Instytut Pileckiego w Berlinie ma nową kierowniczkę ",
-      "link": "https://tvn24.pl/swiat/hanna-nowak-radziejowska-kierowniczka-instytutu-pileckiego-w-berlinie-st8763358?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 09:23:28 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Podatek dopiero po przyjęciu spadku. Sejm uchwalił zmiany jednomyślnie",
-      "link": "https://www.bankier.pl/wiadomosc/Podatek-dopiero-po-przyjeciu-spadku-Sejm-uchwalil-zmiany-jednomyslnie-9043507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 21 Nov 2025 10:23:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Od komety 3I/ATLAS coś się odłączyło. \"Statek-matka mógł wypuścić sondy\"",
-      "link": "https://spidersweb.pl/2025/11/od-komety-3i-atlas-cos-sie-odlaczylo.html",
-      "pubDate": "Fri, 21 Nov 2025 10:20:06 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "3I/Atlas na zbliżeniach. NASA publikuje nowe zdjęcia ",
-      "link": "https://geekweek.interia.pl/kosmos/news-3i-atlas-na-zblizeniach-nasa-publikuje-nowe-zdjecia,nId,22456480",
-      "pubDate": "Fri, 21 Nov 2025 09:17:17 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Centenary celebrations: Martha Graham's dance company hits Athens for its anniversary",
-      "link": "http://www.euronews.com/culture/2025/11/21/centenary-celebrations-martha-grahams-dance-company-hits-athens-for-its-anniversary",
-      "pubDate": "Fri, 21 Nov 2025 10:16:33 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Z Google nie zmarnujesz czasu. Dziwne, że tej funkcji nie było od początku",
-      "link": "https://antyweb.pl/z-google-nie-zmarnujesz-czasu-dziwne-ze-tej-funkcji-nie-bylo-od-poczatku",
-      "pubDate": "Fri, 21 Nov 2025 09:15:13 GMT",
       "source": "Antyweb"
     }
   ]
