@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T11:27:37.673Z",
+  "generatedAt": "2025-11-30T11:38:21.701Z",
   "items": [
     {
       "title": "Płacimy telefonem najchętniej w Europie. Polska wyprzedza Zachód w bankowości mobilnej",
@@ -21,6 +21,42 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "\"Prezydent dał kosza Orbanowi\" kontra \"niepotrzebne\". Fala komentarzy",
+      "link": "https://wydarzenia.interia.pl/kraj/news-prezydent-dal-kosza-orbanowi-kontra-niepotrzebne-fala-koment,nId,22462065",
+      "pubDate": "Sun, 30 Nov 2025 11:35:37 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Wobec spotkania Orbana ze zbrodniarzem\". Rzecznik o zmianach w planie wizyty prezydenta",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-odwoluje-spotkanie-z-viktorem-orbanem-rzecznik-prezydenta-komentuje-st8778771?source=rss",
+      "pubDate": "Sun, 30 Nov 2025 11:34:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Na trasie ekspresowej montują siatki ochronne dla nietoperzy",
+      "link": "https://tvn24.pl/rzeszow/podkarpacie-na-s19-powstaja-siatki-ochronne-dla-nietoperzy-st8778651?source=rss",
+      "pubDate": "Sun, 30 Nov 2025 11:29:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Brytyjski dziennik ocenia polską gospodarkę. \"Spełnia się marzenie Wałęsy\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-brytyjski-dziennik-pisze-o-polsce-gospodarczy-cud-europy,nId,22462064",
+      "pubDate": "Sun, 30 Nov 2025 11:28:41 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Kanada stawia na przejrzystość w użyciu AI. Powstał pierwszy publiczny rejestr",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/sztuczna-inteligencja-w-administracji-kanady-nowy-rejestr-juz-dostepny/jjfgd51",
+      "pubDate": "Sun, 30 Nov 2025 11:27:09 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kiedyś jeździły tu pociągi... Jak miasta rosną na terenach pokolejowych",
+      "link": "https://regiony.rp.pl/rewitalizacja/art43419291-kiedys-jezdzily-tu-pociagi-jak-miasta-rosna-na-terenach-pokolejowych",
+      "pubDate": "Sun, 30 Nov 2025 12:26:47 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "At least one killed and dozens injured in Russian strikes on Ukraine",
       "link": "http://www.euronews.com/2025/11/30/at-least-one-killed-and-dozens-injured-in-russian-strikes-on-ukraine",
       "pubDate": "Sun, 30 Nov 2025 12:24:39 +0100",
@@ -37,6 +73,12 @@
       "link": "https://regiony.rp.pl/okiem-samorzadowca/art43407421-pawel-gulewski-prezydent-torunia-luka-oswiatowa-caly-czas-rosnie",
       "pubDate": "Sun, 30 Nov 2025 12:19:37 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "North Korea leader Kim Jong Un and daughter mark air force anniversary",
+      "link": "http://www.euronews.com/video/2025/11/30/north-korea-leader-kim-jong-un-and-daughter-mark-air-force-anniversary",
+      "pubDate": "Sun, 30 Nov 2025 12:19:12 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Eksperyment banku na milion dolarów. \"Chcemy przetestować tę ścieżkę\"",
@@ -13545,6 +13587,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -19825,6 +19891,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -35678,6 +35768,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73893,6 +74007,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -79500,72 +79638,6 @@
       "title": "Minus 8 proc. sympatii netto. W rosyjskiej dezinformacji przodują Konfederacja i Braun",
       "link": "http://www.press.pl/tresc/90362,minus-8-proc_-sympatii-netto_-w-rosyjskiej-dezinformacji-przoduja-konfederacja-i-braun?rss=1",
       "pubDate": "Sat, 22 Nov 2025 08:10:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Republikanka skrytykowała Trumpa. Teraz zapowiedziała odejście z Kongresu",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-republikanka-skrytykowala-trumpa-teraz-zapowiedziala-odejsci,nId,22457039",
-      "pubDate": "Sat, 22 Nov 2025 07:09:39 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "W projekcie Ustawy o ochronie rynku książki brakuje rozwiązań wspierających autorów",
-      "link": "http://www.press.pl/tresc/90361,w-projekcie-ustawy-o-ochronie-rynku-ksiazki-brakuje-rozwiazan-wspierajacych-autorow?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:09:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "10 najlepszych uzdrowisk w Polsce. Sanatoria idealne na jesień i zimę",
-      "link": "https://geekweek.interia.pl/podroze/news-10-najlepszych-uzdrowisk-w-polsce-sanatoria-idealne-na-jesie,nId,22456371",
-      "pubDate": "Sat, 22 Nov 2025 07:08:04 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Najpopularniejsze profile marek medialnych i rozrywkowych na Instagramie",
-      "link": "http://www.press.pl/tresc/90358,najpopularniejsze-profile-marek-medialnych-i-rozrywkowych-na-instagramie?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:08:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Nowe władze \"Solidarności\" w Agorze. Przewodniczącą została Aleksandra Szyłło",
-      "link": "http://www.press.pl/tresc/90341,nowe-wladze-_solidarnosci_-w-agorze_-przewodniczaca-zostala-aleksandra-szyllo?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:07:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Program informacyjny dla rolników \"Agrobiznes\" ogląda w TVP 1 średnio 308 tys. widzów",
-      "link": "http://www.press.pl/tresc/90359,program-informacyjny-dla-rolnikow-_agrobiznes_-oglada-w-tvp-1-srednio-308-tys_-widzow?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:06:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Wiemy, co dzieje się z cenami mieszkań. Jest zaskoczenie",
-      "link": "https://businessinsider.com.pl/nieruchomosci/nie-widac-efektu-obnizek-stop-ceny-mieszkan-nadal-stabilne/92t6f5k",
-      "pubDate": "Sat, 22 Nov 2025 07:05:39 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Miał być \"najgorszym koszmarem Trumpa\". Zaskakujący zwrot akcji",
-      "link": "https://tvn24.pl/swiat/przyjacielskie-spotkanie-donalda-trumpa-i-zohrana-mamdaniego-j-d-vance-jest-zazdrosny-st8765081?source=rss",
-      "pubDate": "Sat, 22 Nov 2025 07:05:20 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Z ChataGPT korzysta już ponad 10 mln internautów. To gwałtowny wzrost",
-      "link": "http://www.press.pl/tresc/90319,mediapanel_-z-chatgpt-korzysta-juz ponad-10-mln-internautow?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:05:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Serial obyczajowy \"M jak miłość\" najdroższy w cenniku TVP na grudzień",
-      "link": "http://www.press.pl/tresc/90340,serial-obyczajowy-_m-jak-milosc_-najdrozszy-w-cenniku-tvp-na-grudzien?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:04:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Januszewska z Krytyki Politycznej do redakcji \"GQ Poland\". Ryżow head of video",
-      "link": "http://www.press.pl/tresc/90338,januszewska-z-krytyki-politycznej-do-redakcji-_gq-poland__-ryzow-head-of-video?rss=1",
-      "pubDate": "Sat, 22 Nov 2025 08:03:00 +0100",
       "source": "Press.pl"
     }
   ]
