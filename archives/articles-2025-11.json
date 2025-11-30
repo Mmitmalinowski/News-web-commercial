@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T07:42:22.575Z",
+  "generatedAt": "2025-11-30T07:51:39.654Z",
   "items": [
     {
       "title": "Płacimy telefonem najchętniej w Europie. Polska wyprzedza Zachód w bankowości mobilnej",
@@ -13,6 +13,12 @@
       "link": "https://www.bankier.pl/wiadomosc/Duza-zmiana-w-PKP-Intercity-Bilety-na-Pendolino-kupimy-z-4-miesiecznym-wyprzedzeniem-9047507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 30 Nov 2025 14:53:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Jawność i równość wynagrodzeń w Polsce. Co zmieni unijna dyrektywa?",
+      "link": "https://www.rmf24.pl/ekonomia/news-jawnosc-i-rownosc-wynagrodzen-w-polsce-co-zmieni-unijna-dyre,nId,8045367",
+      "pubDate": "Sun, 30 Nov 2025 08:43:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "To najlepsza na świecie winnica. Nie leży w Hiszpanii, Francji czy we Włoszech",
@@ -12189,6 +12195,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -18469,6 +18499,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -33962,6 +34016,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71457,6 +71535,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -78457,36 +78559,6 @@
       "link": "https://oko.press/plan-trumpa-i-grozby-wobec-ukrainy-czy-naprawde-mowimy-o-pokoju",
       "pubDate": "Fri, 21 Nov 2025 19:31:19 +0000",
       "source": "OKO.press"
-    },
-    {
-      "title": "Burzliwa dyskusja w Sejmie o dostępie do broni. \"Nikt nie chce zabierać praw myśliwym\"",
-      "link": "https://www.bankier.pl/wiadomosc/Burzliwa-dyskusja-w-Sejmie-o-dostepie-do-broni-Nikt-nie-chce-zabierac-praw-mysliwym-9043983.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 21 Nov 2025 20:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Jedno z paliw podrożało skokowo. To może być maksymalna cena w tym roku",
-      "link": "https://biznes.interia.pl/finanse/news-zmiany-na-stacjach-benzynowych-jedno-z-paliw-podrozalo-skoko,nId,22457007",
-      "pubDate": "Fri, 21 Nov 2025 19:28:31 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "​Jest kara dla Maccabi za skandaliczny transparent. Budzi zdziwienie",
-      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-jest-kara-dla-maccabi-za-skandaliczny-transparent-budzi-zdzi,nId,8042924",
-      "pubDate": "Fri, 21 Nov 2025 20:26:45 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rakieta SpaceX wybuchła przed lotem. Nie wiemy, dlaczego",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/rakieta-spacex-wybuchla-przed-lotem-nie-wiemy-dlaczego-st8764822?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 19:26:34 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "7-letnia Amelka zginęła w Ukrainie. Karol Nawrocki zamieścił poruszający wpis",
-      "link": "https://wiadomosci.onet.pl/kraj/7-letnia-amelka-zginela-w-ukrainie-karol-nawrocki-zamiescil-poruszajacy-wpis/x8v76lf",
-      "pubDate": "Fri, 21 Nov 2025 19:26:31 GMT",
-      "source": "Onet"
     }
   ]
 }
