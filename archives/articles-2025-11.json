@@ -1,7 +1,37 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T21:53:29.508Z",
+  "generatedAt": "2025-11-30T22:12:12.286Z",
   "items": [
+    {
+      "title": "'I saw them driving over injured people' - the terrifying escape from war in Sudan",
+      "link": "https://www.bbc.com/news/articles/cpvdn8pmmd1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 30 Nov 2025 22:02:43 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Niezbędnik przedsiębiorcy: zwolnienie z VAT * KSeF: rejestracja aut, rachunki, cyberbezpieczeństwo * odroczenie e-pkpir * składki za socjal",
+      "link": "https://pro.rp.pl/niezbednik-przedsiebiorcy/art43429551-niezbednik-przedsiebiorcy-zwolnienie-z-vat-ksef-rejestracja-aut-rachunki-cyberbezpieczenstwo-odroczenie-e-pkpir-skladki-za-socjal",
+      "pubDate": "Sun, 30 Nov 2025 22:59:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kurdowie grożą zerwaniem negocjacji. Stawiają Turcji warunek",
+      "link": "https://wiadomosci.onet.pl/swiat/kurdowie-groza-zerwaniem-negocjacji-stawiaja-turcji-warunek/t531jyc",
+      "pubDate": "Sun, 30 Nov 2025 21:58:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sydney police charge four men over alleged ‘international satanic child sex abuse material ring’",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/01/sydney-police-charge-four-men-alleged-international-satanic-child-sex-abuse-material-ring-ntwnfb",
+      "pubDate": "Sun, 30 Nov 2025 21:43:05 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "African leaders push for recognition of colonial crimes and reparations",
+      "link": "https://www.theguardian.com/world/2025/nov/30/african-leaders-push-for-recognition-of-colonial-crimes-and-reparations",
+      "pubDate": "Sun, 30 Nov 2025 21:40:48 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Azja walczy ze skutkami powodzi. Setki ofiar, tragiczny bilans wciąż rośnie",
       "link": "https://wydarzenia.interia.pl/zagranica/news-azja-walczy-ze-skutkami-powodzi-setki-ofiar-tragiczny-bilans,nId,22462175",
@@ -16407,6 +16437,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -22687,6 +22741,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -39476,6 +39554,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79563,6 +79665,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -82321,60 +82447,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Liderzy-Zachodu-wydali-wspolne-oswiadczeine-o-planie-USA-dla-Ukrainy-Wymaga-dodatkowej-pracy-9044180.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 22 Nov 2025 19:50:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Duże zmiany w umowach na prąd. Możliwość kilku sprzedawców na jednym liczniku",
-      "link": "https://www.bankier.pl/wiadomosc/Duze-zmiany-w-umowach-na-prad-Mozliwosc-kilku-sprzedawcow-na-jednym-liczniku-9044164.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 22 Nov 2025 19:50:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Porozumienie klimatyczne w Brazylii pod ostrzałem. Eksperci mówią o \"słabym wyniku\"",
-      "link": "https://businessinsider.com.pl/gospodarka/rozmowy-klimatyczne-onz-w-brazylii-krytyka-po-braku-przelomu/hqyzx8p",
-      "pubDate": "Sat, 22 Nov 2025 18:48:34 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kulisy \"koszmarnego spotkania\". USA miały wprost ostrzec sojuszników w sprawie Ukrainy",
-      "link": "https://wiadomosci.onet.pl/swiat/kulisy-koszmarnego-spotkania-usa-mialy-ostrzec-sojusznikow-z-nato-w-sprawie-ukrainy/m1w834n",
-      "pubDate": "Sat, 22 Nov 2025 18:47:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Policyjny pies zaatakował hokeistów w Mińsku. Film obiegł internet",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-22/sluzbowy-pies-zaatakowal-hokeistow-w-minsku-film-obiegl-internet/",
-      "pubDate": "Sat, 22 Nov 2025 19:45:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Ryanair ukarany za opóźnienia. Traci sloty na tym europejskim lotnisku",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-ryanair-ukarany-za-opoznienia-traci-sloty-na-tym-europejskim,nId,8043023",
-      "pubDate": "Sat, 22 Nov 2025 19:43:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "\"Skandaliczny\" plan Trumpa rozpalił Europę. Zachód przystępuje do kontrataku. \"To jest po prostu nie do przyjęcia\"",
-      "link": "https://wiadomosci.onet.pl/swiat/skandaliczny-plan-trumpa-rozpalil-europe-zachod-przystepuje-do-kontrataku-to-jest-po/6t0nr8e",
-      "pubDate": "Sat, 22 Nov 2025 18:42:43 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"To mój krzyk\". Czarzasty tłumaczy się z marszałkowskiego weta",
-      "link": "https://wydarzenia.interia.pl/kraj/news-to-moj-krzyk-czarzasty-tlumaczy-sie-z-marszalkowskiego-weta,nId,22457157",
-      "pubDate": "Sat, 22 Nov 2025 18:41:00 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Monetyzacja wiedzy w internecie. \"Dziki Zachód wymaga regulacji\"",
-      "link": "https://businessinsider.com.pl/praca/monetyzacja-wiedzy-online-kto-naprawde-powinien-doradzac-w-internecie/kr71ttl",
-      "pubDate": "Sat, 22 Nov 2025 18:39:15 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Boris Johnson: Przyjęcie planu Trumpa przez Kijów będzie oznaczało kapitulację jego przyjaciół",
-      "link": "https://www.rp.pl/dyplomacja/art43383861-boris-johnson-przyjecie-planu-trumpa-przez-kijow-bedzie-oznaczalo-kapitulacje-jego-przyjaciol",
-      "pubDate": "Sat, 22 Nov 2025 19:36:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
