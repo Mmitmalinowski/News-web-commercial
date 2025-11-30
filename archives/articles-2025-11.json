@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T09:21:27.903Z",
+  "generatedAt": "2025-11-30T09:34:39.891Z",
   "items": [
     {
       "title": "Płacimy telefonem najchętniej w Europie. Polska wyprzedza Zachód w bankowości mobilnej",
@@ -13,6 +13,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Duza-zmiana-w-PKP-Intercity-Bilety-na-Pendolino-kupimy-z-4-miesiecznym-wyprzedzeniem-9047507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 30 Nov 2025 14:53:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Gorąca dyskusja w studiu o pomocy dla Ukrainie. \"Czy wy słyszycie, o czym ja mówię?\"",
+      "link": "https://wiadomosci.onet.pl/kraj/goraca-dyskusja-w-studiu-o-ukrainie-wy-nie-wiecie-o-czym-ja-mowie/nx1ry48",
+      "pubDate": "Sun, 30 Nov 2025 09:22:54 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Stopnie alarmowe w Polsce. Jest decyzja premiera",
+      "link": "https://tvn24.pl/biznes/z-kraju/stopnie-alarmowe-w-polsce-jest-decyzja-premiera-st8778590?source=rss",
+      "pubDate": "Sun, 30 Nov 2025 09:21:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "TVN w paśmie \"MasterChefa\" wiceliderem oglądalności w 20-54",
+      "link": "http://www.press.pl/tresc/90510,tvn-w-pasmie-_masterchefa_-wiceliderem-ogladalnosci-w-20-54?rss=1",
+      "pubDate": "Sun, 30 Nov 2025 10:21:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Terapie genowe. Nadzieje są poważne, ale potrzeba cierpliwości",
+      "link": "https://www.rmf24.pl/nauka/news-terapie-genowe-nadzieje-sa-powazne-ale-potrzeba-cierpliwosci,nId,8044994",
+      "pubDate": "Sun, 30 Nov 2025 10:20:26 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Ostry protest Kazachstanu po ataku Ukrainy. \"Trzeci akt agresji\" ",
@@ -12819,6 +12843,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -19099,6 +19147,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -34736,6 +34808,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72519,6 +72615,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -78870,54 +78990,6 @@
       "title": "Rzeszów - prognoza pogody w dniu 22.11.2025",
       "link": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-22112025/vwc6ln3",
       "pubDate": "Sat, 22 Nov 2025 03:04:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poznań - prognoza pogody w dniu 22.11.2025",
-      "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-22112025/w3ddv57",
-      "pubDate": "Sat, 22 Nov 2025 03:04:22 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Opole. Prognoza pogody w dniu 22.11.2025",
-      "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-22112025/fvl03nc",
-      "pubDate": "Sat, 22 Nov 2025 03:04:13 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Olsztyn: jaka pogoda czeka nas 22.11.2025?",
-      "link": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-22112025/5c9gcj3",
-      "pubDate": "Sat, 22 Nov 2025 03:04:02 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Lublin. Prognoza pogody w dniu 22.11.2025",
-      "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-22112025/79v6013",
-      "pubDate": "Sat, 22 Nov 2025 03:04:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Łódź: jaka pogoda czeka nas 22.11.2025?",
-      "link": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-22112025/9f3dfkw",
-      "pubDate": "Sat, 22 Nov 2025 03:03:48 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kraków - sprawdź prognozę pogody w dniu 22.11.2025",
-      "link": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-22112025/ff08r5t",
-      "pubDate": "Sat, 22 Nov 2025 03:03:40 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kielce - 22.11.2025. Pogoda na dziś",
-      "link": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-22112025/e2m4d52",
-      "pubDate": "Sat, 22 Nov 2025 03:03:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Katowice. Prognoza pogody w dniu 22.11.2025",
-      "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-22112025/lr5sg53",
-      "pubDate": "Sat, 22 Nov 2025 03:03:27 GMT",
       "source": "Onet"
     }
   ]
