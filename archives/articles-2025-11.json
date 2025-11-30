@@ -1,7 +1,25 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T22:34:03.864Z",
+  "generatedAt": "2025-11-30T22:46:11.260Z",
   "items": [
+    {
+      "title": "Karambol pod Warszawą. Wśród rannych są dzieci",
+      "link": "https://wiadomosci.onet.pl/warszawa/karambol-pod-warszawa-wsrod-rannych-sa-dzieci/xsdsw1k",
+      "pubDate": "Sun, 30 Nov 2025 22:33:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Starmer leads fightback as budget row rumbles on for Reeves",
+      "link": "https://www.theguardian.com/uk-news/2025/nov/30/starmer-leads-fightback-as-budget-row-rumbles-on-for-reeves",
+      "pubDate": "Sun, 30 Nov 2025 22:30:17 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Labour’s economic plan will take years to deliver, Keir Starmer says",
+      "link": "https://www.theguardian.com/politics/2025/nov/30/labours-economic-plan-will-take-years-to-deliver-keir-starmer-says",
+      "pubDate": "Sun, 30 Nov 2025 22:30:17 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "To jeszcze nie koniec obniżek! Sprawdź te promocje na Cyber Monday",
       "link": "https://tech.wp.pl/to-jeszcze-nie-koniec-obnizek-sprawdz-te-promocje-na-cyber-monday,7226712488225696a",
@@ -397,6 +415,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/warunki-pokoju-moskwy-to-polityczna-fikcja-putin-dusi-wlasne-kleski-groteskowymi/n93sz8f",
       "pubDate": "Sun, 30 Nov 2025 18:08:55 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "California police search for suspect who killed four and wounded 11 in shooting at child’s party",
+      "link": "https://www.theguardian.com/us-news/2025/nov/30/stockton-banquet-hall-shooting-california",
+      "pubDate": "Sun, 30 Nov 2025 18:08:41 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Kiedy nauczyciele dostaną wyrównanie za godziny ponadwymiarowe? Zapytamy Katarzynę Lubnauer",
@@ -16509,6 +16533,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -22789,6 +22837,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -39626,6 +39698,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79809,6 +79905,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -82471,54 +82591,6 @@
       "link": "https://businessinsider.com.pl/gospodarka/podkarpacie-pod-sniegiem-tysiace-gospodarstw-bez-pradu-po-ataku-zimy/hghpqv7",
       "pubDate": "Sat, 22 Nov 2025 19:37:39 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Stracili cenny sprzęt na własnej ziemi. Pierwsza taka akcja Ukrainy",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-stracili-cenny-sprzet-na-wlasnej-ziemi-pierwsza-taka-akcja-u,nId,22457171",
-      "pubDate": "Sat, 22 Nov 2025 19:36:15 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "The Developing-8 countries plan media excellence hub and a new broadcasting network",
-      "link": "http://www.euronews.com/2025/11/22/the-developing-8-countries-plan-media-excellence-hub-and-a-new-broadcasting-network",
-      "pubDate": "Sat, 22 Nov 2025 20:28:00 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Donald Trump poinformowany o ustaleniach koalicji chętnych. Nowe doniesienia z Wielkiej Brytanii",
-      "link": "https://wiadomosci.onet.pl/swiat/trump-poinformowany-o-ustaleniach-koalicji-chetnych-doniesienia-z-wielkiej-brytanii/fy7l4hw",
-      "pubDate": "Sat, 22 Nov 2025 19:23:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "JFK's granddaughter shares terminal cancer diagnosis",
-      "link": "https://www.bbc.com/news/articles/cpvdyg348pko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 22 Nov 2025 19:21:08 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Tusk krytykuje Orbana. \"Żąda natychmiastowego zablokowania wszelkiej pomocy dla Ukrainy\"",
-      "link": "https://tvn24.pl/swiat/donald-tusk-krytykuje-viktora-orbana-zada-natychmiastowego-zablokowania-wszelkiej-pomocy-dla-ukrainy-st8766374?source=rss",
-      "pubDate": "Sat, 22 Nov 2025 19:19:39 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trwają poszukiwania księdza Marka Wodawskiego. Poruszający apel siostry kapłana",
-      "link": "https://wiadomosci.onet.pl/warszawa/trwaja-poszukiwania-ksiedza-marka-wodawskiego-rodzina-apeluje-o-pomoc/ms32fze",
-      "pubDate": "Sat, 22 Nov 2025 19:11:07 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Emmanuel Macron wskazuje, co powinno znaleźć się w planie pokojowym. \"W przeciwnym razie Rosjanie powrócą\"",
-      "link": "https://wiadomosci.onet.pl/swiat/macron-wskazuje-braki-w-planie-pokojowym-w-przeciwnym-razie-rosjanie-powroca/13p519z",
-      "pubDate": "Sat, 22 Nov 2025 19:08:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Akty dywersji. Komendant główny policji o szczegółach",
-      "link": "https://tvn24.pl/polska/akty-dywersji-szef-policji-marek-boron-o-szczegolach-interwencji-przy-torach-st8766308?source=rss",
-      "pubDate": "Sat, 22 Nov 2025 19:02:42 GMT",
-      "source": "TVN24"
     }
   ]
 }
