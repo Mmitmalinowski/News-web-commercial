@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T05:28:01.298Z",
+  "generatedAt": "2025-11-30T05:43:56.251Z",
   "items": [
     {
       "title": "Płacimy telefonem najchętniej w Europie. Polska wyprzedza Zachód w bankowości mobilnej",
@@ -13,6 +13,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Duza-zmiana-w-PKP-Intercity-Bilety-na-Pendolino-kupimy-z-4-miesiecznym-wyprzedzeniem-9047507.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 30 Nov 2025 14:53:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Zamieszanie z limitami płynów w bagażu podręcznym. Polacy są skonsternowani",
+      "link": "https://biznes.interia.pl/finanse/news-ile-plynow-mozna-miec-w-bagazu-podrecznym-polacy-gubia-sie-w,nId,22457008",
+      "pubDate": "Sun, 30 Nov 2025 05:40:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "W Zoom TV ma być więcej rozrywki. \"Treści trafiające w potrzeby młodszego pokolenia\"",
+      "link": "http://www.press.pl/tresc/90477,w-zoom-tv-ma-byc-wiecej-rozrywki_-_tresci-trafiajace-w-potrzeby-mlodszego-pokolenia_?rss=1",
+      "pubDate": "Sun, 30 Nov 2025 06:35:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Miliony euro kary za brak wdrożenia wyroku TSUE? \"Będzie bolało\"",
+      "link": "https://tvn24.pl/polska/lgbt-polska-gotowa-do-wdrozenia-wyroku-tsue-st8777124?source=rss",
+      "pubDate": "Sun, 30 Nov 2025 05:33:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1376",
+      "link": "https://www.rp.pl/swiat/art43426841-wojna-rosji-z-ukraina-dzien-1376",
+      "pubDate": "Sun, 30 Nov 2025 06:30:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Obraz spod granicy Polski przyciąga tłumy. Modlili się przy nim królowie",
@@ -11577,6 +11601,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -17857,6 +17905,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -33158,6 +33230,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -70269,6 +70365,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -77863,54 +77983,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/atak-rosji-na-tarnopol-wsrod-ofiar-7-letnia-polka/8886qyh",
       "pubDate": "Fri, 21 Nov 2025 17:32:29 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Afera Epsteina. Donald Trump ma jeszcze asa w rękawie. \"To ma odwrócić uwagę od jego porażek i Bóg wie, czego jeszcze\" [KOMENTARZ]",
-      "link": "https://wiadomosci.onet.pl/swiat/ujawnienie-akt-epsteina-trump-sie-zgodzil-ale-ma-jeszcze-asa-w-rekawie/1kgyl8q",
-      "pubDate": "Fri, 21 Nov 2025 17:31:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Już nie musisz wysilać pamięci. Prime Video wprowadza funkcję, która streści Ci cały poprzedni sezon",
-      "link": "https://www.chip.pl/2025/11/prime-video-wprowadza-funkcje-video-recaps",
-      "pubDate": "Fri, 21 Nov 2025 17:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Prezydent Ukrainy rozmawiał z szefem NATO. \"Jesteśmy gotowi\"",
-      "link": "https://wiadomosci.onet.pl/swiat/prezydent-ukrainy-rozmawial-z-szefem-nato-jestesmy-gotowi/j3f5972",
-      "pubDate": "Fri, 21 Nov 2025 17:30:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trump nałożył na niego sankcje. Sędzia opowiada o fatalnych konsekwencjach",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-nalozyl-na-niego-sankcje-sedzia-opowiada-o-fatalnych-k,nId,22456967",
-      "pubDate": "Fri, 21 Nov 2025 17:28:35 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Kuriozalna sytuacja. Francuski sędzia nie może zapłacić kartą",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-kuriozalna-sytuacja-francuski-sedzia-nie-moze-zaplacic-karta,nId,22456967",
-      "pubDate": "Fri, 21 Nov 2025 17:28:35 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Wydał nakaz aresztowania Netanjahu. Jego życie zmieniło się w koszmar",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-wydal-nakaz-aresztowania-netanjahu-jego-zycie-zmienilo-sie-w,nId,22456967",
-      "pubDate": "Fri, 21 Nov 2025 17:28:35 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "W proteście wyszła z konkursu, własnie została Miss Universe",
-      "link": "https://tvn24.pl/kultura-i-styl/miss-meksyku-zostala-miss-universe-kontrowersje-i-pytania-o-potrzebe-konkursu-st8763653?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 17:26:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Siedmioletnia Polka wśród ofiar rosyjskiego ataku na Tarnopol. Rzecznik MSZ: bestialstwo",
-      "link": "https://tvn24.pl/polska/siedmioletnia-polka-wsrod-zamordowanych-w-ataku-na-tarnopol-rzecznik-msz-maciej-wewior-bestialstwo-st8764787?source=rss",
-      "pubDate": "Fri, 21 Nov 2025 17:25:52 GMT",
-      "source": "TVN24"
     }
   ]
 }
