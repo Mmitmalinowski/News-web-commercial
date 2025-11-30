@@ -1,7 +1,19 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-11-30T17:29:47.935Z",
+  "generatedAt": "2025-11-30T17:42:55.654Z",
   "items": [
+    {
+      "title": "Andrzej Ochodek wybrany Dziennikarzem Ziem Górskich",
+      "link": "http://www.press.pl/tresc/90513,andrzej-ochodek-wybrany-dziennikarzem-ziem-gorskich?rss=1",
+      "pubDate": "Sun, 30 Nov 2025 18:41:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Karol Nawrocki powiedział \"nie\" Viktorowi Orbanowi. W sieci fala komentarzy",
+      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-powiedzial-nie-viktorowi-orbanowi-w-sieci-fala-komentarzy/csz34ej",
+      "pubDate": "Sun, 30 Nov 2025 17:36:33 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Pojawiły się w Chicago i zleciały się tłumy",
       "link": "https://tvn24.pl/tvnmeteo/ciekawostki/usa-puchacze-sniezne-pojawily-sie-w-chicago-i-zlecialy-sie-tlumy-st8779180?source=rss",
@@ -247,6 +259,12 @@
       "link": "https://wiadomosci.onet.pl/szwajcaria-odrzucila-podatki-dla-najbogatszych-referendum-zakonczone-zdecydowana/kmfvlzk",
       "pubDate": "Sun, 30 Nov 2025 16:11:04 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Ruszyły rozmowy o \"godnym pokoju\". Ukraińska delegacja w USA",
+      "link": "https://www.bankier.pl/wiadomosc/Ruszyly-rozmowy-o-godnym-pokoju-Ukrainska-delegacja-w-USA-9048152.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 30 Nov 2025 17:11:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Mamy to! Sukces polskich szczypiornistek na mistrzostwach świata",
@@ -4013,6 +4031,12 @@
     {
       "title": "Katastrofa śmigłowca i pożar. Dwie osoby zginęły",
       "link": "https://tvn24.pl/rzeszow/wies-cierpisz-podkarpacie-katastrofa-smiglowca-i-pozar-dwie-osoby-nie-zyja-st8778229?source=rss",
+      "pubDate": "Sat, 29 Nov 2025 15:52:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Dwóch braci zginęło w katastrofie śmigłowca. \"Odeszli młodzi, przedsiębiorczy ludzie\"",
+      "link": "https://tvn24.pl/rzeszow/wies-cierpisz-podkarpacie-katastrofa-smiglowca-i-pozar-dwie-osoby-nie-zyja-to-bracia-znani-przedsiebiorcy-st8778229?source=rss",
       "pubDate": "Sat, 29 Nov 2025 15:52:01 GMT",
       "source": "TVN24"
     },
@@ -15441,6 +15465,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -21721,6 +21769,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -38078,6 +38150,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77301,6 +77397,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -81031,54 +81151,6 @@
       "link": "https://www.bbc.com/news/articles/ce8qdm5zg10o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sat, 22 Nov 2025 14:34:29 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Trump przestawia pionki. \"On jest cholernie dobry w tym, co robi\". Wschodząca gwiazda Pentagonu rusza do Kijowa, aby \"pchnąć sprawy do przodu\"",
-      "link": "https://wiadomosci.onet.pl/swiat/trump-przestawia-pionki-on-jest-cholernie-dobry-w-tym-co-robi-wschodzaca-gwiazda/c7b7lms",
-      "pubDate": "Sat, 22 Nov 2025 14:28:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ukraine to begin peace plan talks with US in Switzerland in coming days",
-      "link": "http://www.euronews.com/2025/11/22/ukraine-to-begin-peace-plan-talks-with-us-in-switzerland-in-coming-days",
-      "pubDate": "Sat, 22 Nov 2025 15:26:45 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Marek Kozubal: Najbardziej rusofobiczna jest putinowska Rosja",
-      "link": "https://www.rp.pl/komentarze/art43379591-marek-kozubal-najbardziej-rusofobiczna-jest-putinowska-rosja",
-      "pubDate": "Sat, 22 Nov 2025 15:26:07 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Kolejny krok Rosjan\". Ukraiński dowódca o aktach dywersji w Polsce",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-22/kolejny-krok-rosjan-ukrainski-dowodca-o-aktach-dywersji-w-polsce/",
-      "pubDate": "Sat, 22 Nov 2025 15:26:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Pogrzeb ofiar rosyjskiego ataku w Tarnopolu. Wśród nich 7-letnia Polka",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/pogrzeb-ofiar-rosyjskiego-ataku-w-tarnopolu-wsrod-nich-7-letnia-polka",
-      "pubDate": "Sat, 22 Nov 2025 14:25:11 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Ukraińcy o haubicach NATO. Wystarczyły im trzy słowa",
-      "link": "https://tech.wp.pl/ukraincy-o-haubicach-nato-wystarczyly-im-trzy-slowa,7224275670239776a",
-      "pubDate": "Sat, 22 Nov 2025 15:23:18 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Pod czyimi skrzydłami wyląduje TVN? W grę wchodzą coraz ciekawsze scenariusze",
-      "link": "https://www.tabletowo.pl/pod-czyimi-skrzydlami-wyladuje-tvn-scenariusze/",
-      "pubDate": "Sat, 22 Nov 2025 14:23:15 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Zwolnienie lekarskie z kodem B. Takie obowiązki ma pracodawca",
-      "link": "https://biznes.interia.pl/praca/news-zwolnienie-z-kodem-b-pracodawca-dostaje-znak-ze-ma-pewne-obo,nId,22456344",
-      "pubDate": "Sat, 22 Nov 2025 14:20:05 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
