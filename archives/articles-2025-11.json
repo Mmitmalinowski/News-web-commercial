@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-12-01T05:54:46.992Z",
+  "generatedAt": "2025-12-01T06:25:54.853Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -61,6 +61,12 @@
       "link": "https://www.bbc.com/news/articles/cvgrwedyr0eo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 30 Nov 2025 22:41:04 GMT",
       "source": "BBC News"
+    },
+    {
+      "title": "Korupcyjny problem Ukrainy. Trump: Sytuacja nie pomaga w zakończeniu wojny",
+      "link": "https://www.bankier.pl/wiadomosc/Korupcyjny-problem-Ukrainy-Trump-Sytuacja-nie-pomaga-w-zakonczeniu-wojny-9048185.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 30 Nov 2025 23:41:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Karambol pod Warszawą. Wśród rannych są dzieci",
@@ -707,6 +713,12 @@
     {
       "title": "Lotnisko w Wilnie sparaliżowane. Po raz kolejny",
       "link": "https://tvn24.pl/swiat/lotnisko-w-wilnie-sparalizowane-po-raz-kolejny-st8779197?source=rss",
+      "pubDate": "Sun, 30 Nov 2025 17:09:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kilkunastogodzinny paraliż lotniska w Wilnie",
+      "link": "https://tvn24.pl/swiat/litwa-wilno-kilkunastogodzinny-paraliz-lotniska-st8779197?source=rss",
       "pubDate": "Sun, 30 Nov 2025 17:09:33 GMT",
       "source": "TVN24"
     },
@@ -16893,6 +16905,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -23173,6 +23209,30 @@
       "link": "https://www.theguardian.com/uk-news/2025/nov/27/welcome-to-the-half-real-half-fantasy-world-that-is-the-day-after-the-budget",
       "pubDate": "Thu, 27 Nov 2025 14:32:13 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
@@ -40298,6 +40358,30 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81057,6 +81141,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Twitter demaskuje użytkowników. Nowe zmiany zdradzają, skąd i jak prowadzone jest konto",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/twitter-demaskuje-uzytkownikow-nowe-zmiany-zdradzaja-skad-prowadzone-jest-konto-i-jak-je-zalozono/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "17",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-23T13:15:50Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ukraine's Aonishiki becomes sumo champion in Japan",
       "link": "https://www.bbc.com/sport/articles/cp84m625d33o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 23 Nov 2025 13:09:18 GMT",
@@ -83347,42 +83455,6 @@
       "link": "https://www.dw.com/en/ukraine-europeans-push-back-on-us-plan-during-geneva-talks/live-74850575?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 23 Nov 2025 02:24:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Hidden in plain sight - Mumbai's glorious Art Deco legacy at 100",
-      "link": "https://www.bbc.com/news/articles/cx2p2xp19r3o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 23 Nov 2025 01:57:27 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Trump says Ukraine deal is not ‘final offer’ as officials gather for Geneva summit",
-      "link": "https://www.theguardian.com/world/2025/nov/23/trump-says-ukraine-deal-is-not-final-offer-as-officials-gather-for-geneva-summit",
-      "pubDate": "Sun, 23 Nov 2025 01:26:36 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Dekalog ma zniknąć ze szkół w Teksasie. Sąd zmienił decyzję gubernatora",
-      "link": "https://wiadomosci.onet.pl/swiat/dekalog-ma-zniknac-ze-szkol-w-teksasie-sad-zmienil-decyzje-gubernatora/1fmeq5e",
-      "pubDate": "Sun, 23 Nov 2025 01:12:28 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nasa astronaut films Northern Lights from space",
-      "link": "https://www.bbc.com/news/videos/c15733pqy48o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 23 Nov 2025 01:05:41 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Pogoda na dziś - niedziela 23.11. W kilku regionach zima będzie mocno trzymać",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-23-11-w-kilku-regionach-zima-bedzie-mocno-trzymac-st8766345?source=rss",
-      "pubDate": "Sun, 23 Nov 2025 01:00:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Były prezydent Brazylii aresztowany. Jair Bolsonaro próbował przeciąć kajdanki",
-      "link": "https://wiadomosci.onet.pl/swiat/bolsonaro-chcial-przeciac-kajdanki-byly-prezydent-brazylii-aresztowany/2ff8y6x",
-      "pubDate": "Sun, 23 Nov 2025 00:26:52 GMT",
-      "source": "Onet"
     }
   ]
 }
