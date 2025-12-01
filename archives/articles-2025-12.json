@@ -1,7 +1,85 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-01T15:32:08.647Z",
+  "generatedAt": "2025-12-01T15:47:45.111Z",
   "items": [
+    {
+      "title": "Bangladesh sentences ex-UK minister Siddiq over corruption",
+      "link": "https://www.dw.com/en/bangladesh-sentences-ex-uk-minister-siddiq-over-corruption/a-74972924?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 1 Dec 2025 15:43:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "\"Historyczny dzień\". Zrabowane zabytki wracają do Polski",
+      "link": "https://tvn24.pl/polska/niemcy-zwracaja-polsce-zrabowane-zabytki-historyczny-dzien-st8780608?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 15:41:21 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ochrona zdrowia czy okręty? Komentarze po ujawnieniu listu z MZ",
+      "link": "https://wydarzenia.interia.pl/tylko-w-interii/news-bardzo-zla-wiadomosc-sa-inne-miejsca-na-oszczednosci-poslowi,nId,22462509",
+      "pubDate": "Mon, 01 Dec 2025 15:40:58 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Chemiczna spółka złożyła wniosek o upadłość. Chce układu z wierzycielami",
+      "link": "https://biznes.interia.pl/gospodarka/news-chemiczna-spolka-zlozyla-wniosek-o-upadlosc-chce-ukladu-z-wi,nId,22462538",
+      "pubDate": "Mon, 01 Dec 2025 15:39:55 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Eksplodują tankowce floty cieni. Ucierpiał już trzeci w ciągu czterech dni",
+      "link": "https://energia.rp.pl/ropa/art43432991-eksploduja-tankowce-floty-cieni-ucierpial-juz-trzeci-w-ciagu-czterech-dni",
+      "pubDate": "Mon, 01 Dec 2025 16:37:14 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kanclerz Niemiec: Potrzebujemy silnej Polski",
+      "link": "https://www.rmf24.pl/polityka/news-kanclerz-niemiec-potrzebujemy-silnej-polski,nId,8045688",
+      "pubDate": "Mon, 01 Dec 2025 16:35:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nie \"Kevin sam w domu\" ani \"Elf\". To najlepszy film świąteczny",
+      "link": "https://www.rmf24.pl/kultura/news-nie-kevin-sam-w-domu-ani-elf-to-najlepszy-film-swiateczny,nId,8045762",
+      "pubDate": "Mon, 01 Dec 2025 16:33:52 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Kurowska odpowiada na zarzuty mediów. W tle Fundusz Sprawiedliwości",
+      "link": "https://wydarzenia.interia.pl/kraj/news-kurowska-odpowiada-na-zarzuty-mediow-w-tle-fundusz-sprawiedl,nId,22462458",
+      "pubDate": "Mon, 01 Dec 2025 15:33:12 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Donald Tusk zwrócił się do Niemców. \"Pospieszcie się, jeśli chcecie wykonać taki gest\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-tusk-zwrocil-sie-do-niemcow-pospieszcie-sie-jesli-chcecie-wykonac-taki-gest/96k5ckq",
+      "pubDate": "Mon, 01 Dec 2025 15:32:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "iPhone 17e kończy z tanim wyglądem. Oczywiście jest haczyk",
+      "link": "https://spidersweb.pl/2025/12/iphone-17e-aparat.html",
+      "pubDate": "Mon, 01 Dec 2025 16:31:49 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "California police plea for details on shooting at child’s party with suspect unknown",
+      "link": "https://www.theguardian.com/us-news/2025/dec/01/stockton-california-shooting-suspect",
+      "pubDate": "Mon, 01 Dec 2025 15:31:10 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Żyją tam, gdzie wszystko inne ginie. Nowe odkrycie zadziwia świat",
+      "link": "https://geekweek.interia.pl/nauka/news-nowe-badania-ujawniaja-tajemnice-zycia-w-ekstremalnych-warun,nId,22462387",
+      "pubDate": "Mon, 01 Dec 2025 15:30:42 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Sztuczne serce po polsku. \"Nowy rozdział w leczeniu\"",
+      "link": "https://tvn24.pl/zdrowie/sztuczne-serce-po-polsku-nowy-rozdzial-w-leczeniu-st8780530?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 15:30:30 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Robot-przytulanka, który pamięta wszystko. Huawei wprowadza na rynek Smart Hanhan",
       "link": "https://www.chip.pl/2025/12/huawei-wprowadza-na-rynek-smart-hanhan",
@@ -9,10 +87,40 @@
       "source": "Chip.pl"
     },
     {
+      "title": "Nie żyje dziecięcy aktor Nikodem Marecki. Grał m.in. w serialu TVN",
+      "link": "https://www.wirtualnemedia.pl/nie-zyje-dzieciecy-aktor-nikodem-marecki-gral-m-in-w-serialu-tvn,7227804899421024a",
+      "pubDate": "Mon, 01 Dec 2025 16:28:00 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Kolejne porwania. Wśród uprowadzonych panna młoda",
+      "link": "https://tvn24.pl/swiat/nigeria-kolejne-porwania-panna-mloda-i-pastor-wsrod-uprowadzonych-st8780552?source=rss",
+      "pubDate": "Mon, 01 Dec 2025 15:27:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "OBR says inadvertent budget leak is ‘worst failure’ in its 15-year history",
+      "link": "https://www.theguardian.com/business/2025/dec/01/obr-budget-leak-investigation",
+      "pubDate": "Mon, 01 Dec 2025 15:27:21 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Dron nad Grodnem miał rozrzucać zakazane flagi. Białoruś oskarża Litwę",
+      "link": "https://wiadomosci.onet.pl/swiat/bialorus-oskarza-litwe-dron-nad-grodnem-mial-rozrzucac-zakazane-flagi/zfy4j39",
+      "pubDate": "Mon, 01 Dec 2025 15:26:43 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Polacy rezygnują z bankomatów. Nowe przepisy mogą namieszać",
       "link": "https://businessinsider.com.pl/wiadomosci/spada-liczba-bankomatow-w-miastach-nowe-przepisy-maja-ulatwic-wyplate/khxrv8h",
       "pubDate": "Mon, 01 Dec 2025 15:26:41 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Miasto Lwów pozwie polską firmę. W tle nieukończony projekt",
+      "link": "https://biznes.interia.pl/gospodarka/news-miasto-lwow-pozwie-polakow-w-tle-nieukonczony-projekt,nId,22462522",
+      "pubDate": "Mon, 01 Dec 2025 15:26:06 GMT",
+      "source": "Biznes.interia.pl"
     },
     {
       "title": "Chodniki jak lodowiska. W tym polskim mieście nadal występują utrudnienia",
@@ -25,6 +133,18 @@
       "link": "https://www.dw.com/en/netanyahu-s-unusual-pardon-request-sets-up-political-test/a-74970873?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 1 Dec 2025 15:26:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Trener reprezentacji Polski w pływaniu nie chce wywierać presji przed ME w Lublinie, ale… „Liczymy na medale!”",
+      "link": "https://wiadomosci.onet.pl/kraj/trener-reprezentacji-polski-w-plywaniu-nie-chce-wywierac-presji-przed-me-w-lublinie/9h4emgk",
+      "pubDate": "Mon, 01 Dec 2025 15:25:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Shock in Cameroon as 74-year-old opposition firebrand dies in detention",
+      "link": "https://www.bbc.com/news/articles/ckg9204y4w5o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 01 Dec 2025 15:24:06 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Wysokie kary za brak jednego dokumentu. Kierowcy zapłacą więcej",
@@ -247,6 +367,12 @@
       "link": "https://tvn24.pl/kultura-i-styl/james-cameron-przerazony-ai-to-blender-nie-jest-w-stanie-stworzyc-niczego-co-juz-wczesniej-nie-zostalo-zrobione-st8780185?source=rss",
       "pubDate": "Mon, 01 Dec 2025 14:58:11 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Ukraina uderzyła u brzegów Afryki? Tankowiec z rosyjską ropą uszkodzony przez zewnętrzne eksplozje",
+      "link": "https://www.bankier.pl/wiadomosc/Ukraina-uderzyla-u-brzegow-Afryki-Tankowiec-z-rosyjska-ropa-uszkodzony-przez-zewnetrzne-eksplozje-9048586.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 1 Dec 2025 15:58:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Węgierskie media reagują na decyzję Nawrockiego. Piszą o \"skandalu\"",
