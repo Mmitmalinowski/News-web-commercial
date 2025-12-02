@@ -1,7 +1,193 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-02T02:07:54.666Z",
+  "generatedAt": "2025-12-02T03:35:37.819Z",
   "items": [
+    {
+      "title": "PiS rozrywany najgłębszymi konfliktami od lat. Ale słowo na „R” jeszcze nie pada",
+      "link": "https://www.rp.pl/polityka/art43425901-pis-rozrywany-najglebszymi-konfliktami-od-lat-ale-slowo-na-r-jeszcze-nie-pada",
+      "pubDate": "Tue, 02 Dec 2025 04:30:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pobór wraca do Europy? Francja szykuje się na trudne czasy",
+      "link": "https://www.rp.pl/spoleczenstwo/art43429641-pobor-wraca-do-europy-francja-szykuje-sie-na-trudne-czasy",
+      "pubDate": "Tue, 02 Dec 2025 04:30:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Przemysław Tychmanowicz: W poszukiwaniu inwestycyjnego złotego Graala",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43431051-przemyslaw-tychmanowicz-w-poszukiwaniu-inwestycyjnego-zlotego-graala",
+      "pubDate": "Tue, 02 Dec 2025 04:23:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Prof. Dani Rodrik: Europa jest przystankiem w pół drogi",
+      "link": "https://www.rp.pl/gospodarka/art43391381-prof-dani-rodrik-europa-jest-przystankiem-w-pol-drogi",
+      "pubDate": "Tue, 02 Dec 2025 04:17:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Cezary Szymanek: Państwo na zakupach. Dlaczego Krajowa Grupa Spożywcza nie powinna przejmować Carrefoura",
+      "link": "https://www.rp.pl/opinie-ekonomiczne/art43430211-cezary-szymanek-panstwo-na-zakupach-dlaczego-krajowa-grupa-spozywcza-nie-powinna-przejmowac-carrefoura",
+      "pubDate": "Tue, 02 Dec 2025 04:13:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polskie sklepy stawiają na sztuczną inteligencję",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43431081-polskie-sklepy-stawiaja-na-sztuczna-inteligencje",
+      "pubDate": "Tue, 02 Dec 2025 04:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wrocław. Prognoza pogody w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/wroclaw/wroclaw-prognoza-pogody-w-dniu-02122025/rnsrbr1",
+      "pubDate": "Tue, 02 Dec 2025 03:05:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Włączają się kolejne silniki polskiego wzrostu gospodarczego",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43432291-wlaczaja-sie-kolejne-silniki-polskiego-wzrostu-gospodarczego",
+      "pubDate": "Tue, 02 Dec 2025 04:05:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zielona Góra: jaka pogoda czeka nas 02.12.2025?",
+      "link": "https://wiadomosci.onet.pl/lubuskie/zielona-gora-prognoza-pogody-w-dniu-02122025/wqj01j7",
+      "pubDate": "Tue, 02 Dec 2025 03:04:45 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Warszawa: Jaka pogoda na dziś? Prognoza w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-02122025/bx0e7rz",
+      "pubDate": "Tue, 02 Dec 2025 03:04:23 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Toruń - prognoza pogody w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-02122025/ev04ylp",
+      "pubDate": "Tue, 02 Dec 2025 03:04:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Szczecin - sprawdź prognozę pogody w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-02122025/gt448fk",
+      "pubDate": "Tue, 02 Dec 2025 03:04:06 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rzeszów. Jaka pogoda czeka nas 02.12.2025?",
+      "link": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-02122025/pl3vcv7",
+      "pubDate": "Tue, 02 Dec 2025 03:04:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Poznań - jakiej pogody możemy się spodziewać 02.12.2025?",
+      "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-02122025/0j9h4mp",
+      "pubDate": "Tue, 02 Dec 2025 03:03:51 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Opole - jakiej pogody możemy się spodziewać 02.12.2025?",
+      "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-02122025/bd32q8b",
+      "pubDate": "Tue, 02 Dec 2025 03:03:51 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Olsztyn - prognoza pogody w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-02122025/je8ctpe",
+      "pubDate": "Tue, 02 Dec 2025 03:03:32 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Lublin - 02.12.2025. Jaka będzie pogoda w mieście?",
+      "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-02122025/e5tk4lw",
+      "pubDate": "Tue, 02 Dec 2025 03:03:30 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Łódź - prognoza pogody w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-02122025/bh0e8by",
+      "pubDate": "Tue, 02 Dec 2025 03:03:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kraków - 02.12.2025. Prognoza pogody w mieście",
+      "link": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-02122025/p1f38qs",
+      "pubDate": "Tue, 02 Dec 2025 03:03:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kielce: jaka pogoda czeka nas 02.12.2025?",
+      "link": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-02122025/bcn9d00",
+      "pubDate": "Tue, 02 Dec 2025 03:02:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Katowice: Jaka pogoda na dziś? Prognoza w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-02122025/7g0gle2",
+      "pubDate": "Tue, 02 Dec 2025 03:02:57 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gorzów Wielkopolski - prognoza pogody w dniu 02.12.2025",
+      "link": "https://wiadomosci.onet.pl/lubuskie/gorzow-wielkopolski-prognoza-pogody-w-dniu-02122025/lnr70mt",
+      "pubDate": "Tue, 02 Dec 2025 03:02:44 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gdańsk - 02.12.2025. Prognoza pogody w mieście",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/gdansk-prognoza-pogody-w-dniu-02122025/x4c0lzf",
+      "pubDate": "Tue, 02 Dec 2025 03:02:43 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Bydgoszcz. Jaka pogoda czeka nas 02.12.2025?",
+      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/bydgoszcz-prognoza-pogody-w-dniu-02122025/c1kfyr3",
+      "pubDate": "Tue, 02 Dec 2025 03:02:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Białystok - 02.12.2025. Prognoza pogody w mieście",
+      "link": "https://wiadomosci.onet.pl/bialystok/bialystok-prognoza-pogody-w-dniu-02122025/x0xs5k1",
+      "pubDate": "Tue, 02 Dec 2025 03:02:25 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wnioski do SAFE złożone. Co kupimy z tych pożyczek?",
+      "link": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art43431601-wnioski-do-safe-zlozone-co-kupimy-z-tych-pozyczek",
+      "pubDate": "Tue, 02 Dec 2025 04:02:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Obligacje rządzą w TFI, a które towarzystwo rządzi obligacjami?",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43430351-obligacje-rzadza-w-tfi-a-ktore-towarzystwo-rzadzi-obligacjami",
+      "pubDate": "Tue, 02 Dec 2025 04:01:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Siły USA ostrzelały łódź z podejrzanymi o przemyt narkotyków. Szef Pentagonu zabrał głos",
+      "link": "https://wiadomosci.onet.pl/swiat/sily-usa-ostrzelaly-lodz-szef-pentagonu-zabral-glos/w1bcq47",
+      "pubDate": "Tue, 02 Dec 2025 02:59:25 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Bulgaria sees massive protests against budget, corruption",
+      "link": "https://www.dw.com/en/bulgaria-sees-massive-protests-against-budget-corruption/a-74975871?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 2 Dec 2025 02:55:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Western Australian farmer dies trying to protect property from fast-moving bushfire",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/02/man-dies-bushfire-western-australian-farmer-ravensthorpe",
+      "pubDate": "Tue, 02 Dec 2025 02:31:18 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Ukraine war briefing: Witkoff shuttles into Moscow to hear Putin’s demands",
+      "link": "https://www.theguardian.com/world/2025/dec/02/ukraine-war-briefing-witkoff-shuttles-into-moscow-to-hear-putins-demands",
+      "pubDate": "Tue, 02 Dec 2025 02:01:52 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Donald Trump postawił przywódcę Wenezueli pod ścianą. \"Siedem dni na ucieczkę z kraju\"",
       "link": "https://wiadomosci.onet.pl/swiat/ultimatum-trumpa-wobec-maduro-siedem-dni-na-ucieczke/3ghsn0p",
