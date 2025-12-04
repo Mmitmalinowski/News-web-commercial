@@ -1,12 +1,384 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-04T11:55:47.430Z",
+  "generatedAt": "2025-12-04T12:39:48.633Z",
   "items": [
+    {
+      "title": "\"Chodzi o człowieczeństwo\". Zgromadzenie Ogólne ONZ apeluje",
+      "link": "https://tvn24.pl/swiat/ukrainskie-dzieci-deportowane-do-rosji-zgromadzenia-ogolnego-onz-podjelo-rezolucje-domaga-sie-powrotu-maloletnich-st8784958?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:35:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tak Rosja i Iran obchodzą sankcje. Śledztwo wskazuje na niewielki kraj",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tak-rosja-i-iran-obchodza-sankcje-sledztwo-wskazuje-na-niewi,nId,22463735",
+      "pubDate": "Thu, 04 Dec 2025 12:33:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Śmiertelna pajęczyna dronów. Ukraiński żołnierz: nigdy nie wiesz czy to nie część pułapki",
+      "link": "https://businessinsider.com.pl/wiadomosci/nowa-bron-w-wojnie-rosja-ukraina-drony-na-kablach-swiatlowodowych-to-problem/ptjwm3y",
+      "pubDate": "Thu, 04 Dec 2025 12:32:05 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Firmy rodzinne na giełdzie trzymają się mocno. Kilka rzeczy zaskakuje",
+      "link": "https://www.rp.pl/gielda/art43453151-firmy-rodzinne-na-gieldzie-trzymaja-sie-mocno-kilka-rzeczy-zaskakuje",
+      "pubDate": "Thu, 04 Dec 2025 13:30:11 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Mamy doniesienia o Galaxy Watch Ultra 2. Samsung pracuje nad flagowcem",
+      "link": "https://android.com.pl/tech/997838-galaxy-watch-ultra-2-przeciek/",
+      "pubDate": "Thu, 04 Dec 2025 12:29:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Kosmiczny Teleskop Hubble'a fotobombardowany przez satelity. Problem rośnie",
+      "link": "https://geekweek.interia.pl/nauka/news-kosmiczny-teleskop-hubble-a-fotobombardowany-przez-satelity,nId,22463671",
+      "pubDate": "Thu, 04 Dec 2025 12:27:06 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Jechał pijany, zginęła 19-latka w zaawansowanej ciąży. Sąd obniżył karę",
+      "link": "https://tvn24.pl/bialystok/kolonie-lipsk-w-wypadku-zginela-19-latka-w-ciazy-sad-obnizyl-kare-dla-kierowcy-st8784782?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:26:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ukraiński dowódca o sytuacji w Pokrowsku. \"Utrzymujemy pozycje\"",
+      "link": "https://wiadomosci.onet.pl/swiat/ukrainski-dowodca-o-sytuacji-w-pokrowsku-utrzymujemy-pozycje/9s2944s",
+      "pubDate": "Thu, 04 Dec 2025 12:22:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rusza wielka inwestycja Orlenu. Zastąpi zamykane elektrownie węglowe",
+      "link": "https://businessinsider.com.pl/gielda/rusza-wielka-inwestycja-orlenu-zastapi-zamykane-elektrownie-weglowe/vc0dhpw",
+      "pubDate": "Thu, 04 Dec 2025 12:21:55 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Waszyngton ustępuje Chinom. Nie nałoży sankcji za kampanię szpiegowską",
+      "link": "https://biznes.interia.pl/polityka/news-waszyngton-ustepuje-chinom-nie-nalozy-sankcji-za-kampanie-sz,nId,22463725",
+      "pubDate": "Thu, 04 Dec 2025 12:21:45 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Zamiast na asfalcie namalowali linię na liściach. Internauci: Bareja",
+      "link": "https://tvn24.pl/lublin/kreznica-okragla-poniatowa-zamiast-na-asfalcie-namalowali-linie-na-lezacych-na-drodze-lisciach-i-igliwiu-st8785239?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:21:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Paulina Szewioła: TK czyli organ pomocny politykom, dla obywateli bezużyteczny",
+      "link": "https://www.rp.pl/opinie-prawne/art43445731-paulina-szewiola-tk-czyli-organ-pomocny-politykom-dla-obywateli-bezuzyteczny",
+      "pubDate": "Thu, 04 Dec 2025 13:21:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Finał Konkursu Szopek Krakowskich. Tradycja, która zachwyca świat ZDJĘCIA",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-final-konkursu-szopek-krakowskich-tradycja-ktora-zachwyca-sw,nId,8046641",
+      "pubDate": "Thu, 04 Dec 2025 13:20:42 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Australijskie śmigłowce Tiger dla Ukrainy? Miały być europejskim Apache’em",
+      "link": "https://tech.wp.pl/australijskie-smiglowce-tiger-dla-ukrainy-mialy-byc-europejskim-apacheem,7228820446059456a",
+      "pubDate": "Thu, 04 Dec 2025 13:20:31 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Pierwszy taki zakaz na świecie. Unia Europejska planuje podobną zmianę ",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-pierwszy-taki-zakaz-na-swiecie-unia-europejska-planuje-podob,nId,22463745",
+      "pubDate": "Thu, 04 Dec 2025 12:19:38 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Kaczyński \"nie umie zachować się w stosunku do drugiego człowieka\"",
+      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-ukarany-przez-komisje-etyki-politycy-komentuja-st8784999?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:17:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Allegro wprowadza rewolucyjną nowość. Szkoda tylko, że nie działa",
+      "link": "https://www.tabletowo.pl/allegro-wprowadza-rewolucyjna-nowosc-szkoda-ze-nie-dziala/",
+      "pubDate": "Thu, 04 Dec 2025 12:16:05 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Pierwsze Borsuki trafiły do polskich żołnierzy. Historyczny moment",
+      "link": "https://spidersweb.pl/2025/12/pierwsze-borsuki-trafily-do-polskich-zolnierzy.html",
+      "pubDate": "Thu, 04 Dec 2025 13:15:52 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Kolejne zdjęcia z wyspy Epsteina ujrzały światło dzienne",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-kolejne-zdjecia-z-wyspy-epsteina-ujrzaly-swiatlo-dzienne,nId,8046660",
+      "pubDate": "Thu, 04 Dec 2025 13:15:19 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Kaufland wydał na budowę systemu kaucyjnego 235 mln złotych",
+      "link": "https://wiadomosci.onet.pl/kraj/kaufland-wydal-na-budowe-systemu-kaucyjnego-235-mln-zlotych/jy62yzk",
+      "pubDate": "Thu, 04 Dec 2025 12:15:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Morawiecki i Błaszczak zabrali głos po ruchu Żurka. \"Żałosne\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-morawiecki-i-blaszczak-zabrali-glos-po-ruchu-zurka-zalosne,nId,22463792",
+      "pubDate": "Thu, 04 Dec 2025 12:13:53 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Jarosław Kaczyński reaguje na pismo Waldemara Żurka. \"Niezwykle brutalny zamach na polską demokrację\"",
+      "link": "https://wiadomosci.onet.pl/kraj/pismo-waldemara-zurka-jest-reakcja-jaroslawa-kaczynskiego-brutalny-zamach/z8734pc",
+      "pubDate": "Thu, 04 Dec 2025 12:13:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zawodowi prawnicy nie będą pełnomocnikami spółdzielców. Prezes adwokatury apeluje",
+      "link": "https://www.rp.pl/zawody-prawnicze/art43452891-zawodowi-prawnicy-nie-beda-pelnomocnikami-spoldzielcow-prezes-adwokatury-apeluje",
+      "pubDate": "Thu, 04 Dec 2025 13:11:24 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Czym właściwie jest wolność słowa? Czy potrzebne nam są regulacje?",
+      "link": "https://tech.wp.pl/czym-wlasciwie-jest-wolnosc-slowa-czy-potrzebne-nam-sa-regulacje,7228821511176769v",
+      "pubDate": "Thu, 04 Dec 2025 13:10:47 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Były amerykański żołnierz odsiedzi w Rosji dziesięć lat. \"Jestem ofiarą\"",
+      "link": "https://tvn24.pl/swiat/rosja-dodatkowe-dwa-lata-wiezienia-dla-bylego-amerykanskiego-zolnierza-roberta-gilmana-st8784603?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:10:17 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Oszuści podszywają się pod mObywatela. Ministerstwo Cyfryzacji ostrzega",
+      "link": "https://android.com.pl/tech/997830-oszusci-podszywaja-sie-pod-mobywatela/",
+      "pubDate": "Thu, 04 Dec 2025 12:10:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Psy zamknięte w mieszkaniu przez trzy tygodnie, bo właścicielka była na wakacjach. Ruszył proces",
+      "link": "https://tvn24.pl/lodz/nakielnica-psy-zamkniete-w-mieszkaniu-przez-trzy-tygodnie-bo-wlascicielka-byla-na-wakacjach-ruszyl-proces-st8784813?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:09:52 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Turcja żegna Gazprom i sięgnie po zamrożone aktywa Rosji",
+      "link": "https://energia.rp.pl/gaz/art43452471-turcja-zegna-gazprom-i-siegnie-po-zamrozone-aktywa-rosji",
+      "pubDate": "Thu, 04 Dec 2025 13:09:32 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Roblox: od prokuratorów z Teksasu po bana w Rosji. Czy „ekstermistyczne” LGBT to tylko zasłona dymna?",
+      "link": "https://mamstartup.pl/roblox-od-prokuratorow-z-teksasu-po-bana-w-rosji-czy-ekstermistyczne-lgbt-to-tylko-zaslona-dymna/",
+      "pubDate": "Thu, 04 Dec 2025 12:08:09 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Nowoczesne wozy bojowe trafiają w ręce żołnierzy. To polska konstrukcja",
+      "link": "https://geekweek.interia.pl/militaria/news-borsuki-w-koncu-trafiaja-do-zolnierzy-na-ten-moment-czekali,nId,22463646",
+      "pubDate": "Thu, 04 Dec 2025 12:07:46 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Awans Polski w rankingu najbogatszych państw. Wyniki badania",
+      "link": "https://tvn24.pl/biznes/z-kraju/awans-polski-w-rankingu-najbogatszych-panstw-wyniki-badania-st8785341?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:07:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wszystkie weta prezydenta. W 100 dni więcej, niż inni w całą kadencję",
+      "link": "https://tvn24.pl/polska/weta-karola-nawrockiego-rekord-wszystkie-ustawy-zawetowane-przez-prezydenta-st8784705?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:07:27 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Property of the people? ECB says Italy’s gold isn’t political treasure",
+      "link": "http://www.euronews.com/business/2025/12/04/property-of-the-people-ecb-says-italys-gold-isnt-political-treasure",
+      "pubDate": "Thu, 04 Dec 2025 13:06:56 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "\"Historyczna tragedia\". \"Der Spiegel\" o losie Ukrainy i \"stojącej z boku Europie\"",
+      "link": "https://wiadomosci.onet.pl/swiat/der-spiegel-krytykuje-unie-europejska-europa-moze-jeszcze-gorzko-zalowac/pbjmsnl",
+      "pubDate": "Thu, 04 Dec 2025 12:06:28 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zginęła 19-latka w zaawansowanej ciąży. Sąd obniżył wyrok dla pijanego kierowcy",
+      "link": "https://www.rmf24.pl/regiony/bialystok/news-zginela-19-latka-w-zaawansowanej-ciazy-sad-obnizyl-wyrok-dla,nId,8046675",
+      "pubDate": "Thu, 04 Dec 2025 13:05:51 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Five killed in Israeli strike on Gaza in response to attack on its soldiers",
+      "link": "http://www.euronews.com/2025/12/04/five-killed-in-israeli-strike-on-gaza-in-response-to-attack-on-its-soldiers",
+      "pubDate": "Thu, 04 Dec 2025 13:05:17 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Obława na migrantów podczas mistrzostw świata? \"Prezydent nie wyklucza niczego\"",
+      "link": "https://tvn24.pl/swiat/usa-mozliwa-oblawa-na-migrantow-podczas-mistrzostw-swiata-w-2026-roku-prezydent-nie-wyklucza-niczego-st8784616?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:05:04 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Flota cieni\" Putina pod ostrzałem. Nie wszyscy biją jednak brawo. \"Nie możemy zaakceptować tych ataków\"",
+      "link": "https://wiadomosci.onet.pl/swiat/flota-cieni-putina-pod-ostrzalem-nie-wszyscy-bija-jednak-brawo-nie-mozemy/50n7zrk",
+      "pubDate": "Thu, 04 Dec 2025 12:04:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "European Commission keeps Portuguese lithium mine 'strategic' status despite environmental concerns",
+      "link": "http://www.euronews.com/my-europe/2025/12/04/european-commission-keeps-portuguese-lithium-mine-strategic-status-despite-environmental-c",
+      "pubDate": "Thu, 04 Dec 2025 13:04:32 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Znaleźli martwego dzika z ASF. \"Jest przypuszczenie, że został podrzucony\"",
+      "link": "https://tvn24.pl/lodz/rozprza-znalezli-martwego-dzika-z-asf-jest-przypuszczenie-ze-zostal-podrzucony-st8785377?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:04:31 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Czekamy na rozkaz\". Kadyrow zwrócił się do Putina",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-czekamy-na-rozkaz-kadyrow-zwrocil-sie-do-putina,nId,8046561",
+      "pubDate": "Thu, 04 Dec 2025 13:04:26 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tusk \"przedstawi pilną informację\"",
+      "link": "https://tvn24.pl/polska/donald-tusk-chce-utajnienia-punktu-posiedzenia-sejmu-przedstawi-pilna-informacje-st8785449?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 12:02:26 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Premier Donald Tusk chce utajnić posiedzenie Sejmu. Zwrócił się do marszałka Czarzastego",
+      "link": "https://www.rp.pl/polityka/art43452951-premier-donald-tusk-chce-utajnic-posiedzenie-sejmu-zwrocil-sie-do-marszalka-czarzastego",
+      "pubDate": "Thu, 04 Dec 2025 13:02:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Killing of survivors sparks outrage – but entire US ‘drug boat’ war is legally shaky",
+      "link": "https://www.theguardian.com/us-news/2025/dec/04/venezuela-boat-strikes-legality-hegseth",
+      "pubDate": "Thu, 04 Dec 2025 12:00:21 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Fossil-fuel billionaires bought up millions of shares after meeting with top Trump officials",
+      "link": "https://www.theguardian.com/business/2025/dec/04/venture-global-shares",
+      "pubDate": "Thu, 04 Dec 2025 12:00:21 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Global race to secure critical minerals for weapons threatens climate, warns report",
+      "link": "https://www.theguardian.com/environment/2025/dec/04/critical-minerals-military-us-pentagon-climate-crisis",
+      "pubDate": "Thu, 04 Dec 2025 12:00:20 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Putin is ‘morally responsible’ for Dawn Sturgess’s novichok death, inquiry finds",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/04/putin-morally-responsible-dawn-sturgess-novichok-death-inquiry",
+      "pubDate": "Thu, 04 Dec 2025 12:00:20 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "New Texas law allows residents to sue those suspected of providing access to abortion pills",
+      "link": "https://www.theguardian.com/us-news/2025/dec/04/texas-law-abortion-pill-access-lawsuit",
+      "pubDate": "Thu, 04 Dec 2025 12:00:19 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Novichok poisonings, Russia’s role and UK response: key questions of inquiry",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/04/novichok-poisonings-russia-role-uk-response-key-questions-attack",
+      "pubDate": "Thu, 04 Dec 2025 12:00:17 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "mObywatel pozwoli zarobić? Nie daj się nabrać",
+      "link": "https://antyweb.pl/mobywatel-pozwoli-zarobic-nie-daj-sie-nabrac",
+      "pubDate": "Thu, 04 Dec 2025 12:00:04 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Afera korupcyjna ożywiła ukraińską politykę. Opozycja uderza w Wołodymyra Zełenskiego",
+      "link": "https://www.rp.pl/polityka/art43452021-afera-korupcyjna-ozywila-ukrainska-polityke-opozycja-uderza-w-wolodymyra-zelenskiego",
+      "pubDate": "Thu, 04 Dec 2025 13:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Geopark Łuk Mużakowa - kraina kolorów, która zachwyca naukowców i turystów",
+      "link": "https://turystyka.rp.pl/popularne-trendy/art43451981-geopark-luk-muzakowa-kraina-kolorow-ktora-zachwyca-naukowcow-i-turystow",
+      "pubDate": "Thu, 04 Dec 2025 12:59:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Tusk pisze do Czarzastego. \"Przedstawię pilną informację\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-tusk-pisze-do-czarzastego-przedstawie-pilna-informacje,nId,22463809",
+      "pubDate": "Thu, 04 Dec 2025 11:58:43 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Premier chce utajnienia części posiedzenia Sejmu. Chodzi o bezpieczeństwo państwa",
+      "link": "https://www.rmf24.pl/fakty/polska/news-premier-chce-utajnienia-czesci-posiedzenia-sejmu-chodzi-o-be,nId,8046684",
+      "pubDate": "Thu, 04 Dec 2025 12:58:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "UK workers will get unfair dismissal rights after six months from 1 January 2027",
+      "link": "https://www.theguardian.com/global-development/2025/dec/04/uk-workers-unfair-dismissal-rights-start-date-angela-rayner",
+      "pubDate": "Thu, 04 Dec 2025 11:58:07 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Tusk zapewnia: Narodowy Fundusz Zdrowia nie jest bankrutem",
+      "link": "https://www.rmf24.pl/fakty/polska/news-tusk-zapewnia-narodowy-fundusz-zdrowia-nie-jest-bankrutem,nId,8046678",
+      "pubDate": "Thu, 04 Dec 2025 12:57:10 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Kluczowe jest dobro pacjenta\". Premier zapowiada \"szukanie rozwiązań\"",
+      "link": "https://tvn24.pl/polska/szczyt-medyczny-o-sytuacji-w-nfz-donald-tusk-kluczowe-jest-dobro-pacjenta-st8785198?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 11:57:06 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Iranian FA drops plan to boycott 2026 World Cup draw",
+      "link": "https://www.dw.com/en/iranian-fa-drops-plan-to-boycott-2026-world-cup-draw/a-74937847?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 4 Dec 2025 11:57:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Były naczelny Gazeta.pl łączy siły z Michałem Marszałem. Jako \"nie wiadomo kto\"",
+      "link": "https://www.wirtualnemedia.pl/rafal-madajczak-byly-naczelny-gazeta-pl-wspolpraca-michal-marszal-z-tygodnika-nie,7228816434207680a",
+      "pubDate": "Thu, 04 Dec 2025 12:56:14 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Dorota Wellman z nagrodą specjalną VIVA! People Power 2025",
+      "link": "https://tvn24.pl/kultura-i-styl/dorota-wellman-z-nagroda-specjalna-viva-people-power-2025-st8785228?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 11:56:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Agencja ratingowa \"wielkiej trójki\" prognozuje wzrost PKB Polski i spadek stóp",
+      "link": "https://businessinsider.com.pl/gospodarka/inflacja-i-stopy-procentowe-nowe-prognozy-fitch/vrcgt2y",
+      "pubDate": "Thu, 04 Dec 2025 11:55:12 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Polski startup trafia do panteonu sztucznej inteligencji: OpenAI przejmuje Neptune.ai",
       "link": "https://mamstartup.pl/polski-startup-trafia-do-panteonu-sztucznej-inteligencji-openai-przejmuje-neptune-ai/",
       "pubDate": "Thu, 04 Dec 2025 11:54:53 +0000",
       "source": "MamStartup"
+    },
+    {
+      "title": "Wreszcie rozstrzygnięty. Przetarg na dostarczanie przesyłek w sądach i prokuraturach",
+      "link": "https://www.rmf24.pl/fakty/polska/news-wreszcie-rozstrzygniety-przetarg-na-dostarczanie-przesylek-w,nId,8046681",
+      "pubDate": "Thu, 04 Dec 2025 12:53:52 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Największa tajemnica współczesnego lotnictwa. Na pokładzie był mój znajomy",
@@ -21,10 +393,22 @@
       "source": "Tech WP.pl"
     },
     {
+      "title": "Nadzwyczajny wniosek Donalda Tuska do Sejmu. Prosi o utajnienie obrad",
+      "link": "https://wiadomosci.onet.pl/kraj/nadzwyczajny-wniosek-donalda-tuska-do-sejmu-prosi-o-utajnienie-obrad/t5w9sq9",
+      "pubDate": "Thu, 04 Dec 2025 11:52:20 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Nowoczesna Mobilność Premium: Zapomnij o korkach i zmęczeniu. Poznaj Liv Allure E+",
       "link": "https://spidersweb.pl/2025/12/liv-allure-e-mobilnosc.html",
       "pubDate": "Thu, 04 Dec 2025 12:52:01 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Były komendant policji stanie przed sądem",
+      "link": "https://tvn24.pl/lubuskie/slawno-byly-komendant-policji-stanie-przed-sadem-st8785277?source=rss",
+      "pubDate": "Thu, 04 Dec 2025 11:51:28 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Przyspieszają rozliczenia rządów PiS w PZU. Roszczenia wobec byłej prezes",
@@ -61,6 +445,12 @@
       "link": "https://tvn24.pl/krakow/tatry-ze-szlakow-zniknely-czujniki-z-agh-apel-wladz-tatrzanskiego-parku-narodowego-st8785380?source=rss",
       "pubDate": "Thu, 04 Dec 2025 11:45:13 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Morawiecki, Błaszczak, Ardanowski przed Trybunał Stanu? Kluczowy ruch Prokuratora Generalnego",
+      "link": "https://www.bankier.pl/wiadomosc/Morawiecki-Blaszczak-Ardanowski-przed-Trybunal-Stanu-Kluczowy-ruch-Prokuratora-Generalnego-9050452.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 4 Dec 2025 12:43:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Na drogach zrobi się ślisko. IMGW ostrzega",
@@ -797,6 +1187,12 @@
     {
       "title": "Sąd podjął decyzję ws. Iwanowa. Jest Europejski Nakaz Aresztowania",
       "link": "https://wydarzenia.interia.pl/kraj/news-sad-podjal-decyzje-ws-iwanowa-jest-europejski-nakaz-aresztow,nId,22463709",
+      "pubDate": "Thu, 04 Dec 2025 10:17:32 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Sąd podjął decyzję. Europejski Nakaz Aresztowania za Iwanowem i Kononowem",
+      "link": "https://wydarzenia.interia.pl/kraj/news-sad-podjal-decyzje-europejski-nakaz-aresztowania-za-iwanowem,nId,22463709",
       "pubDate": "Thu, 04 Dec 2025 10:17:32 GMT",
       "source": "Interia"
     },
@@ -2285,6 +2681,12 @@
     {
       "title": "Middle East: Israel launches retaliatory strike in Gaza",
       "link": "https://www.dw.com/en/middle-east-israel-launches-retaliatory-strike-in-gaza/live-75008658?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 4 Dec 2025 07:03:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Middle East: Israel launches strike in Gaza's Khan Younis",
+      "link": "https://www.dw.com/en/middle-east-israel-launches-strike-in-gaza-s-khan-younis/live-75008658?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Thu, 4 Dec 2025 07:03:00 GMT",
       "source": "DW"
     },
