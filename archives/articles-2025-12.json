@@ -1,12 +1,180 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-05T15:11:54.284Z",
+  "generatedAt": "2025-12-05T15:35:51.133Z",
   "items": [
+    {
+      "title": "Bezrobocie dalej rośnie. Pierwsze wyliczenia pokazują, ile przybyło osób bez pracy",
+      "link": "https://businessinsider.com.pl/gospodarka/bezrobocie-w-polsce-wzroslo-jeszcze-bardziej-resort-pracy-komentuje/1ry6kdb",
+      "pubDate": "Fri, 05 Dec 2025 15:33:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Budżet na 2026 r. Sejm zdecydował",
+      "link": "https://www.money.pl/gospodarka/budzet-na-2026-r-sejm-zdecydowal-7229130491665312a.html",
+      "pubDate": "Fri, 05 Dec 2025 16:32:45 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Rosja nie jest zagrożeniem. Znamy nową strategię bezpieczeństwa USA. Zupełnie inną niż do tej pory",
+      "link": "https://oko.press/rosja-nie-jest-zagrozeniem-znamy-nowa-strategie-bezpieczenstwa-usa-zupelnie-inna-niz-do-tej-pory",
+      "pubDate": "Fri, 05 Dec 2025 15:30:50 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Wielka kara dla platformy Muska. KE: doszło do naruszenia DSA",
+      "link": "https://cyberdefence24.pl/polityka-i-prawo/wielka-kara-dla-platformy-muska-ke-doszlo-do-naruszenia-dsa",
+      "pubDate": "Fri, 05 Dec 2025 16:30:01 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "„Przestawianie zwrotnicy. Jak politycy bawią się koleją”: Polityczny rozkład jazdy",
+      "link": "https://www.rp.pl/plus-minus/art43453801-przestawianie-zwrotnicy-jak-politycy-bawia-sie-koleja-polityczny-rozklad-jazdy",
+      "pubDate": "Fri, 05 Dec 2025 16:30:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nie masz jeszcze prezentów? Huawei obniża ceny flagowych zegarków WATCH GT 6 i dodaje świąteczne paski",
+      "link": "https://www.chip.pl/2025/12/huawei-obniza-ceny-flagowych-zegarkow-watch-gt-6-i-dodaje-swiateczne-paski",
+      "pubDate": "Fri, 05 Dec 2025 15:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Duża różnica poparcia między KO i PiS. CBOS pokazał najnowszy sondaż partyjny",
+      "link": "https://businessinsider.com.pl/wiadomosci/najnowszy-sondaz-partyjny-cbos-dwucyfrowa-roznica-miedzy-ko-i-pis/mxzvrgh",
+      "pubDate": "Fri, 05 Dec 2025 15:29:42 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Najnowszy Pixel 10 w niższej cenie. Doskonały Android i funkcje flagowców bez przepłacania",
+      "link": "https://android.com.pl/tech/998542-najnowszy-google-pixel-10-taniej/",
+      "pubDate": "Fri, 05 Dec 2025 15:28:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Wyjście z Europy i ograniczenie działalności w NATO. Media ujawniają plany Pentagonu",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-05/wyjscie-z-europy-i-ograniczenie-dzialalnosci-w-nato-media-ujawniaja-plany-pentagonu/",
+      "pubDate": "Fri, 05 Dec 2025 16:26:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Są nowe dane dot. bezrobocia. W której branży najłatwiej o pracę?",
+      "link": "https://www.rmf24.pl/fakty/polska/news-sa-nowe-dane-dot-bezrobocia-w-ktorej-branzy-najlatwiej-o-pra,nId,8047136",
+      "pubDate": "Fri, 05 Dec 2025 16:21:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Definitywne odkrycie o zdrowiu psychicznym. Wpływ biedy i bogactwa",
+      "link": "https://geekweek.interia.pl/medycyna/news-definitywne-odkrycie-nierownosci-bez-wplywu-na-zdrowie-psych,nId,22462941",
+      "pubDate": "Fri, 05 Dec 2025 15:20:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "„To: Witajcie w Derry”: Przez 27 lat śniłem o was",
+      "link": "https://www.rp.pl/plus-minus/art43453791-to-witajcie-w-derry-przez-27-lat-snilem-o-was",
+      "pubDate": "Fri, 05 Dec 2025 16:20:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Chiny wysłały największe siły morskie w historii. Ćwiczeń nie zapowiadano",
+      "link": "https://tvn24.pl/swiat/chiny-rozmiescily-sto-okretow-wzdluz-wszystkich-swoich-wybrzezy-zagrozenie-dla-wszystkich-st8786714?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 15:19:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wybuch wulkanu ściągnął Czarną Śmierć na Europę. To efekt motyla",
+      "link": "https://geekweek.interia.pl/historia/news-wybuch-wulkanu-sciagnal-czarna-smierc-na-europe-nastapil-efe,nId,22464249",
+      "pubDate": "Fri, 05 Dec 2025 15:17:45 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Netflix przejmie część Warner Bros. Discovery",
+      "link": "https://tvn24.pl/biznes/ze-swiata/netflix-przejmie-czesc-warner-bros-discovery-st8787359?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 15:17:13 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "India's elaborate welcome of Putin strains Western ties",
+      "link": "https://www.dw.com/en/india-s-elaborate-welcome-of-putin-strains-western-ties/a-75037811?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 5 Dec 2025 15:17:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Pijany wjechał w pieszych, trzy osoby zginęły. Zapadł wyrok",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/magnuszew-smiertelne-potracenie-trzech-osob-jest-wyrok-st8787557?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 15:16:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Niemcy: Parlament za powiększeniem armii. Wprowadza dobrowolną służbę wojskową",
+      "link": "https://www.rp.pl/polityka/art43460141-niemcy-parlament-za-powiekszeniem-armii-wprowadza-dobrowolna-sluzbe-wojskowa",
+      "pubDate": "Fri, 05 Dec 2025 16:15:55 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Elon Musk słono zapłaci. Unia Europejska przestaje się cackać",
+      "link": "https://spidersweb.pl/2025/12/elon-musk-x-unia-europejska-kara.html",
+      "pubDate": "Fri, 05 Dec 2025 16:15:17 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Ogromna kara dla Elona Muska. Komisja Europejska bez litości dla szefa Tesli",
+      "link": "https://antyweb.pl/ogromna-kara-dla-elona-muska-komisja-europejska-bez-litosci-dla-szefa-tesli",
+      "pubDate": "Fri, 05 Dec 2025 15:15:07 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Incydent podczas obrad Sejmu. \"Oddajcie pieniądze\"",
+      "link": "https://www.rmf24.pl/polityka/news-incydent-podczas-obrad-sejmu-oddajcie-pieniadze,nId,8047135",
+      "pubDate": "Fri, 05 Dec 2025 16:14:38 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Gorąco nad strategiczną francuską bazą. Wojsko otworzyło ogień",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-goraco-nad-strategiczna-francuska-baza-wojsko-otworzylo-ogie,nId,22464356",
+      "pubDate": "Fri, 05 Dec 2025 15:14:30 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Oto dlaczego Zbigniew Ziobro opuścił Węgry. \"Prowadzi swoją grę\"",
+      "link": "https://wiadomosci.onet.pl/kraj/oto-dlaczego-zbigniew-ziobro-opuscil-wegry-prowadzi-swoja-gre/vcnedpt",
+      "pubDate": "Fri, 05 Dec 2025 15:13:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nieruchomości i darowany Mercedes. Majątek ministry zdrowia Jolanty Sobierańskiej-Grendy robi wrażenie",
+      "link": "https://businessinsider.com.pl/wiadomosci/jolanta-sobieranska-grenda-pokazuje-majatek-oto-oswiadczenie-majatkowe-ministry/wqxdn9l",
+      "pubDate": "Fri, 05 Dec 2025 15:12:44 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Samorządy kupują autobusy. Będzie więcej elektryków",
+      "link": "https://regiony.rp.pl/transport/art43460421-samorzady-kupuja-autobusy-bedzie-wiecej-elektrykow",
+      "pubDate": "Fri, 05 Dec 2025 16:11:39 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nigel Farage’s shifting answers on school-days racism claims – a timeline",
+      "link": "https://www.theguardian.com/politics/2025/nov/24/nigel-farages-shifting-answers-on-school-days-racism-claims-a-timeline",
+      "pubDate": "Fri, 05 Dec 2025 15:11:38 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Europe's pro-Trump hotspots: Which countries stand out?",
+      "link": "http://www.euronews.com/my-europe/2025/12/05/europes-pro-trump-hotspots-which-countries-stand-out",
+      "pubDate": "Fri, 05 Dec 2025 16:10:55 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Gość „Plusa Minusa” poleca. Piotr Łuczuk: Scenariusze, które warto znać",
       "link": "https://www.rp.pl/plus-minus/art43453781-gosc-plusa-minusa-poleca-piotr-luczuk-scenariusze-ktore-warto-znac",
       "pubDate": "Fri, 05 Dec 2025 16:10:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Duża transakcja na polskim rynku bankowym. Biznes detaliczny zmienia właściciela",
+      "link": "https://businessinsider.com.pl/finanse/knf-zatwierdzila-podzial-banku-handlowego-velobank-przejmuje-biznes-detaliczny/ldf4gv4",
+      "pubDate": "Fri, 05 Dec 2025 15:09:03 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Nowe fakty w sprawie skandalicznych zdarzeń w diecezji sosnowieckiej. Jest ruch prokuratury",
@@ -39,10 +207,22 @@
       "source": "Tabletowo"
     },
     {
+      "title": "Who will drive the next wave of green growth?",
+      "link": "http://www.euronews.com/2025/12/05/who-will-drive-the-next-wave-of-green-growth",
+      "pubDate": "Fri, 05 Dec 2025 16:00:48 +0100",
+      "source": "Euronews"
+    },
+    {
       "title": "Nowy rozdział Gry o Tron na oficjalnym zwiastunie! Oto Rycerz Siedmiu Królestw",
       "link": "https://antyweb.pl/nowy-rozdzial-gry-o-tron-na-oficjalnym-zwiastunie-oto-rycerz-siedmiu-krolestw",
       "pubDate": "Fri, 05 Dec 2025 15:00:40 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "Tenured US professor fired over pro-Palestinian protests contests dismissal",
+      "link": "https://www.theguardian.com/us-news/2025/dec/05/tenured-professor-fired-pro-palestinian-protests",
+      "pubDate": "Fri, 05 Dec 2025 15:00:27 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Papież: to jest pilna kwestia",
@@ -2843,6 +3023,12 @@
     {
       "title": "Katastrofa, która zmieniła bieg historii. Wulkan, głód i pandemia",
       "link": "https://www.rmf24.pl/nauka/news-katastrofa-ktora-zmienila-bieg-historii-wulkan-glod-i-pandem,nId,8046966",
+      "pubDate": "Fri, 05 Dec 2025 11:02:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Erupcja wulkanu, która wywołała czarną śmierć. Naukowcy odsłaniają mroczną historię",
+      "link": "https://www.rmf24.pl/nauka/news-erupcja-wulkanu-ktora-wywolala-czarna-smierc-naukowcy-odslan,nId,8046966",
       "pubDate": "Fri, 05 Dec 2025 11:02:00 +0100",
       "source": "RMF24"
     },
@@ -19673,6 +19859,12 @@
     {
       "title": "Potrącił 74-latka i odjechał, potem zgłosił się na policję. Pieszy zmarł w szpitalu",
       "link": "https://tvn24.pl/lublin/zamosc-potracil-74-latka-i-odjechal-potem-zglosil-sie-na-policje-pieszy-zmarl-w-szpitalu-st8782895?source=rss",
+      "pubDate": "Wed, 03 Dec 2025 10:17:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Potrącenie i ucieczka, 74-latek zmarł. Policja: nikt mu nie pomógł",
+      "link": "https://tvn24.pl/lublin/zamosc-potracil-74-latka-i-odjechal-potem-zglosil-sie-na-policje-pieszy-zmarl-policja-nikt-mu-nie-pomogl-st8782895?source=rss",
       "pubDate": "Wed, 03 Dec 2025 10:17:44 GMT",
       "source": "TVN24"
     },
