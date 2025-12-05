@@ -1,12 +1,174 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-05T06:51:02.413Z",
+  "generatedAt": "2025-12-05T07:11:54.967Z",
   "items": [
+    {
+      "title": "Plac Wolnica zostanie odbetonowany. Sprawdź, co powstanie w sercu krakowskiego Kazimierza",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-plac-wolnica-zostanie-odbetonowany-sprawdz-co-powstanie-w-se,nId,8046881",
+      "pubDate": "Fri, 05 Dec 2025 08:09:08 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zombie w laboratorium NASA. Bakterie, które przeraziły badaczy",
+      "link": "https://spidersweb.pl/2025/12/zombie-w-laboratorium-nasa.html",
+      "pubDate": "Fri, 05 Dec 2025 08:05:55 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Polskie drony rosną w siłę. Skala wciąż trzyma je na uwięzi",
+      "link": "https://biznes.interia.pl/gospodarka/news-potencjal-polskich-dronow-imponuje-masowa-produkcja-wciaz-ra,nId,22464070",
+      "pubDate": "Fri, 05 Dec 2025 07:05:28 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Co podarować graczowi na święta? Pomysły, które trafiają w gusta",
+      "link": "https://geekweek.interia.pl/akcesoria/news-co-podarowac-graczowi-na-swieta-pomysly-ktore-trafiaja-w-gus,nId,22463383",
+      "pubDate": "Fri, 05 Dec 2025 07:05:05 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Minister zdrowia: Składka zdrowotna już nie wystarcza na finansowanie ochrony zdrowia",
+      "link": "https://www.rp.pl/polityka/art43458381-minister-zdrowia-skladka-zdrowotna-juz-nie-wystarcza-na-finansowanie-ochrony-zdrowia",
+      "pubDate": "Fri, 05 Dec 2025 08:03:40 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Bolt Lokalnie da Ci pewność, że dogadasz się z kierowcą",
+      "link": "https://www.tabletowo.pl/nowosc-bolt-lokalnie-co-to-jest/",
+      "pubDate": "Fri, 05 Dec 2025 07:01:07 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "From extreme heat to poor mental health: How climate change is harming the workplace",
+      "link": "http://www.euronews.com/green/2025/12/05/from-extreme-heat-to-poor-mental-health-how-climate-change-is-harming-the-workplace",
+      "pubDate": "Fri, 05 Dec 2025 08:00:58 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "All the new travel rules in Europe for 2025: Border checks, tourist taxes and behaviour crackdowns",
+      "link": "http://www.euronews.com/travel/2025/12/05/all-the-new-travel-rules-in-europe-for-2025-border-checks-tourist-taxes-and-behaviour-crac",
+      "pubDate": "Fri, 05 Dec 2025 08:00:46 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Rok w Zdjęciach Google. Odpalasz Recap i wsiadasz do wehikułu czasu",
+      "link": "https://spidersweb.pl/2025/12/zdjecia-google-recap-2025.html",
+      "pubDate": "Fri, 05 Dec 2025 08:00:31 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Milionowe straty i skażone środowisko. Policja rozbija mafię śmieciową",
+      "link": "https://www.rmf24.pl/fakty/polska/news-milionowe-straty-i-skazone-srodowisko-policja-rozbija-mafie-,nId,8046882",
+      "pubDate": "Fri, 05 Dec 2025 08:00:12 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Stoßlüften. Narodowa obsesja Niemców",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-stossluften-narodowa-obsesja-niemcow,nId,22463666",
+      "pubDate": "Fri, 05 Dec 2025 07:00:05 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"The Spectator\": Putin wierzy, że los mu sprzyja. I może mieć rację",
+      "link": "https://wydarzenia.interia.pl/interia-blizej-swiata/news-the-spectator-wladimir-putin-wierzy-ze-los-mu-sprzyja-i-nies,nId,22463451",
+      "pubDate": "Fri, 05 Dec 2025 07:00:05 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"The Guardian\": Powolny upadek Pokrowska",
+      "link": "https://wydarzenia.interia.pl/interia-blizej-swiata/news-the-guardian-powolny-upadek-pokrowska,nId,22463338",
+      "pubDate": "Fri, 05 Dec 2025 07:00:05 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Financial Times\": Czego nie uwzględnia nostalgia za latami 90.",
+      "link": "https://wydarzenia.interia.pl/interia-blizej-swiata/news-financial-times-czego-nie-uwzglednia-nostalgia-za-latami-90,nId,22456424",
+      "pubDate": "Fri, 05 Dec 2025 07:00:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Służby rozbiły grupę składującą groźne odpady. Zakopywali je nocami koło drogi ekspresowej",
+      "link": "https://wiadomosci.onet.pl/poznan/sluzby-rozbily-grupe-skladujaca-grozne-odpady-zakopywali-je-nocami-kolo-drogi/whhstg0",
+      "pubDate": "Fri, 05 Dec 2025 07:00:02 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zbuduj sobie własny kącik jutra już dziś, z urządzeniami TP-Link",
+      "link": "https://www.chip.pl/2025/12/zbuduj-kacik-jutra-tp-link",
+      "pubDate": "Fri, 05 Dec 2025 07:00:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Pierwsze Borsuki dla polskiej armii. Ukraińcy komentują",
+      "link": "https://tech.wp.pl/pierwsze-borsuki-dla-polskiej-armii-ukraincy-komentuja,7229089257008064a",
+      "pubDate": "Fri, 05 Dec 2025 07:59:03 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Posiedzenie Sejmu | 05.12",
+      "link": "https://wiadomosci.onet.pl/kraj/posiedzenie-sejmu-or-0512/t6616er",
+      "pubDate": "Fri, 05 Dec 2025 06:58:44 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Największe partie ze stratą, jedna formacja się umacnia. Najnowszy sondaż",
+      "link": "https://wydarzenia.interia.pl/kraj/news-najwieksze-partie-ze-strata-konfederacja-sie-umacnia-najnows,nId,22464058",
+      "pubDate": "Fri, 05 Dec 2025 06:57:56 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Są nowe prognozy na nadchodzącą zimę. Ten miesiąc przyniesie najwięcej śniegu i mrozu",
+      "link": "https://wiadomosci.onet.pl/pogoda/w-jednym-miesiacu-zima-zaatakuje-sniegiem-i-mrozem-mamy-pogode-do-konca-lutego/5krgq5z",
+      "pubDate": "Fri, 05 Dec 2025 06:55:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kataryna: Furtka do adopcji dzieci przez pary jednopłciowe",
+      "link": "https://www.rp.pl/plus-minus/art43453601-kataryna-furtka-do-adopcji-dzieci-przez-pary-jednoplciowe",
+      "pubDate": "Fri, 05 Dec 2025 07:55:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dziś posiedzenie Sejmu w trybie tajnym. Co to oznacza? ",
+      "link": "https://tvn24.pl/polska/posiedzenie-sejmu-w-trybie-tajnym-co-oznacza-w-jakich-sytuacjach-sie-o-nie-wnioskuje-st8786515?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 06:54:53 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Deregulacja w egzekucjach z nieruchomości. Nowe przepisy weszły w życie",
+      "link": "https://biznes.interia.pl/finanse/news-egzekucja-z-nieruchomosci-nowe-przepisy-wlasnie-weszly-w-zyc,nId,22464057",
+      "pubDate": "Fri, 05 Dec 2025 06:52:19 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Wyłączą dwa programy w telewizji naziemnej. W zamian nowa Republika?",
+      "link": "https://geekweek.interia.pl/technologia/news-wylacza-dwa-programy-w-telewizji-naziemnej-w-zamian-nowa-rep,nId,22464075",
+      "pubDate": "Fri, 05 Dec 2025 06:52:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Mysz i klawiatura jako prezent świąteczny? Łap nasze propozycje",
+      "link": "https://spidersweb.pl/2025/12/logitech-myszki-klawiatury-inspiracje-prezentowe.html",
+      "pubDate": "Fri, 05 Dec 2025 07:51:43 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Szara eminencja Sejmu. Do legendy przeszło zachowanie z czasów PiS",
+      "link": "https://wiadomosci.onet.pl/kraj/szara-eminencja-sejmu-do-legendy-przeszlo-zachowanie-z-czasow-pis/6nwfvrf",
+      "pubDate": "Fri, 05 Dec 2025 06:50:20 GMT",
+      "source": "Onet"
+    },
     {
       "title": "iPhone Air jest fatalny. Będzie trudno się go pozbyć",
       "link": "https://spidersweb.pl/2025/12/iphone-air-jest-spadek-wartosci.html",
       "pubDate": "Fri, 05 Dec 2025 07:50:09 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Firmowe floty tylko na prąd? Taki pomysł ma Komisja Europejska",
+      "link": "https://businessinsider.com.pl/technologie/motoryzacja/komisja-europejska-planuje-rewolucje-w-firmowych-flotach-branza-alarmuje-o/l36x4s2",
+      "pubDate": "Fri, 05 Dec 2025 06:49:08 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "Eksplozje w atmosferze Ziemi były częstsze. Nie pozostawiły kraterów",
@@ -31,6 +193,12 @@
       "link": "https://android.com.pl/rozrywka/998396-netflix-pewnie-idzie-po-warner-bros/",
       "pubDate": "Fri, 05 Dec 2025 06:46:21 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Wystąpienie prezydenta Karola Nawrockiego na Prezydenckim Szczycie Zdrowotnym",
+      "link": "https://wiadomosci.onet.pl/kraj/wystapienie-prezydenta-karola-nawrockiego-na-prezydenckim-szczycie-zdrowotnym/m3hz8le",
+      "pubDate": "Fri, 05 Dec 2025 06:46:21 GMT",
+      "source": "Onet"
     },
     {
       "title": "Ferrari 12Cilindri: Najbardziej dojrzałe Ferrari w historii",
@@ -659,6 +827,12 @@
     {
       "title": "Jak uzdrowić system ochrony zdrowia? \"Składka zdrowotna jest niewystarczająca\"",
       "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-jak-uzdrowic-system-ochrony-zdrowia-skladka-zdrowotna-jest-n,nId,8046748",
+      "pubDate": "Fri, 05 Dec 2025 06:10:50 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tyle kosztuje doba w polskim szpitalu. \"Jak najdroższy hotel\"",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-tyle-kosztuje-doba-w-polskim-szpitalu-jak-najdrozszy-hotel,nId,8046748",
       "pubDate": "Fri, 05 Dec 2025 06:10:50 +0100",
       "source": "RMF24"
     },
@@ -1797,6 +1971,12 @@
       "source": "Wirtualnemedia.pl"
     },
     {
+      "title": "Premier zyska wgląd w spółki Skarbu Państwa. Nowe narzędzia kontroli",
+      "link": "https://www.bankier.pl/wiadomosc/Premier-zyska-wglad-w-spolki-Skarbu-Panstwa-Nowe-narzedzia-kontroli-9050897.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 4 Dec 2025 22:02:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Prezydent Czech powoła premiera. Wcześniej postawił Andriejowi Babiszowi ultimatum",
       "link": "https://wiadomosci.onet.pl/swiat/prezydent-petr-pavel-powola-andreja-babisza-na-stanowisko-premiera/wmjpycf",
       "pubDate": "Thu, 04 Dec 2025 20:58:58 GMT",
@@ -1961,6 +2141,12 @@
     {
       "title": "​Trzy kraje wycofują się z Eurowizji po decyzji ws. Izraela",
       "link": "https://www.rmf24.pl/kultura/news-trzy-kraje-wycofuja-sie-z-eurowizji-po-decyzji-ws-izraela,nId,8046832",
+      "pubDate": "Thu, 04 Dec 2025 21:09:59 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Cztery kraje wycofują się z Eurowizji po decyzji ws. Izraela",
+      "link": "https://www.rmf24.pl/kultura/news-cztery-kraje-wycofuja-sie-z-eurowizji-po-decyzji-ws-izraela,nId,8046832",
       "pubDate": "Thu, 04 Dec 2025 21:09:59 +0100",
       "source": "RMF24"
     },
