@@ -1,7 +1,301 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-05T08:47:10.532Z",
+  "generatedAt": "2025-12-05T09:31:51.515Z",
   "items": [
+    {
+      "title": "Szybkie pieniądze za założenie konta? Płacisz o wiele wyższą cenę",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/szybkie-pieniadze-za-zalozenie-konta-placisz-o-wiele-wyzsza-cene",
+      "pubDate": "Fri, 05 Dec 2025 10:28:12 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Ukraine: Friedrich Merz travels to Brussels for talks on frozen Russian assets",
+      "link": "https://www.dw.com/en/ukraine-friedrich-merz-travels-to-brussels-for-talks-on-frozen-russian-assets/live-75026468?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 5 Dec 2025 09:28:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Nawrocki zdecydował ws. Funduszu Medycznego. Padły słowa o szantażu",
+      "link": "https://biznes.interia.pl/gospodarka/news-wiadomo-co-z-funduszem-medycznym-rzad-czekal-z-ta-ustawa-do,nId,22464156",
+      "pubDate": "Fri, 05 Dec 2025 09:27:13 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Właściciel TVN wybierze Netfliksa? Ruszyły negocjacje ws. HBO Max",
+      "link": "https://www.wirtualnemedia.pl/warner-bros-discovery-kto-kupi-netflix-negocjuje-przejecie-hbo-max,7229138252770208a",
+      "pubDate": "Fri, 05 Dec 2025 10:25:27 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Znowu leży część internetu. To zaczyna być niebezpieczne",
+      "link": "https://spidersweb.pl/2025/12/blad-500-awaria-cloudflare-znowu.html",
+      "pubDate": "Fri, 05 Dec 2025 10:25:24 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Lekarze z Warszawy stworzyli mu nowe ucho. Niezwykła historia Kamila",
+      "link": "https://geekweek.interia.pl/medycyna/news-kamil-po-8-nieudanych-operacjach-wreszcie-otrzymal-ucho-prze,nId,22463805",
+      "pubDate": "Fri, 05 Dec 2025 09:25:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Znaleźli martwego dzika z ASF. Prokuratura sprawdza",
+      "link": "https://tvn24.pl/lodz/rozprza-znalezli-martwego-dzika-z-asf-dochodzenie-prokuratury-st8786695?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 09:24:53 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wielka awaria w internecie. Wiele niedostępnych stron",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wielka-awaria-w-internecie-wiele-niedostepnych-stron,nId,8046949",
+      "pubDate": "Fri, 05 Dec 2025 10:23:13 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Jak wyglądał atak USA na rozbitków? „Dwie półnagie osoby dryfujące w wodzie”",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43458791-jak-wygladal-atak-usa-na-rozbitkow-dwie-polnagie-osoby-dryfujace-w-wodzie",
+      "pubDate": "Fri, 05 Dec 2025 10:23:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Eurowizja pogrążona w chaosie. Kolejne kraje bojkotują udział ze względu na Izrael. \"Kultura łączy, ale nie za wszelką cenę\"",
+      "link": "https://wiadomosci.onet.pl/politico/eurowizja-pograzona-w-chaosie-kolejne-kraje-bojkotuja-udzial-ze-wzgledu-na-izrael/gx11zvm",
+      "pubDate": "Fri, 05 Dec 2025 09:22:40 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Karol Nawrocki zdecydował w sprawie ustawy. \"Podpiszę ją przed państwem\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-karol-nawrocki-zdecydowal-w-sprawie-ustawy-podpisze-ja-przed,nId,22464154",
+      "pubDate": "Fri, 05 Dec 2025 09:21:36 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Sprzedaż dzieci w szpitalach w Gruzji. \"Matki otwierają groby, które są puste\"",
+      "link": "https://wiadomosci.onet.pl/kraj/sprzedaz-dzieci-w-szpitalach-w-gruzji-matki-otwieraja-groby-ktore-sa-puste/60mx5yb",
+      "pubDate": "Fri, 05 Dec 2025 09:21:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Miliardy złotych dla NFZ. Jest decyzja Karola Nawrockiego",
+      "link": "https://wiadomosci.onet.pl/kraj/miliardy-zlotych-dla-nfz-jest-decyzja-karola-nawrockiego/f6m1hpv",
+      "pubDate": "Fri, 05 Dec 2025 09:19:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Duża awaria. Kłopoty z działaniem niektórych stron i aplikacji",
+      "link": "https://tvn24.pl/biznes/najnowsze/awaria-cloudflare-klopoty-z-dzialaniem-niektorych-stron-i-aplikacji-st8786763?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 09:18:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Awaria Cloudflare – padło wiele serwisów",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/awaria-cloudflare-padlo-wiele-serwisow",
+      "pubDate": "Fri, 05 Dec 2025 10:16:24 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Influencer z milionowymi zasięgami stawia na AI-commerce. Iluzjonista Y dołącza do akcjonariatu Baseig S.A.",
+      "link": "https://mamstartup.pl/influencer-z-milionowymi-zasiegami-stawia-na-ai-commerce-iluzjonista-y-dolacza-do-akcjonariatu-baseig-s-a/",
+      "pubDate": "Fri, 05 Dec 2025 09:15:16 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Nawrocki zabrał głos, od razu podkreślił jedno. \"Charakter ratunkowy\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-nawrocki-zabral-glos-od-razu-podkreslil-jedno-charakter-ratu,nId,22464111",
+      "pubDate": "Fri, 05 Dec 2025 09:13:39 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Przeżył atak lwa. Ocalenie zawdzięczał swojej społeczności",
+      "link": "https://tech.wp.pl/przezyl-atak-lwa-ocalenie-zawdzieczal-swojej-spolecznosci,7229127769664448a",
+      "pubDate": "Fri, 05 Dec 2025 10:13:15 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Kolejna awaria internetu. Dotyka coraz więcej stron i usług (aktualizacja)",
+      "link": "https://www.tabletowo.pl/kolejna-awaria-internetu-5-12-2025-cloudflare/",
+      "pubDate": "Fri, 05 Dec 2025 09:12:55 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Globalna awaria Cloudflare",
+      "link": "https://wiadomosci.onet.pl/swiat/globalna-awaria-cloudflare/m2h85kd",
+      "pubDate": "Fri, 05 Dec 2025 09:11:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tak PiS zagłosuje w sprawie kryptowalut. Jarosław Kaczyński zabrał głos",
+      "link": "https://wiadomosci.onet.pl/kraj/pis-poprze-prezydenta-w-sprawie-weta-jaroslaw-kaczynski-odpowiada/t1xhy5b",
+      "pubDate": "Fri, 05 Dec 2025 09:11:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Chiny posadziły miliardy drzew. Niespodziewane skutki programu",
+      "link": "https://www.rmf24.pl/nauka/news-chiny-posadzily-miliardy-drzew-niespodziewane-skutki-program,nId,8046943",
+      "pubDate": "Fri, 05 Dec 2025 10:10:48 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zablokowali znany komunikator. Twierdzą, że to z powodu aktów terroryzmu",
+      "link": "https://geekweek.interia.pl/technologia/news-zablokowali-znany-komunikator-twierdza-ze-to-z-powodu-aktow,nId,22464124",
+      "pubDate": "Fri, 05 Dec 2025 09:10:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Radosław Sikorski o delegalizacji partii Grzegorza Brauna. \"Chyba tyle wolno mi powiedzieć\"",
+      "link": "https://wiadomosci.onet.pl/kraj/sikorski-o-delegalizacji-partii-brauna-chyba-tyle-wolno-mi-powiedziec/293vwgz",
+      "pubDate": "Fri, 05 Dec 2025 09:09:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "„Die Zeit”: Niemieccy byli politycy i lobbyści spotykają się z Rosjanami w Abu Zabi",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/die-zeit-niemieccy-byli-politycy-i-lobbysci-spotykaja-sie-z-rosjanami-w-abu-zabi",
+      "pubDate": "Fri, 05 Dec 2025 09:09:51 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Madonna skrytykowała Trumpa. Chodzi o zdrowie publiczne",
+      "link": "https://tvn24.pl/zdrowie/madonna-skrytykowala-trumpa-chodzi-o-zdrowie-publiczne-i-swiatowy-dzien-aids-st8785227?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 09:07:47 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Duchy\" zaatakowały, Rosjanie stracili myśliwiec ",
+      "link": "https://tvn24.pl/swiat/rosjanie-stracili-mysliwiec-wielozadaniowy-mig-29-na-krymie-st8786605?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 09:06:25 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Samolot szykował się do startu. Nagle pojawił się ogień, pilna ewakuacja",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-samolot-szykowal-sie-do-startu-nagle-pojawil-sie-ogien-pilna,nId,22464116",
+      "pubDate": "Fri, 05 Dec 2025 09:05:17 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Euro poniżej 4,23 zł. Frank najtańszy od sierpnia",
+      "link": "https://www.bankier.pl/wiadomosc/Euro-ponizej-4-23-zl-Frank-najtanszy-od-sierpnia-9051046.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 5 Dec 2025 10:05:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Poczta Polska z nową umową. Opiewa na 1,89 mld zł",
+      "link": "https://biznes.interia.pl/firma/news-nowy-kontrakt-dla-poczty-polskiej-kwota-umowy-siega-1-89-mld,nId,22464121",
+      "pubDate": "Fri, 05 Dec 2025 09:04:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Kolejna globalna awaria Cloudflare. Nie działa downdetector, nie działa LinkedIn, nie działa dużo polskich sklepów on-line",
+      "link": "https://sekurak.pl/kolejna-duza-awaria-cloudflare-nie-dziala-downdetector-nie-dziala-linkedin-nie-dziala-duzo-polskich-sklepow-on-line/",
+      "pubDate": "Fri, 05 Dec 2025 09:03:06 +0000",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Primark wejdzie do trzech nowych miast. Znamy lokalizację",
+      "link": "https://businessinsider.com.pl/gospodarka/primark-wejdzie-do-trzech-nowych-miast-znamy-lokalizacje/39ekkgg",
+      "pubDate": "Fri, 05 Dec 2025 09:00:08 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Nowy system wyświetlania 3D EyeReal wspomagany przez AI eliminuje potrzebę stosowania okularów",
+      "link": "https://www.chip.pl/2025/12/wyswietlanie-3d-eyereal-ai-bez-okularow",
+      "pubDate": "Fri, 05 Dec 2025 09:00:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Tanzania podpadła USA? Waszyngton mówi o represjach i przemocy",
+      "link": "https://www.bankier.pl/wiadomosc/Tanzania-podpadla-USA-Waszyngton-mowi-o-represjach-i-przemocy-9050933.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 5 Dec 2025 10:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Prowokacyjny język napędza przemoc? Amerykanie zaniepokojeni poziomem debaty",
+      "link": "https://www.bankier.pl/wiadomosc/Prowokacyjny-jezyk-napedza-przemoc-Amerykanie-zaniepokojeni-poziomem-debaty-9050978.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 5 Dec 2025 10:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Śledztwo ws. Barbary Skrzypek umorzone",
+      "link": "https://www.rp.pl/prawo-karne/art43458681-sledztwo-ws-barbary-skrzypek-umorzone",
+      "pubDate": "Fri, 05 Dec 2025 09:59:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "IndiGo flight chaos: Major Indian airports hit as country’s largest airline cancels services",
+      "link": "http://www.euronews.com/travel/2025/12/05/indigo-flight-chaos-major-indian-airports-hit-as-countrys-largest-airline-cancels-services",
+      "pubDate": "Fri, 05 Dec 2025 09:58:09 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Tragiczna śmierć w zakładzie. Mężczyzna wpadł do maszyny zgniatającej kartony",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-tragiczna-smierc-w-zakladzie-mezczyzna-wpadl-do-maszyny-zgni,nId,8046910",
+      "pubDate": "Fri, 05 Dec 2025 09:57:40 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zełenski w Polsce? Szef MSZ: Korona z głowy by nie spadła...",
+      "link": "https://www.rmf24.pl/polityka/news-zelenski-w-polsce-szef-msz-korona-z-glowy-by-nie-spadla,nId,8046909",
+      "pubDate": "Fri, 05 Dec 2025 09:57:36 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tani telewizor MiniLED? Sharp ma coś takiego",
+      "link": "https://www.tabletowo.pl/tani-telewizor-miniled-sharp-jp7000-cena-polska/",
+      "pubDate": "Fri, 05 Dec 2025 08:56:06 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Zbyt głośne zabawki niebezpieczne dla dzieci. UOKiK alarmuje",
+      "link": "https://www.rmf24.pl/fakty/polska/news-zbyt-glosne-zabawki-niebezpieczne-dla-dzieci-uokik-alarmuje,nId,8046932",
+      "pubDate": "Fri, 05 Dec 2025 09:55:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Połknął jajo Fabergé. \"Jubilerskie dzieło dało się odzyskać\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-polknal-jajo-faberge-jubilerskie-dzielo-dalo-sie-odzyskac,nId,8046919",
+      "pubDate": "Fri, 05 Dec 2025 09:53:55 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tam na Marsie nie można lądować. Szkoda, bo to najciekawsze miejsca",
+      "link": "https://tech.wp.pl/tam-na-marsie-nie-mozna-ladowac-szkoda-bo-to-najciekawsze-miejsca,7229108797492128a",
+      "pubDate": "Fri, 05 Dec 2025 09:53:41 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "​Więzienie za lot dronem? Ten europejski kraj zaostrza przepisy",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wiezienie-za-lot-dronem-ten-europejski-kraj-zaostrza-przepis,nId,8046934",
+      "pubDate": "Fri, 05 Dec 2025 09:53:24 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ministra zdrowia: składka zdrowotna już nie wystarcza",
+      "link": "https://businessinsider.com.pl/prawo/podatki/ministra-zdrowia-nfz-potrzebuje-wsparcia/p6clp90",
+      "pubDate": "Fri, 05 Dec 2025 08:51:57 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Absurdalna dziura w AI-owym narzędziu dla prawników (Filevine). W prosty sposób można było pobrać bez uwierzytelnienia ~100000 projektów/dokumentów",
+      "link": "https://sekurak.pl/absurdalna-dziura-w-ai-owym-narzedziu-dla-prawnikow-filevine-w-prosty-sposob-mozna-bylo-pobrac-bez-uwierzytelnienia-100000-projektow-dokumentow/",
+      "pubDate": "Fri, 05 Dec 2025 08:50:20 +0000",
+      "source": "Sekurak"
+    },
+    {
+      "title": "One UI 8.5 na Galaxy S24 Ultra. Co zmieni nowa nakładka Samsunga?",
+      "link": "https://android.com.pl/tech/998406-one-ui-8-5-juz-na-galaxy-s24-ultra/",
+      "pubDate": "Fri, 05 Dec 2025 08:50:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Nowy architekt sali balowej Trumpa. Poprzednia firma \"zbyt mała\"",
+      "link": "https://tvn24.pl/swiat/usa-donald-trump-zatrudnil-nowego-architekta-odpowiedzialnego-za-budowe-sali-balowej-przy-bialym-domu-st8786450?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 08:49:28 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Konferencja Oh My Hack 2025. Dawka unikalnej wiedzy",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/konferencja-oh-my-hack-2025-dawka-unikalnej-wiedzy",
+      "pubDate": "Fri, 05 Dec 2025 09:45:32 +0100",
+      "source": "Cyberdefence24"
+    },
     {
       "title": "Kierująca audi śmiertelnie potraciła pieszego i zderzyła się z innym pojazdem",
       "link": "https://www.rmf24.pl/regiony/lublin/news-kierujaca-audi-smiertelnie-potracila-pieszego-i-zderzyla-sie,nId,8046928",
@@ -127,6 +421,12 @@
       "link": "https://spidersweb.pl/2025/12/wiza-usa-problem-fact-checking.html",
       "pubDate": "Fri, 05 Dec 2025 09:29:13 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Utajnione obrady Sejmu. Premier przedstawi informację ws. bezpieczeństwa państwa",
+      "link": "https://www.bankier.pl/wiadomosc/Utajnione-obrady-Sejmu-Premier-przedstawi-informacje-ws-bezpieczenstwa-panstwa-9051031.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 5 Dec 2025 09:28:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Zmarł Rafał Kołsut. Jako dziecko był gwiazdą \"Ziarna\"",
@@ -281,6 +581,12 @@
     {
       "title": "Sprawa śmierci Barbary Skrzypek. Prokuratura wydała komunikat",
       "link": "https://wiadomosci.onet.pl/kraj/sprawa-smierci-barbary-skrzypek-prokuratura-wydala-komunikat/7besnwn",
+      "pubDate": "Fri, 05 Dec 2025 08:13:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Jarosław Kaczyński chciałby zakazania kryptowalut. \"Będziemy wspierać prezydenta\" [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-chcialby-zakazania-kryptowalut-bedziemy-wspierac-prezydenta/dzhp54w",
       "pubDate": "Fri, 05 Dec 2025 08:13:59 GMT",
       "source": "Onet"
     },
@@ -637,6 +943,12 @@
       "link": "https://www.rp.pl/plus-minus/art43453571-politolog-z-usa-popularnosc-trumpa-pikuje-czy-demokraci-wykorzystaja-szanse",
       "pubDate": "Fri, 05 Dec 2025 08:20:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nadzieja dla środowiska. Nowe podejście do biodegradowalnego plastiku",
+      "link": "https://tech.wp.pl/nadzieja-dla-srodowiska-nowe-podejscie-do-biodegradowalnego-plastiku,7229129975847840a",
+      "pubDate": "Fri, 05 Dec 2025 08:19:00 +0100",
+      "source": "Tech WP.pl"
     },
     {
       "title": "Nowy trend na rynku mieszkaniowym. \"To zaskakujące\"",
