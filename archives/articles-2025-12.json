@@ -1,12 +1,96 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-05T05:27:07.718Z",
+  "generatedAt": "2025-12-05T05:47:02.296Z",
   "items": [
+    {
+      "title": "Michał Szułdrzyński: Problem emerytowanych zbawców narodów",
+      "link": "https://www.rp.pl/plus-minus/art43453551-michal-szuldrzynski-problem-emerytowanych-zbawcow-narodow",
+      "pubDate": "Fri, 05 Dec 2025 06:45:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "W końcu! Hackathon jak festiwal, nie maraton na pizzę. ElevenLabs i ProjectEurope ze wspólnym projektem",
+      "link": "https://mamstartup.pl/w-koncu-hackathon-jak-festiwal-nie-maraton-na-pizze-elevenlabs-i-projecteurope-ze-wspolnym-projektem/",
+      "pubDate": "Fri, 05 Dec 2025 05:42:17 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Arabowie wybierają nie tylko Zakopane. Ten region chce ich przyciągnąć ",
+      "link": "https://biznes.interia.pl/finanse/news-juz-nie-tylko-zakopane-turysci-z-bliskiego-wschodu-odkrywaja,nId,22463781",
+      "pubDate": "Fri, 05 Dec 2025 05:40:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Dotacje UE na zakup pociągów. Eksperci mówią o \"kuriozalnej sytuacji\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-unijne-dotacje-na-pociagi-bruksela-moze-zazadac-zwrotu-pieni,nId,22464048",
+      "pubDate": "Fri, 05 Dec 2025 05:37:46 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Putin vows Russia will take Donbas by force if Ukraine's troops will not withdraw",
+      "link": "http://www.euronews.com/2025/12/05/putin-vows-russia-will-take-donbas-by-force-if-ukraines-troops-will-not-withdraw",
+      "pubDate": "Fri, 05 Dec 2025 06:35:46 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Auta na prąd jedyną opcją? Ten rok ma być kluczowy dla polskich przedsiębiorców",
+      "link": "https://www.rmf24.pl/fakty/polska/news-auta-na-prad-jedyna-opcja-ten-rok-ma-byc-kluczowy-dla-polski,nId,8046869",
+      "pubDate": "Fri, 05 Dec 2025 06:33:54 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Żurek: chcemy jak najszybciej dać prezydentowi ustawę, żeby się z nią zmierzył",
+      "link": "https://tvn24.pl/polska/minister-sprawiedliwosci-waldemar-zurek-chcemy-jak-najszybciej-dac-prezydentowi-ustawe-zeby-sie-z-nia-zmierzyl-st8786455?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 05:33:45 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kumulacja w Lotto w górę",
+      "link": "https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-4-grudnia-2025-jakie-liczby-padly-w-trakcie-ostatniego-losowania-st8786465?source=rss",
+      "pubDate": "Fri, 05 Dec 2025 05:33:37 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pawłowicz odchodzi. Trybunał Konstytucyjny na krawędzi paraliżu",
+      "link": "https://www.rmf24.pl/polityka/news-pawlowicz-odchodzi-trybunal-konstytucyjny-na-krawedzi-parali,nId,8046872",
+      "pubDate": "Fri, 05 Dec 2025 06:31:27 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "ZUS pokazał ciekawe dane. Tyle wynosi średnie świadczenie",
+      "link": "https://biznes.interia.pl/emerytury/news-zus-podal-wlasnie-ciekawe-liczby-oto-srednia-emerytura-w-pol,nId,22463838",
+      "pubDate": "Fri, 05 Dec 2025 05:30:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ziętara zginął, bo był dziennikarzem. Kto i dlaczego straszy teraz media, które o tym piszą?",
+      "link": "https://www.wirtualnemedia.pl/jaroslaw-zietara-smierc-wyrok-sadu-mariusz-switalski-z-pismem-ws-ksiazki,7219291054963584a",
+      "pubDate": "Fri, 05 Dec 2025 06:29:23 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Rywale poczekają na Polskę. Już dziś poznamy grupy mundialu 2026",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-rywale-poczekaja-na-polske-juz-dzis-poznamy-grupy-mundialu-2,nId,8046870",
+      "pubDate": "Fri, 05 Dec 2025 06:29:04 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "KRRiT przedłuża koncesje. Chodzi m.in. o stacje Polsatu i Canal+",
       "link": "https://www.wirtualnemedia.pl/krrit-koncesje-tvt-fama-polsat-sport-3-canal-sport-5,7228884200020928a",
       "pubDate": "Fri, 05 Dec 2025 06:26:00 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Tajne obrady Sejmu. O tym mają rozmawiać posłowie",
+      "link": "https://businessinsider.com.pl/wiadomosci/donald-tusk-zada-tajnych-obrad-sejmu-w-tle-kryptoafera-i-rosja/gdx5y0v",
+      "pubDate": "Fri, 05 Dec 2025 05:25:52 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Znamy kulisy wewnętrznej narady w Polsce 2050. W grze sensacyjny scenariusz",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/znamy-kulisy-wewnetrznej-narady-w-polsce-2050-w-grze-sensacyjny-scenariusz/k34y742",
+      "pubDate": "Fri, 05 Dec 2025 05:25:20 GMT",
+      "source": "Onet"
     },
     {
       "title": "Polsat Box udostępnił za darmo wiele kanałów",
@@ -347,6 +431,12 @@
     {
       "title": "Jeden błąd i konto puste. Tutaj infolinia banku nie cofnie feralnego przelewu",
       "link": "https://www.bankier.pl/wiadomosc/Jeden-blad-i-konto-puste-Tutaj-infolinia-banku-nie-cofnie-feralnego-przelewu-9049923.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 5 Dec 2025 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Fala reklam fałszywych inwestycji zalewa internet. „Jakbym dostał obuchem”",
+      "link": "https://www.bankier.pl/wiadomosc/Fala-reklam-falszywych-inwestycji-zalewa-internet-Jakbym-dostal-obuchem-9050809.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 5 Dec 2025 06:00:00 +0100",
       "source": "Bankier.pl"
     },
@@ -1015,6 +1105,12 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-04/wiceszef-rosyjskiej-dyplomacji-odpowiedzial-sikorskiemu-to-przygotowanie-do-wojny/",
       "pubDate": "Thu, 04 Dec 2025 22:55:00 +0100",
       "source": "Polsat News"
+    },
+    {
+      "title": "Na Wall Street małe zmiany indeksów na koniec dnia",
+      "link": "https://www.bankier.pl/wiadomosc/Na-Wall-Street-male-zmiany-indeksow-na-koniec-dnia-9050914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 4 Dec 2025 22:54:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Trump replaces architect overseeing $300m gilded ballroom project",
