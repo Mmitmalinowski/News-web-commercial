@@ -1,7 +1,67 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-07T06:20:32.709Z",
+  "generatedAt": "2025-12-07T06:47:50.645Z",
   "items": [
+    {
+      "title": "New AI model can predict 5-year breast cancer risk",
+      "link": "https://www.dw.com/en/new-ai-model-can-predict-5-year-breast-cancer-risk/a-75006399?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 7 Dec 2025 06:45:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Chiński Falcon zamienił się w kulę ognia. Elon Musk i tak ma się czego bać",
+      "link": "https://spidersweb.pl/2025/12/chinska-rakieta-zhuque-3-pierwszy-lot-eksplozja.html",
+      "pubDate": "Sun, 07 Dec 2025 07:40:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Szef Pentagonu chwali Polskę. Warszawa stawiana za wzór",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-szef-pentagonu-chwali-polske-warszawa-stawiana-za-wzor,nId,8047441",
+      "pubDate": "Sun, 07 Dec 2025 07:33:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Produkowali fake newsy o wojnie, żeby się dorobić. Przerażająca pazerność",
+      "link": "https://spidersweb.pl/2025/12/mapa-isw-ukraina-zaklad.html",
+      "pubDate": "Sun, 07 Dec 2025 07:30:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Kreml reaguje na nową strategię bezpieczeństwa USA. \"Pozytywny krok\"",
+      "link": "https://wiadomosci.onet.pl/swiat/kreml-reaguje-na-nowa-strategie-bezpieczenstwa-usa-pozytywny-krok/ep0md7n",
+      "pubDate": "Sun, 07 Dec 2025 06:28:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Poważny wypadek na Podkarpaciu. Cztery osoby ranne",
+      "link": "https://wiadomosci.onet.pl/rzeszow/powazny-wypadek-w-sarzynie-cztery-osoby-zostaly-ranne/dtlkflf",
+      "pubDate": "Sun, 07 Dec 2025 06:26:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Walka o tytuł w F1 do ostatniej prostej. Max Verstappen po raz piąty czy zmiana na tronie?",
+      "link": "https://sport.rp.pl/formula-1/art43464811-walka-o-tytul-w-f1-do-ostatniej-prostej-max-verstappen-po-raz-piaty-czy-zmiana-na-tronie",
+      "pubDate": "Sun, 07 Dec 2025 07:25:51 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Niemcy rozliczyły się za II wojnę światową? Sondaż nie zostawia wątpliwości",
+      "link": "https://wydarzenia.interia.pl/kraj/news-niemcy-rozliczyly-sie-za-ii-wojne-swiatowa-sondaz-nie-zostaw,nId,22464624",
+      "pubDate": "Sun, 07 Dec 2025 06:23:42 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Cierpienie idzie pod młotek",
+      "link": "https://tvn24.pl/polska/cierpienie-idzie-pod-mlotek-st8787379?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 06:21:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Warszawska GPW przyciąga inwestorów. Jak czytać jej notowania?",
+      "link": "https://biznes.interia.pl/gospodarka/news-co-to-jest-gpw-jak-czytac-notowania-przewodnik-dla-inwestoro,nId,22461682",
+      "pubDate": "Sun, 07 Dec 2025 06:20:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Wygląda jak normalna walizka. W samolocie przechodzi jako darmowy plecak",
       "link": "https://spidersweb.pl/2025/12/walizka-darmowy-bagaz-linie-lotnicze.html",
@@ -9,10 +69,34 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Mistrzostwa świata piłkarek ręcznych. Koniec polskich marzeń o medalu",
+      "link": "https://sport.rp.pl/pilka-reczna/art43464941-mistrzostwa-swiata-pilkarek-recznych-koniec-polskich-marzen-o-medalu",
+      "pubDate": "Sun, 07 Dec 2025 07:19:58 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nowa strategia USA. Szef Pentagonu wskazał na Polskę. \"To nie dzieci\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-nowa-strategia-usa-szef-pentagonu-wskazal-na-polske-to-nie-d,nId,22464631",
+      "pubDate": "Sun, 07 Dec 2025 06:19:13 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ezointelektualizm. Dlaczego patrzymy w karty i gwiazdy?",
+      "link": "https://oko.press/ezointelektualizm-dlaczego-patrzymy-w-karty-i-gwiazdy",
+      "pubDate": "Sun, 07 Dec 2025 06:17:56 +0000",
+      "source": "OKO.press"
+    },
+    {
       "title": "Poważny wypadek w Sarzynie. Cztery osoby ranne",
       "link": "https://www.rmf24.pl/regiony/rzeszow/news-powazny-wypadek-w-sarzynie-cztery-osoby-ranne,nId,8047440",
       "pubDate": "Sun, 07 Dec 2025 07:17:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Duży pożar kamienicy na Śląsku. Jedna osoba ewakuowana",
+      "link": "https://tvn24.pl/polska/slask-bedzin-pozar-kamienicy-jedna-osoba-ewakuowana-st8789318?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 06:15:15 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Po trzech latach zapalili choinkę. \"Ból nie opuszcza naszych serc\"",
