@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-07T11:13:51.342Z",
+  "generatedAt": "2025-12-07T11:27:52.740Z",
   "items": [
+    {
+      "title": "Tragiczny pożar cysterny w Gdyni. W kabinie znajdował się kierowca",
+      "link": "https://wydarzenia.interia.pl/pomorskie/news-tragiczny-pozar-cysterny-w-gdyni-w-kabinie-znajdowal-sie-kie,nId,22464680",
+      "pubDate": "Sun, 07 Dec 2025 11:20:52 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Dywersja na kolei. Jest wniosek o czerwoną notę Interpolu",
+      "link": "https://wiadomosci.onet.pl/kraj/dywersja-na-kolei-jest-wniosek-o-czerwona-note-interpolu/kpzs5mv",
+      "pubDate": "Sun, 07 Dec 2025 11:18:48 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ćwiek-Świdecka: Lepsza łata niż reforma. Kto odważy się naprawić polską ochronę zdrowia?",
+      "link": "https://www.rp.pl/komentarze/art43464891-cwiek-swidecka-lepsza-lata-niz-reforma-kto-odwazy-sie-naprawic-polska-ochrone-zdrowia",
+      "pubDate": "Sun, 07 Dec 2025 12:15:58 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Aplikacja na Windowsa 11 zżera ci RAM. Twórcy sfrustrowani",
+      "link": "https://antyweb.pl/aplikacja-na-windowsa-11-zzera-ci-ram-tworcy-sfrustrowani",
+      "pubDate": "Sun, 07 Dec 2025 11:15:07 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Z tych regionów słońce zniknęło na wiele dni. Wiemy, kiedy znów się pojawi",
+      "link": "https://wiadomosci.onet.pl/pogoda/w-tych-regionach-slonca-nie-widziano-od-wielu-dni-prognozy-daja-nadzieje/qnc33c0",
+      "pubDate": "Sun, 07 Dec 2025 11:13:33 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nazwał Karola Nawrockiego \"antyrządowym ośrodkiem\". Ostre słowa byłego prezydenta",
+      "link": "https://wiadomosci.onet.pl/kraj/bronislaw-komorowski-uderza-w-karola-nawrockiego-antyrzadowy-osrodek/mzb1pgx",
+      "pubDate": "Sun, 07 Dec 2025 11:11:14 GMT",
+      "source": "Onet"
+    },
     {
       "title": "AI potrafi zmienić preferencje wyborcze. I robi to wyjątkowo skutecznie",
       "link": "https://android.com.pl/tech/998992-ai-potrafi-zmienic-preferencje-wyborcze/",
@@ -57,10 +93,40 @@
       "source": "Business Insider"
     },
     {
+      "title": "Latest news bulletin | December 7th, 2025 – Midday",
+      "link": "http://www.euronews.com/video/2025/12/07/latest-news-bulletin-december-7th-2025-midday",
+      "pubDate": "Sun, 07 Dec 2025 12:00:16 +0100",
+      "source": "Euronews"
+    },
+    {
       "title": "Administracja Trumpa umarza 11 mln dol. kary dla Southwest Airlines",
       "link": "https://www.rp.pl/transport/art43465511-administracja-trumpa-umarza-11-mln-dol-kary-dla-southwest-airlines",
       "pubDate": "Sun, 07 Dec 2025 12:00:04 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "UE miażdży Rosję w Afryce. 355 mld dolarów kontra 27 mld obrotu",
+      "link": "https://www.bankier.pl/wiadomosc/UE-miazdzy-Rosje-w-Afryce-355-mld-dolarow-kontra-27-mld-obrotu-9049534.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 12:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Polska wkracza w zimę z 91-procentowym zapasem gazu. \"Punkt odniesienia\" dla Berlina",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-wkracza-w-zime-z-91-procentowym-zapasem-gazu-Punkt-odniesienia-dla-Berlina-9050477.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 12:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Koniec \"wystawiania za darmo\". Galerie podpisują pakt o wynagradzaniu artystów",
+      "link": "https://www.bankier.pl/wiadomosc/Koniec-wystawiania-za-darmo-Galerie-podpisuja-pakt-o-wynagradzaniu-artystow-9050382.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 12:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Skandal w Tatrach. Alpinista traci uprawnienia, a PZA mówi o działaniach nielicujących z etyką",
+      "link": "https://www.bankier.pl/wiadomosc/Skandal-w-Tatrach-Alpinista-traci-uprawnienia-a-PZA-mowi-o-dzialaniach-nielicujacych-z-etyka-9049665.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 12:00:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Na północy Mazowsza zawyły syreny alarmowe",
@@ -115,6 +181,12 @@
       "link": "https://businessinsider.com.pl/wiadomosci/zle-wiesci-z-czarnobyla-powloka-po-ataku-drona-utracila-podstawowe-funkcje/dxyl9cc",
       "pubDate": "Sun, 07 Dec 2025 10:38:57 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "\"Poważny incydent\" na Lotnisku Heathrow. Grupa mężczyzn zaatakowała ludzi gazem",
+      "link": "https://www.bankier.pl/wiadomosc/Powazny-incydent-na-Lotnisku-Heathrow-Grupa-mezczyzn-zaatakowala-ludzi-gazem-9051769.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 11:35:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Wampirzyca piekielna. To jedyny taki gatunek",
@@ -519,6 +591,18 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Wybory na Haiti po 10 latach? Jest warunek niemożliwy do spełnienia o „przywróceniu bezpieczeństwa”",
+      "link": "https://www.bankier.pl/wiadomosc/Wybory-na-Haiti-po-10-latach-Jest-warunek-niemozliwy-do-spelnienia-o-przywroceniu-bezpieczenstwa-9049564.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 10:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Sędziowie zbyt łagodni dla sadystów? W sprawach dotyczących zwierząt nigdy nie zapadają najwyższe wyroki",
+      "link": "https://www.bankier.pl/wiadomosc/Sedziowie-zbyt-lagodni-dla-sadystow-W-sprawach-dotyczacych-zwierzat-nigdy-nie-zapadaja-najwyzsze-wyroki-9049474.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 10:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "USA nie chcą już angażować się w światowe konflikty. Pete Hegseth przedstawił nowe priorytety USA",
       "link": "https://www.rp.pl/konflikty-zbrojne/art43465311-usa-nie-chca-juz-angazowac-sie-w-swiatowe-konflikty-pete-hegseth-przedstawil-nowe-priorytety-usa",
       "pubDate": "Sun, 07 Dec 2025 09:58:07 +0100",
@@ -583,6 +667,12 @@
       "link": "https://logistyka.rp.pl/krajowe/art43465361-wielki-sukces-programu-doplat-do-wymiany-tachografow",
       "pubDate": "Sun, 07 Dec 2025 09:43:43 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Alarm nad Okinawą. Japońskie F-15 na celowniku chińskich radarów",
+      "link": "https://www.bankier.pl/wiadomosc/Alarm-nad-Okinawa-Japonskie-F-15-na-celowniku-chinskich-radarow-9051762.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 09:41:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "6589,67 zł emerytury i ani dnia pracy. ZUS ujawnił, jak tyle dostać",
@@ -801,6 +891,12 @@
       "source": "DW"
     },
     {
+      "title": "Coolcation napędza turystykę w Polsce. 45 mln noclegów dla 18 mln gości w pół roku",
+      "link": "https://www.bankier.pl/wiadomosc/Coolcation-napedza-turystyke-w-Polsce-45-mln-noclegow-dla-18-mln-gosci-w-pol-roku-9051756.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 08:41:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Pete Hegseth ogłasza koniec \"utopijnego idealizmu\" USA. Nowa strategia obronna",
       "link": "https://wiadomosci.onet.pl/pete-hegseth-oglasza-koniec-amerykanskiego-idealizmu-nowa-strategia-usa/80nz00y",
       "pubDate": "Sun, 07 Dec 2025 07:40:50 GMT",
@@ -993,6 +1089,12 @@
       "source": "Press.pl"
     },
     {
+      "title": "Jedna trzecia Polaków bez \"zdolności hipotecznej\". BGK zapowiada 100 tys. mieszkań",
+      "link": "https://www.bankier.pl/wiadomosc/Jedna-trzecia-Polakow-bez-zdolnosci-hipotecznej-BGK-zapowiada-100-tys-mieszkan-9051753.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 08:01:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Rekordowe limity IKZE. Kto i ile zyska na zmianach w 2026 roku?",
       "link": "https://wydarzenia.interia.pl/kraj/news-nowe-zasady-dla-oszczedzajacych-w-2026-roku-zyskaja-nie-tylk,nId,22462773",
       "pubDate": "Sun, 07 Dec 2025 07:00:02 GMT",
@@ -1161,6 +1263,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Duży pożar kamienicy. Strażacy ewakuowali mieszkankę z balkonu",
+      "link": "https://tvn24.pl/polska/bedzin-pozar-kamienicy-jedna-osoba-ewakuowana-st8789318?source=rss",
+      "pubDate": "Sun, 07 Dec 2025 06:15:15 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Po trzech latach zapalili choinkę. \"Ból nie opuszcza naszych serc\"",
       "link": "https://tvn24.pl/swiat/zachodni-brzeg-betlejem-pierwszy-raz-od-trzech-lat-choinka-rozswietlila-miasto-bol-nie-opuszcza-naszych-serc-st8789270?source=rss",
       "pubDate": "Sun, 07 Dec 2025 06:10:51 GMT",
@@ -1257,6 +1365,12 @@
       "source": "Onet"
     },
     {
+      "title": "Paradoks na rynku nieruchomości. Mniej mieszkań na rynku wtórnym, ale jest taniej",
+      "link": "https://www.bankier.pl/wiadomosc/Paradoks-na-rynku-nieruchomosci-Mniej-mieszkan-na-rynku-wtornym-ale-jest-taniej-9051740.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 06:41:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Nieznany numer zadzwoni i będzie pytać. Najpierw o abonament, potem o wypłatę",
       "link": "https://biznes.interia.pl/finanse/news-do-ciebie-tez-moze-zadzwonic-nieznany-numer-zaczna-pytac-o-z,nId,22462899",
       "pubDate": "Sun, 07 Dec 2025 05:40:01 GMT",
@@ -1273,6 +1387,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/sw-nawrocki-chroni-kryptowaluciarzy-braun-spiskuje-z-pisowcami-kaczynski-za/frjtj8g",
       "pubDate": "Sun, 07 Dec 2025 05:32:42 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Hegseth ogłasza erę twardego realizmu. \"Ameryka nie będzie już rozpraszana\"",
+      "link": "https://www.bankier.pl/wiadomosc/Hegseth-oglasza-ere-twardego-realizmu-Ameryka-nie-bedzie-juz-rozpraszana-9051739.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 06:30:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Pożar kamienicy w Będzinie. Z ogniem walczy ponad 50 strażaków",
@@ -1645,6 +1765,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-ulaskawi-zbigniewa-ziobre-nie-ma-takiego-tematu/e0e4p7w",
       "pubDate": "Sat, 06 Dec 2025 23:50:01 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Gniew i apatia przy urnach. Hongkong wybiera władze według zasad Pekinu",
+      "link": "https://www.bankier.pl/wiadomosc/Gniew-i-apatia-przy-urnach-Hongkong-wybiera-wladze-wedlug-zasad-Pekinu-9051720.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 7 Dec 2025 00:36:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "West Midlands police chief sorry for saying Jewish community supported Maccabi fan ban",
