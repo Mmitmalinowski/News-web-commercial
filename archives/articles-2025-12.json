@@ -1,12 +1,462 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-08T11:58:57.351Z",
+  "generatedAt": "2025-12-08T12:55:39.666Z",
   "items": [
+    {
+      "title": "Szponcić to Młodzieżowe Słowo Roku 2025. Wiesz, co oznacza?",
+      "link": "https://geekweek.interia.pl/lifestyle/news-szponcic-to-mlodziezowe-slowo-roku-2025-wiesz-co-oznacza,nId,22464944",
+      "pubDate": "Mon, 08 Dec 2025 12:54:48 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 8.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-8-12-2025-7230251821579200a.html",
+      "pubDate": "Mon, 08 Dec 2025 13:53:32 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "OnePlus 15R właśnie stał się mniej atrakcyjny",
+      "link": "https://www.tabletowo.pl/oneplus-15r-wlasnie-stal-sie-mniej-atrakcyjny/",
+      "pubDate": "Mon, 08 Dec 2025 12:53:24 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 8.12.2025",
+      "link": "https://www.money.pl/pieniadze/kopia-ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-18-11-2025-7230251811322816a.html",
+      "pubDate": "Mon, 08 Dec 2025 13:51:47 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Nie uciekniemy od napięcia Hubble'a. Pulsary nie rozwiązały zagadki",
+      "link": "https://tech.wp.pl/nie-uciekniemy-od-napiecia-hubblea-pulsary-nie-rozwiazaly-zagadki,7230244687072192a",
+      "pubDate": "Mon, 08 Dec 2025 13:51:02 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Kochają sztuczną inteligencję, ale płacą za to zdrowiem psychicznym",
+      "link": "https://mamstartup.pl/kochaja-sztuczna-inteligencje-ale-placa-za-to-zdrowiem-psychicznym/",
+      "pubDate": "Mon, 08 Dec 2025 12:50:54 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Jarosław Kaczyński ogłasza nową akcję PiS. Nawiązał do amerykańskiego aktywisty",
+      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-oglasza-nowa-akcje-pis-nawiazal-do-amerykanskiego-aktywisty/jr3svxe",
+      "pubDate": "Mon, 08 Dec 2025 12:49:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "\"Bastion\" przeciwko Rosji. Ściana dronów pod wodą",
+      "link": "https://tech.wp.pl/bastion-przeciwko-rosji-sciana-dronow-pod-woda,7230239189670816a",
+      "pubDate": "Mon, 08 Dec 2025 13:49:37 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Dlaczego rogatki nie zostały opuszczone? Nowe ustalenia RMF FM ws. groźnej sytuacji na torach",
+      "link": "https://www.rmf24.pl/fakty/polska/news-dlaczego-rogatki-nie-zostaly-opuszczone-nowe-ustalenia-rmf-f,nId,8047751",
+      "pubDate": "Mon, 08 Dec 2025 13:49:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "USA ma naciskać na Ukrainę. Chodzi o ustępstwa terytorialne na rzecz Rosji",
+      "link": "https://wiadomosci.onet.pl/swiat/waszyngton-naciska-na-kijow-ma-szybciej-przyjac-plan-zakonczenia-wojny/9lnwng1",
+      "pubDate": "Mon, 08 Dec 2025 12:48:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Koalicja rządząca szykuje zmiany w Trybunale Konstytucyjnym. Decyzje w najbliższych tygodniach",
+      "link": "https://wiadomosci.onet.pl/kraj/beda-zmiany-w-trybunale-konstytucyjnym-decyzje-w-najblizszych-tygodniach/95bkge2",
+      "pubDate": "Mon, 08 Dec 2025 12:48:07 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ogień pochłonął majątek! Straty sięgają 1,5 mln zł",
+      "link": "https://www.rmf24.pl/regiony/lublin/news-ogien-pochlonal-majatek-straty-siegaja-1-5-mln-zl,nId,8047744",
+      "pubDate": "Mon, 08 Dec 2025 13:47:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tych koalicji nie chcą Polacy. Wyniki najnowszego sondażu IBRiS",
+      "link": "https://businessinsider.com.pl/wiadomosci/koalicja-obywatelska-na-czele-nowego-sondazu-ibris-donald-tusk-umacnia-pozycje/kmzsg56",
+      "pubDate": "Mon, 08 Dec 2025 12:46:02 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "MLP Group z jedną z największych transakcji najmu w Niemczech",
+      "link": "https://www.rp.pl/rynek-nieruchomosci/art43469611-mlp-group-z-jedna-z-najwiekszych-transakcji-najmu-w-niemczech",
+      "pubDate": "Mon, 08 Dec 2025 13:44:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Młodzieżowe Słowo Roku 2025. Jest zwycięzca plebiscytu",
+      "link": "https://wiadomosci.onet.pl/kraj/mlodziezowe-slowo-roku-2025-jest-zwyciezca-plebiscytu/7g2efde",
+      "pubDate": "Mon, 08 Dec 2025 12:43:51 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Dzień, który wstrząsnął światem. Obchody ataku na Pearl Harbor wyglądają po raz pierwszy inaczej",
+      "link": "https://businessinsider.com.pl/wiadomosci/pearl-harbor-84-lata-pozniej-dlaczego-w-2025-roku-nikt-nie-przyjechal-na-uroczystosci/3zmx5yk",
+      "pubDate": "Mon, 08 Dec 2025 12:43:29 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Hunt under way for Benin coup plotters and their hostages",
+      "link": "https://www.bbc.com/news/articles/cgex2d3y3dxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:42:28 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "AGD w górę przez nową opłatę? Unia mówi, że będzie uczciwiej",
+      "link": "https://spidersweb.pl/2025/12/agd-w-gore-ue-cbam.html",
+      "pubDate": "Mon, 08 Dec 2025 13:42:03 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Likwidacja abonamentu RTV. Ministerstwo mówi o przedawnieniu opłat",
+      "link": "https://biznes.interia.pl/finanse/news-koniec-abonamentu-rtv-coraz-blizej-ministerstwo-odkrywa-kart,nId,22464976",
+      "pubDate": "Mon, 08 Dec 2025 12:41:24 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Trump Mobile oferuje stare iPhone’y. Taniej kupisz… nowy telefon od producenta",
+      "link": "https://android.com.pl/tech/999299-trump-mobile-afera-odnowione-telefony/",
+      "pubDate": "Mon, 08 Dec 2025 12:41:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Bezzałogowce, okręty podwodne i sztuczna inteligencja. Brytyjska odpowiedź na rosyjskie działania",
+      "link": "https://tvn24.pl/swiat/bezzalogowce-okrety-podwodne-i-sztuczna-inteligencja-brytyjska-odpowiedz-na-rosyjskie-dzialania-st8790707?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:40:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "US attack on Venezuela risks ‘Vietnam-style’ regional conflict, warns Lula adviser",
+      "link": "https://www.theguardian.com/world/2025/dec/08/us-attack-venezuela-risks-vietnam-style-conflict-lula-adviser",
+      "pubDate": "Mon, 08 Dec 2025 12:39:11 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Polska zwołuje pilne spotkanie. Rozmowy 10 państw w sprawie Ukrainy",
+      "link": "https://businessinsider.com.pl/wiadomosci/sikorski-zwoluje-pilne-spotkanie-rozmowy-10-panstw-w-sprawie-ukrainy/rsn2npw",
+      "pubDate": "Mon, 08 Dec 2025 12:38:27 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Samuel Pereira przeprasza Polskie Radio. Za nieprawdziwy wpis",
+      "link": "https://www.wirtualnemedia.pl/samuel-pereira-przeprasza-polskie-radio-za-nieprawdziwy-wpis,7230247521131456a",
+      "pubDate": "Mon, 08 Dec 2025 13:38:04 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Sosnowiec Południowy przejdzie metamorfozę. Miasto przejęło historyczny budynek",
+      "link": "https://www.rmf24.pl/regiony/slaskie/news-sosnowiec-poludniowy-przejdzie-metamorfoze-miasto-przejelo-h,nId,8047737",
+      "pubDate": "Mon, 08 Dec 2025 13:38:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Germany news: Berlin rejects US criticism of Europe",
+      "link": "https://www.dw.com/en/germany-news-berlin-rejects-us-criticism-of-europe/live-75060190?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 8 Dec 2025 12:36:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Znamy Młodzieżowe Słowo Roku 2025 ",
+      "link": "https://tvn24.pl/polska/szponcic-mlodziezowym-slowem-roku-2025-co-oznacza-st8790536?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:35:03 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kampania phishingowa uderza w amerykańskie uczelnie",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/kampania-phishingowa-uderza-w-amerykanskie-uczelnie",
+      "pubDate": "Mon, 08 Dec 2025 13:34:52 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Milionowe wygrane w Lotto, które przepadły. Ile pieniędzy Polacy nie odebrali? ",
+      "link": "https://tvn24.pl/biznes/pieniadze/miliony-w-lotto-przepadly-nieodebrane-wygrane-w-lotto-ile-pieniedzy-nie-odebrano-z-totalizatora-st8790443?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:33:50 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Program nuklearny w Korei Płn. Co na to nowa amerykańska strategia?",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-program-nuklearny-w-korei-pln-co-na-to-nowa-amerykanska-stra,nId,8047742",
+      "pubDate": "Mon, 08 Dec 2025 13:33:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Polska armia rośnie i potrzebuje sprzętu. Strykery mogą trafić do Polski",
+      "link": "https://biznes.interia.pl/gospodarka/news-nowe-pojazdy-z-usa-w-zasiegu-reki-nie-stanowi-zagrozenia-dla,nId,22465010",
+      "pubDate": "Mon, 08 Dec 2025 12:30:59 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Umierają z głodu. W ciągu 8 lat zginęło 62 tys. zwierząt",
+      "link": "https://tech.wp.pl/umieraja-z-glodu-w-ciagu-8-lat-zginelo-62-tys-zwierzat,7230231186447264a",
+      "pubDate": "Mon, 08 Dec 2025 13:29:49 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Chińskie samochody podbijają świat, w tym Polskę. Cła Trumpa tylko spowolniły eksport",
+      "link": "https://businessinsider.com.pl/gospodarka/chinskie-samochody-podbijaja-swiat-w-tym-polske-cla-trumpa-tylko-spowolnily-eksport/wmslflb",
+      "pubDate": "Mon, 08 Dec 2025 12:29:24 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Trudniej o podwyżkę. Firmy ostrożniej planują budżety",
+      "link": "https://tvn24.pl/biznes/dla-pracownika/podwyzka-w-pracy-wyniki-finansowe-moga-nie-przelozyc-sie-na-wzrost-plac-w-2026-st8790918?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:26:13 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rozmowy, które budują młodych. Nowa seria lekcji wspiera dobrostan uczniów w polskich szkołach",
+      "link": "https://wiadomosci.onet.pl/ciekawostki/rozmowy-ktore-buduja-mlodych-nowa-seria-lekcji-wspiera-dobrostan-uczniow-w-polskich/0mw4ye6",
+      "pubDate": "Mon, 08 Dec 2025 12:25:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Przed świętami mogą dostać wypowiedzenia. Chodzi o ponad 700 osób",
+      "link": "https://www.rmf24.pl/regiony/slaskie/news-przed-swietami-moga-dostac-wypowiedzenia-chodzi-o-ponad-700-,nId,8047736",
+      "pubDate": "Mon, 08 Dec 2025 13:25:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Storm Bram to bring strong winds and heavy rain across UK",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/08/storm-bram-uk-weather-wind-rain-flooding-warning",
+      "pubDate": "Mon, 08 Dec 2025 12:23:31 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kartkówka ze starożytności. Zaliczamy od 6/15, wstyd oblać",
+      "link": "https://wiadomosci.onet.pl/ciekawostki/kartkowka-ze-starozytnosci-zaliczamy-od-615-wstyd-oblac/yqbh6wx",
+      "pubDate": "Mon, 08 Dec 2025 12:22:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Thousands march in Brazil to raise attention to femicides",
+      "link": "http://www.euronews.com/video/2025/12/08/thousands-march-in-brazil-to-raise-attention-to-femicides",
+      "pubDate": "Mon, 08 Dec 2025 13:21:55 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "ZUS przejrzał prezydencki projekt zmian w emeryturach: Nadmiarowe regulacje",
+      "link": "https://biznes.interia.pl/emerytury/news-zus-nie-widzi-szans-dla-prezydenckiej-waloryzacji-emerytur-s,nId,22465002",
+      "pubDate": "Mon, 08 Dec 2025 12:21:42 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Bogusław Chrabota: Przed nami rozwód Ameryki z Unią Europejską",
+      "link": "https://www.rp.pl/komentarze/art43469481-boguslaw-chrabota-przed-nami-rozwod-ameryki-z-unia-europejska",
+      "pubDate": "Mon, 08 Dec 2025 13:18:47 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Strefa czystego transportu w Katowicach od 2026 r. Jest jednak furtka wyjścia",
+      "link": "https://android.com.pl/moto/999272-strefa-czystego-transportu-w-katowicach/",
+      "pubDate": "Mon, 08 Dec 2025 12:17:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Policjanci uratowali kierowcę z płonącego samochodu",
+      "link": "https://tvn24.pl/lodz/paprotnia-piotrkow-trybunalski-policjanci-uratowali-kierowce-na-s8-jego-samochod-plonal-st8791076?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:16:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Centrist Ciprian Ciucu defeats hard-right candidate to become mayor of Bucharest",
+      "link": "http://www.euronews.com/2025/12/08/centrist-ciprian-ciucu-defeats-hard-right-candidate-to-become-mayor-of-bucharest",
+      "pubDate": "Mon, 08 Dec 2025 13:16:25 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Radosław Sikorski zwołuje pilne spotkanie Rady Państw Morza Bałtyckiego",
+      "link": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-zwolal-pilne-spotkanie-ministrow-tematem-wojna-w-ukrainie/f0pq4vn",
+      "pubDate": "Mon, 08 Dec 2025 12:16:10 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wielka tajemnica rozwiązana. Eksperci wyjaśniają dziwne zachowanie psów",
+      "link": "https://antyweb.pl/wielka-tajemnica-rozwiazana-eksperci-wyjasniaja-dziwne-zachowanie-psow",
+      "pubDate": "Mon, 08 Dec 2025 12:15:57 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Miliony trafią do Polski. Jest decyzja Komisji Europejskiej",
+      "link": "https://wiadomosci.onet.pl/kraj/ke-wyplacila-polsce-kolejne-miliony-padla-kwota/7vjt2ns",
+      "pubDate": "Mon, 08 Dec 2025 12:14:43 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wakacyjna wyprawa skończyła się tragedią. Potężna fala porwała turystów",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-wakacyjna-wyprawa-skonczyla-sie-tragedia-potezna-fala-porwal,nId,22464870",
+      "pubDate": "Mon, 08 Dec 2025 12:13:09 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ze strategii bezpieczeństwa USA zniknął ważny punkt. Po ponad 20 latach",
+      "link": "https://wiadomosci.onet.pl/swiat/nowa-strategia-bezpieczenstwa-usa-zniknela-z-niej-korea-polnocna/kj6fbys",
+      "pubDate": "Mon, 08 Dec 2025 12:12:28 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zapowiedzieli projekt nowego podatku. Ujawnią go jeszcze przed świętami",
+      "link": "https://biznes.interia.pl/polityka/news-zapowiedzieli-projekt-nowego-podatku-ujawnia-go-jeszcze-prze,nId,22464935",
+      "pubDate": "Mon, 08 Dec 2025 12:12:10 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Karambol na A4. Kobieta przeżyła moment zderzenia, zginęła po wyjściu z auta",
+      "link": "https://wiadomosci.onet.pl/wroclaw/karambol-na-a4-kobieta-przezyla-moment-zderzenia-zginela-po-wyjsciu-z-auta/8w1vyss",
+      "pubDate": "Mon, 08 Dec 2025 12:08:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Religia, transpłciowy uczeń i nauczyciel \"skazany na dożywocie\". Ile w tym prawdy ",
+      "link": "https://konkret24.tvn24.pl/swiat/religia-transplciowy-uczen-i-nauczyciel-skazany-na-dozywocie-ile-w-tym-prawdy-st8788023?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:08:51 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Padł strzał, centrum handlowe w Oslo ewakuowane",
+      "link": "https://tvn24.pl/swiat/padl-strzal-centrum-handlowe-w-oslo-ewakuowane-st8790847?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:08:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nadchodzą duże zmiany w spółdzielniach mieszkaniowych. Jest projekt ustawy",
+      "link": "https://www.rp.pl/nieruchomosci/art43469461-nadchodza-duze-zmiany-w-spoldzielniach-mieszkaniowych-jest-projekt-ustawy",
+      "pubDate": "Mon, 08 Dec 2025 13:05:53 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Weather tracker: Atmospheric rivers to bring heavy rain and snow to Pacific north-west",
+      "link": "https://www.theguardian.com/environment/2025/dec/08/weather-tracker-atmospheric-rivers-heavy-rain-snow-to-pacific-north-west-us-canada",
+      "pubDate": "Mon, 08 Dec 2025 12:05:20 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Szukasz prezentu na święta? Sprawdź nasze propozycje",
+      "link": "https://tech.wp.pl/szukasz-prezentu-na-swieta-sprawdz-nasze-propozycje,7230174468283296a",
+      "pubDate": "Mon, 08 Dec 2025 13:05:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Global brands fight legality of Trump’s 'Liberation Day' tariffs",
+      "link": "http://www.euronews.com/business/2025/12/08/global-brands-fight-legality-of-trumps-liberation-day-tariffs",
+      "pubDate": "Mon, 08 Dec 2025 13:04:33 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Koalicja Obywatelska straciła największą wieś w Polsce. Miażdżąca przewaga",
+      "link": "https://wiadomosci.onet.pl/warszawa/najwieksza-wies-w-polsce-ma-nowe-wladze-wysoka-porazka-kandydatki-z-ko/pylfh22",
+      "pubDate": "Mon, 08 Dec 2025 12:04:24 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Top 5 komputerów gamingowych – najlepsze zestawy na grudniowe rozgrywki",
+      "link": "https://tech.wp.pl/top-5-komputerow-gamingowych-najlepsze-zestawy-na-grudniowe-rozgrywki,7230170054216640a",
+      "pubDate": "Mon, 08 Dec 2025 13:03:53 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "\"Idiota z książeczką czekową\". Po ujawnieniu nowej strategii bezpieczeństwa USA na Kremlu strzelają korki od szampana. \"W dużej mierze zgodne z naszą wizją\"",
+      "link": "https://wiadomosci.onet.pl/swiat/idiota-z-ksiazeczka-czekowa-po-ujawnieniu-nowej-strategii-bezpieczenstwa-usa-na/j01s635",
+      "pubDate": "Mon, 08 Dec 2025 12:03:30 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Miał sztucer myśliwski i amunicję bez pozwolenia",
+      "link": "https://tvn24.pl/tvnwarszawa/bielany/warszawa-mial-sztucer-mysliwski-i-amunicje-bez-pozwolenia-st8790623?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:03:06 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Joey Barton gets suspended prison sentence for offensive social media posts",
+      "link": "https://www.theguardian.com/football/2025/dec/08/joey-barton-gets-suspended-prison-sentence-for-offensive-social-media-posts",
+      "pubDate": "Mon, 08 Dec 2025 12:03:01 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Światłowód za 0 złotych przez 2 miesiące i darmowe gigabajty",
+      "link": "https://www.tabletowo.pl/swiatlowod-za-0-zlotych-przez-2-miesiace-i-darmowe-gigabajty/",
+      "pubDate": "Mon, 08 Dec 2025 12:02:32 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Molestowanie dziewczynek i groźby śmierci",
+      "link": "https://tvn24.pl/wroclaw/jelenia-gora-olawa-dwa-sledztwa-w-sprawie-molestowania-maloletnich-na-dolnym-slasku-jeden-oskarzony-drugi-w-areszcie-st8790942?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 12:01:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "More than 200 environmental groups demand halt to new US data centers",
+      "link": "https://www.theguardian.com/us-news/2025/dec/08/us-data-centers",
+      "pubDate": "Mon, 08 Dec 2025 12:00:40 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Ogłosili upadłość po 30 latach działalności. Wyparła ich konkurencja z Chin ",
+      "link": "https://biznes.interia.pl/praca/news-znana-siec-oglosila-upadlosc-powodem-jest-konkurencja-ze-str,nId,22464973",
+      "pubDate": "Mon, 08 Dec 2025 12:00:39 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Divided Fed ponders US interest-rate cut at end of tumultuous year",
+      "link": "https://www.theguardian.com/business/2025/dec/08/federal-reserve-interest-rates",
+      "pubDate": "Mon, 08 Dec 2025 12:00:39 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Getting enough sleep may be the key to staying healthy, new research finds",
+      "link": "http://www.euronews.com/health/2025/12/08/getting-enough-sleep-may-be-the-key-to-staying-healthy-new-research-finds",
+      "pubDate": "Mon, 08 Dec 2025 13:00:13 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Ile na Ukrainie kosztuje nałożenie sankcji na konkurentów? Kolejna afera korupcyjna",
+      "link": "https://www.rp.pl/polityka/art43468851-ile-na-ukrainie-kosztuje-nalozenie-sankcji-na-konkurentow-kolejna-afera-korupcyjna",
+      "pubDate": "Mon, 08 Dec 2025 13:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "T-Mobile kłania się stałym klientom - mogą płacić nawet mniej!",
+      "link": "https://antyweb.pl/przedluzenie-umowy-t-mobile-2025",
+      "pubDate": "Mon, 08 Dec 2025 12:00:00 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Amerykańskie \"rosomaki\" za złotówkę, a nasze w odstawkę? MON: Nie zagrażają planom zakupowym",
+      "link": "https://www.bankier.pl/wiadomosc/Amerykanskie-rosomaki-za-zlotowke-a-nasze-w-odstawke-MON-Nie-zagrazaja-planom-zakupowym-9052056.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 8 Dec 2025 13:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Rok po obaleniu reżimu w Syrii rządzi nowy. Świat uwierzył, że stojący na jego czele były terrorysta się zmienił. Nie miał wyjścia",
+      "link": "https://wiadomosci.onet.pl/swiat/co-sie-teraz-dzieje-w-syrii-rok-po-obaleniu-dyktatora-baszszara-al-asada/5tldhek",
+      "pubDate": "Mon, 08 Dec 2025 11:59:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polska ma być na rok zwolniona z relokacji migrantów. Rząd ogłasza sukces",
+      "link": "https://www.rp.pl/polityka/art43469571-polska-ma-byc-na-rok-zwolniona-z-relokacji-migrantow-rzad-oglasza-sukces",
+      "pubDate": "Mon, 08 Dec 2025 12:58:10 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Małżeństwo może chronić przed poważną chorobą. Ale pod jednym warunkiem",
+      "link": "https://tvn24.pl/zdrowie/malzenstwo-moze-chronic-przed-powazna-choroba-ale-pod-jednym-warunkiem-st8790975?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 11:58:01 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Donald Tusk uderzył w polityków opozycji. Jest odpowiedź. \"Nie wypada panu premierowi\"",
       "link": "https://wiadomosci.onet.pl/kraj/nawrocki-i-mentzen-odpowiedzieli-tuskowi-zeby-przykryc-swoja-nieudolnosc/z7vr815",
       "pubDate": "Mon, 08 Dec 2025 11:55:55 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Woman handed four-year sentence for blackmailing footballer Son Heung-min",
+      "link": "https://www.theguardian.com/football/2025/dec/08/woman-four-year-sentence-blackmailing-footballer-son-heung-min-seoul",
+      "pubDate": "Mon, 08 Dec 2025 11:55:21 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Norway police say suspect detained in shopping centre shooting, no injuries reported",
@@ -33,6 +483,12 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Już ponad 1800 ofiar śmiertelnych powodzi",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/azja-juz-ponad-1800-ofiar-smiertelnych-powodzi-st8790971?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 11:53:34 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Lisbon airport queues spark security warnings as police unions cite pressure to speed up checks",
       "link": "http://www.euronews.com/travel/2025/12/08/lisbon-airport-queues-spark-security-warnings-as-police-unions-cite-pressure-to-speed-up-c",
       "pubDate": "Mon, 08 Dec 2025 12:52:41 +0100",
@@ -47,6 +503,12 @@
     {
       "title": "Sikorski zwołał pilne spotkanie 10 państw",
       "link": "https://tvn24.pl/polska/sikorski-zwolal-pilne-spotkanie-10-panstw-st8791016?source=rss",
+      "pubDate": "Mon, 08 Dec 2025 11:51:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sikorski zwołał pilne spotkanie 10 państw",
+      "link": "https://tvn24.pl/polska/morze-baltyckie-radoslaw-sikorski-zwolal-pilne-spotkanie-10-panstw-czlonkow-rady-morza-baltyckiego-st8791016?source=rss",
       "pubDate": "Mon, 08 Dec 2025 11:51:08 GMT",
       "source": "TVN24"
     },
@@ -143,6 +605,12 @@
     {
       "title": "Zamach polityczny w NBP? Pięciu członków zarządu próbuje odsunąć Adama Glapińskiego",
       "link": "https://businessinsider.com.pl/gospodarka/narodowy-bank-polski-w-ogniu-konfliktu-adam-glapinski-zagrozony-utrata-stanowiska/9y4hq7c",
+      "pubDate": "Mon, 08 Dec 2025 11:39:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Prawicowe media grzmią o \"zamachu\" politycznym w NBP. Adam Glapiński straci stanowisko?",
+      "link": "https://businessinsider.com.pl/gospodarka/narodowy-bank-polski-w-ogniu-konfliktu-doniesienia-o-konflikcie-w-nbp/9y4hq7c",
       "pubDate": "Mon, 08 Dec 2025 11:39:15 GMT",
       "source": "Business Insider"
     },
@@ -379,6 +847,12 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-uzywane-wagony-z-niemiec-trafia-na-polskie-tory-pkp-o-szczeg,nId,8047700",
       "pubDate": "Mon, 08 Dec 2025 12:12:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Thousands flee Thai-Cambodia border after deadly clashes",
+      "link": "https://www.bbc.com/news/articles/cr7l0rjz05eo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 08 Dec 2025 11:10:30 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Polska wyłączona z relokacji migrantów. Komisja Europejska akceptuje decyzję",
@@ -673,6 +1147,12 @@
       "link": "https://www.wirtualnemedia.pl/netflix-przejecie-warner-bros-i-hbo-max-szef-paramount-skydance-david-ellison-szykuje-kontratak,7230209184664512a",
       "pubDate": "Mon, 08 Dec 2025 11:37:13 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Thieves snatch eight Matisse artworks from library in Brazil",
+      "link": "https://www.bbc.com/news/articles/c0mp4nevdz7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 08 Dec 2025 10:36:30 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Grzegorz Braun przed sądem. \"Nagle powołuje się na europejskie orzecznictwo\"",
