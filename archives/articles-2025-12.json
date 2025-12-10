@@ -1,12 +1,54 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-10T19:35:45.615Z",
+  "generatedAt": "2025-12-10T19:46:13.432Z",
   "items": [
+    {
+      "title": "Tragedia na rajskiej wyspie. Polski turysta utonął podczas nurkowania",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tragedia-na-rajskiej-wyspie-polski-turysta-utonal-podczas-nu,nId,22466274",
+      "pubDate": "Wed, 10 Dec 2025 19:43:13 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Małgorzata Manowska: 7 proc. mniej w budżecie SN zagraża prawu do sądu",
+      "link": "https://www.rp.pl/sady-i-trybunaly/art43485351-malgorzata-manowska-7-proc-mniej-w-budzecie-sn-zagraza-prawu-do-sadu",
+      "pubDate": "Wed, 10 Dec 2025 20:38:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wiceprzewodniczący PKP Cargo sprzedał wszystkie akcje. Potem wszystkie odkupił",
+      "link": "https://www.money.pl/gielda/wiceprzewodniczacy-pkp-cargo-sprzedal-wszystkie-akcje-potem-wszystkie-odkupil-7231047626279872a.html",
+      "pubDate": "Wed, 10 Dec 2025 20:37:51 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Potężna sieć przemytu napędza chińską rewolucję AI. Powstał czarny rynek chipów",
+      "link": "https://spidersweb.pl/2025/12/deepseek-przemyt-nvidia.html",
+      "pubDate": "Wed, 10 Dec 2025 20:37:06 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Pożar w sklepie z artykułami BHP",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/milanowek-pozar-w-centrum-bhp-ogien-wychodzil-przez-szyby-st8795710?source=rss",
+      "pubDate": "Wed, 10 Dec 2025 19:35:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zełenski przyjedzie do Warszawy na spotkanie z Nawrockim",
+      "link": "https://www.rmf24.pl/fakty/polska/news-zelenski-przyjedzie-do-warszawy-na-spotkanie-z-nawrockim,nId,8048552",
+      "pubDate": "Wed, 10 Dec 2025 20:35:25 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Pierwsze konkrety o Android 17. Google wysłuchało próśb użytkowników",
       "link": "https://android.com.pl/tech/1000240-android-17-app-lock-pierwsze-konkrety/",
       "pubDate": "Wed, 10 Dec 2025 19:34:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Labour seeks to reform human rights laws in order to save them",
+      "link": "https://www.theguardian.com/law/2025/dec/10/labour-seeks-to-reform-human-rights-laws-in-order-to-save-them",
+      "pubDate": "Wed, 10 Dec 2025 19:33:01 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Bulgarian court rejects extradition of Russian owner of ship linked to Beirut port blast",
@@ -15,10 +57,22 @@
       "source": "Euronews"
     },
     {
+      "title": "Rosja chce przekonać świat, że już wygrała. Analitycy ostrzegają",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rosja-chce-przekonac-swiat-ze-juz-wygrala-analitycy-ostrzega,nId,22466273",
+      "pubDate": "Wed, 10 Dec 2025 19:32:59 GMT",
+      "source": "Interia"
+    },
+    {
       "title": "Podzielony Fed znów tnie stopy. Co dalej z polityką monetarną USA?",
       "link": "https://www.rp.pl/dane-gospodarcze/art43485521-podzielony-fed-znow-tnie-stopy-co-dalej-z-polityka-monetarna-usa",
       "pubDate": "Wed, 10 Dec 2025 20:31:09 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Australia news live: Victorian students await VCE results and Atar scores; Treasury optimistic on business forecast",
+      "link": "https://www.theguardian.com/australia-news/live/2025/dec/11/vce-atar-results-victoria-social-media-ban-reactions-abs-employment-figures-queensland-parliament-aukus-meeting-washington-dc-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
+      "pubDate": "Wed, 10 Dec 2025 19:30:45 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Sánchez's political turmoil on The Ring: A government in ‘survival mode’?",
@@ -149,6 +203,12 @@
     {
       "title": "USA przechwyciły tankowiec u wybrzeży Wenezueli",
       "link": "https://wiadomosci.onet.pl/swiat/usa-przechwycily-tankowiec-u-wybrzezy-wenezueli/t8gdsgv",
+      "pubDate": "Wed, 10 Dec 2025 19:02:44 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Siły USA przechwyciły tankowiec u wybrzeży Wenezueli",
+      "link": "https://wiadomosci.onet.pl/swiat/narasta-napiecie-wokol-wenezueli-usa-przechwycily-tankowiec/t8gdsgv",
       "pubDate": "Wed, 10 Dec 2025 19:02:44 GMT",
       "source": "Onet"
     },
@@ -59940,66 +60000,6 @@
       "title": "Sławomir Mentzen uderza w premiera. Przerobione zdjęcie Donalda Tuska trafiło do sieci",
       "link": "https://wiadomosci.onet.pl/kraj/slawomir-mentzen-opublikowal-grafike-z-donaldem-tuskiem-wymowny-podpis/1xkdvvl",
       "pubDate": "Tue, 02 Dec 2025 14:07:43 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rząd wprowadza rewolucyjne zmiany. To ułatwi życie Polakom",
-      "link": "https://businessinsider.com.pl/prawo/nowelizacja-ustawy-ceidg-przedsiebiorcy-przejda-na-cyfrowe-wnioski/23s6dcj",
-      "pubDate": "Tue, 02 Dec 2025 14:06:49 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Planned solar park in Portugal raises concerns about environmental damage and local impact",
-      "link": "http://www.euronews.com/green/2025/12/02/planned-solar-park-in-portugal-raises-concerns-about-environmental-damage-and-local-impact",
-      "pubDate": "Tue, 02 Dec 2025 15:06:31 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Świat wciąż czeka na Spotify Wrapped 2025, a Amazon Music Delivered 2025 jest już dostępne",
-      "link": "https://www.tabletowo.pl/amazon-music-delivered-2025-juz-dostepne/",
-      "pubDate": "Tue, 02 Dec 2025 14:06:22 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Nowy rok odczujemy w portfelach. Te podatki i opłaty idą w górę",
-      "link": "https://businessinsider.com.pl/wiadomosci/podwyzki-od-stycznia-2026-za-prad-papierosy-i-telewizor-zaplacisz-wiecej/cddk14w",
-      "pubDate": "Tue, 02 Dec 2025 14:06:21 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Media: FIFA chce zmian w systemie VAR. Od mundialu w Ameryce Północnej",
-      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-media-fifa-chce-zmian-w-systemie-var-od-mundialu-w-ameryce-p,nId,8046101",
-      "pubDate": "Tue, 02 Dec 2025 15:05:57 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Badają grzyb z Czarnobyla. Może chronić przed promieniowaniem",
-      "link": "https://tech.wp.pl/badaja-grzyb-z-czarnobyla-moze-chronic-przed-promieniowaniem,7228128735976384a",
-      "pubDate": "Tue, 02 Dec 2025 15:05:48 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Asylum seekers across US in limbo over Trump’s policy reversals: ‘devastating’",
-      "link": "https://www.theguardian.com/us-news/2025/dec/02/trump-asylum-pause-afghanistan",
-      "pubDate": "Tue, 02 Dec 2025 14:04:07 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pijany urzędnik w starostwie powiatowym. Interweniowała policja",
-      "link": "https://tvn24.pl/lubuskie/zagan-pijany-urzednik-w-starostwie-powiatowym-interweniowala-policja-st8781898?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 14:03:51 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "‘An unprecedented void’: Brussels goes record-breaking 542 days without a government",
-      "link": "https://www.theguardian.com/world/2025/dec/02/brussels-breaks-belgium-record-longest-period-without-government",
-      "pubDate": "Tue, 02 Dec 2025 14:02:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Ojciec Rydzyk wezwany do Prokuratury. Przesłuchanie przełożone",
-      "link": "https://wiadomosci.onet.pl/rzeszow/ojciec-rydzyk-wezwany-do-prokuratury-przesluchanie-przelozone/8wfcd7v",
-      "pubDate": "Tue, 02 Dec 2025 14:01:59 GMT",
       "source": "Onet"
     }
   ]
