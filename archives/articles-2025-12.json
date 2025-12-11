@@ -1,7 +1,121 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-11T00:01:57.170Z",
+  "generatedAt": "2025-12-11T02:20:58.735Z",
   "items": [
+    {
+      "title": "‘Ruined my Christmas spirit’: McDonald’s removes AI-generated ad after backlash",
+      "link": "https://www.theguardian.com/business/2025/dec/11/mcdonalds-removes-ai-generated-christmas-ad-advert-backlash",
+      "pubDate": "Thu, 11 Dec 2025 02:01:09 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Venezuelan opposition leader makes first public appearance after months in hiding",
+      "link": "https://www.bbc.com/news/articles/c0q5p43qgl1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 02:00:19 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Protesty w stolicy Bułgarii. Prezydent wzywa do dymisji rządu",
+      "link": "https://wiadomosci.onet.pl/swiat/antyrzadowe-protesty-w-bulgarii-prezydent-wzywa-do-dymisji-rzadu/7zwlcn6",
+      "pubDate": "Thu, 11 Dec 2025 01:56:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "US House passes bill to bolster Europe’s defence, in apparent rebuke to Trump’s foreign policy strategy",
+      "link": "https://www.theguardian.com/us-news/2025/dec/11/us-house-passes-bill-to-bolster-europes-defence-in-apparent-rebuke-to-trumps-foreign-policy-strategy",
+      "pubDate": "Thu, 11 Dec 2025 01:48:55 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "US seizes oil tanker off the coast of Venezuela, Trump says",
+      "link": "https://www.bbc.com/news/articles/c1w9lg11jw0o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 01:46:54 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Szokujące doniesienia na temat amerykańskiego planu pokojowego. \"Gospodarcza wersja Jałty\"",
+      "link": "https://wiadomosci.onet.pl/swiat/media-usa-proponuja-przywrocenie-rosyjskiej-energii-do-europy-zachodniej/btdtrnd",
+      "pubDate": "Thu, 11 Dec 2025 01:29:50 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Shares in AI giant Oracle fall after revenue results ramp up bubble fears",
+      "link": "https://www.bbc.com/news/articles/c9qe1e374l1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 01:28:34 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Indigenous deaths in custody in Australia hit highest level since 1980",
+      "link": "https://www.bbc.com/news/articles/ckgkykywp58o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 01:28:01 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Bolivia detains ex-President Luis Arce in corruption probe",
+      "link": "https://www.dw.com/en/bolivia-detains-ex-president-luis-arce-in-corruption-probe/a-75100020?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 11 Dec 2025 01:11:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Trump launches $1m 'gold card' immigration visas",
+      "link": "https://www.bbc.com/news/articles/cj4q1lddj8go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 01:10:45 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Pogoda na dziś - czwartek, 11.12. Dużo chmur, możliwy deszcz",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-czwartek-11-12-duzo-chmur-mozliwy-deszcz-st8795669?source=rss",
+      "pubDate": "Thu, 11 Dec 2025 01:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Half a million evacuated on Thai-Cambodia border as Trump makes diplomatic push to end fighting",
+      "link": "https://www.theguardian.com/world/2025/dec/11/thailand-cambodia-border-evacuation",
+      "pubDate": "Thu, 11 Dec 2025 00:46:52 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Donald Trump wzywa do sprzedaży CNN. \"Jest konieczna\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-komentuje-przyszlosc-cnn-sprzedaz-jest-konieczna/8y7gfm4",
+      "pubDate": "Thu, 11 Dec 2025 00:25:26 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Portugal braced for mass disruption in first general strike for 12 years",
+      "link": "https://www.bbc.com/news/articles/cdxwrvl1734o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 00:24:49 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "The Swiss city that lets you pay for most things with bitcoin",
+      "link": "https://www.bbc.com/news/articles/c0r959n91p4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 00:22:58 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "String of celebrity scandals renews debate on South Korea's 'cancel culture'",
+      "link": "https://www.bbc.com/news/articles/c989e9xxn5po?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 11 Dec 2025 00:05:47 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Online child sexual abuse surges by 26% in year as police say tech firms must act",
+      "link": "https://www.theguardian.com/society/2025/dec/11/online-child-sexual-abuse-surges-by-26-percent-in-year-as-police-say-tech-firms-must-act",
+      "pubDate": "Thu, 11 Dec 2025 00:01:51 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Some GCSEs and A-levels in England could be taken on laptops by 2030, Ofqual says",
+      "link": "https://www.theguardian.com/education/2025/dec/11/gcses-a-levels-exams-england-laptops-2030-ofqual",
+      "pubDate": "Thu, 11 Dec 2025 00:01:51 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Angielscy burmistrzowie zdecydują, czy turyści powinni płacić",
+      "link": "https://turystyka.rp.pl/nowe-trendy/art43486971-angielscy-burmistrzowie-zdecyduja-czy-turysci-powinni-placic",
+      "pubDate": "Thu, 11 Dec 2025 01:00:20 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "USA przejmują tankowiec u wybrzeży Wenezueli. Jednostka transportowała ropę objętą sankcjami",
       "link": "https://wiadomosci.onet.pl/swiat/usa-przejmuja-tankowiec-u-wybrzezy-wenezueli-prokuratura-byl-objety-sankcjami/nlh1xdj",
@@ -59887,120 +60001,6 @@
       "link": "https://www.theguardian.com/world/2025/dec/02/indian-order-preload-state-owned-sanchar-saathi-app-smartphones-political-outcry",
       "pubDate": "Tue, 02 Dec 2025 15:30:49 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Władimir Putin ostrzega Europę: \"Jeśli rozpocznie wojnę, Rosja jest gotowa\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/wladimir-putin-ostrzega-europe-jesli-rozpocznie-wojne-rosja-jest-gotowa/xy5xf6v",
-      "pubDate": "Tue, 02 Dec 2025 15:30:34 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Władimir Putin ostrzega Europę: \"Jeśli rozpocznie wojnę, Rosja jest gotowa\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/wladimir-putin-ostro-o-europie-prezydent-rosji-grozi-odpowiedzia-na-konflikt/xy5xf6v",
-      "pubDate": "Tue, 02 Dec 2025 15:30:34 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Opera AI w przeglądarkach One, GX i Neon zasilane przez najnowsze modele Google Gemini",
-      "link": "https://www.chip.pl/2025/12/opera-ai-gemini-80-mln-uzytkownikow-darmo",
-      "pubDate": "Tue, 02 Dec 2025 15:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "To już oficjalne. Kultowy iPhone trafił na listę sprzętów przestarzałych",
-      "link": "https://www.chip.pl/2025/12/iphone-se-trafil-na-liste-produktow-przestarzalych",
-      "pubDate": "Tue, 02 Dec 2025 15:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Wielka Brytania bierze pod lupę popularne gry mobilne",
-      "link": "https://cyberdefence24.pl/prywatnosc/wielka-brytania-bierze-pod-lupe-popularne-gry-mobilne",
-      "pubDate": "Tue, 02 Dec 2025 16:30:00 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Wzrosła liczba chorych na odrę. W których powiatach?",
-      "link": "https://tvn24.pl/zdrowie/na-podkarpaciu-wzrosla-liczba-chorych-na-odre-w-ktorych-powiatach-st8782363?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 15:28:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Misia konała w męczarniach. Sąd chce wysłać Adama B. do więzienia",
-      "link": "https://tvn24.pl/krakow/nowy-targ-skatowal-szczeniaka-ma-isc-do-wiezienia-zapadl-wyrok-st8782174?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 15:28:07 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rząd wprowadza kosmiczne OC. Urzędnik podejrzy twój dom z satelity",
-      "link": "https://android.com.pl/tech/997302-rzad-wprowadza-kosmiczne-oc/",
-      "pubDate": "Tue, 02 Dec 2025 15:28:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Putin: Europa chce wojny? Rosja jest gotowa",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43441541-putin-europa-chce-wojny-rosja-jest-gotowa",
-      "pubDate": "Tue, 02 Dec 2025 16:28:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Ręce opadają\", \"płakać się chce\". Politycy o decyzji prezydenta",
-      "link": "https://tvn24.pl/polska/weto-w-sprawie-ustawy-lancuchowej-komentarze-politykow-st8782210?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 15:27:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tragedia w Małopolsce. Samochód osobowy zderzył się z busem. Nie żyje 25-latek",
-      "link": "https://wiadomosci.onet.pl/krakow/samochod-osobowy-zderzyl-sie-z-busem-w-malopolsce-nie-zyje-25-latek/rswek8k",
-      "pubDate": "Tue, 02 Dec 2025 15:26:15 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowe rachunki za prąd. Oto, co się zmieni dla sześciu milionów Polaków",
-      "link": "https://businessinsider.com.pl/wiadomosci/tauron-upraszcza-rachunki-za-energie-zmiany-juz-w-tym-miesiacu/p890mtv",
-      "pubDate": "Tue, 02 Dec 2025 15:22:53 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "E-maile Marii Kurowskiej i kłamstwa ziobrystów. Kamil Dziubka o kulisach afery z Funduszem Sprawiedliwości",
-      "link": "https://wiadomosci.onet.pl/kraj/e-maile-marii-kurowskiej-i-klamstwa-ziobrystow-kamil-dziubka-o-kulisach-afery/qh1c5xe",
-      "pubDate": "Tue, 02 Dec 2025 15:21:51 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Jesteśmy gotowi już teraz\". Putin wprost o wojnie z Europą",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-02/jestesmy-gotowi-juz-teraz-putin-wprost-o-wojnie-z-europa/",
-      "pubDate": "Tue, 02 Dec 2025 16:20:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Pożar w szkole we Wrocławiu. Ewakuowano ponad 320 osób",
-      "link": "https://tvn24.pl/wroclaw/wroclaw-pozar-w-szkole-we-wroclawiu-ewakuowano-ponad-320-osob-st8782350?source=rss",
-      "pubDate": "Tue, 02 Dec 2025 15:19:19 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nawrocki przypomina o reparacjach: Niemcy zaatakowali, niech płacą",
-      "link": "https://biznes.interia.pl/polityka/news-nawrocki-przypomina-o-reparacjach-niemcy-zaatakowali-niech-p,nId,22462888",
-      "pubDate": "Tue, 02 Dec 2025 15:18:10 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Trump zdecyduje, kto będzie trząsł rynkami. Pięciu kandydatów na szefa Fed",
-      "link": "https://biznes.interia.pl/gospodarka/news-trump-uklada-bank-centralny-usa-wedlug-swojej-woli-piec-kluc,nId,22462775",
-      "pubDate": "Tue, 02 Dec 2025 15:16:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "German Christmas markets tighten security to protect holiday magic",
-      "link": "https://www.dw.com/en/german-christmas-markets-tighten-security-to-protect-holiday-magic/a-74963512?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 2 Dec 2025 15:16:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "German Christmas markets see higher costs amid security upgrades",
-      "link": "https://www.dw.com/en/german-christmas-markets-see-higher-costs-amid-security-upgrades/a-74963512?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 2 Dec 2025 15:16:00 GMT",
-      "source": "DW"
     }
   ]
 }
