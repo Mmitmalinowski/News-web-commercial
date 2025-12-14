@@ -1,12 +1,42 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-14T10:53:51.478Z",
+  "generatedAt": "2025-12-14T11:02:55.104Z",
   "items": [
     {
       "title": "O włos od katastrofy na orbicie. Starlink musiał uciekać przed chińskim satelitą",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 14 Dec 2025 16:10:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Zapraszają turystów. To kolebka radioaktywności",
+      "link": "https://tech.wp.pl/zapraszaja-turystow-to-kolebka-radioaktywnosci,7231660374461344a",
+      "pubDate": "Sun, 14 Dec 2025 12:00:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Godzina policyjna w prowincji Tajlandii. Ewakuowano setki tysięcy osób",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-godzina-policyjna-w-prowincji-tajlandii-ewakuowano-setki-tys,nId,8050535",
+      "pubDate": "Sun, 14 Dec 2025 11:55:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Kumulacja w amerykańskiej loterii Powerball rośnie do miliardowej kwoty",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-kumulacja-powerball-wzrosla-do-1-1-mld-dolarow-wyniki-losowania-st8800578?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 10:54:15 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tragedia w Sydney wstrząsa Australią. Dziesięć ofiar podczas Chanuki",
+      "link": "https://businessinsider.com.pl/wiadomosci/tragedia-na-plazy-bondi-wstrzasa-australia-dziesiec-ofiar-smiertelnych/wbgs6e4",
+      "pubDate": "Sun, 14 Dec 2025 10:54:09 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Algorytmy kontra mózg dziecka, czyli jak dzieci pociągają za dźwignię jednorękiego bandyty",
+      "link": "https://www.rp.pl/innowacje-w-medycynie/art43501691-algorytmy-kontra-mozg-dziecka-czyli-jak-dzieci-pociagaja-za-dzwignie-jednorekiego-bandyty",
+      "pubDate": "Sun, 14 Dec 2025 11:54:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Bogusław Chrabota: Karol Nawrocki, Thomas Rose i Chanuka w pałacu",
@@ -385,6 +415,12 @@
       "link": "https://mamstartup.pl/alpa-kids-milion-euro-na-edukacje-i-sztuczna-inteligencja-dla-najmlodszych/",
       "pubDate": "Sun, 14 Dec 2025 09:00:33 +0000",
       "source": "MamStartup"
+    },
+    {
+      "title": "5 minut w ustawieniach i… telefon przestaje rządzić twoim życiem!",
+      "link": "https://antyweb.pl/jak-wylaczyc-zbedne-powiadomienia-android-ios",
+      "pubDate": "Sun, 14 Dec 2025 09:00:30 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Norwegia idzie na rekord. Jeden błąd i koszt budowy drastycznie rośnie",
@@ -23883,6 +23919,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -25771,6 +25831,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -36283,6 +36367,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -60811,60 +60919,6 @@
       "link": "https://sekurak.pl/kolejna-duza-awaria-cloudflare-nie-dziala-downdetector-nie-dziala-linkedin-nie-dziala-duzo-polskich-sklepow-on-line/",
       "pubDate": "Fri, 05 Dec 2025 09:03:06 +0000",
       "source": "Sekurak"
-    },
-    {
-      "title": "Primark wejdzie do trzech nowych miast. Znamy lokalizację",
-      "link": "https://businessinsider.com.pl/gospodarka/primark-wejdzie-do-trzech-nowych-miast-znamy-lokalizacje/39ekkgg",
-      "pubDate": "Fri, 05 Dec 2025 09:00:08 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Nowy system wyświetlania 3D EyeReal wspomagany przez AI eliminuje potrzebę stosowania okularów",
-      "link": "https://www.chip.pl/2025/12/wyswietlanie-3d-eyereal-ai-bez-okularow",
-      "pubDate": "Fri, 05 Dec 2025 09:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Tanzania podpadła USA? Waszyngton mówi o represjach i przemocy",
-      "link": "https://www.bankier.pl/wiadomosc/Tanzania-podpadla-USA-Waszyngton-mowi-o-represjach-i-przemocy-9050933.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 5 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Prowokacyjny język napędza przemoc? Amerykanie zaniepokojeni poziomem debaty",
-      "link": "https://www.bankier.pl/wiadomosc/Prowokacyjny-jezyk-napedza-przemoc-Amerykanie-zaniepokojeni-poziomem-debaty-9050978.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 5 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Śledztwo ws. Barbary Skrzypek umorzone",
-      "link": "https://www.rp.pl/prawo-karne/art43458681-sledztwo-ws-barbary-skrzypek-umorzone",
-      "pubDate": "Fri, 05 Dec 2025 09:59:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Finland: The money woes of the world's happiest country",
-      "link": "https://www.dw.com/en/finland-the-money-woes-of-the-world-s-happiest-country/a-74917409?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 5 Dec 2025 08:59:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "IndiGo flight chaos: Major Indian airports hit as country’s largest airline cancels services",
-      "link": "http://www.euronews.com/travel/2025/12/05/indigo-flight-chaos-major-indian-airports-hit-as-countrys-largest-airline-cancels-services",
-      "pubDate": "Fri, 05 Dec 2025 09:58:09 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Tragiczna śmierć w zakładzie. Mężczyzna wpadł do maszyny zgniatającej kartony",
-      "link": "https://www.rmf24.pl/regiony/poznan/news-tragiczna-smierc-w-zakladzie-mezczyzna-wpadl-do-maszyny-zgni,nId,8046910",
-      "pubDate": "Fri, 05 Dec 2025 09:57:40 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zełenski w Polsce? Szef MSZ: Korona z głowy by nie spadła...",
-      "link": "https://www.rmf24.pl/polityka/news-zelenski-w-polsce-szef-msz-korona-z-glowy-by-nie-spadla,nId,8046909",
-      "pubDate": "Fri, 05 Dec 2025 09:57:36 +0100",
-      "source": "RMF24"
     }
   ]
 }
