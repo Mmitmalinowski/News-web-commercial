@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-14T23:49:08.744Z",
+  "generatedAt": "2025-12-14T23:58:20.834Z",
   "items": [
+    {
+      "title": "Ultra-conservative José Antonio Kast elected Chile’s next president",
+      "link": "https://www.theguardian.com/world/2025/dec/15/jose-antonio-kast-wins-election-chile-president",
+      "pubDate": "Sun, 14 Dec 2025 23:40:25 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "\"Napluliście na mundury\". Rząd kontra szef BBN",
       "link": "https://wydarzenia.interia.pl/kraj/news-napluliscie-na-mundury-rzad-kontra-szef-bbn,nId,22498417",
@@ -27297,6 +27303,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -29185,6 +29215,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -40849,6 +40903,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -63433,30 +63511,6 @@
       "link": "http://www.euronews.com/travel/2025/12/05/french-senate-votes-in-favour-of-new-15-per-passenger-tax-for-cruise-ships",
       "pubDate": "Fri, 05 Dec 2025 15:30:28 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "„Nowa Ziemia”: Kraj w ruinie. A nawet dwa kraje",
-      "link": "https://www.rp.pl/plus-minus/art43453721-nowa-ziemia-kraj-w-ruinie-a-nawet-dwa-kraje",
-      "pubDate": "Fri, 05 Dec 2025 15:30:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Netflix przejmuje Warner Bros. w historycznej transakcji wartej 82,7 mld dolarów",
-      "link": "https://www.chip.pl/2025/12/netflix-warner-bros-hbo-max-przejecie",
-      "pubDate": "Fri, 05 Dec 2025 14:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 05.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-05-12-2025-7229213323729856a.html",
-      "pubDate": "Fri, 05 Dec 2025 15:29:52 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Przy tym quizie na pewno nie zaśniecie",
-      "link": "https://tvn24.pl/quizy/quiz-na-piatek-wydarzenia-pierwszy-tydzien-grudnia-st8787611?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 14:29:48 GMT",
-      "source": "TVN24"
     }
   ]
 }
