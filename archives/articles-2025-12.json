@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-14T20:52:47.437Z",
+  "generatedAt": "2025-12-14T21:10:24.484Z",
   "items": [
+    {
+      "title": "Zidentyfikowali napastników z Sydney. To ojciec i syn",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-14/zidentyfikowali-napastnikow-z-sydney-to-ojciec-i-syn/",
+      "pubDate": "Sun, 14 Dec 2025 22:07:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Tu może być niebezpiecznie na drogach. Prognoza zagrożeń IMGW",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-zagrozen-imgw-poniedzialek-14-12-gesta-mgla-tu-moze-byc-niebezpiecznie-na-drogach-st8801545?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 21:04:54 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Putin szykuje \"konia trojańskiego\" w Ukrainie. \"Amerykanie nie rozumieją\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-putin-szykuje-konia-trojanskiego-w-ukrainie-amerykanie-nie-r,nId,22498406",
+      "pubDate": "Sun, 14 Dec 2025 21:04:51 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Bartłomiej Topa i Katarzyna Herman w spocie kampanii \"Spokojne Święta\"",
+      "link": "https://www.wirtualnemedia.pl/bartlomiej-topa-i-katarzyna-herman-w-spocie-kampanii-spokojne-swieta,7232359786470336a",
+      "pubDate": "Sun, 14 Dec 2025 21:56:44 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Michał Przedlacki Dziennikarzem Roku 2025",
+      "link": "https://tvn24.pl/polska/michal-przedlacki-dziennikarzem-roku-2025-st8801550?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 20:53:45 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wstrząsający proceder w USA. Chińscy biznesmeni płacą bajońskie sumy",
+      "link": "https://wiadomosci.onet.pl/swiat/wstrzasajacy-proceder-w-usa-chinscy-biznesmeni-placa-ogromne-pieniadze/hkerg99",
+      "pubDate": "Sun, 14 Dec 2025 20:51:44 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Atak na żołnierzy w Syrii. Władze aresztowały podejrzanych",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-14/atak-na-zolnierzy-w-syrii-wladze-aresztowaly-podejrzanych/",
@@ -26799,6 +26835,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -28687,6 +28747,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -40063,6 +40147,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -62755,60 +62863,6 @@
       "link": "https://spidersweb.pl/2025/12/telewizory-na-swieta-najlepsze-promocje.html",
       "pubDate": "Fri, 05 Dec 2025 14:52:12 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Litwa wprowadzi stan wyjątkowy. Powodem naruszenia przestrzeni powietrznej",
-      "link": "https://wiadomosci.onet.pl/swiat/litwa-wprowadzi-stan-wyjatkowy-powodem-naruszenia-przestrzeni-powietrznej/rw7y6h2",
-      "pubDate": "Fri, 05 Dec 2025 13:52:05 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Chińska chemia chce przejąć akumulatory przyszłości. Tinci właśnie zgarnęło 8 kluczowych patentów",
-      "link": "https://www.chip.pl/2025/12/chiny-akumulatory-przyszlosci-patenty-tinci",
-      "pubDate": "Fri, 05 Dec 2025 13:52:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Samsung szykuje magnetyczną rewolucję? Seria Galaxy S26 wprowadzi znaczące zmiany",
-      "link": "https://android.com.pl/tech/998444-samsung-galaxy-s26-magnetyczna-zmiana/",
-      "pubDate": "Fri, 05 Dec 2025 13:51:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Prezydent o ochronie zdrowie. Wszystko, co powiedział dziś Karol Nawrocki",
-      "link": "https://tvn24.pl/najnowsze/prezydent-o-ochronie-zdrowie-wszystko-co-powiedzial-dzis-karol-nawrocki-st8787583?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 13:50:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prezydent o ochronie zdrowia. Wszystko, co powiedział dziś Karol Nawrocki",
-      "link": "https://tvn24.pl/najnowsze/prezydent-o-ochronie-zdrowia-wszystko-co-powiedzial-dzis-karol-nawrocki-st8787583?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 13:50:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prezydent o ochronie zdrowia. Wszystko, co powiedział dziś Karol Nawrocki",
-      "link": "https://tvn24.pl/zdrowie/prezydent-o-ochronie-zdrowia-wszystko-co-powiedzial-dzis-karol-nawrocki-st8787583?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 13:50:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ducha krzepić, tężyć ciało",
-      "link": "https://www.rp.pl/plus-minus/art43453681-ducha-krzepic-tezyc-cialo",
-      "pubDate": "Fri, 05 Dec 2025 14:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Playwright Jeremy O Harris arrested in Japan for alleged drug smuggling",
-      "link": "https://www.theguardian.com/stage/2025/dec/05/jeremy-o-harris-arrested-japan",
-      "pubDate": "Fri, 05 Dec 2025 13:49:40 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Waldemar Żurek reaguje na słowa Zbigniewa Ziobry. \"Żenująca komedia\"",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/waldemar-zurek-reaguje-na-slowa-zbigniewa-ziobry-zenujaca-komedia/ej9c8cj",
-      "pubDate": "Fri, 05 Dec 2025 13:49:20 GMT",
-      "source": "Onet"
     }
   ]
 }
