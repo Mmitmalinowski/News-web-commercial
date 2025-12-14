@@ -1,7 +1,85 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-14T06:22:50.817Z",
+  "generatedAt": "2025-12-14T06:49:13.539Z",
   "items": [
+    {
+      "title": "Kiedy skończy się wojna? Polski generał bez złudzeń, w tle sondaż",
+      "link": "https://wydarzenia.interia.pl/kraj/news-kiedy-skonczy-sie-wojna-w-ukrainie-polski-general-bez-zludze,nId,22498274",
+      "pubDate": "Sun, 14 Dec 2025 06:46:00 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Antarktyda to wielkie laboratorium. Dwa balony, dwa wielkie pytania",
+      "link": "https://spidersweb.pl/2025/12/balony-nasa-neutrina-i-ciemna-materia.html",
+      "pubDate": "Sun, 14 Dec 2025 07:42:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Architektura władzy Donalda Tuska. Jak premier zbudował nowy system rządzenia państwem?",
+      "link": "https://www.rp.pl/polityka/art43474351-architektura-wladzy-donalda-tuska-jak-premier-zbudowal-nowy-system-rzadzenia-panstwem",
+      "pubDate": "Sun, 14 Dec 2025 07:41:44 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pogoda w nowym tygodniu całkiem stanie na głowie. Nowa fala ciepła to nie wszystko",
+      "link": "https://wiadomosci.onet.pl/pogoda/pogoda-w-nowym-tygodniu-totalnie-stanie-na-glowie-idzie-wielki-antycyklon/8cvp81b",
+      "pubDate": "Sun, 14 Dec 2025 06:40:38 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wigilia dla potrzebujących znów w Krakowie. Pomóż stworzyć świąteczne paczki!",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-wigilia-dla-potrzebujacych-znow-w-krakowie-pomoz-stworzyc-sw,nId,8050002",
+      "pubDate": "Sun, 14 Dec 2025 07:40:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Radosław Sikorski zareagował na burzę wokół MiG-29 dla Ukrainy. Zwrócił się do Andrzeja Dudy",
+      "link": "https://wiadomosci.onet.pl/kraj/sikorski-zareagowal-na-burze-wokol-mig-29-zwrocil-sie-do-dudy/kgremp5",
+      "pubDate": "Sun, 14 Dec 2025 06:39:38 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zrób to już teraz! Tylko tak przygotujesz świąteczny bigos i idealny barszcz wigilijny",
+      "link": "https://www.rmf24.pl/ciekawostki/news-zrob-to-juz-teraz-tylko-tak-przygotujesz-swiateczny-bigos-i-,nId,8046022",
+      "pubDate": "Sun, 14 Dec 2025 07:35:24 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Bundeswehra wysyła żołnierzy do Polski. Jakie będzie ich zadanie?",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-bundeswehra-wysyla-zolnierzy-do-polski-jakie-bedzie-ich-zada,nId,8050514",
+      "pubDate": "Sun, 14 Dec 2025 07:35:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Orkan sparaliżował loty na popularnej wyspie. Odwołano m.in. połączenia z Polską",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-orkan-sparalizowal-loty-na-popularnej-wyspie-odwolano-m-in-p,nId,8050513",
+      "pubDate": "Sun, 14 Dec 2025 07:33:45 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wyszli na ulice. \"Państwo od lat wiedziało, co się dzieje\"",
+      "link": "https://tvn24.pl/swiat/wegry-protest-na-ulicach-miasta-panstwo-od-lat-wiedzialo-co-dzieje-sie-w-osrodkach-pomocy-nieletnim-st8800509?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 06:33:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Odkryli dziwny ślad na Marsie. Toż to motyl",
+      "link": "https://spidersweb.pl/2025/12/mars-krater-motyl-esa-nowe-zdjecia.html",
+      "pubDate": "Sun, 14 Dec 2025 07:31:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "\"To deklaracja wojny\". Orban dosadnie po decyzji UE w sprawie Rosji",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-to-deklaracja-wojny-orban-dosadnie-po-decyzji-ue-w-sprawie-r,nId,22498262",
+      "pubDate": "Sun, 14 Dec 2025 06:30:38 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Zawalony most, zniszczone domy. Kilkadziesiąt zaginionych",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-boliwii-zawalony-most-zniszczone-domy-kilkadziesiat-zaginionych-st8800541?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 06:22:51 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "RegioJet ma ambitne plany. Tylu pasażerów chce przewieźć w Polsce",
       "link": "https://geekweek.interia.pl/technologia/news-regiojet-ma-ambitne-plany-tylu-pasazerow-chce-przewiezc-w-po,nId,22464892",
@@ -19,6 +97,12 @@
       "link": "https://spidersweb.pl/2025/12/surface-earbuds-uwierzytelnianie-uzytkownika.html",
       "pubDate": "Sun, 14 Dec 2025 07:20:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Bronił Trumpa, teraz prowadzi tajne rozmowy z Łukaszenką. Kim jest John Coale",
+      "link": "https://wiadomosci.onet.pl/swiat/bronil-trumpa-teraz-prowadzi-tajne-rozmowy-z-lukaszenka-kim-jest-john-coale/ctkg3k7",
+      "pubDate": "Sun, 14 Dec 2025 06:16:56 GMT",
+      "source": "Onet"
     },
     {
       "title": "Jadą Święta RMF! Dziś ostatni przystanek naszej akcji",
@@ -22371,6 +22455,30 @@
       "source": "Business Insider"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -24259,6 +24367,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Miss Universe 2025: dr Gabrielle Henry uległa wypadkowi. Komentarz organizatora",
@@ -34387,6 +34519,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Incydent z udziałem Rosji i Chin. Korea Południowa poderwała myśliwce",
@@ -59899,108 +60055,6 @@
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-piatek-5-12-trudne-warunki-na-drogach-obowiazuja-zolte-alarmy-st8786482?source=rss",
       "pubDate": "Fri, 05 Dec 2025 06:00:15 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Gwiazdowski: Ja się w cyrku nie śmieje. Mieszkam w Polsce",
-      "link": "https://biznes.interia.pl/felietony/news-felieton-gwiazdowskiego-kto-w-polsce-mieszka-ten-sie-w-cyrku,nId,22463949",
-      "pubDate": "Fri, 05 Dec 2025 06:00:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "59 gniewnych ludzi",
-      "link": "https://historia.rp.pl/historia-polski/art43454631-59-gniewnych-ludzi",
-      "pubDate": "Fri, 05 Dec 2025 07:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Elektryfikacja flot do 2030? Australia odcina młodych od social mediów",
-      "link": "https://www.rp.pl/biznes/art43456621-elektryfikacja-flot-do-2030-australia-odcina-mlodych-od-social-mediow",
-      "pubDate": "Fri, 05 Dec 2025 07:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ekologiczne wariactwo UE. Firmowe samochody tylko na prąd?",
-      "link": "https://www.bankier.pl/wiadomosc/Ekologiczne-wariactwo-UE-Firmowe-samochody-maja-byc-tylko-na-prad-9050935.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 5 Dec 2025 07:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Sejm zdecydował. Sprawdź, jak się zmieni prawo już w 2026 r.",
-      "link": "https://businessinsider.com.pl/prawo/sejm-uchwalil-przelomowe-zmiany-dla-polakow-juz-od-2026-r/g2545fr",
-      "pubDate": "Fri, 05 Dec 2025 05:59:22 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kanał Zero nie dostał na razie od KRRiT więcej czasu na uruchomienie telewizji",
-      "link": "http://www.press.pl/tresc/90600,kanal-zero-nie-dostal-na-razie-od-krrit-wiecej-czasu-na-uruchomienie-telewizji?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:59:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "\"Prawdziwa perła na szynach\" skończyła pół wieku ",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-dworzec-centralny-skonczyl-50-lat-st8783068?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 05:58:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Beata Kozidrak reklamuje Krakusa. To jej pierwsza kampania od kilku lat",
-      "link": "http://www.press.pl/tresc/90598,beata-kozidrak-reklamuje-krakusa_-to-jej-pierwsza-kampania-od-kilku-lat?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:58:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "SEC Newgate rozpoczyna działalność na Węgrzech",
-      "link": "http://www.press.pl/tresc/90599,sec-newgate-rozpoczyna-dzialalnosc-na-wegrzech?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:58:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Reporterzy bez Granic ostrzegają Polskę i Litwę przed skutkami cięć wydatków na media publiczne",
-      "link": "http://www.press.pl/tresc/90597,reporterzy-bez-granic-ostrzegaja-polske-i-litwe-przed-skutkami-ciec-wydatkow-na-media-publiczne?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:57:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Szturm na polskie banki. Obcokrajowcy coraz chętniej biorą kredyty",
-      "link": "https://www.bankier.pl/wiadomosc/Szturm-na-polskie-banki-Obcokrajowcy-coraz-chetniej-biora-kredyty-9050938.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 5 Dec 2025 06:55:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Wielki problem z dotacjami unijnymi na kolej. Zagrożone nawet 1,5 mld zł pomocy",
-      "link": "https://www.bankier.pl/wiadomosc/Wielki-problem-z-dotacjami-unijnymi-na-kolej-Zagrozone-nawet-1-5-mld-zl-pomocy-9050937.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 5 Dec 2025 06:55:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Republika na swoim kanale na YouTubie będzie omawiać na żywo ligę NBA",
-      "link": "http://www.press.pl/tresc/90595,republika-na-swoim-kanale-na-youtubie-bedzie-omawiac-na-zywo-lige-nba?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:54:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Urszula Kifer prezesem Fundacji Pismo za Piotra Nesterowicza",
-      "link": "http://www.press.pl/tresc/90596,urszula-kifer-prezesem-fundacji-pismo-za-piotra-nesterowicza?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:54:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Bartłomiej Major został director of channels w SPI International",
-      "link": "http://www.press.pl/tresc/90593,bartlomiej-major-zostal-director-of-channels-w-spi-international?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:53:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Województwo lubelskie dołoży 1,23 mln zł do sylwestra Republiki",
-      "link": "http://www.press.pl/tresc/90594,wojewodztwo-lubelskie-dolozy-1_23-mln-zl-do-sylwestra-republiki?rss=1",
-      "pubDate": "Fri, 05 Dec 2025 06:53:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Dyscyplinarka za korzystanie z ChatGPT w pracy? Oto jak powinieneś się bronić w sądzie",
-      "link": "https://android.com.pl/tech/997530-dyscyplinarka-chatgpt-praca-zwolnienie/",
-      "pubDate": "Fri, 05 Dec 2025 05:52:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
