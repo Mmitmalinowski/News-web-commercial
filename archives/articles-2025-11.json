@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-12-14T18:45:25.564Z",
+  "generatedAt": "2025-12-14T18:57:24.257Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -37107,6 +37107,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_thr:count": "3"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_thr:count": "3"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -67635,6 +67659,30 @@
           "@_rel": "replies",
           "@_thr:count": "10",
           "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_thr:count": "12"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_thr:count": "12"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -105963,6 +106011,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_thr:count": "15"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_thr:count": "15"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -118861,24 +118933,6 @@
       "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-we-wtorek-25-listopada-najwazniejsze-informacje-st8769666?source=rss",
       "pubDate": "Tue, 25 Nov 2025 04:13:18 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Russia strikes Ukrainian capital overnight amid renewed US efforts to end the fighting",
-      "link": "http://www.euronews.com/2025/11/25/russia-strikes-ukrainian-capital-overnight-amid-renewed-us-efforts-to-end-the-fighting",
-      "pubDate": "Tue, 25 Nov 2025 05:13:06 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Kolejny zmasowany atak Rosji na Ukrainę. Kijów pod ostrzałem",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kolejny-zmasowany-atak-rosji-na-ukraine-kijow-pod-ostrzalem,nId,8043650",
-      "pubDate": "Tue, 25 Nov 2025 05:11:08 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ujawniamy. Wpływy Antoniego Macierewicza powodem wojny o awanse w służbach",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/ujawniamy-wplywy-antoniego-macierewicza-powodem-wojny-o-awanse-w-sluzbach/bqcww2c",
-      "pubDate": "Tue, 25 Nov 2025 04:10:00 GMT",
-      "source": "Onet"
     }
   ]
 }
