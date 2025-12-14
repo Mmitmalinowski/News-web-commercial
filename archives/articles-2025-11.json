@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2025-12-14T21:10:24.560Z",
+  "generatedAt": "2025-12-14T21:29:55.953Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -37347,6 +37347,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_thr:count": "3"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_thr:count": "3"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -67875,6 +67899,30 @@
           "@_rel": "replies",
           "@_thr:count": "10",
           "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_thr:count": "12"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_thr:count": "12"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -106683,6 +106731,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_thr:count": "15"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_thr:count": "15"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -119400,24 +119472,6 @@
       "title": "Dziennikarka Republiki wygrała w sądzie z TVP. Chodzi o pieniądze",
       "link": "https://www.wirtualnemedia.pl/monika-borkowska-tvp-republika-sad-pieniadze-dziennikarka,7225261457312288a",
       "pubDate": "Tue, 25 Nov 2025 05:56:48 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Five people killed and two injured after gunmen attack Yemeni official's motorcade",
-      "link": "http://www.euronews.com/2025/11/25/five-people-killed-and-two-injured-after-gunmen-attack-yemeni-officials-motorcade",
-      "pubDate": "Tue, 25 Nov 2025 05:54:40 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Zmasowany atak rakietowy Rosji na Ukrainę. Są ofiary",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-11-25/zmasowany-atak-rakietowy-rosji-na-ukraine-sa-ofiary/",
-      "pubDate": "Tue, 25 Nov 2025 05:54:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Dwa nowe kanały o domach trafią do oferty polskich operatorów",
-      "link": "https://www.wirtualnemedia.pl/remonty-tv-moj-dom-nowe-kanaly-dom-remonty-zygmunt-chajzer-jak-ogladac,7225446366161472a",
-      "pubDate": "Tue, 25 Nov 2025 05:51:57 +0100",
       "source": "Wirtualnemedia.pl"
     }
   ]
