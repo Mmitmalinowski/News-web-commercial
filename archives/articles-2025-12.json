@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-14T17:14:08.633Z",
+  "generatedAt": "2025-12-14T17:32:24.245Z",
   "items": [
+    {
+      "title": "AI, Apple Watch i przewidywanie chorób. Oto co zrobili naukowcy",
+      "link": "https://android.com.pl/tech/1000150-apple-watch-a-przewidywanie-chorob/",
+      "pubDate": "Sun, 14 Dec 2025 17:28:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Gorzki kompromis, który paraliżuje na dekady. Dzisiejsza rocznica powinna być ostrzeżeniem dla Ukrainy. [OPINIA]",
+      "link": "https://wiadomosci.onet.pl/swiat/niewygodna-prawda-o-pokoju-za-cene-chaosu-bosniacka-lekcja-dla-ukrainy/gr46hmk",
+      "pubDate": "Sun, 14 Dec 2025 17:26:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wołodymyr Zełenski przyjedzie do Polski. Szef MON wskazuje, czego mogą dotyczyć rozmowy",
+      "link": "https://wiadomosci.onet.pl/kraj/zelenski-przyjedzie-do-polski-szef-mon-wskazuje-czego-moga-dotyczyc-rozmowy/z1ewdqn",
+      "pubDate": "Sun, 14 Dec 2025 17:15:22 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Garmin pokaże urządzenie, na które czekamy od kilku lat",
       "link": "https://www.tabletowo.pl/garmin-vivosmart-6-kiedy-premiera-co-wiemy/",
@@ -431,6 +449,12 @@
     {
       "title": "​Odkrycie na spacerze. Znaleziono szczątki obiektu przypominającego drona",
       "link": "https://www.rmf24.pl/regiony/lublin/news-odkrycie-na-spacerze-znaleziono-szczatki-obiektu-przypominaj,nId,8050555",
+      "pubDate": "Sun, 14 Dec 2025 15:48:34 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "​Odkrycie na spacerze. Znaleziono szczątki drona",
+      "link": "https://www.rmf24.pl/regiony/lublin/news-odkrycie-na-spacerze-znaleziono-szczatki-drona,nId,8050555",
       "pubDate": "Sun, 14 Dec 2025 15:48:34 +0100",
       "source": "RMF24"
     },
@@ -25905,6 +25929,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -27793,6 +27841,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -38833,6 +38905,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -62010,48 +62106,6 @@
       "title": "Netflix przejmuje Warner Bros. Fuzja gigantów staje się faktem",
       "link": "https://wiadomosci.onet.pl/swiat/netflix-kupi-warner-bros-w-tle-gigantyczne-pieniadze/23jbcf6",
       "pubDate": "Fri, 05 Dec 2025 12:22:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poseł PiS ostro o wystąpieniu premiera. \"Donald Tusk powinien leżeć krzyżem\"",
-      "link": "https://wiadomosci.onet.pl/kraj/tajna-czesc-obrad-sejmu-zakonczona-posel-horala-postanowil-opowiedziec-kawal/2r5ksym",
-      "pubDate": "Fri, 05 Dec 2025 12:22:10 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Święta marzeń\" w piosence Polsatu na Boże Narodzenie. Ibisz świętym Mikołajem",
-      "link": "https://www.wirtualnemedia.pl/swieta-marzen-w-piosence-polsatu-na-boze-narodzenie-ibisz-swietym-mikolajem,7229181379247040a",
-      "pubDate": "Fri, 05 Dec 2025 13:21:21 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Zuckerberg przepalił miliardy, teraz się wycofuje. Będą uczyć o tym w podręcznikach",
-      "link": "https://spidersweb.pl/2025/12/zuckerberg-metaverse-klapa.html",
-      "pubDate": "Fri, 05 Dec 2025 13:21:11 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Polska firma kupiona przez OpenAI. Oto, co czeka Neptune",
-      "link": "https://android.com.pl/tech/998446-openai-przejmuje-polska-firme-neptune/",
-      "pubDate": "Fri, 05 Dec 2025 12:21:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Media: Waszyngton miał blokować plany Brukseli dotyczące rosyjskich aktywów",
-      "link": "https://tvn24.pl/biznes/ze-swiata/zamrozone-rosyjskie-aktywy-usa-probowaly-wplywac-na-decyzje-brukseli-w-sprawie-ich-wykorzystania-na-odbudowe-ukrainy-st8787246?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 12:20:09 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Będzie mega fuzja. Netflix kupuje Warner Bros. Discovery bez telwizji",
-      "link": "https://www.wirtualnemedia.pl/netflix-kupuje-warner-bros-discovery-wlasciciela-tvn-jaka-cena,7229181828500384a",
-      "pubDate": "Fri, 05 Dec 2025 13:19:03 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Elity pławią się w luksusach, zwykli ludzie żyją jak za cara. Tak żyje się w rosyjskim Pskowie [REPORTAŻ]",
-      "link": "https://wiadomosci.onet.pl/swiat/kompromitacja-putina-kreml-plawi-sie-w-luksusach-ludzie-zyja-jak-za-cara-reportaz/esns30b",
-      "pubDate": "Fri, 05 Dec 2025 12:19:00 GMT",
       "source": "Onet"
     }
   ]
