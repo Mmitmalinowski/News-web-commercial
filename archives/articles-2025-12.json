@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-14T13:47:05.502Z",
+  "generatedAt": "2025-12-14T13:58:28.287Z",
   "items": [
     {
       "title": "O włos od katastrofy na orbicie. Starlink musiał uciekać przed chińskim satelitą",
@@ -9,10 +9,40 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Telewizor na święta – najlepsze wybory w 2025 roku",
+      "link": "https://www.chip.pl/2025/12/telewizor-na-swieta-najlepsze-wybory-w-2025-roku",
+      "pubDate": "Sun, 14 Dec 2025 13:52:11 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "\"Klasyczne najechanie\" i korek w alei Armii Ludowej ",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-zderzenie-w-alei-armii-ludowej-utrudnienia-korek-st8801259?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 13:50:27 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Macie krew na rękach\", \"niech się pan ode mnie odczepi\". Spięcie w studio TVN24",
+      "link": "https://tvn24.pl/polska/macie-krew-na-rekach-niech-sie-pan-ode-mnie-odczepi-spiecie-w-studio-tvn24-st8800871?source=rss",
+      "pubDate": "Sun, 14 Dec 2025 13:47:53 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Najbardziej stylowe osoby 2025 r. Jedna z nich jest wyjątkowym zaskoczeniem",
+      "link": "https://biznes.interia.pl/gospodarka/news-gest-ktory-zmienil-historie-kosciola-the-new-york-times-wyro,nId,22498072",
+      "pubDate": "Sun, 14 Dec 2025 13:44:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
       "title": "Zmiany w Nowej Lewicy. Znamy skład nowego kierownictwa partii",
       "link": "https://www.rmf24.pl/polityka/news-zmiany-w-nowej-lewicy-znamy-sklad-nowego-kierownictwa-partii,nId,8050547",
       "pubDate": "Sun, 14 Dec 2025 14:44:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Ta technologia ma już 30 lat. Od 10-dniowego prototypu do szkieletu nowoczesnego internetu",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/javascript-ma-juz-30-lat-od-10-dniowego-prototypu-do-szkieletu-nowoczesnego-internetu/znql86q",
+      "pubDate": "Sun, 14 Dec 2025 13:42:25 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "\"Mnie to przeraża, to jest zdrada stanu\". Europosłanka uderza w prezydenta",
@@ -61,6 +91,12 @@
       "link": "http://www.euronews.com/2025/12/14/world-leaders-condemn-antisemitic-terror-after-deadly-bondi-beach-shooting",
       "pubDate": "Sun, 14 Dec 2025 14:27:48 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Atak dronów na południu Libanu. Izrael wyeliminował 3 członków Hezbollahu",
+      "link": "https://www.bankier.pl/wiadomosc/Atak-dronow-na-poludniu-Libanu-Izrael-wyeliminowal-3-czlonkow-Hezbollahu-9055408.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 14 Dec 2025 14:27:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Przełom czy krok wstecz? \"Poważne traktowanie tych pytań jest podejściem proszczepionkowym\". Matematyk, który rozwścieczył amerykańskich lekarzy",
@@ -899,6 +935,12 @@
     {
       "title": "Australia: 11 killed in shooting at Sydney's Bondi Beach",
       "link": "https://www.dw.com/en/australia-11-killed-in-shooting-at-sydney-s-bondi-beach/live-75150353?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 14 Dec 2025 10:06:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Australia: 12 killed in shooting at Sydney's Bondi Beach",
+      "link": "https://www.dw.com/en/australia-12-killed-in-shooting-at-sydney-s-bondi-beach/live-75150353?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 14 Dec 2025 10:06:00 GMT",
       "source": "DW"
     },
@@ -24921,6 +24963,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -26809,6 +26875,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -37537,6 +37627,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -61291,66 +61405,6 @@
       "link": "https://geekweek.interia.pl/podroze/news-ruszyla-najdluzsza-pasazerska-trasa-swiata-wczoraj-wylecieli,nId,22464142",
       "pubDate": "Fri, 05 Dec 2025 10:52:29 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Zrzucili na chiński samochód drzewo. Nie uwierzysz, co stało się po trzecim potężnym uderzeniu",
-      "link": "https://www.chip.pl/2025/12/byd-suv-yangwang-u8-sprawdzian-wytrzymalosci-drzewo",
-      "pubDate": "Fri, 05 Dec 2025 10:52:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Mroczne kulisy handlu niemowlakami w Gruzji. \"Matki otwierają groby, które są puste\"",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/mroczne-kulisy-sprzedazy-dzieci-w-gruzji-matki-otwieraja-puste-groby/q5q744w",
-      "pubDate": "Fri, 05 Dec 2025 10:50:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Czad znowu zabija na Śląsku. Niebezpieczny sezon grzewczy",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-czad-znowu-zabija-na-slasku-niebezpieczny-sezon-grzewczy,nId,8046979",
-      "pubDate": "Fri, 05 Dec 2025 11:50:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Polskie medtechy na ratunek krajowej służby zdrowia. Tylko… czy zdążą?",
-      "link": "https://mamstartup.pl/polskie-medtechy-na-ratunek-sluzby-zdrowia-tylko-czy-zdaza/",
-      "pubDate": "Fri, 05 Dec 2025 10:49:44 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Trump nazwał ich \"śmieciami\". Czy pojawił się strach? \"Zdecydowanie\"",
-      "link": "https://tvn24.pl/swiat/trump-nazwal-ich-smieciami-czy-pojawil-sie-strach-zdecydowanie-st8786452?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 10:49:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trump nazwał ich \"śmieciami\". Czy pojawił się strach? \"Zdecydowanie\"",
-      "link": "https://tvn24.pl/swiat/donald-trump-nazwal-ich-smieciami-amerykanie-pochodzenia-somalijskiego-wyrazaja-obawy-po-slowach-trumpa-st8786452?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 10:49:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "18 tysięcy ton nielegalnych odpadów, 11 milionów złotych strat. Akcja CBŚP",
-      "link": "https://tvn24.pl/trojmiasto/powiat-koscierski-i-slupski-18-tysiecy-ton-nielegalnych-odpadow-11-milionow-zlotych-strat-cbsp-rozbilo-grupe-st8786785?source=rss",
-      "pubDate": "Fri, 05 Dec 2025 10:49:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trump ogłosi powstanie rządu Strefy Gazy jeszcze przed świętami",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-oglosi-powstanie-rzadu-Strefy-Gazy-jeszcze-przed-swietami-9051105.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 5 Dec 2025 11:49:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Podsumowanie YouTube 2025 już w Polsce. Możesz się zdziwić",
-      "link": "https://spidersweb.pl/2025/12/podsumowanie-youtube-2025-w-polsce-jak-spotify-wrapped.html",
-      "pubDate": "Fri, 05 Dec 2025 11:48:55 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Maski opadły. Sensacyjne szczegóły ujawniły prawdziwe zamiary Donalda Trumpa wobec Ukrainy: nigdy nie chodziło o pokój [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/plan-pokojowy-dla-ukrainy-szokujace-szczegoly-ujawnily-prawdziwe-zamiary-trumpa/fspbp9s",
-      "pubDate": "Fri, 05 Dec 2025 10:48:12 GMT",
-      "source": "Onet"
     }
   ]
 }
