@@ -1,7 +1,85 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-15T11:48:49.920Z",
+  "generatedAt": "2025-12-15T11:58:13.522Z",
   "items": [
+    {
+      "title": "Germany news: Automakers see worst profits since 2009",
+      "link": "https://www.dw.com/en/germany-news-automakers-see-worst-profits-since-2009/live-75158691?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 15 Dec 2025 11:55:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Koniec z tradycją w Pałacu Prezydenckim? Ambasador USA reaguje",
+      "link": "https://tvn24.pl/polska/chanuka-w-palacu-prezydenckim-nie-odbedzie-sie-rzeczpospolita-reakcja-ambasadora-usa-st8801930?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:54:39 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Pomogli zatrzymać kieszonkowca, z autobusu pojechał do aresztu",
+      "link": "https://tvn24.pl/trojmiasto/lebork-slupsk-kieszonkowiec-w-oku-kamery-kierowca-pks-u-powiadomil-reszte-pracownikow-zorganizowali-zasadzke-st8801759?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:53:41 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Hakerzy zdobyli kod źródłowy rosyjskiego rejestru wojskowego",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/hakerzy-zdobyli-kod-zrodlowy-rosyjskiego-rejestru-wojskowego",
+      "pubDate": "Mon, 15 Dec 2025 12:52:47 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Lista leków na refundowanych przez NFZ już znana. Są nowe preparaty",
+      "link": "https://biznes.interia.pl/finanse/news-nowa-lista-lekow-refundowanych-przez-nfz-od-2026-r-sa-nowe-p,nId,22498560",
+      "pubDate": "Mon, 15 Dec 2025 11:51:54 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Strzelanina na plaży Bondi w Sydney. Kim jest bohater, który mógł uratować nawet setki osób?",
+      "link": "https://www.rp.pl/spoleczenstwo/art43505521-strzelanina-na-plazy-bondi-w-sydney-kim-jest-bohater-ktory-mogl-uratowac-nawet-setki-osob",
+      "pubDate": "Mon, 15 Dec 2025 12:50:25 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Strajk w paryskim Luwrze. Muzeum zamknięte",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-strajk-w-paryskim-luwrze-muzeum-zamkniete,nId,8050741",
+      "pubDate": "Mon, 15 Dec 2025 12:50:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zainspiruj się! Najlepsze pomysły na życzenia świąteczne w SMS, kartce i rozmowie",
+      "link": "https://www.rmf24.pl/ciekawostki/news-zainspiruj-sie-najlepsze-pomysly-na-zyczenia-swiateczne-w-sm,nId,8047727",
+      "pubDate": "Mon, 15 Dec 2025 12:50:08 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wybory w czasie wojny. Dlaczego Donald Trump chce się pozbyć Wołodymyra Zełenskiego?",
+      "link": "https://www.rp.pl/dyplomacja/art43504861-wybory-w-czasie-wojny-dlaczego-donald-trump-chce-sie-pozbyc-wolodymyra-zelenskiego",
+      "pubDate": "Mon, 15 Dec 2025 12:49:24 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Co dalej z \"ustawą łańcuchową\"? Nowe informacje. Projekt wraca do Sejmu",
+      "link": "https://wiadomosci.onet.pl/swiat/co-dalej-z-ustawa-lancuchowa-nowe-informacje-projekt-wraca-do-sejmu/l8pqgsh",
+      "pubDate": "Mon, 15 Dec 2025 11:49:05 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Burza Emilia w Hiszpanii. W Walencji odwołano zajęcia w szkołach",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/burza-emilia-w-hiszpanii-w-walencji-odwolano-zajecia-w-szkolach-st8801909?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:48:24 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "18 172 971 903 836 rubli - tyle żąda od Belgów Bank Rosji",
+      "link": "https://www.rp.pl/banki/art43504731-18-172-971-903-836-rubli-tyle-zada-od-belgow-bank-rosji",
+      "pubDate": "Mon, 15 Dec 2025 12:48:09 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nowe dane o zagrożeniu skrajnym ubóstwem",
+      "link": "https://tvn24.pl/biznes/z-kraju/nowe-dane-o-zagrozeniu-skrajnym-ubostwem-st8802202?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:47:30 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Jak zmienić limit BLIK? Warto uważać na jedną rzecz",
       "link": "https://android.com.pl/tech/1001401-jak-zmienic-limit-blik/",
@@ -27,6 +105,12 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "UE nakłada karę na X Muska. Musk: Rozwiązać Unię Europejską",
+      "link": "https://oko.press/ue-naklada-kare-na-x-muska-musk-rozwiazac-unie-europejska",
+      "pubDate": "Mon, 15 Dec 2025 11:42:32 +0000",
+      "source": "OKO.press"
+    },
+    {
       "title": "German police arrest five men over Christmas market attack plot",
       "link": "http://www.euronews.com/2025/12/15/german-police-arrest-five-men-over-christmas-market-attack-plot",
       "pubDate": "Mon, 15 Dec 2025 12:42:30 +0100",
@@ -37,6 +121,12 @@
       "link": "https://www.dw.com/en/how-africa-can-halt-the-new-wave-of-coups/a-75151898?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 15 Dec 2025 11:42:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Tragedia we Włoszech. Spadochroniarze zderzyli się w powietrzu",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tragedia-we-wloszech-spadochroniarze-zderzyli-sie-w-powietrz,nId,22498583",
+      "pubDate": "Mon, 15 Dec 2025 11:41:58 GMT",
+      "source": "Interia"
     },
     {
       "title": "Kolejne sankcje na rosyjską \"flotę cieni\". Europejscy ministrowie zdecydowali",
@@ -79,6 +169,12 @@
       "link": "https://tvn24.pl/trojmiasto/koscierzyna-palily-sie-pomieszczenia-gospodarcze-w-domu-obok-94-latka-nie-mogla-sie-ruszyc-st8802036?source=rss",
       "pubDate": "Mon, 15 Dec 2025 11:35:08 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Cios w naftowe dochody Kremla. UE uderza w „flotę cieni”",
+      "link": "https://www.bankier.pl/wiadomosc/Cios-w-naftowe-dochody-Kremla-UE-uderza-w-flote-cieni-9055716.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 15 Dec 2025 12:35:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Amerykanie podzielają stanowisko Rosji w negocjacjach? \"Trochę uderzające\"",
@@ -249,6 +345,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Jest nowa lista leków refundowanych. Jakie zmiany?",
+      "link": "https://tvn24.pl/zdrowie/jest-nowa-lista-lekow-refundowanych-co-obejmuje-co-z-darmowymi-lekami-dla-seniorow-st8802200?source=rss",
+      "pubDate": "Mon, 15 Dec 2025 11:20:41 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "\"Trumponomika\". Noblista ma przestrogę dla Europy. \"Stworzyliśmy nową bombę\"",
       "link": "https://wiadomosci.onet.pl/swiat/swiatowej-slawy-ekonomista-ostrzega-europe-bezposrednie-konsekwencje/x9wf84n",
       "pubDate": "Mon, 15 Dec 2025 11:20:26 GMT",
@@ -313,6 +415,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/maly-gracz-wielkie-ambicje-cypr-probuje-rozbroic-spor-z-turcja-stawka-bezpieczenstwo/1x6ltm3",
       "pubDate": "Mon, 15 Dec 2025 11:12:08 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Premia jako najatrakcyjniejszy benefit na koniec roku",
+      "link": "https://www.bankier.pl/wiadomosc/Premia-jako-najatrakcyjniejszy-benefit-na-koniec-roku-9055703.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 15 Dec 2025 12:12:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Powiedział kuzynowi, że zginie, po czym rzucił się do akcji. Wiemy, kim jest bohater z Sydney",
@@ -31329,6 +31437,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -33217,6 +33349,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -45409,6 +45565,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -64519,132 +64699,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/prof-dudek-wspomnial-o-zakladzie-z-tuskiem-szykuje-sobie-utrate-wladzy/jy3t31q",
       "pubDate": "Sat, 06 Dec 2025 09:27:10 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Spotkanie Putin – Modi. Porażka polityki Trumpa",
-      "link": "https://oko.press/spotkanie-modi-putin-w-delhi-2025",
-      "pubDate": "Sat, 06 Dec 2025 09:25:51 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Dylemat wagonika w wykonaniu AI. Wiadomo, które modele mogłyby zasilać Skynet",
-      "link": "https://android.com.pl/tech/998638-dylemat-wagonika-w-wykonaniu-ai/",
-      "pubDate": "Sat, 06 Dec 2025 09:18:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "USA zaczyna układać się z Rosją ws. handlu. Tak Putin kusi Amerykanów",
-      "link": "https://biznes.interia.pl/gospodarka/news-biznes-miedzy-usa-i-rosja-wraca-ekspert-firmy-szykuja-sie-do,nId,22464487",
-      "pubDate": "Sat, 06 Dec 2025 09:16:58 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Matka skorzysta ze zwolnienia z PIT dla rodzin 4+, chociaż trójka dzieci mieszka z ojcem",
-      "link": "https://www.rp.pl/podatki/art43460101-matka-skorzysta-ze-zwolnienia-z-pit-dla-rodzin-4-chociaz-trojka-dzieci-mieszka-z-ojcem",
-      "pubDate": "Sat, 06 Dec 2025 10:12:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Sprzedaje setki aut miesięcznie. Zdradza, na czym zarabia dealer",
-      "link": "https://www.money.pl/pieniadze/sprzedaje-setki-aut-miesiecznie-zdradza-na-czym-zarabia-dealer-7229489409340481v.html",
-      "pubDate": "Sat, 06 Dec 2025 10:11:40 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Joanna Parafianowicz: Pełnomocnicy to nie petenci",
-      "link": "https://www.rp.pl/rzecz-o-prawie/art43461461-joanna-parafianowicz-pelnomocnicy-to-nie-petenci",
-      "pubDate": "Sat, 06 Dec 2025 10:09:20 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dodatek dla funkcjonariuszy służb specjalnych. Jest decyzja premiera",
-      "link": "https://biznes.interia.pl/gospodarka/news-dodatek-mieszkaniowy-dla-funkcjonariuszy-abw-i-aw-jest-decyz,nId,22464495",
-      "pubDate": "Sat, 06 Dec 2025 09:08:58 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Ostrzegają się przed \"rondziarzem\", jego działalność śledzi detektywka",
-      "link": "https://tvn24.pl/tvnwarszawa/ulice/warszawa-rondziarz-poluje-na-kierowcow-on-typuje-swoje-ofiary-st8788397?source=rss",
-      "pubDate": "Sat, 06 Dec 2025 09:08:03 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zmarły polityk nominowany na ambasadora",
-      "link": "https://tvn24.pl/swiat/nigeria-zmarly-senator-nominowany-na-ambasadora-st8788357?source=rss",
-      "pubDate": "Sat, 06 Dec 2025 09:05:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tyle wydamy na święta w 2025 roku",
-      "link": "https://tvn24.pl/biznes/z-kraju/boze-narodzenie-2025-tyle-polacy-wydadza-na-swieta-st8788444?source=rss",
-      "pubDate": "Sat, 06 Dec 2025 09:03:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Za „siadaj pajacu” i „trefniś”. Terlecki musiał przeprosić Nitrasa",
-      "link": "https://www.bankier.pl/wiadomosc/Za-siadaj-pajacu-i-trefnis-Terlecki-musial-przeprosic-Nitrasa-9051594.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 6 Dec 2025 10:03:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Dani Dayan: Naszym celem jest zawsze ochrona prawdy",
-      "link": "https://www.rp.pl/publicystyka/art43452931-dani-dayan-naszym-celem-jest-zawsze-ochrona-prawdy",
-      "pubDate": "Sat, 06 Dec 2025 10:01:15 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "John Swinney defends immigration as Scotland faces rise of Reform",
-      "link": "https://www.theguardian.com/politics/2025/dec/06/john-swinney-defends-immigration-as-scotland-faces-rise-of-reform",
-      "pubDate": "Sat, 06 Dec 2025 09:00:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Harbadus attacks Andvaria: cyber war game tests Nato defences against Russia",
-      "link": "https://www.theguardian.com/world/2025/dec/06/harbadus-attacks-andvaria-cyber-war-game-tests-nato-defences-against-russia",
-      "pubDate": "Sat, 06 Dec 2025 09:00:47 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Najpiękniejsze jarmarki bożonarodzeniowe 2025. Czym zachwycą w tym roku?",
-      "link": "https://wydarzenia.interia.pl/ciekawostki/news-najpiekniejsze-jarmarki-bozonarodzeniowe-w-polsce-czym-zachw,nId,22462390",
-      "pubDate": "Sat, 06 Dec 2025 09:00:05 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Czy wiesz, jak odczytywać prognozę pogody i prawdopodobieństwo opadów?",
-      "link": "https://geekweek.interia.pl/meteorologia/news-czy-wiesz-jak-odczytywac-prognoze-pogody-i-prawdopodobienstw,nId,22463148",
-      "pubDate": "Sat, 06 Dec 2025 09:00:05 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Nvidia udostępnia nowy sterownik Game Ready z optymalizacjami dla nowych i starszych gier",
-      "link": "https://www.chip.pl/2025/12/nvidia-game-ready-physx-geforce-now",
-      "pubDate": "Sat, 06 Dec 2025 09:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Polska na czele, Niemcy w tyle. Jesteśmy gospodarczym liderem UE w 2026 roku",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-na-czele-Niemcy-w-tyle-Jestesmy-gospodarczym-liderem-UE-w-2026-roku-9049229.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 6 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Mercosur, Ukraina i zmiany klimatu. Ministerialna lista zagrożeń dla polskiej wsi",
-      "link": "https://www.bankier.pl/wiadomosc/Mercosur-Ukraina-i-zmiany-klimatu-Ministerialna-lista-zagrozen-dla-polskiej-wsi-9049484.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 6 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Katastrofa \"Heweliusza\" na taśmach. Reporterzy dotarli do archiwum kapitana promu",
-      "link": "https://www.bankier.pl/wiadomosc/Katastrofa-Heweliusza-na-tasmach-Reporterzy-dotarli-do-archiwum-kapitana-promu-9049616.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 6 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Pieniądze i polityka kneblują usta badaczom? Niepokojące wnioski Rady Europy",
-      "link": "https://www.bankier.pl/wiadomosc/Pieniadze-i-polityka-knebluja-usta-badaczom-Niepokojace-wnioski-Rady-Europy-9045690.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 6 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
