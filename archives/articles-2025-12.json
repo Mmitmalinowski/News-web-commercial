@@ -1,12 +1,36 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-15T19:46:44.735Z",
+  "generatedAt": "2025-12-15T19:56:12.558Z",
   "items": [
+    {
+      "title": "Świat nauki czekał na to od lat. Sensacja w generowaniu liczb losowych",
+      "link": "https://www.chip.pl/2025/12/przelom-w-generowaniu-liczb-losowych-matematyka",
+      "pubDate": "Mon, 15 Dec 2025 19:53:55 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "European leaders commit to aid Ukraine militarily against future Russian attack",
+      "link": "http://www.euronews.com/my-europe/2025/12/15/european-leaders-commit-to-aid-ukraine-militarily-against-future-russian-attack",
+      "pubDate": "Mon, 15 Dec 2025 20:50:00 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Kiedy wypada najkrótszy dzień w 2025 roku? Przesilenie zimowe już niedługo",
+      "link": "https://cyfrowa.rp.pl/it/art43505341-kiedy-wypada-najkrotszy-dzien-w-2025-roku-przesilenie-zimowe-juz-niedlugo",
+      "pubDate": "Mon, 15 Dec 2025 20:48:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Ministerstwo chce zamrozić wydatki. Wysłano pismo do urzędników",
       "link": "https://biznes.interia.pl/gospodarka/news-ministerstwo-finansow-chce-zamrozic-wydatki-resort-wyslal-pi,nId,22498788",
       "pubDate": "Mon, 15 Dec 2025 19:44:50 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Historyczny atak Ukrainy na rosyjski okręt \"Warszawianka\"",
+      "link": "https://geekweek.interia.pl/militaria/news-historyczny-atak-ukrainy-na-rosyjski-okret-warszawianka,nId,22498820",
+      "pubDate": "Mon, 15 Dec 2025 19:44:32 GMT",
+      "source": "GeekWeek"
     },
     {
       "title": "Duża zmiana w ChatGPT już w 2026 roku. OpenAI ma nowy pomysł „dla dorosłych\"",
@@ -21,10 +45,22 @@
       "source": "Onet"
     },
     {
+      "title": "Gwarancje bezpieczeństwa dla Ukrainy. Są szczegóły misji wojskowej",
+      "link": "https://wiadomosci.onet.pl/swiat/gwarancje-bezpieczenstwa-dla-ukrainy-znamy-szczegoly-misji-wojskowej/9q2t50m",
+      "pubDate": "Mon, 15 Dec 2025 19:40:24 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Kredyty mają uratować JSW? Niełatwe rozmowy na Śląsku",
       "link": "https://energia.rp.pl/wegiel/art43508681-kredyty-maja-uratowac-jsw-nielatwe-rozmowy-na-slasku",
       "pubDate": "Mon, 15 Dec 2025 20:38:34 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "US puts £31bn tech ‘prosperity deal’ with Britain on ice",
+      "link": "https://www.theguardian.com/us-news/2025/dec/15/us-pauses-tech-prosperity-deal-britain-donald-trump-keir-starmer",
+      "pubDate": "Mon, 15 Dec 2025 19:37:50 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Aukcje rynku mocy w cieniu wysokich cen za elektrownie",
@@ -49,6 +85,12 @@
       "link": "https://tvn24.pl/tvnmeteo/pogoda/pogoda-na-jutro-wtorek-16-12-noca-miejscami-szczypnie-mroz-st8803213?source=rss",
       "pubDate": "Mon, 15 Dec 2025 19:34:34 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Man who documented Uyghur camps in China may face removal from US after ICE arrest",
+      "link": "https://www.theguardian.com/world/2025/dec/15/china-uyghur-human-rights-ice",
+      "pubDate": "Mon, 15 Dec 2025 19:33:07 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Tajemnicze zgony w więzieniu. Ciała osadzonych nie nosiły śladów przemocy",
@@ -35355,6 +35397,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_thr:count": "4"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_thr:count": "4"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -37243,6 +37309,30 @@
       "link": "https://www.theguardian.com/politics/2025/dec/10/badenoch-criticises-farage-over-refusal-to-say-sorry-for-alleged-racist-school-remarks",
       "pubDate": "Wed, 10 Dec 2025 12:47:47 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_thr:count": "0"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
@@ -49867,6 +49957,30 @@
       "link": "https://biznes.interia.pl/polityka/news-sondaz-tak-oceniaja-rzad-tuska-1-na-4-nie-wie-co-powiedziec,nId,22465305",
       "pubDate": "Tue, 09 Dec 2025 09:23:20 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_rel": "alternate",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "text/html",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_thr:count": "5"
+        },
+        {
+          "@_rel": "replies",
+          "@_type": "application/atom+xml",
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_thr:count": "5"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
@@ -65557,66 +65671,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Wybory-na-Haiti-po-10-latach-Jest-warunek-niemozliwy-do-spelnienia-o-przywroceniu-bezpieczenstwa-9049564.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 7 Dec 2025 10:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Sędziowie zbyt łagodni dla sadystów? W sprawach dotyczących zwierząt nigdy nie zapadają najwyższe wyroki",
-      "link": "https://www.bankier.pl/wiadomosc/Sedziowie-zbyt-lagodni-dla-sadystow-W-sprawach-dotyczacych-zwierzat-nigdy-nie-zapadaja-najwyzsze-wyroki-9049474.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 7 Dec 2025 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "USA nie chcą już angażować się w światowe konflikty. Pete Hegseth przedstawił nowe priorytety USA",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43465311-usa-nie-chca-juz-angazowac-sie-w-swiatowe-konflikty-pete-hegseth-przedstawil-nowe-priorytety-usa",
-      "pubDate": "Sun, 07 Dec 2025 09:58:07 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Spółdzielnia ma prawo przetwarzać dane osobowe właściciela bez członkostwa. Ważny wyrok NSA",
-      "link": "https://www.rp.pl/dane-osobowe/art43460131-spoldzielnia-ma-prawo-przetwarzac-dane-osobowe-wlasciciela-bez-czlonkostwa-wazny-wyrok-nsa",
-      "pubDate": "Sun, 07 Dec 2025 09:54:27 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Meta AI chce zmienić Wasze wieloletnie nawyki",
-      "link": "https://www.tabletowo.pl/meta-ai-zastapi-wam-tradycyjne-portale/",
-      "pubDate": "Sun, 07 Dec 2025 08:53:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Poród na stacji benzynowej. Niecodzienna sytuacja na Podhalu",
-      "link": "https://wiadomosci.onet.pl/krakow/porod-na-stacji-benzynowej-niecodzienna-sytuacja-na-podhalu/7wllztq",
-      "pubDate": "Sun, 07 Dec 2025 08:52:51 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jedna z ośmiu takich niedziel w roku",
-      "link": "https://tvn24.pl/biznes/najnowsze/niedziela-handlowa-czy-7-grudnia-2025-roku-sklepy-sa-otwarte-st8789426?source=rss",
-      "pubDate": "Sun, 07 Dec 2025 08:48:03 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "German aviation tax cut to offer little lift amid jet shortage",
-      "link": "https://www.dw.com/en/german-aviation-tax-cut-to-offer-little-lift-amid-jet-shortage/a-75022175?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 7 Dec 2025 08:47:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Ukraine's Kremenchuk hit by Russian airstrikes — mayor",
-      "link": "https://www.dw.com/en/ukraine-s-kremenchuk-hit-by-russian-airstrikes-mayor/a-75049650?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 7 Dec 2025 08:46:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Jestem najstarszą córką, więc to oczywiste, że czuję się samolubna, kiedy myślę o sobie",
-      "link": "https://wiadomosci.onet.pl/ciekawostki/syndrom-najstarszej-corki-ile-tiktokowy-trend-ma-wspolnego-z-rzeczywistoscia/y1qmkq3",
-      "pubDate": "Sun, 07 Dec 2025 08:45:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jakub Sewerynik: Nowy początek",
-      "link": "https://www.rp.pl/rzecz-o-prawie/art43464971-jakub-sewerynik-nowy-poczatek",
-      "pubDate": "Sun, 07 Dec 2025 09:44:42 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
