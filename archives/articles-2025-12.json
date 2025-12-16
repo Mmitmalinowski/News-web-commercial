@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-16T21:41:08.523Z",
+  "generatedAt": "2025-12-16T21:51:16.287Z",
   "items": [
+    {
+      "title": "Rob Reiner's son to be charged with two counts of murder",
+      "link": "https://www.dw.com/en/rob-reiner-s-son-to-be-charged-with-two-counts-of-murder/a-75192657?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 16 Dec 2025 21:46:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Zwrot w śledztwie w sprawie lekarki. Jest ruch Manowskiej",
+      "link": "https://wydarzenia.interia.pl/kraj/news-zwrot-w-sledztwie-w-sprawie-lekarki-jest-ruch-manowskiej,nId,22499263",
+      "pubDate": "Tue, 16 Dec 2025 21:42:36 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Kto pojawił się na wigilii Mateusza Morawieckiego? Znamy nazwiska",
       "link": "https://wiadomosci.onet.pl/kraj/kto-pojawil-sie-na-wigilii-mateusza-morawieckiego-znamy-nazwiska/bpk1y19",
@@ -45405,6 +45417,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -50937,6 +50973,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-12-10T12:47:24Z",
@@ -65487,6 +65547,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Incydent z udziałem Rosji i Chin. Korea Południowa poderwała myśliwce",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-09/incydent-z-udzialem-rosji-i-chin-korea-poludniowa-poderwala-mysliwce/",
       "pubDate": "Tue, 09 Dec 2025 10:22:00 +0100",
@@ -69043,36 +69127,6 @@
       "link": "https://www.theguardian.com/us-news/2025/dec/08/ice-family-college-student-deported-honduras",
       "pubDate": "Mon, 08 Dec 2025 18:41:51 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Niezidentyfikowane drony w pobliżu samolotu. Zełenski potwierdza",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-niezidentyfikowane-drony-w-poblizu-samolotu-zelenski-potwier,nId,22465206",
-      "pubDate": "Mon, 08 Dec 2025 18:41:23 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Umowa z Mercosurem. Błyskawiczny hamulec bezpieczeństwa uchroni rolników?",
-      "link": "https://www.bankier.pl/wiadomosc/Umowa-z-Mercosurem-Blyskawiczny-hamulec-bezpieczenstwa-chroni-rolnikow-9052360.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 8 Dec 2025 19:39:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Słońce gasi łączność na Ziemi. A kolejne uderzenia w drodze",
-      "link": "https://spidersweb.pl/2025/12/x11-rozblysk-ar4298-radio-blackout.html",
-      "pubDate": "Mon, 08 Dec 2025 19:38:45 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Sprawa kary dla prok. Ewy Wrzosek. Sąd Najwyższy podjął decyzję",
-      "link": "https://wydarzenia.interia.pl/kraj/news-sprawa-kary-dla-prok-ewy-wrzosek-sad-najwyzszy-podjal-decyzj,nId,22465186",
-      "pubDate": "Mon, 08 Dec 2025 18:38:29 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Chiny nie boją się sankcji Donalda Trumpa. Władimir Putin liczy zyski",
-      "link": "https://businessinsider.com.pl/wiadomosci/chiny-nie-ugiely-sie-pod-presja-usa-ropa-z-rosji-umacnia-ich-pozycje/xyrdm8d",
-      "pubDate": "Mon, 08 Dec 2025 18:37:10 GMT",
-      "source": "Business Insider"
     }
   ]
 }
