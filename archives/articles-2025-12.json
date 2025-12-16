@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-16T22:54:10.024Z",
+  "generatedAt": "2025-12-16T23:14:06.488Z",
   "items": [
+    {
+      "title": "Kalendarium - środa 17 grudnia",
+      "link": "https://pro.rp.pl/kalendarium/art43516271-kalendarium-sroda-17-grudnia",
+      "pubDate": "Wed, 17 Dec 2025 00:05:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Od danych do decyzji, czyli transformacja i AI w biznesie",
+      "link": "https://www.rp.pl/ekonomia/art43515941-od-danych-do-decyzji-czyli-transformacja-i-ai-w-biznesie",
+      "pubDate": "Wed, 17 Dec 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "USA rozszerzają zakaz wjazdu. Nowe kraje na liście",
       "link": "https://www.rmf24.pl/fakty/swiat/news-usa-rozszerzaja-zakaz-wjazdu-nowe-kraje-na-liscie,nId,8051281",
@@ -45621,6 +45633,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -51153,6 +51189,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-12-10T12:47:24Z",
@@ -65943,6 +66003,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Incydent z udziałem Rosji i Chin. Korea Południowa poderwała myśliwce",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-09/incydent-z-udzialem-rosji-i-chin-korea-poludniowa-poderwala-mysliwce/",
       "pubDate": "Tue, 09 Dec 2025 10:22:00 +0100",
@@ -69313,36 +69397,6 @@
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-wyciaga-reke-do-polski-jest-oficjalne-zaproszenie-d,nId,8047865",
       "pubDate": "Mon, 08 Dec 2025 20:17:01 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Trwa walka o ostateczny kształt umowy z Mercosur. \"Nie składamy broni\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-glos-polski-w-sprawie-mercosur-czesciowo-wysluchany-nie-skla,nId,22465211",
-      "pubDate": "Mon, 08 Dec 2025 19:15:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zełenski zaprosił Nawrockiego do Ukrainy",
-      "link": "https://tvn24.pl/polska/wolodymyr-zelenski-zaprosil-karola-nawrockiego-do-ukrainy-st8791910?source=rss",
-      "pubDate": "Mon, 08 Dec 2025 19:14:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zełenski: zaprosiłem Nawrockiego do Ukrainy",
-      "link": "https://tvn24.pl/polska/wolodymyr-zelenski-zaprosilem-karola-nawrockiego-do-ukrainy-st8791910?source=rss",
-      "pubDate": "Mon, 08 Dec 2025 19:14:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Oman to kolejny kraj Bliskiego Wschodu, którym zaczyna interesować się polski biznes",
-      "link": "https://www.rp.pl/eksport/art43472161-oman-to-kolejny-kraj-bliskiego-wschodu-ktorym-zaczyna-interesowac-sie-polski-biznes",
-      "pubDate": "Mon, 08 Dec 2025 20:14:15 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Nadzwyczajna rzecz\" w strategii USA. Prezydent \"powinien wykonać telefon do Waszyngtonu\"",
-      "link": "https://tvn24.pl/polska/nadzwyczajna-rzecz-w-strategii-usa-prezydent-powinien-wykonac-telefon-do-waszyngtonu-st8791855?source=rss",
-      "pubDate": "Mon, 08 Dec 2025 19:13:13 GMT",
-      "source": "TVN24"
     }
   ]
 }

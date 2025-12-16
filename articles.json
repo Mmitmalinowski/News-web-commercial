@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2025-12-16T22:54:10.339Z",
+  "generatedAt": "2025-12-16T23:14:06.801Z",
   "items": [
+    {
+      "title": "Kalendarium - środa 17 grudnia",
+      "link": "https://pro.rp.pl/kalendarium/art43516271-kalendarium-sroda-17-grudnia",
+      "pubDate": "Wed, 17 Dec 2025 00:05:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Od danych do decyzji, czyli transformacja i AI w biznesie",
+      "link": "https://www.rp.pl/ekonomia/art43515941-od-danych-do-decyzji-czyli-transformacja-i-ai-w-biznesie",
+      "pubDate": "Wed, 17 Dec 2025 00:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "USA rozszerzają zakaz wjazdu. Nowe kraje na liście",
       "link": "https://www.rmf24.pl/fakty/swiat/news-usa-rozszerzaja-zakaz-wjazdu-nowe-kraje-na-liscie,nId,8051281",
@@ -45620,6 +45632,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -51152,6 +51188,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-12-10T12:47:24Z",
@@ -65942,6 +66002,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "GRADE 4 w praktyce – system kontroli dostępu RACS 5 firmy Roger dla obiektów o podwyższonym ryzyku",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/grade-4-w-praktyce-system-kontroli-dostepu-racs-5-firmy-roger-dla-obiektow-o-podwyzszonym-ryzyku/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-09T09:22:10Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Incydent z udziałem Rosji i Chin. Korea Południowa poderwała myśliwce",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-09/incydent-z-udzialem-rosji-i-chin-korea-poludniowa-poderwala-mysliwce/",
       "pubDate": "Tue, 09 Dec 2025 10:22:00 +0100",
@@ -69312,36 +69396,6 @@
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-wyciaga-reke-do-polski-jest-oficjalne-zaproszenie-d,nId,8047865",
       "pubDate": "Mon, 08 Dec 2025 20:17:01 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Trwa walka o ostateczny kształt umowy z Mercosur. \"Nie składamy broni\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-glos-polski-w-sprawie-mercosur-czesciowo-wysluchany-nie-skla,nId,22465211",
-      "pubDate": "Mon, 08 Dec 2025 19:15:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zełenski zaprosił Nawrockiego do Ukrainy",
-      "link": "https://tvn24.pl/polska/wolodymyr-zelenski-zaprosil-karola-nawrockiego-do-ukrainy-st8791910?source=rss",
-      "pubDate": "Mon, 08 Dec 2025 19:14:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Zełenski: zaprosiłem Nawrockiego do Ukrainy",
-      "link": "https://tvn24.pl/polska/wolodymyr-zelenski-zaprosilem-karola-nawrockiego-do-ukrainy-st8791910?source=rss",
-      "pubDate": "Mon, 08 Dec 2025 19:14:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Oman to kolejny kraj Bliskiego Wschodu, którym zaczyna interesować się polski biznes",
-      "link": "https://www.rp.pl/eksport/art43472161-oman-to-kolejny-kraj-bliskiego-wschodu-ktorym-zaczyna-interesowac-sie-polski-biznes",
-      "pubDate": "Mon, 08 Dec 2025 20:14:15 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Nadzwyczajna rzecz\" w strategii USA. Prezydent \"powinien wykonać telefon do Waszyngtonu\"",
-      "link": "https://tvn24.pl/polska/nadzwyczajna-rzecz-w-strategii-usa-prezydent-powinien-wykonac-telefon-do-waszyngtonu-st8791855?source=rss",
-      "pubDate": "Mon, 08 Dec 2025 19:13:13 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -109568,6 +109622,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -117548,6 +117626,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -146048,6 +146150,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -186968,6 +187094,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -196944,30 +197094,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-11-25/mieliscie-szanse-chlopaki-lawrow-do-planie-pokojowym-dla-ukrainy/",
       "pubDate": "Tue, 25 Nov 2025 11:31:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "TeamGroup Expert P35S, dysk SSD z przyciskiem samozniszczenia danych",
-      "link": "https://www.chip.pl/2025/11/teamgroup-expert-p35s-dysk-ssd-autodestrukcja",
-      "pubDate": "Tue, 25 Nov 2025 10:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Tu pisze się przyszłość usług publicznych. Poszukiwani ludzie, którzy chcą zrobić różnicę",
-      "link": "https://wiadomosci.onet.pl/kraj/hacknation-2025-w-bydgoszczy-zapisy-informacje-o-hackathonie-i-zadania/mpfwth6",
-      "pubDate": "Tue, 25 Nov 2025 10:30:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Niecodzienna sytuacja w Niemczech. 60-latek z Polski utknął w kontenerze",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-niecodzienna-sytuacja-w-niemczech-60-latek-z-polski-utknal-w,nId,22459840",
-      "pubDate": "Tue, 25 Nov 2025 10:29:15 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "UK can create 5,400 jobs if it stops plastic waste exports, report finds",
-      "link": "https://www.theguardian.com/environment/2025/nov/25/uk-can-create-5400-jobs-if-it-stops-plastic-waste-exports-report-finds",
-      "pubDate": "Tue, 25 Nov 2025 10:28:09 GMT",
-      "source": "The Guardian"
     }
   ],
   "totalArticles": 20000,
