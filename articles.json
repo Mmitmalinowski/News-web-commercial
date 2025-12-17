@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2025-12-17T20:42:51.108Z",
+  "generatedAt": "2025-12-17T20:54:26.968Z",
   "items": [
+    {
+      "title": "Umowa z Mercosurem. Błyskawiczne porozumienie ws. klauzuli ochronnej",
+      "link": "https://www.money.pl/gospodarka/umowa-z-mercosurem-blyskawiczne-porozumienie-ws-klauzuli-ochronnej-7233480690620928a.html",
+      "pubDate": "Wed, 17 Dec 2025 21:48:36 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Wstrząsające zabójstwo 11-latki w Jeleniej Górze. Znamy datę pogrzebu",
+      "link": "https://wiadomosci.onet.pl/wroclaw/wstrzasajace-zabojstwo-11-latki-w-jeleniej-gorze-znamy-date-pogrzebu/14y79k1",
+      "pubDate": "Wed, 17 Dec 2025 20:47:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tym sprzętem Dreame nie umyjesz podłogi ani okien. Ani nic innego",
+      "link": "https://www.tabletowo.pl/pierwszy-powerbank-dreame-premiera-specyfikacja/",
+      "pubDate": "Wed, 17 Dec 2025 20:47:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Akty dywersji na kolei. Są czerwone noty Interpolu wobec podejrzanych",
+      "link": "https://www.rp.pl/przestepczosc/art43523961-akty-dywersji-na-kolei-sa-czerwone-noty-interpolu-wobec-podejrzanych",
+      "pubDate": "Wed, 17 Dec 2025 21:46:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Stambuł czeka katastrofa? Naukowcy mają bardzo złe wieści",
+      "link": "https://www.rmf24.pl/nauka/news-stambul-czeka-katastrofa-naukowcy-maja-bardzo-zle-wiesci,nId,8051572",
+      "pubDate": "Wed, 17 Dec 2025 21:43:40 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tajemnicze odkrycie we francuskim porcie. Sprzęt mogli zamontować Rosjanie",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tajemnicze-odkrycie-we-francuskim-porcie-sprzet-mogli-zamont,nId,22499672",
+      "pubDate": "Wed, 17 Dec 2025 20:42:44 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Zmapowali brzeg atmosfery Słońca  ",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/zmapowali-brzeg-atmosfery-slonca-st8806915?source=rss",
+      "pubDate": "Wed, 17 Dec 2025 20:42:28 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Dywersja na kolei. Są czerwone noty Interpolu",
+      "link": "https://www.rmf24.pl/fakty/polska/news-dywersja-na-kolei-sa-czerwone-noty-interpolu,nId,8051579",
+      "pubDate": "Wed, 17 Dec 2025 21:37:17 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Podejrzani o dokonanie aktów dywersji na kolei, są czerwone noty",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/podejrzani-o-dokonanie-aktow-dywersji-na-kolei-sa-czerwone-noty-st8806957?source=rss",
@@ -54800,6 +54848,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -60332,6 +60404,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-12-10T12:47:24Z",
@@ -67968,66 +68064,6 @@
       "link": "https://geekweek.interia.pl/militaria/news-wymowna-decyzja-amerykanow-chca-nowych-samolotow-dnia-zaglad,nId,22465424",
       "pubDate": "Tue, 09 Dec 2025 17:13:04 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Galaxy S25 FE z niecodziennym prezentem. Smartfon gratis w promocji",
-      "link": "https://android.com.pl/tech/999813-samsung-galaxy-s25-fe-a36-gratis-promocja/",
-      "pubDate": "Tue, 09 Dec 2025 17:12:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Media: Szymon Hołownia zdecydował. Chodzi o Polskę 2050",
-      "link": "https://businessinsider.com.pl/wiadomosci/media-szymon-holownia-zdecydowal-w-sprawie-kandydowania-na-szefa-polski-2050/hrqq9ne",
-      "pubDate": "Tue, 09 Dec 2025 17:11:13 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Pojazdy elektryczne nie zagrażają pieszym bardziej niż spalinowe",
-      "link": "https://www.rmf24.pl/nauka/news-pojazdy-elektryczne-nie-zagrazaja-pieszym-bardziej-niz-spali,nId,8048179",
-      "pubDate": "Tue, 09 Dec 2025 18:05:59 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Dlaczego Ukraińcy nie wycofują się z obleganego miasta? Specjalista wyjawia",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-dlaczego-ukraincy-nie-wycofuja-sie-z-pokrowska-ekspert-tluma,nId,22465759",
-      "pubDate": "Tue, 09 Dec 2025 17:04:42 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Kilkanaście ciał znaleziono w więzieniu. Sprawę bada policja",
-      "link": "https://tvn24.pl/swiat/ekwador-kilkanascie-cial-znaleziono-w-wiezieniu-policja-bada-sprawe-st8793458?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:04:38 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "5 powodów, dla których potrzebujemy muzeum polskiego komunizmu",
-      "link": "https://krytykapolityczna.pl/kraj/delegalizacja-kpp-antykomunizm-muzeum-komunizmu/",
-      "pubDate": "Tue, 09 Dec 2025 17:04:17 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Plan pokojowy dla Ukrainy. Zełenski z deklaracją. \"Jesteśmy gotowi\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-09/plan-pokojowy-dla-ukrainy-zelenski-deklaruje-jestesmy-gotowi/",
-      "pubDate": "Tue, 09 Dec 2025 18:04:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Nawrocki kontra Nowacka. Co się stanie nie \"jeśli\", a \"gdy\" prezydent zawetuje reformę edukacji",
-      "link": "https://tvn24.pl/polska/kompas-jutra-co-jesli-prezydent-nawrocki-zawetuje-reforme-edukacji-st8793223?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:03:58 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prezydent Nawrocki nie chce spotkać się z Zełenskim? Fogiel komentuje",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-prezydent-nawrocki-nie-chce-spotkac-sie-z-zelenskim-fogiel-k,nId,8048143",
-      "pubDate": "Tue, 09 Dec 2025 18:02:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zderzenie i dachowanie. Trzy osoby w szpitalu ",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/kozuszki-parcel-sochaczew-dk92-wypadek-na-drodze-krajowej-numer-92-auto-dachowalo-trzy-osoby-w-szpitalu-st8793552?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 17:01:05 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -109454,6 +109490,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -117434,6 +117494,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -147134,6 +147218,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -190454,6 +190562,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -199230,30 +199362,6 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/francja-rzad-szykuje-uderzenie-w-chinskiego-giganta-shein-st8770366?source=rss",
       "pubDate": "Tue, 25 Nov 2025 12:43:43 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "European Parliament to take Commission to court over technology patents",
-      "link": "http://www.euronews.com/my-europe/2025/11/25/european-parliament-to-take-commission-to-court-over-technology-patents",
-      "pubDate": "Tue, 25 Nov 2025 13:42:47 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Fatalna sytuacja w Korei Północnej. \"Ledwie przeżywają z dnia na dzień\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/fatalna-sytuacja-przed-zima-w-korei-polnocnej-rodziny-marzna-w-domach/b2d1rzf",
-      "pubDate": "Tue, 25 Nov 2025 12:42:07 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Emmanuel Macron zapewnia: Nie będę wysyłał młodych Francuzów na Ukrainę",
-      "link": "https://www.rp.pl/polityka/art43394511-emmanuel-macron-zapewnia-nie-bede-wysylal-mlodych-francuzow-na-ukraine",
-      "pubDate": "Tue, 25 Nov 2025 13:42:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "India flights impacted by Ethiopia volcano ash cloud",
-      "link": "https://www.dw.com/en/india-flights-impacted-by-ethiopia-volcano-ash-cloud/a-74882548?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 25 Nov 2025 12:42:00 GMT",
-      "source": "DW"
     }
   ],
   "totalArticles": 20000,
