@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-17T22:41:29.447Z",
+  "generatedAt": "2025-12-17T22:53:03.132Z",
   "items": [
     {
       "title": "Tony Burke has ‘full confidence’ in spy agency despite questions over Bondi attack",
@@ -55203,6 +55203,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -60735,6 +60759,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-12-10T12:47:24Z",
@@ -68269,18 +68317,6 @@
       "link": "https://tvn24.pl/biznes/tech/indie-z-nowym-partnerem-wysokie-ambicje-kraju-st8793543?source=rss",
       "pubDate": "Tue, 09 Dec 2025 17:59:38 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Łukaszenka zabrał głos. \"Nie chcemy wojny, ale się do niej przygotowujemy\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-lukaszenka-zabral-glos-nie-chcemy-wojny-ale-sie-do-niej-przy,nId,22465769",
-      "pubDate": "Tue, 09 Dec 2025 17:56:44 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Rakieta uszkodziła dom. Spór o odszkodowanie za szkody wojskowe",
-      "link": "https://www.money.pl/pieniadze/rakieta-uszkodzila-dom-spor-o-odszkodowanie-za-szkody-wojskowe-7230673438981056a.html",
-      "pubDate": "Tue, 09 Dec 2025 18:55:47 +0100",
-      "source": "Money.pl"
     }
   ]
 }
