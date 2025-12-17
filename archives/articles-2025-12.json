@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-17T23:32:04.093Z",
+  "generatedAt": "2025-12-17T23:45:45.441Z",
   "items": [
     {
       "title": "Turcja bije rekord na lotniskach. Cztery razy więcej pasażerów niż w Polsce",
@@ -55311,6 +55311,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -60843,6 +60867,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-12-10T12:47:24Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-12-10T12:47:24Z",
@@ -68377,18 +68425,6 @@
       "link": "https://businessinsider.com.pl/prawo/henryk-kania-o-decyzji-sadu-jestem-w-szoku-sytuacja-rodem-z-kafki-tylko-u-nas/p80x9v4",
       "pubDate": "Tue, 09 Dec 2025 18:05:58 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Trzy promile i ucieczka ekspresówką. Policja pokazała nagranie z pościgu",
-      "link": "https://tvn24.pl/kielce/kielce-poscig-za-pijanym-kierowca-na-drodze-s7-st8793662?source=rss",
-      "pubDate": "Tue, 09 Dec 2025 18:04:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ofgem approves early investment in three UK electricity ‘superhighways’",
-      "link": "https://www.theguardian.com/business/2025/dec/09/ofgem-investment-uk-electricity-superhighways",
-      "pubDate": "Tue, 09 Dec 2025 18:03:52 GMT",
-      "source": "The Guardian"
     }
   ]
 }
