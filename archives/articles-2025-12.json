@@ -1,7 +1,85 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-18T18:38:30.963Z",
+  "generatedAt": "2025-12-18T18:59:32.700Z",
   "items": [
+    {
+      "title": "Jedna osoba postawiła się Putinowi. Media o pierwszych dniach wojny",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-jedna-osoba-postawila-sie-putinowi-media-o-pierwszych-dniach,nId,22500012",
+      "pubDate": "Thu, 18 Dec 2025 18:56:50 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Monstrualna bateria i 120 Hz. To nie jest telefon dla każdego",
+      "link": "https://android.com.pl/tech/1002882-telefon-oukitel-wp100-wp300-cena/",
+      "pubDate": "Thu, 18 Dec 2025 18:56:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Świąteczne życzenia od Konica Minolta",
+      "link": "https://www.rp.pl/projekty-specjalne/art43531351-swiateczne-zyczenia-od-konica-minolta",
+      "pubDate": "Thu, 18 Dec 2025 19:55:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Katastrofa małego samolotu w USA. Są ofiary",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-18/katastrofa-malego-samolotu-w-usa-sa-ofiary/",
+      "pubDate": "Thu, 18 Dec 2025 19:54:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "New York Times columnist David Brooks appears in latest Epstein photos",
+      "link": "https://www.theguardian.com/us-news/2025/dec/18/nyt-david-brooks-epstein-photos-released",
+      "pubDate": "Thu, 18 Dec 2025 18:52:32 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Złoty rośnie w siłę. Systematycznie umacnia się do euro",
+      "link": "https://biznes.interia.pl/waluty/aktualnosci/news-zloty-rosnie-w-sile-dolar-mocuje-sie-z-euro,nId,22500061",
+      "pubDate": "Thu, 18 Dec 2025 18:51:38 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "PTWP sfinalizowała transakcję z Pluralis B.V. i obejmuje większościowy pakiet akcji Gremi Media",
+      "link": "https://www.rp.pl/media/art43530921-ptwp-sfinalizowala-transakcje-z-pluralis-b-v-i-obejmuje-wiekszosciowy-pakiet-akcji-gremi-media",
+      "pubDate": "Thu, 18 Dec 2025 19:50:12 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Radni przeciwko przejęciu teatru przez resort kultury. W tle awantura o dyrektora",
+      "link": "https://tvn24.pl/kielce/kielce-radni-przeciwko-przejeciu-teatru-zeromskiego-przez-ministerstwo-kultury-w-tle-spor-o-dyrektora-st8808689?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 18:49:25 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Energia dla wsi rozstrzygnięta. Tyle pieniędzy pójdzie na dofinansowania",
+      "link": "https://businessinsider.com.pl/gospodarka/dotacje-dla-rolnikow-i-spoldzielni-jest-rozstrzygniecie-programu-energia-dla-wsi/yx9ccqx",
+      "pubDate": "Thu, 18 Dec 2025 18:47:10 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Trump critics praise Vanity Fair article for its scrutiny while allies dismiss it as hit piece",
+      "link": "https://www.theguardian.com/us-news/2025/dec/18/trump-vanity-fair-interview",
+      "pubDate": "Thu, 18 Dec 2025 18:41:14 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Tajna broń Kremla. ​Rosyjska flota widmo szpieguje Europę",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-tajna-bron-kremla-rosyjska-flota-widmo-szpieguje-europe,nId,8051896",
+      "pubDate": "Thu, 18 Dec 2025 19:39:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wołodymyr Zełenski wylądował w Warszawie. Są zdjęcia z lotniska",
+      "link": "https://wydarzenia.interia.pl/kraj/news-wolodymyr-zelenski-wyladowal-w-warszawie-sa-zdjecia-z-lotnis,nId,22500044",
+      "pubDate": "Thu, 18 Dec 2025 18:38:57 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Kulisy konfliktu w PiS. \"Kaczyński stracił prezydenta. Nawrocki chce zagrać o całość\"",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/kulisy-konfliktu-w-pis-kaczynski-stracil-prezydenta-nawrocki-chce-zagrac-o-calosc/x4gsl23",
+      "pubDate": "Thu, 18 Dec 2025 18:38:31 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Badacze zdębieni. Znaleźliśmy \"cytrynę\" w kosmosie",
       "link": "https://antyweb.pl/cytryna-w-kosmosie",
@@ -19,6 +97,12 @@
       "link": "https://www.chip.pl/2025/12/pixel-10-tensor-g5-gpu-update",
       "pubDate": "Thu, 18 Dec 2025 18:30:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Democrats won’t release 2024 election loss ‘autopsy’, DNC chair says",
+      "link": "https://www.theguardian.com/us-news/2025/dec/18/democrats-2024-election-autopsy",
+      "pubDate": "Thu, 18 Dec 2025 18:29:05 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Poco M8 – to będzie smartfon Xiaomi dla osób, które nie potrzebują wiele",
@@ -79,6 +163,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/radoslaw-sikorski-odpowiada-viktorowi-orbanowi-powinienes-byl-sie-nauczyc/20sf0ny",
       "pubDate": "Thu, 18 Dec 2025 18:18:08 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "PTWP zapłaci 45 mln za Gremi Media. \"Rzeczpospolita\" zmienia właściciela",
+      "link": "https://www.bankier.pl/wiadomosc/PTWP-zaplaci-45-mln-za-Gremi-Media-Rzeczpospolita-zmienia-wlasciciela-9058191.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 18 Dec 2025 19:17:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Kapelan z GRU i dowódca-agent. Rosyjscy szpiedzy w ukraińskiej armii",
@@ -235,6 +325,18 @@
       "link": "https://wiadomosci.onet.pl/kraj/jakkie-cilliers-na-impact26-w-poznaniu-ostrzezenie-dla-europy-i-biznesu/tqt4wy2",
       "pubDate": "Thu, 18 Dec 2025 17:48:59 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Wykroczenia drogowe Macierewicza. Zrzeczenie się immunitetu spełnia wymogi formalne",
+      "link": "https://www.bankier.pl/wiadomosc/Wykroczenia-drogowe-Macierewicza-Zrzeczenie-sie-immunitetu-spelnia-wymogi-formalne-9058179.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 18 Dec 2025 18:48:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Afera z lekami szefa BBN. Rzecznik Praw Obywatelskich wkracza do akcji",
+      "link": "https://www.bankier.pl/wiadomosc/Afera-z-lekami-szefa-BBN-Rzecznik-Praw-Obywatelskich-wkracza-do-akcji-9058181.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 18 Dec 2025 18:48:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Nowe \"Białe Łabędzie\" Rosjan. Jeśli uwierzyć im na słowo",
@@ -469,6 +571,12 @@
       "link": "http://www.euronews.com/culture/2025/12/18/all-the-presidents-men-trumps-white-house-portrait-gallery-decorations-spark-row-over-deco",
       "pubDate": "Thu, 18 Dec 2025 18:08:27 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Izrael i MTK na wojennej ścieżce. Waszyngton nakłada sankcje za ściganie Netanjahu",
+      "link": "https://www.bankier.pl/wiadomosc/Izrael-i-MTK-na-wojennej-sciezce-Waszyngton-naklada-sankcje-za-sciganie-Netanjahu-9058152.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 18 Dec 2025 18:08:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Słynna broń Kremla już na Białorusi. Aleksander Łukaszenko komentuje",
@@ -2012,6 +2120,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
           "@_type": "application/atom+xml"
         }
       ],
@@ -4407,6 +4539,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Donald Trump zburzył amerykańską potęgę. USA straciły to, co miały najcenniejszego [OPINIA]",
       "link": "https://wiadomosci.onet.pl/politico/tak-trump-wyniszcza-usa-stany-stracily-kluczowa-przewage/7lt5mhr",
       "pubDate": "Thu, 18 Dec 2025 10:49:04 GMT",
@@ -5243,6 +5399,12 @@
     {
       "title": "Delegacja Nawrockiego na rozmowy z Zełenskim bez przedstawiciela MSZ. \"Znowu żaden nie jest zaproszony\"",
       "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-wolodymyrem-zelenskim-marcin-bosacki-polska-delegacja-bez-przedstawiciela-msz-znowu-zaden-nie-jest-zaproszony-st8807209?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 09:16:54 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rano go jeszcze nie było. Przedstawiciel MSZ na rozmowach Nawrocki-Zełenski potwierdzony",
+      "link": "https://tvn24.pl/polska/spotkanie-karola-nawrockiego-z-wolodymyrem-zelenskim-zwrot-w-sprawie-udzialu-przedstawiciela-msz-st8807209?source=rss",
       "pubDate": "Thu, 18 Dec 2025 09:16:54 GMT",
       "source": "TVN24"
     },
@@ -6954,6 +7116,12 @@
       "title": "Trump drwi z byłych prezydentów. Nowe podpisy pod portretami",
       "link": "https://tvn24.pl/swiat/donald-trump-drwi-z-bylych-prezydentow-nowe-podpisy-pod-portretami-st8806996?source=rss",
       "pubDate": "Thu, 18 Dec 2025 05:22:27 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Gęste mgły. Długa lista województw z ostrzeżeniami",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-geste-mgly-w-polsce-w-tych-regionach-kierowcy-moga-liczyc-sie-z-utrudnieniami-st8806345?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 05:22:12 GMT",
       "source": "TVN24"
     },
     {
@@ -64287,6 +64455,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -65335,144 +65527,6 @@
       "link": "https://businessinsider.com.pl/wiadomosci/firmy-z-ukrainy-zadaja-ogromnych-odszkodowan-od-rosji-rekordowy-wyrok/yv8jv1g",
       "pubDate": "Wed, 10 Dec 2025 14:15:15 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Rewolucja na lokalnym rynku. Nowa inwestycja Develey w Łódzkiem",
-      "link": "https://www.rmf24.pl/regiony/lodz/news-rewolucja-na-lokalnym-rynku-nowa-inwestycja-develey-w-lodzki,nId,8048444",
-      "pubDate": "Wed, 10 Dec 2025 15:15:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Święta bez chaosu w kuchni. Ty dbasz o atmosferę, Samsung o… oszczędności!",
-      "link": "https://www.chip.pl/2025/12/samsung-swieta-bez-chaosu-w-kuchni",
-      "pubDate": "Wed, 10 Dec 2025 14:15:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "\"Bardzo zły sygnał dla całego świata\". Reakcje na konflikt w NBP",
-      "link": "https://tvn24.pl/polska/konflikt-w-nbp-glapinski-wisi-na-soboniu-komentarze-politykow-st8794357?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:13:45 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trzy topowe czytniki ebooków - bateria trzyma cały miesiąc, ekran jak papier, nie męczy oczu",
-      "link": "https://businessinsider.com.pl/technologie/trzy-topowe-czytniki-ebookow-bateria-trzyma-caly-miesiac-ekran-jak-papier/7lt1gvz",
-      "pubDate": "Wed, 10 Dec 2025 14:12:53 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rekordowe zainteresowanie finansowaniem polskiego atomu. Czołowe polskie banki w grze o miliardy",
-      "link": "https://businessinsider.com.pl/gospodarka/polskie-elektrownie-jadrowe-otrzymaly-oferty-od-bankow-zakonczenie-badania-rynku-z/qw7fqmj",
-      "pubDate": "Wed, 10 Dec 2025 14:12:49 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Iran aims to fire 2,000 missiles at once in future conflict, Israel warns",
-      "link": "http://www.euronews.com/2025/12/10/iran-aims-to-fire-2000-missiles-at-once-in-future-conflict-israel-warns",
-      "pubDate": "Wed, 10 Dec 2025 15:12:16 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Polska firma przejmuje francuską spółkę. To ważny krok w ekspansji na Zachód",
-      "link": "https://businessinsider.com.pl/firmy/selena-przejmuje-acdis-france-polska-firma-wkracza-na-rynek-budowlany/1473zq9",
-      "pubDate": "Wed, 10 Dec 2025 14:11:06 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Facebook przestanie być do bani? Meta ogłasza duże zmiany",
-      "link": "https://geekweek.interia.pl/technologia/news-facebook-przestanie-byc-do-bani-meta-oglasza-duze-zmiany,nId,22465935",
-      "pubDate": "Wed, 10 Dec 2025 14:09:25 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "US politics live: most Americans blame Trump for high prices, poll shows",
-      "link": "https://www.theguardian.com/us-news/live/2025/dec/10/trump-us-politics-live-updates",
-      "pubDate": "Wed, 10 Dec 2025 14:09:23 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Wysłał policji pismo z nielegalną pieczątką, stanie przed sądem",
-      "link": "https://tvn24.pl/krakow/oswiecim-wyslal-policji-pismo-z-nielegalna-pieczatka-stanie-przed-sadem-st8795170?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:08:35 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Niespełna dwuletnie dziecko za kierownicą. Szokująca interwencja policji",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-niespelna-dwuletnie-dziecko-za-kierownica-szokujaca-interwen,nId,22466155",
-      "pubDate": "Wed, 10 Dec 2025 14:07:19 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Internet bez limitu za darmo. Zobacz, jak łatwo go dostaniesz",
-      "link": "https://www.tabletowo.pl/internet-bez-limitu-za-darmo-promocja-2025/",
-      "pubDate": "Wed, 10 Dec 2025 14:07:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Szlachetna Paczka woła o pomoc w imieniu tysięcy rodzin. Przed nami Weekend Cudów",
-      "link": "https://www.rmf24.pl/fakty/polska/news-szlachetna-paczka-wola-o-pomoc-w-imieniu-tysiecy-rodzin-prze,nId,8048461",
-      "pubDate": "Wed, 10 Dec 2025 15:06:59 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "\"Słoń\" stoi na drodze do dalszych decyzji wyczekiwanych przez kredytobiorców",
-      "link": "https://businessinsider.com.pl/gospodarka/stopy-procentowe-kiedy-spadna-slon-stoi-na-drodze-wyczekiwanych-zmian/dn5q1tf",
-      "pubDate": "Wed, 10 Dec 2025 14:06:31 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Szeroka restrukturyzacja Volskwagena. Wcześniejsze emerytury dla tysięcy pracowników",
-      "link": "https://businessinsider.com.pl/firmy/volkswagen-rozpoczyna-restrukturyzacje-w-indiach-fabryki-czekaja-zmiany/p87nbqy",
-      "pubDate": "Wed, 10 Dec 2025 14:06:27 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Magiczna tabletka nie istnieje. Lekarka: \"To maraton, a nie sprint\"",
-      "link": "https://tvn24.pl/zdrowie/magiczna-tabletka-nie-istnieje-lekarka-o-infekcjach-to-maraton-a-nie-sprint-jak-walczyc-z-wirusami-st8795134?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:05:34 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "W USA przestawiono projekt ustawy mającej doprowadzić do wycofania kraju z NATO",
-      "link": "https://www.rp.pl/polityka/art43482511-w-usa-przestawiono-projekt-ustawy-majacej-doprowadzic-do-wycofania-kraju-z-nato",
-      "pubDate": "Wed, 10 Dec 2025 15:04:06 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "15-latek zignorował czerwone światło, nadjeżdżał samochód. Nagranie",
-      "link": "https://tvn24.pl/olsztyn/olsztyn-15-latek-zignorowal-czerwone-swiatlo-wjechal-przed-nadjezdzajacy-samochod-st8794531?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:01:21 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Suszenie ubrań zimą to nie lada problem. Podpowiadamy, jak zrobić to dobrze",
-      "link": "https://android.com.pl/tech/999702-suszenie-ubran-zima-sposoby/",
-      "pubDate": "Wed, 10 Dec 2025 14:01:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Zmiany w podatku od spadków i darowizn. Senat podjął decyzję",
-      "link": "https://tvn24.pl/biznes/pieniadze/podatek-od-spadkow-i-darowizn-senat-podjal-decyzje-st8795163?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:00:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kazakhstan brings back its endangered Przewalski’s horses",
-      "link": "http://www.euronews.com/culture/2025/12/10/kazakhstan-brings-back-its-endangered-przewalskis-horses",
-      "pubDate": "Wed, 10 Dec 2025 15:00:48 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Narzędzia Parkside na gigantycznej przecenie. Start już dziś",
-      "link": "https://antyweb.pl/narzedzia-parkside-na-gigantycznej-przecenie-start-juz-dzis",
-      "pubDate": "Wed, 10 Dec 2025 14:00:26 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Australia’s senior politicians can claim ‘unlimited’ travel expenses for their spouse, watchdog rules say",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/10/australia-senior-politicians-can-claim-unlimited-travel-expenses-for-their-spouse-watchdog-rules-say",
-      "pubDate": "Wed, 10 Dec 2025 14:00:21 GMT",
-      "source": "The Guardian"
     }
   ]
 }
