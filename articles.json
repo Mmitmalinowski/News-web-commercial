@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2025-12-18T22:13:48.644Z",
+  "generatedAt": "2025-12-18T22:37:05.241Z",
   "items": [
+    {
+      "title": "Mercosur signature delayed to January after Meloni asked for more time",
+      "link": "http://www.euronews.com/my-europe/2025/12/18/mercosur-signature-delayed-to-january-after-meloni-asked-for-more-time",
+      "pubDate": "Thu, 18 Dec 2025 23:27:48 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Pope Leo names Ronald Hicks next archbishop of New York",
+      "link": "https://www.bbc.com/news/articles/c8983vzg79go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 18 Dec 2025 22:25:49 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Historyczny sukces Rakowa. Lech i Jagiellonia w barażach, Legia poza pucharami",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-historyczny-sukces-rakowa-lech-i-jagiellonia-w-barazach-legi,nId,8051954",
+      "pubDate": "Thu, 18 Dec 2025 23:21:01 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Bondi paddle-out: surfers, paddle boarders and swimmers pay tribute to victims of mass shooting",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/19/bondi-paddle-out-surfers-paddle-boarders-and-swimmers-pay-tribute-to-victims-of-mass-shooting",
+      "pubDate": "Thu, 18 Dec 2025 22:19:03 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Karol Nawrocki przebił dekadę prezydentury Andrzeja Dudy. Licznik wet wzrósł o trzy",
+      "link": "https://wiadomosci.onet.pl/kraj/nawrocki-w-kilka-miesiecy-przebil-dwie-kadencje-dudy-chodzi-o-weta/1efv50e",
+      "pubDate": "Thu, 18 Dec 2025 22:17:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Katastrofa samolotu w Karolinie Północnej, zginął były kierowca NASCAR",
+      "link": "https://tvn24.pl/swiat/katastrofa-samolotu-w-karolinie-polnocnej-zginal-byly-kierowca-nascar-greg-biffle-st8808816?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 22:15:37 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Kolejne weto prezydenta. \"Rząd sięga po pieniądze Polaków\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-kolejne-weto-prezydenta-rzad-siega-po-pieniadze-polakow,nId,22500100",
@@ -180,6 +216,12 @@
       "link": "https://businessinsider.com.pl/gospodarka/umowa-z-mercosur-z-opoznieniem-oto-nowe-nieoficjalne-informacje/tjvefqn",
       "pubDate": "Thu, 18 Dec 2025 20:33:17 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Democrats release latest batch of Epstein photos as justice department deadline looms",
+      "link": "https://www.bbc.com/news/articles/cy472pygwljo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 18 Dec 2025 20:29:19 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Dwie grupy uderzeniowe z lotniskowcami USA na Guam. Jeden cel: Odstraszyć Chiny",
@@ -868,6 +910,12 @@
     {
       "title": "Katastrofa samolotu w USA. Rozbił się przy lądowaniu",
       "link": "https://www.rmf24.pl/fakty/swiat/news-katastrofa-samolotu-w-usa-rozbil-sie-przy-ladowaniu,nId,8051906",
+      "pubDate": "Thu, 18 Dec 2025 19:08:34 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Katastrofa samolotu w USA. Wśród ofiar były kierowca NASCAR",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-katastrofa-samolotu-w-usa-wsrod-ofiar-byly-kierowca-nascar,nId,8051906",
       "pubDate": "Thu, 18 Dec 2025 19:08:34 +0100",
       "source": "RMF24"
     },
@@ -2791,6 +2839,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
           "@_type": "application/atom+xml"
         }
       ],
@@ -5305,6 +5377,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66092,6 +66188,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -66162,72 +66282,6 @@
       "link": "https://tvn24.pl/biznes/tech/zakazane-chipy-mialy-trafiac-do-chin-st8795352?source=rss",
       "pubDate": "Wed, 10 Dec 2025 15:58:59 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Miał ponad 40 tysięcy plików z treściami pedofilskimi",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/49-latek-mial-ponad-40-tysiecy-plikow-z-tresciami-pedofilskimi-st8795474?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:58:48 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ostre słowa Lecha Wałęsy. \"Na tym polega dramat ludzkości\"",
-      "link": "https://wiadomosci.onet.pl/kraj/ostre-slowa-lecha-walesy-na-tym-polega-dramat-ludzkosci/yrx3gjd",
-      "pubDate": "Wed, 10 Dec 2025 15:57:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Amid Russia's war in Ukraine, how much are weapons companies making?",
-      "link": "http://www.euronews.com/my-europe/2025/12/10/amid-russias-war-in-ukraine-how-much-are-weapons-companies-making",
-      "pubDate": "Wed, 10 Dec 2025 16:56:52 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Duże zmiany na Instagramie. Nie będziemy już więźniami algorytmu?",
-      "link": "https://geekweek.interia.pl/aplikacje/news-duze-zmiany-na-instagramie-nie-bedziemy-juz-wiezniami-algory,nId,22466175",
-      "pubDate": "Wed, 10 Dec 2025 15:55:00 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "PFR pokazał strategię na kolejne 5 lat. Zakłada solidny wzrost wartości aktywów",
-      "link": "https://www.rp.pl/biznes/art43483831-pfr-pokazal-strategie-na-kolejne-5-lat-zaklada-solidny-wzrost-wartosci-aktywow",
-      "pubDate": "Wed, 10 Dec 2025 16:54:02 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Międzynarodowy Komitet Olimpijski opublikował przełomowy dokument dotyczący kobiet",
-      "link": "https://kobieta.rp.pl/sport/art43478521-miedzynarodowy-komitet-olimpijski-opublikowal-przelomowy-dokument-dotyczacy-kobiet",
-      "pubDate": "Wed, 10 Dec 2025 16:53:30 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rosja, Chiny i USA. Wywiad kraju NATO wskazał główne zagrożenia",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-rosja-chiny-i-usa-wywiad-kraju-nato-wskazal-glowne-zagrozeni,nId,8048495",
-      "pubDate": "Wed, 10 Dec 2025 16:53:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Informatyk z Warszawy miał 40 tys. plików z dziecięcą pornografią",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-informatyk-z-warszawy-mial-40-tys-plikow-z-dziecieca-pornogr,nId,8048496",
-      "pubDate": "Wed, 10 Dec 2025 16:51:18 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Czeski ekspert: jestem przekonany, że czeka nas konflikt z Rosją. Donald Trump dał Putinowi powód, by się spieszył [WYWIAD]",
-      "link": "https://wiadomosci.onet.pl/swiat/ekspert-putin-bedzie-zyl-dlugo-psychopaci-dozywaja-sedziwego-wieku-to-fakt/ql29qmv",
-      "pubDate": "Wed, 10 Dec 2025 15:50:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ford łączy siły z Renault. Nadchodzą tanie europejskie elektryki",
-      "link": "https://android.com.pl/moto/1000134-ford-stworzy-elektryki-z-renault/",
-      "pubDate": "Wed, 10 Dec 2025 15:49:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Święci mikołajowie z bronią na jarmarku. Bundeswehra zamieszana w skandal",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-swieci-mikolajowie-z-bronia-na-jarmarku-bundeswehra-zamiesza,nId,22466202",
-      "pubDate": "Wed, 10 Dec 2025 15:48:15 GMT",
-      "source": "Interia"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -109238,6 +109292,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -117218,6 +117296,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -148502,6 +148604,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -194990,6 +195116,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -202182,30 +202332,6 @@
       "link": "https://biznes.interia.pl/finanse/news-zimowe-zakopane-przyciaga-turystow-nocleg-znacznie-drozszy-n,nId,22460162",
       "pubDate": "Tue, 25 Nov 2025 15:47:59 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "55 mld zł na przywileje emerytalne. Zrzutka po 2200 zł na podatnika",
-      "link": "https://www.rp.pl/finanse/art43395401-55-mld-zl-na-przywileje-emerytalne-zrzutka-po-2200-zl-na-podatnika",
-      "pubDate": "Tue, 25 Nov 2025 16:45:54 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "The Vatican praises new Rosalía album ‘LUX’ for 'provocative' songs about faith and spirituality",
-      "link": "http://www.euronews.com/culture/2025/11/25/the-vatican-praises-new-rosalia-album-lux-for-provocative-songs-about-faith-and-spirituali",
-      "pubDate": "Tue, 25 Nov 2025 16:45:21 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Macron seeks to reassure public as France prepares a new voluntary military service",
-      "link": "http://www.euronews.com/2025/11/25/macron-seeks-to-reassure-public-as-france-prepares-a-new-voluntary-military-service",
-      "pubDate": "Tue, 25 Nov 2025 16:45:12 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Market przez pomyłkę sprzedawał iPady za 15 euro. Sieć zażądała ich zwrotu",
-      "link": "https://tech.wp.pl/s/gryonline-pl/market-przez-pomylke-sprzedawal-ipady-za-15-euro-siec-zazadala-ich-zwrotu,7225631897950337a",
-      "pubDate": "Tue, 25 Nov 2025 16:44:56 +0100",
-      "source": "Tech WP.pl"
     }
   ],
   "totalArticles": 20000,
