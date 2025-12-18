@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-18T19:32:41.622Z",
+  "generatedAt": "2025-12-18T19:43:15.861Z",
   "items": [
+    {
+      "title": "Uberem na wakacje. Najdłuższy przejazd w 2025 roku miał kilkaset kilometrów",
+      "link": "https://www.tabletowo.pl/uber-podsumowanie-2025-roku-najdluzsza-trasa/",
+      "pubDate": "Thu, 18 Dec 2025 19:41:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Sejm ponownie uchwalił ustawę o kryptowalutach. To drugie podejście",
+      "link": "https://tvn24.pl/biznes/najnowsze/sejm-ponownie-uchwalil-ustawe-o-kryptowalutach-to-drugie-podejscie-st8808741?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 19:36:14 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ustawa o rynku kryptoaktywów. Sejm zagłosował w sprawie projektu",
+      "link": "https://biznes.interia.pl/gospodarka/news-ustawa-o-rynku-kryptoaktywow-sejm-podjal-decyzje,nId,22500079",
+      "pubDate": "Thu, 18 Dec 2025 19:36:06 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Katastrofa samolotu w USA. Są ofiary śmiertelne, w sieci krążą nagrania",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-katastrofa-samolotu-w-usa-sa-ofiary-smiertelne-w-sieci-kraza,nId,22500048",
+      "pubDate": "Thu, 18 Dec 2025 19:35:41 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Wypadek na S7 pod Płońskiem. Jezdnia pełna puszek piwa",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-wypadek-na-s7-pod-plonskiem-jezdnia-pelna-puszek-piwa,nId,8051931",
+      "pubDate": "Thu, 18 Dec 2025 20:32:19 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Sejm zdecydował w sprawie ustawy regulującej kryptowaluty i tego typu aktywa",
+      "link": "https://businessinsider.com.pl/prawo/sejm-zdecydowal-w-sprawie-ustawy-regulujacej-kryptowaluty-i-tego-typu-aktywa/jl5kghd",
+      "pubDate": "Thu, 18 Dec 2025 19:28:46 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Robert Gwiazdowski: Co jest sprawiedliwe? To, co każe czynić Tusk z Żurkiem, czy Kaczyński z Ziobrą?",
       "link": "https://www.rp.pl/opinie-prawne/art43527181-robert-gwiazdowski-co-jest-sprawiedliwe-to-co-kaze-czynic-tusk-z-zurkiem-czy-kaczynski-z-ziobra",
@@ -73,6 +109,12 @@
       "link": "https://energia.rp.pl/ropa/art43531401-rosyjska-ropa-po-25-dolarow-za-barylke-potezny-rabat-dla-chinczykow",
       "pubDate": "Thu, 18 Dec 2025 20:17:32 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wołodymyr Zełenski przyleciał do Polski. Tak wygląda plan wizyty ukraińskiego prezydenta",
+      "link": "https://wiadomosci.onet.pl/kraj/wolodymyr-zelenski-przylecial-do-polski-tak-wyglada-plan-wizyty-ukrainskiego/d4ht575",
+      "pubDate": "Thu, 18 Dec 2025 19:17:01 GMT",
+      "source": "Onet"
     },
     {
       "title": "Nagły zwrot w sprawie wizyty Zełenskiego w Polsce. Przedstawiciel MSZ dostał zaproszenie",
@@ -2595,6 +2637,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -4550,6 +4616,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64809,6 +64899,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -65575,66 +65689,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Gorzkie-slowa-Walesy-Madrzy-politycy-odeszli-Zostaly-odpady-polityczne-9053460.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 15:42:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Koreański\" scenariusz dla Ukrainy? Amerykański dziennikarz ujawnia kulisy rozmów",
-      "link": "https://wiadomosci.onet.pl/swiat/koreanski-scenariusz-dla-ukrainy-amerykanski-dziennikarz-ujawnia-kulisy-rozmow/lpd710x",
-      "pubDate": "Wed, 10 Dec 2025 14:41:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szykują nowe zasady wjazdu do USA. Dotyczą też Polaków",
-      "link": "https://tvn24.pl/biznes/turystyka/usa-proponuja-surowe-prawo-dla-turystow-z-zagranicy-obowiazek-ujawniania-aktywnosci-w-mediach-spolecznosciowych-st8794852?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:40:50 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Polacy na celowniku służb w USA. Wielu wybiera samodeportację",
-      "link": "https://wiadomosci.onet.pl/swiat/wzrasta-liczba-polakow-wydalonych-z-usa-wybieraja-samodeportacje/d756jd3",
-      "pubDate": "Wed, 10 Dec 2025 14:40:21 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ekovoltis pierwszym Dostawcą Usług Bilansujących po reformie WDB – historyczny moment dla polskiego rynku energii",
-      "link": "https://energia.rp.pl/nowa-energia/art43482931-ekovoltis-pierwszym-dostawca-uslug-bilansujacych-po-reformie-wdb-historyczny-moment-dla-polskiego-rynku-energii",
-      "pubDate": "Wed, 10 Dec 2025 15:38:42 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kolejne problemy PKP Cargo. Wystarczyła jedna decyzja i kurs akcji runął",
-      "link": "https://biznes.interia.pl/gieldy/aktualnosci/news-kolejne-problemy-pkp-cargo-wystarczyla-jedna-decyzja-i-kurs,nId,22466148",
-      "pubDate": "Wed, 10 Dec 2025 14:38:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Rosjanie chwalą \"gościnność\" Amerykanów. Pokazali zdjęcie",
-      "link": "https://tvn24.pl/swiat/dyplomata-z-rosji-chwali-goscinnosc-amerykanow-dostal-zaproszenie-na-kapitol-st8794844?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:37:57 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wypadek na A1 pod Częstochową. Droga całkowicie zablokowana",
-      "link": "https://wiadomosci.onet.pl/slask/wypadek-na-a1-pod-czestochowa-droga-calkowicie-zablokowana/npg9tx0",
-      "pubDate": "Wed, 10 Dec 2025 14:37:56 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Judge blocks Trump administration’s deployment of national guard troops in Los Angeles",
-      "link": "https://www.theguardian.com/us-news/2025/dec/10/national-guard-los-angeles-deployment-blocked",
-      "pubDate": "Wed, 10 Dec 2025 14:36:07 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Awatar Míša zamiast kasjera. Orlen testuje rewolucyjny sklep w Czechach",
-      "link": "https://www.bankier.pl/wiadomosc/Awatar-Misa-zamiast-kasjera-Orlen-testuje-rewolucyjny-sklep-w-Czechach-9053451.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 10 Dec 2025 15:36:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Porzucone auto i akcja pirotechników na drodze serwisowej trasy S8",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-akcja-pirotechnikow-na-drodze-serwisowej-trasy-s8-st8794714?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 14:34:58 GMT",
-      "source": "TVN24"
     }
   ]
 }
