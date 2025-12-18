@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-18T21:18:32.639Z",
+  "generatedAt": "2025-12-18T21:32:33.574Z",
   "items": [
+    {
+      "title": "​Prezydent Karol Nawrocki zawetował trzy ustawy",
+      "link": "https://www.rmf24.pl/polityka/news-prezydent-karol-nawrocki-zawetowal-trzy-ustawy,nId,8051945",
+      "pubDate": "Thu, 18 Dec 2025 22:21:12 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Minister ogłosił ws. ustawy o statusie osoby najbliższej. Jest kolejny krok",
+      "link": "https://wydarzenia.interia.pl/kraj/news-minister-oglosil-ws-ustawy-o-statusie-osoby-najblizszej-jest,nId,22500071",
+      "pubDate": "Thu, 18 Dec 2025 21:20:12 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Nawrocki wetuje podwyżkę akcyzy na alkohol",
       "link": "https://tvn24.pl/biznes/z-kraju/nawrocki-wetuje-podwyzke-akcyzy-na-alkohol-st8808784?source=rss",
@@ -3189,6 +3201,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -5144,6 +5180,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65739,6 +65799,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -65983,36 +66067,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/nawala-putina-rozbija-sie-o-ukrainski-bastion-bez-oslony-i-przez-pola-gigantyczne/7kn29dq",
       "pubDate": "Wed, 10 Dec 2025 15:41:26 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "German history museum offers fresh take on postwar years",
-      "link": "https://www.dw.com/en/german-history-museum-offers-fresh-take-on-postwar-years/a-75095527?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 10 Dec 2025 15:40:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Rośnie optymizm wśród ekspertów. To czeka polską gospodarkę",
-      "link": "https://businessinsider.com.pl/gospodarka/gospodarka-z-lepszymi-perspektywami-to-nas-czeka-w-kolejnych-latach/1g53mlm",
-      "pubDate": "Wed, 10 Dec 2025 15:39:06 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Zaginiony senior spędził noc w lesie. Uratował go policyjny śmigłowiec",
-      "link": "https://www.rmf24.pl/regiony/lodz/news-zaginiony-senior-spedzil-noc-w-lesie-uratowal-go-policyjny-s,nId,8048491",
-      "pubDate": "Wed, 10 Dec 2025 16:38:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Incydent z udziałem Rosji i Chin. Korea Południowa złożyła \"zdecydowany protest dyplomatyczny\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-10/incydent-z-udzialem-rosji-i-chin-koreapoludniowa-zlozyla-zdecydowany-protest-dyplomatyczny/",
-      "pubDate": "Wed, 10 Dec 2025 16:36:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Historyczna decyzja w Danii. Sojusznik uznany za \"potencjalne zagrożenie\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-historyczna-decyzja-w-danii-sojusznik-uznany-za-potencjalne,nId,22466191",
-      "pubDate": "Wed, 10 Dec 2025 15:35:26 GMT",
-      "source": "Interia"
     }
   ]
 }
