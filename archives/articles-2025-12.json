@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-18T20:33:13.200Z",
+  "generatedAt": "2025-12-18T20:47:32.035Z",
   "items": [
+    {
+      "title": "​Mąż i żona spłonęli w saunie. Klamka leżała na podłodze",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-maz-i-zona-sploneli-w-saunie-klamka-lezala-na-podlodze,nId,8051939",
+      "pubDate": "Thu, 18 Dec 2025 21:41:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "ICE meets snow as midwesterners fight back against Trump immigration raids",
+      "link": "https://www.theguardian.com/us-news/2025/dec/18/snow-midwest-ice-raids-trump",
+      "pubDate": "Thu, 18 Dec 2025 20:39:03 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Miał stać za atakiem na Nord Stream. Nowe informacje o zatrzymanym Ukraińcu",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-mial-stac-za-atakiem-na-nord-stream-nowe-informacje-o-zatrzy,nId,22500080",
+      "pubDate": "Thu, 18 Dec 2025 20:34:30 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Umowa z Mercosur z opóźnieniem? Unijni dyplomaci ujawniają plany",
+      "link": "https://businessinsider.com.pl/gospodarka/umowa-z-mercosur-z-opoznieniem-oto-nowe-nieoficjalne-informacje/tjvefqn",
+      "pubDate": "Thu, 18 Dec 2025 20:33:17 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Dwie grupy uderzeniowe z lotniskowcami USA na Guam. Jeden cel: Odstraszyć Chiny",
       "link": "https://www.rmf24.pl/fakty/swiat/news-dwie-grupy-uderzeniowe-z-lotniskowcami-usa-na-guam-jeden-cel,nId,8051929",
@@ -341,6 +365,12 @@
     {
       "title": "Wołodymyr Zełenski przyleciał do Polski. Tak wygląda plan wizyty ukraińskiego prezydenta",
       "link": "https://wiadomosci.onet.pl/kraj/wolodymyr-zelenski-przylecial-do-polski-tak-wyglada-plan-wizyty-ukrainskiego/d4ht575",
+      "pubDate": "Thu, 18 Dec 2025 19:17:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wołodymyr Zełenski przyleciał do Polski. Tak wygląda plan wizyty ukraińskiego prezydenta",
+      "link": "https://wiadomosci.onet.pl/kraj/wolodymyr-zelenski-przylecial-do-polski-tak-wyglada-plan-wizyty/d4ht575",
       "pubDate": "Thu, 18 Dec 2025 19:17:01 GMT",
       "source": "Onet"
     },
@@ -1139,6 +1169,12 @@
     {
       "title": "Tragiczna śmierć piłkarza. Były reprezentant kraju zabity w strzelaninie",
       "link": "https://www.rmf24.pl/fakty/swiat/news-tragiczna-smierc-pilkarza-byly-reprezentant-kraju-zabity-w-s,nId,8051891",
+      "pubDate": "Thu, 18 Dec 2025 17:56:15 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tragiczna śmierć piłkarza. Byłego reprezentant kraju pożegnał Real Madryt",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tragiczna-smierc-pilkarza-bylego-reprezentant-kraju-pozegnal,nId,8051891",
       "pubDate": "Thu, 18 Dec 2025 17:56:15 +0100",
       "source": "RMF24"
     },
@@ -2600,6 +2636,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
           "@_type": "application/atom+xml"
         }
       ],
@@ -4946,6 +5006,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65397,6 +65481,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -65797,60 +65905,6 @@
       "link": "https://wiadomosci.onet.pl/szczecin/mariusz-g-znow-przed-sadem-sprawa-krwawego-tulipana-rusza-od-nowa/s4em5y9",
       "pubDate": "Wed, 10 Dec 2025 15:21:42 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Michigan Democrat moves to impeach RFK Jr, alleging ‘abuse of authority’",
-      "link": "https://www.theguardian.com/us-news/2025/dec/10/rfk-michigan-democrat-impeach-haley-stevens",
-      "pubDate": "Wed, 10 Dec 2025 15:21:27 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Spotify rozszerza zasięg kluczowej funkcji. YouTube w tarapatach",
-      "link": "https://android.com.pl/tech/1000099-spotify-teledyski-w-nowych-krajach/",
-      "pubDate": "Wed, 10 Dec 2025 15:21:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Kreml z zadowoleniem przyjmuje wypowiedzi prezydenta USA. \"Odniósł się do pierwotnych źródeł\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-o-ukrainie-moskwa-komentuje-jego-slowa-jako-bardzo-wazne/5rbfd2y",
-      "pubDate": "Wed, 10 Dec 2025 15:19:40 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "AfD responds to Trump ‘erasure’ claims with call for nationalist revival in Europe",
-      "link": "https://www.theguardian.com/world/2025/dec/10/afd-responds-to-trump-erasure-claims-with-call-for-nationalist-revival-in-europe",
-      "pubDate": "Wed, 10 Dec 2025 15:19:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Miał zakrwawioną twarz, ledwo stał na nogach",
-      "link": "https://tvn24.pl/tvnwarszawa/wola/warszawa-doznal-powaznych-obrazen-twarzy-po-upadku-z-elektrycznej-hulajnogi-trafil-do-szpitala-st8795311?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:17:10 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ukrainian children being sent to North Korea sparks outrage",
-      "link": "https://www.dw.com/en/ukrainian-children-being-sent-to-north-korea-sparks-outrage/a-75093663?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 10 Dec 2025 15:16:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kreml zadowolony ze słów Trumpa o Ukrainie",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rosja-zadowolona-z-wypowiedzi-donalda-trumpa-w-najnowszym-wywiadzie-dla-politico-st8795294?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:15:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tragedia w Małopolsce. Zastrzelona 80-latka, trwa akcja służb",
-      "link": "https://wydarzenia.interia.pl/malopolskie/news-tragedia-w-malopolsce-zastrzelona-80-latka-trwa-akcja-sluzb,nId,22466186",
-      "pubDate": "Wed, 10 Dec 2025 15:15:26 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Złote Spinacze 2025. To oni zwyciężyli",
-      "link": "https://www.rp.pl/media/art43483011-zlote-spinacze-2025-to-oni-zwyciezyli",
-      "pubDate": "Wed, 10 Dec 2025 16:15:18 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
