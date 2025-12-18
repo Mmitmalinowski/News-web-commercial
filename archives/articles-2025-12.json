@@ -1,12 +1,18 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-18T21:44:30.082Z",
+  "generatedAt": "2025-12-18T21:53:55.411Z",
   "items": [
     {
       "title": "Barcelona, Chicago, a może Arabia Saudyjska. Gdzie w przyszłym sezonie zagra Robert Lewandowski?",
       "link": "https://sport.rp.pl/pilka-nozna/art43531701-barcelona-chicago-a-moze-arabia-saudyjska-gdzie-w-przyszlym-sezonie-zagra-robert-lewandowski",
       "pubDate": "Thu, 18 Dec 2025 22:42:53 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Former Nascar driver believed to be among seven killed in US air crash ",
+      "link": "https://www.bbc.com/news/articles/c741r9ve3z7o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 18 Dec 2025 21:42:27 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Politycy komentują kolejne prezydenckie weta. \"Będzie dobre prawo, będzie podpis\"",
@@ -3273,6 +3279,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -5228,6 +5258,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65919,6 +65973,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -66097,30 +66175,6 @@
       "link": "https://tvn24.pl/tvnmeteo/swiat/kolejne-trzesienie-ziemi-w-japonii-w-mocy-specjalny-alert-st8795408?source=rss",
       "pubDate": "Wed, 10 Dec 2025 15:46:44 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Pięć lat po premierze Cyberpunk 2077 dostał najlepszy zwiastun w historii. Czyste kino",
-      "link": "https://spidersweb.pl/2025/12/cyberpunk-2077-zwiastun-piec-lat-gry.html",
-      "pubDate": "Wed, 10 Dec 2025 16:46:38 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "US judge blocks Trump's National Guard deployment in Los Angeles",
-      "link": "https://www.bbc.com/news/articles/c0r9p1yr1y7o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Wed, 10 Dec 2025 15:46:21 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Dług publiczny znów rośnie. Wkrótce osiągnie kolejny pułap",
-      "link": "https://biznes.interia.pl/gospodarka/news-rosnie-dlug-publiczny-polski-rzad-ma-sie-czym-martwic,nId,22466195",
-      "pubDate": "Wed, 10 Dec 2025 15:45:52 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Legendy nie umierają: Cyberpunk 2077 świętuje 5 lat",
-      "link": "https://antyweb.pl/legendy-nie-umieraja-cyberpunk-2077-swietuje-5-lat",
-      "pubDate": "Wed, 10 Dec 2025 15:45:49 GMT",
-      "source": "Antyweb"
     }
   ]
 }
