@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-18T17:49:37.593Z",
+  "generatedAt": "2025-12-18T17:58:33.500Z",
   "items": [
+    {
+      "title": "Wołodymyr Zełenski jest już w Polsce",
+      "link": "https://www.rmf24.pl/fakty/polska/news-wolodymyr-zelenski-jest-juz-w-polsce,nId,8051911",
+      "pubDate": "Thu, 18 Dec 2025 18:56:19 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Najgroźniejsza broń Rosji ustawiona na Białorusi i wycelowana w UE",
+      "link": "https://geekweek.interia.pl/militaria/news-najgrozniejsza-bron-rosji-ustawiona-na-bialorusi-i-wycelowan,nId,22500024",
+      "pubDate": "Thu, 18 Dec 2025 17:56:13 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Prokuratura postawiła zarzuty radnej KO. \"Odmówiła składania wyjaśnień\"",
+      "link": "https://wydarzenia.interia.pl/pomorskie/news-prokuratura-postawila-zarzuty-radnej-ko-odmowila-skladania-w,nId,22500027",
+      "pubDate": "Thu, 18 Dec 2025 17:56:06 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Internet z kosmosu w aucie? Tesla zdradza plany",
+      "link": "https://android.com.pl/tech/1002845-internet-z-kosmosu-w-aucie-tesla/",
+      "pubDate": "Thu, 18 Dec 2025 17:56:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Partia apeluje. Rzecznik PiS o szkodach z \"wpisów i publicznych wypowiedzi\"",
+      "link": "https://tvn24.pl/polska/konflikt-w-prawie-i-sprawiedliwosci-partia-apeluje-rzecznik-pis-o-wpisach-i-publicznych-wypowiedziach-szkodzacych-obozowi-st8808574?source=rss",
+      "pubDate": "Thu, 18 Dec 2025 17:50:29 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Kropelki oleju płyną pod prąd. Odkryto nowe zjawisko w fizyce płynów",
       "link": "https://www.chip.pl/2025/12/kropelki-oleju-plyna-pod-prad",
@@ -49,6 +79,12 @@
       "link": "https://www.theguardian.com/world/2025/dec/18/eu-leaders-summit-funding-deal-for-ukraine",
       "pubDate": "Thu, 18 Dec 2025 17:38:51 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Rutte w Orzyszu: NATO gotowe, by bronić naszego bezpieczeństwa",
+      "link": "https://www.bankier.pl/wiadomosc/Rutte-w-Orzyszu-NATO-gotowe-by-bronic-naszego-bezpieczenstwa-9058173.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 18 Dec 2025 18:38:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Drugiego dnia inwazji Putin wydał mu polecenie. Odmówił i powiedział, że ten może go rozstrzelać",
@@ -169,6 +205,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/rumuni-wsparli-kampanie-karola-nawrockiego-w-tle-platforma-lorda-botow/132mln6",
       "pubDate": "Thu, 18 Dec 2025 17:17:09 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Władze RPA zatrzymały amerykańskich urzędników. Waszyngton potępia działania",
+      "link": "https://www.bankier.pl/wiadomosc/Wladze-RPA-zatrzymaly-amerykanskich-urzednikow-Waszyngton-potepia-dzialania-9058157.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 18 Dec 2025 18:16:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Zapomnij o Spotify Wrapped. Zobacz, co przygotował Lidl",
@@ -1766,6 +1808,30 @@
           "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
           "@_type": "application/atom+xml"
         }
       ],
@@ -3890,6 +3956,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63897,6 +63987,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Australia wprowadziła ban na social media dla dzieci poniżej 16 lat. Nie wyszło tak jak chcieli…",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/australia-wprowadzila-ban-na-social-media-dla-dzieci-ponizej-16-lat/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "21",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-10T16:05:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Armia wytrzymałaby kilka tygodni wojny. Wielka Brytania nie jest gotowa na starcie",
       "link": "https://www.bankier.pl/wiadomosc/Armia-wytrzymalaby-kilka-tygodni-wojny-Wielka-Brytania-nie-jest-gotowa-na-starcie-9053535.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 10 Dec 2025 17:05:00 +0100",
@@ -65305,66 +65419,6 @@
       "link": "http://www.press.pl/tresc/90676,nbcuniversal-juz-sprzedal-90-proc_-reklam-w-telemundo-przy-transmisjach-z-mundialu?rss=1",
       "pubDate": "Wed, 10 Dec 2025 14:42:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "EU races to speed up deportations in migration crackdown",
-      "link": "https://www.dw.com/en/eu-races-to-speed-up-deportations-in-migration-crackdown/a-75090569?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 10 Dec 2025 13:42:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Ciepła środa we Wrocławiu. \"To dla nas szok\"",
-      "link": "https://tvn24.pl/tvnmeteo/polska/ciepla-sroda-10-12-w-polsce-14-stopni-we-wroclawiu-to-dla-nas-szok-st8795069?source=rss",
-      "pubDate": "Wed, 10 Dec 2025 13:42:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "​Opłata paliwowa w górę. Ile wyniosą podwyżki?",
-      "link": "https://www.rmf24.pl/ekonomia/news-oplata-paliwowa-w-gore-ile-wyniosa-podwyzki,nId,8048448",
-      "pubDate": "Wed, 10 Dec 2025 14:41:26 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Podatek tłuszczowy i zdrowotny. Lewica chce rewolucji w ochronie zdrowia",
-      "link": "https://www.rmf24.pl/fakty/polska/news-podatek-tluszczowy-i-zdrowotny-lewica-chce-rewolucji-w-ochro,nId,8048432",
-      "pubDate": "Wed, 10 Dec 2025 14:41:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Naukowcy z Uniwersytetu Warszawskiego stworzyli nowy typ odbiornika kwantowego. Technologia ma duży potencjał zastosowania w przemyśle kosmicznym i obronności",
-      "link": "https://wiadomosci.onet.pl/kraj/naukowcy-z-uniwersytetu-warszawskiego-stworzyli-nowy-typ-odbiornika-kwantowego/shcmvk2",
-      "pubDate": "Wed, 10 Dec 2025 13:40:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Stary problem wrócił po otwarciu granicy z Białorusią",
-      "link": "https://www.rmf24.pl/regiony/bialystok/news-stary-problem-wrocil-po-otwarciu-granicy-z-bialorusia,nId,8048442",
-      "pubDate": "Wed, 10 Dec 2025 14:39:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Najgorętszy rok w historii regionu. Ludzie na skraju wytrzymałości",
-      "link": "https://geekweek.interia.pl/meteorologia/news-swiat-arabski-ma-za-soba-najgoretszy-rok-mieszkancy-sa-na-sk,nId,22465951",
-      "pubDate": "Wed, 10 Dec 2025 13:37:39 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Będzie spotkanie koalicji chętnych. Tematem gwarancje bezpieczeństwa",
-      "link": "https://wiadomosci.onet.pl/swiat/ukraina-dostanie-gwarancje-bezpieczenstwa-jutro-wazne-spotkanie/e99wsq9",
-      "pubDate": "Wed, 10 Dec 2025 13:37:36 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zełenski zgodził się na żądanie. Cyniczna odpowiedź z Kremla",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-zelenski-zgodzil-sie-na-zadanie-cyniczna-odpowiedz-z-kremla,nId,22466096",
-      "pubDate": "Wed, 10 Dec 2025 13:37:34 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Windows 11 nie będzie mulić w grach. Koniec męczarni",
-      "link": "https://spidersweb.pl/2025/12/windows-11-wieksza-wydajnosc-gry-zmiany-2026.html",
-      "pubDate": "Wed, 10 Dec 2025 14:37:26 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
