@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-19T22:49:43.076Z",
+  "generatedAt": "2025-12-19T22:59:06.020Z",
   "items": [
+    {
+      "title": "Kolejne dokumenty w sprawie Epsteina ujawnione. Część akt pozostanie tajna",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-kolejne-dokumenty-w-sprawie-epsteina-ujawnione-czesc-akt-poz,nId,8052337",
+      "pubDate": "Fri, 19 Dec 2025 23:55:32 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Jak się zmienia private banking",
       "link": "https://www.rp.pl/multimedia/art43537701-jak-sie-zmienia-private-banking",
@@ -12897,6 +12903,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14852,6 +14882,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63385,24 +63439,6 @@
       "link": "https://www.tabletowo.pl/zapamietaj-ten-adres-na-pewno-ci-sie-przyda/",
       "pubDate": "Thu, 11 Dec 2025 13:42:28 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Poland arrests Russian archaeologist wanted in Ukraine",
-      "link": "https://www.bbc.com/news/articles/clydz0j1yego?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 11 Dec 2025 13:41:23 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Zabił proboszcza toporkiem. Sprawa umorzona",
-      "link": "https://www.rmf24.pl/regiony/olsztyn/news-zabil-proboszcza-toporkiem-sprawa-umorzona,nId,8049768",
-      "pubDate": "Thu, 11 Dec 2025 14:40:44 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Możliwa kradzież danych od największego dewelopera. Numery PESEL, adresy, numery rachunków zagrożone wyciekiem",
-      "link": "https://www.bankier.pl/wiadomosc/Adresy-konta-numery-rachunkow-zagrozone-wyciekiem-z-Dom-Development-Mozliwa-kradziez-danych-od-najwiekszego-dewelopera-9054093.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 14:40:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
