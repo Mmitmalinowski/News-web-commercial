@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-19T23:25:22.614Z",
+  "generatedAt": "2025-12-19T23:39:17.458Z",
   "items": [
+    {
+      "title": "US carries out 'massive' strike against IS in Syria",
+      "link": "https://www.bbc.com/news/articles/c5yq7zzw618o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 23:35:18 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Taki był piękny i już go nie ma. Rosja straciła kolejny okręt",
+      "link": "https://geekweek.interia.pl/militaria/news-taki-byl-piekny-i-juz-go-nie-ma-rosja-stracila-kolejny-okret,nId,22501595",
+      "pubDate": "Fri, 19 Dec 2025 23:21:12 GMT",
+      "source": "GeekWeek"
+    },
     {
       "title": "Kalendarium - sobota 20 grudnia",
       "link": "https://pro.rp.pl/kalendarium/art43537251-kalendarium-sobota-20-grudnia",
@@ -12969,6 +12981,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14924,6 +14960,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63451,30 +63511,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-pod-rzadami-czarzastego-lewica-moze-po-prostu-zniknac-opinia,nId,22487197",
       "pubDate": "Thu, 11 Dec 2025 13:49:42 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Zatrzymali 11 osób, przejęli gotówkę i samochody",
-      "link": "https://tvn24.pl/wroclaw/jelenia-gora-rozbita-grupa-przestepcza-handlujaca-nielegalnym-tytoniem-straty-skarbu-panstwa-siegaja-8-mln-zl-st8796957?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 13:48:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Myślała, że wpłaca na swoją emeryturę. ZUS zabrał jej 350 tys. zł",
-      "link": "https://businessinsider.com.pl/praca/emerytury/zus-przejal-350-tys-zl-skladek-emerytalnych-rpo-interweniuje/521lgnb",
-      "pubDate": "Thu, 11 Dec 2025 13:47:23 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Karol Nawrocki w czołgu. Sieć obiegło nietypowe nagranie z poligonu",
-      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-w-czolgu-siec-obieglo-nietypowe-nagranie-z-poligonu/5d0msxt",
-      "pubDate": "Thu, 11 Dec 2025 13:47:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Startuje nowa rządowa usługa. Każdy powinien z niej korzystać",
-      "link": "https://antyweb.pl/startuje-nowa-rzadowa-usluga-kazdy-powinien-z-niej-korzystac",
-      "pubDate": "Thu, 11 Dec 2025 13:45:48 GMT",
-      "source": "Antyweb"
     }
   ]
 }
