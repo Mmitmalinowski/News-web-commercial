@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-19T18:47:45.731Z",
+  "generatedAt": "2025-12-19T19:01:14.604Z",
   "items": [
+    {
+      "title": "Rozkochiwali w sobie kobiety, później zmuszali do prostytucji. Co najmniej kilkadziesiąt ofiar",
+      "link": "https://wiadomosci.onet.pl/lodz/lodz-rozkochiwali-w-sobie-kobiety-pozniej-zmuszali-do-prostytucji/gsrjpv3",
+      "pubDate": "Fri, 19 Dec 2025 18:54:03 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zełenski w Warszawie. Zrozumiałe obawy się nie potwierdziły – było partnersko i przyjaźnie",
+      "link": "https://oko.press/zelenski-w-warszawie-zrozumiale-obawy-sie-nie-potwierdzily-bylo-partnersko-i-przyjaznie",
+      "pubDate": "Fri, 19 Dec 2025 18:51:49 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Wybrali nowy rząd. O dalszym wsparciu dla Ukrainy mówią krótko",
+      "link": "https://tech.wp.pl/wybrali-nowy-rzad-o-dalszym-wsparciu-dla-ukrainy-mowia-krotko,7234211155417600a",
+      "pubDate": "Fri, 19 Dec 2025 19:49:47 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Mieszkali z dziećmi w lesie bez prądu i wody. Wkroczył sąd",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-mieszkali-z-dziecmi-w-lesie-bez-pradu-i-wody-wkroczyl-sad,nId,8052299",
+      "pubDate": "Fri, 19 Dec 2025 19:46:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Politico: Konflikt Tuska i Nawrockiego podważa dyplomatyczną siłę Polski",
       "link": "https://wydarzenia.interia.pl/zagranica/news-politico-konflikt-tuska-i-nawrockiego-podwaza-dyplomatyczna,nId,22501523",
@@ -217,6 +241,12 @@
       "link": "https://oko.press/nawrocki-wyszedl-z-siebie-i-stanal-obok-zelenskiego",
       "pubDate": "Fri, 19 Dec 2025 18:07:48 +0000",
       "source": "OKO.press"
+    },
+    {
+      "title": "Charlie Kirk's widow Erika endorses JD Vance for president",
+      "link": "https://www.bbc.com/news/articles/cp84p722m3do?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 18:05:23 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Ławrow uderza w europejskich przywódców. \"Trampolina do zastraszania Rosji\"",
@@ -11835,6 +11865,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -13790,6 +13844,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -62821,48 +62899,6 @@
       "link": "https://www.rmf24.pl/nauka/news-to-zmienia-historie-brytyjscy-naukowcy-odkrywaja-kto-pierwsz,nId,8049727",
       "pubDate": "Thu, 11 Dec 2025 13:06:19 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Luksusowe hotele, drogie restauracje, loty biznes klasą. Bizancjum Macieja Świrskiego",
-      "link": "https://tvn24.pl/polska/polska-fundacja-narodowa-czyli-bizancjum-macieja-swirskiego-st8795984?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 12:06:14 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Szef MON o przywróceniu poboru do wojska. \"Istnieje możliwość\"",
-      "link": "https://wiadomosci.onet.pl/kraj/szef-mon-o-przywroceniu-poboru-do-wojska-istnieje-mozliwosc/fmfnxgn",
-      "pubDate": "Thu, 11 Dec 2025 12:05:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "USA z ostrym zagraniem u wybrzeży Wenezueli. Trump otwiera nową fazę konfliktu. \"To wyraźna eskalacja\"",
-      "link": "https://wiadomosci.onet.pl/politico/usa-z-ostrym-zagraniem-u-wybrzezy-wenezueli-trump-otwiera-nowa-faze-konfliktu-to/qlme7kc",
-      "pubDate": "Thu, 11 Dec 2025 12:05:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Robert Bąkiewicz wezwany do zwrotu pieniędzy. Chodzi o setki tysięcy złotych",
-      "link": "https://wiadomosci.onet.pl/kraj/robert-bakiewicz-wezwany-do-zwrotu-pieniedzy-chodzi-o-setki-tysiecy-zlotych/3e8fnth",
-      "pubDate": "Thu, 11 Dec 2025 12:03:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Musiało się wkraść jakieś nieporozumienie\". Prezydent o przekazaniu samolotów MiG-29 Ukrainie",
-      "link": "https://www.rmf24.pl/fakty/polska/news-musialo-sie-wkrasc-jakies-nieporozumienie-prezydent-o-przeka,nId,8049723",
-      "pubDate": "Thu, 11 Dec 2025 13:02:28 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zbrojenia w Polsce. Możliwa wielka emisja obligacji PGZ na Catalyst",
-      "link": "https://www.bankier.pl/wiadomosc/Zbrojenia-w-Polsce-Mozliwa-wielka-emisja-obligacji-PGZ-na-Catalyst-9053988.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 13:02:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Szwajcaria eksperymentuje. Wizja \"europejskiego centrum bitcoina\"",
-      "link": "https://tvn24.pl/biznes/tech/bitcoin-srodkiem-platniczym-w-szwajcarii-juz-350-placowek-st8796230?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 12:01:48 GMT",
-      "source": "TVN24"
     }
   ]
 }
