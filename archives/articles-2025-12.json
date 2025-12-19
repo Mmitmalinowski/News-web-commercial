@@ -1,12 +1,30 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-19T21:54:02.579Z",
+  "generatedAt": "2025-12-19T22:14:15.333Z",
   "items": [
+    {
+      "title": "Palestinians tell BBC they were sexually abused in Israeli prisons",
+      "link": "https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 22:01:20 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Atak rakietowy Rosji na infrastrukturę portową. Są zabici i ranni",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-atak-rakietowy-rosji-na-infrastrukture-portowa-sa-zabici-i-r,nId,8052325",
+      "pubDate": "Fri, 19 Dec 2025 22:53:25 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Ogromny pożar w Stalowej Woli. Płonie hala z paliwami alternatywnymi",
       "link": "https://wiadomosci.onet.pl/rzeszow/ogromny-pozar-w-stalowej-woli-plonie-hala-z-paliwami-alternatywnymi/mgnvy24",
       "pubDate": "Fri, 19 Dec 2025 21:50:25 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Kamizelka z AI dla dzieci z ADHD. Przełomowy projekt naukowców z Hongkongu",
+      "link": "https://cyfrowa.rp.pl/technologie/art43537631-kamizelka-z-ai-dla-dzieci-z-adhd-przelomowy-projekt-naukowcow-z-hongkongu",
+      "pubDate": "Fri, 19 Dec 2025 22:49:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Napad na salon jubilerski w Nowej Hucie. Ranny sprzedawca w szpitalu",
@@ -109,6 +127,12 @@
       "link": "https://www.dw.com/en/us-justice-department-faces-deadline-to-release-epstein-files/live-75250220?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 19 Dec 2025 20:50:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Removed Ben & Jerry's chair says Magnum aimed to 'smear' her",
+      "link": "https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 20:48:44 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Skandaliczne uchylenie ENA dla Romanowskiego. Sąd wierzy Orbánowi, a rząd Tuska to kryptodyktatura",
@@ -12753,6 +12777,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14708,6 +14756,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63258,42 +63330,6 @@
       "title": "Wojciech Maziarski przechodzi na emeryturę. W dziale Opinii \"GW\" zmiana pokoleniowa",
       "link": "http://www.press.pl/tresc/90697,wojciech-maziarski-przechodzi-na-emeryture_-w-dziale-opinii-_gw_-zmiana-pokoleniowa?rss=1",
       "pubDate": "Thu, 11 Dec 2025 14:34:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Atak ukraińskich dronów na Rosję. Paraliż lotnisk i pożar ważnej fabryki pod Moskwą",
-      "link": "https://www.bankier.pl/wiadomosc/Atak-ukrainskich-dronow-na-Rosje-Paraliz-lotnisk-i-pozar-waznej-fabryki-pod-Moskwa-9054088.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 14:34:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Fugitive in Italy arrested after hiding in nativity scene as fake statue",
-      "link": "http://www.euronews.com/2025/12/11/fugitive-in-italy-arrested-after-hiding-in-nativity-scene-as-fake-statue",
-      "pubDate": "Thu, 11 Dec 2025 14:33:58 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Tennessee to execute man for 1998 rape and murder of college student",
-      "link": "https://www.theguardian.com/us-news/2025/dec/11/tennessee-harold-wayne-nichols-execution",
-      "pubDate": "Thu, 11 Dec 2025 13:33:38 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Bulgarian government resigns after mass anti-corruption protests",
-      "link": "https://www.theguardian.com/world/2025/dec/11/bulgarian-government-resigns-mass-anti-corruption-protests",
-      "pubDate": "Thu, 11 Dec 2025 13:33:19 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Fala protestów w Bułgarii. Premier podał się do dymisji",
-      "link": "https://wiadomosci.onet.pl/swiat/fala-protestow-w-bulgarii-premier-podal-sie-do-dymisji/gb67rcw",
-      "pubDate": "Thu, 11 Dec 2025 13:33:08 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Puls 2: ruszyły zdjęcia do nowej serii \"Dzielnicy strachu\". Emisja wiosną",
-      "link": "http://www.press.pl/tresc/90696,puls-2_-ruszyly-zdjecia-do-nowej-serii-_dzielnicy-strachu__-emisja-wiosna?rss=1",
-      "pubDate": "Thu, 11 Dec 2025 14:33:00 +0100",
       "source": "Press.pl"
     }
   ]

@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2025-12-19T21:54:02.909Z",
+  "generatedAt": "2025-12-19T22:14:15.643Z",
   "items": [
+    {
+      "title": "Palestinians tell BBC they were sexually abused in Israeli prisons",
+      "link": "https://www.bbc.com/news/articles/c8dy8r7lq0go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 22:01:20 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Atak rakietowy Rosji na infrastrukturę portową. Są zabici i ranni",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-atak-rakietowy-rosji-na-infrastrukture-portowa-sa-zabici-i-r,nId,8052325",
+      "pubDate": "Fri, 19 Dec 2025 22:53:25 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Ogromny pożar w Stalowej Woli. Płonie hala z paliwami alternatywnymi",
       "link": "https://wiadomosci.onet.pl/rzeszow/ogromny-pozar-w-stalowej-woli-plonie-hala-z-paliwami-alternatywnymi/mgnvy24",
       "pubDate": "Fri, 19 Dec 2025 21:50:25 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Kamizelka z AI dla dzieci z ADHD. Przełomowy projekt naukowców z Hongkongu",
+      "link": "https://cyfrowa.rp.pl/technologie/art43537631-kamizelka-z-ai-dla-dzieci-z-adhd-przelomowy-projekt-naukowcow-z-hongkongu",
+      "pubDate": "Fri, 19 Dec 2025 22:49:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Napad na salon jubilerski w Nowej Hucie. Ranny sprzedawca w szpitalu",
@@ -108,6 +126,12 @@
       "link": "https://www.dw.com/en/us-justice-department-faces-deadline-to-release-epstein-files/live-75250220?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 19 Dec 2025 20:50:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Removed Ben & Jerry's chair says Magnum aimed to 'smear' her",
+      "link": "https://www.bbc.com/news/articles/cn98pzr8x79o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 20:48:44 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Skandaliczne uchylenie ENA dla Romanowskiego. Sąd wierzy Orbánowi, a rząd Tuska to kryptodyktatura",
@@ -12752,6 +12776,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14707,6 +14755,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63260,42 +63332,6 @@
       "source": "Press.pl"
     },
     {
-      "title": "Atak ukraińskich dronów na Rosję. Paraliż lotnisk i pożar ważnej fabryki pod Moskwą",
-      "link": "https://www.bankier.pl/wiadomosc/Atak-ukrainskich-dronow-na-Rosje-Paraliz-lotnisk-i-pozar-waznej-fabryki-pod-Moskwa-9054088.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 14:34:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Fugitive in Italy arrested after hiding in nativity scene as fake statue",
-      "link": "http://www.euronews.com/2025/12/11/fugitive-in-italy-arrested-after-hiding-in-nativity-scene-as-fake-statue",
-      "pubDate": "Thu, 11 Dec 2025 14:33:58 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Tennessee to execute man for 1998 rape and murder of college student",
-      "link": "https://www.theguardian.com/us-news/2025/dec/11/tennessee-harold-wayne-nichols-execution",
-      "pubDate": "Thu, 11 Dec 2025 13:33:38 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Bulgarian government resigns after mass anti-corruption protests",
-      "link": "https://www.theguardian.com/world/2025/dec/11/bulgarian-government-resigns-mass-anti-corruption-protests",
-      "pubDate": "Thu, 11 Dec 2025 13:33:19 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Fala protestów w Bułgarii. Premier podał się do dymisji",
-      "link": "https://wiadomosci.onet.pl/swiat/fala-protestow-w-bulgarii-premier-podal-sie-do-dymisji/gb67rcw",
-      "pubDate": "Thu, 11 Dec 2025 13:33:08 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Puls 2: ruszyły zdjęcia do nowej serii \"Dzielnicy strachu\". Emisja wiosną",
-      "link": "http://www.press.pl/tresc/90696,puls-2_-ruszyly-zdjecia-do-nowej-serii-_dzielnicy-strachu__-emisja-wiosna?rss=1",
-      "pubDate": "Thu, 11 Dec 2025 14:33:00 +0100",
-      "source": "Press.pl"
-    },
-    {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
       "link": "https://pro.rp.pl/podatkowy-flesz/art43429881-podatkowy-flesz-terminy-wskazniki-i-stawki-1-7-grudnia-2025-r",
       "pubDate": "Mon, 01 Dec 2025 00:48:00 +0100",
@@ -107816,6 +107852,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -115796,6 +115856,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -148592,6 +148676,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -198104,6 +198212,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -203784,30 +203916,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/kluczowa-reforma-prawa-pracy-utknela-w-rzadzie-miliardowe-kary/g2fyzty",
       "pubDate": "Tue, 25 Nov 2025 19:24:52 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Dolar tanieje przed Świętem Dziękczynienia. Rynki czekają na decyzję Fed",
-      "link": "https://biznes.interia.pl/waluty/aktualnosci/news-kursy-walut-ile-kosztuja-dolar-euro-i-frank-we-wtorek-25-lis,nId,22460231",
-      "pubDate": "Tue, 25 Nov 2025 19:24:38 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Brazil: Ex-President Bolsonaro to remain jailed at police HQ",
-      "link": "https://www.dw.com/en/brazil-ex-president-bolsonaro-to-remain-jailed-at-police-hq/a-74897505?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 25 Nov 2025 19:22:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Ta funkcja zniknie z WhatsAppa już wkrótce. Zostało niewiele czasu",
-      "link": "https://android.com.pl/tech/995263-copilot-zniknie-z-whatsappa/",
-      "pubDate": "Tue, 25 Nov 2025 19:21:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Ranking najlepszych sklepów. Lidl wyżej niż Biedronka, Empik przed Action",
-      "link": "https://www.wirtualnemedia.pl/ranking-najlepszych-sklepow-lidl-wyzej-niz-biedronka-empik-przed-action,7225590176631328a",
-      "pubDate": "Tue, 25 Nov 2025 20:20:45 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ],
   "totalArticles": 20000,
