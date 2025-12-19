@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-19T20:40:47.263Z",
+  "generatedAt": "2025-12-19T20:52:46.490Z",
   "items": [
+    {
+      "title": "US Justice Department faces deadline to release Epstein files",
+      "link": "https://www.dw.com/en/us-justice-department-faces-deadline-to-release-epstein-files/live-75250220?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 19 Dec 2025 20:50:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Donald Trump porozumiał się z dziewięcioma firmami farmaceutycznymi ws. obniżek cen leków",
+      "link": "https://www.rp.pl/handel/art43537601-donald-trump-porozumial-sie-z-dziewiecioma-firmami-farmaceutycznymi-ws-obnizek-cen-lekow",
+      "pubDate": "Fri, 19 Dec 2025 21:47:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"W PiS już chyba nie wierzą\". W okręgu Romanowskiego \"mości sobie gniazdko inny polityk\"",
+      "link": "https://tvn24.pl/polska/sprawa-marcina-romanowskiego-i-decyzja-sadu-o-uchyleniu-ena-w-pis-juz-chyba-nie-wierza-w-niewinnosc-romanowskiego-st8810572?source=rss",
+      "pubDate": "Fri, 19 Dec 2025 20:45:58 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "A swim for unity at Bondi beach, the scene of Sydney’s darkest day. But on land tensions fray",
+      "link": "https://www.theguardian.com/news/ng-interactive/2025/dec/20/a-swim-for-unity-at-bondi-beach-the-scene-of-sydneys-darkest-day-but-on-land-tensions-fray",
+      "pubDate": "Fri, 19 Dec 2025 20:39:44 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Karambol na trasie S19. Zderzenie co najmniej 10 aut",
+      "link": "https://wydarzenia.interia.pl/lubelskie/news-karambol-na-trasie-s19-zderzenie-co-najmniej-10-aut,nId,22501585",
+      "pubDate": "Fri, 19 Dec 2025 20:39:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Nieznana infekcja pustoszy dom opieki w Rosji. Rośnie liczba ofiar",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-nieznana-infekcja-pustoszy-dom-opieki-w-rosji-rosnie-liczba-,nId,8052312",
+      "pubDate": "Fri, 19 Dec 2025 21:38:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "\"Stop dezinformacji\". Minister dementuje plotkę ws. zabójstwa 11-latki",
       "link": "https://wydarzenia.interia.pl/dolnoslaskie/news-stop-dezinformacji-minister-dementuje-plotke-ws-zabojstwa-11,nId,22501566",
@@ -77,6 +113,12 @@
     {
       "title": "Potężny karambol na S19 w Lubelskiem",
       "link": "https://www.rmf24.pl/regiony/lublin/news-potezny-karambol-na-s19-w-lubelskiem,nId,8052314",
+      "pubDate": "Fri, 19 Dec 2025 21:09:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Potężny karambol na S19 w Lubelskiem. Kilkanaście aut, wielu rannych",
+      "link": "https://www.rmf24.pl/regiony/lublin/news-potezny-karambol-na-s19-w-lubelskiem-kilkanascie-aut-wielu-r,nId,8052314",
       "pubDate": "Fri, 19 Dec 2025 21:09:00 +0100",
       "source": "RMF24"
     },
@@ -12465,6 +12507,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14420,6 +14486,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63061,60 +63151,6 @@
       "link": "https://tech.wp.pl/problemy-z-sonda-maven-to-dopiero-poczatek-wkrotce-moze-byc-gorzej,7231310166076352a",
       "pubDate": "Thu, 11 Dec 2025 14:08:33 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Islandia także rezygnuje z udziału w 70. Konkursie Piosenki Eurowizji",
-      "link": "http://www.press.pl/tresc/90700,islandia-takze-rezygnuje-z-udzialu-w-70_-konkursie-piosenki-eurowizji?rss=1",
-      "pubDate": "Thu, 11 Dec 2025 14:08:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Sharenting ma się świetnie. Rzeczniczka praw dziecka publikuje alarmujący raport",
-      "link": "https://www.rp.pl/dobra-osobiste/art43488871-sharenting-ma-sie-swietnie-rzeczniczka-praw-dziecka-publikuje-alarmujacy-raport",
-      "pubDate": "Thu, 11 Dec 2025 14:07:38 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Nie dostałem oficjalnej informacji\". Prezydent o rozmowach w sprawie MiG-ów dla Ukrainy",
-      "link": "https://tvn24.pl/polska/rozmowy-w-sprawie-mig-ow-dla-ukrainy-karol-nawrocki-nie-dostalem-oficjalnej-informacji-wladyslaw-kosiniak-kamysz-ten-temat-byl-poruszany-st8796643?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 13:07:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Pierwsze takie uderzenie od początku wojny. Ukraińcy trafili w czuły punkt",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-pierwsze-takie-uderzenie-od-poczatku-wojny-ukraincy-trafili,nId,22481592",
-      "pubDate": "Thu, 11 Dec 2025 13:06:16 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zaskakujący głos z Moskwy w sprawie NATO. \"Gotowi potwierdzić na piśmie\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-zaskakujacy-glos-z-moskwy-w-sprawie-nato-gotowi-potwierdzic,nId,22466506",
-      "pubDate": "Thu, 11 Dec 2025 13:04:14 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Polska 2050 wybierze nowego przewodniczącego. Zawalczy siedmiu kandydatów",
-      "link": "https://www.rp.pl/polityka/art43489171-polska-2050-wybierze-nowego-przewodniczacego-zawalczy-siedmiu-kandydatow",
-      "pubDate": "Thu, 11 Dec 2025 14:04:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Włodzimierz Czarzasty wystartuje w wyborach na szefa Nowej Lewicy",
-      "link": "https://www.bankier.pl/wiadomosc/Wlodzimierz-Czarzasty-wystartuje-w-wyborach-na-szefa-Nowej-Lewicy-9054055.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 14:04:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Odpady budowlane trafiły do kanału deszczowego",
-      "link": "https://tvn24.pl/lodz/lodz-zamiast-deszczowki-w-kanale-lezaly-drewniane-palety-styropian-i-plastikowe-opakowania-st8796635?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 13:03:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tatrzańskie niedźwiedzie nie chcą spać. Na śniegu widać tropy",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-tatrzanskie-niedzwiedzie-nie-chca-spac-na-sniegu-widac-tropy,nId,8049745",
-      "pubDate": "Thu, 11 Dec 2025 14:02:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
