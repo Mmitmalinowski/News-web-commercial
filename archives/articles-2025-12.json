@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-19T22:36:48.859Z",
+  "generatedAt": "2025-12-19T22:49:43.076Z",
   "items": [
+    {
+      "title": "Jak się zmienia private banking",
+      "link": "https://www.rp.pl/multimedia/art43537701-jak-sie-zmienia-private-banking",
+      "pubDate": "Fri, 19 Dec 2025 23:46:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "US to strip alleged Bosnian war criminal of citizenship",
+      "link": "https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 22:42:55 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "US launches airstrikes against dozens of Islamic State targets in Syria",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
+      "pubDate": "Fri, 19 Dec 2025 22:39:19 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "USA bombardują Państwo Islamskie. \"Atak na szeroką skalę\"",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-bombarduja-panstwo-islamskie-atak-na-szeroka-skale/xyk8z1v",
+      "pubDate": "Fri, 19 Dec 2025 22:37:39 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Karambol na drodze ekspresowej S19. Zderzyło się kilkadziesiąt aut",
       "link": "https://www.rp.pl/spoleczenstwo/art43537661-karambol-na-drodze-ekspresowej-s19-zderzylo-sie-kilkadziesiat-aut",
@@ -185,6 +209,12 @@
     {
       "title": "Karambol na trasie S19. Zderzenie co najmniej 10 aut",
       "link": "https://wydarzenia.interia.pl/lubelskie/news-karambol-na-trasie-s19-zderzenie-co-najmniej-10-aut,nId,22501585",
+      "pubDate": "Fri, 19 Dec 2025 20:39:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Karambol na trasie S19. 18 aut zderzyło się w gęstej mgle",
+      "link": "https://wydarzenia.interia.pl/lubelskie/news-karambol-na-trasie-s19-18-aut-zderzylo-sie-w-gestej-mgle,nId,22501585",
       "pubDate": "Fri, 19 Dec 2025 20:39:04 GMT",
       "source": "Interia"
     },
@@ -12843,6 +12873,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14798,6 +14852,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63325,48 +63403,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Adresy-konta-numery-rachunkow-zagrozone-wyciekiem-z-Dom-Development-Mozliwa-kradziez-danych-od-najwiekszego-dewelopera-9054093.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Thu, 11 Dec 2025 14:40:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Przestrzeń wokół kościoła ma charakter sakralny\". Awantura o karuzelę na Krupówkach",
-      "link": "https://www.bankier.pl/wiadomosc/Przestrzen-wokol-kosciola-ma-charakter-sakralny-Awantura-o-karuzele-na-Krupowkach-9054038.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 14:40:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Kometa 3I/ATLAS zbliża się do Ziemi. Obiekt zaskakuje astronomów",
-      "link": "https://www.rmf24.pl/nauka/news-kometa-3i-atlas-zbliza-sie-do-ziemi-obiekt-zaskakuje-astrono,nId,8049739",
-      "pubDate": "Thu, 11 Dec 2025 14:38:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kometa 3I/ATLAS zbliża się do Ziemi. \"To może być kosmiczny koń trojański\"",
-      "link": "https://www.rmf24.pl/nauka/news-kometa-3i-atlas-zbliza-sie-do-ziemi-to-moze-byc-kosmiczny-ko,nId,8049739",
-      "pubDate": "Thu, 11 Dec 2025 14:38:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Niebezpieczny incydent z samolotem Zełenskiego. Media donoszą, że w pobliżu pojawił się statek \"floty cieni\"",
-      "link": "https://wiadomosci.onet.pl/swiat/niebezpieczny-incydent-z-samolotem-zelenskiego-media-w-poblizu-statek-floty-cieni/trwcfsy",
-      "pubDate": "Thu, 11 Dec 2025 13:37:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Senior spędził noc w lesie. Uratowany dzięki niezwykłemu zbiegowi okoliczności",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-senior-spedzil-noc-w-lesie-uratowany-dzieki-niezwyklemu-zbie,nId,8049774",
-      "pubDate": "Thu, 11 Dec 2025 14:37:02 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ukraine updates: NATO says alliance is Russia's next target",
-      "link": "https://www.dw.com/en/ukraine-updates-nato-says-alliance-is-russia-s-next-target/live-75100132?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 11 Dec 2025 13:37:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Rząd podaje się do dymisji. W Bułgarii zwyciężyła młodość",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-rzad-podaje-sie-do-dymisji-w-bulgarii-zwyciezyla-mlodosc,nId,8049763",
-      "pubDate": "Thu, 11 Dec 2025 14:36:31 +0100",
-      "source": "RMF24"
     }
   ]
 }

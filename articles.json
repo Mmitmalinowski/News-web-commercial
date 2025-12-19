@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2025-12-19T22:36:49.194Z",
+  "generatedAt": "2025-12-19T22:49:43.396Z",
   "items": [
+    {
+      "title": "Jak się zmienia private banking",
+      "link": "https://www.rp.pl/multimedia/art43537701-jak-sie-zmienia-private-banking",
+      "pubDate": "Fri, 19 Dec 2025 23:46:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "US to strip alleged Bosnian war criminal of citizenship",
+      "link": "https://www.bbc.com/news/articles/c2k422e7ykvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 19 Dec 2025 22:42:55 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "US launches airstrikes against dozens of Islamic State targets in Syria",
+      "link": "https://www.theguardian.com/us-news/2025/dec/19/us-military-syria-airstrikes-trump",
+      "pubDate": "Fri, 19 Dec 2025 22:39:19 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "USA bombardują Państwo Islamskie. \"Atak na szeroką skalę\"",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-bombarduja-panstwo-islamskie-atak-na-szeroka-skale/xyk8z1v",
+      "pubDate": "Fri, 19 Dec 2025 22:37:39 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Karambol na drodze ekspresowej S19. Zderzyło się kilkadziesiąt aut",
       "link": "https://www.rp.pl/spoleczenstwo/art43537661-karambol-na-drodze-ekspresowej-s19-zderzylo-sie-kilkadziesiat-aut",
@@ -184,6 +208,12 @@
     {
       "title": "Karambol na trasie S19. Zderzenie co najmniej 10 aut",
       "link": "https://wydarzenia.interia.pl/lubelskie/news-karambol-na-trasie-s19-zderzenie-co-najmniej-10-aut,nId,22501585",
+      "pubDate": "Fri, 19 Dec 2025 20:39:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Karambol na trasie S19. 18 aut zderzyło się w gęstej mgle",
+      "link": "https://wydarzenia.interia.pl/lubelskie/news-karambol-na-trasie-s19-18-aut-zderzylo-sie-w-gestej-mgle,nId,22501585",
       "pubDate": "Fri, 19 Dec 2025 20:39:04 GMT",
       "source": "Interia"
     },
@@ -12842,6 +12872,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -14797,6 +14851,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -63326,48 +63404,6 @@
       "source": "Bankier.pl"
     },
     {
-      "title": "\"Przestrzeń wokół kościoła ma charakter sakralny\". Awantura o karuzelę na Krupówkach",
-      "link": "https://www.bankier.pl/wiadomosc/Przestrzen-wokol-kosciola-ma-charakter-sakralny-Awantura-o-karuzele-na-Krupowkach-9054038.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 14:40:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Kometa 3I/ATLAS zbliża się do Ziemi. Obiekt zaskakuje astronomów",
-      "link": "https://www.rmf24.pl/nauka/news-kometa-3i-atlas-zbliza-sie-do-ziemi-obiekt-zaskakuje-astrono,nId,8049739",
-      "pubDate": "Thu, 11 Dec 2025 14:38:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kometa 3I/ATLAS zbliża się do Ziemi. \"To może być kosmiczny koń trojański\"",
-      "link": "https://www.rmf24.pl/nauka/news-kometa-3i-atlas-zbliza-sie-do-ziemi-to-moze-byc-kosmiczny-ko,nId,8049739",
-      "pubDate": "Thu, 11 Dec 2025 14:38:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Niebezpieczny incydent z samolotem Zełenskiego. Media donoszą, że w pobliżu pojawił się statek \"floty cieni\"",
-      "link": "https://wiadomosci.onet.pl/swiat/niebezpieczny-incydent-z-samolotem-zelenskiego-media-w-poblizu-statek-floty-cieni/trwcfsy",
-      "pubDate": "Thu, 11 Dec 2025 13:37:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Senior spędził noc w lesie. Uratowany dzięki niezwykłemu zbiegowi okoliczności",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-senior-spedzil-noc-w-lesie-uratowany-dzieki-niezwyklemu-zbie,nId,8049774",
-      "pubDate": "Thu, 11 Dec 2025 14:37:02 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ukraine updates: NATO says alliance is Russia's next target",
-      "link": "https://www.dw.com/en/ukraine-updates-nato-says-alliance-is-russia-s-next-target/live-75100132?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 11 Dec 2025 13:37:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Rząd podaje się do dymisji. W Bułgarii zwyciężyła młodość",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-rzad-podaje-sie-do-dymisji-w-bulgarii-zwyciezyla-mlodosc,nId,8049763",
-      "pubDate": "Thu, 11 Dec 2025 14:36:31 +0100",
-      "source": "RMF24"
-    },
-    {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
       "link": "https://pro.rp.pl/podatkowy-flesz/art43429881-podatkowy-flesz-terminy-wskazniki-i-stawki-1-7-grudnia-2025-r",
       "pubDate": "Mon, 01 Dec 2025 00:48:00 +0100",
@@ -107936,6 +107972,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -115916,6 +115976,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -148760,6 +148844,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -198368,6 +198476,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -204000,30 +204132,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/szefowa-ke-po-spotkaniu-koalicji-chetnych-bedziemy-zwiekszac-presje-na-rosje/p8lkqkk",
       "pubDate": "Tue, 25 Nov 2025 19:34:27 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "137 – najbardziej przerażająca liczba w Dniu Eliminacji Przemocy Wobec Kobiet",
-      "link": "https://kobieta.rp.pl/styl-zycia/art43399271-137-najbardziej-przerazajaca-liczba-w-dniu-eliminacji-przemocy-wobec-kobiet",
-      "pubDate": "Tue, 25 Nov 2025 20:33:52 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Pomylił trasę, jechał miejskim autobusem po chodniku ",
-      "link": "https://tvn24.pl/tvnwarszawa/ursynow/warszawa-autobus-jechal-po-chodniku-kierowca-ma-zostac-ukarany-st8771198?source=rss",
-      "pubDate": "Tue, 25 Nov 2025 19:32:05 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Świetna wiadomość dla fanów Yellowstone. Ten zwiastun to petarda!",
-      "link": "https://antyweb.pl/swietna-wiadomosc-dla-fanow-yellowstone-ten-zwiastun-to-petarda",
-      "pubDate": "Tue, 25 Nov 2025 19:32:02 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Kijów publikuje nieaktualne mapy. Jak naprawdę wygląda sytuacja na froncie?",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-kijow-publikuje-nieaktualne-mapy-jak-naprawde-wyglada-sytuac,nId,8043925",
-      "pubDate": "Tue, 25 Nov 2025 20:30:00 +0100",
-      "source": "RMF24"
     }
   ],
   "totalArticles": 20000,
