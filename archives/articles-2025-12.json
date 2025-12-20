@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T23:00:37.822Z",
+  "generatedAt": "2025-12-20T23:26:31.442Z",
   "items": [
+    {
+      "title": "Zmarła Gabriela Andrychowicz, była prezenterka Chillizet",
+      "link": "http://www.press.pl/tresc/90820,zmarla-gabriela-andrychowicz_-byla-prezenterka-chillizet?rss=1",
+      "pubDate": "Sun, 21 Dec 2025 00:06:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "USA przejęły tankowiec u wybrzeży Wenezueli. W tle walka karteli narkotykowych",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-przejely-tankowiec-u-wybrzezy-wenezueli-w-tle-walka-karteli-narkotykowych/cyrtlhf",
+      "pubDate": "Sat, 20 Dec 2025 23:01:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "This billionaire tested China's limits. It cost him his freedom",
+      "link": "https://www.bbc.com/news/articles/c5yqr485d84o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 20 Dec 2025 22:58:58 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Weekendowa Lektura: odcinek 655 [2025-12-20]. Bierzcie i czytajcie",
       "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-655-2025-12-20-bierzcie-i-czytajcie/",
@@ -18177,6 +18195,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -20132,6 +20174,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66145,36 +66211,6 @@
       "link": "https://wiadomosci.onet.pl/warszawa/naklanial-12-latke-do-seksu-zatrzymala-go-policja/14jr4nx",
       "pubDate": "Fri, 12 Dec 2025 06:00:42 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Met police face independent inquiry over fears 300 recruits not properly vetted",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/12/met-police-face-independent-inquiry-over-fears-300-recruits-not-properly-vetted",
-      "pubDate": "Fri, 12 Dec 2025 06:00:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Guardian charity appeal donations top £200,000 before annual telethon",
-      "link": "https://www.theguardian.com/society/2025/dec/12/guardian-charity-appeal-donations-top-200000-before-annual-telethon",
-      "pubDate": "Fri, 12 Dec 2025 06:00:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Latest news bulletin | December 12th, 2025 – Morning",
-      "link": "http://www.euronews.com/video/2025/12/12/latest-news-bulletin-december-12th-2025-morning",
-      "pubDate": "Fri, 12 Dec 2025 07:00:33 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Millions live in cold houses in Europe: Where is fuel poverty worst?",
-      "link": "http://www.euronews.com/business/2025/12/12/millions-live-in-cold-houses-in-europe-where-is-fuel-poverty-worst",
-      "pubDate": "Fri, 12 Dec 2025 07:00:21 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Chciał umówić się z 12-latką. Policjanci zapukali o 6:00",
-      "link": "https://www.rmf24.pl/regiony/olsztyn/news-chcial-umowic-sie-z-12-latka-policjanci-zapukali-o-6-00,nId,8049891",
-      "pubDate": "Fri, 12 Dec 2025 07:00:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
