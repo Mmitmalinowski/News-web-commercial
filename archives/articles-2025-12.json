@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T22:51:31.582Z",
+  "generatedAt": "2025-12-20T23:00:37.822Z",
   "items": [
+    {
+      "title": "Weekendowa Lektura: odcinek 655 [2025-12-20]. Bierzcie i czytajcie",
+      "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-655-2025-12-20-bierzcie-i-czytajcie/",
+      "pubDate": "Sat, 20 Dec 2025 22:55:39 +0000",
+      "source": "Zaufana Trzecia Strona"
+    },
     {
       "title": "Świąteczne życzenia z głębin. Przystrojona choinka na dnie jeziora",
       "link": "https://www.rmf24.pl/fakty/swiat/news-swiateczne-zyczenia-z-glebin-przystrojona-choinka-na-dnie-je,nId,8052401",
@@ -18147,6 +18153,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -20102,6 +20132,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66121,24 +66175,6 @@
       "link": "https://www.rmf24.pl/regiony/olsztyn/news-chcial-umowic-sie-z-12-latka-policjanci-zapukali-o-6-00,nId,8049891",
       "pubDate": "Fri, 12 Dec 2025 07:00:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Ambasador Ukrainy w Polsce potwierdza informacje ws. spotkania Zełenski-Nawrocki",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-ambasador-ukrainy-w-polsce-potwierdza-informacje-ws-spotkani,nId,8049863",
-      "pubDate": "Fri, 12 Dec 2025 07:00:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Spółka Do Rzeczy w drugiej publicznej emisji akcji pozyskała 1,13 mln zł",
-      "link": "http://www.press.pl/tresc/90708,spolka-do-rzeczy-w-drugiej-publicznej-emisji-akcji-pozyskala-1_13-mln-zl?rss=1",
-      "pubDate": "Fri, 12 Dec 2025 07:00:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Constantin Entertainment Polska wyprodukuje dla SkyShowtime dokument o Edycie Górniak",
-      "link": "http://www.press.pl/tresc/90709,constantin-entertainment-polska-wyprodukuje-dla-skyshowtime-dokument-o-edycie-gorniak?rss=1",
-      "pubDate": "Fri, 12 Dec 2025 07:00:00 +0100",
-      "source": "Press.pl"
     }
   ]
 }
