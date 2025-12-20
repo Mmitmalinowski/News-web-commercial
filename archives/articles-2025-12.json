@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T14:35:47.145Z",
+  "generatedAt": "2025-12-20T14:46:57.639Z",
   "items": [
+    {
+      "title": "Firefox ustępuje pod naciskiem użytkowników. W przeglądarce pojawi się wyłącznik AI",
+      "link": "https://android.com.pl/tech/1003233-firefox-z-wylacznikiem-funkcji-ai/",
+      "pubDate": "Sat, 20 Dec 2025 14:44:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Pakistan sentences ex-PM Imran Khan, wife Bushra Bibi to 17 years in prison",
+      "link": "https://www.dw.com/en/pakistan-sentences-ex-pm-imran-khan-wife-bushra-bibi-to-17-years-in-prison/a-75253492?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 20 Dec 2025 14:42:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Orange kończy rok z przytupem. Duże przejęcie w toku",
+      "link": "https://www.tabletowo.pl/orange-konczy-rok-z-przytupem-duze-przejecie-w-toku/",
+      "pubDate": "Sat, 20 Dec 2025 14:41:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Kupujący mieszkania wcale się nie spieszą",
+      "link": "https://www.rp.pl/nieruchomosci-mieszkaniowe/art43541281-kupujacy-mieszkania-wcale-sie-nie-spiesza",
+      "pubDate": "Sat, 20 Dec 2025 15:39:38 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Co papież robi, kiedy nie może spać? Włoskie media ujawniają",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/co-papiez-robi-kiedy-nie-moze-spac-wloskie-media-ujawniaja/",
@@ -16377,6 +16401,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -18332,6 +18380,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64915,42 +64987,6 @@
       "link": "https://wydarzenia.interia.pl/ciekawostki/news-turysci-musza-zaplacic-by-zobaczyc-slynne-miejsce-hanba,nId,22497603",
       "pubDate": "Thu, 11 Dec 2025 21:28:55 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Polak w bmw uszkodził torowisko i uciekł. Straty wyliczono na 220 tys. euro",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-polak-w-bmw-uszkodzil-torowisko-i-uciekl-straty-wyliczono-na,nId,22497606",
-      "pubDate": "Thu, 11 Dec 2025 21:20:07 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Kampanie świąteczne bardziej efektywne? Nowe aktualizacje YouTube Shorts",
-      "link": "https://www.wirtualnemedia.pl/kampanie-swiateczne-bardziej-efektywne-nowe-aktualizacje-youtube-shorts,7231398647475104a",
-      "pubDate": "Thu, 11 Dec 2025 22:19:06 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Liga Konferencji. Z Armenii na tarczy, w Białymstoku bez kompleksów",
-      "link": "https://sport.rp.pl/pilka-nozna/art43492521-liga-konferencji-z-armenii-na-tarczy-w-bialymstoku-bez-kompleksow",
-      "pubDate": "Thu, 11 Dec 2025 22:17:28 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "To była bezsenna noc dla Kremla. Moskwa w panice, infrastruktura Putina w ogniu. Ujawniamy szczegóły spektakularnej operacji Ukrainy",
-      "link": "https://wiadomosci.onet.pl/swiat/to-byla-bezsenna-noc-dla-kremla-moskwa-w-panice-infrastruktura-putina-w-ogniu/bhsml41",
-      "pubDate": "Thu, 11 Dec 2025 21:17:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Budżet Kancelarii Prezydenta zostanie uszczuplony? W tle prezydenckie weto",
-      "link": "https://www.rmf24.pl/news-budzet-kancelarii-prezydenta-zostanie-uszczuplony-w-tle-prez,nId,8049875",
-      "pubDate": "Thu, 11 Dec 2025 22:14:42 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Edelman zatrudnia Annę Vogt na stanowisko global chief strategy officer",
-      "link": "https://www.wirtualnemedia.pl/edelman-zatrudnia-anne-vogt-na-stanowisko-global-chief-strategy-officer,7231397853375424a",
-      "pubDate": "Thu, 11 Dec 2025 22:09:52 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
