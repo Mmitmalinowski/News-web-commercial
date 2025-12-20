@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T21:51:48.137Z",
+  "generatedAt": "2025-12-20T22:00:52.766Z",
   "items": [
+    {
+      "title": "„WSJ”: Jak Witkoff został głównym negocjatorem Trumpa w sprawie Ukrainy. „Przyjedź sam, bez CIA”",
+      "link": "https://www.rp.pl/polityka/art43541831-wsj-jak-witkoff-zostal-glownym-negocjatorem-trumpa-w-sprawie-ukrainy-przyjedz-sam-bez-cia",
+      "pubDate": "Sat, 20 Dec 2025 22:51:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Michał Urbaniak nie żyje. Dziennikarze wspominają wielkiego muzyka",
       "link": "https://tvn24.pl/kultura-i-styl/michal-urbaniak-nie-zyje-dziennikarze-wspominaja-wielkiego-muzyka-st8811561?source=rss",
@@ -18033,6 +18039,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -19988,6 +20018,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65977,24 +66031,6 @@
       "link": "https://wiadomosci.onet.pl/bialystok/walka-o-wplywy-w-podlaskim-pis-jackowi-sasinowi-wyrasta-powazny-konkurent/4qrmm60",
       "pubDate": "Fri, 12 Dec 2025 05:54:52 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Emerytura w wieku 45 lat z dywidendy. Tak buduje się 30 tys. zł dochodu pasywnego [GOTOWE PORTFELE]",
-      "link": "https://businessinsider.com.pl/gielda/emerytura-w-wieku-45-lat-z-dywidendy-tak-buduje-sie-30-tys-zl-dochodu-pasywnego/kczkh5v",
-      "pubDate": "Fri, 12 Dec 2025 05:53:32 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Zwrot na Węgrzech, media piszą o lęku przed rosyjskim wpływem. Podano wynik sondażu",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-12/zwrot-na-wegrzech-media-pisza-o-leku-przed-rosyjskim-wplywem-podano-wynik-sondazu/",
-      "pubDate": "Fri, 12 Dec 2025 06:53:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Plastry na dłoni Donalda Trumpa wywołały lawinę pytań. Rzeczniczka tłumaczy",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-plastry-na-dloni-donalda-trumpa-wywolaly-lawine-pytan-rzeczn,nId,8049893",
-      "pubDate": "Fri, 12 Dec 2025 06:53:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
