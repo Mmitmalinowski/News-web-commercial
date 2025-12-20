@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T22:00:52.766Z",
+  "generatedAt": "2025-12-20T22:27:14.789Z",
   "items": [
+    {
+      "title": "Tak Putin testował człowieka Trumpa. Media ujawniają zdumiewające fakty",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tak-putin-testowal-czlowieka-trumpa-media-ujawniaja-zdumiewa,nId,22501735",
+      "pubDate": "Sat, 20 Dec 2025 21:58:39 GMT",
+      "source": "Interia"
+    },
     {
       "title": "„WSJ”: Jak Witkoff został głównym negocjatorem Trumpa w sprawie Ukrainy. „Przyjedź sam, bez CIA”",
       "link": "https://www.rp.pl/polityka/art43541831-wsj-jak-witkoff-zostal-glownym-negocjatorem-trumpa-w-sprawie-ukrainy-przyjedz-sam-bez-cia",
@@ -18063,6 +18069,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -20018,6 +20048,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66012,24 +66066,6 @@
       "title": "Brudna limuzyna dla Karola Nawrockiego wywołała burzę w sieci. MSZ odpowiada na zarzuty",
       "link": "https://wiadomosci.onet.pl/kraj/brudna-limuzyna-dla-karola-nawrockiego-msz-odpiera-zarzuty/9nts544",
       "pubDate": "Fri, 12 Dec 2025 05:56:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Najpierw głośny huk\". Turbina wiatrowa spłonęła w Zachodniopomorskiem",
-      "link": "https://tvn24.pl/polska/najpierw-glosny-huk-turbina-wiatrowa-splonela-w-zachodniopomorskiem-st8797735?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 05:56:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Niesamowite odkrycie nurków we Francji. Konstrukcja ma 7 tys. lat",
-      "link": "https://wydarzenia.interia.pl/ciekawostki/news-niesamowite-odkrycie-nurkow-we-francji-konstrukcja-ma-7-tys,nId,22497634",
-      "pubDate": "Fri, 12 Dec 2025 05:55:44 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Walka o wpływy w podlaskim PiS. Jackowi Sasinowi wyrasta poważny konkurent",
-      "link": "https://wiadomosci.onet.pl/bialystok/walka-o-wplywy-w-podlaskim-pis-jackowi-sasinowi-wyrasta-powazny-konkurent/4qrmm60",
-      "pubDate": "Fri, 12 Dec 2025 05:54:52 GMT",
       "source": "Onet"
     }
   ]
