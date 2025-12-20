@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T14:46:57.639Z",
+  "generatedAt": "2025-12-20T14:56:15.818Z",
   "items": [
+    {
+      "title": "Pociski CAMM dla Polski. Współpraca, której nam brakowało",
+      "link": "https://tech.wp.pl/pociski-camm-dla-polski-wspolpraca-ktorej-nam-brakowalo,7230168788089792a",
+      "pubDate": "Sat, 20 Dec 2025 15:51:31 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Pogoda na Wigilię i Boże Narodzenie. Tu święta mogą być białe",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-swieta-prognoza-na-wigilie-i-boze-narodzenie-czy-jest-szansa-na-snieg-st8811332?source=rss",
+      "pubDate": "Sat, 20 Dec 2025 14:48:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ukraina dostała pieniądze, a Putin prezent od Europy. \"Znowu daliśmy się zastraszyć Rosji\"",
+      "link": "https://wiadomosci.onet.pl/swiat/unia-europejska-pozycza-ukrainie-miliardy-ekspertka-putin-dostal-prezent/hkyzd62",
+      "pubDate": "Sat, 20 Dec 2025 14:46:57 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Firefox ustępuje pod naciskiem użytkowników. W przeglądarce pojawi się wyłącznik AI",
       "link": "https://android.com.pl/tech/1003233-firefox-z-wylacznikiem-funkcji-ai/",
@@ -16425,6 +16443,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -18380,6 +18422,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64957,36 +65023,6 @@
       "link": "https://www.wirtualnemedia.pl/coca-cola-z-nowym-prezesem-henrique-braun-obejmie-stery-w-2026-r,7231389290908576a",
       "pubDate": "Thu, 11 Dec 2025 22:56:21 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Gas explosion in San Francisco Bay Area injures at least six people",
-      "link": "https://www.theguardian.com/us-news/2025/dec/11/gas-explosion-san-francisco-bay-area",
-      "pubDate": "Thu, 11 Dec 2025 21:55:04 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Ostre słowa premiera Słowacji w kierunku UE. \"Jeśli ma zginąć, niech ginie\"",
-      "link": "https://wiadomosci.onet.pl/swiat/premier-slowacji-napisal-list-jesli-ue-ma-zginac-to-niech-ginie/dt1p84r",
-      "pubDate": "Thu, 11 Dec 2025 21:46:46 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Groźny wypadek w Krakowie. Są ranni",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-grozny-wypadek-w-krakowie-sa-ranni,nId,8049878",
-      "pubDate": "Thu, 11 Dec 2025 22:40:48 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "ZUS nie zgodził się na odroczenie składek JSW za listopad i grudzień",
-      "link": "https://www.bankier.pl/wiadomosc/ZUS-nie-zgodzil-sie-na-odroczenie-skladek-JSW-za-listopad-i-grudzien-9054407.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 11 Dec 2025 22:40:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Turyści muszą zapłacić, by zobaczyć słynne miejsce. \"Hańba\"",
-      "link": "https://wydarzenia.interia.pl/ciekawostki/news-turysci-musza-zaplacic-by-zobaczyc-slynne-miejsce-hanba,nId,22497603",
-      "pubDate": "Thu, 11 Dec 2025 21:28:55 GMT",
-      "source": "Interia"
     }
   ]
 }
