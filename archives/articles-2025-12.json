@@ -1,12 +1,48 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T07:45:30.425Z",
+  "generatedAt": "2025-12-20T07:55:05.350Z",
   "items": [
+    {
+      "title": "Coś uderzyło w Księżyc. Europejskie obserwatorium uchwyciło moment kolizji",
+      "link": "https://www.chip.pl/2025/12/uderzenie-w-ksiezyc-geminidy-obserwatorium",
+      "pubDate": "Sat, 20 Dec 2025 07:53:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "8 osób nie żyje, 27 jest rannych. Potężny atak na Odessę",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-8-osob-nie-zyje-27-jest-rannych-potezny-atak-na-odesse,nId,8052339",
+      "pubDate": "Sat, 20 Dec 2025 08:49:22 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Polski konsulat zdewastowany. Sprawcy wypisali obraźliwe hasła",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-polski-konsulat-zdewastowany-sprawcy-wypisali-obrazliwe-hasl,nId,22501613",
+      "pubDate": "Sat, 20 Dec 2025 07:47:56 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Mgła przysłoni pół kraju. Dla kilku województw wydano ostrzeżenia",
+      "link": "https://wydarzenia.interia.pl/kraj/news-mgla-przysloni-pol-kraju-dla-kilku-wojewodztw-wydano-ostrzez,nId,22501605",
+      "pubDate": "Sat, 20 Dec 2025 07:45:43 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Elektryczny sen pick-upów właśnie się kończy. Ameryka wraca do V8",
+      "link": "https://moto.rp.pl/na-prad/art43540481-elektryczny-sen-pick-upow-wlasnie-sie-konczy-ameryka-wraca-do-v8",
+      "pubDate": "Sat, 20 Dec 2025 08:45:14 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Abonament RTV 2026. Co planuje rząd i ile za to zapłacimy? ",
       "link": "https://biznes.interia.pl/finanse/news-abonament-rtv-2026-co-planuje-rzad-i-ile-za-to-zaplacimy-zle,nId,22499029",
       "pubDate": "Sat, 20 Dec 2025 07:44:01 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ogromny karambol na S19. Droga w stronę Rzeszowa już przejezdna",
+      "link": "https://wiadomosci.onet.pl/lublin/ogromny-karambol-na-s19-w-stojeszynie-droga-w-strone-rzeszowa-juz-przejezdna/gpm11f2",
+      "pubDate": "Sat, 20 Dec 2025 07:42:16 GMT",
+      "source": "Onet"
     },
     {
       "title": "Oto najwięksi polityczni przegrani i zwycięzcy 2025 r. [SONDAŻ]",
@@ -55,6 +91,12 @@
       "link": "https://www.theguardian.com/business/2025/dec/20/retailers-hope-weekend-will-bring-christmas-cheer-uk-sales",
       "pubDate": "Sat, 20 Dec 2025 07:30:29 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Szefernaker: Czekamy na realizację ustaleń tej wizyty",
+      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa/news-szefernaker-czekamy-na-realizacje-ustalen-tej-wizyty,nId,8052259",
+      "pubDate": "Sat, 20 Dec 2025 08:30:00 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Belgia zagrała va banque i wygrała. Tak Bart De Wever pokonał machinę UE. Walka za zamkniętymi drzwiami trwała do ostatniej chwili",
@@ -14397,6 +14439,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -16352,6 +16418,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64069,60 +64159,6 @@
       "link": "https://www.theguardian.com/society/2025/dec/11/hope-grows-england-resident-doctors-will-cancel-strike-after-new-government-offer",
       "pubDate": "Thu, 11 Dec 2025 16:07:07 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Berlusconi's MFE backs Paramount over Netflix in Warner Bros ownership battle",
-      "link": "http://www.euronews.com/business/2025/12/11/berlusconis-mfe-backs-paramount-over-netflix-in-warner-bros-ownership-battle",
-      "pubDate": "Thu, 11 Dec 2025 17:05:34 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Kenyan woman hugs tree for 72 hours, breaks own record",
-      "link": "https://www.dw.com/en/kenyan-woman-hugs-tree-for-72-hours-breaks-own-record/a-75116462?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 11 Dec 2025 16:05:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Zmiany i awanse w Agencji 2012",
-      "link": "https://www.wirtualnemedia.pl/zmiany-i-awanse-w-agencji-2012,7231260209322944a",
-      "pubDate": "Thu, 11 Dec 2025 17:03:51 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Cameras on killer whales record first evidence of joint hunt with dolphins ",
-      "link": "https://www.bbc.com/news/videos/ceq1000742go?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 11 Dec 2025 16:01:59 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Mickey Mouse meets ChatGPT: Disney signs short video deal with OpenAI",
-      "link": "http://www.euronews.com/business/2025/12/11/mickey-mouse-meets-chatgpt-disney-signs-short-video-deal-with-openai",
-      "pubDate": "Thu, 11 Dec 2025 17:01:21 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Nie miała okularów, próbowała przekupić egzaminatora",
-      "link": "https://tvn24.pl/lubuskie/zielona-gora-nie-wziela-okularow-probowala-przekupic-egzaminatora-st8797313?source=rss",
-      "pubDate": "Thu, 11 Dec 2025 16:01:12 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Swiss yodeling, yurt-making, Turkmen Alabay join UNESCO list",
-      "link": "https://www.dw.com/en/swiss-yodeling-yurt-making-turkmen-alabay-join-unesco-list/a-75108008?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 11 Dec 2025 16:01:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "‘Censorship pure and simple’: critics hit out at Trump plan to vet visitors’ social media",
-      "link": "https://www.theguardian.com/us-news/2025/dec/11/trump-plan-vet-us-visitors-social-media-tourism",
-      "pubDate": "Thu, 11 Dec 2025 16:00:18 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"Prawdziwy przyjaciel\". Oświadczenie Tuska po spotkaniu z ambasadorem USA",
-      "link": "https://wydarzenia.interia.pl/kraj/news-prawdziwy-przyjaciel-oswiadczenie-tuska-po-spotkaniu-z-ambas,nId,22497515",
-      "pubDate": "Thu, 11 Dec 2025 16:00:13 GMT",
-      "source": "Interia"
     }
   ]
 }
