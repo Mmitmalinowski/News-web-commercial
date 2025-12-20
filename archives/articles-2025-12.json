@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T21:16:06.650Z",
+  "generatedAt": "2025-12-20T21:31:13.013Z",
   "items": [
+    {
+      "title": "Podejrzany rosyjski statek u wybrzeży Szwecji. Nadał sygnał SOS",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-podejrzany-rosyjski-statek-u-wybrzezy-szwecji-nadal-sygnal-s,nId,22501730",
+      "pubDate": "Sat, 20 Dec 2025 21:22:42 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Pokój w Strefie Gazy. Człowiek Donalda Trumpa przekazał nowe informacje",
+      "link": "https://wiadomosci.onet.pl/swiat/pokoj-w-strefie-gazy-czlowiek-donalda-trumpa-przekazal-nowe-informacje/el50ybh",
+      "pubDate": "Sat, 20 Dec 2025 21:19:32 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Akcja Amerykanów u wybrzeży Wenezueli. Kontrola nad tankowcem przejęta",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-akcja-amerykanow-u-wybrzezy-wenezueli-kontrola-nad-tankowcem,nId,22501727",
+      "pubDate": "Sat, 20 Dec 2025 21:16:38 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Radosław Sikorski uderza w liderów Konfederacji. Odniósł się do dwóch spraw. \"Bzdura\"",
+      "link": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-uderza-w-liderow-konfederacji-odniosl-sie-do-dwoch-spraw-bzdura/4td48vb",
+      "pubDate": "Sat, 20 Dec 2025 21:12:55 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Bondi terror attack updates: Australia marks day of mourning one week on from shooting",
       "link": "https://www.theguardian.com/australia-news/live/2025/dec/21/bondi-beach-terror-attack-one-week-anniversary-day-of-reflection-reactions-sydney-vigil-memorial-nsw-protest-laws-police-powers-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
@@ -17913,6 +17937,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -19868,6 +19916,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65851,42 +65923,6 @@
       "link": "https://android.com.pl/tech/995405-wikipedia-w-kryzysie-trwa-wojna/",
       "pubDate": "Fri, 12 Dec 2025 05:50:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Trump naciska na wybory prezydenckie. \"Bądź realistą, przegrywasz wojnę\"",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-naciska-na-wybory-prezydenckie-Badz-realista-przegrywasz-wojne-9054384.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 06:47:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Większa niż Baldur's Gate 3. Larian Studios mają rozmach",
-      "link": "https://antyweb.pl/wieksza-niz-baldurs-gate-3-larian-studios-maja-rozmach",
-      "pubDate": "Fri, 12 Dec 2025 05:45:37 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "„Plus Minus” w Borodziance. Ukraińska prowincja wyrwana z rosyjskiej okupacji",
-      "link": "https://www.rp.pl/plus-minus/art43489571-plus-minus-w-borodziance-ukrainska-prowincja-wyrwana-z-rosyjskiej-okupacji",
-      "pubDate": "Fri, 12 Dec 2025 06:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "USA konfiskują ropę z przejętego tankowca. \"Surowiec z czarnego rynku”",
-      "link": "https://www.bankier.pl/wiadomosc/USA-konfiskuja-rope-z-przejetego-tankowca-Surowiec-z-czarnego-rynku-9054377.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 06:44:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Flood misery for Gazans awaiting next stage of peace plan",
-      "link": "https://www.bbc.com/news/articles/c2lvplrxpe9o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 05:43:02 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Maduro says Trump wants Venezuela's oil. But is that the real US goal?",
-      "link": "https://www.bbc.com/news/articles/cy95pr790pro?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 05:42:29 GMT",
-      "source": "BBC News"
     }
   ]
 }
