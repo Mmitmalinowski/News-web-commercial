@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T16:42:33.213Z",
+  "generatedAt": "2025-12-20T16:54:10.364Z",
   "items": [
+    {
+      "title": "Ukraina otworzyła \"nowy front\". Rosja zaskoczona, może dojść do zwrotu",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-otworzyla-nowy-front-rosja-zaskoczona-moze-dojsc-do,nId,22501700",
+      "pubDate": "Sat, 20 Dec 2025 16:46:12 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Wszyscy \"za\". Niecodzienne głosowanie w Sejmie",
       "link": "https://www.rmf24.pl/polityka/news-wszyscy-za-niecodzienne-glosowanie-w-sejmie,nId,8052380",
@@ -16923,6 +16929,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -18878,6 +18908,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65220,24 +65274,6 @@
       "title": "Kondycja wymiaru sprawiedliwości za czasów Bodnara i Żurka praktycznie bez poprawy",
       "link": "https://www.rp.pl/sady-i-trybunaly/art43487881-kondycja-wymiaru-sprawiedliwosci-za-czasow-bodnara-i-zurka-praktycznie-bez-poprawy",
       "pubDate": "Fri, 12 Dec 2025 04:36:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Donald Trump zapowiada \"działania\" w Wenezueli. \"Wkrótce je rozpoczniemy\"",
-      "link": "https://wiadomosci.onet.pl/swiat/zapowiedz-dzialan-usa-w-wenezueli-trump-wkrotce-je-rozpoczniemy/dngpvhq",
-      "pubDate": "Fri, 12 Dec 2025 03:35:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Thailand set for early elections as PM dissolves parliament",
-      "link": "https://www.dw.com/en/thailand-set-for-early-elections-as-pm-dissolves-parliament/a-75120588?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 03:33:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kalendarium sporu o funkcjonowanie wymiaru sprawiedliwości w Polsce",
-      "link": "https://www.rp.pl/sady-i-trybunaly/art43491721-kalendarium-sporu-o-funkcjonowanie-wymiaru-sprawiedliwosci-w-polsce",
-      "pubDate": "Fri, 12 Dec 2025 04:31:00 +0100",
       "source": "Rzeczpospolita"
     }
   ]
