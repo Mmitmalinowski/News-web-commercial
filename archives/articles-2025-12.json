@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T15:17:52.952Z",
+  "generatedAt": "2025-12-20T15:34:00.050Z",
   "items": [
+    {
+      "title": "mObywatel ma dla nas prezent na Sylwestra. Jakże wspaniały",
+      "link": "https://spidersweb.pl/2025/12/wirtualny-asystent-mobywatel.html",
+      "pubDate": "Sat, 20 Dec 2025 16:30:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Niebezpiecznie na drogach. Alarmy IMGW dla 14 województw",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-20-21-12-gesta-mgla-niebezpiecznie-na-drogach-st8811364?source=rss",
+      "pubDate": "Sat, 20 Dec 2025 15:27:53 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Moc \"brzydkich słów\". Przekleństwa mogą działać jak naturalny dopalacz",
+      "link": "https://geekweek.interia.pl/nauka/news-moc-brzydkich-slow-przeklenstwa-moga-dzialac-jak-naturalny-d,nId,22501341",
+      "pubDate": "Sat, 20 Dec 2025 15:20:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Hurtowo kradli dane Google'a. A przy okazji rzucili cień na praktyki giganta",
+      "link": "https://spidersweb.pl/2025/12/google-serpapi-dane.html",
+      "pubDate": "Sat, 20 Dec 2025 16:20:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Ukraina uszkodziła rosyjski „tankowiec widmo”",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/ukraina-uszkodzila-rosyjski-tankowiec-widmo",
+      "pubDate": "Sat, 20 Dec 2025 15:15:20 +0000",
+      "source": "OKO.press"
+    },
     {
       "title": "Ogromny wzrost cen. Kupił komputer z większym RAM-em i nie żałuje",
       "link": "https://tech.wp.pl/s/gryonline-pl/ogromny-wzrost-cen-kupil-komputer-z-wiekszym-ram-em-i-nie-zaluje,7234132430403201a",
@@ -37,6 +67,12 @@
       "link": "https://tech.wp.pl/znalazl-go-mysliwy-niemiecki-mysliwiec-przelezal-tam-prawie-50-lat,7234522887330784a",
       "pubDate": "Sat, 20 Dec 2025 16:01:04 +0100",
       "source": "Tech WP.pl"
+    },
+    {
+      "title": "Merry boycotting: US shoppers avoid Trump-aligned businesses amid holiday season",
+      "link": "https://www.theguardian.com/us-news/2025/dec/20/shoppers-boycott-holiday-season-trump-economy",
+      "pubDate": "Sat, 20 Dec 2025 15:00:32 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Kolejna runda rozmów z Rosją na Florydzie. W negocjacje może włączyć się sekretarz stanu USA",
@@ -127,6 +163,12 @@
       "link": "https://www.rp.pl/nieruchomosci-mieszkaniowe/art43541281-kupujacy-mieszkania-wcale-sie-nie-spiesza",
       "pubDate": "Sat, 20 Dec 2025 15:39:38 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wszyscy dają zniżki na paliwo. Na której stacji będzie najtaniej?",
+      "link": "https://antyweb.pl/wszyscy-daja-znizki-na-paliwo-na-ktorej-stacji-bedzie-najtaniej",
+      "pubDate": "Sat, 20 Dec 2025 14:30:02 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Co papież robi, kiedy nie może spać? Włoskie media ujawniają",
@@ -16587,6 +16629,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -18542,6 +18608,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65005,60 +65095,6 @@
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-12-12-miejscami-popada-i-beda-snuc-sie-mgly-st8797602?source=rss",
       "pubDate": "Fri, 12 Dec 2025 01:00:00 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Thailand set for early elections amid political deadlock and Cambodia skirmishes",
-      "link": "https://www.theguardian.com/world/2025/dec/12/thailand-set-for-early-elections-cambodia-clashes",
-      "pubDate": "Fri, 12 Dec 2025 00:51:59 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Trump signs executive order aimed at preventing states from regulating AI",
-      "link": "https://www.theguardian.com/us-news/2025/dec/11/trump-executive-order-artificial-intelligence",
-      "pubDate": "Fri, 12 Dec 2025 00:47:14 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Donald Trump rozważa rezygnację z rozmowy o Ukrainie. \"Nie chcemy tracić czasu\"",
-      "link": "https://wiadomosci.onet.pl/swiat/trump-wprost-nie-wiem-czy-wezmiemy-udzial-w-spotkaniu-na-temat-ukrainy/0qfqkgf",
-      "pubDate": "Fri, 12 Dec 2025 00:27:04 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "US: Judge orders release of Kilmar Abrego from ICE detention",
-      "link": "https://www.dw.com/en/us-judge-orders-release-of-kilmar-abrego-from-ice-detention/a-75120421?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 00:24:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Liam Neeson denies anti-vax views after narrating Covid documentary",
-      "link": "https://www.theguardian.com/film/2025/dec/11/liam-neeson-covid-documentary",
-      "pubDate": "Fri, 12 Dec 2025 00:23:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Crypto fraudster sentenced for 'epic' $40bn stablecoin crash",
-      "link": "https://www.bbc.com/news/articles/ckgmm92d213o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 00:21:41 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Tricked, abducted and abused: Inside China's schools for 'rebellious' teens",
-      "link": "https://www.bbc.com/news/articles/c5y2qd1795yo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 00:13:16 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Fears grow that world's rarest apes were swept away in Sumatran floods",
-      "link": "https://www.bbc.com/news/articles/cj4q1l0ly7wo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 00:08:17 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Myanmar's army says it wants to eradicate scam compounds. Is it really doing that?",
-      "link": "https://www.bbc.com/news/articles/cr7l0ljvvejo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 00:04:44 GMT",
-      "source": "BBC News"
     }
   ]
 }
