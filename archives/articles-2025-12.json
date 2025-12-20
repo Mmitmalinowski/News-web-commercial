@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T13:33:24.471Z",
+  "generatedAt": "2025-12-20T13:46:22.972Z",
   "items": [
+    {
+      "title": "One year after the Christmas market attack Merz travels to Magdeburg",
+      "link": "http://www.euronews.com/2025/12/20/one-year-after-the-christmas-market-attack-merz-travels-to-magdeburg",
+      "pubDate": "Sat, 20 Dec 2025 14:41:21 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "BLIK zdominował świąteczne zakupy. Bezpieczeństwo w sieci zapewnia AI",
+      "link": "https://android.com.pl/tech/1003227-blik-zdominowal-swiateczne-zakupy/",
+      "pubDate": "Sat, 20 Dec 2025 13:38:00 +0000",
+      "source": "Android.com.pl"
+    },
     {
       "title": "Stracili 70 mln dol. Ukraiński atak na rosyjskie myśliwce Su-27",
       "link": "https://tech.wp.pl/stracili-70-mln-dol-ukrainski-atak-na-rosyjskie-mysliwce-su-27,7234494098504192a",
@@ -13,6 +25,12 @@
       "link": "http://www.euronews.com/2025/12/20/russian-and-us-officials-due-to-meet-for-ukraine-peace-talks-in-miami",
       "pubDate": "Sat, 20 Dec 2025 14:30:21 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "9-letni chłopiec potrącony w przydomowym garażu. Sprawę wyjaśnia policja",
+      "link": "https://tvn24.pl/lubuskie/gorka-9-letni-chlopiec-potracony-w-przydomowym-garazu-sprawe-wyjasnia-policja-st8810979?source=rss",
+      "pubDate": "Sat, 20 Dec 2025 13:29:38 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Niebezpiecznej pogody ciąg dalszy. Ostrzeżenia dla 14 województw",
@@ -16119,6 +16137,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -18074,6 +18116,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64777,36 +64843,6 @@
       "link": "https://www.theguardian.com/politics/2025/dec/11/reform-uk-accused-rash-promises-council-tax-cuts-warwickshire-chiefs",
       "pubDate": "Thu, 11 Dec 2025 20:02:17 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "NHS bracing for worst ever winter crisis in next fortnight amid rising flu cases",
-      "link": "https://www.theguardian.com/society/2025/dec/11/nhs-bracing-for-worst-ever-winter-crisis-in-next-fortnight-amid-rising-flu-cases",
-      "pubDate": "Thu, 11 Dec 2025 20:02:13 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Okręty podwodne z napędem mechanicznym",
-      "link": "https://historia.rp.pl/historia-swiata/art43489131-okrety-podwodne-z-napedem-mechanicznym",
-      "pubDate": "Thu, 11 Dec 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Jak polscy kryptolodzy złamali Enigmę",
-      "link": "https://historia.rp.pl/historia-polski/art43489101-jak-polscy-kryptolodzy-zlamali-enigme",
-      "pubDate": "Thu, 11 Dec 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Tajemnica Bafometa wyjaśniona",
-      "link": "https://historia.rp.pl/historia-swiata/art43489091-tajemnica-bafometa-wyjasniona",
-      "pubDate": "Thu, 11 Dec 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "„Przebaczamy i prosimy o przebaczenie”",
-      "link": "https://historia.rp.pl/historia-polski/art43489111-przebaczamy-i-prosimy-o-przebaczenie",
-      "pubDate": "Thu, 11 Dec 2025 21:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
