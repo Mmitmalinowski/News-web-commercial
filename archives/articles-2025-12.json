@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T20:46:52.775Z",
+  "generatedAt": "2025-12-20T20:56:29.927Z",
   "items": [
+    {
+      "title": "​Rosyjski statek utknął u wybrzeży Szwecji. To nie jest zwykła jednostka",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-rosyjski-statek-utknal-u-wybrzezy-szwecji-to-nie-jest-zwykla,nId,8052397",
+      "pubDate": "Sat, 20 Dec 2025 21:47:10 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Turystka z Niemiec wyrzucona w lesie z autobusu. Nocny incydent pod Tatrami",
       "link": "https://wydarzenia.interia.pl/malopolskie/news-turystka-z-niemiec-wyrzucona-w-lesie-z-autobusu-nocny-incyde,nId,22501728",
@@ -17841,6 +17847,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -19796,6 +19826,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65797,24 +65851,6 @@
       "link": "https://biznes.interia.pl/podatki/news-gawkowski-o-nowym-podatku-premier-tusk-powiedzial-ze-mamy-na,nId,22497648",
       "pubDate": "Fri, 12 Dec 2025 05:38:08 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Półmetek rządów Donalda Tuska. Polacy dali premierowi ostrzeżenie [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/polmetek-wladzy-donalda-tuska-rzad-dostal-ostrzezenie-sondaz/ns82pb2",
-      "pubDate": "Fri, 12 Dec 2025 05:37:57 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Eurovision winner Nemo to return trophy in protest of Israel",
-      "link": "https://www.bbc.com/news/articles/c0q5504vv0ko?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 05:31:51 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Żadne Spotify czy YouTube. Koleo ma najlepsze podsumowanie roku",
-      "link": "https://spidersweb.pl/2025/12/koleo-podsumowanie-2025-roku.html",
-      "pubDate": "Fri, 12 Dec 2025 06:30:38 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
