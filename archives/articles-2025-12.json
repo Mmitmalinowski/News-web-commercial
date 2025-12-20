@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-20T22:27:14.789Z",
+  "generatedAt": "2025-12-20T22:41:58.924Z",
   "items": [
     {
       "title": "Tak Putin testował człowieka Trumpa. Media ujawniają zdumiewające fakty",
@@ -18093,6 +18093,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -20048,6 +20072,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66055,18 +66103,6 @@
       "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-spotkanie-zelenski-nawrocki-ambasador-ukrainy-w-polsce-potwi,nId,8049863",
       "pubDate": "Fri, 12 Dec 2025 07:00:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Alarm na północy Japonii. Groźba metrowych fal tsunami",
-      "link": "https://www.bankier.pl/wiadomosc/Alarm-na-polnocy-Japonii-Grozba-metrowych-fal-tsunami-9054479.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 06:58:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Brudna limuzyna dla Karola Nawrockiego wywołała burzę w sieci. MSZ odpowiada na zarzuty",
-      "link": "https://wiadomosci.onet.pl/kraj/brudna-limuzyna-dla-karola-nawrockiego-msz-odpiera-zarzuty/9nts544",
-      "pubDate": "Fri, 12 Dec 2025 05:56:39 GMT",
-      "source": "Onet"
     }
   ]
 }
