@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T21:30:43.556Z",
+  "generatedAt": "2025-12-21T21:42:51.419Z",
   "items": [
+    {
+      "title": "Donald Trump rozmawiał z premierem Wielkiej Brytanii. Chodzi o wojnę w Ukrainie",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-rozmawial-z-premierem-wielkiej-brytanii-chodzi-o-wojne-w-ukrainie/b98m648",
+      "pubDate": "Sun, 21 Dec 2025 21:28:13 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Wspólne oświadczenie USA i Ukrainy po rozmowach w Miami ",
       "link": "https://tvn24.pl/swiat/rozmowy-usa-ukraina-wspolne-oswiadczenie-przedstawicieli-obu-krajow-st8812770?source=rss",
@@ -313,6 +319,12 @@
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/technologiczna-wojna-handlowa-ai-drenuje-rynek-z-pamieci-ceny-smartfonow-w-gore/9q7cv16",
       "pubDate": "Sun, 21 Dec 2025 19:00:00 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Podatkowy flesz - terminy, wskaźniki, stawki 22-28 grudnia 2025 r.",
+      "link": "https://pro.rp.pl/podatkowy-flesz/art43545391-podatkowy-flesz-terminy-wskazniki-stawki-22-28-grudnia-2025-r",
+      "pubDate": "Sun, 21 Dec 2025 20:00:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Od finansów, przez marketing, po logistykę. Wszędzie przyda się wiedza z zakresu sztucznej inteligencji",
@@ -23133,6 +23145,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -25088,6 +25124,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68527,30 +68587,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Wazne-zmiany-w-legalizacji-pobytu-Prezydent-Nawrocki-podpisal-nowele-ustawy-o-cudzoziemcach-9054874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 12 Dec 2025 15:14:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Nobel peace prize laureate Narges Mohammadi arrested in Iran, say supporters",
-      "link": "https://www.theguardian.com/world/2025/dec/12/nobel-peace-prize-laureate-narges-mohammadi-arrested-iran",
-      "pubDate": "Fri, 12 Dec 2025 14:13:01 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nie żyje Magda Umer. Piosenkarka miała 76 lat",
-      "link": "https://www.rmf24.pl/news-nie-zyje-magda-umer-piosenkarka-miala-76-lat,nId,8050332",
-      "pubDate": "Fri, 12 Dec 2025 15:12:20 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Magda Umer nie żyje. Piosenkarka i poetka miała 76 lat ",
-      "link": "https://wydarzenia.interia.pl/kraj/news-magda-umer-nie-zyje-piosenkarka-i-poetka-miala-76-lat,nId,22497924",
-      "pubDate": "Fri, 12 Dec 2025 14:11:38 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Android utrudnia kasowanie aktualizacji. Kompletna porażka",
-      "link": "https://spidersweb.pl/2025/12/android-odinstalowanie-aktualizacji-aplikacji-utrudnienie-zmiana.html",
-      "pubDate": "Fri, 12 Dec 2025 15:11:17 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
