@@ -1,12 +1,36 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T13:51:47.316Z",
+  "generatedAt": "2025-12-21T14:01:05.438Z",
   "items": [
+    {
+      "title": "MON szykuje podwyżki. Tak wzrosną pensje żołnierzy i pracowników cywilnych",
+      "link": "https://www.rmf24.pl/fakty/polska/news-mon-szykuje-podwyzki-tak-wzrosna-pensje-zolnierzy-i-pracowni,nId,8052656",
+      "pubDate": "Sun, 21 Dec 2025 14:58:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tam lecą Polacy. Dominują dwa kierunki",
+      "link": "https://tvn24.pl/biznes/turystyka/boze-narodzenie-sylwester-2025-i-nowy-rok-2026-najpopularniejsze-kierunki-turystyczne-st8812016?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 13:51:31 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Uniwersytet Warszawski uruchamia czat zaufania",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-uniwersytet-warszawski-uruchamia-czat-zaufania-st8811926?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 13:51:23 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Amerykanie osiągnęli sukces. Mają nową broń laserową do niszczenia dronów",
       "link": "https://geekweek.interia.pl/militaria/news-amerykanie-maja-potezny-laser-do-stracania-dronow-ktory-wlas,nId,22501810",
       "pubDate": "Sun, 21 Dec 2025 13:44:59 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "France deploys armed forces to fight cattle disease outbreak",
+      "link": "http://www.euronews.com/video/2025/12/21/france-deploys-armed-forces-to-fight-cattle-disease-outbreak",
+      "pubDate": "Sun, 21 Dec 2025 14:44:21 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Koncert kolęd w Republice. Wśród gwiazd Zenek Martyniuk, na widowni para prezydencka",
@@ -21225,6 +21249,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -23180,6 +23228,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67471,42 +67543,6 @@
       "link": "https://www.rp.pl/transport/art43495491-premier-tusk-oglasza-nowa-nazwe-cpk-teraz-lotnisko-w-baranowie-to-port-polska",
       "pubDate": "Fri, 12 Dec 2025 12:31:04 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Awantura i siłowe wejście policjantów. Rodzice poszukiwani, dzieci w pogotowiu opiekuńczym",
-      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-awantura-domowa-i-silowe-wejscie-policjantow-rodzice-nastolatkow-zatrzymani-st8797947?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:30:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jedli czekoladę i młodnieli. To za sprawą jednego składnika",
-      "link": "https://tvn24.pl/zdrowie/jedli-czekolade-i-mlodnieli-to-za-sprawa-jednego-skladnika-zawartego-w-kakao-st8798252?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:30:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "“Naprawili” iPhone’a. Czemu Apple samo o tym nie pomyślało?",
-      "link": "https://antyweb.pl/naprawili-iphonea-czemu-apple-samo-o-tym-nie-pomyslalo",
-      "pubDate": "Fri, 12 Dec 2025 11:30:06 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Rusza głosowanie na Eurowizję Junior. Kiedy i gdzie oglądać muzyczny konkurs?",
-      "link": "https://www.wirtualnemedia.pl/rusza-glosowanie-na-eurowizje-junior-kiedy-i-gdzie-ogladac-muzyczny-konkurs,7231312049896352a",
-      "pubDate": "Fri, 12 Dec 2025 12:29:54 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nagroda Eurowizji odesłana w kartonowym pudełku. Protest Nemo przeciw udziałowi Izraela",
-      "link": "https://tvn24.pl/kultura-i-styl/eurowizja-nemo-zwracaja-nagrode-st8798002?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:29:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Catastrophic US floods linked to hotter climate",
-      "link": "https://www.dw.com/en/catastrophic-us-floods-linked-to-hotter-climate/a-75102918?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 11:29:00 GMT",
-      "source": "DW"
     }
   ]
 }

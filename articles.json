@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2025-12-21T13:51:47.657Z",
+  "generatedAt": "2025-12-21T14:01:05.757Z",
   "items": [
+    {
+      "title": "MON szykuje podwyżki. Tak wzrosną pensje żołnierzy i pracowników cywilnych",
+      "link": "https://www.rmf24.pl/fakty/polska/news-mon-szykuje-podwyzki-tak-wzrosna-pensje-zolnierzy-i-pracowni,nId,8052656",
+      "pubDate": "Sun, 21 Dec 2025 14:58:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tam lecą Polacy. Dominują dwa kierunki",
+      "link": "https://tvn24.pl/biznes/turystyka/boze-narodzenie-sylwester-2025-i-nowy-rok-2026-najpopularniejsze-kierunki-turystyczne-st8812016?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 13:51:31 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Uniwersytet Warszawski uruchamia czat zaufania",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-uniwersytet-warszawski-uruchamia-czat-zaufania-st8811926?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 13:51:23 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Amerykanie osiągnęli sukces. Mają nową broń laserową do niszczenia dronów",
       "link": "https://geekweek.interia.pl/militaria/news-amerykanie-maja-potezny-laser-do-stracania-dronow-ktory-wlas,nId,22501810",
       "pubDate": "Sun, 21 Dec 2025 13:44:59 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "France deploys armed forces to fight cattle disease outbreak",
+      "link": "http://www.euronews.com/video/2025/12/21/france-deploys-armed-forces-to-fight-cattle-disease-outbreak",
+      "pubDate": "Sun, 21 Dec 2025 14:44:21 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Koncert kolęd w Republice. Wśród gwiazd Zenek Martyniuk, na widowni para prezydencka",
@@ -21224,6 +21248,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -23179,6 +23227,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67470,42 +67542,6 @@
       "link": "https://www.rp.pl/transport/art43495491-premier-tusk-oglasza-nowa-nazwe-cpk-teraz-lotnisko-w-baranowie-to-port-polska",
       "pubDate": "Fri, 12 Dec 2025 12:31:04 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Awantura i siłowe wejście policjantów. Rodzice poszukiwani, dzieci w pogotowiu opiekuńczym",
-      "link": "https://tvn24.pl/tvnwarszawa/mokotow/warszawa-awantura-domowa-i-silowe-wejscie-policjantow-rodzice-nastolatkow-zatrzymani-st8797947?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:30:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jedli czekoladę i młodnieli. To za sprawą jednego składnika",
-      "link": "https://tvn24.pl/zdrowie/jedli-czekolade-i-mlodnieli-to-za-sprawa-jednego-skladnika-zawartego-w-kakao-st8798252?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:30:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "“Naprawili” iPhone’a. Czemu Apple samo o tym nie pomyślało?",
-      "link": "https://antyweb.pl/naprawili-iphonea-czemu-apple-samo-o-tym-nie-pomyslalo",
-      "pubDate": "Fri, 12 Dec 2025 11:30:06 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Rusza głosowanie na Eurowizję Junior. Kiedy i gdzie oglądać muzyczny konkurs?",
-      "link": "https://www.wirtualnemedia.pl/rusza-glosowanie-na-eurowizje-junior-kiedy-i-gdzie-ogladac-muzyczny-konkurs,7231312049896352a",
-      "pubDate": "Fri, 12 Dec 2025 12:29:54 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nagroda Eurowizji odesłana w kartonowym pudełku. Protest Nemo przeciw udziałowi Izraela",
-      "link": "https://tvn24.pl/kultura-i-styl/eurowizja-nemo-zwracaja-nagrode-st8798002?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:29:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Catastrophic US floods linked to hotter climate",
-      "link": "https://www.dw.com/en/catastrophic-us-floods-linked-to-hotter-climate/a-75102918?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 11:29:00 GMT",
-      "source": "DW"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -114836,6 +114872,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -122816,6 +122876,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -158420,6 +158504,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -213548,6 +213656,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -216420,30 +216552,6 @@
       "link": "https://tech.wp.pl/jest-piec-etapow-tak-rozwija-sie-mozg-czlowieka,7225948090960448a",
       "pubDate": "Wed, 26 Nov 2025 09:03:00 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Małżeństwa jednopłciowe w Polsce. Prawica w histerii, rząd chce wykonać wyrok TSUE",
-      "link": "https://oko.press/malzenstwa-jednoplciowe-w-polsce-prawica-w-histerii-rzad-chce-wykonac-wyrok-tsue",
-      "pubDate": "Wed, 26 Nov 2025 08:02:34 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Szukasz tabletu graficznego? To już przestań, bo XPPen przygotował niespodzianki",
-      "link": "https://spidersweb.pl/2025/11/tablet-graficzny-xppen-black-friday.html",
-      "pubDate": "Wed, 26 Nov 2025 09:02:33 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Black Friday to święto „starszych” technologii. I to bardzo dobrze",
-      "link": "https://antyweb.pl/black-friday-to-swieto-starszych-technologii",
-      "pubDate": "Wed, 26 Nov 2025 08:00:24 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Subskrypcja włączona nieświadomie? T-Mobile zwróci klientom opłaty",
-      "link": "https://www.wirtualnemedia.pl/t-mobile-zwrot-oplat-za-zamow-z-t-mobile-jak-dostac-po-decyzji-uokik,7225931101244000a",
-      "pubDate": "Wed, 26 Nov 2025 08:57:06 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ],
   "totalArticles": 20000,
