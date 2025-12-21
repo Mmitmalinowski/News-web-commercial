@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2025-12-21T16:59:10.008Z",
+  "generatedAt": "2025-12-21T17:22:29.043Z",
   "items": [
+    {
+      "title": "Dobry występ polskiego skoczka w Engelbergu. Wygrał Kobayashi",
+      "link": "https://www.rmf24.pl/sport/skoki-narciarskie/news-dobry-wystep-polskiego-skoczka-w-engelbergu-wygral-kobayashi,nId,8052673",
+      "pubDate": "Sun, 21 Dec 2025 18:18:13 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Prezenty dla kierowców na ostatnią chwilę. Te gadżety to świetna opcja pod choinkę",
+      "link": "https://android.com.pl/tech/1002583-prezenty-dla-kierowcow-swieta/",
+      "pubDate": "Sun, 21 Dec 2025 17:18:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Wielki francuski projekt wojskowy. Macron zapowiedział",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wielki-francuski-projekt-wojskowy-macron-zapowiedzial,nId,8052669",
+      "pubDate": "Sun, 21 Dec 2025 18:02:47 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "OnePlus 15T nadchodzi. Mały flagowiec z gigantyczną baterią zmiecie konkurencję z planszy",
+      "link": "https://www.chip.pl/2025/12/oneplus-15t-przecieki-specyfikacja",
+      "pubDate": "Sun, 21 Dec 2025 17:00:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Nowa wersja internetu nie będzie tworzona z myślą o ludziach",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/agentic-web-nowa-wersja-internetu-nie-bedzie-tworzona-z-mysla-o-ludziach/tygy3wg",
+      "pubDate": "Sun, 21 Dec 2025 17:00:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Aleksander Łukaszenko spotkał się z Władimirem Putinem. \"Życie nie pozwala nam odpocząć\"",
+      "link": "https://wiadomosci.onet.pl/swiat/aleksander-lukaszenko-spotkal-sie-z-wladimirem-putinem-zycie-nie-pozwala-nam-odpoczac/hhwhvye",
+      "pubDate": "Sun, 21 Dec 2025 16:59:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "​Pierwsza osoba na wózku inwalidzkim w Kosmosie. \"Śmiałam się przez cały lot\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-pierwsza-osoba-na-wozku-inwalidzkim-w-kosmosie-smialam-sie-p,nId,8052670",
+      "pubDate": "Sun, 21 Dec 2025 17:58:37 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Removing photos from Epstein files release ‘nothing to do’ with Trump, deputy AG says",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/epstein-files-photos-removed",
+      "pubDate": "Sun, 21 Dec 2025 16:56:29 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Była symbolem dzikiej północy. Sowa śnieżna uznana za regionalnie wymarłą",
+      "link": "https://tech.wp.pl/byla-symbolem-dzikiej-polnocy-sowa-sniezna-uznana-za-regionalnie-wymarla,7234892766947840a",
+      "pubDate": "Sun, 21 Dec 2025 17:55:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Kremlin renews criticism of Europe’s efforts to amend US plan to end Ukraine war",
+      "link": "https://www.theguardian.com/world/2025/dec/21/kremlin-russia-ukraine-war-end-changes-europe-miami-talks",
+      "pubDate": "Sun, 21 Dec 2025 16:52:56 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Israel approves 19 new Jewish settlements in occupied West Bank",
       "link": "https://www.theguardian.com/world/2025/dec/21/israel-approves-new-jewish-settlements-occupied-west-bank",
@@ -22100,6 +22160,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -24055,6 +24139,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67865,78 +67973,6 @@
       "title": "Taliban warn four young Afghan men who wore Peaky Blinders outfits",
       "link": "http://www.euronews.com/culture/2025/12/12/taliban-warn-four-young-afghan-men-who-wore-peaky-blinders-outfits",
       "pubDate": "Fri, 12 Dec 2025 13:52:08 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Disguises, freezing waves, and a special forces veteran: Inside rescue to sneak Nobel winner out of Venezuela",
-      "link": "https://www.bbc.com/news/articles/c4g990exxq4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 12:51:09 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Germany accuses Russia of 2024 cyber-attack and disinformation",
-      "link": "https://www.bbc.com/news/articles/cvgrrnylzzyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 12:51:03 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "16 000 akcji LPP do podziału? NWZ zdecyduje o programie motywacyjnym",
-      "link": "https://www.bankier.pl/wiadomosc/NWZ-LPP-zdecyduje-o-programie-motywacyjnym-9054788.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 13:50:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Fala oskarżeń pod adresem Rosji. Niemcy pilnie wezwali ambasadora",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-fala-oskarzen-pod-adresem-rosji-niemcy-pilnie-wezwali-ambasa,nId,22497834",
-      "pubDate": "Fri, 12 Dec 2025 12:48:56 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Jarosław Kaczyński o współpracy z Grzegorzem Braunem. Jasna deklaracja",
-      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-o-wspolpracy-z-grzegorzem-braunem-jasna-deklaracja/54zfmpd",
-      "pubDate": "Fri, 12 Dec 2025 12:48:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Mam wiadomość z Moskwy...\". Szefowa KE natychmiast mu przerwała",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-mam-wiadomosc-z-moskwy-szefowa-ke-musiala-zastopowac-polityk,nId,22497827",
-      "pubDate": "Fri, 12 Dec 2025 12:48:20 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Mars wpływa na klimat Ziemi. Nowe symulacje pokazują skalę",
-      "link": "https://tech.wp.pl/mars-wplywa-na-klimat-ziemi-nowe-symulacje-pokazuja-skale,7231663488347040a",
-      "pubDate": "Fri, 12 Dec 2025 13:48:14 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Zmiany w Narodowym Programie Zdrowia. \"Szału nie ma\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-senat-obradowal-nad-wydatkami-na-narodowy-program-zdrowia-sz,nId,22497850",
-      "pubDate": "Fri, 12 Dec 2025 12:46:38 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Ciemność widzę, ciemność! O bohaterkach szkolnych lektur, brytyjskiej szkole z internatem i buntowniku bez powodu",
-      "link": "https://krytykapolityczna.pl/multimedia/ciemnosc-widze-ciemnosc-o-bohaterkach-szkolnych-lektur-brytyjskiej-szkole-z-internatem-i-buntowniku-bez-powodu/",
-      "pubDate": "Fri, 12 Dec 2025 12:46:37 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Upadły kantor. Zgłoszenia od 8 tys. wierzycieli, a prezes wciąż poszukiwany",
-      "link": "https://www.bankier.pl/wiadomosc/Upadly-kantor-Zgloszenia-od-8-tys-wierzycieli-a-prezes-wciaz-poszukiwany-9054715.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 13:45:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Dzieci za dużo leżą w ciągu dnia. Co trzeci ośmioletni chłopak i co czwarta dziewczynka ważą za dużo",
-      "link": "https://oko.press/dzieci-waza-za-duzo-za-duzo-leza",
-      "pubDate": "Fri, 12 Dec 2025 12:44:52 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Skydiver dangles at 4,500 metres after parachute catches on plane’s tail",
-      "link": "http://www.euronews.com/video/2025/12/12/skydiver-dangles-at-4500-metres-after-parachute-catches-on-planes-tail",
-      "pubDate": "Fri, 12 Dec 2025 13:44:36 +0100",
       "source": "Euronews"
     },
     {
@@ -115556,6 +115592,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -123536,6 +123596,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -159428,6 +159512,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -215132,6 +215240,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -217716,30 +217848,6 @@
       "link": "https://www.rmf24.pl/regiony/lodz/news-urzednicy-i-policjanci-zatrzymani-wielka-afera-korupcyjna-w-,nId,8044026",
       "pubDate": "Wed, 26 Nov 2025 09:50:10 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Plan USA na pokój w Ukrainie. \"Nie może dotknąć flanki wschodniej NATO\"",
-      "link": "https://www.bankier.pl/wiadomosc/Plan-USA-na-pokoj-w-Ukrainie-Nie-moze-dotknac-flanki-wschodniej-NATO-9045804.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 26 Nov 2025 09:50:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Pięć godzin taksówką za koło podbiegunowe. Przygody szefów Juventusu",
-      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-piec-godzin-taksowka-za-kolo-podbiegunowe-przygody-szefow-ju,nId,8044024",
-      "pubDate": "Wed, 26 Nov 2025 09:49:33 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Euro było najtańsze od kwietnia. Walka o niższy kurs trwa",
-      "link": "https://www.bankier.pl/wiadomosc/Euro-bylo-najtansze-od-kwietnia-Walka-o-nizszy-kurs-trwa-9045802.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 26 Nov 2025 09:49:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "KE gotowa do przedstawienia przepisów ws. rosyjskich aktywów dla Ukrainy",
-      "link": "https://www.bankier.pl/wiadomosc/KE-gotowa-do-przedstawienia-przepisow-ws-rosyjskich-aktywow-dla-Ukrainy-9045801.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 26 Nov 2025 09:48:00 +0100",
-      "source": "Bankier.pl"
     }
   ],
   "totalArticles": 20000,
