@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2025-12-21T13:41:29.386Z",
+  "generatedAt": "2025-12-21T13:51:47.657Z",
   "items": [
+    {
+      "title": "Amerykanie osiągnęli sukces. Mają nową broń laserową do niszczenia dronów",
+      "link": "https://geekweek.interia.pl/militaria/news-amerykanie-maja-potezny-laser-do-stracania-dronow-ktory-wlas,nId,22501810",
+      "pubDate": "Sun, 21 Dec 2025 13:44:59 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Koncert kolęd w Republice. Wśród gwiazd Zenek Martyniuk, na widowni para prezydencka",
+      "link": "https://www.wirtualnemedia.pl/republika-koledy-boze-narodzenie-zenek-martyniuk-na-widowni-karol-nawrocki,7234864278837760a",
+      "pubDate": "Sun, 21 Dec 2025 14:44:05 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Radosław Sikorski: Nie wierzę, że Putin popełni kardynalny błąd, ale nie można tego wykluczyć. Dlatego się zbroimy [WYWIAD]",
+      "link": "https://wiadomosci.onet.pl/swiat/sikorski-nie-moge-wykluczyc-ze-putin-popelni-blad-dlatego-sie-zbroimy-wywiad/km4br92",
+      "pubDate": "Sun, 21 Dec 2025 13:44:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "\"Ludzie są wściekli\". Niedawni sojusznicy Donalda Trumpa oburzeni. Chodzi o tajemniczy plik 468 z akt Jeffreya Epsteina",
+      "link": "https://wiadomosci.onet.pl/politico/ludzie-sa-wsciekli-niedawni-sojusznicy-donalda-trumpa-oburzeni-tajemniczy-plik-468-z/1dlwmky",
+      "pubDate": "Sun, 21 Dec 2025 13:39:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rosyjski statek utknął w cieśninie Sund. Na pokład weszły szwedzkie służby",
+      "link": "https://wiadomosci.onet.pl/swiat/rosyjski-statek-utknal-w-ciesninie-sund-na-poklad-weszly-szwedzkie-sluzby/461g8wy",
+      "pubDate": "Sun, 21 Dec 2025 13:38:05 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Amazon ostrzega. Rosyjscy hakerzy wykorzystali błędy konfiguracji urządzeń",
       "link": "https://android.com.pl/tech/1003429-amazon-ostrzega-rosyjscy-hakerzy/",
@@ -21170,6 +21200,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -23125,6 +23179,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -62672,6 +62750,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Can Lionel Messi's visit boost Indian football?",
+      "link": "https://www.dw.com/en/can-lionel-messi-s-visit-boost-indian-football/a-75127662?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 13 Dec 2025 06:18:00 GMT",
+      "source": "DW"
+    },
+    {
       "title": "\"To jest ich odpowiedzialność\". Wiceszef KO wprost o koalicjantach",
       "link": "https://wydarzenia.interia.pl/kraj/news-to-jest-ich-odpowiedzialnosc-wiceszef-ko-wprost-o-koalicjant,nId,22497903",
       "pubDate": "Sat, 13 Dec 2025 06:15:54 GMT",
@@ -67422,54 +67506,6 @@
       "link": "https://www.dw.com/en/catastrophic-us-floods-linked-to-hotter-climate/a-75102918?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 12 Dec 2025 11:29:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Koniec z CPK. Tusk ogłosił nową nazwę",
-      "link": "https://www.rmf24.pl/fakty/polska/news-koniec-z-cpk-tusk-oglosil-nowa-nazwe,nId,8050041",
-      "pubDate": "Fri, 12 Dec 2025 12:28:06 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "5 najważniejszych informacji z The Game Awards 2025. To warto wiedzieć",
-      "link": "https://android.com.pl/rozrywka/1000837-the-game-awards-2025-podsumowanie/",
-      "pubDate": "Fri, 12 Dec 2025 11:27:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Kolizja z udziałem prokuratora. Odmówił badania alkomatem",
-      "link": "https://tvn24.pl/poznan/kolo-kolizja-z-udzialem-prokuratora-odmowil-badania-alkomatem-zostal-zatrzymany-st8798145?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:26:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "2 tys. nowych sklepów Sinsay w dwa lata. Tak chce rosnąć grupa LPP",
-      "link": "https://www.wirtualnemedia.pl/2-tys-nowych-sklepow-sinsay-w-dwa-lata-tak-chce-rosnac-grupa-lpp,7231617099373504a",
-      "pubDate": "Fri, 12 Dec 2025 12:25:10 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "CPK z nową nazwą. Premier Tusk ogłasza wielką zmianę",
-      "link": "https://businessinsider.com.pl/gospodarka/cpk-z-nowa-nazwa-premier-tusk-oglasza-wielka-zmiane/19bgy2h",
-      "pubDate": "Fri, 12 Dec 2025 11:23:50 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Już nie CPK. Premier ogłosił nową nazwę portu lotniczego",
-      "link": "https://wydarzenia.interia.pl/kraj/news-juz-nie-cpk-premier-oglosil-nowa-nazwe-portu-lotniczego,nId,22497843",
-      "pubDate": "Fri, 12 Dec 2025 11:23:25 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zielone światło dla rozbudowy DK94. Kluczowa inwestycja drogowa w Małopolsce",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-zielone-swiatlo-dla-rozbudowy-dk94-kluczowa-inwestycja-drogo,nId,8050015",
-      "pubDate": "Fri, 12 Dec 2025 12:23:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rząd zmienia nazwę CPK. Donald Tusk podał nową nazwę",
-      "link": "https://wiadomosci.onet.pl/kraj/rzad-zmienia-nazwe-cpk-donald-tusk-podal-nowa-nazwe/m07dqn7",
-      "pubDate": "Fri, 12 Dec 2025 11:22:36 GMT",
-      "source": "Onet"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -114776,6 +114812,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -122756,6 +122816,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -158336,6 +158420,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -213416,6 +213524,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -216312,30 +216444,6 @@
       "link": "https://www.wirtualnemedia.pl/t-mobile-zwrot-oplat-za-zamow-z-t-mobile-jak-dostac-po-decyzji-uokik,7225931101244000a",
       "pubDate": "Wed, 26 Nov 2025 08:57:06 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "IMM zmierzył zasięg informacji o wykorzystaniu AI w książce Karoliny Opolskiej",
-      "link": "http://www.press.pl/tresc/90455,imm-zmierzyl-zasieg-informacji-o-wykorzystaniu-ai-w-ksiazce-karoliny-opolskiej?rss=1",
-      "pubDate": "Wed, 26 Nov 2025 08:57:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Jedyny polski okręt podwodny znów się zepsuł. W tle wybór w programie Orka",
-      "link": "https://geekweek.interia.pl/militaria/news-jedyny-polski-okret-podwodny-znow-sie-zepsul-kiedy-wybor-w-p,nId,22460312",
-      "pubDate": "Wed, 26 Nov 2025 07:56:58 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Amerykański plan pokojowy dla Ukrainy oparty na rosyjskim dokumencie. Kulisy powstania projektu",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43401801-amerykanski-plan-pokojowy-dla-ukrainy-oparty-na-rosyjskim-dokumencie-kulisy-powstania-projektu",
-      "pubDate": "Wed, 26 Nov 2025 08:56:42 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Sydney Morning Herald\" będzie mieć nową redaktor naczelną",
-      "link": "http://www.press.pl/tresc/90453,_sydney-morning-herald_-bedzie-miec-nowa-redaktor-naczelna?rss=1",
-      "pubDate": "Wed, 26 Nov 2025 08:56:00 +0100",
-      "source": "Press.pl"
     }
   ],
   "totalArticles": 20000,
