@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T11:38:44.001Z",
+  "generatedAt": "2025-12-21T11:48:41.726Z",
   "items": [
+    {
+      "title": "Opracowali lepszy asfalt. Użyli zaskakującego składnika",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/opracowali-lepszy-asfalt-uzyli-zaskakujacego-skladnika-st8811914?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 11:46:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Byłam we wszystkich 50 stanach. Oto 10 najlepszych z nich do odwiedzenia zimą",
+      "link": "https://businessinsider.com.pl/lifestyle/wyjazd-do-usa-zima-doswiadczona-dziennikarka-poleca-10-miejsc/g0d89tv",
+      "pubDate": "Sun, 21 Dec 2025 11:40:49 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Wstępują do strefy euro. Mieszkańcy boją się podwyżek, władze uspokajają",
+      "link": "https://businessinsider.com.pl/finanse/bulgaria-wprowadza-euro-burmistrz-sofii-zapewnia-nie-bedzie-podwyzek-cen/61wgbv0",
+      "pubDate": "Sun, 21 Dec 2025 11:39:47 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Alarm over ‘exploding’ rise in use of sanctions-busting shadow fleet",
+      "link": "https://www.theguardian.com/world/2025/dec/21/alarm-over-exploding-rise-in-use-of-sanctions-busting-shadow-fleet",
+      "pubDate": "Sun, 21 Dec 2025 11:33:26 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "‘I feel special, in my heart’: thousands gather at Stonehenge for winter solstice",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/21/stonehenge-winter-solstice",
+      "pubDate": "Sun, 21 Dec 2025 11:33:21 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Google może cofnąć kontrowersyjną zmianę. Szybkie ustawienia Androida znów bardziej użyteczne",
       "link": "https://android.com.pl/tech/1003415-google-rozdzieli-przycisk-internet/",
@@ -20553,6 +20583,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -22508,6 +22562,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -34393,6 +34471,12 @@
       "link": "https://www.bankier.pl/wiadomosc/Szokujace-lekcewazenie-bezpieczenstwa-pacjentow-Anglia-zaczyna-pieciodniowy-strajk-9057143.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 17 Dec 2025 13:51:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Why US giant Chevron, not China, may save oil-rich Venezuela",
+      "link": "https://www.dw.com/en/why-us-giant-chevron-not-china-may-save-oil-rich-venezuela/a-75117400?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 17 Dec 2025 12:50:00 GMT",
+      "source": "DW"
     },
     {
       "title": "Venezuela condemns ‘warmongering threats’ as Trump orders oil blockade – US politics live",
@@ -67243,54 +67327,6 @@
       "link": "https://www.dw.com/en/germany-news-more-people-lack-healthcare-aid-group-says/live-75122677?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 12 Dec 2025 10:19:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Germany news: More people lack health care, aid group says",
-      "link": "https://www.dw.com/en/germany-news-more-people-lack-health-care-aid-group-says/live-75122677?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 10:19:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Moment hiker rescued from quicksand after activating SOS signal",
-      "link": "http://www.euronews.com/video/2025/12/12/moment-hiker-rescued-from-quicksand-after-activating-sos-signal",
-      "pubDate": "Fri, 12 Dec 2025 11:18:19 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Stracili trzy cenne wozy. Skuteczne uderzenie Ukraińców",
-      "link": "https://tech.wp.pl/stracili-trzy-cenne-wozy-skuteczne-uderzenie-ukraincow,7231615398636480a",
-      "pubDate": "Fri, 12 Dec 2025 11:16:32 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Wielka awantura o górę złota. Włochy idą na zwarcie z EBC",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-wielka-awantura-o-gore-zlota-wlochy-ida-na-zwarcie-z-europej,nId,22497620",
-      "pubDate": "Fri, 12 Dec 2025 10:15:51 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Prawie 2 miliony euro kary dla litewskiej firmy. Do jej rady niedawno dołączył Andrzej Duda",
-      "link": "https://wiadomosci.onet.pl/swiat/prawie-2-miliony-euro-kary-dla-litewskiej-firmy-do-jej-rady-niedawno-dolaczyl-andrzej/g8k9z2y",
-      "pubDate": "Fri, 12 Dec 2025 10:15:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Niemal 2 miliony euro kary dla litewskiej firmy. Do jej rady niedawno dołączył Andrzej Duda",
-      "link": "https://wiadomosci.onet.pl/swiat/niemal-2-mln-euro-kary-dla-zencom-do-rady-firmy-dolaczyl-andrzej-duda/g8k9z2y",
-      "pubDate": "Fri, 12 Dec 2025 10:15:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szkoda na 800 milionów? Śledztwo ws. lotniska w Radomiu",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-szkoda-na-800-milionow-sledztwo-ws-lotniska-w-radomiu,nId,8049983",
-      "pubDate": "Fri, 12 Dec 2025 11:15:06 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Karol Nawrocki odebrany brudną limuzyną. Fala komentarzy. \"To są właśnie te nowe standardy\"",
-      "link": "https://wiadomosci.onet.pl/kraj/nawrocki-odebrany-brudna-limuzyna-fala-komentarzy-to-sa-wlasnie-te-nowe-standardy/7kz1wnw",
-      "pubDate": "Fri, 12 Dec 2025 10:14:08 GMT",
-      "source": "Onet"
     }
   ]
 }
