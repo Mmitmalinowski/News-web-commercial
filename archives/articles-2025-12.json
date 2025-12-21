@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T19:45:44.420Z",
+  "generatedAt": "2025-12-21T19:52:56.756Z",
   "items": [
+    {
+      "title": "Tymur Mindicz odnaleziony w Izraelu? Ukraińska Prawda ujawnia",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tymur-mindicz-odnaleziony-w-izraelu-ukrainska-prawda-ujawnia,nId,8052676",
+      "pubDate": "Sun, 21 Dec 2025 20:47:12 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Ukraina po wojnie. Najbardziej prawdopodobne scenariusze i zagrożenia [OPINIA]",
       "link": "https://wiadomosci.onet.pl/swiat/ukraina-po-wojnie-najbardziej-prawdopodobne-scenariusze-i-zagrozenia-opinia/9ydc2kz",
@@ -22761,6 +22767,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -24716,6 +24746,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68281,24 +68335,6 @@
       "link": "http://www.euronews.com/my-europe/2025/12/12/eu-countries-agree-temporary-3-flat-customs-fee-for-small-imported-parcels",
       "pubDate": "Fri, 12 Dec 2025 14:43:59 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Rozstrzygnięcia w programie FCAS. Przyszłość europejskiego myśliwca nowej generacji",
-      "link": "https://tech.wp.pl/rozstrzygniecia-w-programie-fcas-przyszlosc-europejskiego-mysliwca-nowej-generacji,7231669476047776a",
-      "pubDate": "Fri, 12 Dec 2025 14:42:35 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Indonesia floods were ‘extinction level’ disturbance for rare orangutan species",
-      "link": "https://www.theguardian.com/world/2025/dec/12/indonesia-floods-extinction-level-rare-orangutan-tapanuli",
-      "pubDate": "Fri, 12 Dec 2025 13:42:26 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rząd stworzył serwis-apteczkę. Długo czekaliśmy",
-      "link": "https://spidersweb.pl/2025/12/nowa-platforma-cyber-gov.html",
-      "pubDate": "Fri, 12 Dec 2025 14:41:37 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
