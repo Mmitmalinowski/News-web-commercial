@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T17:22:28.719Z",
+  "generatedAt": "2025-12-21T17:37:57.107Z",
   "items": [
+    {
+      "title": "Pierwszy gość nowego metropolity w Krakowie. Znamy szczegóły",
+      "link": "https://wydarzenia.interia.pl/kraj/news-pierwszy-gosc-nowego-metropolity-krakowskiego-znamy-szczegol,nId,22501848",
+      "pubDate": "Sun, 21 Dec 2025 17:31:00 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Nowy składak Samsunga prawie jak poprzednik. Nie wszystkim się to spodoba",
+      "link": "https://www.tabletowo.pl/samsung-galaxy-z-flip-8-jaki-procesor-otrzyma/",
+      "pubDate": "Sun, 21 Dec 2025 17:31:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Święci Mikołajowie i elfy napadli na sklep. Chcieli być jak Robin Hood",
+      "link": "https://tvn24.pl/swiat/kanada-swieci-mikolajowie-i-elfy-napadli-na-supermarket-w-montrealu-chcieli-byc-jak-robin-hood-st8812618?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 17:26:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ta atrakcja turystyczna to zwiastun zagłady",
+      "link": "https://tvn24.pl/tvnmeteo/nauka/szwajcaria-lodowiec-morteratsch-ta-atrakcja-turystyczna-to-zwiastun-zaglady-st8812387?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 17:25:29 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wyprowadzka Rosjan z konsulatu w Gdańsku przyspiesza. Te zdjęcia mówią wszystko",
+      "link": "https://wiadomosci.onet.pl/kraj/to-ostatnie-dni-rosyjskiego-konsulatu-w-gdansku-tak-pakuja-sie-dyplomaci/8z5xh3h",
+      "pubDate": "Sun, 21 Dec 2025 17:18:58 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Dobry występ polskiego skoczka w Engelbergu. Wygrał Kobayashi",
       "link": "https://www.rmf24.pl/sport/skoki-narciarskie/news-dobry-wystep-polskiego-skoczka-w-engelbergu-wygral-kobayashi,nId,8052673",
@@ -1453,6 +1483,12 @@
       "link": "https://www.theguardian.com/politics/2025/dec/21/uk-failure-to-seal-eu-tax-exemption-hands-industry-mountain-of-paperwork",
       "pubDate": "Sun, 21 Dec 2025 10:17:46 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Tadeusz Truskolaski: Sytuacja finansowa dużych miast się poprawiła",
+      "link": "https://regiony.rp.pl/okiem-samorzadowca/art43535071-tadeusz-truskolaski-sytuacja-finansowa-duzych-miast-sie-poprawila",
+      "pubDate": "Sun, 21 Dec 2025 11:16:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "\"Nie zwiększają szans\". Doradca Putina o propozycjach Europy i Ukrainy",
@@ -22185,6 +22221,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -24140,6 +24200,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67927,54 +68011,6 @@
       "link": "https://tvn24.pl/swiat/lando-norris-mistrzem-swiata-formuly-1-tata-tanczyl-jak-w-serialu-inni-spiewali-a-mistrz-napil-sie-wodki-st8793261?source=rss",
       "pubDate": "Fri, 12 Dec 2025 13:00:00 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Bogusław Chrabota: Donald Trump – cesarz jazgotu",
-      "link": "https://www.rp.pl/plus-minus/art43489811-boguslaw-chrabota-donald-trump-cesarz-jazgotu",
-      "pubDate": "Fri, 12 Dec 2025 14:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Viktor Orbán szykuje plan B? Z Węgier napływają wymowne sygnały",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-viktor-orban-szykuje-plan-b-z-wegier-naplywaja-wymowne-sygna,nId,22497822",
-      "pubDate": "Fri, 12 Dec 2025 12:55:29 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Kolejni aktorzy przed sądem za nielegalne reklamy alkoholu. Gra toczy się o gigantyczne pieniądze",
-      "link": "https://www.bankier.pl/wiadomosc/Linda-i-Cielecka-przed-sadem-za-nielegalne-reklamy-alkoholu-Gra-toczy-sie-o-gigantyczne-pieniadze-9054775.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 13:55:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Fake weddings in Pakistan signal a cultural shift",
-      "link": "https://www.dw.com/en/fake-weddings-in-pakistan-signal-a-cultural-shift/a-75130128?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 12:54:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Badała kometę 3I/Atlas i się wyłączyła. Szalona teoria w sprawie sondy MAVEN",
-      "link": "https://spidersweb.pl/2025/12/sonda-ktora-badala-komete-3i-atlas-nagle-sie-wylaczyla.html",
-      "pubDate": "Fri, 12 Dec 2025 13:53:36 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Sri Lanka: Cyclone aftermath disrupts economic recovery",
-      "link": "https://www.dw.com/en/sri-lanka-cyclone-aftermath-disrupts-economic-recovery/a-75130223?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 12:53:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Prawie 1,5 mln Polaków za granicą. Widać zmiany kierunku migracji",
-      "link": "https://tvn24.pl/biznes/ze-swiata/polska-emigracja-prawie-1-5-mln-obywateli-czasowo-za-granica-wielka-brytania-z-widocznym-spadkiem-st8798246?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 12:52:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Taliban warn four young Afghan men who wore Peaky Blinders outfits",
-      "link": "http://www.euronews.com/culture/2025/12/12/taliban-warn-four-young-afghan-men-who-wore-peaky-blinders-outfits",
-      "pubDate": "Fri, 12 Dec 2025 13:52:08 +0100",
-      "source": "Euronews"
     }
   ]
 }
