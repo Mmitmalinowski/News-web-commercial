@@ -1,10 +1,46 @@
 {
-  "generatedAt": "2025-12-21T07:45:22.782Z",
+  "generatedAt": "2025-12-21T07:55:02.287Z",
   "items": [
+    {
+      "title": "W święta porządnie zmarzniemy. Mroźna pogoda coraz bliżej Polski",
+      "link": "https://wiadomosci.onet.pl/pogoda/fala-mroznej-pogody-coraz-blizej-w-swieta-zrobi-sie-przenikliwie-zimno/be0tfzt",
+      "pubDate": "Sun, 21 Dec 2025 07:52:05 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tajemnicze linie na widmie naszej gwiazdy. Słońce ma przed nami setki tajemnic",
+      "link": "https://www.chip.pl/2025/12/slonce-tajemnicze-linie-w-widmie-gwiazdy",
+      "pubDate": "Sun, 21 Dec 2025 07:52:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Jakub Bujnik odchodzi z Wirtualnej Polski",
+      "link": "https://www.wirtualnemedia.pl/jakub-bujnik-odchodzi-z-wirtualnej-polski,7234774048651776a",
+      "pubDate": "Sun, 21 Dec 2025 08:46:34 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Niedziele handlowe w 2026 roku. W te dni zrobimy zakupy",
+      "link": "https://biznes.interia.pl/gospodarka/news-kiedy-niedziele-handlowe-2026-w-te-dni-zrobimy-zakupy,nId,22499146",
+      "pubDate": "Sun, 21 Dec 2025 07:44:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Rośnie kumulacja w Lotto",
+      "link": "https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-20-grudnia-2025-ostatnie-losowanie-jakie-liczby-padly-st8811683?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 07:43:01 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Drogowcy rozpoczynają przerwę zimową. Czy to oznacza przestój w pracach?",
       "link": "https://moto.rp.pl/tu-i-teraz/art43542061-drogowcy-rozpoczynaja-przerwe-zimowa-czy-to-oznacza-przestoj-w-pracach",
       "pubDate": "Sun, 21 Dec 2025 08:39:20 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Przełomowy wyrok w Delaware. Elon Musk odzyskuje miliardy",
+      "link": "https://www.rp.pl/biznes/art43542031-przelomowy-wyrok-w-delaware-elon-musk-odzyskuje-miliardy",
+      "pubDate": "Sun, 21 Dec 2025 08:39:00 +0100",
       "source": "Rzeczpospolita"
     },
     {
@@ -19388,6 +19424,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -21343,6 +21403,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -66738,54 +66822,6 @@
       "link": "https://antyweb.pl/brave-dopala-swoja-przegladarke-teraz-bedzie-robic-rzeczy-za-ciebie",
       "pubDate": "Fri, 12 Dec 2025 08:30:51 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Bitwa o najlepsze biura. Najsłabsze obiekty wypadną z rynku",
-      "link": "https://www.rp.pl/nieruchomosci/art43494471-bitwa-o-najlepsze-biura-najslabsze-obiekty-wypadna-z-rynku",
-      "pubDate": "Fri, 12 Dec 2025 09:28:51 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kluczowe głosowanie w Brukseli. Orban alarmuje: Przekraczają Rubikon",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-kluczowe-glosowanie-w-brukseli-orban-alarmuje-przekraczaja-r,nId,22497687",
-      "pubDate": "Fri, 12 Dec 2025 08:28:50 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Francuzi zmniejszają zaangażowanie w swoim banku działającym w Polsce",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/bnp-paribas-sprzeda-miliony-akcji-swojego-banku-w-polsce/y3fxgtf",
-      "pubDate": "Fri, 12 Dec 2025 08:28:11 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Grzegorz Braun w rządzie? Wipler: On chce być prorokiem",
-      "link": "https://www.rmf24.pl/polityka/news-grzegorz-braun-w-rzadzie-wipler-on-chce-byc-prorokiem,nId,8049935",
-      "pubDate": "Fri, 12 Dec 2025 09:26:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Spędzają w korku prawie pięć dni w roku. Niechlubny lider",
-      "link": "https://tvn24.pl/biznes/moto/spedzaja-w-korku-prawie-piec-dni-w-roku-niechlubny-lider-st8797908?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 08:25:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Niższe rachunki dla gigantów, wyższe dla Kowalskiego. Nowy pomysł resortu klimatu",
-      "link": "https://www.bankier.pl/wiadomosc/Nizsze-rachunki-dla-gigantow-wyzsze-dla-Kowalskiego-Nowy-pomysl-resortu-klimatu-9054408.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 09:25:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Plebiscyt na Młodzieżowe Słowo Roku rozstrzygnięty!",
-      "link": "https://www.wirtualnemedia.pl/plebiscyt-na-mlodziezowe-slowo-roku-rozstrzygniety,7229106150767520a",
-      "pubDate": "Fri, 12 Dec 2025 09:23:26 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Ceny miedzi w Londynie zwyżkują do rekordowego poziomu",
-      "link": "https://www.bankier.pl/wiadomosc/Ceny-miedzi-w-Londynie-zwyzkuja-do-rekordowego-poziomu-9054583.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 09:22:00 +0100",
-      "source": "Bankier.pl"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -113636,6 +113672,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -121616,6 +121676,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -156740,6 +156824,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -210908,6 +211016,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -214260,30 +214392,6 @@
       "link": "https://android.com.pl/moto/995325-piraci-drogowi-znikna-z-ulic/",
       "pubDate": "Wed, 26 Nov 2025 06:46:59 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Przejęli statek \"floty cieni\", trafi na aukcję. \"Bardzo niezwyczajne\"",
-      "link": "https://tvn24.pl/swiat/indonezja-tankowiec-floty-cieni-na-sprzedaz-wraz-z-ladunkiem-mt-arman-114-plywal-pod-iranska-bandera-st8771200?source=rss",
-      "pubDate": "Wed, 26 Nov 2025 06:46:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Black Friday z Teufel. Obok tych cen nie przejdziesz obojętnie",
-      "link": "https://antyweb.pl/black-friday-z-teufel-obok-tych-cen-nie-przejdziesz-obojetnie",
-      "pubDate": "Wed, 26 Nov 2025 06:45:07 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Potężny pożar slumsów. Płomienie sięgały nieba, tysiące ludzi uciekały",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-potezny-pozar-slumsow-plomienie-siegaly-nieba-tysiace-ludzi-,nId,8043989",
-      "pubDate": "Wed, 26 Nov 2025 07:45:03 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zamykane huty i utrata miejsc pracy. Gorzka diagnoza transformacji na Śląsku",
-      "link": "https://www.bankier.pl/wiadomosc/Zamykane-huty-i-utrata-miejsc-pracy-Gorzka-diagnoza-transformacji-na-Slasku-9045666.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 26 Nov 2025 07:45:00 +0100",
-      "source": "Bankier.pl"
     }
   ],
   "totalArticles": 20000,
