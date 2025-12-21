@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T15:40:25.592Z",
+  "generatedAt": "2025-12-21T15:50:10.184Z",
   "items": [
+    {
+      "title": "\"Międzynarodowe piractwo\". USA przechwyciły kolejny statek",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-miedzynarodowe-piractwo-usa-przechwycily-kolejny-statek,nId,8052667",
+      "pubDate": "Sun, 21 Dec 2025 16:45:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Orban mówił o upadku Ukrainy. \"To byłaby katastrofa dla Węgier\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-21/viktor-orban-upadek-ukrainy-bylby-katastrofa-dla-wegier/",
+      "pubDate": "Sun, 21 Dec 2025 16:42:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "W kinie ustawiono TV i puszczono kasety. Czy znowu nie znaleźliśmy się w tym samym momencie?",
+      "link": "https://spidersweb.pl/2025/12/kino-ustawilo-telewizor-i-puscilo-kasety.html",
+      "pubDate": "Sun, 21 Dec 2025 16:40:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Wprowadzają nową opłatę. Dla pasażerów o \"określonych rozmiarach\"",
+      "link": "https://biznes.interia.pl/finanse/news-nowe-zasady-w-linii-lotniczej-dla-pasazerow-o-okreslonych-ro,nId,22501825",
+      "pubDate": "Sun, 21 Dec 2025 15:39:40 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Jakub Sewerynik: Kto umie dziś świętować? Polemika z prof. Marcinem Matczakiem",
       "link": "https://www.rp.pl/rzecz-o-prawie/art43544141-jakub-sewerynik-kto-umie-dzis-swietowac-polemika-z-prof-marcinem-matczakiem",
@@ -125,6 +149,12 @@
     {
       "title": "Samochód wjechał w witrynę restauracji. Są poszkodowani",
       "link": "https://tvn24.pl/trojmiasto/gdynia-samochod-wjechal-w-witryne-restauracji-sa-poszkodowani-st8812516?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 15:00:29 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "71-latek wjechał w witrynę sklepową",
+      "link": "https://tvn24.pl/trojmiasto/gdynia-samochod-wjechal-w-witryne-sklepowa-st8812516?source=rss",
       "pubDate": "Sun, 21 Dec 2025 15:00:29 GMT",
       "source": "TVN24"
     },
@@ -21759,6 +21789,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -23714,6 +23768,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67717,48 +67795,6 @@
       "link": "https://geekweek.interia.pl/technologia/news-koniec-z-cpk-donald-tusk-oglosil-wazna-zmiane,nId,22497875",
       "pubDate": "Fri, 12 Dec 2025 12:19:28 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Ukraina egzekwuje sankcje USA na morzu. Specjalsi i partyzanci w akcji",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-ukraina-egzekwuje-sankcje-usa-na-morzu-specjalsi-i-partyzanc,nId,8050059",
-      "pubDate": "Fri, 12 Dec 2025 13:19:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "To się dzieje w XXI wieku. Wyszła za mąż w wieku 12 lat, rok później urodziła syna",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-to-sie-dzieje-w-xxi-wieku-wyszla-za-maz-w-wieku-12-lat-rok-p,nId,8050044",
-      "pubDate": "Fri, 12 Dec 2025 13:19:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Stop Killing Games. Protestują przeciwko uśmiercaniu gier",
-      "link": "https://tech.wp.pl/stop-killing-games-protestuja-przeciwko-usmiercaniu-gier,7231658269823553v",
-      "pubDate": "Fri, 12 Dec 2025 13:17:57 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "EU’s 2035 petrol and diesel car ban will be watered down, says senior MEP",
-      "link": "https://www.theguardian.com/business/2025/dec/12/eu-2035-petrol-diesel-car-ban-mep-green-deal",
-      "pubDate": "Fri, 12 Dec 2025 12:16:55 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Decyzje bankierów, zaległe payrollsy i byle do Świąt",
-      "link": "https://www.bankier.pl/wiadomosc/Tym-beda-zyly-rynki-decyzje-bankierow-zalegle-payrollsy-i-byle-do-Swiat-9054751.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 13:15:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Największy bunt rosyjskich dzieci od lat i białoruskie balony przemytnicze nad Litwą",
-      "link": "https://krytykapolityczna.pl/swiat/rosja-blokuje-roblox-dzieci-buntuja-sie-bialoruski-samochod-zubr/",
-      "pubDate": "Fri, 12 Dec 2025 12:14:23 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Rosyjski zakład tonie w długach. Problemy z remontami samolotów",
-      "link": "https://tech.wp.pl/rosyjski-zaklad-tonie-w-dlugach-problemy-z-remontami-samolotow,7231640550788000a",
-      "pubDate": "Fri, 12 Dec 2025 13:13:32 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
