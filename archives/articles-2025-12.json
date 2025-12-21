@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T21:42:51.419Z",
+  "generatedAt": "2025-12-21T21:52:32.809Z",
   "items": [
+    {
+      "title": "James Ransone, US actor known for The Wire, dies aged 46",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/james-ransone-the-wire-actor-dead",
+      "pubDate": "Sun, 21 Dec 2025 21:37:48 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Donald Trump rozmawiał z premierem Wielkiej Brytanii. Chodzi o wojnę w Ukrainie",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-rozmawial-z-premierem-wielkiej-brytanii-chodzi-o-wojne-w-ukrainie/b98m648",
@@ -23169,6 +23175,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -25124,6 +25154,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68569,24 +68623,6 @@
       "link": "https://tvn24.pl/kultura-i-styl/magda-umer-nie-zyje-artystka-miala-76-lat-st8798898?source=rss",
       "pubDate": "Fri, 12 Dec 2025 14:16:06 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Primal Scream defend image of swastika inside Star of David shown during London gig",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/12/primal-scream-swastika-star-of-david-london-antisemitism",
-      "pubDate": "Fri, 12 Dec 2025 14:16:02 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Podróżni liczą na sztuczną inteligencję. Głównie, że pozwoli im wybrać najlepiej",
-      "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43496221-podrozni-licza-na-sztuczna-inteligencje-glownie-ze-pozwoli-im-wybrac-najlepiej",
-      "pubDate": "Fri, 12 Dec 2025 15:15:18 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ważne zmiany w legalizacji pobytu. Prezydent Nawrocki podpisał nowelę ustawy o cudzoziemcach",
-      "link": "https://www.bankier.pl/wiadomosc/Wazne-zmiany-w-legalizacji-pobytu-Prezydent-Nawrocki-podpisal-nowele-ustawy-o-cudzoziemcach-9054874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 15:14:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
