@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2025-12-21T20:30:40.332Z",
+  "generatedAt": "2025-12-21T20:44:57.136Z",
   "items": [
+    {
+      "title": "Pokłócił się z byłą partnerką i zabrał jej dziecko. Trwa akcja policji",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-poklocil-sie-z-byla-partnerka-i-zabral-jej-dziecko-trwa-akcj,nId,8052680",
+      "pubDate": "Sun, 21 Dec 2025 21:40:47 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Polacy o słowach Karola Nawrockiego na temat relacji z Ukrainą. Zdecydowana ocena [SONDAŻ]",
+      "link": "https://wiadomosci.onet.pl/kraj/polacy-podzielaja-opinie-karola-nawrockiego-o-relacjach-z-ukraina-sondaz/pb9ned6",
+      "pubDate": "Sun, 21 Dec 2025 20:32:23 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Negocjacje Ukrainy i USA na Florydzie. Jest wspólne oświadczenie",
       "link": "https://wiadomosci.onet.pl/swiat/negocjacje-ukrainy-i-usa-na-florydzie-jest-wspolne-oswiadczenie/q64jj74",
@@ -8,10 +20,22 @@
       "source": "Onet"
     },
     {
+      "title": "Porwanie 9-latka. Duża akcja policji w Warszawie ",
+      "link": "https://tvn24.pl/polska/duza-akcja-policji-w-warszawie-porwanie-dziecka-na-bialolece-st8812679?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 20:27:46 GMT",
+      "source": "TVN24"
+    },
+    {
       "title": "Podobna do cytryny i bogata w diamenty. Teleskop Webba zaobserwował niezwykłą planetę",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-21/podobna-do-cytryna-w-glebi-ma-ukryte-diamenty-teleskop-webba-zaobserwowal-niezwykla-planete/",
       "pubDate": "Sun, 21 Dec 2025 21:25:00 +0100",
       "source": "Polsat News"
+    },
+    {
+      "title": "Mass power outages affect 130,000 in San Francisco and disrupt traffic",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/power-outages-san-francisco-traffic-waymo-taxis-traffic",
+      "pubDate": "Sun, 21 Dec 2025 20:20:49 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Rosja zmienia taktykę, żołnierz ostrzega. \"Wróg podejmie próbę\"",
@@ -22940,6 +22964,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -24895,6 +24943,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68370,42 +68442,6 @@
       "link": "https://www.theguardian.com/environment/2025/dec/13/opening-up-victorias-otway-basin-to-offshore-gas-exploration-an-environmental-betrayal-greens-say",
       "pubDate": "Fri, 12 Dec 2025 14:00:09 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Tory transport culture wars risked making roads less safe, says minister",
-      "link": "https://www.theguardian.com/politics/2025/dec/12/drivers-cyclists-transport-policy-conservatives-culture-wars-road-safety",
-      "pubDate": "Fri, 12 Dec 2025 14:00:08 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Met police agree to pay £7,500 to woman arrested over Gaza protest placard",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/12/met-police-agree-to-pay-7500-to-woman-arrested-over-gaza-protest-placard",
-      "pubDate": "Fri, 12 Dec 2025 14:00:07 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "The ATO is meant to be bringing work back in-house. But its target to cut consultants is ‘woefully inadequate’",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/13/ato-external-outsourcing-reduction-union-presumed-typo",
-      "pubDate": "Fri, 12 Dec 2025 14:00:06 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Coalmine expansions would breach climate targets, NSW government warned in ‘game-changer’ report",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/13/nsw-coalmine-expansions-would-breach-climate-targets",
-      "pubDate": "Fri, 12 Dec 2025 14:00:06 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Są sporty, w których technologia jest na równorzędnym miejscu z ludzkim talentem",
-      "link": "https://www.rp.pl/plus-minus/art43489871-sa-sporty-w-ktorych-technologia-jest-na-rownorzednym-miejscu-z-ludzkim-talentem",
-      "pubDate": "Fri, 12 Dec 2025 15:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Strategia USA kolejnym tematem, który dzieli PiS, na dwulecie w rządu w KO dobre nastroje",
-      "link": "https://www.rp.pl/polityka/art43495901-strategia-usa-kolejnym-tematem-ktory-dzieli-pis-na-dwulecie-w-rzadu-w-ko-dobre-nastroje",
-      "pubDate": "Fri, 12 Dec 2025 15:00:00 +0100",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -116336,6 +116372,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -124316,6 +124376,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -160520,6 +160604,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -216848,6 +216956,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -219120,30 +219252,6 @@
       "link": "https://biznes.interia.pl/firma/news-t-mobile-zmienia-zasady-po-interwencji-uokik-klienci-dostana,nId,22460360",
       "pubDate": "Wed, 26 Nov 2025 09:29:22 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wreszcie koniec przebudowy. Wiemy, kiedy otworzą przejście podziemne na Zachodnim",
-      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-wreszcie-koniec-wielkiej-przebudowy-wiemy-kiedy-otworza-przejscie-podziemne-na-dworcu-zachodnim-st8771999?source=rss",
-      "pubDate": "Wed, 26 Nov 2025 09:29:02 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "To prastara choroba. Szybko uodparnia się na najnowsze leki",
-      "link": "https://tech.wp.pl/to-prastara-choroba-szybko-uodparnia-sie-na-najnowsze-leki,7225945333086816a",
-      "pubDate": "Wed, 26 Nov 2025 10:27:48 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Transformacja energetyczna, cyfrowa i… kosmiczna – przyszłość zaczyna się dziś!",
-      "link": "https://tech.wp.pl/transformacja-energetyczna-cyfrowa-i-kosmiczna-przyszlosc-zaczyna-sie-dzis,7221439605681088a",
-      "pubDate": "Wed, 26 Nov 2025 10:27:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Witkoff doradzał Rosjanom, jak przekonać Trumpa do ich planu",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/witkoff-doradzal-rosjanom-jak-przekonac-trumpa-do-ich-planu",
-      "pubDate": "Wed, 26 Nov 2025 09:26:29 +0000",
-      "source": "OKO.press"
     }
   ],
   "totalArticles": 20000,
