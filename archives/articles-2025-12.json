@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T22:47:31.395Z",
+  "generatedAt": "2025-12-21T22:57:11.061Z",
   "items": [
+    {
+      "title": "Nigeria: Remaining 130 abducted schoolchildren released",
+      "link": "https://www.dw.com/en/nigeria-remaining-130-abducted-schoolchildren-released/a-75260977?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 21 Dec 2025 22:50:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Louisiana nursing student speaks out during her six-month ICE detention",
       "link": "https://www.theguardian.com/us-news/2025/dec/21/louisiana-nursing-student-ice-detention",
@@ -23331,6 +23337,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -25286,6 +25316,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68713,24 +68767,6 @@
       "link": "https://tvn24.pl/swiat/etiopia-gwiazdy-mediow-spolecznosciowych-zatrzymane-za-nieprzyzwoity-stroj-na-gali-st8798053?source=rss",
       "pubDate": "Fri, 12 Dec 2025 14:32:50 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "RSF commander linked by BBC Verify to Sudan massacre sanctioned in UK",
-      "link": "https://www.bbc.com/news/articles/c0jeeq6xnvpo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 12 Dec 2025 14:32:30 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Rosjanie twierdzili, że mają Kupiańsk pod kontrolą. Na miejscu pojawił się Wołodymyr Zełenski. Pokazał nagranie",
-      "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-na-linii-frontu-pod-kupianskiem-media-donosza-o-udanym-kontrataku/g0xxdhm",
-      "pubDate": "Fri, 12 Dec 2025 14:30:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kompas Młodej Sztuki 2025: Najlepsi artyści XV edycji",
-      "link": "https://www.rp.pl/plus-minus/art43489901-kompas-mlodej-sztuki-2025-najlepsi-artysci-xv-edycji",
-      "pubDate": "Fri, 12 Dec 2025 15:30:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
