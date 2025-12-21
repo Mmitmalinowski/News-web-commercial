@@ -1,7 +1,85 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T14:01:05.438Z",
+  "generatedAt": "2025-12-21T14:27:17.477Z",
   "items": [
+    {
+      "title": "Pracowałeś przed 1999 r.? ZUS przypomina. Tak można zwiększyć emeryturę",
+      "link": "https://www.money.pl/emerytury/pracowales-przed-1999-r-zus-przypomina-tak-mozna-zwiekszyc-emeryture-7234871712365056a.html",
+      "pubDate": "Sun, 21 Dec 2025 15:22:09 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Skok o 700 procent. Taniej jest przez Kraków",
+      "link": "https://tvn24.pl/biznes/turystyka/wlochy-skok-o-700-procent-taniej-jest-przez-krakow-st8812433?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 14:21:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kate Winslet tells of being body shamed and told to do ‘fat girl parts’ when young",
+      "link": "https://www.theguardian.com/film/2025/dec/21/kate-winslet-body-shamed-when-young",
+      "pubDate": "Sun, 21 Dec 2025 14:18:43 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Porsche łamie fundament swojej platformy. Spalinowe silniki wracają!",
+      "link": "https://www.chip.pl/2025/12/porsche-silniki-spalinowe-platforma-ppe-sport",
+      "pubDate": "Sun, 21 Dec 2025 14:13:29 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Miał ukraść 70 metrów kabla systemu kolei. Grozi mu do ośmiu lat więzienia",
+      "link": "https://tvn24.pl/swiat/czechy-utrudnienia-na-kolei-po-kradziezy-70-metrow-kabla-podejrzewanemu-grozi-do-osmiu-lat-wiezienia-st8812396?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 14:12:25 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Prześwietlą najsławniejszą piramidę Majów. Chcą znaleźć ukryte \"anomalie\"",
+      "link": "https://geekweek.interia.pl/militaria/news-archeolodzy-szukaja-tajemniczych-struktur-w-piramidzie-kukul,nId,22501786",
+      "pubDate": "Sun, 21 Dec 2025 14:12:19 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Atak nożownika w Gdańsku. Jedna osoba trafiła do szpitala",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/atak-nozownika-w-gdansku-jedna-osoba-trafila-do-szpitala/n4th2sw",
+      "pubDate": "Sun, 21 Dec 2025 14:07:39 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Szwedzi wkroczyli na rosyjski statek. Służby nie mówią wszystkiego",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-szwedzi-wkroczyli-na-rosyjski-statek-sluzby-nie-mowia-wszyst,nId,22501816",
+      "pubDate": "Sun, 21 Dec 2025 14:05:11 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Co się dzieje ze słynnym hotelem w Pobierowie? Pojechaliśmy sprawdzić",
+      "link": "https://businessinsider.com.pl/gospodarka/co-sie-dzieje-ze-slynnym-hotelem-w-pobierowie/lp64sw1",
+      "pubDate": "Sun, 21 Dec 2025 14:01:18 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Jarosław Kaczyński napisał o drożyźnie, oskarża rząd. Poseł KO się nie hamował",
+      "link": "https://wiadomosci.onet.pl/kraj/wpis-jaroslawa-kaczynskiego-o-drozyznie-zbigniew-konwinski-sie-nie-hamowal/1zbws2y",
+      "pubDate": "Sun, 21 Dec 2025 14:01:13 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Trzęsienie ziemi na Steamie. Część użytkowników już nie skorzysta",
+      "link": "https://antyweb.pl/trzesienie-ziemi-na-steamie-czesc-uzytkownikow-juz-nie-skorzysta",
+      "pubDate": "Sun, 21 Dec 2025 14:00:29 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Sweden and Germany slash aid budgets to focus on Ukraine and defence spending",
+      "link": "https://www.theguardian.com/global-development/2025/dec/21/sweden-and-germany-slash-aid-budgets-to-focus-on-ukraine-and-defence-spending",
+      "pubDate": "Sun, 21 Dec 2025 14:00:05 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Atak nożownika w Gdańsku. Zatrzymany 26-latek",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-atak-nozownika-st8812452?source=rss",
+      "pubDate": "Sun, 21 Dec 2025 14:00:03 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "MON szykuje podwyżki. Tak wzrosną pensje żołnierzy i pracowników cywilnych",
       "link": "https://www.rmf24.pl/fakty/polska/news-mon-szykuje-podwyzki-tak-wzrosna-pensje-zolnierzy-i-pracowni,nId,8052656",
@@ -21273,6 +21351,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -23228,6 +23330,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67453,96 +67579,6 @@
       "link": "https://mamstartup.pl/elevenlabs-i-meta-czyli-polsko-amerykanski-akcent-w-dubbingu-ai/",
       "pubDate": "Fri, 12 Dec 2025 11:36:32 +0000",
       "source": "MamStartup"
-    },
-    {
-      "title": "Pokonał Szymona Hołownię i został Wysokim Komisarzem ONZ. Miał bardzo burzliwe życie",
-      "link": "https://wiadomosci.onet.pl/swiat/to-on-pokonal-szymona-holownie-kim-jest-barham-ahmed-salih/vsy67sd",
-      "pubDate": "Fri, 12 Dec 2025 11:36:21 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowe zasady wjazdu do Krakowa. Strefa Czystego Transportu obejmie 60 procent miasta",
-      "link": "https://tvn24.pl/krakow/krakow-nowe-zasady-wjazdu-do-miasta-strefa-czystego-transportu-obejmie-60-proc-miasta-st8798163?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:36:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "To najlepszy rok dla WIG20 w XXI w. Warszawska giełda na szczycie",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/wig20-na-szczycie-to-najlepszy-rok-od-bardzo-dawna-wykres/ysmleyk",
-      "pubDate": "Fri, 12 Dec 2025 11:35:37 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Polak zaocznie skazany przez Rosję. Moskwa \"wzięła się\" za MTK",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-polak-zaocznie-skazany-przez-rosje-moskwa-wziela-sie-za-mtk,nId,8050017",
-      "pubDate": "Fri, 12 Dec 2025 12:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Premier Tusk ogłosił nową nazwę CPK",
-      "link": "https://tvn24.pl/biznes/z-kraju/port-polska-premier-tusk-oglosil-nowa-nazwe-cpk-st8798291?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:34:19 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Polityczny WF\": Deal jak w banku. Glapiński dogada się z Tuskiem?",
-      "link": "https://wydarzenia.interia.pl/podcasty/polityczny-wf/news-polityczny-wf-deal-jak-w-banku-glapinski-dogada-sie-z-tuskie,nId,22497842",
-      "pubDate": "Fri, 12 Dec 2025 11:33:27 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Crypto king Do Kwon jailed for 15 years over $40bn stablecoin fraud",
-      "link": "http://www.euronews.com/business/2025/12/12/crypto-king-do-kwon-jailed-for-15-years-over-40bn-stablecoin-fraud",
-      "pubDate": "Fri, 12 Dec 2025 12:33:02 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Chorwacja dla tych, którzy chcą więcej niż plaża",
-      "link": "https://turystyka.rp.pl/popularne-trendy/art43488671-chorwacja-dla-tych-ktorzy-chca-wiecej-niz-plaza",
-      "pubDate": "Fri, 12 Dec 2025 12:33:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Germany summons Russian ambassador over increase in 'hybrid' attacks, including election interference",
-      "link": "https://www.dw.com/en/germany-summons-russian-ambassador-over-increase-in-hybrid-attacks-including-election-interference/a-75129486?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 11:33:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Germany summons Russian ambassador over hybrid attacks",
-      "link": "https://www.dw.com/en/germany-summons-russian-ambassador-over-hybrid-attacks/a-75129486?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 12 Dec 2025 11:33:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Będzie kolejna wymiana więźniów politycznych? \"Delegacja USA w Mińsku\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-bedzie-kolejna-wymiana-wiezniow-politycznych-delegacja-usa-w,nId,22497803",
-      "pubDate": "Fri, 12 Dec 2025 11:32:55 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"Jakby pod skórą przemieszczały się małe robaczki\". Ta choroba wyniszcza wątrobę",
-      "link": "https://tvn24.pl/zdrowie/jakby-pod-skora-przemieszczaly-sie-male-robaczki-ta-choroba-wyniszcza-watrobe-st8797386?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:31:31 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Card Factory issues shock profit warning during peak Christmas period",
-      "link": "https://www.theguardian.com/business/2025/dec/12/card-factory-issues-shock-profit-warning-during-peak-christmas-period",
-      "pubDate": "Fri, 12 Dec 2025 11:31:18 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Premier Tusk ogłasza nazwę CPK. Nowe lotnisko w Baranowie to „Port Polska”",
-      "link": "https://www.rp.pl/transport/art43495491-premier-tusk-oglasza-nazwe-cpk-nowe-lotnisko-w-baranowie-to-port-polska",
-      "pubDate": "Fri, 12 Dec 2025 12:31:04 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Premier Tusk ogłasza nową nazwę CPK. Teraz lotnisko w Baranowie to „Port Polska”",
-      "link": "https://www.rp.pl/transport/art43495491-premier-tusk-oglasza-nowa-nazwe-cpk-teraz-lotnisko-w-baranowie-to-port-polska",
-      "pubDate": "Fri, 12 Dec 2025 12:31:04 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
