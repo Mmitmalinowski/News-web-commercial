@@ -1,12 +1,24 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-21T14:42:01.007Z",
+  "generatedAt": "2025-12-21T14:51:08.776Z",
   "items": [
+    {
+      "title": "Polacy w Wielkiej Brytanii będą pracować dłużej. Zmiany w 2026 roku",
+      "link": "https://biznes.interia.pl/emerytury/news-zmiana-wieku-emerytalnego-w-wielkiej-brytanii-polacy-beda-pr,nId,22501817",
+      "pubDate": "Sun, 21 Dec 2025 14:43:10 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Ukraine's collapse would be a disaster for Hungary, says Orbán",
       "link": "http://www.euronews.com/2025/12/21/ukraines-collapse-would-be-a-disaster-for-hungary-says-orban",
       "pubDate": "Sun, 21 Dec 2025 15:40:53 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Ira ‘Ike’ Schab, one of last remaining Pearl Harbor survivors, dies aged 105",
+      "link": "https://www.theguardian.com/us-news/2025/dec/21/pearl-harbor-survivor-dies-ira-ike-schab",
+      "pubDate": "Sun, 21 Dec 2025 14:40:43 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "​Poszli w Tatry w czwórkę, ale się rozdzielili. Poszukiwania trwały całą noc",
@@ -19,6 +31,12 @@
       "link": "https://www.bbc.com/news/articles/cqjg18xe0wwo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 21 Dec 2025 14:38:12 GMT",
       "source": "BBC News"
+    },
+    {
+      "title": "Élysée Palace staff member accused of stealing tableware worth up to €40,000",
+      "link": "https://www.theguardian.com/world/2025/dec/21/elysee-palace-staff-member-accused-stealing-tableware",
+      "pubDate": "Sun, 21 Dec 2025 14:37:07 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Jakie są priorytety rady UE na najbliższe półrocze? Jest kilka kluczowych obszarów",
@@ -21459,6 +21477,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -23414,6 +23456,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67585,36 +67651,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Oszukiwali-metoda-na-Blik-i-kupowali-kryptowaluty-Kolejne-aresztowania-9054679.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 12 Dec 2025 12:50:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Dymisja dyrektora. Jeden z najtrudniejszy egzaminów świata w tym roku okazał się zbyt trudny",
-      "link": "https://tvn24.pl/swiat/korea-poludniowa-dyrektor-instytucji-opracowujacej-egzamin-suneung-rezygnuje-test-byl-za-trudny-st8798049?source=rss",
-      "pubDate": "Fri, 12 Dec 2025 11:49:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Economic growth has been linked to rising emissions for decades. Now, the ‘opposite is happening’",
-      "link": "http://www.euronews.com/green/2025/12/12/economic-growth-has-been-linked-to-rising-emissions-for-decades-now-the-opposite-is-happen",
-      "pubDate": "Fri, 12 Dec 2025 12:48:51 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Sprzeciw wobec ustawionego konkursu na szefa Muzeum Literatury [Pełna treść votum separatum]",
-      "link": "https://oko.press/sprzeciw-ustawiony-konkurs-na-szefa-muzeum-literatury",
-      "pubDate": "Fri, 12 Dec 2025 11:48:03 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Będą kontrole w Dino. Związkowcy potwierdzają",
-      "link": "https://www.bankier.pl/wiadomosc/Inspektorzy-skontroluja-warunki-pracy-w-Dino-Polska-9054716.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 12 Dec 2025 12:48:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Miliony Amerykanów pozostaną bez ubezpieczenia\". Ta decyzja może wywołać wściekłość w USA. Boją się jej nawet republikanie",
-      "link": "https://wiadomosci.onet.pl/politico/to-moze-wywolac-ferment-w-usa-miliony-amerykanow-pozostana-bez-ubezpieczenia/w8c288d",
-      "pubDate": "Fri, 12 Dec 2025 11:47:50 GMT",
-      "source": "Onet"
     }
   ]
 }
