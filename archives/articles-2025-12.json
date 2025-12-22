@@ -1,7 +1,259 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-22T11:55:40.587Z",
+  "generatedAt": "2025-12-22T12:36:12.242Z",
   "items": [
+    {
+      "title": "Tłumacz Google zyskuje Gemini, będzie lepiej radził sobie z idiomami i kontekstem",
+      "link": "https://www.chip.pl/2025/12/tlumacz-google-gemini-idiom-kontekst",
+      "pubDate": "Mon, 22 Dec 2025 12:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Starlink w tarapatach? Tak Rosja zyskałaby przewagę w Ukrainie",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-22/starlink-w-tarapatach-tak-rosja-chce-zyskac-przewage-w-ukrainie/",
+      "pubDate": "Mon, 22 Dec 2025 13:29:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "HTC nie składa broni. Ma pomysł na zawojowanie rynku",
+      "link": "https://android.com.pl/tech/1003569-htc-inteligentne-okulary-vive-eagle/",
+      "pubDate": "Mon, 22 Dec 2025 12:28:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Radna KO \"doklejona\" do zdjęcia z Trzaskowskim. Na wydarzeniu w ogóle jej nie było",
+      "link": "https://wiadomosci.onet.pl/krakow/zamieszanie-wokol-przerobionego-zdjecia-z-radna-ko-i-trzaskowskim-przepraszam/1fnpw1s",
+      "pubDate": "Mon, 22 Dec 2025 12:26:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "19-latkowie utknęli na noc w Tatrach. \"Zostali odnalezieni\"",
+      "link": "https://tvn24.pl/krakow/slowacja-nastolatkowie-utkneli-w-tatrach-nocna-akcja-ratunkowa-st8813593?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 12:24:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ukraiński front poligonem dla narkotykowych karteli. Eksperci biją na alarm",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43547361-ukrainski-front-poligonem-dla-narkotykowych-karteli-eksperci-bija-na-alarm",
+      "pubDate": "Mon, 22 Dec 2025 13:19:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Spektakularne zatrzymanie na lotnisku Chopina. Chinka była poszukiwana przez Interpol",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-spektakularne-zatrzymanie-na-lotnisku-chopina-chinka-byla-po,nId,8052856",
+      "pubDate": "Mon, 22 Dec 2025 13:18:15 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "How Poland emerged as a key destination for Turkish capital",
+      "link": "http://www.euronews.com/business/2025/12/22/how-poland-emerged-as-a-key-destination-for-turkish-capital",
+      "pubDate": "Mon, 22 Dec 2025 13:17:59 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Gold price climbs above $4,400 to hit record high",
+      "link": "https://www.bbc.com/news/articles/cd74ldr2zryo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 22 Dec 2025 12:17:36 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Odpowie za siedem przestępstw. Ofiary to dziewczynki w wieku 8 i 11 lat",
+      "link": "https://tvn24.pl/szczecin/koszalin-mezczyzna-odpowie-za-siedem-przestepstw-z-udzialem-dzieci-jego-ofiary-mialy-11-i-8-lat-st8813436?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 12:16:15 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Donald Trump w centrum dyplomatycznej gry o Ukrainę. \"Tak naprawdę chodzi tylko o jedno\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-kluczowy-w-grze-o-ukraine-tak-naprawde-chodzi-tylko-o-jedno/jt8kxmw",
+      "pubDate": "Mon, 22 Dec 2025 12:15:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rewolucja w kontaktach z urzędami. To musisz wiedzieć przed 1 stycznia",
+      "link": "https://www.rmf24.pl/fakty/polska/news-rewolucja-w-kontaktach-z-urzedami-to-musisz-wiedziec-przed-1,nId,8052853",
+      "pubDate": "Mon, 22 Dec 2025 13:15:01 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Denmark demands US respect its sovereignty after Trump deploys Greenland envoy",
+      "link": "http://www.euronews.com/2025/12/22/denmark-demands-us-respect-its-sovereignty-after-trump-deploys-greenland-envoy",
+      "pubDate": "Mon, 22 Dec 2025 13:15:00 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Politycy PiS triumfują po decyzji w sprawie Zbigniewa Ziobry. \"Przegrywy\"",
+      "link": "https://wiadomosci.onet.pl/kraj/radosc-w-pis-po-decyzji-w-sprawie-zbigniewa-ziobry-plan-tuska-legl-w-gruzach/158w0lq",
+      "pubDate": "Mon, 22 Dec 2025 12:14:03 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ranking FIFA. Gdzie reprezentacja Polski?",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-ranking-fifa-gdzie-reprezentacja-polski,nId,8052855",
+      "pubDate": "Mon, 22 Dec 2025 13:13:14 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Trump mianował wysłannika ds. Grenlandii. Jest stanowcza odpowiedź",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-mianowal-wyslannika-ds-grenlandii-jest-stanowcza-odpow,nId,22502060",
+      "pubDate": "Mon, 22 Dec 2025 12:11:28 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Nowy projekt państwa „przeszedł bez echa\". Może przynieść miliardy polskim firmom",
+      "link": "https://www.rp.pl/gospodarka/art43546811-nowy-projekt-panstwa-przeszedl-bez-echa-moze-przyniesc-miliardy-polskim-firmom",
+      "pubDate": "Mon, 22 Dec 2025 13:10:32 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Gdy dom trzeszczy. Obóz Trumpa po bratobójczych walkach rusza na \"prawdziwego wroga\". \"Skopiemy im tyłki\"",
+      "link": "https://wiadomosci.onet.pl/swiat/gdy-dom-trzeszczy-oboz-trumpa-po-bratobojczych-walkach-rusza-na-prawdziwego-wroga/lhrtl8y",
+      "pubDate": "Mon, 22 Dec 2025 12:08:28 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gdzie szukać schronów? Nowa aplikacja już dostępna",
+      "link": "https://tvn24.pl/polska/schrony-aplikacja-gdzie-sie-ukryc-uruchomiona-jak-dziala-gdzie-ja-znalezc-st8812979?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 12:08:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "MKiDN da 10 mln zł na wsparcie niezależnych mediów lokalnych",
+      "link": "http://www.press.pl/tresc/90840,mkidn-da-10-mln-zl-na-wsparcie-niezaleznych-mediow-lokalnych?rss=1",
+      "pubDate": "Mon, 22 Dec 2025 13:05:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Prezydent Nowego Sącza zrezygnował z rady nadzorczej spółki w Zgierzu. Napisał jedno zdanie",
+      "link": "https://tvn24.pl/lodz/zgierz-nowy-sacz-prezydent-zasiadl-w-radzie-nadzorczej-spolki-oddalonej-o-400-kilometrow-zrezygnowal-st8813446?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 12:03:59 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ma być kolorowo i w dawnym stylu. BBC o głównym choinkowym trendzie 2025",
+      "link": "https://tvn24.pl/kultura-i-styl/boze-narodzenie-2025-retro-trend-w-dekoracjach-swiatecznych-st8813293?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 12:02:37 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Branża alkoholowa z problemami. Znany producent wstrzymuje produkcję",
+      "link": "https://businessinsider.com.pl/wiadomosci/znany-producent-alkoholu-wstrzymuje-produkcje-w-tle-decyzje-donalda-trumpa/p7gqkm6",
+      "pubDate": "Mon, 22 Dec 2025 12:01:46 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Najem mieszkań. Mało kto chce się teraz przeprowadzać",
+      "link": "https://www.rp.pl/nieruchomosci/art43547371-najem-mieszkan-malo-kto-chce-sie-teraz-przeprowadzac",
+      "pubDate": "Mon, 22 Dec 2025 13:00:44 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Historyczny rekord na złocie. Takich cen jeszcze nie było",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/ceny-zlota-osiagnely-historyczny-rekord-srebro-nie-pozostaje-dluzne/qew6283",
+      "pubDate": "Mon, 22 Dec 2025 12:00:35 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Freed Nigerian schoolchildren to be reunited with families",
+      "link": "https://www.theguardian.com/world/2025/dec/22/freed-nigerian-schoolchildren-set-to-be-reunited-with-families",
+      "pubDate": "Mon, 22 Dec 2025 12:00:34 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "US justice department halts funding for human-trafficking survivors",
+      "link": "https://www.theguardian.com/us-news/2025/dec/22/justice-department-human-trafficking-survivors-support-funding",
+      "pubDate": "Mon, 22 Dec 2025 12:00:28 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "TV zdetronizowany – oto, co zmieniło się w nawykach oglądania Polaków",
+      "link": "https://antyweb.pl/jak-polacy-ogladaja-wideo",
+      "pubDate": "Mon, 22 Dec 2025 12:00:12 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Jędrzej Bielecki: Widmo polexitu nad Polską. Nieprzerobiona lekcja brexitu",
+      "link": "https://www.rp.pl/komentarze/art43547041-jedrzej-bielecki-widmo-polexitu-nad-polska-nieprzerobiona-lekcja-brexitu",
+      "pubDate": "Mon, 22 Dec 2025 13:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Odblokować energetyczne inwestycje",
+      "link": "https://www.rp.pl/debaty-rzeczpospolitej/art43547741-odblokowac-energetyczne-inwestycje",
+      "pubDate": "Mon, 22 Dec 2025 13:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Hundreds join annual year-end clean at Kyoto's major Buddhist temples",
+      "link": "http://www.euronews.com/video/2025/12/22/hundreds-join-annual-year-end-clean-at-kyotos-major-buddhist-temples",
+      "pubDate": "Mon, 22 Dec 2025 12:59:56 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Śnieg dotarł do Hiszpanii. Jeszcze go dosypie",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/snieg-dotarl-do-hiszpanii-jeszcze-go-dosypie-st8813395?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 11:58:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Alternatywa dla smartwatcha. Zaskakuje i zachwyca",
+      "link": "https://www.tabletowo.pl/alternatywa-dla-smartwatcha-zaskakuje-i-zachwyca/",
+      "pubDate": "Mon, 22 Dec 2025 11:57:49 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Ucieczka ze szpitala psychiatrycznego w Żurawicy. Nowe fakty w sprawie 25-latka",
+      "link": "https://wiadomosci.onet.pl/rzeszow/nowe-informacje-w-sprawie-ucieczki-ze-szpitala-psychiatrycznego-w-zurawicy/kz08xx6",
+      "pubDate": "Mon, 22 Dec 2025 11:57:06 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 22.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-22-12-2025-7235193206745600a.html",
+      "pubDate": "Mon, 22 Dec 2025 12:56:56 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Źródła wywiadu nie pozostawiają wątpliwości. Satelity Muska zagrożone",
+      "link": "https://geekweek.interia.pl/technologia/news-starlink-na-celowniku-tak-rosjanie-chca-niszczyc-satelity-el,nId,22502073",
+      "pubDate": "Mon, 22 Dec 2025 11:56:51 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "mObywatel z kolejną nowością. Cyfrowa rewolucja na polskich uczelniach",
+      "link": "https://android.com.pl/tech/1003565-e-dyplom-mobywatel-cyfryzacja-uczelnia/",
+      "pubDate": "Mon, 22 Dec 2025 11:56:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Ukraińcy polują na rosyjskie myśliwce. Kolejny łup stanął w ogniu [WIDEO]",
+      "link": "https://wiadomosci.onet.pl/swiat/ukraincy-poluja-na-rosyjskie-mysliwce-kolejny-lup-stanal-w-ogniu-wideo/gxhhx3g",
+      "pubDate": "Mon, 22 Dec 2025 11:55:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 22.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-22-12-2025-7235192935087072a.html",
+      "pubDate": "Mon, 22 Dec 2025 12:55:48 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Dania wzywa ambasadora USA po decyzji Trumpa. \"Niedopuszczalne\"",
+      "link": "https://tvn24.pl/swiat/grenlandia-dania-wzywa-ambasadora-usa-po-decyzji-trumpa-niedopuszczalne-st8813361?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 11:55:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Uncovering the mystery behind colorful aurora skies",
+      "link": "https://www.dw.com/en/uncovering-the-mystery-behind-colorful-aurora-skies/a-75254474?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 22 Dec 2025 11:55:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Spóźniła się na odprawę, próbowała się dostać do samolotu",
+      "link": "https://tvn24.pl/krakow/krakow-balice-spoznila-sie-na-odprawe-probowala-dostac-sie-na-plyte-lotniska-st8813440?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 11:54:08 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 22.12.2025",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-22-12-2025-7235192364435968a.html",
@@ -31,6 +283,12 @@
       "link": "https://spidersweb.pl/2025/12/samolot-kontrola-zwloki.html",
       "pubDate": "Mon, 22 Dec 2025 12:49:41 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Epstein files shed light on Ghislaine Maxwell’s tactics for luring teenagers  | First Thing",
+      "link": "https://www.theguardian.com/us-news/2025/dec/22/first-thing-epstein-files-ghislaine-maxwell",
+      "pubDate": "Mon, 22 Dec 2025 11:48:43 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Wkroczyli na rosyjski statek, teraz zwrot akcji. Służby milczą",
@@ -159,6 +417,12 @@
       "source": "Interia"
     },
     {
+      "title": "US lawmakers threaten legal action against Attorney General over Epstein files",
+      "link": "https://www.bbc.com/news/articles/cdd5j9jdvy9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 22 Dec 2025 11:27:54 GMT",
+      "source": "BBC News"
+    },
+    {
       "title": "Kolejny kraj zakazuje chowu klatkowego. W Polsce żyje tak 40 mln kur",
       "link": "https://wiadomosci.onet.pl/swiat/kolejny-kraj-zakazuje-chowu-klatkowego-w-polsce-zyje-tak-40-mln-kur/8ppf22z",
       "pubDate": "Mon, 22 Dec 2025 11:27:52 GMT",
@@ -237,8 +501,20 @@
       "source": "Bankier.pl"
     },
     {
+      "title": "Słaby dolar, mocniejszy funt. Świąteczny tydzień na rynku walut",
+      "link": "https://www.bankier.pl/wiadomosc/Kursy-walut-22-grudnia-Dolar-slabnie-funt-odbija-9059544.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 22 Dec 2025 12:15:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "MON kupiło Hutę Częstochowa",
       "link": "https://www.rmf24.pl/regiony/slaskie/news-mon-kupilo-hute-czestochowa,nId,8052818",
+      "pubDate": "Mon, 22 Dec 2025 12:14:04 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "MON kupiło Hutę Częstochowa. \"To historyczny dzień\"",
+      "link": "https://www.rmf24.pl/regiony/slaskie/news-mon-kupilo-hute-czestochowa-to-historyczny-dzien,nId,8052818",
       "pubDate": "Mon, 22 Dec 2025 12:14:04 +0100",
       "source": "RMF24"
     },
@@ -1271,6 +1547,12 @@
     {
       "title": "Bondi shooters threw unexploded pipe bombs at crowd — police",
       "link": "https://www.dw.com/en/bondi-shooters-threw-unexploded-pipe-bombs-at-crowd-police/a-75262016?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 22 Dec 2025 09:27:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Women get drunk faster than men due to biology not tolerance",
+      "link": "https://www.dw.com/en/women-get-drunk-faster-than-men-due-to-biology-not-tolerance/a-75223854?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 22 Dec 2025 09:27:00 GMT",
       "source": "DW"
     },
@@ -2509,6 +2791,12 @@
       "link": "http://www.press.pl/tresc/90833,program-_na-linii-ognia_-w-telewizji-wpolsce24-oglada-srednio-127-tys_-widzow?rss=1",
       "pubDate": "Mon, 22 Dec 2025 07:15:00 +0100",
       "source": "Press.pl"
+    },
+    {
+      "title": "Australian move to fast-track new gun and protest laws after Bondi shooting draws criticism ",
+      "link": "https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 22 Dec 2025 06:14:56 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Facebook testuje pobieranie opłat od użytkowników za udostępnianie linków",
@@ -27711,6 +27999,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -29666,6 +29978,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69475,306 +69811,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Ekspert-Gruzja-jest-piec-minut-od-dyktatury-9051749.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 13 Dec 2025 12:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Wielki powrót Wojskowej Akademii Medycznej. MON wzmocni medycynę wojskową",
-      "link": "https://www.bankier.pl/wiadomosc/Wielki-powrot-Wojskowej-Akademii-Medycznej-MON-wzmocni-medycyne-wojskowa-9053444.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 13 Dec 2025 12:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Nie tylko mama, tata i dzieci\". Polacy coraz częściej tak wyjeżdżają",
-      "link": "https://tvn24.pl/biznes/turystyka/nie-tylko-mama-tata-i-dzieci-polacy-coraz-czesciej-tak-wyjezdzaja-st8799585?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:58:51 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kopalnia polskiego giganta w Kanadzie. Jest umowa z rdzenną ludnością",
-      "link": "https://biznes.interia.pl/gieldy/news-biznes-kghm-w-kanadzie-jest-wazne-porozumienie,nId,22498150",
-      "pubDate": "Sat, 13 Dec 2025 10:58:44 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Seria tragicznych pożarów, cztery osoby nie żyją",
-      "link": "https://tvn24.pl/kujawsko-pomorskie/psp-w-nocy-w-serii-tragicznych-pozarow-zycie-stracily-cztery-osoby-st8799779?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:56:13 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"To by zadziałało\". Trump mówi o wolnej strefie ekonomicznej w Donbasie",
-      "link": "https://www.money.pl/gospodarka/to-by-zadzialalo-trump-mowi-o-wolnej-strefie-ekonomicznej-w-donbasie-7231982815509440a.html",
-      "pubDate": "Sat, 13 Dec 2025 11:51:48 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Paraliż lotniska w Balicach. Mgła pokonała drugi największy port w Polsce",
-      "link": "https://www.bankier.pl/wiadomosc/Paraliz-lotniska-w-Balicach-Mgla-pokonala-drugi-najwiekszy-port-w-Polsce-9055228.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 13 Dec 2025 11:48:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Iwona Januszyk: Nie da się pojechać na igrzyska i nie walczyć o medale",
-      "link": "https://www.rmf24.pl/sport/news-iwona-januszyk-nie-da-sie-pojechac-na-igrzyska-i-nie-walczyc,nId,8050452",
-      "pubDate": "Sat, 13 Dec 2025 11:47:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kibice rozczarowani wizytą Leo Messiego w Kalkucie. Wdarli się na boisko i zdemolowali stadion",
-      "link": "https://www.rp.pl/spoleczenstwo/art43500321-kibice-rozczarowani-wizyta-leo-messiego-w-kalkucie-wdarli-sie-na-boisko-i-zdemolowali-stadion",
-      "pubDate": "Sat, 13 Dec 2025 11:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Jarosław Kaczyński na kongresie PiS. \"Oto najostrzejszy przejaw kryzysu w Polsce\"",
-      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-na-kongresie-pis-oto-najostrzejszy-przejaw-kryzysu-w-polsce/0e793bl",
-      "pubDate": "Sat, 13 Dec 2025 10:44:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Emeryt musi pokazać jeden dokument. Inaczej nie dostanie emerytury",
-      "link": "https://biznes.interia.pl/emerytury/news-emeryt-musi-pokazac-ten-dokument-inaczej-nie-wyplaca-mu-emer,nId,22465896",
-      "pubDate": "Sat, 13 Dec 2025 10:44:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zjechał z drogi i uderzył w drzewo. Dwie osoby nie żyją",
-      "link": "https://tvn24.pl/olsztyn/rejsyty-zjechal-z-drogi-i-uderzyl-w-drzewo-dwie-osoby-nie-zyja-st8799739?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:39:39 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Jeden z bohaterów mówi: nie byłem w stanie podnieść się\"",
-      "link": "https://tvn24.pl/polska/wypalenie-zawodowe-jeden-z-bohaterow-mowi-nie-bylem-w-stanie-podniesc-sie-st8799657?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:39:15 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Jeden z bohaterów mówi: nie byłem w stanie się podnieść\"",
-      "link": "https://tvn24.pl/polska/wypalenie-zawodowe-jeden-z-bohaterow-mowi-nie-bylem-w-stanie-sie-podniesc-st8799657?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:39:15 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Miał być pokój, jest wojna. Padły strzały na granicy turystycznego raju",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-13/mial-byc-pokoj-jest-wojna-padly-strzaly-na-granicy-turystycznego-raju/",
-      "pubDate": "Sat, 13 Dec 2025 11:38:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Rosja posłała falę dronów i rakiet na Ukrainę. Zmasowany atak, sytuacja krytyczna",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rosja-poslala-fale-dronow-i-rakiet-na-ukraine-zmasowany-atak,nId,22498137",
-      "pubDate": "Sat, 13 Dec 2025 10:35:06 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Wjechał w pieszą na pasach. Nagranie \"ku przestrodze\"",
-      "link": "https://tvn24.pl/lublin/ryki-potracenie-na-pasach-64-latka-trafila-do-szpitala-st8799717?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:25:12 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "W Chinach zaprezentowano pierwszego na świecie sześcioramiennego humanoida",
-      "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-w-chinach-zaprezentowano-pierwszego-na-swiecie-szescioramien,nId,22497787",
-      "pubDate": "Sat, 13 Dec 2025 10:23:17 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Angry fans throw chairs and bottles at Messi event in India",
-      "link": "https://www.bbc.com/news/articles/c4g66nll48do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:22:24 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Szykowali je na Ukrainę. Dziesiątki bomb spadły na Rosję",
-      "link": "https://tech.wp.pl/szykowali-je-na-ukraine-dziesiatki-bomb-spadly-na-rosje,7231947765631904a",
-      "pubDate": "Sat, 13 Dec 2025 11:21:37 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Nowy rok z nowym laptopem? Brzmi jak plan!",
-      "link": "https://www.tabletowo.pl/nowy-rok-z-nowym-laptopem-brzmi-jak-plan/",
-      "pubDate": "Sat, 13 Dec 2025 10:21:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Włochy kwestionują pomysł KE na wsparcie dla Ukrainy. Chcą \"planu B\" ",
-      "link": "https://biznes.interia.pl/polityka/news-wlochy-kwestionuja-pomysl-ke-na-wsparcie-dla-ukrainy-chca-pl,nId,22498129",
-      "pubDate": "Sat, 13 Dec 2025 10:20:36 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Fiasko wspólnej listy demokratów. Albo prawica z Braunem, albo Tusk z Mentzenem [DWA SONDAŻE]",
-      "link": "https://oko.press/sondaze-albo-prawica-z-braunem-albo-tusk-z-mentzenem",
-      "pubDate": "Sat, 13 Dec 2025 10:17:50 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Weekend Cudów Szlachetnej Paczki - blisko 20 tysięcy rodzin otrzyma pomoc",
-      "link": "https://www.rmf24.pl/fakty/polska/news-weekend-cudow-szlachetnej-paczki-blisko-20-tysiecy-rodzin-ot,nId,8050451",
-      "pubDate": "Sat, 13 Dec 2025 11:15:47 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Kulisy awantury o MiG-i. \"W Pałacu Prezydenckim trwa wojna podjazdowa\"",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/kulisy-awantury-o-mig-i-w-palacu-prezydenckim-trwa-wojna-podjazdowa/vnjzzw5",
-      "pubDate": "Sat, 13 Dec 2025 10:13:25 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gigantyczne przetasowanie. Europa ma już nie jednego, a dwóch przeciwników. \"USA Trumpa stają się drapieżnikiem\" [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/kurtyna-opadla-trump-chce-podzielic-swiat-na-strefy-wplywow-piec-drapieznikow/5s5scft",
-      "pubDate": "Sat, 13 Dec 2025 10:11:02 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dwa lata koalicji. Zemsta na PiS i nic więcej",
-      "link": "https://wydarzenia.interia.pl/felietony/news-dwa-lata-koalicji-zemsta-na-pis-i-nic-wiecej,nId,22497702",
-      "pubDate": "Sat, 13 Dec 2025 10:09:31 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Po 17 latach w więzieniu \"chciał życia jak w serialu\", po 20 dniach wrócił za kraty",
-      "link": "https://tvn24.pl/krakow/krakow-zatrzymali-mezczyzne-podejrzanego-o-gwalty-20-dni-wczesniej-wyszedl-z-wiezienia-st8799692?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 10:09:15 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Konfrontacja z PiS opłaca się partii Donalda Tuska? Andrzej Stankiewicz mówi o \"żurkoizacji\" rządu",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/kto-najgrozniejszym-przeciwnikiem-ko-tusk-udaje-ze-to-nawrocki/hwqxshq",
-      "pubDate": "Sat, 13 Dec 2025 10:03:18 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jeden z największych ataków na Odessę. Miasto bez prądu, ciepła i wody",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-jeden-z-najwiekszych-atakow-na-odesse-miasto-bez-pradu-ciepl,nId,8050450",
-      "pubDate": "Sat, 13 Dec 2025 11:03:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Polacy zapytani o sojusz z USA, w tle nowa strategia. Wyniki niepokojące",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-polacy-zapytani-o-sojusz-z-usa-w-tle-nowa-strategia-wyniki-n,nId,22498128",
-      "pubDate": "Sat, 13 Dec 2025 10:02:51 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Polacy ocenili rząd Donalda Tuska jak w szkole. \"Jedynek\" jest najwięcej [SONDAŻ]",
-      "link": "https://wiadomosci.onet.pl/kraj/polacy-ocenili-rzad-donalda-tuska-jak-w-szkole-jedynek-jest-najwiecej-sondaz/bnvf50z",
-      "pubDate": "Sat, 13 Dec 2025 10:01:03 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Człowiek rozszerzony. Jak wearables zmieniają nasze ciała i umysły",
-      "link": "https://antyweb.pl/czlowiek-rozszerzony-jak-wearables-zmieniaja-nasze-ciala-i-umysly",
-      "pubDate": "Sat, 13 Dec 2025 10:00:48 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Urbanistyczne Google Maps. Koniec z korupcją",
-      "link": "https://spidersweb.pl/2025/12/mapa-3d-zabudowy-ziemi-globalbuildingatlas.html",
-      "pubDate": "Sat, 13 Dec 2025 11:00:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Wsparcie dla kobiet po traumie wojennej. Fińska nagroda trafia do Kijowa",
-      "link": "https://www.bankier.pl/wiadomosc/Wsparcie-dla-kobiet-po-traumie-wojennej-Finska-nagroda-trafia-do-Kijowa-9052439.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 13 Dec 2025 11:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Amflow wchodzi do Polski. Nowa perełka w ofercie Kross pyta, czy jesteś gotowy na rower za 42000 zł?",
-      "link": "https://www.chip.pl/2025/12/kross-rower-amflow-pl-carbon-pro-800",
-      "pubDate": "Sat, 13 Dec 2025 09:59:03 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Dwa lata od zaprzysiężenia rządu. Donald Tusk zabrał głos. \"Biorę pełną odpowiedzialność\"",
-      "link": "https://wiadomosci.onet.pl/kraj/dwa-lata-od-zaprzysiezenia-rzadu-donald-tusk-zabral-glos-biore-odpowiedzialnosc/7gr81lz",
-      "pubDate": "Sat, 13 Dec 2025 09:58:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Chińczycy chcą stworzyć miedziowe imperium. Liczą na miliardy dolarów",
-      "link": "https://www.money.pl/gospodarka/chinczycy-chca-stworzyc-miedziowe-imperium-licza-na-miliardy-dolarow-7231972673235904a.html",
-      "pubDate": "Sat, 13 Dec 2025 10:58:05 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Ostrzał uszkodził dom, ulewa go powaliła",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/strefa-gazy-ostrzal-uszkodzil-dom-ulewa-go-powalila-16-osob-nie-zyje-st8799561?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 09:57:39 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Krytyczna ocena rządu. Ponad 40% Polaków mówi, że jest gorzej",
-      "link": "https://www.bankier.pl/wiadomosc/Krytyczna-ocena-rzadu-Ponad-40-Polakow-mowi-ze-jest-gorzej-9055217.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 13 Dec 2025 10:56:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Nowe przepisy o układach zbiorowych weszły w życie",
-      "link": "https://pro.rp.pl/prawo-pracy/art43487871-nowe-przepisy-o-ukladach-zbiorowych-weszly-w-zycie",
-      "pubDate": "Sat, 13 Dec 2025 10:55:12 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Fotobudki udostępniały zdjęcia klientów. Rażące zaniedbania zabezpieczeń",
-      "link": "https://android.com.pl/tech/1001059-fotobudki-udostepnialy-zdjecia/",
-      "pubDate": "Sat, 13 Dec 2025 09:53:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "\"To nic wielkiego\". Wymowne słowa Trumpa po ujawnieniu zdjęć z Epsteinem",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-13/to-nic-wielkiego-wymowne-slowa-trumpa-po-ujawnieniu-zdjec-z-epsteinem/",
-      "pubDate": "Sat, 13 Dec 2025 10:50:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Prawie 3 tys. zatrzymanych w kilka godzin. 44 lata temu wprowadzono stan wojenny",
-      "link": "https://www.rmf24.pl/fakty/polska/news-prawie-3-tys-zatrzymanych-w-kilka-godzin-44-lata-temu-wprowa,nId,8050447",
-      "pubDate": "Sat, 13 Dec 2025 10:49:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Wyprzedzał przed przejściem dla pieszych. Nie wiedział, że mija radiowóz",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/radom-wyprzedzanie-radiowoz-przed-przejsciem-dla-pieszych-odpowie-teraz-przed-sadem-st8799394?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 09:48:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Laureatka pokojowego Nobla aresztowana w Iranie",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/laureatka-pokojowego-nobla-aresztowana-w-iranies",
-      "pubDate": "Sat, 13 Dec 2025 09:46:27 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Pesel zastrzeżesz nie wychodząc z domu. Weź telefon i poświęć chwilę",
-      "link": "https://biznes.interia.pl/finanse/news-pesel-zastrzezesz-nie-wychodzac-z-domu-wez-telefon-i-poswiec,nId,22463126",
-      "pubDate": "Sat, 13 Dec 2025 09:44:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zgaszą pożar głośnikami. Przełom w technologii infradźwięków",
-      "link": "https://tech.wp.pl/zgasza-pozar-glosnikami-przelom-w-technologii-infradzwiekow,7231969597979552a",
-      "pubDate": "Sat, 13 Dec 2025 10:41:22 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Philippines says China coast guard damages fishing vessels",
-      "link": "https://www.dw.com/en/philippines-says-china-coast-guard-damages-fishing-vessels/a-75140557?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 13 Dec 2025 09:40:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Tak pracodawcy szukają oszczędności. Eksperci wskazują niepokojące sygnały",
-      "link": "https://wiadomosci.onet.pl/kraj/tak-pracodawcy-szukaja-oszczednosci-eksperci-wskazuja-niepokojace-sygnaly/qcglv7d",
-      "pubDate": "Sat, 13 Dec 2025 09:37:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Wiemy, kiedy powróci mroźna i śnieżna zima. Przełom możliwy już w okolicach świąt",
-      "link": "https://wiadomosci.onet.pl/pogoda/sniezna-i-mrozna-zima-coraz-blizej-polski-duze-zmiany-juz-w-czasie-swiat/2xl234v",
-      "pubDate": "Sat, 13 Dec 2025 09:36:24 GMT",
-      "source": "Onet"
     }
   ]
 }
