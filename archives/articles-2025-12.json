@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-22T21:54:25.535Z",
+  "generatedAt": "2025-12-22T22:14:44.826Z",
   "items": [
+    {
+      "title": "Zapytali Rosjan o wojnę. Krach dla Putina, zwątpienie w możliwości USA",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-zapytali-rosjan-o-wojne-krach-dla-putina-zwatpienie-w-mozliw,nId,22502260",
+      "pubDate": "Mon, 22 Dec 2025 21:49:40 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Ważna ustawa skierowana do Trybunału Konstytucyjnego. Jest decyzja Karola Nawrockiego",
       "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-skierowal-wazna-ustawe-do-tk-na-tym-polega-problem/4bhye01",
@@ -31821,6 +31827,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -33776,6 +33806,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -70837,24 +70891,6 @@
       "link": "https://www.dw.com/en/hungary-thousands-march-demanding-orban-s-ouster/a-75149845?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 14 Dec 2025 09:43:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "W tych dniach nadejdzie nagły zwrot w pogodzie. Mamy nową prognozę do końca grudnia",
-      "link": "https://wiadomosci.onet.pl/pogoda/wiemy-kiedy-zaatakuje-sniezna-i-mrozna-zima-mamy-nowa-prognoze-do-konca-roku/fpnvebz",
-      "pubDate": "Sun, 14 Dec 2025 09:42:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nie będzie ojcobójstwa w Nowej Lewicy. Parta się optymalizuje",
-      "link": "https://oko.press/nie-bedzie-ojcobojstwa-w-nowej-lewicy-parta-sie-optymalizuje",
-      "pubDate": "Sun, 14 Dec 2025 09:41:50 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "\"Będzie nam ich brakować\". Brytyjczycy tropią przyczyny exodusu Polaków",
-      "link": "https://www.rmf24.pl/fakty/polska/news-bedzie-nam-ich-brakowac-brytyjczycy-tropia-przyczyny-exodusu,nId,8050530",
-      "pubDate": "Sun, 14 Dec 2025 10:41:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
