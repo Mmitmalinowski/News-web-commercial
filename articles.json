@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2025-12-22T19:37:21.617Z",
+  "generatedAt": "2025-12-22T19:46:44.240Z",
   "items": [
+    {
+      "title": "Dwa fundamentalne projekty na obradach rządu. Minister sprawiedliwości zapowiada",
+      "link": "https://businessinsider.com.pl/prawo/ustawa-o-krs-i-praworzadnosc-waldemar-zurek-zapowiada-wazny-dzien/4kvxm13",
+      "pubDate": "Mon, 22 Dec 2025 19:44:48 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Innowacje kształtują nowe oblicze produkcji",
+      "link": "https://www.rp.pl/biznes/art43551661-innowacje-ksztaltuja-nowe-oblicze-produkcji",
+      "pubDate": "Mon, 22 Dec 2025 20:42:21 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Trump mianował wysłannika ds. Grenlandii. Ambasador USA otrzyma wezwanie do duńskiego MSZ",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-22/trump-mianowal-wyslannika-ds-grenlandii-ambasador-usa-otrzyma-wezwanie-do-dunskiego-msz/",
+      "pubDate": "Mon, 22 Dec 2025 20:41:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Petru stworzył \"zarząd\", podał nazwiska. \"Z większością nie rozmawiałem\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-petru-stworzyl-zarzad-podal-nazwiska-z-wiekszoscia-nie-rozma,nId,22502238",
@@ -31196,6 +31214,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -33151,6 +33193,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -70499,36 +70565,6 @@
       "title": "Nowy sondaż. Polacy nie mają wątpliwości w sprawie zakończenia wojny",
       "link": "https://wiadomosci.onet.pl/swiat/nowy-sondaz-polacy-nie-maja-watpliwosci-w-sprawie-zakonczenia-wojny/xcqnb0s",
       "pubDate": "Sun, 14 Dec 2025 07:53:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dlaczego Donald Trump chce obalić Nicolása Maduro? Ekspert wskazuje na mieszankę dwóch spraw",
-      "link": "https://www.rp.pl/polityka/art43500651-dlaczego-donald-trump-chce-obalic-nicolasa-maduro-ekspert-wskazuje-na-mieszanke-dwoch-spraw",
-      "pubDate": "Sun, 14 Dec 2025 08:53:21 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Mieli planować atak na jarmark bożonarodzeniowy. Zatrzymania w Niemczech",
-      "link": "https://tvn24.pl/swiat/mieli-planowac-atak-na-jarmark-bozonarodzeniowy-zatrzymania-w-niemczech-st8800534?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 07:46:01 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Są dużym wsparciem finansowym. Sprawdzamy kryteria przyznawania na 2026 rok",
-      "link": "https://biznes.interia.pl/finanse/news-sa-duzym-wsparciem-finansowym-sprawdzamy-kryteria-przyznawan,nId,22463683",
-      "pubDate": "Sun, 14 Dec 2025 07:44:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Uderzenie chłodu. Alarmy dla prawie 50 milionów ludzi",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-uderzenie-chlodu-alarmy-dla-prawie-50-milionow-ludzi-st8800563?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 07:42:50 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Spór Karola Nawrockiego z Donaldem Tuskiem. Jednoznaczna opinia Polaków [SONDAŻ]",
-      "link": "https://wiadomosci.onet.pl/kraj/spor-karola-nawrockiego-z-donaldem-tuskiem-jednoznaczna-opinia-polakow-sondaz/rqh8bgf",
-      "pubDate": "Sun, 14 Dec 2025 07:40:06 GMT",
       "source": "Onet"
     },
     {
@@ -119876,6 +119912,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -127856,6 +127916,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -165476,6 +165560,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
           "@_thr:count": "12"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:31:44Z",
@@ -224636,6 +224744,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "15",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-26T13:33:37Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Podkarpacka policja postawiona na nogi. Zaginęła 13-letnia Karolina Łobodzińska",
       "link": "https://wiadomosci.onet.pl/kraj/zaginela-nastoletnia-karolina-lobodzinska-policja-wydala-pilny-apel/5jqv1qb",
       "pubDate": "Wed, 26 Nov 2025 13:33:24 GMT",
@@ -225492,30 +225624,6 @@
       "link": "http://www.euronews.com/green/2025/11/26/one-of-the-worlds-most-endangered-species-is-being-eaten-into-extinction-researchers-warn",
       "pubDate": "Wed, 26 Nov 2025 13:00:18 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Rektor UKSW reaguje na reportaż TVN. Zapowiada kroki prawne",
-      "link": "https://www.wirtualnemedia.pl/rektor-uksw-reaguje-na-reportaz-tvn-zapowiada-kroki-prawne,7225990601652800a",
-      "pubDate": "Wed, 26 Nov 2025 12:59:54 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Grokipedia cytuje najmroczniejsze zakątki internetu",
-      "link": "https://mamstartup.pl/grokipedia-cytuje-najmroczniejsze-zakatki-internetu/",
-      "pubDate": "Wed, 26 Nov 2025 11:59:49 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Polska kupuje okręty podwodne. Tusk: Finalizujemy",
-      "link": "https://www.rmf24.pl/fakty/polska/news-polska-kupuje-okrety-podwodne-tusk-finalizujemy,nId,8044102",
-      "pubDate": "Wed, 26 Nov 2025 12:59:08 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Wdrażanie założeń ESG ważnym elementem Strategii Rozwoju Grupy Enea",
-      "link": "https://wiadomosci.onet.pl/kraj/wdrazanie-zalozen-esg-waznym-elementem-strategii-rozwoju-grupy-enea/rjet425",
-      "pubDate": "Wed, 26 Nov 2025 11:59:00 GMT",
-      "source": "Onet"
     }
   ],
   "totalArticles": 20000,
