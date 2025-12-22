@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-22T22:38:48.989Z",
+  "generatedAt": "2025-12-22T22:51:56.832Z",
   "items": [
+    {
+      "title": "Opolskie wydawnictwo chce przejąc udziały Polska Press w spółce wydającej \"Nową Trybunę Opolską\"",
+      "link": "http://www.press.pl/tresc/90843,opolskie-wydawnictwo-chce-przejac-udzialy-polska-press-w-spolce-wydajacej-_nowa-trybune-opolska_?rss=1",
+      "pubDate": "Mon, 22 Dec 2025 23:46:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Democratic states sue to block Trump’s defunding of US consumer watchdog",
+      "link": "https://www.theguardian.com/us-news/2025/dec/22/democrats-lawsuit-trump-consumer-financial-protection-bureau",
+      "pubDate": "Mon, 22 Dec 2025 22:41:11 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Keir Starmer told closer EU trade ties ‘strategic necessity’ for UK firms",
+      "link": "https://www.theguardian.com/politics/2025/dec/22/keir-starmer-told-closer-eu-trade-ties-strategic-necessity-for-uk-firms",
+      "pubDate": "Mon, 22 Dec 2025 22:30:39 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "W Radiu Eska Wigilia ze słuchaczami, a święta z gwiazdami",
       "link": "http://www.press.pl/tresc/90842,w-radiu-eska-wigilia-ze-sluchaczami_-a-swieta-z-gwiazdami?rss=1",
@@ -31887,6 +31905,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -33842,6 +33884,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -70897,36 +70963,6 @@
       "link": "https://www.rmf24.pl/polityka/news-zwrot-akcji-bbn-przywraca-raport-komisji,nId,8050531",
       "pubDate": "Sun, 14 Dec 2025 10:57:41 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Dzięki Gemini niedługo lepiej dogadasz się z ludźmi (i nie tylko)",
-      "link": "https://www.tabletowo.pl/lepiej-dogadasz-sie-z-ludzmi-dzieki-gemini/",
-      "pubDate": "Sun, 14 Dec 2025 09:57:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Dwa samochody uszkodzone. Jedna osoba w szpitalu  ",
-      "link": "https://tvn24.pl/tvnwarszawa/targowek/warszawa-zderzenie-na-ulicy-piotra-wysockiego-dwa-samochody-uszkodzone-st8800746?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 09:56:22 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Polska nieobecna przy stole negocjacyjnym. Oto dwa główne powody",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/polska-nieobecna-przy-stole-negocjacyjnym-oto-dwa-glowne-powody/20h5sxk",
-      "pubDate": "Sun, 14 Dec 2025 09:51:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Polska nieobecna w rozmowach o Ukrainie. Dwa główne powody",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/polska-nieobecna-w-rozmowach-o-ukrainie-dwa-glowne-powody/20h5sxk",
-      "pubDate": "Sun, 14 Dec 2025 09:51:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rosyjskie ataki na kluczowy sektor. \"Nie próbują już spowodować systemowego załamania. Zmienili taktykę\"",
-      "link": "https://wiadomosci.onet.pl/swiat/rosyjskie-ataki-na-kluczowy-sektor-w-ukrainie-zmienili-taktyke/f2j611x",
-      "pubDate": "Sun, 14 Dec 2025 09:46:48 GMT",
-      "source": "Onet"
     }
   ]
 }
