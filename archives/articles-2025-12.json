@@ -1,12 +1,144 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-22T14:29:08.952Z",
+  "generatedAt": "2025-12-22T14:47:36.909Z",
   "items": [
+    {
+      "title": "Wystarczy jedna łyżka! Dlaczego coraz więcej osób wrzuca fusy po kawie do toalety. Sprawdzamy, o co chodzi!",
+      "link": "https://www.rmf24.pl/ciekawostki/news-wystarczy-jedna-lyzka-dlaczego-coraz-wiecej-osob-wrzuca-fusy,nId,8052942",
+      "pubDate": "Mon, 22 Dec 2025 15:44:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Uważaj na fałszywe maile od „hoteli”",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/uwazaj-na-falszywe-maile-od-hoteli",
+      "pubDate": "Mon, 22 Dec 2025 15:43:52 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "MF podało najnowsze dane. Rośnie zadłużenie Skarbu Państwa",
+      "link": "https://biznes.interia.pl/gospodarka/news-mf-podalo-najnowsze-dane-rosnie-zadluzenie-skarbu-panstwa,nId,22502173",
+      "pubDate": "Mon, 22 Dec 2025 14:41:57 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Dojazdy do pracy a zwrot kosztów. Co mówią przepisy?",
+      "link": "https://businessinsider.com.pl/praca/czy-mozna-odzyskac-pieniadze-za-dojazd-do-pracy-co-mowia-przepisy/kcxfg2w",
+      "pubDate": "Mon, 22 Dec 2025 14:40:48 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Polski przełom w leczeniu raka jelita. \"Mamy więcej niż zalążek leku\"",
+      "link": "https://tvn24.pl/zdrowie/polski-przelom-w-leczeniu-raka-jelita-mamy-wiecej-niz-zalazek-leku-st8813611?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:40:29 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kraciaste siedzenia i zasłonki z PRL wracają. PKP pokazało wagon retro",
+      "link": "https://geekweek.interia.pl/transport/news-retro-na-torach-pkp-przywraca-wagony-z-czasow-prl,nId,22502028",
+      "pubDate": "Mon, 22 Dec 2025 14:40:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Ponad 2 mln zł na sylwestra TV Republika u \"złotego dziecka PiS\". Płacą samorządy",
+      "link": "https://wiadomosci.onet.pl/lublin/sylwester-tv-republika-w-chelmie-miliony-z-samorzadow-pis-znamy-konkretne-kwoty/464vbz5",
+      "pubDate": "Mon, 22 Dec 2025 14:39:50 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Czym są platformy telemetryczne i kto może skorzystać z potencjału takich rozwiązań?",
+      "link": "https://www.chip.pl/2025/12/czym-sa-platformy-telemetryczne-i-kto-moze-skorzystac-z-potencjalu-takich-rozwiazan",
+      "pubDate": "Mon, 22 Dec 2025 14:37:55 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Kto tropi rosyjskich generałów? Kolejny zamach w Moskwie",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43548031-kto-tropi-rosyjskich-generalow-kolejny-zamach-w-moskwie",
+      "pubDate": "Mon, 22 Dec 2025 15:36:50 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Tusk znalazł benzynę po 5,18 zł za litr. \"Mogę być winny grosika?\"",
+      "link": "https://biznes.interia.pl/finanse/news-tusk-znalazl-benzyne-po-5-18-zl-za-litr-moge-byc-winny-grosi,nId,22502138",
+      "pubDate": "Mon, 22 Dec 2025 14:35:53 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Soja rzekomo „zmienia orientację seksualną”. List prof. Szuster-Ciesielskiej do Marszałka Sejmu",
+      "link": "https://oko.press/soja-rzekomo-zmienia-orientacje-seksualna-list-prof-szuster-ciesielskiej-do-marszalka-sejmu",
+      "pubDate": "Mon, 22 Dec 2025 14:34:06 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Największa elektrownia atomowa świata wraca do pracy. 15 lat po katastrofie",
+      "link": "https://biznes.interia.pl/energetyka/news-najwieksza-elektrownia-atomowa-swiata-wraca-do-pracy-15-lat,nId,22502136",
+      "pubDate": "Mon, 22 Dec 2025 14:32:34 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Rosja solennie zapewnia, dementuje i oskarża. Co usatysfakcjonuje Putina?",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-rosja-solennie-zapewnia-dementuje-i-oskarza-co-usatysfakcjon,nId,8052885",
+      "pubDate": "Mon, 22 Dec 2025 15:31:38 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "NASA prezentuje najdokładniejszą mapę wszechświata w podczerwieni",
+      "link": "https://geekweek.interia.pl/kosmos/news-nasa-prezentuje-najdokladniejsza-mape-wszechswiata-w-podczer,nId,22501928",
+      "pubDate": "Mon, 22 Dec 2025 14:30:23 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Koniec przywilejów, GeForce NOW wprowadza limit godzin dla wszystkich abonentów",
+      "link": "https://www.chip.pl/2025/12/geforce-now-wprowadza-limit-godzin-100",
+      "pubDate": "Mon, 22 Dec 2025 14:30:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Żurek nie odpuszcza. Jest ruch ws. Romanowskiego",
+      "link": "https://www.rmf24.pl/polityka/news-zurek-nie-odpuszcza-jest-ruch-ws-romanowskiego,nId,8052935",
+      "pubDate": "Mon, 22 Dec 2025 15:29:18 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Europejski Nakaz Aresztowania wobec Marcina Romanowskiego. Minister Żurek o nowych działaniach",
+      "link": "https://businessinsider.com.pl/wiadomosci/europejski-nakaz-aresztowania-wobec-marcina-romanowskiego-minister-zurek-o-nowych/3r3qljh",
+      "pubDate": "Mon, 22 Dec 2025 14:28:56 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Jest nowy wniosek o ENA dla Romanowskiego",
+      "link": "https://tvn24.pl/polska/jest-nowy-wniosek-o-ena-dla-marcina-romanowskiego-st8814042?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:28:18 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Wniosek o ENA za Marcinem Romanowskim. Waldemar Żurek ogłasza",
       "link": "https://wydarzenia.interia.pl/kraj/news-wniosek-o-ena-za-marcinem-romanowskim-waldemar-zurek-oglasza,nId,22502176",
       "pubDate": "Mon, 22 Dec 2025 14:28:00 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "AFCON: A 3,000-kilometer bike ride to catch the opener",
+      "link": "https://www.dw.com/en/afcon-a-3-000-kilometer-bike-ride-to-catch-the-opener/a-75269413?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 22 Dec 2025 14:28:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Wydobyli samochód z dna rzeki",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/pultusk-auto-zatopione-w-rzece-akcja-strazakow-st8814001?source=rss",
+      "pubDate": "Mon, 22 Dec 2025 14:27:32 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nowy ruch w sprawie Marcina Romanowskiego. Minister Żurek zabrał głos",
+      "link": "https://wiadomosci.onet.pl/kraj/nowy-ruch-w-sprawie-marcina-romanowskiego-minister-zurek-zabral-glos/yb3pcrm",
+      "pubDate": "Mon, 22 Dec 2025 14:26:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "KNF dała zielone światło. Nowy prezes PZU obejmuje stery",
+      "link": "https://businessinsider.com.pl/wiadomosci/komisja-nadzoru-finansowego-zatwierdzila-bogdana-benczaka-na-prezesa-pzu/kmf1n26",
+      "pubDate": "Mon, 22 Dec 2025 14:26:49 GMT",
+      "source": "Business Insider"
     },
     {
       "title": "India's nuclear expansion draws global interest",
@@ -29025,6 +29157,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -30980,6 +31136,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69811,150 +69991,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Bundeswehra-w-Polsce-Niemieccy-zolnierze-pomoga-przy-Tarczy-Wschod-9055272.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 13 Dec 2025 16:18:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Wiadomo, gdzie wywieziono uwolnionych przez Łukaszenkę więźniów politycznych",
-      "link": "https://wiadomosci.onet.pl/swiat/wiadomo-gdzie-wywieziono-uwolnionych-przez-lukaszenke-wiezniow-politycznych/13fe2pm",
-      "pubDate": "Sat, 13 Dec 2025 15:14:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ukraińcy pozywają amerykańskie giganty za biznes z mordercami. Koniec pobłażania",
-      "link": "https://spidersweb.pl/2025/12/ukraincy-pozywaja-amerykanskie-firmy.html",
-      "pubDate": "Sat, 13 Dec 2025 16:10:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Premier Słowacji wzywa do współpracy z Rosją. \"Nie bądźmy naiwni\"",
-      "link": "https://www.money.pl/gospodarka/premier-slowacji-wzywa-do-wspolpracy-z-rosja-nie-badzmy-naiwni-7232042174999456a.html",
-      "pubDate": "Sat, 13 Dec 2025 16:07:57 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Białoruś wypuszcza więźniów politycznych. Na liście laureat pokojowego Nobla",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/bialorus-wypuszcza-wiezniow-politycznych-na-liscie-laureat-pokojowego-nobla",
-      "pubDate": "Sat, 13 Dec 2025 15:04:06 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Czołowe zderzenie podczas wyprzedzania, trzy osoby w szpitalu ",
-      "link": "https://tvn24.pl/lublin/czolowe-zderzenie-podczas-wyprzedzania-trzy-osoby-w-szpitalu-st8800255?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 15:02:10 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "How did Mail on Sunday’s US editor become ‘rock solid friend’ of Meghan’s father?",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/13/meghan-duchess-sussex-mail-on-sunday-us-editor-rock-solid-friend-father",
-      "pubDate": "Sat, 13 Dec 2025 15:00:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Gavin Newsom pushes back on Trump AI executive order preempting state laws",
-      "link": "https://www.theguardian.com/technology/2025/dec/13/california-ai-executive-order-trump-gavin-newsom",
-      "pubDate": "Sat, 13 Dec 2025 15:00:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Jechał autem wartym 750 tysięcy złotych, odpowie za paserstwo",
-      "link": "https://tvn24.pl/lublin/terespol-na-granicy-zatrzymano-bmw-pochodzace-z-kradziezy-26-letni-wloch-trafil-do-aresztu-st8799902?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 15:00:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Chiny odrzucają amerykańskie chipy. Nie dlatego, że są słabsze czy droższe",
-      "link": "https://spidersweb.pl/2025/12/chiny-amerykanskie-chipy.html",
-      "pubDate": "Sat, 13 Dec 2025 16:00:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Test Epson EcoTank L4360. Tanie drukowanie i świetne zdjęcia",
-      "link": "https://www.chip.pl/2025/12/epson-ecotank-l4360-test-recenzja-opinia",
-      "pubDate": "Sat, 13 Dec 2025 15:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Orientujesz się w korporacyjnym świecie? To musisz znać te 15 skrótów!",
-      "link": "https://businessinsider.com.pl/wiadomosci/orientujesz-sie-w-korporacyjnym-swiecie-to-musisz-znac-te-15-skrotow/wkrg6kv",
-      "pubDate": "Sat, 13 Dec 2025 15:00:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Prezent dla gigantów. Google, Meta i OpenAI wylobbowały federalne ramy prawne",
-      "link": "https://www.bankier.pl/wiadomosc/Prezent-dla-gigantow-Google-Meta-i-OpenAI-wylobbowaly-federalne-ramy-prawne-9054435.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 13 Dec 2025 16:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Rzecznik MSZ: Poczobut dostał propozycję. Odmówił",
-      "link": "https://tvn24.pl/swiat/andrzej-poczobut-wciaz-w-bialoruskim-lagrze-rzecznik-msz-dostal-propozycje-ale-odmowil-nie-przestaniemy-probowac-go-uwolnic-st8800233?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 14:59:35 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Konsekwentnie działamy na rzecz uwolnienia Andrzeja Poczobuta\"",
-      "link": "https://tvn24.pl/swiat/andrzej-poczobut-wciaz-w-bialoruskim-lagrze-rzecznik-msz-nie-przestaniemy-probowac-go-uwolnic-st8800233?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 14:59:35 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Postaci Disneya w OpenAI. Umowa gigantów budzi kontrowersje",
-      "link": "https://tvn24.pl/biznes/tech/disney-zawiera-umowe-z-openai-zinwestuje-1-mld-dolarow-w-tworce-chatgpt-st8800152?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 14:57:10 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Belarus releases political prisoners including Nobel winner",
-      "link": "https://www.dw.com/en/belarus-releases-political-prisoners-including-nobel-winner/a-75144710?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 13 Dec 2025 14:55:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Jan Maria Tomaszewski ujawnia, co Jarosław Kaczyński zamierza robić w święta",
-      "link": "https://wiadomosci.onet.pl/kraj/jan-maria-tomaszewski-ujawnia-co-jaroslaw-kaczynski-zamierza-robic-w-swieta/yx1j2vf",
-      "pubDate": "Sat, 13 Dec 2025 14:54:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Koalicja wchodzi w decydującą fazę. \"Pierwsza połowa rządów była fatalna\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-czy-polakom-zyje-sie-lepiej-2026-r-bedzie-najwazniejszy-dla,nId,22498069",
-      "pubDate": "Sat, 13 Dec 2025 14:53:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Two girls, 9 and 11, awarded $31.5m after sister’s California torture death",
-      "link": "https://www.theguardian.com/us-news/2025/dec/13/adopted-girl-torture-death-california-settlement",
-      "pubDate": "Sat, 13 Dec 2025 14:52:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Andrzej Poczobut nie znalazł się na liście 123 więźniów uwolnionych przez Łukaszenkę",
-      "link": "http://www.press.pl/tresc/90722,andrzej-poczobut-nie-znalazl-sie-na-liscie-123-uwolnionych-przez-Lukaszenke-wiezniow?rss=1",
-      "pubDate": "Sat, 13 Dec 2025 15:50:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Niezwykły obiekt na krańcu świata. Nowa broń USA już działa",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-13/niezwykly-obiekt-na-krancu-swiata-nowa-bron-usa-juz-dziala/",
-      "pubDate": "Sat, 13 Dec 2025 15:46:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Co dalej z Donbasem? Trump: wiele osób by tego chciało",
-      "link": "https://tvn24.pl/swiat/co-dalej-z-donbasem-donald-trump-wiele-osob-by-tego-chcialo-st8799778?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 14:45:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Potęga na glinianych nogach. \"Niezniszczalna\" broń rosyjskiej obrony powietrznej to tylko mit Kremla. Raport obnaża jej słabe ogniwo. Ujawniamy",
-      "link": "https://wiadomosci.onet.pl/swiat/potega-na-glinianych-nogach-niezniszczalna-bron-rosyjskiej-obrony-powietrznej-to/6c32f74",
-      "pubDate": "Sat, 13 Dec 2025 14:44:21 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Bus uderzył w bariery. \"Trzy osoby z poważnymi obrażeniami\"",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/s8-lucynow-zderzenia-na-s8-ranni-utrudnienia-korek-st8800208?source=rss",
-      "pubDate": "Sat, 13 Dec 2025 14:43:47 GMT",
-      "source": "TVN24"
     }
   ]
 }
