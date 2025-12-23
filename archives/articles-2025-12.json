@@ -1,12 +1,78 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-23T05:22:02.243Z",
+  "generatedAt": "2025-12-23T05:45:00.542Z",
   "items": [
+    {
+      "title": "David Brooks, felietonista \"The New York Times\", na zdjęciach z posiadłości Epsteina",
+      "link": "http://www.press.pl/tresc/90851,david-brooks_-felietonista-_the-new-york-times__-na-zdjeciach-z-posiadlosci-epsteina?rss=1",
+      "pubDate": "Tue, 23 Dec 2025 06:43:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Dzienniki Polska Press z dodatkiem promującym szczere rozmowy",
+      "link": "http://www.press.pl/tresc/90849,dzienniki-polska-press-z-dodatkiem-promujacym-szczere-rozmowy?rss=1",
+      "pubDate": "Tue, 23 Dec 2025 06:42:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Rosja atakuje dronami i rakietami. Alarm w całej Ukrainie",
+      "link": "https://wiadomosci.onet.pl/swiat/rosja-atakuje-dronami-i-rakietami-alarm-w-calej-ukrainie/7mryvnw",
+      "pubDate": "Tue, 23 Dec 2025 05:38:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Branża kurierska w Polsce. 67 mld zł wkładu w gospodarkę i dynamiczny rozwój sektora",
+      "link": "https://businessinsider.com.pl/gospodarka/firmy-kurierskie-z-historycznym-wynikiem-wklad-w-pkb-wyzszy-niz-lotniska/0943lv6",
+      "pubDate": "Tue, 23 Dec 2025 05:37:47 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Donald Tusk zabrał głos po tragedii w kopalni Pniówek. \"Łączymy się dziś w bólu\"",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-tragedii-w-kopalni-pniowek-laczymy-sie-dzis-w-bolu/cwvewt9",
+      "pubDate": "Tue, 23 Dec 2025 05:34:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Horror na bulwarach wiślanych. Przechodzień zauważył ciało",
+      "link": "https://wiadomosci.onet.pl/warszawa/horror-na-bulwarach-wislanych-przechodzien-zauwazyl-cialo/42761vm",
+      "pubDate": "Tue, 23 Dec 2025 05:33:10 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Przewidział atak Rosji na Ukrainę. Mówi, co będzie dalej, a Polsce daje dwie rady [TYLKO U NAS]",
+      "link": "https://businessinsider.com.pl/wiadomosci/francuz-przewidzial-atak-rosji-na-ukraine-o-polsce-mowi-wytrzymalibyscie-dluzej-niz/7hfm1zt",
+      "pubDate": "Tue, 23 Dec 2025 05:31:32 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Uruchamiają centrum antydronowe. Robi się naprawdę groźnie",
+      "link": "https://spidersweb.pl/2025/12/niemcy-calkodobowe-centrum-antydronowe-berlin.html",
+      "pubDate": "Tue, 23 Dec 2025 06:31:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Na drogach może być ślisko. Uważajmy",
+      "link": "https://tvn24.pl/tvnmeteo/polska/prognoza-zagrozen-imgw-ostrzezenia-na-drogach-moze-byc-slisko-uwazajmy-st8814539?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 05:30:41 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zmiany w prawie od 2026 r. Sprawdź kasowy PIT, jeśli kontrahenci nie płacą",
+      "link": "https://businessinsider.com.pl/prawo/podatki/zmiany-w-kasowym-pit-juz-od-2026-r-wiekszy-limit-i-pulapki-dla-firm/47ppm86",
+      "pubDate": "Tue, 23 Dec 2025 05:21:33 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Koniec składania klocków na orbicie. Oto idealne rozwiązanie",
       "link": "https://spidersweb.pl/2025/12/jednomodulowa-stacja-kosmiczna-max-space.html",
       "pubDate": "Tue, 23 Dec 2025 06:21:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Trudna noc dla Ukrainy. Zmasowany atak Rosjan, władze apelują do obywateli",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-trudna-noc-dla-ukrainy-zmasowany-atak-rosjan-wladze-apeluja,nId,22502267",
+      "pubDate": "Tue, 23 Dec 2025 05:18:40 GMT",
+      "source": "Interia"
     },
     {
       "title": "Chiny liderem elektromobilności. Prawie połowa nowych aut to pojazdy elektryczne",
@@ -33087,6 +33153,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -35042,6 +35132,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71245,84 +71359,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/zamach-na-plazy-w-sydney-w-australii-premier-donald-tusk-zlozyl-kondolencje/ste95v8",
       "pubDate": "Sun, 14 Dec 2025 14:20:28 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Szczątki \"obiektu przypominającego drona\". Komunikat lubelskiej policji",
-      "link": "https://wydarzenia.interia.pl/kraj/news-szczatki-obiektu-przypominajacego-drona-komunikat-lubelskiej,nId,22498352",
-      "pubDate": "Sun, 14 Dec 2025 14:16:57 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Szczątki \"obiektu przypominającego drona\". Komunikat lubelskiej policji",
-      "link": "https://wydarzenia.interia.pl/lubelskie/news-szczatki-obiektu-przypominajacego-drona-komunikat-lubelskiej,nId,22498352",
-      "pubDate": "Sun, 14 Dec 2025 14:16:57 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Bill Cosby, Zełenski i rezydencja w Nowym Jorku. Jak oni to połączyli",
-      "link": "https://konkret24.tvn24.pl/swiat/bill-cosby-zelenski-i-rezydencja-w-nowym-jorku-jak-oni-to-polaczyli-st8798299?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 14:16:23 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Robert Kostro: Co Niemcy mają jeszcze w swoich archiwach?",
-      "link": "https://www.rp.pl/spoleczenstwo/art43495731-robert-kostro-co-niemcy-maja-jeszcze-w-swoich-archiwach",
-      "pubDate": "Sun, 14 Dec 2025 15:16:23 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Galaxy S26 traci przewagę jeszcze przed premierą. Co zmienia nowa strategia Samsunga?",
-      "link": "https://android.com.pl/tech/1001304-czy-galaxy-s26-przegrywa-na-starcie/",
-      "pubDate": "Sun, 14 Dec 2025 14:16:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Aleksander Kwaśniewski odpowiedział Karolowi Nawrockiemu. \"Nie godzi się\"",
-      "link": "https://wiadomosci.onet.pl/kraj/aleksander-kwasniewski-odpowiedzial-karolowi-nawrockiemu-nie-godzi-sie/k7k1vh2",
-      "pubDate": "Sun, 14 Dec 2025 14:10:13 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Groźny wypadek na jednej z warszawskich arterii. Zderzyło się pięć samochodów",
-      "link": "https://wiadomosci.onet.pl/warszawa/grozny-wypadek-na-jednej-z-warszawskich-arterii-zderzylo-sie-piec-samochodow/yzc18l8",
-      "pubDate": "Sun, 14 Dec 2025 14:03:24 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dog play afternoon: dachshunds overrun Hyde Park for Christmas walk",
-      "link": "https://www.theguardian.com/lifeandstyle/2025/dec/14/dachshunds-sausage-dogs-hyde-park-christmas-walk",
-      "pubDate": "Sun, 14 Dec 2025 14:03:17 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Siedział w aucie, \"łowców głów\" się nie spodziewał. Trafił do zakładu karnego",
-      "link": "https://tvn24.pl/lublin/lublin-siedzial-w-aucie-lowcow-glow-sie-nie-spodziewal-trafil-do-zakladu-karnego-st8801224?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 14:03:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Biedronka usuwa popularną opcję z kas samoobsługowych. Klienci zaskoczeni",
-      "link": "https://businessinsider.com.pl/wiadomosci/kasy-samoobslugowe-biedronki-bez-popularnej-opcji-siec-uspokaja/qqdg3xh",
-      "pubDate": "Sun, 14 Dec 2025 14:01:42 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Tak powinien wyglądać Gothic Remake. Recenzja Of Ash and Steel",
-      "link": "https://antyweb.pl/tak-powinien-wygladac-gothic-remake-recenzja-of-ash-and-steel",
-      "pubDate": "Sun, 14 Dec 2025 14:00:14 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Little Foot hominin fossil may be new species of human ancestor",
-      "link": "https://www.theguardian.com/science/2025/dec/15/little-foot-hominin-fossil-may-be-new-species-of-human-ancestor",
-      "pubDate": "Sun, 14 Dec 2025 14:00:06 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Almost half of people using employment providers threatened with payment suspensions, new data shows",
-      "link": "https://www.theguardian.com/business/2025/dec/15/centrelink-employment-provider-services-payment-suspensions",
-      "pubDate": "Sun, 14 Dec 2025 14:00:03 GMT",
-      "source": "The Guardian"
     }
   ]
 }
