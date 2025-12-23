@@ -1,12 +1,48 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-23T20:59:21.790Z",
+  "generatedAt": "2025-12-23T21:26:11.484Z",
   "items": [
+    {
+      "title": "James Bond wraca w nowej odsłonie. Złoczyńcą będzie Lenny Kravitz",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43557311-james-bond-wraca-w-nowej-odslonie-zloczynca-bedzie-lenny-kravitz",
+      "pubDate": "Tue, 23 Dec 2025 22:23:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "​Sojusz rosyjsko-madagaskarki. Żołnierze wylądowali",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-sojusz-rosyjsko-madagaskarki-zolnierze-wyladowali,nId,8053330",
+      "pubDate": "Tue, 23 Dec 2025 22:17:47 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Katie Allen, former federal Liberal MP, dies aged 59",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/24/katie-allen-former-federal-liberal-mp-dies-aged-59",
+      "pubDate": "Tue, 23 Dec 2025 21:12:48 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump uderza w \"New York Times\". W tle publikacje jego relacji z Epsteinem",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-uderza-w-new-york-times-w-tle-publikacje-jego-relacji,nId,22502609",
+      "pubDate": "Tue, 23 Dec 2025 21:10:36 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Sałatka ze świątecznego stołu to ryzyko. Po tym czasie lepiej nie próbować",
+      "link": "https://geekweek.interia.pl/lifestyle/news-wyglada-normalnie-ale-to-zludzenie-ile-dni-wytrzyma-swiatecz,nId,22502050",
+      "pubDate": "Tue, 23 Dec 2025 21:10:02 GMT",
+      "source": "GeekWeek"
+    },
     {
       "title": "Brytyjce odmówiono wjazdu do Polski. Nie sprawdziła paszportu przed podróżą",
       "link": "https://www.rmf24.pl/regiony/krakow/news-brytyjce-odmowiono-wjazdu-do-polski-nie-sprawdzila-paszportu,nId,8053328",
       "pubDate": "Tue, 23 Dec 2025 21:53:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "US supreme court blocks Trump bid to deploy national guard to Chicago",
+      "link": "https://www.theguardian.com/us-news/2025/dec/23/supreme-court-blocks-trump-national-guard-chicago",
+      "pubDate": "Tue, 23 Dec 2025 20:52:02 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Polacy poddali się po 20 godzinach. Akcja policji w Hiszpanii",
@@ -743,6 +779,12 @@
     {
       "title": "\"To jest strzał w twarz\". Ostra reakcja na apel ministra",
       "link": "https://tvn24.pl/biznes/najnowsze/pg-silesia-to-jest-strzal-w-twarz-ostra-reakcja-gornikow-na-apel-ministra-energii-milosza-motyki-st8816088?source=rss",
+      "pubDate": "Tue, 23 Dec 2025 17:36:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"To jest strzał w twarz\". Ostra reakcja na apel ministra",
+      "link": "https://tvn24.pl/biznes/z-kraju/pg-silesia-to-jest-strzal-w-twarz-ostra-reakcja-gornikow-na-apel-ministra-energii-milosza-motyki-st8816088?source=rss",
       "pubDate": "Tue, 23 Dec 2025 17:36:10 GMT",
       "source": "TVN24"
     },
@@ -40293,6 +40335,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -42248,6 +42314,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72853,60 +72943,6 @@
       "link": "https://businessinsider.com.pl/gielda/irobot-na-gieldowym-dnie-inwestorzy-ostro-zareagowali-na-nowe-informacje/kc2jvnf",
       "pubDate": "Mon, 15 Dec 2025 15:21:52 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Hakerzy zaatakowali polski urząd. Wicepremier: uzyskali dostęp do skrzynek poczty elektronicznej",
-      "link": "https://wiadomosci.onet.pl/kraj/hakerzy-zaatakowali-polski-urzad-wicepremier-uzyskali-dostep-do-skrzynek-poczty/980kc2f",
-      "pubDate": "Mon, 15 Dec 2025 15:20:30 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Hakerzy zaatakowali polski urząd. Wicepremier: uzyskali dostęp do skrzynek poczty elektronicznej",
-      "link": "https://wiadomosci.onet.pl/kraj/atak-hakerski-na-urzad-zamowien-publicznych-komunikat-gawkowskiego/980kc2f",
-      "pubDate": "Mon, 15 Dec 2025 15:20:30 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Grok rozpowszechnia dezinformację na temat strzelaniny na plaży Bondi",
-      "link": "https://geekweek.interia.pl/internet/news-grok-rozpowszechnia-dezinformacje-na-temat-strzelaniny-na-pl,nId,22498656",
-      "pubDate": "Mon, 15 Dec 2025 15:20:03 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "One Battle After Another defeats rivals in London Critics’ Circle film awards nominations",
-      "link": "https://www.theguardian.com/film/2025/dec/15/one-battle-after-another-defeats-rivals-in-london-critics-circle-film-awards-nominations",
-      "pubDate": "Mon, 15 Dec 2025 15:18:39 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Prezydent wygrywa z Sejmem i Senatem. Większość Polaków pozytywnie ocenia Nawrockiego",
-      "link": "https://www.bankier.pl/wiadomosc/Prezydent-wygrywa-z-Sejmem-i-Senatem-Wiekszosc-Polakow-pozytywnie-ocenia-Nawrockiego-9055947.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 15 Dec 2025 16:18:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Atak na polską spółkę? \"Całkowicie odrzucamy nieprawdziwe informacje\"",
-      "link": "https://biznes.interia.pl/gieldy/aktualnosci/news-atak-na-polska-spolke-calkowicie-odrzucamy-nieprawdziwe-info,nId,22498739",
-      "pubDate": "Mon, 15 Dec 2025 15:17:50 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Z Miami prosto do aresztu",
-      "link": "https://tvn24.pl/tvnwarszawa/wlochy/warszawa-zatrzymanie-poszukiwanego-czerwona-nota-interpolu-na-lotnisku-chopina-st8802915?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 15:15:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Udowodnimy to tyle razy, ile będzie trzeba\". Kara dla giganta",
-      "link": "https://tvn24.pl/biznes/ze-swiata/hiszpania-kara-dla-giganta-udowodnimy-to-tyle-razy-ile-bedzie-trzeba-st8802764?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 15:15:41 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Donald Tusk przed wylotem do Berlina na rozmowy pokojowe. \"To kluczowe\"",
-      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-przed-wylotem-do-berlina-na-rozmowy-pokojowe-to-kluczowe/ntw2fbn",
-      "pubDate": "Mon, 15 Dec 2025 15:13:59 GMT",
-      "source": "Onet"
     }
   ]
 }
