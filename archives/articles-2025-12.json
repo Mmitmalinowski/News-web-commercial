@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-23T22:52:51.354Z",
+  "generatedAt": "2025-12-23T23:11:04.526Z",
   "items": [
+    {
+      "title": "Germany's Steinmeier: 'A light is shining in the darkness'",
+      "link": "https://www.dw.com/en/germany-s-steinmeier-a-light-is-shining-in-the-darkness/a-75290389?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 23 Dec 2025 23:09:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Pro-Palestine prisoners pause hunger strike as their health deteriorates",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/23/pro-palestine-prisoners-pause-hunger-strike",
+      "pubDate": "Tue, 23 Dec 2025 23:03:44 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Police call explosion at nursing home near Philadelphia ‘mass casualty incident’",
       "link": "https://www.theguardian.com/us-news/2025/dec/23/philadelphia-explosion-nursing-home",
@@ -40581,6 +40593,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -42536,6 +42572,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73134,30 +73194,6 @@
       "title": "Nie żyje 12-letnia dziewczynka. Policja podejrzewa zabójstwo",
       "link": "https://tvn24.pl/wroclaw/jelenia-gora-nie-zyje-12-letnia-dziewczynka-policja-podejrzewa-zabojstwo-st8802972?source=rss",
       "pubDate": "Mon, 15 Dec 2025 15:48:39 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Z taką rejestracją jechał autem przez Śląsk. Policjanci nie dowierzali, a to był dopiero początek",
-      "link": "https://wiadomosci.onet.pl/slask/policjanci-ze-slaska-zobaczyli-jego-tablice-w-aucie-to-byl-dopiero-poczatek/54pgz9w",
-      "pubDate": "Mon, 15 Dec 2025 15:48:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "\"Czyste Powietrze\". Będzie pomoc dla ofiar \"nieuczciwych praktyk\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-pomoc-dla-ofiar-czystego-powietrza-beda-roszczenia-wobec-nie,nId,22498754",
-      "pubDate": "Mon, 15 Dec 2025 15:47:05 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Hakerzy uderzyli w Urząd Zamówień Publicznych. Przestępcy uzyskali dostęp do maili",
-      "link": "https://www.bankier.pl/wiadomosc/Hakerzy-uderzyli-w-Urzad-Zamowien-Publicznych-Przestepcy-uzyskali-dostep-do-maili-9055978.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 15 Dec 2025 16:47:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Były dyktator będzie leczył bogatych Rosjan?",
-      "link": "https://tvn24.pl/swiat/rosja-byly-syryjski-dyktator-bedzie-leczyl-bogatych-rosjan-co-sie-dzieje-z-baszarem-al-asadem-i-jego-rodzina-st8802362?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 15:46:42 GMT",
       "source": "TVN24"
     }
   ]
