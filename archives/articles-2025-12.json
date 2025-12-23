@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-22T23:52:04.073Z",
+  "generatedAt": "2025-12-23T00:01:34.513Z",
   "items": [
     {
       "title": "ABC defends Laura Tingle and Sarah Ferguson amid ‘unfounded’ criticism of Bondi shooting coverage",
@@ -32133,6 +32133,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -34088,6 +34112,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71095,18 +71143,6 @@
       "link": "https://tvn24.pl/poznan/sklep-prototyp-klienci-oszaleli-na-jego-punkcie-st8795130?source=rss",
       "pubDate": "Sun, 14 Dec 2025 10:37:24 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Roztrzaskane samochody i zniszczona infrastruktura. Zderzenie na placu Zawiszy",
-      "link": "https://tvn24.pl/tvnwarszawa/ochota/warszawa-zderzenie-na-placu-zawiszy-utrudnienia-w-ruchu-tramwaje-na-objazdach-st8800805?source=rss",
-      "pubDate": "Sun, 14 Dec 2025 10:32:12 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Dziś strajk w sieci Kaufland. Pracownicy odejdą od kas",
-      "link": "https://businessinsider.com.pl/finanse/handel/strajk-w-sieci-kaufland-pracownicy-na-dwie-godzin-odchodza-od-kas/0h0tlvj",
-      "pubDate": "Sun, 14 Dec 2025 10:27:14 GMT",
-      "source": "Business Insider"
     }
   ]
 }
