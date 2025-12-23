@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-23T23:44:55.594Z",
+  "generatedAt": "2025-12-23T23:54:36.596Z",
   "items": [
+    {
+      "title": "Christmas Day weather forecast: possible rain in eastern states but extreme heat in Western Australia",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/24/christmas-day-weather-forecast-australia",
+      "pubDate": "Tue, 23 Dec 2025 23:43:38 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Crisis in India-Bangladesh relations spirals amid violent protests",
       "link": "https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS&at_campaign=rss",
@@ -40695,6 +40701,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -42650,6 +42680,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73249,24 +73303,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-sluzby-udaremnily-przerazajace-ataki-terrorystyczne-w-kalifo,nId,8050860",
       "pubDate": "Mon, 15 Dec 2025 16:57:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Ukraińskie ataki przynoszą efekty? Rosja cały czas walczy o równowagę na rynku paliw",
-      "link": "https://businessinsider.com.pl/gospodarka/zakaz-eksportu-paliw-z-rosji-moze-potrwac-do-lutego-rzad-analizuje-sytuacje/es9ms3l",
-      "pubDate": "Mon, 15 Dec 2025 15:56:49 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wysokie ceny pamięci zostaną z nami na lata. Ręce opadają",
-      "link": "https://spidersweb.pl/2025/12/wysokie-ceny-pamieci-do-2028-r.html",
-      "pubDate": "Mon, 15 Dec 2025 16:56:34 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Wicepremier: zidentyfikowany został atak hakerski ",
-      "link": "https://tvn24.pl/biznes/z-kraju/atak-hakerski-na-urzad-wicepremier-trwaja-czynnosci-operacyjne-st8802989?source=rss",
-      "pubDate": "Mon, 15 Dec 2025 15:56:24 GMT",
-      "source": "TVN24"
     }
   ]
 }
