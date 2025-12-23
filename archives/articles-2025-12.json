@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-23T22:26:48.330Z",
+  "generatedAt": "2025-12-23T22:43:15.332Z",
   "items": [
+    {
+      "title": "Police call explosion at nursing home near Philadelphia ‘mass casualty incident’",
+      "link": "https://www.theguardian.com/us-news/2025/dec/23/philadelphia-explosion-nursing-home",
+      "pubDate": "Tue, 23 Dec 2025 22:27:33 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Rosja wspiera juntę po zamachu stanu. Transport żołnierzy i broni do Afryki",
       "link": "https://wydarzenia.interia.pl/zagranica/news-rosja-wspiera-junte-po-zamachu-stanu-transport-zolnierzy-i-b,nId,22502619",
@@ -40527,6 +40533,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -42482,6 +42512,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73069,24 +73123,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Gornicy-dostana-odprawy-Prezydent-podpisal-nowelizacje-ustawy-gorniczej-9055973.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 15 Dec 2025 16:45:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "TOP 5 monitorów gamingowych – doskonały prezent dla gracza",
-      "link": "https://tech.wp.pl/top-5-monitorow-gamingowych-doskonaly-prezent-dla-gracza,7232681027263424a",
-      "pubDate": "Mon, 15 Dec 2025 16:43:16 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Wódka w Rosji drożeje. Meliny i samogon mają wzięcie",
-      "link": "https://www.rp.pl/przemysl-spozywczy/art43506371-wodka-w-rosji-drozeje-meliny-i-samogon-maja-wziecie",
-      "pubDate": "Mon, 15 Dec 2025 16:43:13 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Australian PM rejects Netanyahu’s linking of Palestine recognition to Bondi beach attack",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/15/australian-pm-rejects-netanyahu-linking-palestine-recognition-bondi-beach-attack",
-      "pubDate": "Mon, 15 Dec 2025 15:42:18 GMT",
-      "source": "The Guardian"
     }
   ]
 }
