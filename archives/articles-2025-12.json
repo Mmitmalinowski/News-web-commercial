@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-23T23:31:06.533Z",
+  "generatedAt": "2025-12-23T23:44:55.594Z",
   "items": [
+    {
+      "title": "Crisis in India-Bangladesh relations spirals amid violent protests",
+      "link": "https://www.bbc.com/news/articles/c4gekjjqn1ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 23 Dec 2025 23:34:35 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Papież zaapelował o świąteczny rozejm. Skomentował decyzję Rosji",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-papiez-zaapelowal-o-swiateczny-rozejm-skomentowal-decyzje-ro,nId,22502622",
+      "pubDate": "Tue, 23 Dec 2025 23:28:34 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Germany's Steinmeier: 'A light is shining in the darkness'",
       "link": "https://www.dw.com/en/germany-s-steinmeier-a-light-is-shining-in-the-darkness/a-75290389?maca=en-rss-en-all-1573-xml-mrss",
@@ -40659,6 +40671,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -42614,6 +42650,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73207,30 +73267,6 @@
       "link": "https://tvn24.pl/biznes/z-kraju/atak-hakerski-na-urzad-wicepremier-trwaja-czynnosci-operacyjne-st8802989?source=rss",
       "pubDate": "Mon, 15 Dec 2025 15:56:24 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "US chip companies are being sued for allegedly powering Russian drones used in the war in Ukraine",
-      "link": "http://www.euronews.com/next/2025/12/15/us-chip-companies-are-being-sued-for-powering-russian-drones-used-in-the-war-in-ukraine",
-      "pubDate": "Mon, 15 Dec 2025 16:53:48 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Thousands turned away as Louvre workers launch strikes",
-      "link": "https://www.dw.com/en/thousands-turned-away-as-louvre-workers-launch-strikes/a-75166314?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 15 Dec 2025 15:53:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Louvre workers' strike turns away thousands of visitors",
-      "link": "https://www.dw.com/en/louvre-workers-strike-turns-away-thousands-of-visitors/a-75166314?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 15 Dec 2025 15:53:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Jaki jest lepszy prezent od nowego smartfona? Sprawdź Top 5 urządzeń",
-      "link": "https://tech.wp.pl/jaki-jest-lepszy-prezent-od-nowego-smartfona-sprawdz-top-5-urzadzen,7232676938116000a",
-      "pubDate": "Mon, 15 Dec 2025 16:52:42 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
