@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T23:30:52.045Z",
+  "generatedAt": "2025-12-24T23:44:09.575Z",
   "items": [
+    {
+      "title": "Dzień trwał 19 godzin i nic się nie zmieniało. Geolodzy ujawnili szokującą prawdę",
+      "link": "https://www.chip.pl/2025/12/dzien-trwal-19-godzin-i-nic-sie-nie-zmienialo-geolodzy-ujawnili-szokujaca-prawde",
+      "pubDate": "Wed, 24 Dec 2025 23:38:25 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Sean 'Diddy' Combs files appeal asking for immediate prison release",
+      "link": "https://www.bbc.com/news/articles/c5yqe4j15lzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 24 Dec 2025 23:30:09 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Iran wysłał flotylle. Media: celem jednej z nich może być Wenezuela",
       "link": "https://wiadomosci.onet.pl/swiat/iran-wyslal-flotylle-media-celem-jednej-z-nich-moze-byc-wenezuela/y5tcm81",
@@ -1745,6 +1757,12 @@
     {
       "title": "Christmas: Christians celebrate, NORAD tracks Santa's route",
       "link": "https://www.dw.com/en/christmas-christians-celebrate-norad-tracks-santa-s-route/live-75292667?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Wed, 24 Dec 2025 11:51:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Pope Leo decries 'distorted econmoy' in first Christmas Mass",
+      "link": "https://www.dw.com/en/pope-leo-decries-distorted-econmoy-in-first-christmas-mass/live-75292667?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Wed, 24 Dec 2025 11:51:00 GMT",
       "source": "DW"
     },
@@ -46413,6 +46431,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -48368,6 +48410,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75505,36 +75571,6 @@
       "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Tue, 16 Dec 2025 10:17:25 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Szczecin - 16.12.2025. Prognoza pogody w mieście",
-      "link": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-16122025/kt919x7",
-      "pubDate": "Tue, 16 Dec 2025 10:16:05 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Toruń. Prognoza pogody w dniu 16.12.2025",
-      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-16122025/8pgqymd",
-      "pubDate": "Tue, 16 Dec 2025 10:16:05 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rzeszów - prognoza pogody w dniu 16.12.2025",
-      "link": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-16122025/w1gbzfe",
-      "pubDate": "Tue, 16 Dec 2025 10:15:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poznań: Jaka pogoda na dziś? Prognoza w dniu 16.12.2025",
-      "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-16122025/lbb1p3v",
-      "pubDate": "Tue, 16 Dec 2025 10:15:46 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Opole - 16.12.2025. Prognoza pogody w mieście",
-      "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-16122025/esqy036",
-      "pubDate": "Tue, 16 Dec 2025 10:15:33 GMT",
-      "source": "Onet"
     }
   ]
 }
