@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T23:44:09.575Z",
+  "generatedAt": "2025-12-24T23:55:40.042Z",
   "items": [
+    {
+      "title": "Trump-backed candidate Asfura declared new president of Honduras",
+      "link": "https://www.theguardian.com/world/2025/dec/24/honduras-nasry-tito-asfura-declared-president-donald-trump-backed",
+      "pubDate": "Wed, 24 Dec 2025 23:42:32 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Dzień trwał 19 godzin i nic się nie zmieniało. Geolodzy ujawnili szokującą prawdę",
       "link": "https://www.chip.pl/2025/12/dzien-trwal-19-godzin-i-nic-sie-nie-zmienialo-geolodzy-ujawnili-szokujaca-prawde",
@@ -46455,6 +46461,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -48410,6 +48440,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75553,24 +75607,6 @@
       "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-forinta-wegierskiego-dzisiaj-po-ile-jest-forint-wegierski-16-grudnia-2025-r/nbb1skc",
       "pubDate": "Tue, 16 Dec 2025 10:18:04 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Kurs TRY/PLN 16 grudnia 2025 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-turckiej-dzisiaj-po-ile-jest-lira-turecka-16-grudnia-2025-r/jtcs7e9",
-      "pubDate": "Tue, 16 Dec 2025 10:17:56 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Warszawa. Jaka pogoda czeka nas 16.12.2025?",
-      "link": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-16122025/wddhj7b",
-      "pubDate": "Tue, 16 Dec 2025 10:17:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dashcam video shows couple trying to stop gunman before being killed in Bondi attack",
-      "link": "https://www.bbc.com/news/articles/cx2341yx719o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Dec 2025 10:17:25 GMT",
-      "source": "BBC News"
     }
   ]
 }
