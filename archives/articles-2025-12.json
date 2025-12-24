@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T20:56:38.230Z",
+  "generatedAt": "2025-12-24T21:19:25.995Z",
   "items": [
+    {
+      "title": "Eksplozja w meczecie podczas modlitwy. Są ofiary śmiertelne",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-eksplozja-w-meczecie-podczas-modlitwy-sa-ofiary-smiertelne,nId,8053395",
+      "pubDate": "Wed, 24 Dec 2025 22:10:41 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Track Santa’s trip around the world with NORAD",
+      "link": "http://www.euronews.com/2025/12/24/track-santas-trip-around-the-world-with-norad",
+      "pubDate": "Wed, 24 Dec 2025 22:00:32 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Dramatyczne chwile w Pruszkowie. Dziecko poparzone w wigilijny wieczór",
+      "link": "https://wiadomosci.onet.pl/kraj/dramatyczne-chwile-w-pruszkowie-dziecko-poparzone-w-wigilijny-wieczor/zk8qywv",
+      "pubDate": "Wed, 24 Dec 2025 20:59:25 GMT",
+      "source": "Onet"
+    },
     {
       "title": "\"Lodowa apokalipsa\" na Syberii. Mróz paraliżuje życie mieszkańców",
       "link": "https://wydarzenia.interia.pl/zagranica/news-lodowa-apokalipsa-na-syberii-mroz-paralizuje-zycie-mieszkanc,nId,22502732",
@@ -67,6 +85,12 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-24/swiateczne-zyczenia-zelenskiego/",
       "pubDate": "Wed, 24 Dec 2025 21:05:00 +0100",
       "source": "Polsat News"
+    },
+    {
+      "title": "Rzecznik Kremla napomina Polskę: W G20 nie ma miejsca na wypaczenia i politykę",
+      "link": "https://www.rp.pl/polityka/art43560541-rzecznik-kremla-napomina-polske-w-g20-nie-ma-miejsca-na-wypaczenia-i-polityke",
+      "pubDate": "Wed, 24 Dec 2025 21:01:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Mogła być mistrzynią, zniknęła bez śladu. Zaginięcie Justyny Zawadzkiej",
@@ -46077,6 +46101,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -48032,6 +48080,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75175,42 +75247,6 @@
       "link": "https://www.theguardian.com/world/2025/dec/16/joesley-batista-brazil-luiz-inacio-lula-da-silva-trump",
       "pubDate": "Tue, 16 Dec 2025 10:00:18 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "„Alicja” wciąż nęka klientów PKO BP. Po latach spłaty dług wraca jak koszmar",
-      "link": "https://www.bankier.pl/wiadomosc/Alicja-wciaz-neka-klientow-PKO-BP-Po-latach-splaty-dlug-wraca-jak-koszmar-9056255.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 16 Dec 2025 11:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Giełdowy bezpiecznik. Kto zaciągnie hamulec, gdy algorytmy się pogubią?",
-      "link": "https://www.bankier.pl/wiadomosc/KDPW-i-automatyzacja-na-gieldzie-Kto-pilnuje-algorytmow-9056370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 16 Dec 2025 11:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Tusk na kolejnym szczycie. \"Absolutnie kluczowy z punktu widzenia Polski\"",
-      "link": "https://tvn24.pl/polska/szczyt-w-helsinkach-donald-tusk-absolutnie-kluczowy-z-punktu-widzenia-polski-st8803630?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 09:58:52 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Europa ustaliła z USA. To ma się stać po zakończeniu wojny w Ukrainie",
-      "link": "https://biznes.interia.pl/polityka/news-europa-ustalila-z-usa-to-ma-sie-stac-po-zakonczeniu-wojny-w,nId,22498904",
-      "pubDate": "Tue, 16 Dec 2025 09:58:37 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zięć Donalda Trumpa rezygnuje z wielkiej inwestycji. Trwa śledztwo",
-      "link": "https://businessinsider.com.pl/wiadomosci/nie-bedzie-trump-tower-w-serbii-jared-kushner-sie-wycofuje/z86tvz7",
-      "pubDate": "Tue, 16 Dec 2025 09:58:23 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Morderstwo 11-latki w Jeleniej Górze. Barbara Nowacka: nie możemy spać",
-      "link": "https://wiadomosci.onet.pl/kraj/morderstwo-11-latki-w-jeleniej-gorze-barbara-nowacka-nie-mozemy-spac/ye2743m",
-      "pubDate": "Tue, 16 Dec 2025 09:57:09 GMT",
-      "source": "Onet"
     }
   ]
 }
