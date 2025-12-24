@@ -1,12 +1,24 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T19:53:40.870Z",
+  "generatedAt": "2025-12-24T20:01:05.115Z",
   "items": [
+    {
+      "title": "Mogła być mistrzynią, zniknęła bez śladu. Zaginięcie Justyny Zawadzkiej",
+      "link": "https://wydarzenia.interia.pl/mazowieckie/news-mistrzyni-zapasow-zaginela-slad-urywa-sie-przy-drodze,nId,22501444",
+      "pubDate": "Wed, 24 Dec 2025 19:48:10 GMT",
+      "source": "Interia"
+    },
     {
       "title": "W rybach z importu mogą znajdować się \"wieczne chemikalia\"",
       "link": "https://tvn24.pl/tvnmeteo/nauka/w-rybach-z-importu-moga-znajdowac-sie-wieczne-chemikalia-st8817391?source=rss",
       "pubDate": "Wed, 24 Dec 2025 19:43:40 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nagła śmierć norweskiego biathlonisty. Są pierwsze szczegóły",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-24/nagla-smierc-norweskiego-biathlonisty-sa-pierwsze-szczegoly/",
+      "pubDate": "Wed, 24 Dec 2025 20:43:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Szaleńcza jazda na ekspresówce. Kierowca przekroczył limit dwa razy",
@@ -45897,6 +45909,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -47852,6 +47888,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75043,30 +75103,6 @@
       "link": "https://android.com.pl/tech/1001929-zakaz-mediow-spolecznosciowych-malezja/",
       "pubDate": "Tue, 16 Dec 2025 09:49:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Były wicepremier prognozuje katastrofę w finansach Polski. \"800 plus nie ma sensu\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/leszek-balcerowicz-ostrzega-przed-katastrofa-finansowa-nie-ma-happy-endu/5j5lblk",
-      "pubDate": "Tue, 16 Dec 2025 09:47:33 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Polacy nie chcą płacić za leczenie. Niemal połowa jest przeciwna",
-      "link": "https://biznes.interia.pl/polityka/news-sondaz-polacy-nie-chca-placic-za-leczenie-prawie-polowa-prze,nId,22498895",
-      "pubDate": "Tue, 16 Dec 2025 09:44:57 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Rosja coraz bardziej testuje granice. Kraje wschodniej flanki żądają od UE solidarności. \"To nasz wspólny obowiązek\"",
-      "link": "https://wiadomosci.onet.pl/politico/rosja-coraz-bardziej-testuje-granice-kraje-wschodniej-flanki-zadaja-od-ue/d7kl8fn",
-      "pubDate": "Tue, 16 Dec 2025 09:44:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Chiny obniżyły antydumpingowe cła na wieprzowinę z Unii Europejskiej",
-      "link": "https://www.bankier.pl/wiadomosc/Chiny-obnizyly-antydumpingowe-cla-na-wieprzowine-z-Unii-Europejskiej-9056367.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 16 Dec 2025 10:44:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
