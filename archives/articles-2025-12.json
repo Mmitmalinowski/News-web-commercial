@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T19:30:58.507Z",
+  "generatedAt": "2025-12-24T19:42:10.942Z",
   "items": [
+    {
+      "title": "Czemu AI nie znalazła leku na raka? Pytamy Google o sztuczną inteligencję w nauce",
+      "link": "https://android.com.pl/nauka/999805-czemu-ai-nie-znalazla-leka-na-raka/",
+      "pubDate": "Wed, 24 Dec 2025 19:36:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Zełenski oskarża Chiny o pomaganie Rosji w atakach",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zelenski-oskarza-chiny-o-pomaganie-rosji-w-atakach,nId,8053392",
+      "pubDate": "Wed, 24 Dec 2025 20:30:23 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "US authorities discover a million more Epstein documents, officials say",
       "link": "https://www.bbc.com/news/articles/czdgz84dn35o?at_medium=RSS&at_campaign=rss",
@@ -45825,6 +45837,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -47780,6 +47816,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74971,30 +75031,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-16/kreml-reaguje-na-szczyt-w-berlinie-nie-mozemy-isc-na-kompromis/",
       "pubDate": "Tue, 16 Dec 2025 10:41:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Lizzo celebrates as fat-shaming claims dismissed",
-      "link": "https://www.bbc.com/news/articles/c5yq5802rqeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Dec 2025 09:38:51 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Marketing pod jednym dachem. Dlaczego warto łączyć kreację, produkcję i logistykę?",
-      "link": "https://www.wirtualnemedia.pl/marketing-pod-jednym-dachem-dlaczego-warto-laczyc-kreacje-produkcje-i-logistyke,7233027976940480a",
-      "pubDate": "Tue, 16 Dec 2025 10:37:00 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Donald Tusk zabrał głos przed szczytem w Helsinkach. \"Wszyscy chyba zrozumieli\"",
-      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-przed-szczytem-w-helsinkach-wszyscy-chyba-zrozumieli/s6500mc",
-      "pubDate": "Tue, 16 Dec 2025 09:36:53 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Możliwy wyciek danych gości schroniska w Zakopanem",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/mozliwy-wyciek-danych-gosci-schroniska-w-zakopanem",
-      "pubDate": "Tue, 16 Dec 2025 10:36:46 +0100",
-      "source": "Cyberdefence24"
     }
   ]
 }
