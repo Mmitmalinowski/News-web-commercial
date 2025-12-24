@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T23:09:20.781Z",
+  "generatedAt": "2025-12-24T23:30:52.045Z",
   "items": [
+    {
+      "title": "Iran wysłał flotylle. Media: celem jednej z nich może być Wenezuela",
+      "link": "https://wiadomosci.onet.pl/swiat/iran-wyslal-flotylle-media-celem-jednej-z-nich-moze-byc-wenezuela/y5tcm81",
+      "pubDate": "Wed, 24 Dec 2025 23:14:05 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Podcast Romana Czejarka \"Heweliusz\" na początku stycznia na antenie radiowej Jedynki",
       "link": "http://www.press.pl/tresc/90872,podcast-romana-czejarka-_heweliusz_-na-poczatku-stycznia-na-antenie-radiowej-jedynki?rss=1",
@@ -46383,6 +46389,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -48338,6 +48368,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75480,24 +75534,6 @@
       "title": "Opole - 16.12.2025. Prognoza pogody w mieście",
       "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-16122025/esqy036",
       "pubDate": "Tue, 16 Dec 2025 10:15:33 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Olsztyn - 16.12.2025. Jaka będzie pogoda w mieście?",
-      "link": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-16122025/h00m4mj",
-      "pubDate": "Tue, 16 Dec 2025 10:15:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Lublin. Sprawdź prognozę pogody w dniu 16.12.2025",
-      "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-16122025/jqvdzll",
-      "pubDate": "Tue, 16 Dec 2025 10:15:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Łódź - 16.12.2025. Prognoza pogody w mieście",
-      "link": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-16122025/lhejq1r",
-      "pubDate": "Tue, 16 Dec 2025 10:15:12 GMT",
       "source": "Onet"
     }
   ]
