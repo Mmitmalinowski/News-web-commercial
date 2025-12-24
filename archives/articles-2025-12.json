@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T20:01:05.115Z",
+  "generatedAt": "2025-12-24T20:32:04.425Z",
   "items": [
+    {
+      "title": "Algieria żąda przeprosin i odszkodowań od Francji. Paryż odpowiada. \"Wroga inicjatywa\"",
+      "link": "https://wiadomosci.onet.pl/swiat/algieria-zada-odszkodowan-od-francji-paryz-odpowiada-wroga-inicjatywa/q4vn4k6",
+      "pubDate": "Wed, 24 Dec 2025 20:27:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rosjanie zaatakowali obiekty w Ukrainie. \"Cel był jasny\"",
+      "link": "https://wiadomosci.onet.pl/swiat/rosjanie-zaatakowali-obiekty-w-ukrainie-cel-byl-jasny/t3r76kq",
+      "pubDate": "Wed, 24 Dec 2025 20:19:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Eksplozja w meczecie. Kilka osób nie żyje, jest wielu rannych ",
+      "link": "https://tvn24.pl/swiat/nigeria-eksplozja-w-meczecie-kilka-osob-nie-zyje-jest-wielu-rannych-st8817392?source=rss",
+      "pubDate": "Wed, 24 Dec 2025 20:16:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wigilia bez wody. Awaria wodociągów w dwóch dzielnicach Warszawy",
+      "link": "https://wiadomosci.onet.pl/warszawa/wigilia-bez-wody-awaria-wodociagow-w-dwoch-dzielnicach-warszawy/7x1fw7g",
+      "pubDate": "Wed, 24 Dec 2025 20:07:21 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zatrzymany przez CBA polski ambasador złożył oświadczenie",
+      "link": "https://www.rmf24.pl/fakty/polska/news-zatrzymany-przez-cba-polski-ambasador-zlozyl-oswiadczenie,nId,8053393",
+      "pubDate": "Wed, 24 Dec 2025 21:05:12 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zełenski złożył życzenia swoim rodakom. Zdradził czego życzą Putinowi",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-24/swiateczne-zyczenia-zelenskiego/",
+      "pubDate": "Wed, 24 Dec 2025 21:05:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Mogła być mistrzynią, zniknęła bez śladu. Zaginięcie Justyny Zawadzkiej",
       "link": "https://wydarzenia.interia.pl/mazowieckie/news-mistrzyni-zapasow-zaginela-slad-urywa-sie-przy-drodze,nId,22501444",
@@ -45933,6 +45969,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -47888,6 +47948,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75055,54 +75139,6 @@
       "link": "https://www.chip.pl/2025/12/hybrydowy-silnik-duality-naddzwiekowe-latanie",
       "pubDate": "Tue, 16 Dec 2025 09:52:00 +0000",
       "source": "Chip.pl"
-    },
-    {
-      "title": "Dane z europejskiej gospodarki nie zachwyciły. \"Perspektywy na nowy rok dość niestabilne\"",
-      "link": "https://businessinsider.com.pl/gospodarka/europejska-gospodarka-zwalnia-pod-koniec-roku-niemcy-rozczarowuja-wynikami/bzbl6hj",
-      "pubDate": "Tue, 16 Dec 2025 09:51:41 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Donald Trump pozywa BBC. Domaga się nawet 10 mld dolarów odszkodowania",
-      "link": "https://www.rp.pl/polityka/art43512511-donald-trump-pozywa-bbc-domaga-sie-nawet-10-mld-dolarow-odszkodowania",
-      "pubDate": "Tue, 16 Dec 2025 10:51:06 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Odkryto pierwsze dowody na istnienie gwiazd \"podobnych do dinozaurów\"",
-      "link": "https://geekweek.interia.pl/nauka/news-odkryto-pierwsze-dowody-na-istnienie-gwiazd-podobnych-do-din,nId,22498965",
-      "pubDate": "Tue, 16 Dec 2025 09:51:04 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Ceny w sklepach znów w górę. Najmocniej drożeją kawa, co tanieje?",
-      "link": "https://www.rmf24.pl/ekonomia/news-ceny-w-sklepach-znow-w-gore-najmocniej-drozeja-kawa-co-tanie,nId,8051024",
-      "pubDate": "Tue, 16 Dec 2025 10:50:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Trump repeats criticism of killed Hollywood director Rob Reiner",
-      "link": "https://www.bbc.com/news/articles/c7413d9xvkeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Dec 2025 09:49:57 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Słowo roku, które stworzyliśmy my wszyscy. Merriam-Webster wybiera „slop” jako najważniejszy termin 2025",
-      "link": "https://mamstartup.pl/slowo-roku-ktore-stworzylismy-my-wszyscy-merriam-webster-wybiera-slop-jako-najwazniejszy-termin-2025/",
-      "pubDate": "Tue, 16 Dec 2025 09:49:26 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Kościół przedstawił nowe dane. W jednym obszarze nastąpiło prawdziwe tąpnięcie",
-      "link": "https://wiadomosci.onet.pl/kraj/kosciol-przedstawil-nowe-dane-w-jednym-obszarze-nastapilo-prawdziwe-tapniecie/ytyrnsg",
-      "pubDate": "Tue, 16 Dec 2025 09:49:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kolejny kraj idzie w ślady Australii.  Zakaz mediów społecznościowych od nowego roku",
-      "link": "https://android.com.pl/tech/1001929-zakaz-mediow-spolecznosciowych-malezja/",
-      "pubDate": "Tue, 16 Dec 2025 09:49:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
