@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-24T22:39:49.631Z",
+  "generatedAt": "2025-12-24T22:52:04.089Z",
   "items": [
     {
       "title": "Trump-backed candidate Nasry Asfura wins Honduras presidential election",
@@ -46317,6 +46317,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -48272,6 +48296,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75414,18 +75462,6 @@
       "title": "Katowice. Prognoza pogody w dniu 16.12.2025",
       "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-16122025/7ehxrxq",
       "pubDate": "Tue, 16 Dec 2025 10:14:41 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gorzów Wielkopolski. Sprawdź prognozę pogody w dniu 16.12.2025",
-      "link": "https://wiadomosci.onet.pl/lubuskie/gorzow-wielkopolski-prognoza-pogody-w-dniu-16122025/l1jljbw",
-      "pubDate": "Tue, 16 Dec 2025 10:14:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gdańsk - prognoza pogody w dniu 16.12.2025",
-      "link": "https://wiadomosci.onet.pl/trojmiasto/gdansk-prognoza-pogody-w-dniu-16122025/vk3gqf1",
-      "pubDate": "Tue, 16 Dec 2025 10:14:26 GMT",
       "source": "Onet"
     }
   ]
