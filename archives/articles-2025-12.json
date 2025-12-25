@@ -1,7 +1,49 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T10:22:20.658Z",
+  "generatedAt": "2025-12-25T10:43:53.942Z",
   "items": [
+    {
+      "title": "Pope Leo speaks out on Gaza in Christmas message",
+      "link": "https://www.dw.com/en/pope-leo-speaks-out-on-gaza-in-christmas-message/live-75292667?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 25 Dec 2025 10:39:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "W Ukrainie niespokojne święta. Rosja nie przerywa ataków",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/w-ukrainie-niespokojne-swieta-rosja-nie-przerywa-atakow",
+      "pubDate": "Thu, 25 Dec 2025 10:35:30 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Najlepsze gry PlayStation Plus Extra i Premium. W co grać?",
+      "link": "https://antyweb.pl/najlepsze-gry-ktore-czekaja-w-playstation-plus-extra-i-premium-w-co-warto-zagrac",
+      "pubDate": "Thu, 25 Dec 2025 10:30:30 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Wychowałam się na Florydzie. Zapomnij o zatłoczonych Orlando czy Miami. Oto cztery niedoceniane miejsca",
+      "link": "https://businessinsider.com.pl/lifestyle/wakacje-na-florydzie-co-zobaczyc-ukryte-perelki-od-rodowitej-mieszkanki/1bqbr1g",
+      "pubDate": "Thu, 25 Dec 2025 10:30:29 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Jak przeżyć święta bez liczenia kalorii? Oto trzy ważne zasady",
+      "link": "https://geekweek.interia.pl/lifestyle/news-jak-przezyc-swieta-bez-liczenia-kalorii-oto-trzy-wazne-zasad,nId,22499914",
+      "pubDate": "Thu, 25 Dec 2025 10:27:52 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Co wiemy o narodzinach Jezusa? \"To burzy nasze wyobrażenia\"",
+      "link": "https://tvn24.pl/polska/boze-narodzenie-co-wiemy-o-narodzinach-jezusa-to-burzy-nasze-wyobrazenia-st8799634?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 10:27:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ukradł zimne ognie. W więzieniu spędzi 281 dni",
+      "link": "https://tvn24.pl/bialystok/zambrow-ukradl-zimne-ognie-byl-poszukiwany-listem-gonczym-trafil-do-wiezienia-st8817691?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 10:24:21 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Największa elektrownia jądrowa wznowi pracę. Centra danych w pobliżu?",
       "link": "https://tech.wp.pl/najwieksza-elektrownia-jadrowa-wznowi-prace-centra-danych-w-poblizu,7236225007201248a",
@@ -121,6 +163,12 @@
       "link": "https://businessinsider.com.pl/gospodarka/tyle-mozna-oszczedzic-dzieki-ai/9mj8tfy",
       "pubDate": "Thu, 25 Dec 2025 09:49:19 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Rosjanie chcą zakończenia wojny. Pierwsze takie dane od 2022 r.",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-25/rosjanie-chca-konca-wojny-panstwowa-sondazownia-po-raz-pierwszy-pokazala-dane/",
+      "pubDate": "Thu, 25 Dec 2025 10:49:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Makabryczne odkrycie nad Renem. \"Śledztwo w sprawie potrójnego zabójstwa\"",
@@ -277,6 +325,12 @@
       "link": "https://tech.wp.pl/to-bardzo-powazny-problem-bez-jego-rozwiazania-nie-polecimy-na-marsa,7236207194200576a",
       "pubDate": "Thu, 25 Dec 2025 10:03:58 +0100",
       "source": "Tech WP.pl"
+    },
+    {
+      "title": "Najlepsze komedie romantyczne na święta: 12 filmów, które robią klimat",
+      "link": "https://antyweb.pl/najlepsze-komedie-romantyczne-na-swieta",
+      "pubDate": "Thu, 25 Dec 2025 09:00:15 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "North Korea makes progress on its first nuclear-powered submarine",
@@ -551,6 +605,12 @@
     {
       "title": "Jedna osoba nie żyje, kolejna w ciężkim stanie. Nocny wypadek w Warszawie",
       "link": "https://www.rmf24.pl/regiony/warszawa/news-jedna-osoba-nie-zyje-kolejna-w-ciezkim-stanie-nocny-wypadek-,nId,8053418",
+      "pubDate": "Thu, 25 Dec 2025 08:43:21 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Jedna osoba nie żyje, dwie w ciężkim stanie. Nocny wypadek w Warszawie",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-jedna-osoba-nie-zyje-dwie-w-ciezkim-stanie-nocny-wypadek-w-w,nId,8053418",
       "pubDate": "Thu, 25 Dec 2025 08:43:21 +0100",
       "source": "RMF24"
     },
@@ -48435,6 +48495,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -50390,6 +50474,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76255,78 +76363,6 @@
       "link": "https://krytykapolityczna.pl/kraj/wspieraj-krytyke-polityczna-ksiazki-pomysl-na-prezent/",
       "pubDate": "Tue, 16 Dec 2025 13:34:10 +0000",
       "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Mapy Google a bezpieczeństwo. Czy w Polsce widać za dużo?",
-      "link": "https://oko.press/mapy-google-a-bezpieczenstwo-czy-w-polsce-widac-za-duzo",
-      "pubDate": "Tue, 16 Dec 2025 13:34:01 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Podróże po Hiszpanii za 60 euro. Władze szykują specjalny bilet",
-      "link": "https://tvn24.pl/biznes/turystyka/hiszpania-powstanie-bilet-za-60-euro-umozliwi-podroze-po-calym-kraju-st8804075?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 13:32:57 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Europa w końcu rozumie\". Tusk wskazał na wschodnią flankę NATO",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-europa-w-koncu-rozumie-tusk-wskazal-na-wschodnia-flanke-nato,nId,22499121",
-      "pubDate": "Tue, 16 Dec 2025 13:32:05 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Werona wprowadza opłatę za wejście na dziedziniec przed Domem Julii",
-      "link": "https://tvn24.pl/biznes/turystyka/turystyka-w-weronie-dom-julii-atrakcja-miasta-z-nowymi-zasadami-wymierzonymi-w-nadmiar-turystow-st8804040?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 13:30:38 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Stephen Lawrence murderer David Norris denied parole",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/16/stephen-lawrence-murderer-david-norris-denied-parole",
-      "pubDate": "Tue, 16 Dec 2025 13:30:33 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Inflacja bazowa w Polsce znów w dół. NBP podał nowe dane",
-      "link": "https://www.rp.pl/dane-gospodarcze/art43513771-inflacja-bazowa-w-polsce-znow-w-dol-nbp-podal-nowe-dane",
-      "pubDate": "Tue, 16 Dec 2025 14:30:30 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowe fakty o studencie KUL. \"Rozmawiał z przedstawicielami Państwa Islamskiego\"",
-      "link": "https://wiadomosci.onet.pl/kraj/nowe-informacje-w-sprawie-studenta-kul-rozmawial-o-zamachu/mmnvm2k",
-      "pubDate": "Tue, 16 Dec 2025 13:30:13 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Mniej jednolita i poszarpana. Naukowcy badają powierzchnię Słońca",
-      "link": "https://tech.wp.pl/mniej-jednolita-i-poszarpana-naukowcy-badaja-powierzchnie-slonca,7233088691215296a",
-      "pubDate": "Tue, 16 Dec 2025 14:30:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "O włos od tragedii. Latająca cysterna na kursie samolotu pasażerskiego",
-      "link": "https://tech.wp.pl/s/konflikty-pl/o-wlos-od-tragedii-latajaca-cysterna-na-kursie-samolotu-pasazerskiego,7233086148344736a",
-      "pubDate": "Tue, 16 Dec 2025 14:29:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "How the battle against Asian scam networks went global",
-      "link": "https://www.dw.com/en/how-the-battle-against-asian-scam-networks-went-global/a-75181724?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 16 Dec 2025 13:29:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Dwa statki kosmiczne spotkały się na orbicie. Misja skrywana w tajemnicy",
-      "link": "https://geekweek.interia.pl/nauka/news-dwa-statki-kosmiczne-spotkaly-sie-na-orbicie-misja-skrywana,nId,22499003",
-      "pubDate": "Tue, 16 Dec 2025 13:28:00 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Donald Tusk na szczycie wschodniej flanki NATO. \"W końcu Europa zrozumiała\"",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-tusk-na-szczycie-wschodniej-flanki-nato-w-koncu-europa-zrozumiala/x3rcf87",
-      "pubDate": "Tue, 16 Dec 2025 13:27:26 GMT",
-      "source": "Onet"
     }
   ]
 }
