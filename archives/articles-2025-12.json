@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T04:03:14.932Z",
+  "generatedAt": "2025-12-25T04:46:14.568Z",
   "items": [
+    {
+      "title": "Władimir Putin przekazał wiadomość dla żołnierzy z Korei Północnej",
+      "link": "https://wiadomosci.onet.pl/swiat/wladimir-putin-przekazal-wiadomosc-dla-zolnierzy-z-korei-polnocnej/6bpqntx",
+      "pubDate": "Thu, 25 Dec 2025 04:18:06 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Dziś mróz nie oszczędzi żadnego regionu. Tak zimnego dnia dawno nie było [POGODA]",
       "link": "https://wiadomosci.onet.pl/pogoda/dzis-mrozna-pogoda-nie-oszczedzi-zadnego-regionu-to-bedzie-apogeum-chlodu/58ph9xh",
@@ -46725,6 +46731,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -48680,6 +48710,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75697,24 +75751,6 @@
       "link": "https://www.tabletowo.pl/aplikacja-messenger-wlasnie-zakonczyla-swoj-zywot-na-tych-platformach/",
       "pubDate": "Tue, 16 Dec 2025 10:33:33 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Powodzie na północy USA. Pękł wał przeciwpowodziowy",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-w-waszyngtonie-pekl-wal-przeciwpowodziowy-st8803509?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 10:32:40 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kreml reaguje na gwarancje bezpieczeństwa dla Ukrainy. \"Moskwa nie zgodzi się\"",
-      "link": "https://wiadomosci.onet.pl/swiat/kreml-reaguje-na-gwarancje-bezpieczenstwa-dla-ukrainy-moskwa-nie-zgodzi-sie/58ygqmz",
-      "pubDate": "Tue, 16 Dec 2025 10:32:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Pijanego wędkarza szukało 50 strażaków i policjantów",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/zwolen-szukali-zaginionego-wedkarza-byl-pijany-st8803668?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 10:32:21 GMT",
-      "source": "TVN24"
     }
   ]
 }
