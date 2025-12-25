@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T22:40:59.532Z",
+  "generatedAt": "2025-12-25T22:52:04.976Z",
   "items": [
+    {
+      "title": "Polish jets intercept Russian spy plane",
+      "link": "https://www.dw.com/en/polish-jets-intercept-russian-spy-plane/a-75307011?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 25 Dec 2025 22:46:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Świąteczne zamieszanie na kolei. PKP odwołuje pociągi w Małopolsce",
+      "link": "https://wydarzenia.interia.pl/malopolskie/news-swiateczne-zamieszanie-na-kolei-pkp-odwoluje-pociagi-w-malop,nId,22502850",
+      "pubDate": "Thu, 25 Dec 2025 22:42:49 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Man charged after allegedly performing Nazi salutes at Canberra shopping centres",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/26/man-charged-after-allegedly-performing-nazi-salutes-at-canberra-shopping-centres-ntwnfb",
+      "pubDate": "Thu, 25 Dec 2025 22:32:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Burst pipe leaves homes in East Sussex without water on Christmas Day",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/25/burst-pipe-leaves-homes-in-east-sussex-without-water-on-christmas-day",
+      "pubDate": "Thu, 25 Dec 2025 22:31:55 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Rosja złożyła Francji propozycję. \"Piłka jest teraz po jej stronie\"",
       "link": "https://wiadomosci.onet.pl/swiat/kreml-zlozyl-francji-propozycje-chodzi-o-znanego-naukowca/p1zyx7c",
@@ -1217,6 +1241,12 @@
     {
       "title": "Śmierć Mai z Mławy. Nastolatek sprowadzony z Grecji stanął przed prokuratorem",
       "link": "https://www.rp.pl/prawo-karne/art43561071-smierc-mai-z-mlawy-nastolatek-sprowadzony-z-grecji-stanal-przed-prokuratorem",
+      "pubDate": "Thu, 25 Dec 2025 13:48:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Śmierć Mai z Mławy. Nastolatek sprowadzony z Grecji stanął przed prokuratorem i przed sądem",
+      "link": "https://www.rp.pl/prawo-karne/art43561071-smierc-mai-z-mlawy-nastolatek-sprowadzony-z-grecji-stanal-przed-prokuratorem-i-przed-sadem",
       "pubDate": "Thu, 25 Dec 2025 13:48:00 +0100",
       "source": "Rzeczpospolita"
     },
@@ -51393,6 +51423,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -53348,6 +53402,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77725,48 +77803,6 @@
       "link": "https://www.theguardian.com/world/2025/dec/16/uk-to-rejoin-eu-erasmus-student-exchange-programme",
       "pubDate": "Tue, 16 Dec 2025 18:09:27 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "UK: 21 years in jail for Liverpool parade car rammer",
-      "link": "https://www.dw.com/en/uk-21-years-in-jail-for-liverpool-parade-car-rammer/a-75190950?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 16 Dec 2025 18:09:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Dwie wigilie w PiS, życzenia \"refleksji\" dla Morawieckiego i zapowiedź Kurskiego",
-      "link": "https://tvn24.pl/polska/dwie-wigilie-w-pis-i-starcia-w-partii-jacek-kurski-o-mateuszu-morawieckim-i-czy-pojdzie-na-jego-wigilie-st8804835?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 18:07:37 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Po każdej imprezie jest też afterek\". Dwa wigilijne spotkania PiS-u",
-      "link": "https://tvn24.pl/polska/dwie-wigilie-w-pis-i-starcia-w-partii-jedna-organizowal-jaroslaw-kaczynski-druga-mateusz-morawiecki-st8804835?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 18:07:37 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prezes KIKE ostrzega. Chodzi o nowelizację ustawy o KSC",
-      "link": "https://android.com.pl/tech/1002215-prezes-kike-ostrzega-ksc-niebezpieczna/",
-      "pubDate": "Tue, 16 Dec 2025 18:06:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Największy elektryczny statek świata odbył dziewiczy rejs. Hull 096 z rekordową baterią",
-      "link": "https://www.chip.pl/2025/12/hull-096-najwiekszy-elektryczny-statek-swiata-dziewiczy-rejs",
-      "pubDate": "Tue, 16 Dec 2025 18:04:32 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Rome opens two new Metro C stations, showcasing ancient ruins near Colosseum",
-      "link": "http://www.euronews.com/video/2025/12/16/rome-opens-two-new-metro-c-stations-showcasing-ancient-ruins-near-colosseum",
-      "pubDate": "Tue, 16 Dec 2025 19:04:26 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Donald Tusk gorzko o współpracy z prezydentem. Mówi o \"obowiązkach wynikających z konstytucji\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-tusk-o-wspolpracy-z-prezydentem-to-bardzo-zle-sluzy-naszym-interesom/tjvf8f3",
-      "pubDate": "Tue, 16 Dec 2025 18:03:35 GMT",
-      "source": "Business Insider"
     }
   ]
 }
