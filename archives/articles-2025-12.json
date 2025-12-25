@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T23:33:00.153Z",
+  "generatedAt": "2025-12-25T23:46:55.821Z",
   "items": [
+    {
+      "title": "\"Potężny i śmiertelny cios\" USA na ISIS. Donald Trump informuje o ataku w Nigerii",
+      "link": "https://wiadomosci.onet.pl/swiat/potezny-i-smiertelny-cios-usa-trump-informuje-o-ataku-na-isis/m99jn6h",
+      "pubDate": "Thu, 25 Dec 2025 23:29:58 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Trump says US launched strike against IS in Nigeria",
       "link": "https://www.dw.com/en/trump-says-us-launched-strike-against-is-in-nigeria/a-75307055?maca=en-rss-en-all-1573-xml-mrss",
@@ -51513,6 +51519,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -53468,6 +53498,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77857,24 +77911,6 @@
       "link": "https://www.rmf24.pl/nauka/news-tajemnica-bermudow-odkryta-znaleziono-gigantyczna-strukture,nId,8051233",
       "pubDate": "Tue, 16 Dec 2025 19:19:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Recenzja GIGABYTE A16 Pro. Po prostu potwór",
-      "link": "https://www.tabletowo.pl/recenzja-gigabyte-a16-pro-test-opinia/",
-      "pubDate": "Tue, 16 Dec 2025 18:19:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Sędzia wybrany przez PO-PSL pozywa Trybunał Przyłębskiej. Nie orzekał ani dnia",
-      "link": "https://www.bankier.pl/wiadomosc/Sedzia-wybrany-przez-PO-PSL-pozywa-Trybunal-Przylebskiej-Nie-orzekal-ani-dnia-9056780.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 16 Dec 2025 19:18:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Będą zużywać mniej energii elektrycznej. Koleje Mazowieckie kupują nowe pociągi ",
-      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/warszawa-koleje-mazowieckie-kupuja-nowe-pociagi-11-pociagow-flirt-podpisana-umowa-st8804898?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 18:17:56 GMT",
-      "source": "TVN24"
     }
   ]
 }
