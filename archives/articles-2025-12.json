@@ -1,12 +1,24 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T15:46:41.181Z",
+  "generatedAt": "2025-12-25T15:56:17.055Z",
   "items": [
+    {
+      "title": "Kolczyki jako symbol życia i wspólnoty. Rytuały dziecięce w kulturze Majów",
+      "link": "https://geekweek.interia.pl/historia/news-kolczyki-jako-symbol-zycia-i-wspolnoty-rytualy-dzieciece-w-k,nId,22497804",
+      "pubDate": "Thu, 25 Dec 2025 15:50:04 GMT",
+      "source": "GeekWeek"
+    },
     {
       "title": "Izotop fluoru wreszcie stał się mniej tajemniczy. Po raz pierwszy zaobserwowano emisję neutronów w rozpadzie beta",
       "link": "https://www.chip.pl/2025/12/fluor-25-izotop-rozpad-beta-neutrony",
       "pubDate": "Thu, 25 Dec 2025 15:45:37 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Turkey detains 115 suspects over Islamic State New Year's Eve attack plot",
+      "link": "http://www.euronews.com/2025/12/25/turkey-detains-115-suspects-over-islamic-state-new-years-eve-attack-plot",
+      "pubDate": "Thu, 25 Dec 2025 16:42:54 +0100",
+      "source": "Euronews"
     },
     {
       "title": "\"Chcemy mieć pewność, że nikt się pod niego nie podszywa\". Trump o \"śledzeniu\" świętego Mikołaja",
@@ -15,10 +27,22 @@
       "source": "TVN24"
     },
     {
+      "title": "Ten sport podbija Europę. Duży gracz wchodzi do Polski",
+      "link": "https://businessinsider.com.pl/gospodarka/ten-sport-podbija-europe-duzy-gracz-wchodzi-do-polski/tlr9j7l",
+      "pubDate": "Thu, 25 Dec 2025 15:41:53 GMT",
+      "source": "Business Insider"
+    },
+    {
       "title": "Rzeczniczka MSZ Rosji odgraża się Polsce. \"Rozważcie konsekwencje\"",
       "link": "https://wiadomosci.onet.pl/swiat/rzeczniczka-msz-rosji-odgraza-sie-polsce-rozwazcie-konsekwencje/07tl09k",
       "pubDate": "Thu, 25 Dec 2025 15:35:40 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Pope Leo XIV revives tradition with multilingual Christmas message",
+      "link": "http://www.euronews.com/video/2025/12/25/pope-leo-xiv-revives-tradition-with-multilingual-christmas-message",
+      "pubDate": "Thu, 25 Dec 2025 16:35:35 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Atak na rosyjskiego ambasadora w Warszawie. Kolejny ruch Moskwy",
@@ -50103,6 +50127,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -52058,6 +52106,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76867,42 +76939,6 @@
       "link": "https://www.theguardian.com/world/2025/dec/16/syria-ahmed-al-ahmed-who-disarmed-bondi-shooter-lauded-in-home-town",
       "pubDate": "Tue, 16 Dec 2025 16:10:09 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "'We're all Draghians': EU's Albuquerque calls to seize momentum for capital markets union",
-      "link": "http://www.euronews.com/my-europe/2025/12/16/were-all-draghians-eus-albuquerque-calls-to-seize-momentum-for-capital-markets-union",
-      "pubDate": "Tue, 16 Dec 2025 17:09:48 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Aborcja w Oleśnicy. Małgorzata Manowska reaguje na decyzję prokuratury",
-      "link": "https://www.rp.pl/prawo-karne/art43515191-aborcja-w-olesnicy-malgorzata-manowska-reaguje-na-decyzje-prokuratury",
-      "pubDate": "Tue, 16 Dec 2025 17:08:46 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Jak oswoić AI w edukacji? Rusza ogólnopolski projekt ZBADAI",
-      "link": "https://android.com.pl/tech/1002140-rusza-ogolnopolski-projekt-zbadai/",
-      "pubDate": "Tue, 16 Dec 2025 16:07:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Zmiany na polskim rynku mieszkań. Wojna cenowa się nasili",
-      "link": "https://biznes.interia.pl/gospodarka/news-zmiany-na-rynku-mieszkan-duze-szanse-na-lekki-spadek-cen,nId,22499180",
-      "pubDate": "Tue, 16 Dec 2025 16:06:50 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "735 tys. urządzeń trafi do polskich szkół do końca roku",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/735-tys-urzadzen-trafi-do-polskich-szkol-do-konca-roku",
-      "pubDate": "Tue, 16 Dec 2025 17:06:28 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Trump Tower Belgrade: Kushner scraps Serbia hotel plan",
-      "link": "https://www.dw.com/en/trump-tower-belgrade-kushner-scraps-serbia-hotel-plan/a-75185712?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 16 Dec 2025 16:04:00 GMT",
-      "source": "DW"
     }
   ]
 }
