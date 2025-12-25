@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T19:30:29.937Z",
+  "generatedAt": "2025-12-25T19:42:26.294Z",
   "items": [
+    {
+      "title": "Afrykańskie państwo odpowiada Trumpowi. \"Całkowita i ostateczna decyzja\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-afrykanskie-panstwo-odpowiada-trumpowi-calkowita-i-ostateczn,nId,22502836",
+      "pubDate": "Thu, 25 Dec 2025 19:36:46 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Przez miesiąc używałem Linuxa Mint. Żegnaj, Windowsie 11",
+      "link": "https://android.com.pl/tech/993267-uzywalem-linux-mint-przez-miesiac/",
+      "pubDate": "Thu, 25 Dec 2025 19:34:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Russian opposition leader sentenced to six years in prison",
+      "link": "https://www.theguardian.com/world/2025/dec/25/sergei-udaltsov-terrorism",
+      "pubDate": "Thu, 25 Dec 2025 19:31:12 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Choinka zapłonęła w mieszkaniu w Stalowej Woli. 71-latek trafił do szpitala",
+      "link": "https://wiadomosci.onet.pl/rzeszow/pozar-choinki-w-mieszkaniu-w-stalowej-woli-71-latek-trafil-do-szpitala/mm9ebq4",
+      "pubDate": "Thu, 25 Dec 2025 19:30:42 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zawały serca w święta nie są przypadkiem. Oto co pokazują badania",
+      "link": "https://www.rp.pl/zdrowie/art43561321-zawaly-serca-w-swieta-nie-sa-przypadkiem-oto-co-pokazuja-badania",
+      "pubDate": "Thu, 25 Dec 2025 20:29:28 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Wulkan błotny przebudził się w Wigilię",
       "link": "https://tvn24.pl/tvnmeteo/swiat/trynidad-i-tobago-wulkan-blotny-przebudzil-sie-w-wigilie-st8818194?source=rss",
@@ -50847,6 +50877,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -52802,6 +52856,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77293,48 +77371,6 @@
       "link": "https://www.theguardian.com/business/2025/dec/16/universal-studios-uk-theme-park-planning-permission-bedfordshire",
       "pubDate": "Tue, 16 Dec 2025 17:16:45 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Zakulisowe rozgrywki wokół szczytu G20. Ludzie Nawrockiego mieli się poskarżyć na rząd",
-      "link": "https://tvn24.pl/polska/szczyt-g20-w-miami-marcin-przydacz-rzad-ma-pelnic-role-wykonawcza-czy-podwykonawcza-st8804778?source=rss",
-      "pubDate": "Tue, 16 Dec 2025 17:16:17 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Producent telewizorów wciska Copilota do swojego systemu. Użytkownicy są wściekli",
-      "link": "https://antyweb.pl/lg-wciska-copilota-do-swoich-telewizorow",
-      "pubDate": "Tue, 16 Dec 2025 17:15:52 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Chińczycy rzucają wyzwanie Amerykanom. Pokazali lot swojego latającego skrzydła",
-      "link": "https://geekweek.interia.pl/militaria/news-chinczycy-rzucaja-wyzwanie-amerykanom-pokazali-lot-swojego-l,nId,22498619",
-      "pubDate": "Tue, 16 Dec 2025 17:15:03 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Gaza's displaced struggle with heavy rain and cold weather in fragile tents",
-      "link": "http://www.euronews.com/video/2025/12/16/gazas-displaced-struggle-with-heavy-rain-and-cold-weather-in-fragile-tents",
-      "pubDate": "Tue, 16 Dec 2025 18:15:01 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "„Przyroda nie może cierpieć przez niewydolność państwa”. Sejm zajmie się ułatwieniem wycinki drzew",
-      "link": "https://oko.press/lex-szyszko-2-czy-deregulacja-sejm-zajmie-sie-wycinka",
-      "pubDate": "Tue, 16 Dec 2025 17:14:05 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Court backs ruling that UK unlawfully detained Tamils on Diego Garcia",
-      "link": "https://www.theguardian.com/world/2025/dec/16/diego-garcia-tamil-asylum-seekers-detainment-appeal-court-judgment",
-      "pubDate": "Tue, 16 Dec 2025 17:13:50 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rebels say they will withdraw from key DR Congo city at US request",
-      "link": "https://www.bbc.com/news/articles/c87l528ljeyo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 16 Dec 2025 17:12:31 GMT",
-      "source": "BBC News"
     }
   ]
 }
