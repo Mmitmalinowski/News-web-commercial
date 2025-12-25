@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-25T20:35:28.995Z",
+  "generatedAt": "2025-12-25T20:49:03.253Z",
   "items": [
+    {
+      "title": "King Charles III calls for reconciliation and unity after 'year of deepening division'",
+      "link": "http://www.euronews.com/2025/12/25/king-charles-iii-calls-for-reconciliation-and-unity-after-year-of-deepening-division",
+      "pubDate": "Thu, 25 Dec 2025 21:47:02 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Rosjanie urządzą \"taniec na kościach\"",
+      "link": "https://tvn24.pl/swiat/teatr-w-mariupolu-bedzie-ponownie-otwarty-rosjanie-urzadzaja-taniec-na-kosciach-st8818268?source=rss",
+      "pubDate": "Thu, 25 Dec 2025 20:43:37 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Rosja deklaruje, że nie zaatakuje NATO. Chce podpisać \"wiążący dokument\"",
       "link": "https://wiadomosci.onet.pl/swiat/rosja-deklaruje-ze-nie-zaatakuje-nato-chce-podpisac-wiazacy-dokument/xtcdrzn",
@@ -109,6 +121,18 @@
       "link": "https://tvn24.pl/tvnmeteo/swiat/trynidad-i-tobago-wulkan-blotny-przebudzil-sie-w-wigilie-st8818194?source=rss",
       "pubDate": "Thu, 25 Dec 2025 19:25:54 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Zakaz wstępu do doku. Grecy nie chcą remontować izraelskiego statku",
+      "link": "https://www.bankier.pl/wiadomosc/Remontu-nie-bedzie-Grecy-nie-chca-przyjac-izraelskiego-statku-9060870.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 25 Dec 2025 20:24:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Somalia wraca do wyborów po 56 latach. Mogadisz w pierścieniu dżihadystów",
+      "link": "https://www.bankier.pl/wiadomosc/Somalia-wraca-do-wyborow-po-56-latach-Mogadisz-w-pierscieniu-dzihadystow-9060869.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 25 Dec 2025 20:17:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Uwaga na świąteczne przysmaki. \"Paniom w ciąży nie wolno\"",
@@ -51057,6 +51081,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -53012,6 +53060,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77443,42 +77515,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Zimna-wojna-miedzy-rzadem-a-prezydentem-Tusk-Nawrocki-nie-odbiera-telefonow-9056762.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 16 Dec 2025 18:36:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Sprawdź swój zegarek Samsunga. Mogłeś przegapić dużą zmianę",
-      "link": "https://spidersweb.pl/2025/12/samsung-galaxy-watch-one-ui-8-aktualizacja-watch-4.html",
-      "pubDate": "Tue, 16 Dec 2025 18:34:49 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Brytyjska policja odnalazła ciało kobiety. To zaginiona przed 20 laty Polka",
-      "link": "https://wiadomosci.onet.pl/swiat/szczatki-malgorzaty-wnuczek-odnalezione-po-20-latach-sledztwo-trwa/nk6lytq",
-      "pubDate": "Tue, 16 Dec 2025 17:34:28 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ceny RAM-u napędzają nowe oszustwo. Sprzedają starocie jako DDR5",
-      "link": "https://android.com.pl/tech/1002200-ceny-ramu-napedzaja-nowe-oszustwo/",
-      "pubDate": "Tue, 16 Dec 2025 17:32:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "GOG rzuca koło ratunkowe starym grom, a ty możesz pomóc",
-      "link": "https://www.chip.pl/2025/12/gog-preservation-program-patrons",
-      "pubDate": "Tue, 16 Dec 2025 17:30:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Giganci zbrojeniowi apelują do inwestorów. Przestrzegają przed fiaskiem negocjacji pokojowych",
-      "link": "https://businessinsider.com.pl/gospodarka/sektor-obronny-europy-pod-presja-akcje-spadaja-po-sygnalach-pokoju/39blemg",
-      "pubDate": "Tue, 16 Dec 2025 17:29:40 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "​Koniec Kaczyńskiego? \"Wydaje się, że definitywnie\"",
-      "link": "https://www.rmf24.pl/polityka/news-koniec-kaczynskiego-wydaje-sie-ze-definitywnie,nId,8051231",
-      "pubDate": "Tue, 16 Dec 2025 18:28:36 +0100",
-      "source": "RMF24"
     }
   ]
 }
