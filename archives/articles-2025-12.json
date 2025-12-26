@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T21:31:45.999Z",
+  "generatedAt": "2025-12-26T21:43:49.172Z",
   "items": [
+    {
+      "title": "Reuters: Rosja rozmieszcza pociski w dawnej bazie lotniczej na Białorusi",
+      "link": "https://tvn24.pl/swiat/rosyjskie-rakiety-oriesznik-media-nowa-bron-putina-na-bialorusi-st8819181?source=rss",
+      "pubDate": "Fri, 26 Dec 2025 21:37:59 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Perry Bamonte, guitarist and keyboardist for the Cure, dies aged 65",
       "link": "https://www.theguardian.com/music/2025/dec/26/perry-bamonte-guitarist-the-cure-dies",
@@ -56709,6 +56715,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58664,6 +58694,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79945,24 +79999,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/duze-emocje-w-sejmie-poslowie-zaczeli-krzyczec-hanba-wideo/rw1sfxj",
       "pubDate": "Wed, 17 Dec 2025 11:13:07 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 17.12.2025",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-17-12-2025-7233412652558848a.html",
-      "pubDate": "Wed, 17 Dec 2025 12:12:55 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Police investigate after white-tailed eagles go missing across UK",
-      "link": "https://www.theguardian.com/environment/2025/dec/17/police-investigate-after-white-tailed-eagles-go-missing-across-uk",
-      "pubDate": "Wed, 17 Dec 2025 11:12:55 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "AI slop, clean girl aesthetic and clutter: 2025's biggest cultural trends",
-      "link": "http://www.euronews.com/culture/2025/12/17/ai-slop-clean-girl-aesthetic-and-clutter-2025s-biggest-cultural-trends",
-      "pubDate": "Wed, 17 Dec 2025 12:12:05 +0100",
-      "source": "Euronews"
     }
   ]
 }
