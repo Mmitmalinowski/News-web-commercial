@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T22:49:24.492Z",
+  "generatedAt": "2025-12-26T22:58:35.520Z",
   "items": [
+    {
+      "title": "Donald Trump w rozmowie z Politico: Zełenski nie ma nic, dopóki tego nie zatwierdzę",
+      "link": "https://wiadomosci.onet.pl/swiat/trump-w-rozmowie-z-politico-zelenski-nie-ma-nic-dopoki-tego-nie-zatwierdze/zxxhxtc",
+      "pubDate": "Fri, 26 Dec 2025 22:52:36 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Call for citizen scientists to monitor threatened turtle species on NSW beaches",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/27/call-for-citizen-scientists-to-monitor-threatened-turtle-species-on-nsw-beaches",
+      "pubDate": "Fri, 26 Dec 2025 22:47:38 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Latający samochód, który wyjedzie z bloku i wystartuje za miastem to już nie odległe marzenie",
       "link": "https://www.chip.pl/2025/12/latajacy-samochod-aridge",
@@ -56883,6 +56895,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58838,6 +58874,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80119,30 +80179,6 @@
       "link": "http://www.euronews.com/culture/2025/12/17/louvre-museum-to-remain-closed-wednesday-as-strike-over-working-conditions-continues",
       "pubDate": "Wed, 17 Dec 2025 12:23:25 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Były szef CBA z zarzutem za Pegasusa. Co mu grozi?",
-      "link": "https://www.rmf24.pl/fakty/polska/news-byly-szef-cba-z-zarzutem-za-pegasusa-co-mu-grozi,nId,8051424",
-      "pubDate": "Wed, 17 Dec 2025 12:23:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Tomasz Trela: Najgorzej byłoby ustępować Karolowi Nawrockiemu",
-      "link": "https://www.rp.pl/polityka/art43519571-tomasz-trela-najgorzej-byloby-ustepowac-karolowi-nawrockiemu",
-      "pubDate": "Wed, 17 Dec 2025 12:22:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Transport, energy and raw materials drive EU-Central Asia cooperation",
-      "link": "http://www.euronews.com/2025/12/17/transport-energy-and-raw-materials-drive-eu-central-asia-cooperation",
-      "pubDate": "Wed, 17 Dec 2025 12:21:52 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Rosyjski naukowiec zatrzymany w Polsce. Jest zażalenie na areszt",
-      "link": "https://www.rmf24.pl/fakty/polska/news-rosyjski-naukowiec-zatrzymany-w-polsce-jest-zazalenie-na-are,nId,8051417",
-      "pubDate": "Wed, 17 Dec 2025 12:19:43 +0100",
-      "source": "RMF24"
     }
   ]
 }
