@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T08:47:26.197Z",
+  "generatedAt": "2025-12-26T09:02:18.463Z",
   "items": [
+    {
+      "title": "Obłok plazmy zawrócił w kierunku Słońca. Sonda Parker Solar Probe donosi",
+      "link": "https://tech.wp.pl/oblok-plazmy-zawrocil-w-kierunku-slonca-sonda-parker-solar-probe-donosi,7233397751122848a",
+      "pubDate": "Fri, 26 Dec 2025 10:00:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Tragiczny pożar na Podlasiu. Zginęły dwie osoby",
+      "link": "https://www.rmf24.pl/regiony/bialystok/news-tragiczny-pozar-na-podlasiu-zginely-dwie-osoby,nId,8053492",
+      "pubDate": "Fri, 26 Dec 2025 09:56:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nocny atak Rosjan. Zniszczyli statek należący do sąsiada Polski",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-nocny-atak-rosjan-zniszczyli-statek-nalezacy-do-sasiada-pols,nId,22502869",
+      "pubDate": "Fri, 26 Dec 2025 08:52:18 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Donald Trump chwali się, że zapewnił Amerykanom \"złoty wiek\". To bardziej skomplikowane. \"Większość wyborców nie podziela tego entuzjazmu\"",
+      "link": "https://wiadomosci.onet.pl/politico/donald-trump-dal-amerykanom-zloty-wiek-wiekszosc-wyborcow-nie-podziela-tego/q4pv099",
+      "pubDate": "Fri, 26 Dec 2025 08:51:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tragiczny pożar na Podlasiu. Zginęły dwie starsze osoby",
+      "link": "https://wiadomosci.onet.pl/bialystok/tragiczny-pozar-na-podlasiu-zginely-dwie-starsze-osoby/kmeg4kt",
+      "pubDate": "Fri, 26 Dec 2025 08:43:27 GMT",
+      "source": "Onet"
+    },
     {
       "title": "To był rok metali szlachetnych, polskich akcji i funduszy dłużnych. W nowym nie zawieszamy wysoko poprzeczki oczekiwań [FELIETON]",
       "link": "https://businessinsider.com.pl/gielda/wiadomosci/podsumowanie-roku-2025-na-rynkach-finansowych-rekordy-polskich-akcji-zloto-66-proc/5gsjl18",
@@ -709,6 +739,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/znany-ekspert-mowi-wprost-putin-przegra-wojne-fantazja-ze-rosja-jest-bajkowa-kraina-z/vwz97fm",
       "pubDate": "Fri, 26 Dec 2025 06:01:08 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Gender inequality: What happens to women’s jobs after children?",
+      "link": "http://www.euronews.com/business/2025/12/26/gender-inequality-what-happens-to-womens-jobs-after-children",
+      "pubDate": "Fri, 26 Dec 2025 07:00:58 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Latest news bulletin | December 26th, 2025 – Morning",
@@ -53169,6 +53205,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -55124,6 +55184,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -78439,54 +78523,6 @@
       "link": "https://krytykapolityczna.pl/kraj/czarzasty-nowa-lewica-wladza-woke-kosciol/",
       "pubDate": "Wed, 17 Dec 2025 05:00:00 +0000",
       "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Ewa Szadkowska: Idole i ideały",
-      "link": "https://www.rp.pl/rzecz-o-prawie/art43512031-ewa-szadkowska-idole-i-idealy",
-      "pubDate": "Wed, 17 Dec 2025 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Canal+ wznowił sprzedaż Eleven Sports. Ile kosztują kanały?",
-      "link": "https://www.wirtualnemedia.pl/canal-plus-eleven-sports-wznowienie-sprzedazy-cena-la-liga-jak-ogladac,7233170695633856a",
-      "pubDate": "Wed, 17 Dec 2025 05:59:10 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "\"Kwiatki polskie duże\" znów wędrują po ramówce. Od stycznia w TVP2",
-      "link": "https://www.wirtualnemedia.pl/kwiatki-polskie-duze-znow-wedruja-po-ramowce-od-stycznia-w-tvp2,7233033251916704a",
-      "pubDate": "Wed, 17 Dec 2025 05:57:10 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Sześć grzechów głównych zmian w ustawie o krajowym systemie cyberbezpieczeństwa",
-      "link": "https://www.rp.pl/opinie-prawne/art43513201-szesc-grzechow-glownych-zmian-w-ustawie-o-krajowym-systemie-cyberbezpieczenstwa",
-      "pubDate": "Wed, 17 Dec 2025 05:57:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Revolut zaoferuje nową usługę. Polska na pierwszej linii",
-      "link": "https://spidersweb.pl/2025/12/revolut-mobile-plany-komorkowe-bez-umowy.html",
-      "pubDate": "Wed, 17 Dec 2025 05:54:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Oscary 2026: Krótkie listy ogłoszone. Nie ma „Franza Kafki”",
-      "link": "https://www.rp.pl/film/art43518341-oscary-2026-krotkie-listy-ogloszone-nie-ma-franza-kafki",
-      "pubDate": "Wed, 17 Dec 2025 05:53:54 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Iberion stawia na HR. Zatrudnił znaną managerkę",
-      "link": "https://www.wirtualnemedia.pl/iberion-stawia-na-hr-zatrudnil-znana-managerke,7233035993918368a",
-      "pubDate": "Wed, 17 Dec 2025 05:53:20 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "ZPR Media bez szefa SEO. Likwidacja działu",
-      "link": "https://www.wirtualnemedia.pl/zpr-media-bez-szefa-seo-likwidacja-dzialu,7233019573717920a",
-      "pubDate": "Wed, 17 Dec 2025 05:52:07 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
