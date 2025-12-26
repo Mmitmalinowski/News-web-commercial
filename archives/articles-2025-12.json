@@ -1,7 +1,55 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T14:41:18.517Z",
+  "generatedAt": "2025-12-26T14:54:03.170Z",
   "items": [
+    {
+      "title": "„Poczet Władców Polski”: Poczet, jakiego potrzebowaliśmy",
+      "link": "https://www.rp.pl/plus-minus/art43551001-poczet-wladcow-polski-poczet-jakiego-potrzebowalismy",
+      "pubDate": "Fri, 26 Dec 2025 15:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Karol Nawrocki rozmawiał z Donaldem Trumpem",
+      "link": "https://www.rmf24.pl/fakty/polska/news-karol-nawrocki-rozmawial-z-donaldem-trumpem,nId,8053520",
+      "pubDate": "Fri, 26 Dec 2025 15:46:12 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Pomniki stalinizmu. Opuszczone pociągi na Syberii",
+      "link": "https://tech.wp.pl/pomniki-stalinizmu-opuszczone-pociagi-na-syberii,7234240007367168a",
+      "pubDate": "Fri, 26 Dec 2025 15:45:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Israel announces Somaliland recognition",
+      "link": "https://www.dw.com/en/israel-announces-somaliland-recognition/a-75311342?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 26 Dec 2025 14:45:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Zamach na północy Izraela. Są ofiary śmiertelne",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-zamach-na-polnocy-izraela-sa-ofiary-smiertelne,nId,8053519",
+      "pubDate": "Fri, 26 Dec 2025 15:43:37 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Obrazy, które wreszcie \"słuchają\" poleceń. Nowy tryb Images w ChatGPT robi duże wrażenie",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-tryb-images-w-chatgpt-robi-ogromne-wrazenie-obrazy-wreszcie-sluchaja-polecen/9xexs4s",
+      "pubDate": "Fri, 26 Dec 2025 14:41:57 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "US warns of more Nigeria strikes as Abuja talks of ‘joint ongoing operations’",
+      "link": "https://www.theguardian.com/world/2025/dec/26/us-warns-of-more-nigeria-strikes-as-abuja-talks-of-joint-ongoing-operations",
+      "pubDate": "Fri, 26 Dec 2025 14:41:45 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Banksy's Walled Off Hotel reopens in Bethlehem after two-year closure",
+      "link": "http://www.euronews.com/video/2025/12/26/banksys-walled-off-hotel-reopens-in-bethlehem-after-two-year-closure",
+      "pubDate": "Fri, 26 Dec 2025 15:40:28 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Polska – kraj dziwny, i właśnie dlatego – piękny",
       "link": "https://www.rp.pl/plus-minus/art43550991-polska-kraj-dziwny-i-wlasnie-dlatego-piekny",
@@ -13,6 +61,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-szpieg-w-rosyjskiej-placowce-w-usa-mial-przekazywac-tajne-in,nId,22502913",
       "pubDate": "Fri, 26 Dec 2025 14:38:52 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Mitochondria na pełnych obrotach. Czy to koniec problemów z otyłością?",
+      "link": "https://geekweek.interia.pl/nauka/news-mitochondria-na-pelnych-obrotach-czy-to-koniec-problemow-z-o,nId,22502510",
+      "pubDate": "Fri, 26 Dec 2025 14:38:51 GMT",
+      "source": "GeekWeek"
     },
     {
       "title": "Pójść w ślady mamy. Jan Guńka nadzieją polskiego biatlonu",
@@ -55137,6 +55191,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -57092,6 +57170,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79033,72 +79135,6 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-nocny-atak-na-rosje-ukraincy-zadali-cios-w-dwoch-strategiczn,nId,22499352",
       "pubDate": "Wed, 17 Dec 2025 09:13:18 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Pepco i Dealz nabrały wiatru w żagle. Nowy rodzaj promocji dał wyniki",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/pepco-i-dealz-podaly-wyniki-nowy-rodzaj-promocji/21ldths",
-      "pubDate": "Wed, 17 Dec 2025 09:13:14 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Starmer urged to ensure rejoining Erasmus is ‘first step to closer relationship’ with EU – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2025/dec/17/uk-politics-live-eu-erasmus-scheme-labour-conservatives-doctors-strike-wes-streeting-latest-news-updates",
-      "pubDate": "Wed, 17 Dec 2025 09:13:05 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Śmierć 11-letniej Danusi. Minister sprawiedliwości o sprawie",
-      "link": "https://tvn24.pl/wroclaw/jelenia-gora-smierc-11-letniej-danusi-minister-sprawiedliwosci-o-sprawie-st8805370?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 09:11:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "AFCON offers hope after World Cup heartbreak",
-      "link": "https://www.dw.com/en/afcon-offers-hope-after-world-cup-heartbreak/a-75187534?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 17 Dec 2025 09:11:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Dziennikarz zapytał, czy w PiS \"kipi\". Piotr Gliński o kulisach konfliktu",
-      "link": "https://wiadomosci.onet.pl/kraj/piotr-glinski-o-kulisach-sporu-w-pis-interweniowal-sam-prezes/3zdslt1",
-      "pubDate": "Wed, 17 Dec 2025 09:10:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ważna polska instytucja ofiarą hakerów. Rządzący ostrzegają",
-      "link": "https://www.tabletowo.pl/polska-instytucja-uzp-ofiara-hakerow/",
-      "pubDate": "Wed, 17 Dec 2025 09:09:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Krakowski sąd skazał \"Ludwiczka\". Nienawistne hasła wygłaszał w Święto Niepodległości",
-      "link": "https://wiadomosci.onet.pl/kraj/sad-wydal-wyrok-w-sprawie-ludwiczka-jeden-z-liderow-kamratow-trafi-za-kraty/jdghdbv",
-      "pubDate": "Wed, 17 Dec 2025 09:08:28 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zaburza przekaz. Wystarczy utrata małego odcinka",
-      "link": "https://tech.wp.pl/zaburza-przekaz-wystarczy-utrata-malego-odcinka,7233377647762368a",
-      "pubDate": "Wed, 17 Dec 2025 10:08:01 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Angelina Jolie po raz pierwszy pokazuje blizny po mastektomii",
-      "link": "https://www.rmf24.pl/fakty/polska/news-angelina-jolie-po-raz-pierwszy-pokazuje-blizny-po-mastektomi,nId,8051353",
-      "pubDate": "Wed, 17 Dec 2025 10:07:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Byki jadące do Polski wypadły na ruchliwą drogę. Goniła je policja",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-byki-jadace-do-polski-wypadly-na-ruchliwa-droge-gonila-je-po,nId,8051337",
-      "pubDate": "Wed, 17 Dec 2025 10:06:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zabójstwo 11-latki w Jeleniej Górze. Minister Żurek o możliwej karze dla 12-latki",
-      "link": "https://wiadomosci.onet.pl/wroclaw/zabojstwo-11-latki-w-jeleniej-gorze-minister-zurek-o-mozliwej-karze-dla-12-latki/4tmrfe2",
-      "pubDate": "Wed, 17 Dec 2025 09:05:50 GMT",
-      "source": "Onet"
     }
   ]
 }
