@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T07:27:34.444Z",
+  "generatedAt": "2025-12-26T07:44:58.553Z",
   "items": [
+    {
+      "title": "Malaysia: Ex-PM Najib found guilty on new 1MDB graft charges",
+      "link": "https://www.dw.com/en/malaysia-ex-pm-najib-found-guilty-on-new-1mdb-graft-charges/a-75307547?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 26 Dec 2025 07:38:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Padła szóstka w Lotto Plus",
+      "link": "https://tvn24.pl/biznes/z-kraju/lotto-i-lotto-plus-wyniki-losowania-z-25-grudnia-2025-jakie-liczby-padly-podczas-losowania-st8818365?source=rss",
+      "pubDate": "Fri, 26 Dec 2025 07:37:41 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zełenski zapowiada spotkanie z Trumpem. \"Nie marnujemy ani dnia\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-zelenski-zapowiada-spotkanie-z-trumpem-nie-marnujemy-ani-dni,nId,22502860",
+      "pubDate": "Fri, 26 Dec 2025 07:35:17 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "US launches 'powerful' strikes in Nigeria targeting Islamic State militants, Trump says",
+      "link": "http://www.euronews.com/2025/12/26/us-launches-powerful-strikes-in-nigeria-targeting-islamic-state-militants-trump-says",
+      "pubDate": "Fri, 26 Dec 2025 08:31:11 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Gdzie na zakupy 26 grudnia? Niektóre sklepy są otwarte",
+      "link": "https://wiadomosci.onet.pl/kraj/gdzie-na-zakupy-26-grudnia-niektore-sklepy-sa-otwarte/ye7kgq1",
+      "pubDate": "Fri, 26 Dec 2025 07:29:52 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Co będzie się działo ze złotym? Strateg prognozuje",
+      "link": "https://www.money.pl/pieniadze/co-bedzie-sie-dzialo-ze-zlotym-strateg-prognozuje-7236538926210016a.html",
+      "pubDate": "Fri, 26 Dec 2025 08:25:19 +0100",
+      "source": "Money.pl"
+    },
     {
       "title": "\"Czułem się gorszy. Miałem wrażenie, że ludzie patrzą na mnie inaczej, bo nie mam pracy\". Ma 30 lat. Pogodził się z tym, że nigdy nie znajdzie zatrudnienia",
       "link": "https://wiadomosci.onet.pl/nauka/wszyscy-chodzili-do-pracy-a-ja-zostawalem-w-domu-ma-30-lat/63ef1cr",
@@ -52731,6 +52767,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -54686,6 +54746,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -78294,54 +78378,6 @@
       "title": "Warszawa: jaka pogoda czeka nas 17.12.2025?",
       "link": "https://wiadomosci.onet.pl/warszawa/warszawa-prognoza-pogody-w-dniu-17122025/q2dv4qr",
       "pubDate": "Wed, 17 Dec 2025 03:04:48 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Toruń - 17.12.2025. Jaka będzie pogoda w mieście?",
-      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/torun-prognoza-pogody-w-dniu-17122025/xbw4brl",
-      "pubDate": "Wed, 17 Dec 2025 03:04:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szczecin - sprawdź prognozę pogody w dniu 17.12.2025",
-      "link": "https://wiadomosci.onet.pl/szczecin/szczecin-prognoza-pogody-w-dniu-17122025/50fk9s8",
-      "pubDate": "Wed, 17 Dec 2025 03:04:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rzeszów - sprawdź prognozę pogody w dniu 17.12.2025",
-      "link": "https://wiadomosci.onet.pl/rzeszow/rzeszow-prognoza-pogody-w-dniu-17122025/7sxdsc9",
-      "pubDate": "Wed, 17 Dec 2025 03:04:33 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Poznań: Jaka pogoda na dziś? Prognoza w dniu 17.12.2025",
-      "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-17122025/jkqdjp1",
-      "pubDate": "Wed, 17 Dec 2025 03:04:22 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Opole - 17.12.2025. Jaka będzie pogoda w mieście?",
-      "link": "https://wiadomosci.onet.pl/opole/opole-prognoza-pogody-w-dniu-17122025/2v3gpm4",
-      "pubDate": "Wed, 17 Dec 2025 03:04:20 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Olsztyn - jakiej pogody możemy się spodziewać 17.12.2025?",
-      "link": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-17122025/z7weqyw",
-      "pubDate": "Wed, 17 Dec 2025 03:04:08 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Lublin: Jaka pogoda na dziś? Prognoza w dniu 17.12.2025",
-      "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-17122025/j76n8l4",
-      "pubDate": "Wed, 17 Dec 2025 03:04:06 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Łódź. Jaka pogoda czeka nas 17.12.2025?",
-      "link": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-17122025/pc47ygs",
-      "pubDate": "Wed, 17 Dec 2025 03:03:53 GMT",
       "source": "Onet"
     }
   ]
