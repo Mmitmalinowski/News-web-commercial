@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T22:35:46.976Z",
+  "generatedAt": "2025-12-26T22:49:24.492Z",
   "items": [
+    {
+      "title": "Latający samochód, który wyjedzie z bloku i wystartuje za miastem to już nie odległe marzenie",
+      "link": "https://www.chip.pl/2025/12/latajacy-samochod-aridge",
+      "pubDate": "Fri, 26 Dec 2025 22:39:40 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "\"Nie ma nic, dopóki ja tego nie zatwierdzę\". Trump przed spotkaniem z Zełenskim",
       "link": "https://www.rmf24.pl/fakty/swiat/news-nie-ma-nic-dopoki-ja-tego-nie-zatwierdze-trump-przed-spotkan,nId,8053548",
@@ -56853,6 +56859,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58808,6 +58838,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80089,24 +80143,6 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-rosyjski-naukowiec-zatrzymany-w-polsce-jest-zazalenie-na-are,nId,8051417",
       "pubDate": "Wed, 17 Dec 2025 12:19:43 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "To początek epidemii. Obecny wariant daje nieoczywiste objawy",
-      "link": "https://wydarzenia.interia.pl/kraj/news-to-poczatek-epidemii-obecny-wariant-daje-nieoczywiste-objawy,nId,22499410",
-      "pubDate": "Wed, 17 Dec 2025 11:18:35 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Były szef CBA usłyszał zarzut. Komunikat prokuratury",
-      "link": "https://wiadomosci.onet.pl/kraj/byly-szef-cba-uslyszal-zarzut-komunikat-prokuratury/hbmexp5",
-      "pubDate": "Wed, 17 Dec 2025 11:18:28 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Były szef CBA usłyszał zarzut. Komunikat prokuratury",
-      "link": "https://wiadomosci.onet.pl/kraj/byly-szef-cba-ernest-bejda-uslyszal-zarzut-komunikat-prokuratury/hbmexp5",
-      "pubDate": "Wed, 17 Dec 2025 11:18:28 GMT",
-      "source": "Onet"
     }
   ]
 }
