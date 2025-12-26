@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T21:14:17.304Z",
+  "generatedAt": "2025-12-26T21:31:45.999Z",
   "items": [
+    {
+      "title": "Perry Bamonte, guitarist and keyboardist for the Cure, dies aged 65",
+      "link": "https://www.theguardian.com/music/2025/dec/26/perry-bamonte-guitarist-the-cure-dies",
+      "pubDate": "Fri, 26 Dec 2025 21:06:25 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Trump studzi entuzjazm Zełenskiego. \"Dopóki nie zatwierdzę\"",
       "link": "https://wydarzenia.interia.pl/zagranica/news-trump-studzi-entuzjazm-zelenskiego-dopoki-nie-zatwierdze,nId,22502970",
@@ -56679,6 +56685,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58634,6 +58664,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79909,24 +79963,6 @@
       "link": "http://www.euronews.com/culture/2025/12/17/ai-slop-clean-girl-aesthetic-and-clutter-2025s-biggest-cultural-trends",
       "pubDate": "Wed, 17 Dec 2025 12:12:05 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Koniec dominacji Pepco? Action przejmuje pozycję lidera wartości sprzedaży",
-      "link": "https://www.bankier.pl/wiadomosc/Action-zastapi-Pepco-na-pozycji-lidera-na-rynku-dyskontow-niespozywczych-w-Polsce-raport-9057072.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 12:12:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Fiasko planu Donalda Trumpa. Amerykanie wydali pilne ostrzeżenie",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-fiasko-planu-donalda-trumpa-amerykanie-wydali-pilne-ostrzeze,nId,22499383",
-      "pubDate": "Wed, 17 Dec 2025 11:11:54 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Mróz i niepokój na \"wyspie ognia\". Mieszkańcy nie mieli jak wezwać pomocy",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-mroz-i-niepokoj-na-wyspie-ognia-mieszkancy-nie-mieli-jak-wez,nId,22499424",
-      "pubDate": "Wed, 17 Dec 2025 11:09:32 GMT",
-      "source": "Interia"
     }
   ]
 }
