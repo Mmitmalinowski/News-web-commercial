@@ -1,7 +1,37 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T05:31:06.576Z",
+  "generatedAt": "2025-12-26T05:48:32.537Z",
   "items": [
+    {
+      "title": "Michał Szułdrzyński: W Polsce szerzy się przedziwne pojmowanie katolicyzmu",
+      "link": "https://www.rp.pl/plus-minus/art43550211-michal-szuldrzynski-w-polsce-szerzy-sie-przedziwne-pojmowanie-katolicyzmu",
+      "pubDate": "Fri, 26 Dec 2025 06:45:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pożar kościoła w Lublinie. Parafia opublikowała nowy komunikat",
+      "link": "https://wiadomosci.onet.pl/lublin/pozar-kosciola-w-lublinie-parafia-opublikowala-nowy-komunikat/l7kw8gh",
+      "pubDate": "Fri, 26 Dec 2025 05:37:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kim Dzong Un \"zasygnalizował\" dalszy rozwój. Czy to jego plan na zjazd partii?",
+      "link": "https://tvn24.pl/swiat/kim-dzong-un-zasygnalizowal-dalszy-rozwoj-czy-to-jego-plan-na-zjazd-partii-st8818329?source=rss",
+      "pubDate": "Fri, 26 Dec 2025 05:35:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Four-second naps and snoozing in flight: Extreme sleep methods help these animals evade danger",
+      "link": "http://www.euronews.com/green/2025/12/26/four-second-naps-and-snoozing-in-flight-extreme-sleep-methods-help-these-animals-evade-dan",
+      "pubDate": "Fri, 26 Dec 2025 06:34:48 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Trump wydał rozkaz. Potężny atak USA w regionie. \"To nie koniec\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-wydal-rozkaz-potezny-atak-usa-w-regionie-to-nie-koniec,nId,22502851",
+      "pubDate": "Fri, 26 Dec 2025 05:29:16 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Średnio 479 tys. widzów \"Randki w ciemno\" w Polsacie",
       "link": "http://www.press.pl/tresc/90882,Srednio-479-tys_-widzow-_randki-w-ciemno_-w-polsacie?rss=1",
@@ -569,6 +599,12 @@
     {
       "title": "Syria uderzyła w Państwo Islamskie. \"Zneutralizowaliśmy terrorystę\"",
       "link": "https://www.rmf24.pl/fakty/swiat/news-syria-uderzyla-w-panstwo-islamskie-zneutralizowalismy-terror,nId,8053467",
+      "pubDate": "Thu, 25 Dec 2025 22:01:02 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Syria uderzyła w tzw. Państwo Islamskie. \"Zneutralizowaliśmy terrorystę\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-syria-uderzyla-w-tzw-panstwo-islamskie-zneutralizowalismy-te,nId,8053467",
       "pubDate": "Thu, 25 Dec 2025 22:01:02 +0100",
       "source": "RMF24"
     },
@@ -52161,6 +52197,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -54116,6 +54176,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -78115,54 +78199,6 @@
       "link": "https://energia.rp.pl/gaz/art43516331-wegry-kupia-gaz-w-usa-ale-malo",
       "pubDate": "Tue, 16 Dec 2025 21:31:29 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Man who stabbed 11-year-old Australian girl in central London to be detained indefinitely",
-      "link": "https://www.theguardian.com/australia-news/2025/dec/17/man-who-stabbed-11-year-old-australian-girl-in-central-london-to-be-detained-indefinitely",
-      "pubDate": "Tue, 16 Dec 2025 20:28:42 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"Raport międzynarodowy\". Koszmar ukraińskich żołnierzy na froncie. \"Płakał i codziennie pił, by zasnąć\"",
-      "link": "https://wiadomosci.onet.pl/swiat/raport-miedzynarodowy-koszmar-ukrainskich-zolnierzy-na-froncie-plakal-i-codziennie/frytqff",
-      "pubDate": "Tue, 16 Dec 2025 20:28:30 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Brytyjski tygodnik krytykuje negocjacje w Belinie. Ostrzega przed optymizmem",
-      "link": "https://businessinsider.com.pl/wiadomosci/economist-krytykuje-negocjacje-w-berlinie-pokoj-na-ukrainie-nadal-niepewny/90s214z",
-      "pubDate": "Tue, 16 Dec 2025 20:28:15 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurski kasuje swój wpis. \"Przyniósł założony skutek\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-kurski-kasuje-swoj-wpis-przyniosl-zalozony-skutek,nId,22499246",
-      "pubDate": "Tue, 16 Dec 2025 20:27:07 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Democratic senators investigate data centers’ effects on electricity prices",
-      "link": "https://www.theguardian.com/us-news/2025/dec/16/data-centers-consumer-prices",
-      "pubDate": "Tue, 16 Dec 2025 20:25:05 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pokój w Ukrainie realny? Na pewno nie z Rosją",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-pokoj-w-ukrainie-realny-na-pewno-nie-z-rosja,nId,8051242",
-      "pubDate": "Tue, 16 Dec 2025 21:20:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Wojna frakcji w PiS. Jest deklaracja Morawieckiego",
-      "link": "https://www.rmf24.pl/polityka/news-wojna-frakcji-w-pis-jest-deklaracja-morawieckiego,nId,8051257",
-      "pubDate": "Tue, 16 Dec 2025 21:18:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Trump signs order to further restrict entry of foreign nationals to US",
-      "link": "https://www.theguardian.com/us-news/2025/dec/16/trump-travel-ban-list",
-      "pubDate": "Tue, 16 Dec 2025 20:16:45 GMT",
-      "source": "The Guardian"
     }
   ]
 }
