@@ -1,7 +1,31 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T16:51:20.948Z",
+  "generatedAt": "2025-12-26T16:58:34.368Z",
   "items": [
+    {
+      "title": "Macron nie zadzwoni. Jasne stanowisko Paryża w sprawie rozmów z Rosją",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-macron-nie-zadzwoni-jasne-stanowisko-paryza-w-sprawie-rozmow,nId,8053524",
+      "pubDate": "Fri, 26 Dec 2025 17:55:16 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Atak zimy w Nowym Jorku. Opady śniegu największe od lat",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-26/atak-zimy-w-nowym-jorku-opady-sniegu-najwieksze-od-lat/",
+      "pubDate": "Fri, 26 Dec 2025 17:54:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Small space tech company’s shares skyrocket on Trump Golden Dome contract",
+      "link": "http://www.euronews.com/business/2025/12/26/small-space-tech-companys-shares-skyrocket-on-trump-golden-dome-contract",
+      "pubDate": "Fri, 26 Dec 2025 17:51:56 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Premier Czech: wyobraźcie sobie, zadzwonił do mnie Donald Trump!",
+      "link": "https://wiadomosci.onet.pl/swiat/premier-czech-andrej-babisz-chwali-sie-na-x-zadzwonil-do-mnie-donald-trump/fgxlmq4",
+      "pubDate": "Fri, 26 Dec 2025 16:48:11 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Syria: At least 8 killed in first major mosque attack since Assad",
       "link": "https://www.dw.com/en/syria-at-least-8-killed-in-first-major-mosque-attack-since-assad/a-75311519?maca=en-rss-en-all-1573-xml-mrss",
@@ -55809,6 +55833,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -57764,6 +57812,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79315,42 +79387,6 @@
       "link": "https://www.rp.pl/nieruchomosci/art43516411-mialo-juz-nie-byc-wiecznych-prezesow-spoldzielni-mieszkaniowych",
       "pubDate": "Wed, 17 Dec 2025 11:05:06 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "UE na kursie kolizyjnym z USA, Ukraina na skraju. \"Chciało mi się płakać\"",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-na-skraju-europa-na-kursie-kolizyjnym-z-usa-chcialo,nId,22499324",
-      "pubDate": "Wed, 17 Dec 2025 10:04:34 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Shadow AI – martwy punkt firmowej cyberochrony",
-      "link": "https://cyberdefence24.pl/eset/shadow-ai-martwy-punkt-firmowej-cyberochrony",
-      "pubDate": "Wed, 17 Dec 2025 11:03:52 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Niebezpieczna praktyka dotarła do Polski. Ludzkie losy w rękach \"zimnych algorytmów\"",
-      "link": "https://www.rmf24.pl/fakty/polska/news-niebezpieczna-praktyka-dotarla-do-polski-ludzkie-losy-w-reka,nId,8051364",
-      "pubDate": "Wed, 17 Dec 2025 11:02:31 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Przemysław Czarnek: Partie na prawo od PiS mają 20 proc. poparcia, potrzebujemy nowego programu",
-      "link": "https://www.rp.pl/polityka/art43518421-przemyslaw-czarnek-partie-na-prawo-od-pis-maja-20-proc-poparcia-potrzebujemy-nowego-programu",
-      "pubDate": "Wed, 17 Dec 2025 11:02:11 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Udawali policjantów, skrępowali i żądali pieniędzy. Ośmiu zatrzymanych",
-      "link": "https://tvn24.pl/olsztyn/olsztyn-podszyli-sie-pod-policjantow-i-zaatakowali-w-mieszkaniu-obywateli-ukrainy-st8805285?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 10:02:09 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Mężczyzna wjechał na zalaną drogę. Nie przeżył",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-waszyngtonie-mezczyzna-wjechal-na-zalana-droge-nie-przezyl-st8805243?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 10:01:30 GMT",
-      "source": "TVN24"
     }
   ]
 }
