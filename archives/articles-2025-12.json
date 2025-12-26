@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T22:58:35.520Z",
+  "generatedAt": "2025-12-26T23:27:54.836Z",
   "items": [
+    {
+      "title": "BMW M2 z pakietem M Performance: Auto dla tych, którzy lubią jeździć",
+      "link": "https://moto.rp.pl/za-kierownica/art43561851-bmw-m2-z-pakietem-m-performance-auto-dla-tych-ktorzy-lubia-jezdzic",
+      "pubDate": "Sat, 27 Dec 2025 00:17:13 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Donald Trump w rozmowie z Politico: Zełenski nie ma nic, dopóki tego nie zatwierdzę",
       "link": "https://wiadomosci.onet.pl/swiat/trump-w-rozmowie-z-politico-zelenski-nie-ma-nic-dopoki-tego-nie-zatwierdze/zxxhxtc",
@@ -56919,6 +56925,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58874,6 +58904,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80161,24 +80215,6 @@
       "link": "https://turystyka.rp.pl/linie-lotnicze/art43519601-lot-poleci-do-bangkoku-laczymy-polske-z-kluczowymi-punktami-na-mapie-swiata",
       "pubDate": "Wed, 17 Dec 2025 12:25:23 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wielka Brytania wraca do Erasmusa. Koniec przerwy po brexicie",
-      "link": "https://www.bankier.pl/wiadomosc/Wielka-Brytania-wraca-do-Erasmusa-Koniec-przerwy-po-brexicie-9057084.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 12:25:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Trump nie zdradza Europy. On próbuje ją dobudzić, zanim zbyt długi sen stanie się jej upadkiem. \"Z tą iluzją Amerykanie właśnie skończyli\"  [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/trump-nie-zdradza-europy-on-probuje-ja-dobudzic-zanim-zbyt-dlugi-sen-stanie-sie-jej/fqg186w",
-      "pubDate": "Wed, 17 Dec 2025 11:24:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Louvre museum to remain closed Wednesday as strike over working conditions continues",
-      "link": "http://www.euronews.com/culture/2025/12/17/louvre-museum-to-remain-closed-wednesday-as-strike-over-working-conditions-continues",
-      "pubDate": "Wed, 17 Dec 2025 12:23:25 +0100",
-      "source": "Euronews"
     }
   ]
 }
