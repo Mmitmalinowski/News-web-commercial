@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T19:43:20.339Z",
+  "generatedAt": "2025-12-26T19:50:22.739Z",
   "items": [
+    {
+      "title": "Nie żyje 18-latek znaleziony przed dyskoteką. Dwie osoby w rękach służb",
+      "link": "https://wydarzenia.interia.pl/podlaskie/news-nie-zyje-18-latek-znaleziony-przed-dyskoteka-dwie-osoby-w-re,nId,22502964",
+      "pubDate": "Fri, 26 Dec 2025 19:41:20 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Three people missing after Boxing Day house fire near Stroud",
+      "link": "https://www.theguardian.com/uk-news/2025/dec/26/people-missing-after-boxing-day-house-fire-near-stroud",
+      "pubDate": "Fri, 26 Dec 2025 19:36:54 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Zapytałem „kryminalistów” czy AI pomaga im w pracy. „Nieciekawie to wygląda”",
       "link": "https://android.com.pl/tech/972762-ai-pisanie-kryminaly/",
@@ -56427,6 +56439,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58382,6 +58418,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -79687,30 +79747,6 @@
       "link": "https://www.rp.pl/multimedia/art43519491-technologie-odpowiedzia-na-cyberzagrozenia",
       "pubDate": "Wed, 17 Dec 2025 11:56:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Gigant branży luksusowej inwestuje w niszę. Ten rynek rośnie jak na drożdżach",
-      "link": "https://sukces.rp.pl/kosmetyki/art43514461-gigant-branzy-luksusowej-inwestuje-w-nisze-ten-rynek-rosnie-jak-na-drozdzach",
-      "pubDate": "Wed, 17 Dec 2025 11:55:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ważne zmiany w polityce lekowej? Mają poprawić bezpieczeństwo pacjentów",
-      "link": "https://www.rp.pl/zdrowie/art43518541-wazne-zmiany-w-polityce-lekowej-maja-poprawic-bezpieczenstwo-pacjentow",
-      "pubDate": "Wed, 17 Dec 2025 11:54:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Sikorski nie odpuszcza tubie propagandowej Kremla. \"Rywalizacja o Nobla będzie ostra\"",
-      "link": "https://tvn24.pl/swiat/radoslaw-sikorski-nie-odpuszcza-tubie-propagandowej-kremla-rywalizacja-o-nobla-bedzie-ostra-st8805391?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 10:52:06 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wigilia na krakowskim Rynku: Ciepło, wsparcie i nadzieja dla potrzebujących",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-wigilia-na-krakowskim-rynku-cieplo-wsparcie-i-nadzieja-dla-p,nId,8051415",
-      "pubDate": "Wed, 17 Dec 2025 11:51:14 +0100",
-      "source": "RMF24"
     }
   ]
 }
