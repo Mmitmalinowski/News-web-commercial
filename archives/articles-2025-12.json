@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-26T23:50:03.340Z",
+  "generatedAt": "2025-12-26T23:59:58.424Z",
   "items": [
     {
       "title": "Keir Starmer rozmawiał z europejskimi przywódcami. Tematem pokój w Ukrainie",
@@ -57015,6 +57015,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -58970,6 +58994,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80275,18 +80323,6 @@
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-usa-zdecyduja-sie-na-to-jesli-rosja-odrzuci-projekt-pokojowy,nId,8051423",
       "pubDate": "Wed, 17 Dec 2025 12:30:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "W co zagramy po polsku na Nintendo Switch 2?",
-      "link": "https://www.tabletowo.pl/w-co-zagramy-po-polsku-na-nintendo-switch-2/",
-      "pubDate": "Wed, 17 Dec 2025 11:29:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Prezent dla sportowca. Oto sprawdzone i pewne wybory",
-      "link": "https://android.com.pl/tech/1002303-prezent-dla-sportowca-najlepsze-opcje/",
-      "pubDate": "Wed, 17 Dec 2025 11:28:37 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
