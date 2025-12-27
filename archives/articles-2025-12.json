@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T13:44:36.709Z",
+  "generatedAt": "2025-12-27T13:54:09.902Z",
   "items": [
+    {
+      "title": "Burza śnieżna paraliżuje USA. Tysiące lotów odwołanych",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-burza-sniezna-paralizuje-usa-tysiace-lotow-odwolanych,nId,22503021",
+      "pubDate": "Sat, 27 Dec 2025 13:49:11 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Alert RCB. \"Zabezpiecz dobytek\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-27-28-12-silny-wiatr-unikaj-otwartych-przestrzeni-zabezpiecz-dobytek-st8819847?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 13:48:06 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Górnicy z Silesii nie ustępują. Szykują specjalną akcję na poniedziałek",
+      "link": "https://businessinsider.com.pl/biznes/protest-w-pg-silesia-gornicy-szykuja-specjalna-akcje-na-poniedzialek/wpb5g2s",
+      "pubDate": "Sat, 27 Dec 2025 13:46:05 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Skorumpowani parlamentarzyści. NABU informuje o rozbiciu grupy przestępczej",
       "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-skorumpowani-parlamentarzysci-nabu-informuje-o-rozbiciu-grup,nId,8053799",
@@ -67,6 +85,12 @@
       "link": "https://biznes.interia.pl/finanse/news-najbiedniejsze-miasto-w-polsce-wiemy-gdzie-znajduje-sie-lide,nId,22503016",
       "pubDate": "Sat, 27 Dec 2025 13:08:37 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Tragiczne wieści z Ukrainy. Denis Kapustin nie żyje",
+      "link": "https://www.bankier.pl/wiadomosc/Tragiczne-wiesci-z-Ukrainy-Denis-Kapustin-zginal-w-Ukrainie-9061088.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 27 Dec 2025 14:08:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Planeta, której nie było. Fomalhaut odsłania kolejne tajemnice",
@@ -59781,6 +59805,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -61736,6 +61784,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81439,42 +81511,6 @@
       "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/cert-polska-dwukrotny-wzrost-incydentow-w-2025-roku",
       "pubDate": "Wed, 17 Dec 2025 16:54:12 +0100",
       "source": "Cyberdefence24"
-    },
-    {
-      "title": "Pieniądze dla TVP i Polskiego Radia. Rada sięga po nadwyżkę z 2023 roku",
-      "link": "https://www.bankier.pl/wiadomosc/Pieniadze-dla-TVP-i-Polskiego-Radia-Rada-siega-po-nadwyzke-z-2023-roku-9057334.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 16:54:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Komunikat w sprawie e-maila Kurowskiej. Szef Kancelarii Sejmu ujawnia",
-      "link": "https://wydarzenia.interia.pl/kraj/news-komunikat-w-sprawie-e-maila-kurowskiej-szef-kancelarii-sejmu,nId,22499601",
-      "pubDate": "Wed, 17 Dec 2025 15:53:06 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Program Orka nabiera tempa. Kosiniak-Kamysz i Jonson zatwierdzili współpracę",
-      "link": "https://www.bankier.pl/wiadomosc/Program-Orka-nabiera-tempa-Kosiniak-Kamysz-i-Jonson-zatwierdzili-wspolprace-9057332.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 16:52:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Student KUL miał planować zamach w Polsce. Znajomy: musiało dojść do pomyłki",
-      "link": "https://wiadomosci.onet.pl/lodz/student-kul-mial-planowac-zamach-w-polsce-znajomy-musialo-dojsc-do-pomylki/fl6xw6k",
-      "pubDate": "Wed, 17 Dec 2025 15:51:31 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "W małej mazowieckiej wsi prowadzili fabrykę narkotyków",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/karwacz-worki-z-narkotykami-i-linia-produkcyjna-amfetaminy-na-malej-mazowieckiej-wsi-st8806397?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 15:51:30 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prof. Krzysztof Ślebzak pozwał Trybunał Konstytucyjny",
-      "link": "https://www.rp.pl/sady-i-trybunaly/art43520831-prof-krzysztof-slebzak-pozwal-trybunal-konstytucyjny",
-      "pubDate": "Wed, 17 Dec 2025 16:51:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
