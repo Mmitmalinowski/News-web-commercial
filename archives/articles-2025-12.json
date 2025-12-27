@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T22:35:04.991Z",
+  "generatedAt": "2025-12-27T22:47:56.879Z",
   "items": [
     {
       "title": "\"Wywarcie presji na Kreml\". Ursula von der Leyen po rozmowach z Zełenskim",
@@ -61791,6 +61791,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63746,6 +63770,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82651,18 +82699,6 @@
       "link": "https://tvn24.pl/swiat/parlament-europejski-za-funduszem-wspierajacy-bezpieczna-aborcje-przyjal-rezolucje-st8806731?source=rss",
       "pubDate": "Wed, 17 Dec 2025 20:04:44 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Giertych dostał odpowiedź w sprawie Kurowskiej. \"Kłamanie zawsze jest niegodne\"",
-      "link": "https://tvn24.pl/polska/giertych-dostal-odpowiedz-w-sprawie-kurowskiej-klamanie-zawsze-jest-niegodne-st8806867?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 20:04:33 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Google ma dość czatów. Z botem pogadasz jak w epoce bita łupanego",
-      "link": "https://spidersweb.pl/2025/12/google-cc-dw-ai.html",
-      "pubDate": "Wed, 17 Dec 2025 21:00:31 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
