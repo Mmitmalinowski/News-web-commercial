@@ -1,7 +1,43 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T14:34:35.157Z",
+  "generatedAt": "2025-12-27T14:47:35.800Z",
   "items": [
+    {
+      "title": "Koniec ery kierowców. Robotaxi wjeżdżają do Europy",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43562021-koniec-ery-kierowcow-robotaxi-wjezdzaja-do-europy",
+      "pubDate": "Sat, 27 Dec 2025 15:41:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"Statek arsenał\". Nietypowa konstrukcja na chińskim kontenerowcu",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-27/statek-arsenal-nietypowa-konstrukcja-na-chinskim-kontenerowcu/",
+      "pubDate": "Sat, 27 Dec 2025 15:35:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "AI pompuje majątki i tworzy nowych miliarderów. Musk zarobił najwięcej",
+      "link": "https://android.com.pl/tech/1004622-ai-majatek-bogactwo-elon-musk-i-inni/",
+      "pubDate": "Sat, 27 Dec 2025 14:35:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Baku sets peace agenda with Armenia for 2026, highlighting progress on the ground",
+      "link": "http://www.euronews.com/2025/12/27/baku-sets-peace-agenda-with-armenia-for-2026-highlighting-progress-on-the-ground",
+      "pubDate": "Sat, 27 Dec 2025 15:34:30 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Będzie pokój? Tajlandia i Kambodża podpisują zawieszenie broni",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/bedzie-pokoj-tajlandia-i-kambodza-podpisuja-zawieszenie-broni",
+      "pubDate": "Sat, 27 Dec 2025 14:34:23 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Fundacja rodzinna w praktyce. Zainteresowanie rośnie, ale procedury nie nadążają",
+      "link": "https://businessinsider.com.pl/prawo/opinie/fundacja-rodzinna-czy-testament-ekspertka-tlumaczy-kluczowe-roznice/30h7d5n",
+      "pubDate": "Sat, 27 Dec 2025 14:30:36 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Kindżały i Shahedy. Blisko 500 dronów i 40 rakiet",
       "link": "https://tech.wp.pl/kindzaly-i-shahedy-blisko-500-dronow-i-40-rakiet,7236996677192672a",
@@ -60051,6 +60087,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -62006,6 +62066,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81535,54 +81619,6 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/rosyjski-gaz-europarlament-poparl-odciecie-sie-unii-europejskiej-od-gazu-z-rosji-wsrod-przeciwnikow-grzegorz-braun-st8806599?source=rss",
       "pubDate": "Wed, 17 Dec 2025 16:19:12 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Wybitny naukowiec zastrzelony. Zajmował się syntezą jądrową",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wybitny-naukowiec-zastrzelony-zajmowal-sie-synteza-jadrowa,nId,8051522",
-      "pubDate": "Wed, 17 Dec 2025 17:19:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Alarmujące dane o polskich 8-latkach. Połowa ma podwyższony cholesterol",
-      "link": "https://www.rmf24.pl/fakty/polska/news-alarmujace-dane-o-polskich-8-latkach-polowa-ma-podwyzszony-c,nId,8051533",
-      "pubDate": "Wed, 17 Dec 2025 17:19:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Plans for New Orleans attack thwarted after ex-marine arrested",
-      "link": "https://www.theguardian.com/us-news/2025/dec/17/new-orleans-attack-thwarted-ex-marine",
-      "pubDate": "Wed, 17 Dec 2025 16:18:39 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Program ORKA nabiera tempa. Umowa z Saab coraz bliżej",
-      "link": "https://radar.rp.pl/modernizacja-sil-zbrojnych/art43520991-program-orka-nabiera-tempa-umowa-z-saab-coraz-blizej",
-      "pubDate": "Wed, 17 Dec 2025 17:18:26 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowy świąteczny spot Jakdojade",
-      "link": "https://www.wirtualnemedia.pl/jakdojade-spot-kampania-swieta-komunikacja,7233445401651712a",
-      "pubDate": "Wed, 17 Dec 2025 17:18:08 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Exclusive: EU Commissioner Hoekstra defends scrapping 2035 ban on combustion engines",
-      "link": "http://www.euronews.com/my-europe/2025/12/17/exclusive-eu-commissioner-hoekstra-defends-scrapping-2035-ban-on-combustion-engines",
-      "pubDate": "Wed, 17 Dec 2025 17:17:49 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Ranny podchorąży, postępowanie dyscyplinarne wobec jego kolegów",
-      "link": "https://tvn24.pl/tvnwarszawa/bemowo/warszawa-incydent-w-akademiku-wojskowej-akademii-technicznej-ranny-podchorazy-st8804027?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 16:16:08 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Grecja przestaje być kulą u nogi Europy. Spłaca długi szybciej, niż obiecała. Inwestorzy znów patrzą na Ateny z zainteresowaniem",
-      "link": "https://wiadomosci.onet.pl/swiat/grecja-przestaje-byc-kula-u-nogi-europy-splaca-dlugi-szybciej-niz-obiecala-inwestorzy/zb9qjez",
-      "pubDate": "Wed, 17 Dec 2025 16:15:56 GMT",
-      "source": "Onet"
     }
   ]
 }
