@@ -1,12 +1,30 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T21:31:59.231Z",
+  "generatedAt": "2025-12-27T21:44:11.078Z",
   "items": [
+    {
+      "title": "Rozmowy zachodnich liderów z prezydentem Ukrainy. Wołodymyr Zełenski zdradza szczegóły",
+      "link": "https://wiadomosci.onet.pl/swiat/rozmowy-prezydenta-ukrainy-z-sojusznikami-wolodymyr-zelenski-zabral-glos/w6hx0yd",
+      "pubDate": "Sat, 27 Dec 2025 21:36:09 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Palau przyjmie 75 deportowanych z USA. W zamian Amerykanie sfinansują emerytury urzędników tego kraju",
+      "link": "https://wiadomosci.onet.pl/umowa-usa-z-palau-miliony-dolarow-i-migranci-w-zamian-za-wsparcie/2rk8cd1",
+      "pubDate": "Sat, 27 Dec 2025 21:31:16 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Niemcy masowo przyjeżdżają do Polski. \"Akt oporu wobec państwa\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-niemcy-masowo-przyjezdzaja-do-polski-akt-oporu-wobec-panstwa,nId,22503092",
       "pubDate": "Sat, 27 Dec 2025 21:23:16 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Polska buduje system przeciwdronowy na wschodniej granicy. Inwestycja za ponad 2 mld euro",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43563551-polska-buduje-system-przeciwdronowy-na-wschodniej-granicy-inwestycja-za-ponad-2-mld-euro",
+      "pubDate": "Sat, 27 Dec 2025 22:11:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Bayeux tapestry to be insured for £800m for British Museum exhibition",
@@ -61641,6 +61659,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63596,6 +63638,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82489,36 +82555,6 @@
       "link": "https://www.theguardian.com/politics/2025/dec/17/mps-warn-that-uk-agreements-with-donald-trump-are-built-on-sand",
       "pubDate": "Wed, 17 Dec 2025 19:42:40 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "USA kończą budowę najpotężniejszego lotniskowa atomowego świata",
-      "link": "https://geekweek.interia.pl/militaria/news-usa-koncza-budowe-najpotezniejszego-lotniskowa-atomowego-swi,nId,22499670",
-      "pubDate": "Wed, 17 Dec 2025 19:40:30 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "USA kończą budowę najpotężniejszego lotniskowca atomowego świata",
-      "link": "https://geekweek.interia.pl/militaria/news-usa-koncza-budowe-najpotezniejszego-lotniskowca-atomowego-sw,nId,22499670",
-      "pubDate": "Wed, 17 Dec 2025 19:40:30 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Some of England’s most-deprived councils to receive funding boost in new deal",
-      "link": "https://www.theguardian.com/society/2025/dec/17/some-of-england-most-deprived-councils-to-receive-funding-boost-in-new-deal",
-      "pubDate": "Wed, 17 Dec 2025 19:39:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Sabotaż na Morzu Śródziemnym. Aresztowano informatyka, który mógł zdalnie sterować statkiem",
-      "link": "https://www.bankier.pl/wiadomosc/Sabotaz-na-Morzu-Srodziemnym-Aresztowano-informatyka-ktory-mogl-zdalnie-sterowac-statkiem-9057490.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 20:39:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Emocje przed głosowaniem. \"Niech każdy będzie gospodarzem w swoim pałacu\"",
-      "link": "https://tvn24.pl/polska/emocje-przed-glosowaniem-ws-weta-do-ustawy-lancuchowej-niech-kazdy-bedzie-gospodarzem-w-swoim-palacu-st8806827?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 19:38:04 GMT",
-      "source": "TVN24"
     }
   ]
 }
