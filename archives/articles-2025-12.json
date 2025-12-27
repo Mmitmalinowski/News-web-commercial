@@ -1,7 +1,79 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T10:00:18.923Z",
+  "generatedAt": "2025-12-27T10:29:13.721Z",
   "items": [
+    {
+      "title": "Prawie pół tysiąca nietrzeźwych, zabici, ranni. Drogowy bilans świąt",
+      "link": "https://www.rmf24.pl/fakty/polska/news-prawie-pol-tysiaca-nietrzezwych-zabici-ranni-drogowy-bilans-,nId,8053564",
+      "pubDate": "Sat, 27 Dec 2025 11:24:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wyszedł z rzeki i twierdził, że jego koledzy wciąż tam są. Fałszywy alarm w Gdańsku",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/wyszedl-z-rzeki-i-twierdzil-ze-jego-koledzy-wciaz-tam-sa-falszywy-alarm-w-gdansku/2f49d56",
+      "pubDate": "Sat, 27 Dec 2025 10:21:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gospodarka Rosji „wyzerowała”. Wojna już nie wystarcza",
+      "link": "https://www.rp.pl/gospodarka/art43562751-gospodarka-rosji-wyzerowala-wojna-juz-nie-wystarcza",
+      "pubDate": "Sat, 27 Dec 2025 11:20:09 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Jeszcze w tym roku zima przypuści mocny atak. Szykują się burze śnieżne i coraz silniejszy mróz",
+      "link": "https://wiadomosci.onet.pl/pogoda/zima-z-impetem-wtargnie-do-polski-na-burzach-snieznych-sie-nie-skonczy/fl41z62",
+      "pubDate": "Sat, 27 Dec 2025 10:19:09 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Berlin: Archaeologists on a treasure hunt in the capital",
+      "link": "https://www.dw.com/en/berlin-archaeologists-on-a-treasure-hunt-in-the-capital/a-75263442?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 27 Dec 2025 10:17:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Woda ze zdroju, szczury w piwnicy, ognisko pod drzwiami",
+      "link": "https://tvn24.pl/polska/lodz-dramatyczny-stan-lokali-komunalnych-szczury-rozpadajace-sie-sciany-i-ciagle-podwyzki-st8808539?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 10:15:45 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "InPost Buy kontra Allegro. Nadciąga brutalna wojna w polskim e‑commerce",
+      "link": "https://android.com.pl/tech/1004565-nowa-platforma-inpost-buy-allegro/",
+      "pubDate": "Sat, 27 Dec 2025 10:15:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Tyle gotówki jest obecnie w obiegu. Znamy najpopularniejszy nominał",
+      "link": "https://businessinsider.com.pl/gospodarka/tyle-pieniedzy-jest-obecnie-w-obiegu-znamy-konkretna-kwote/6n3x69d",
+      "pubDate": "Sat, 27 Dec 2025 10:12:32 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kino i pieniądze. „Avatar: Ogień i popiół” hitem grudnia",
+      "link": "https://www.rp.pl/film/art43562511-kino-i-pieniadze-avatar-ogien-i-popiol-hitem-grudnia",
+      "pubDate": "Sat, 27 Dec 2025 11:10:59 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Watch: Meteor lights up sky over Japan's Mount Fuji",
+      "link": "https://www.bbc.com/news/videos/cn4dexwzejeo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 27 Dec 2025 10:01:44 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Rosja zaatakowała Kijów. „500 rakiet, 40 dronów”",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/rosja-zaatakowala-kijow-500-rakiet-40-dronow",
+      "pubDate": "Sat, 27 Dec 2025 10:01:39 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Z dostawczaków do klasy premium. JAC Motors chce wejść do salonów drzwiami, a nie oknem",
+      "link": "https://www.chip.pl/2025/12/jac-motors-elektryczne-samochody-define-x-maextro-s800",
+      "pubDate": "Sat, 27 Dec 2025 10:00:00 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "Dowodził Rosjanami, walczył z Putinem. Denis Kapustin nie żyje",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-dowodzil-rosjanami-walczyl-z-putinem-denis-kapustin-nie-zyje,nId,22502988",
@@ -58821,6 +58893,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -60776,6 +60872,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -80995,90 +81115,6 @@
       "link": "https://kobieta.rp.pl/nauka/art43519671-przelomowe-ustalenia-badaczy-tych-6-objawow-moze-zdradzic-ryzyko-demencji",
       "pubDate": "Wed, 17 Dec 2025 15:27:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Prąd drożeje czy tanieje? Sprawdź nowe taryfy od stycznia",
-      "link": "https://www.bankier.pl/wiadomosc/Prad-drozeje-czy-tanieje-Sprawdz-nowe-taryfy-od-stycznia-9057231.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 15:26:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Macierewiczowi grozi kara więzienia. Nowe informacje z prokuratury",
-      "link": "https://wydarzenia.interia.pl/kraj/news-macierewiczowi-grozi-kara-wiezienia-nowe-informacje-z-prokur,nId,22499584",
-      "pubDate": "Wed, 17 Dec 2025 14:25:42 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Wizz Air zwiększa flotę w Warszawie. Zapowiada też nowe kierunki",
-      "link": "https://businessinsider.com.pl/wiadomosci/wizz-air-rozwija-skrzydla-w-warszawie-piec-nowych-tras-z-lotniska-chopina/g67vtwt",
-      "pubDate": "Wed, 17 Dec 2025 14:25:05 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kreml mówi \"niet\", Berlin idzie w zaparte. Unia szuka wyjścia z impasu wokół Ukrainy. Nie wszyscy są na to gotowi",
-      "link": "https://wiadomosci.onet.pl/swiat/kreml-mowi-niet-berlin-idzie-w-zaparte-unia-szuka-wyjscia-z-impasu-wokol-ukrainy/l9h94k5",
-      "pubDate": "Wed, 17 Dec 2025 14:24:44 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Sekretarz generalny NATO przyjedzie do Polski. Spotka się z prezydentem Nawrockim",
-      "link": "https://wiadomosci.onet.pl/swiat/sekretarz-generalny-nato-przyjedzie-do-polski-spotka-sie-z-karolem-nawrockim/qegvzqc",
-      "pubDate": "Wed, 17 Dec 2025 14:24:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Indie ostrzegają przed \"bombą wodną\". Chiny drążą potężne tunele w Himalajach",
-      "link": "https://businessinsider.com.pl/wiadomosci/indie-ostrzegaja-przed-projektem-pekinu-chiny-zaczely-dazyc-skaly-tybetu/9422ypk",
-      "pubDate": "Wed, 17 Dec 2025 14:23:24 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Klamka zapadła. Dalsze losy Rosomaków przypieczętowane",
-      "link": "https://tech.wp.pl/klamka-zapadla-dalsze-losy-rosomakow-przypieczetowane,7233441707538944a",
-      "pubDate": "Wed, 17 Dec 2025 15:21:56 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Mówi o tym, co się dzieje w PiS. \"Jestem spokojny, że z tym sobie poradzimy\"",
-      "link": "https://wiadomosci.onet.pl/kraj/joachim-brudzinski-mowi-o-tym-co-sie-dzieje-w-pis-wskazal-generala-zakonu/0cr407s",
-      "pubDate": "Wed, 17 Dec 2025 14:21:21 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Dwa samoloty na jednym pasie? PAŻP komentuje \"incydent\" w Krakowie",
-      "link": "https://geekweek.interia.pl/lotnictwo/news-dwa-samoloty-na-jednym-pasie-pazp-komentuje-incydent-w-krako,nId,22499575",
-      "pubDate": "Wed, 17 Dec 2025 14:20:49 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Koniec anonimowości na rynku kryptowalut. Rząd wdraża unijne przepisy",
-      "link": "https://biznes.interia.pl/gospodarka/news-koniec-anonimowej-wymiany-i-przelewow-kryptowalut-rzad-przyj,nId,22499539",
-      "pubDate": "Wed, 17 Dec 2025 14:20:20 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wyższy limit ochotników do wojska. Ile trwa szkolenie?",
-      "link": "https://www.rmf24.pl/fakty/polska/news-wyzszy-limit-ochotnikow-do-wojska-ile-trwa-szkolenie,nId,8051490",
-      "pubDate": "Wed, 17 Dec 2025 15:19:14 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Washington state flooding damage profound but unclear, governor warns",
-      "link": "https://www.theguardian.com/us-news/2025/dec/17/washington-flooding-damage-governor",
-      "pubDate": "Wed, 17 Dec 2025 14:17:42 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rekordowe ceny tuż przed świętami. Kolejna fala podwyżek dopiero nadchodzi",
-      "link": "https://businessinsider.com.pl/finanse/slodko-gorzkie-boze-narodzenie-czekolada-bije-rekordy-cenowe/7f4b9kv",
-      "pubDate": "Wed, 17 Dec 2025 14:17:17 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rok 2026 w branży okiennej – trendy, perspektywy i zapowiedzi",
-      "link": "https://businessinsider.com.pl/biznes/rok-2026-w-branzy-okiennej-trendy-perspektywy-i-zapowiedzi/30dvrnd",
-      "pubDate": "Wed, 17 Dec 2025 14:14:13 GMT",
-      "source": "Business Insider"
     }
   ]
 }
