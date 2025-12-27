@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T21:53:55.591Z",
+  "generatedAt": "2025-12-27T22:13:23.314Z",
   "items": [
+    {
+      "title": "Cofka zagraża Elblągowi. Służby są w gotowości",
+      "link": "https://www.rmf24.pl/regiony/news-cofka-zagraza-elblagowi-sluzby-sa-w-gotowosci,nId,8053826",
+      "pubDate": "Sat, 27 Dec 2025 22:45:54 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Rozmowy zachodnich liderów z prezydentem Ukrainy. Wołodymyr Zełenski zdradza szczegóły",
       "link": "https://wiadomosci.onet.pl/swiat/rozmowy-prezydenta-ukrainy-z-sojusznikami-wolodymyr-zelenski-zabral-glos/w6hx0yd",
@@ -363,6 +369,12 @@
       "source": "Onet"
     },
     {
+      "title": "Nie żyje dowódca rosyjskiego korpusu, który walczył z Rosją",
+      "link": "https://wiadomosci.onet.pl/swiat/nie-zyje-dowodca-rosyjskiego-korpusu-ktory-walczyl-z-rosja/g8y7esd",
+      "pubDate": "Sat, 27 Dec 2025 18:11:43 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "\"Kolebka polskości\". Prezydent wziął udział w obchodach powstania wielkopolskiego",
       "link": "https://www.rmf24.pl/polityka/news-kolebka-polskosci-prezydent-wzial-udzial-w-obchodach-powstan,nId,8053819",
       "pubDate": "Sat, 27 Dec 2025 19:05:43 +0100",
@@ -563,6 +575,12 @@
     {
       "title": "Cofka w Elblągu. Strażacy gotowi do działań",
       "link": "https://tvn24.pl/tvnmeteo/polska/cofka-w-elblagu-strazacy-gotowi-do-dzialan-st8819907?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 16:36:59 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Cofka w Elblągu. Strażacy w gotowości",
+      "link": "https://tvn24.pl/tvnmeteo/polska/cofka-w-elblagu-strazacy-w-gotowosci-st8819907?source=rss",
       "pubDate": "Sat, 27 Dec 2025 16:36:59 GMT",
       "source": "TVN24"
     },
@@ -61707,6 +61725,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63662,6 +63704,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82561,36 +82627,6 @@
       "link": "https://www.theguardian.com/uk-news/2025/dec/17/parents-of-sextortion-victim-sue-meta-for-alleged-wrongful-death",
       "pubDate": "Wed, 17 Dec 2025 19:52:46 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Nowy projekt trafił do Sejmu. Będą zmiany w przepisach dotyczących wycinki drzew?",
-      "link": "https://biznes.interia.pl/finanse/news-zmiany-w-przepisach-dotyczacych-wycinki-drzew-nie-wszyscy-sa,nId,22499640",
-      "pubDate": "Wed, 17 Dec 2025 19:48:45 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Odcinkowy pomiar prędkości na \"kampinoskiej gilotynie\"",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/kampinoski-park-narodowy-na-gilotynie-zamontowano-odcinkowy-pomiar-predkosci-st8806839?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 19:48:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "AI w rękach nastolatków. Badanie ujawnia skalę ",
-      "link": "https://tvn24.pl/biznes/tech/ai-w-rekach-nastolatkow-wyniki-badan-st8806644?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 19:45:02 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"To dziecko kiedyś będzie musiało swój czyn udźwignąć\". Sędzia rodzinna o tragedii w Jeleniej Górze",
-      "link": "https://wiadomosci.onet.pl/wroclaw/sedzia-rodzinna-o-tragedii-w-jeleniej-gorze-stawia-kluczowe-pytania/kxsrgkv",
-      "pubDate": "Wed, 17 Dec 2025 19:44:58 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Wezwanie do ONZ. \"Aby zapobiec rozlewowi krwi\"",
-      "link": "https://tvn24.pl/swiat/usa-wenezuela-prezydentka-meksyku-apeluje-do-onz-by-zapobiec-rozlewowi-krwi-st8806606?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 19:44:09 GMT",
-      "source": "TVN24"
     }
   ]
 }
