@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T23:36:49.643Z",
+  "generatedAt": "2025-12-27T23:47:14.459Z",
   "items": [
     {
       "title": "Wzrasta poziom rzeki w Elblągu. Jest apel do mieszkańców",
@@ -61911,6 +61911,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63866,6 +63890,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82795,18 +82843,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Goracy-weekend-w-Miami-Delegacje-USA-i-Rosji-maja-rozmawiac-o-Ukrainie-ponownie-9057509.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 17 Dec 2025 21:23:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Cud polarny. Naukowcy zachwyceni niespodziewaną adopcją",
-      "link": "https://www.rmf24.pl/ciekawostki/news-cud-polarny-naukowcy-zachwyceni-niespodziewana-adopcja,nId,8051577",
-      "pubDate": "Wed, 17 Dec 2025 21:22:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Burmistrz Budapesztu postawiony pod ścianą. W tle nowa ustawa Orbana",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-burmistrz-budapesztu-postawiony-pod-sciana-w-tle-nowa-ustawa,nId,22499666",
-      "pubDate": "Wed, 17 Dec 2025 20:21:40 GMT",
-      "source": "Interia"
     }
   ]
 }
