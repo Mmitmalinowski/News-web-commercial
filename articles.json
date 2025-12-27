@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2025-12-27T10:45:40.517Z",
+  "generatedAt": "2025-12-27T10:54:54.622Z",
   "items": [
+    {
+      "title": "One dead and scores of people injured after Russia launches massive attack on Kyiv",
+      "link": "http://www.euronews.com/2025/12/27/one-dead-and-scores-of-people-injured-after-russia-launches-massive-attack-on-kyiv",
+      "pubDate": "Sat, 27 Dec 2025 11:51:47 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Nowy rok, nowy mObywatel. Ulubiona aplikacja Polaków będzie  inteligentniejsza",
+      "link": "https://android.com.pl/tech/1004573-mobywatel-wirtualny-asystent-ai-eidas/",
+      "pubDate": "Sat, 27 Dec 2025 10:50:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Jak jeździć po śliskiej nawierzchni. \"Po pierwsze maksymalna koncentracja\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/slizgawice-w-polsce-jak-jezdzic-po-sliskiej-nawierzchni-po-pierwsze-maksymalna-koncentracja-st8819318?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 10:46:35 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Szwecja w NATO. Nowa odsłona fregat obrony powietrznej",
       "link": "https://tech.wp.pl/s/portalstoczniowy-pl/szwecja-w-nato-nowa-odslona-fregat-obrony-powietrznej,7236786841273985a",
       "pubDate": "Sat, 27 Dec 2025 11:43:41 +0100",
       "source": "Tech WP.pl"
+    },
+    {
+      "title": "Ryzyko, które nie zniknie. \"Europa jest na rozdrożu\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/europa-na-rozdrozu-tu-jest-waskie-gardlo-st8819388?source=rss",
+      "pubDate": "Sat, 27 Dec 2025 10:42:57 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rekordowy rok na rynku metali. Nie tylko złoto, to ceny srebra zaskoczyły",
+      "link": "https://biznes.interia.pl/gospodarka/news-rekordowy-wzrost-cen-metali-szlachetnych-eksperci-mowia-o-ef,nId,22503001",
+      "pubDate": "Sat, 27 Dec 2025 10:41:29 GMT",
+      "source": "Biznes.interia.pl"
     },
     {
       "title": "Plan Wołodymyra Zełenskiego na spotkanie z Trumpem. \"Gotowy, by ujawnić swoje karty\"",
@@ -58982,6 +59012,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -60937,6 +60991,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -81108,48 +81186,6 @@
       "link": "http://www.euronews.com/my-europe/2025/12/17/child-sexual-abuse-time-limits-to-prosecute-are-fragmented-across-the-eu",
       "pubDate": "Wed, 17 Dec 2025 15:41:53 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Kobiety w mediach: nowy raport ujawnia trwałość stereotypów i gigantyczne dysproporcje płci",
-      "link": "https://kobieta.rp.pl/styl-zycia/art43516201-kobiety-w-mediach-nowy-raport-ujawnia-trwalosc-stereotypow-i-gigantyczne-dysproporcje-plci",
-      "pubDate": "Wed, 17 Dec 2025 15:41:44 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Czy zapłacimy więcej za prąd? Prezes URE zatwierdziła zmiany taryf",
-      "link": "https://energia.rp.pl/ceny-energii/art43520481-czy-zaplacimy-wiecej-za-prad-prezes-ure-zatwierdzila-zmiany-taryf",
-      "pubDate": "Wed, 17 Dec 2025 15:40:44 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Polskie Rosomaki zostają w Siemianowicach. Zbrojeniówka uratowana?",
-      "link": "https://geekweek.interia.pl/militaria/news-polska-kolebka-nowoczesnej-zbrojeniowki-uratowana-podpisano,nId,22499546",
-      "pubDate": "Wed, 17 Dec 2025 14:40:32 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Germany news: Lawmakers back €50 billion defense package",
-      "link": "https://www.dw.com/en/germany-news-lawmakers-back-€50-billion-defense-package/live-75194468?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 17 Dec 2025 14:40:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Miliardy ze sprzedaży Chelsea dla Ukrainy? Starmer stawia ultimatum Abramowiczowi",
-      "link": "https://www.bankier.pl/wiadomosc/Miliardy-ze-sprzedazy-Chelsea-dla-Ukrainy-Starmer-stawia-ultimatum-Abramowiczowi-9057247.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 17 Dec 2025 15:40:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Republika chce ruszyć w świat ze stacją po angielsku. Sakiewicz chwali się inwestorami z USA",
-      "link": "https://www.wirtualnemedia.pl/republika-tomasz-sakiewicz-inwestorzy-kanal-anglojezyczny-financial-times,7233460489432032a",
-      "pubDate": "Wed, 17 Dec 2025 15:39:00 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "109 białoruskich więźniów politycznych wjedzie dziś do Polski",
-      "link": "https://www.rmf24.pl/fakty/polska/news-109-bialoruskich-wiezniow-politycznych-wjedzie-dzis-do-polsk,nId,8051499",
-      "pubDate": "Wed, 17 Dec 2025 15:38:00 +0100",
-      "source": "RMF24"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -137576,6 +137612,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "ERP i cyberbezpieczeństwo: jak policzyć ROI, gdy ryzyko incydentów rośnie z roku na rok?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/erp-i-cyberbezpieczenstwo-jak-policzyc-roi-gdy-ryzyko-incydentow-rosnie-z-roku-na-rok/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "3",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-28T10:53:58Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Czy można kupić smartwatch z GPS w przystępnej cenie? Mibro pokazuje, że tak",
       "link": "https://spidersweb.pl/2025/11/czy-mozna-kupic-tanio-smartwatch-z-gps.html",
       "pubDate": "Fri, 28 Nov 2025 11:52:21 +0100",
@@ -145556,6 +145616,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -206966,6 +207050,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -232105,78 +232213,6 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-26T13:33:37Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "14",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "14",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-26T13:33:37Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "14",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "14",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-26T13:33:37Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "14",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "14",
           "@_type": "application/atom+xml"
         }
       ],
