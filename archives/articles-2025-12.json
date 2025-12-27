@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T21:44:11.078Z",
+  "generatedAt": "2025-12-27T21:53:55.591Z",
   "items": [
     {
       "title": "Rozmowy zachodnich liderów z prezydentem Ukrainy. Wołodymyr Zełenski zdradza szczegóły",
@@ -61683,6 +61683,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63638,6 +63662,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82543,18 +82591,6 @@
       "link": "https://tvn24.pl/swiat/usa-wenezuela-prezydentka-meksyku-apeluje-do-onz-by-zapobiec-rozlewowi-krwi-st8806606?source=rss",
       "pubDate": "Wed, 17 Dec 2025 19:44:09 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Kto zmienił zdanie ws. ustawy łańcuchowej? Wyniki głosowania",
-      "link": "https://www.rmf24.pl/polityka/news-kto-zmienil-zdanie-ws-ustawy-lancuchowej-wyniki-glosowania,nId,8051561",
-      "pubDate": "Wed, 17 Dec 2025 20:43:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "MPs warn that UK agreements with Donald Trump are ‘built on sand’",
-      "link": "https://www.theguardian.com/politics/2025/dec/17/mps-warn-that-uk-agreements-with-donald-trump-are-built-on-sand",
-      "pubDate": "Wed, 17 Dec 2025 19:42:40 GMT",
-      "source": "The Guardian"
     }
   ]
 }
