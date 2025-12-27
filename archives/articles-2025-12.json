@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T23:21:01.801Z",
+  "generatedAt": "2025-12-27T23:36:49.643Z",
   "items": [
+    {
+      "title": "Wzrasta poziom rzeki w Elblągu. Jest apel do mieszkańców",
+      "link": "https://wiadomosci.onet.pl/olsztyn/wzrasta-poziom-rzeki-w-elblagu-jest-apel-do-mieszkancow/zhd5e1e",
+      "pubDate": "Sat, 27 Dec 2025 23:19:58 GMT",
+      "source": "Onet"
+    },
     {
       "title": "EU backs Somalia after Israel recognizes Somaliland",
       "link": "https://www.dw.com/en/eu-backs-somalia-after-israel-recognizes-somaliland/a-75318108?maca=en-rss-en-all-1573-xml-mrss",
@@ -61881,6 +61887,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63836,6 +63866,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82753,24 +82807,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-burmistrz-budapesztu-postawiony-pod-sciana-w-tle-nowa-ustawa,nId,22499666",
       "pubDate": "Wed, 17 Dec 2025 20:21:40 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Prezydent naciska na Brukselę w sprawie Mercosur: albo teraz, albo w ogóle",
-      "link": "https://tvn24.pl/biznes/ze-swiata/prezydent-brazylii-naciska-na-unie-europejska-w-sprawie-mercosur-jesli-nie-teraz-to-w-ogole-st8806919?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 20:20:47 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "German lawmakers approve billions in military expenditure",
-      "link": "https://www.dw.com/en/german-lawmakers-approve-billions-in-military-expenditure/a-75206445?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 17 Dec 2025 20:15:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "101. ceremonia wręczenia Oscarów odbędzie się na YouTubie",
-      "link": "https://www.rp.pl/media/art43523831-101-ceremonia-wreczenia-oscarow-odbedzie-sie-na-youtubie",
-      "pubDate": "Wed, 17 Dec 2025 21:10:07 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
