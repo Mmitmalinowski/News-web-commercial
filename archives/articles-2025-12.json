@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-27T22:47:56.879Z",
+  "generatedAt": "2025-12-27T22:57:37.782Z",
   "items": [
+    {
+      "title": "Man arrested after woman found dead at Sydney home and another man critically injured from stab wounds",
+      "link": "https://www.theguardian.com/australia-news/2025/dec/28/man-arrested-after-woman-found-dead-at-sydney-home-and-another-man-critically-injured-from-stab-wounds-ntwnfb",
+      "pubDate": "Sat, 27 Dec 2025 22:45:08 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "\"Wywarcie presji na Kreml\". Ursula von der Leyen po rozmowach z Zełenskim",
       "link": "https://wiadomosci.onet.pl/swiat/wywarcie-presji-na-kreml-ursula-von-der-leyen-po-rozmowach-z-zelenskim/01p770p",
@@ -61815,6 +61821,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "1",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -63770,6 +63800,30 @@
           "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
           "@_type": "application/atom+xml"
         }
       ],
@@ -82681,24 +82735,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-akty-dywersji-na-kolei-wystawiono-czerwone-noty-interpolu,nId,22499676",
       "pubDate": "Wed, 17 Dec 2025 20:05:34 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "„Lex Szyszko 2” spada z agendy Sejmu. Wycinki drzew jednak bez ułatwień?",
-      "link": "https://oko.press/lex-szyszko-2-spada-z-agendy-sejmu-wycinki-drzew-jednak-bez-ulatwien",
-      "pubDate": "Wed, 17 Dec 2025 20:05:05 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "UTK wszczyna postępowanie wobec RegioJet. Mamy odpowiedź firmy",
-      "link": "https://businessinsider.com.pl/finanse/regiojet-odpowiada-utk-padaja-zarzuty-o-nierowne-traktowanie/xkdm1gt",
-      "pubDate": "Wed, 17 Dec 2025 20:05:03 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Mój głos, mój wybór\". Parlament Europejski za funduszem wspierającym bezpieczną aborcję",
-      "link": "https://tvn24.pl/swiat/parlament-europejski-za-funduszem-wspierajacy-bezpieczna-aborcje-przyjal-rezolucje-st8806731?source=rss",
-      "pubDate": "Wed, 17 Dec 2025 20:04:44 GMT",
-      "source": "TVN24"
     }
   ]
 }
