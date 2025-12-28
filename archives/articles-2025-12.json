@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-28T09:47:42.472Z",
+  "generatedAt": "2025-12-28T09:57:12.842Z",
   "items": [
+    {
+      "title": "Brigitte Bardot nie żyje. Ikona kina miała 91 lat",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-brigitte-bardot-nie-zyje-ikona-kina-miala-91-lat,nId,22503134",
+      "pubDate": "Sun, 28 Dec 2025 09:52:27 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "MAEA: naprawa zasilania Zaporoskiej Elektrowni po lokalnym rozejmie",
+      "link": "https://tech.wp.pl/maea-ruszyla-naprawa-linii-zasilajacej-zaporoska-elektrownie-atomowa,7237282018208736a",
+      "pubDate": "Sun, 28 Dec 2025 10:51:43 +0100",
+      "source": "Tech WP.pl"
+    },
     {
       "title": "Patostreamerzy ze 150 zarzutami w Kanale Zero. Wywiadu nie opublikowano",
       "link": "https://www.wirtualnemedia.pl/kanal-zero-youtube-krzysztof-stanowski-wywiad-jaszczu-wojciech-olszanski-dlaczego-nie-ma,7237282628119040a",
@@ -11,6 +23,12 @@
     {
       "title": "Rekordowy rok banków. Bardziej finansują dług Skarbu Państwa niż wzrost gospodarki",
       "link": "https://businessinsider.com.pl/gospodarka/rekordowy-rok-bankow-bardziej-finansuja-dlug-skarbu-panstwa-niz-wzrost-gospodarki/rxlck2k",
+      "pubDate": "Sun, 28 Dec 2025 09:43:07 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Rekordowy rok banków. Bardziej finansują dług Skarbu Państwa niż wzrost gospodarki",
+      "link": "https://businessinsider.com.pl/gospodarka/banki-z-rekordowymi-zyskami-bardziej-finansuja-dlug-skarbu-panstwa-niz-wzrost/rxlck2k",
       "pubDate": "Sun, 28 Dec 2025 09:43:07 GMT",
       "source": "Business Insider"
     },
@@ -63609,6 +63627,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "⚠️ Uwaga klienci mBanku!",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/uwaga-klienci-mbanku-3/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "5",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T13:53:07Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Leeds £2.5bn tram scheme delayed to late 2030s after government review",
       "link": "https://www.theguardian.com/uk-news/2025/dec/18/leeds-tram-scheme-pushed-back-late-2030s-government-review",
       "pubDate": "Thu, 18 Dec 2025 13:50:58 GMT",
@@ -81123,6 +81165,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Oto błąd, który pozwalał za darmo zamawiać jedzenie z cateringu “Kuchnia Vikinga” i z jeszcze jednego",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/oto-blad-ktory-pozwalal-za-darmo-zamawiac-jedzenie-z-cateringu-kuchnia-vikinga-i-z-jeszcze-jednego/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-18T10:49:13Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Donald Trump zburzył amerykańską potęgę. USA straciły to, co miały najcenniejszego [OPINIA]",
       "link": "https://wiadomosci.onet.pl/politico/tak-trump-wyniszcza-usa-stany-stracily-kluczowa-przewage/7lt5mhr",
       "pubDate": "Thu, 18 Dec 2025 10:49:04 GMT",
@@ -83497,36 +83563,6 @@
       "link": "http://www.press.pl/tresc/90778,wojciech-czuchnowski-nekany-gluchymi-telefonami-i-obrazliwymi-sms-ami?rss=1",
       "pubDate": "Thu, 18 Dec 2025 06:59:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "KRRiT nadal nie chce przekazać mediom publicznym zwrotów środków z depozytów",
-      "link": "http://www.press.pl/tresc/90776,krrit-nadal-nie-chce-przekazac-mediom-publicznym-zwrotow-srodkow-z-depozytow?rss=1",
-      "pubDate": "Thu, 18 Dec 2025 06:58:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Onet zrezygnował z działów korekty i fotoedycji",
-      "link": "http://www.press.pl/tresc/90777,onet-zrezygnowal-z-dzialow-korekty-i-fotoedycji?rss=1",
-      "pubDate": "Thu, 18 Dec 2025 06:58:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "USA odpowiadają na presję Chin. Pierwszy taki gest wobec Tajwanu",
-      "link": "https://wiadomosci.onet.pl/swiat/usa-odpowiadaja-na-presje-chin-pierwszy-taki-gest-wobec-tajwanu/bxnfexy",
-      "pubDate": "Thu, 18 Dec 2025 05:57:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Wypuściła ptaki i uciekła z kawiarką. Małpka-złodziejka \"aresztowana\"",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wypuscila-ptaki-i-uciekla-z-kawiarka-malpka-zlodziejka-aresz,nId,8051598",
-      "pubDate": "Thu, 18 Dec 2025 06:53:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Tajwan się zbroi. Pierwszy taki ruch Trumpa w drugiej kadencji",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-tajwan-sie-zbroi-pierwszy-taki-ruch-trumpa-w-drugiej-kadencj,nId,8051599",
-      "pubDate": "Thu, 18 Dec 2025 06:52:11 +0100",
-      "source": "RMF24"
     }
   ]
 }
