@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-30T22:35:35.445Z",
+  "generatedAt": "2025-12-30T22:50:34.643Z",
   "items": [
     {
       "title": "Samorządowcy zorganizują ciepły posiłek dla kierowców, którzy utknęli na S7",
@@ -605,6 +605,12 @@
     {
       "title": "Atak zimy na północy Polski. Zwołano sztab kryzysowy",
       "link": "https://www.rmf24.pl/regiony/olsztyn/news-atak-zimy-na-polnocy-polski-zwolano-sztab-kryzysowy,nId,8054448",
+      "pubDate": "Tue, 30 Dec 2025 19:36:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Atak zimy na północy Polski. Na S7 utknęło kilkaset aut",
+      "link": "https://www.rmf24.pl/regiony/olsztyn/news-atak-zimy-na-polnocy-polski-na-s7-utknelo-kilkaset-aut,nId,8054448",
       "pubDate": "Tue, 30 Dec 2025 19:36:00 +0100",
       "source": "RMF24"
     },
@@ -15541,6 +15547,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -62851,18 +62881,6 @@
       "link": "http://www.euronews.com/video/2025/12/19/eu-leaders-agree-on-90-billion-support-package-for-ukraine-at-brussels-summit",
       "pubDate": "Fri, 19 Dec 2025 08:24:45 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Wielka Brytania bierze na celownik Tatneft. Londyn uaktualnia sankcje wobec Rosji",
-      "link": "https://www.money.pl/gielda/wielka-brytania-bierze-na-celownik-tatneft-londyn-uaktualnia-sankcje-wobec-rosji-7234062033328640a.html",
-      "pubDate": "Fri, 19 Dec 2025 08:22:30 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Trump podpisał budżet na obronność. Jest w nim mowa o Polsce",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-trump-podpisal-budzet-na-obronnosc-jest-w-nim-mowa-o-polsce,nId,8051972",
-      "pubDate": "Fri, 19 Dec 2025 08:22:26 +0100",
-      "source": "RMF24"
     }
   ]
 }
