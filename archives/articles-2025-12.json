@@ -1,7 +1,13 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-30T22:12:02.001Z",
+  "generatedAt": "2025-12-30T22:35:35.445Z",
   "items": [
+    {
+      "title": "Samorządowcy zorganizują ciepły posiłek dla kierowców, którzy utknęli na S7",
+      "link": "https://wiadomosci.onet.pl/olsztyn/samorzadowcy-zorganizuja-cieply-posilek-dla-kierowcow-ktorzy-utkneli-na-s7/3nzdq9f",
+      "pubDate": "Tue, 30 Dec 2025 22:16:06 GMT",
+      "source": "Onet"
+    },
     {
       "title": "USA rozluźniają sankcje. Na liście osoby powiązane z Kremlem",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-30/usa-rozluzniaja-sankcje-na-liscie-osoby-powiazane-z-kremlem/",
@@ -83,6 +89,12 @@
     {
       "title": "Dramat kierowców na S7. \"Korytarz życia zasypany śniegiem jest nieprzejezdny\" [RELACJA NA ŻYWO]",
       "link": "https://wiadomosci.onet.pl/kraj/dramat-kierowcow-na-s7-korytarz-zycia-zasypany-sniegiem-jest-nieprzejezdny-relacja-na/bgcykpx",
+      "pubDate": "Tue, 30 Dec 2025 21:02:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Ogromne utrudnienia na S7. \"Korytarz życia zasypany śniegiem jest nieprzejezdny\" [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/kraj/ogromne-utrudnienia-na-s7-korytarz-zycia-zasypany-sniegiem-jest-nieprzejezdny-relacja/bgcykpx",
       "pubDate": "Tue, 30 Dec 2025 21:02:01 GMT",
       "source": "Onet"
     },
@@ -15529,6 +15541,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -62827,24 +62863,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-trump-podpisal-budzet-na-obronnosc-jest-w-nim-mowa-o-polsce,nId,8051972",
       "pubDate": "Fri, 19 Dec 2025 08:22:26 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Mąż zamordowanej Miss Polski o jej zabójcy. \"Dalej ma obsesję\"",
-      "link": "https://wiadomosci.onet.pl/kraj/miss-polski-zginela-z-rak-stalkera-tego-sie-nie-da-zapomniec/z08zbc2",
-      "pubDate": "Fri, 19 Dec 2025 07:22:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Irena Lasota: Trump targuje się z Łukaszenką. Uwolnienie więźniów za miliardy nawozów",
-      "link": "https://www.rp.pl/plus-minus/art43527961-irena-lasota-trump-targuje-sie-z-lukaszenka-uwolnienie-wiezniow-za-miliardy-nawozow",
-      "pubDate": "Fri, 19 Dec 2025 08:20:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Spotkanie Nawrocki-Zełenski. \"Po dzisiejszym dniu zobaczymy, czy to była gra\"",
-      "link": "https://tvn24.pl/polska/spotkanie-nawrocki-zelenski-po-dzisiejszym-dniu-zobaczymy-czy-to-byla-gra-st8808881?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 07:19:45 GMT",
-      "source": "TVN24"
     }
   ]
 }
