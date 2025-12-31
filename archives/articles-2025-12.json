@@ -1,12 +1,30 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-31T19:23:58.639Z",
+  "generatedAt": "2025-12-31T19:35:49.678Z",
   "items": [
+    {
+      "title": "​Śmierć dziecka w przedszkolu w Zabierzowie. Siedem osób stanie przed sądem",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-smierc-dziecka-w-przedszkolu-w-zabierzowie-siedem-osob-stani,nId,8054679",
+      "pubDate": "Wed, 31 Dec 2025 20:28:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Noworoczne orędzie Karola Nawrockiego. „Potrzebna jest zmiana\"",
+      "link": "https://www.rp.pl/polityka/art43581301-noworoczne-oredzie-karola-nawrockiego-potrzebna-jest-zmiana",
+      "pubDate": "Wed, 31 Dec 2025 20:27:26 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Najpoważniejsze ataki i incydenty cyberbezpieczeństwa w 2025 roku",
       "link": "https://android.com.pl/tech/1005398-ataki-cyberbezpieczenstwo-2025/",
       "pubDate": "Wed, 31 Dec 2025 19:23:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "\"To była taka mozolna, trudna, systematyczna praca\"",
+      "link": "https://tvn24.pl/polska/snieg-w-polsce-wielki-korek-na-s7-strazak-to-byla-taka-mozolna-trudna-systematyczna-praca-st8825740?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 19:20:04 GMT",
+      "source": "TVN24"
     },
     {
       "title": "‘We want the mullahs gone’: economic crisis sparks biggest protests in Iran since 2022",
@@ -21265,6 +21283,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -63757,30 +63799,6 @@
       "link": "https://www.dw.com/en/syria-us-launches-airstrikes-on-is-targets-after-attack/a-75250651?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 00:06:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Trump over-promises and under-delivers with heavily redacted Epstein cache",
-      "link": "https://www.theguardian.com/us-news/2025/dec/19/doj-epstein-files-release-redacted-trump",
-      "pubDate": "Sat, 20 Dec 2025 00:05:59 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Afera Jeffreya Epsteina. Urzędnicy z USA opublikowali tysiące zdjęć i filmów",
-      "link": "https://wiadomosci.onet.pl/swiat/afera-jeffreya-epsteina-urzednicy-z-usa-opublikowali-tysiace-zdjec-i-filmow/2gp6dqy",
-      "pubDate": "Sat, 20 Dec 2025 00:02:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Steve Rosenberg: Was Putin's response to my question about war in Europe an olive branch?",
-      "link": "https://www.bbc.com/news/articles/c5y9ed5d1r4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 20 Dec 2025 00:00:19 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "USA uderza w Państwo Islamskie. Trump: Prowadzimy atak bastion w Syrii",
-      "link": "https://www.bankier.pl/wiadomosc/USA-uderza-w-Panstwo-Islamskie-Trump-Prowadzimy-atak-bastion-w-Syrii-9059129.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 20 Dec 2025 00:40:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
