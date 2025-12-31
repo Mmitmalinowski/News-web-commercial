@@ -1,7 +1,277 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-31T05:57:28.434Z",
+  "generatedAt": "2025-12-31T06:36:33.061Z",
   "items": [
+    {
+      "title": "Ataki na wodociągi, zhakowane firmy, wycieki haseł. Rekordowa liczba incydentów w Polsce",
+      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/ataki-na-wodociagi-zhakowane-firmy-wycieki-hasel-rekordowa-liczba-incydentow-w-polsce",
+      "pubDate": "Wed, 31 Dec 2025 07:31:41 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Reforma szpitali stoi w miejscu? Ekspert nie ma wątpliwości",
+      "link": "https://www.rp.pl/zdrowie/art43574481-reforma-szpitali-stoi-w-miejscu-ekspert-nie-ma-watpliwosci",
+      "pubDate": "Wed, 31 Dec 2025 07:30:17 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wydawcy internetowi obawiają się, że nie będą mogli starać się o dofinansowanie z MKiDN",
+      "link": "http://www.press.pl/tresc/90956,lokalni-wydawcy-internetowi-obawiaja-sie_-ze-nie-beda-mogli-starac-sie-o-dofinansowanie-z-mkidn?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:30:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Plany Samsung na 2026 r. Zobacz relację z prezentacji",
+      "link": "https://cyberdefence24.pl/strefa-samsunga-/plany-samsung-na-2026-r-zobacz-relacje-z-prezentacji",
+      "pubDate": "Wed, 31 Dec 2025 07:29:43 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Coś więcej niż literki. Korektorzy o tym, czego nie wyłapie sztuczna inteligencja",
+      "link": "http://www.press.pl/tresc/90957,cos-wiecej-niz-literki_-korektorzy-o-tym_-czego-nie-wylapie-sztuczna-inteligencja?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:29:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "TVP Info wprowadza cykl \"Energia polskich tradycji\". Relacje z występów regionalnych artystów",
+      "link": "http://www.press.pl/tresc/90958,tvp-info-wprowadza-cykl-_energia-polskich-tradycji__-relacje-z-wystepow-regionalnych-artystow-i-zespolow?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:28:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Resort kultury zawiadamia prokuraturę w sprawie niegospodarności w Stowarzyszeniu Filmowców Polskich",
+      "link": "http://www.press.pl/tresc/90959,resort-kultury-zawiadamia-prokurature-w-sprawie-niegospodarnosci-w-stowarzyszeniu-filmowcow-polskich?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:27:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Pogodowy armagedon w Polsce. Zima atakuje z każdej strony",
+      "link": "https://wydarzenia.interia.pl/kraj/na-zywo-pogodowy-armagedon-w-polsce-zima-atakuje-z-kazdej-strony,nzId,8017",
+      "pubDate": "Wed, 31 Dec 2025 06:25:56 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Gigantyczne utrudnienia na północy kraju. Cztery drogi zamknięte",
+      "link": "https://wiadomosci.onet.pl/olsztyn/gigantyczne-utrudnienia-w-woj-warminsko-mazurskim-cztery-drogi-zamkniete/pwz74pw",
+      "pubDate": "Wed, 31 Dec 2025 06:25:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Dział Firma i Prawo w \"Dzienniku Gazecie Prawnej\" od stycznia z nową szefową",
+      "link": "http://www.press.pl/tresc/90960,dzial-firma-i-prawo-w-_dzienniku-gazecie-prawnej_-od-stycznia-z-nowa szefowa?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:25:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "OpenAI szuka szefa działu badań nad zagrożeniami ze strony sztucznej inteligencji",
+      "link": "http://www.press.pl/tresc/90961,openai-szuka-szefa-dzialu-badan-nad-zagrozeniami-ze-strony-sztucznej-inteligencji?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:24:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "TVP Polonia wydłuża program informacyjno-publicystyczny \"Polonia 24. Tygodnik\"",
+      "link": "http://www.press.pl/tresc/90962,tvp-polonia-wydluza-program-_polonia-24_-tygodnik_?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:23:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "\"GQ\" znika z Portugalii. Lighthouse Publishing nie przedłuża licencji od Condé Nast",
+      "link": "http://www.press.pl/tresc/90963,_gq_-znika-z-portugalii_-lighthouse-publishing-nie-przedluza-licencji-od-condé-nast?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:22:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Czas się obudzić. \"Polska w ogonie Europy, Europa w ogonie świata\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-czas-sie-obudzic-polska-w-ogonie-europy-europa-w-ogonie-swia,nId,22503563",
+      "pubDate": "Wed, 31 Dec 2025 06:21:44 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 31.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-31-12-2025-7238295919491584a.html",
+      "pubDate": "Wed, 31 Dec 2025 07:21:33 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Koncern Meta za co najmniej 2 mld dol. kupuje Manus, chiński start-up AI",
+      "link": "http://www.press.pl/tresc/90964,meta-za-co-najmniej-2-mld-dol_-kupuje-manus_-chinski-start-up-ai?rss=1",
+      "pubDate": "Wed, 31 Dec 2025 07:21:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Wybrałem najlepsze słuchawki TWS z ANC. Modele do pracy, miasta i podróży",
+      "link": "https://www.chip.pl/2025/12/wybralem-najlepsze-sluchawki-tws-z-anc-modele-do-pracy-miasta-i-podrozy",
+      "pubDate": "Wed, 31 Dec 2025 06:21:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Technologia wypiera fajerwerki. Tak wygląda nowoczesne wejście w Nowy Rok",
+      "link": "https://android.com.pl/tech/1005155-fajerwerki-nowoczesne-alternatywy/",
+      "pubDate": "Wed, 31 Dec 2025 06:20:37 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Wierzysz w to co roku? Co o noworocznych przesądach mówi nauka [QUIZ]",
+      "link": "https://geekweek.interia.pl/quizy/news-wierzysz-w-to-co-roku-sprawdz-co-o-twoich-noworocznych-przes,nId,22503727",
+      "pubDate": "Wed, 31 Dec 2025 06:20:03 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Sylwester z alertem RCB. \"Możliwe przerwy w dostawie prądu\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-30-31-12-silny-wiatr-zawieje-i-zamiecie-sniezne-mozliwe-przerwy-w-dostawie-pradu-st8821905?source=rss",
+      "pubDate": "Wed, 31 Dec 2025 06:20:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polscy turyści utknęli w górach. Akcja ratunkowa we Włoszech",
+      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-31/polscy-turysci-uratowani-we-wloszech-utkneli-wysoko-w-gorach/",
+      "pubDate": "Wed, 31 Dec 2025 07:20:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "​Ostrzejsze kary za ataki na medyków. Zmiany wchodzą już jutro",
+      "link": "https://www.rmf24.pl/fakty/polska/news-ostrzejsze-kary-za-ataki-na-medykow-zmiany-wchodza-juz-jutro,nId,8054489",
+      "pubDate": "Wed, 31 Dec 2025 07:20:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 31.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-31-12-2025-7238294654433792a.html",
+      "pubDate": "Wed, 31 Dec 2025 07:16:24 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 31.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-31-12-2025-7238294579096544a.html",
+      "pubDate": "Wed, 31 Dec 2025 07:16:06 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Chaos pogodowy w Polsce. Ostrzeżenia sięgnęły najwyższego stopnia",
+      "link": "https://wydarzenia.interia.pl/kraj/news-chaos-pogodowy-w-polsce-ostrzezenia-siegnely-najwyzszego-sto,nId,22503941",
+      "pubDate": "Wed, 31 Dec 2025 06:15:59 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 31.12.2025",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-31-12-2025-7238294379497984a.html",
+      "pubDate": "Wed, 31 Dec 2025 07:15:17 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Areszt, grzywna, ograniczenie wolności. Lepiej nie \"kozaczyć\" w sylwestra",
+      "link": "https://biznes.interia.pl/finanse/news-areszt-grzywna-ograniczenie-wolnosci-lepiej-nie-kozaczyc-w-s,nId,22503569",
+      "pubDate": "Wed, 31 Dec 2025 06:10:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Pamiętasz książeczki oszczędnościowe? Quiz o finansach w PRL!",
+      "link": "https://businessinsider.com.pl/wiadomosci/pamietasz-ksiazeczki-oszczednosciowe-quiz-o-finansach-w-prl/bcpgtn5",
+      "pubDate": "Wed, 31 Dec 2025 06:08:20 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Co było największym osiągnięciem i wyzwaniem dla resortu zdrowia? To słowo zdefiniowało 2025 rok",
+      "link": "https://www.rp.pl/zdrowie/art43574791-co-bylo-najwiekszym-osiagnieciem-i-wyzwaniem-dla-resortu-zdrowia-to-slowo-zdefiniowalo-2025-rok",
+      "pubDate": "Wed, 31 Dec 2025 07:08:03 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Sąd rozstrzygnie, czy banki oddadzą więcej. Stawką setki milionów złotych dla frankowiczów",
+      "link": "https://businessinsider.com.pl/finanse/role-sie-odwracaja-sad-rozstrzygnie-czy-to-frankowiczom-nalezy-sie-dodatkowe/vbgse4g",
+      "pubDate": "Wed, 31 Dec 2025 06:05:41 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ceny srebra szybują. Chiny \"odcinają\" świat od metalu",
+      "link": "https://biznes.interia.pl/gospodarka/news-ceny-srebra-szybuja-chiny-odcinaja-swiat-od-metalu,nId,22503936",
+      "pubDate": "Wed, 31 Dec 2025 06:05:13 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Masz mObywatela? Czeka tam na ciebie ważna nowość",
+      "link": "https://www.rp.pl/w-sadzie-i-w-urzedzie/art43576751-masz-mobywatela-czeka-tam-na-ciebie-wazna-nowosc",
+      "pubDate": "Wed, 31 Dec 2025 07:05:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Lubimy sobie postrzelać w sylwestra. Polska w czołówce globalnego rynku fajerwerków",
+      "link": "https://businessinsider.com.pl/gospodarka/branza-fajerwerkow-w-polsce-pod-lupa-wzrosty-wyzwania-i-rekordowe-liczby/ewq7fx5",
+      "pubDate": "Wed, 31 Dec 2025 06:04:46 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Paraliż na lotnisku w Lizbonie. Rząd zawiesza unijny system EES",
+      "link": "https://www.bankier.pl/wiadomosc/Paraliz-na-lotnisku-w-Lizbonie-Rzad-zawiesza-unijny-system-EES-9062388.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 31 Dec 2025 07:04:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Przypalali 5-latka papierosem. Para z Gdyni stanie przed sądem",
+      "link": "https://wiadomosci.onet.pl/kraj/znecali-sie-nad-5-latkiem-w-okrutny-sposob-parze-z-gdyni-grozi-nawet-10-lat/46q3xwh",
+      "pubDate": "Wed, 31 Dec 2025 06:03:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Latest news bulletin | December 31st, 2025 – Morning",
+      "link": "http://www.euronews.com/video/2025/12/31/latest-news-bulletin-december-31st-2025-morning",
+      "pubDate": "Wed, 31 Dec 2025 07:00:33 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Kultowy serial powróci po latach. Mamy zwiastun i pierwsze szczegóły!",
+      "link": "https://antyweb.pl/kultowy-serial-powroci-po-latach-mamy-zwiastun-i-pierwsze-szczegoly",
+      "pubDate": "Wed, 31 Dec 2025 06:00:13 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "What will joining the Eurozone mean for the Bulgarian economy?",
+      "link": "http://www.euronews.com/my-europe/2025/12/31/what-will-joining-the-eurozone-mean-for-the-bulgarian-economy",
+      "pubDate": "Wed, 31 Dec 2025 07:00:11 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "UK house prices: first-time buyers ‘will drive 2026 sales’ amid interest rate cuts",
+      "link": "https://www.theguardian.com/money/2025/dec/31/uk-house-prices-first-time-buyers-2026-sales-interest-rate-cuts-rent-rises",
+      "pubDate": "Wed, 31 Dec 2025 06:00:04 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Zack Polanski offering voters fantasy solutions, says head of Fabian Society",
+      "link": "https://www.theguardian.com/politics/2025/dec/31/zack-polanski-offering-voters-unicorns-and-fantasy-solutions-says-head-of-fabian-society",
+      "pubDate": "Wed, 31 Dec 2025 06:00:04 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Seniorzy zacierają ręce. Podwyżka od 1 stycznia sięgnie 140 zł",
+      "link": "https://biznes.interia.pl/finanse/news-seniorzy-juz-zacieraja-rece-podwyzka-140-zl-od-1-stycznia,nId,22503387",
+      "pubDate": "Wed, 31 Dec 2025 06:00:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Is ‘coasting’ the perfect way to enjoy an alcoholic drink this New Year’s Eve?",
+      "link": "https://www.theguardian.com/business/2025/dec/31/coasting-alcoholic-drink-new-years-eve",
+      "pubDate": "Wed, 31 Dec 2025 06:00:02 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Apple mówi, że zaczęło się odliczanie. \"W styczniu wszystko się zmieni\"",
+      "link": "https://spidersweb.pl/2025/12/apple-fitness-zmiana.html",
+      "pubDate": "Wed, 31 Dec 2025 07:00:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Prowadzę klinikę leczenia wypalenia zawodowego dla prezesów i bogaczy. Oto ile płacą za dyskrecję",
+      "link": "https://businessinsider.com.pl/rozwoj-osobisty/zdrowie/tak-lecza-sie-superbogaci-gdyby-sprawa-wyszla-na-jaw-skutki-moglyby-siegnac-miliardow/v4zsznz",
+      "pubDate": "Wed, 31 Dec 2025 05:59:18 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Bodnar: O mojej dymisji zdecydowały kwestie wizerunkowe",
+      "link": "https://www.bankier.pl/wiadomosc/Bodnar-O-mojej-dymisji-zdecydowaly-kwestie-wizerunkowe-9062409.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 31 Dec 2025 06:57:00 +0100",
+      "source": "Bankier.pl"
+    },
     {
       "title": "Ogromne utrudnienia na S7. Jest nowy raport służb na temat sytuacji",
       "link": "https://wiadomosci.onet.pl/olsztyn/ogromne-utrudnienia-na-s7-jest-nowy-raport-sluzb-na-temat-sytuacji/pyl81w1",
@@ -27,10 +297,22 @@
       "source": "Business Insider"
     },
     {
+      "title": "Hiszpania robi wyjątek dla Airbusa w sankcjach na  izraelskie technologie",
+      "link": "https://www.bankier.pl/wiadomosc/Hiszpania-robi-wyjatek-dla-Airbusa-w-sankcjach-na-izraelskie-technologie-9062393.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 31 Dec 2025 06:46:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Pogoda. Atak zimy. Czerwone ostrzeżenia IMGW przed śniegiem nadal w mocy",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-30-31-12-snieg-zawieje-zamiecie-czerwony-alarm-najwyzszy-stopien-ostrzezen-st8820843?source=rss",
       "pubDate": "Wed, 31 Dec 2025 05:42:00 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Hiszpania przeznacza kolejne 2 mld euro na obronność. \"Rząd wysyła sygnał o swoim zaangażowaniu w NATO\"",
+      "link": "https://www.bankier.pl/wiadomosc/Hiszpania-przeznacza-kolejne-2-mld-euro-na-obronnosc-Rzad-wysyla-sygnal-o-swoim-zaangazowaniu-w-NATO-9062387.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 31 Dec 2025 06:42:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Rajd na złocie w 2025 r. Ale to srebro zaskoczyło bardziej ",
@@ -133,6 +415,12 @@
       "link": "https://www.rp.pl/konflikty-zbrojne/art43578821-nie-tylko-donbas-rosjanie-zapowiadaja-przyspieszenie-ofensywy-na-innym-froncie",
       "pubDate": "Wed, 31 Dec 2025 06:09:54 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polska piątym największym światowym eksporterem oraz importerem fajerwerków",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-piatym-najwiekszym-swiatowym-eksporterem-oraz-importerem-fajerwerkow-9062410.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Wed, 31 Dec 2025 06:06:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Oburzenie na reklamę Łomży z Karolakiem jako Mikołajem. \"Milczenie marki tylko pogłębia kryzys\"",
@@ -363,6 +651,12 @@
       "source": "Wirtualnemedia.pl"
     },
     {
+      "title": "Jacek Dubois: Gdy nas ubierają w cudzą skórę",
+      "link": "https://www.rp.pl/rzecz-o-prawie/art43572641-jacek-dubois-gdy-nas-ubieraja-w-cudza-skore",
+      "pubDate": "Wed, 31 Dec 2025 05:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Drożsi lekarze dla pracowników TVP. \"Znaczący wzrost kosztów\"",
       "link": "https://www.wirtualnemedia.pl/telewizja-polska-pracownicy-za-pakiety-medyczne-zaplaca-wiecej,7238173258299904a",
       "pubDate": "Wed, 31 Dec 2025 05:48:26 +0100",
@@ -409,6 +703,12 @@
       "link": "https://www.wirtualnemedia.pl/eurowizja-izrael-i-decyzja-tvp-lawina-negatywnych-komentarzy,7238018803833344a",
       "pubDate": "Wed, 31 Dec 2025 05:30:54 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Robert Damski: Podsumowanie egzekucyjnego roku",
+      "link": "https://www.rp.pl/rzecz-o-prawie/art43572651-robert-damski-podsumowanie-egzekucyjnego-roku",
+      "pubDate": "Wed, 31 Dec 2025 05:30:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "„Politico”: Tajny dokument wskazuje, że Niemcy przygotowują się na wojnę z Rosją.",
@@ -475,6 +775,12 @@
       "link": "https://pro.rp.pl/raporty-ekonomiczne/art43572371-biznes-zamiast-zasilkow-rekord-rejestracji-firm-przez-ukraincow",
       "pubDate": "Wed, 31 Dec 2025 04:57:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ex-Australia batter Martyn in coma with meningitis",
+      "link": "https://www.bbc.com/sport/cricket/articles/c3013de0g88o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 31 Dec 2025 03:53:31 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Mikołaj nie zawsze trafia w gust. Fala zwrotów niechcianych prezentów",
@@ -963,6 +1269,12 @@
       "source": "Euronews"
     },
     {
+      "title": "Tatiana Schlossberg, granddaughter of John F Kennedy, dies aged 35 ",
+      "link": "https://www.bbc.com/news/articles/c338ne3relzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 30 Dec 2025 21:06:24 GMT",
+      "source": "BBC News"
+    },
+    {
       "title": "Dramat kierowców na S7. \"Korytarz życia zasypany śniegiem jest nieprzejezdny\" [RELACJA NA ŻYWO]",
       "link": "https://wiadomosci.onet.pl/kraj/dramat-kierowcow-na-s7-korytarz-zycia-zasypany-sniegiem-jest-nieprzejezdny-relacja-na/bgcykpx",
       "pubDate": "Tue, 30 Dec 2025 21:02:01 GMT",
@@ -1045,6 +1357,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/potezne-utrudnienia-na-kolei-sniezyca-zatrzymala-12-pociagow-relacja-na-zywo/bgcykpx",
       "pubDate": "Tue, 30 Dec 2025 20:23:01 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Sikorski: Prezydent ma na biurku ponad 40 wniosków o powołanie ambasadorów",
+      "link": "https://www.bankier.pl/wiadomosc/Sikorski-Prezydent-ma-na-biurku-ponad-40-wnioskow-o-powolanie-ambasadorow-9062349.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 30 Dec 2025 21:16:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Awaria na stoku narciarskim. Kilkadziesiąt osób utknęło na wyciągu",
@@ -2417,6 +2735,12 @@
     {
       "title": "Zima nie odpuszcza. Najnowsze informacje ",
       "link": "https://tvn24.pl/polska/zima-nie-odpuszcza-najnowsze-informacje-st8823720?source=rss",
+      "pubDate": "Tue, 30 Dec 2025 15:56:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Utrudnienia na drogach, ludzie spali w urzędzie. \"Kilkunastu nowych lokatorów\"",
+      "link": "https://tvn24.pl/polska/utrudnienia-na-drogach-ludzie-spali-w-urzedzie-kilkunastu-nowych-lokatorow-st8823720?source=rss",
       "pubDate": "Tue, 30 Dec 2025 15:56:10 GMT",
       "source": "TVN24"
     },
@@ -16435,6 +16759,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -62767,336 +63115,6 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-zakupy-w-wigilie-i-swieta-2025-sprawdz-ktore-sklepy-beda-otw,nId,8052060",
       "pubDate": "Fri, 19 Dec 2025 11:24:45 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Zobacz nowe emoji na Androidzie. Odblokowali ponad 150 ikon",
-      "link": "https://android.com.pl/tech/1003003-nowe-emoji-w-aktualizacji-androida/",
-      "pubDate": "Fri, 19 Dec 2025 10:24:34 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Zamieszki na stadionie. Kilkadziesiąt osób ucierpiało",
-      "link": "https://www.rmf24.pl/sport/news-zamieszki-na-stadionie-kilkadziesiat-osob-ucierpialo,nId,8052013",
-      "pubDate": "Fri, 19 Dec 2025 11:24:19 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Dantejskie sceny na stadionie. Sportowe święto przerodziło się w burdę",
-      "link": "https://www.rmf24.pl/sport/news-dantejskie-sceny-na-stadionie-sportowe-swieto-przerodzilo-si,nId,8052013",
-      "pubDate": "Fri, 19 Dec 2025 11:24:19 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Problemy Rosjan. Ukraiński wojskowy o obronie przeciwrakietowej",
-      "link": "https://tech.wp.pl/problemy-rosjan-ukrainski-wojskowy-o-obronie-przeciwrakietowej,7234097429944832a",
-      "pubDate": "Fri, 19 Dec 2025 11:22:03 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Wyszedł z aresztu, na widok strażników granicznych uciekł. Trwają poszukiwania ",
-      "link": "https://tvn24.pl/tvnwarszawa/bialoleka/warszawa-uciekl-spod-aresztu-sledczego-na-bialolece-trwaja-poszukiwania-st8809129?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 10:21:44 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "German business bankruptcies hit decade high amid downturn",
-      "link": "https://www.dw.com/en/german-business-bankruptcies-hit-decade-high-amid-downturn/a-75225534?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 19 Dec 2025 10:21:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Nieco tańsze paliwa pod choinkę. Ale kierowcy i tak są robieni w konia",
-      "link": "https://www.bankier.pl/wiadomosc/Ceny-paliw-w-grudniu-2025-Ile-kosztuje-litr-benzyny-LPG-i-oleju-napedowego-9058537.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 19 Dec 2025 11:20:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Czy Warszawa uzna małżeństwa jednopłciowe? Urzędnicy czekają z zmianę w przepisach",
-      "link": "https://zyciewarszawy.pl/sprawy-urzedowe/art43534851-warszawa-uzna-malzenstwa-jednoplciowe-urzedy-czekaja-na-zmiane-w-przepisach-po-wyroku-tsue",
-      "pubDate": "Fri, 19 Dec 2025 11:19:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wściekłość i festiwal oskarżeń w Warszawie. Politico: \"gra w cykora\" Tuska z Nawrockim osłabia pozycję Polski",
-      "link": "https://wiadomosci.onet.pl/politico/gra-w-cykora-miedzy-tuskiem-a-nawrockim-oslabia-pozycje-polski-na-swiecie/7e0ejzl",
-      "pubDate": "Fri, 19 Dec 2025 10:18:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tusk: Polska nie dopłaci do pożyczki dla Ukrainy. To Rosja zapłaci za zniszczenia",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/tusk-polska-nie-doplaci-do-pozyczki-dla-ukrainy-to-rosja-zaplaci-za-zniszczenia",
-      "pubDate": "Fri, 19 Dec 2025 10:18:11 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Nawet tyle może kosztować nowy trener najbogatszego klubu w Polsce. Zawrotna suma",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nawet-tyle-moze-kosztowac-nowy-trener-najbogatszego-klubu-w-polsce-zawrotna-suma/twfnv2y",
-      "pubDate": "Fri, 19 Dec 2025 10:18:05 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Karol Nawrocki zawetował ustawę w sprawie prawa oświatowego. Jest reakcja ministry edukacji",
-      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-zawetowal-ustawe-w-sprawie-prawa-oswiatowego-jest-reakcja-ministry/3elxz0p",
-      "pubDate": "Fri, 19 Dec 2025 10:17:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Barbara Nowacka reaguje na weto prezydenta Nawrockiego. \"Szkoda, że tak mało szanuje urząd\"",
-      "link": "https://wiadomosci.onet.pl/kraj/barbara-nowacka-uderza-w-decyzje-prezydenta-chca-by-mlodziez-tylko-bila-brawo/3elxz0p",
-      "pubDate": "Fri, 19 Dec 2025 10:17:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Putin o rosyjskich aktywach w Europie: To nie kradzież, to grabież",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-19/putin-o-rosyjskich-aktywach-w-europie-to-nie-kradziez-to-grabiez/",
-      "pubDate": "Fri, 19 Dec 2025 11:17:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "NBP z ujemnym wynikiem. Straty bliskie 100 miliardów złotych",
-      "link": "https://tvn24.pl/biznes/z-kraju/nbp-z-ujemnym-wynikiem-straty-bliskie-100-miliardow-zlotych-st8809298?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 10:15:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "NBP z ujemnym wynikiem. Prezes Glapiński chce zmiany ustawy o banku",
-      "link": "https://tvn24.pl/biznes/z-kraju/nbp-z-ujemnym-wynikiem-prezes-glapinski-chce-zmiany-ustawy-o-banku-st8809298?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 10:15:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rosyjskie drony na Polską. Polacy ruszyli do bankomatów",
-      "link": "https://www.bankier.pl/wiadomosc/Rosyjskie-drony-na-Polska-Polacy-ruszyli-do-bankomatow-9058432.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 19 Dec 2025 11:12:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Kometa 3I/Atlas uchwycona przez sondę poszukującą życia. \"Niezwykle cenny obraz\"",
-      "link": "https://spidersweb.pl/2025/12/kometa-3i-atlas-uchwycona-przez-sonde.html",
-      "pubDate": "Fri, 19 Dec 2025 11:11:58 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Czołowe zderzenie ciężarówek. Jeden z kierowców nie żyje",
-      "link": "https://www.rmf24.pl/fakty/polska/news-czolowe-zderzenie-ciezarowek-jeden-z-kierowcow-nie-zyje,nId,8052046",
-      "pubDate": "Fri, 19 Dec 2025 11:11:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Porwali kobietę, dręczyli ją dwa tygodnie. \"Łowcy głów\" zatrzymali jednego ze skazanych",
-      "link": "https://tvn24.pl/katowice/pszczyna-lowcy-glow-zatrzymali-32-latka-skazanego-za-porwanie-i-rozboj-st8809079?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 10:10:32 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wiemy kiedy rusza świąteczna promocja. Potrwa wyjątkowo długo",
-      "link": "https://businessinsider.com.pl/finanse/handel/tansze-paliwo-na-orlenie-rusza-promocja-na-swieta/g4eemnb",
-      "pubDate": "Fri, 19 Dec 2025 10:10:07 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Budżet Polski na 2026 rok. Senat generalnie \"za\", ale jest kilka poprawek",
-      "link": "https://www.bankier.pl/wiadomosc/Budzet-Polski-na-2026-rok-Senat-generalnie-za-ale-jest-kilka-poprawek-9058526.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 19 Dec 2025 11:10:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Sensacyjny sojusz wewnątrz PiS. Beata Szydło i Mateusz Morawiecki łączą siły",
-      "link": "https://wiadomosci.onet.pl/kraj/sensacyjny-sojusz-wewnatrz-pis-beata-szydlo-i-mateusz-morawiecki-lacza-sily/vscfp9d",
-      "pubDate": "Fri, 19 Dec 2025 10:09:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Budować będzie łatwiej. Karol Nawrocki podpisał ważną nowelizację ustawy",
-      "link": "https://businessinsider.com.pl/nieruchomosci/wazne-zmiany-zasad-w-prawie-budowlanym-prezydent-karol-nawrocki-podjal-decyzje/mt7q99k",
-      "pubDate": "Fri, 19 Dec 2025 10:09:30 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Marcin Celejewski stanie na czele zarządu ZA Puławy",
-      "link": "https://energia.rp.pl/surowce-i-paliwa/art43535041-marcin-celejewski-stanie-na-czele-zarzadu-za-pulawy",
-      "pubDate": "Fri, 19 Dec 2025 11:09:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Premier Belgii głównym hamulcowym\". Tusk mówi o rosyjskich aktywach dla Ukrainy",
-      "link": "https://www.money.pl/gospodarka/premier-belgii-glownym-hamulcowym-tusk-mowi-o-rosyjskich-aktywach-dla-ukrainy-7234100788455936a.html",
-      "pubDate": "Fri, 19 Dec 2025 11:08:42 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Cyfryzacja polskich sądów. Waldemar Żurek rozdysponował zadania",
-      "link": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyfryzacja-polskich-sadow-waldemar-zurek-rozdysponowal-zadania",
-      "pubDate": "Fri, 19 Dec 2025 11:08:31 +0100",
-      "source": "Cyberdefence24"
-    },
-    {
-      "title": "Unia Europejska ratuje Ukrainę. Ale z własnych środków",
-      "link": "https://www.rp.pl/dyplomacja/art43534951-unia-europejska-ratuje-ukraine-ale-z-wlasnych-srodkow",
-      "pubDate": "Fri, 19 Dec 2025 11:08:20 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Senat zdecydował w sprawie ustawy budżetowej na 2026 r.",
-      "link": "https://wiadomosci.onet.pl/kraj/senat-zdecydowal-w-sprawie-ustawy-budzetowej-na-2026-r/lrvwp30",
-      "pubDate": "Fri, 19 Dec 2025 10:08:14 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Potężna broń u sąsiada Polski. Może przenosić głowice nuklearne",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-19/potezna-bron-u-sasiada-polski-moze-przenosic-glowice-nuklearne/",
-      "pubDate": "Fri, 19 Dec 2025 11:07:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Ukraine: Zelenskyy meets with Trump-aligned Polish president",
-      "link": "https://www.dw.com/en/ukraine-zelenskyy-meets-with-trump-aligned-polish-president/live-75235822?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 19 Dec 2025 10:06:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Five things to know about AFCON",
-      "link": "https://www.dw.com/en/five-things-to-know-about-afcon/a-75223931?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 19 Dec 2025 10:06:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Jest zgoda Senatu na budżet na 2026 rok. Prezydent nie może go zawetować",
-      "link": "https://biznes.interia.pl/gospodarka/news-jest-zgoda-senatu-na-budzet-na-2026-rok-beda-poprawki,nId,22500236",
-      "pubDate": "Fri, 19 Dec 2025 10:05:46 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wyjątkowa stacja kosmiczna od Max Space. Wystarczy jeden Falcon 9",
-      "link": "https://tech.wp.pl/wyjatkowa-stacja-kosmiczna-od-max-space-wystarczy-jeden-falcon-9,7234098873719296a",
-      "pubDate": "Fri, 19 Dec 2025 11:05:32 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Astronomiczna zima. Kiedy jest najkrótszy dzień w 2025 roku?",
-      "link": "https://geekweek.interia.pl/kosmos/news-astronomiczna-zima-kiedy-jest-najkrotszy-dzien-w-2025-roku,nId,22500233",
-      "pubDate": "Fri, 19 Dec 2025 10:04:07 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "W święta zatankujesz taniej. Startują promocje na paliwo",
-      "link": "https://www.tabletowo.pl/swiateczne-promocje-na-paliwo-2025/",
-      "pubDate": "Fri, 19 Dec 2025 10:04:01 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Oberwanie chmury nad bogatym emiratem. Ulice zmieniły się w rzeki",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-oberwanie-chmury-nad-bogatym-emiratem-ulice-zmienily-sie-w-r,nId,22500216",
-      "pubDate": "Fri, 19 Dec 2025 10:03:22 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "US strikes on narcoboats kill five more in Pacific amid mounting Venezuela tensions",
-      "link": "http://www.euronews.com/2025/12/19/us-strikes-on-narcoboats-kill-five-more-in-pacific-as-trump-orders-venezuela-oil-blockade",
-      "pubDate": "Fri, 19 Dec 2025 11:02:19 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Czołowe zderzenie dwóch ciężarówek. Jedna osoba nie żyje, druga w szpitalu",
-      "link": "https://wiadomosci.onet.pl/lubuskie/czolowe-zderzenie-dwoch-ciezarowek-jedna-osoba-nie-zyje-druga-w-szpitalu/7fhj62j",
-      "pubDate": "Fri, 19 Dec 2025 10:01:50 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gaza PhD student and family evacuated to UK after Foreign Office U-turn",
-      "link": "https://www.theguardian.com/global-development/2025/dec/19/gaza-phd-student-manar-al-houbi-granted-access-to-uk-but-others-remain-stranded",
-      "pubDate": "Fri, 19 Dec 2025 10:00:02 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Toksyczne ścieki z przemysłu tekstylnego? Łukasiewicz – Łódzki Instytut Technologiczny pokazuje, że wodę da się odzyskać!",
-      "link": "https://wiadomosci.onet.pl/nauka/toksyczne-scieki-z-przemyslu-tekstylnego-lukasiewicz-lodzki-instytut-technologiczny/pyhpxft",
-      "pubDate": "Fri, 19 Dec 2025 10:00:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Umowa z Mercosurem przełożona o miesiąc. Efekt działań Francji, Włoch i Polski",
-      "link": "https://www.rp.pl/handel/art43526281-umowa-z-mercosurem-przelozona-o-miesiac-efekt-dzialan-francji-wloch-i-polski",
-      "pubDate": "Fri, 19 Dec 2025 10:59:49 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "W Waszyngtonie znów wrze. Demokraci zwiększają presję na administrację Donalda Trumpa. \"Musimy położyć kres tuszowaniu sprawy\"",
-      "link": "https://wiadomosci.onet.pl/politico/w-waszyngtonie-znow-wrze-demokraci-zwiekszaja-presje-na-administracje-donalda-trumpa/kcqzkcy",
-      "pubDate": "Fri, 19 Dec 2025 09:57:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Misleading online claims oversimplify Bulgaria's government crisis",
-      "link": "http://www.euronews.com/my-europe/2025/12/19/misleading-online-claims-oversimplify-bulgarias-government-crisis",
-      "pubDate": "Fri, 19 Dec 2025 10:57:57 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Rozłam wśród wrogów Putina. Rosyjscy opozycjoniści skaczą sobie do gardeł. \"Łajdak\"",
-      "link": "https://wiadomosci.onet.pl/swiat/putin-sie-cieszy-tak-rosyjska-opozycja-wyniszcza-sama-siebie-chamstwo/5r2jz6d",
-      "pubDate": "Fri, 19 Dec 2025 09:57:36 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Barack Obama shares his favourite movies, music and books of 2025",
-      "link": "http://www.euronews.com/culture/2025/12/19/barack-obama-shares-his-favourite-movies-music-and-books-of-2025",
-      "pubDate": "Fri, 19 Dec 2025 10:56:45 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Wojsko się zbroi. Kolejne dostawy sprzętu. \"Odpowiadamy na zagrożenia\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-kolejne-dostawy-sprzetu-dla-polskiego-wojska-sa-nowe-kontrak,nId,22500192",
-      "pubDate": "Fri, 19 Dec 2025 09:55:36 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Ktoś wsadził dwa silniki do motocykla. Ten szalony japoński chopper wygląda jak rzeźba na kołach",
-      "link": "https://www.chip.pl/2025/12/japonia-wyjatkowy-motocykl-aethel-dwa-silniki",
-      "pubDate": "Fri, 19 Dec 2025 09:55:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Donald Tusk o pożyczce dla Ukrainy. Czy Polska dopłaci?",
-      "link": "https://biznes.interia.pl/gospodarka/news-premier-o-pozyczce-dla-ukrainy-polska-nie-bedzie-doplacala,nId,22500206",
-      "pubDate": "Fri, 19 Dec 2025 09:52:32 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "WH Smith tries to recover bonuses from ex-bosses as watchdog investigates accounting error",
-      "link": "https://www.theguardian.com/business/2025/dec/19/wh-smith-tries-to-recover-bonuses-from-ex-bosses-as-watchdog-investigates-accounting-error",
-      "pubDate": "Fri, 19 Dec 2025 09:52:29 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Co zrobi Polska, jeśli UE podpisze umowę z Mercosurem? Premier tłumaczy",
-      "link": "https://www.bankier.pl/wiadomosc/Co-zrobi-Polska-jesli-UE-podpisze-umowe-z-Mercosurem-Premier-tlumaczy-9058440.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 19 Dec 2025 10:51:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Xiaomi ma dla ciebie pomysł na prezent. Te ceny nie utrzymają się długo",
-      "link": "https://spidersweb.pl/2025/12/xiaomi-pomysl-na-prezent.html",
-      "pubDate": "Fri, 19 Dec 2025 10:50:48 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Kolejne miliardy z UE dla Ukrainy. Donald Tusk: Polska nie będzie dopłacała do tego przedsięwzięcia",
-      "link": "https://www.rp.pl/polityka/art43535021-kolejne-miliardy-z-ue-dla-ukrainy-donald-tusk-polska-nie-bedzie-doplacala-do-tego-przedsiewziecia",
-      "pubDate": "Fri, 19 Dec 2025 10:50:36 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kometa znalazła się rekordowo blisko Ziemi. Emituje silne promieniowanie",
-      "link": "https://geekweek.interia.pl/nauka/news-kometa-znalazla-sie-rekordowo-blisko-ziemi-emituje-silne-pro,nId,22500177",
-      "pubDate": "Fri, 19 Dec 2025 09:48:21 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "ORLEN i Politechnika Warszawska zacieśniają współpracę na rzecz rozwoju biogazu i biometanu",
-      "link": "https://mamstartup.pl/orlen-i-politechnika-warszawska-zaciesniaja-wspolprace-na-rzecz-rozwoju-biogazu-i-biometanu/",
-      "pubDate": "Fri, 19 Dec 2025 09:47:24 +0000",
-      "source": "MamStartup"
     }
   ]
 }
