@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2025-12-31T05:46:14.830Z",
+  "generatedAt": "2025-12-31T05:57:28.766Z",
   "items": [
+    {
+      "title": "Ogromne utrudnienia na S7. Jest nowy raport służb na temat sytuacji",
+      "link": "https://wiadomosci.onet.pl/olsztyn/ogromne-utrudnienia-na-s7-jest-nowy-raport-sluzb-na-temat-sytuacji/pyl81w1",
+      "pubDate": "Wed, 31 Dec 2025 05:52:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Podwyżka dla 3 mln osób. Wzrosną też powiązane świadczenia",
+      "link": "https://biznes.interia.pl/praca/news-podwyzka-dla-3-mln-osob-wzrosna-tez-powiazane-swiadczenia,nId,22503831",
+      "pubDate": "Wed, 31 Dec 2025 05:50:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Zapytali Polaków o euro. Wyniki sondażu są jasne",
+      "link": "https://biznes.interia.pl/gospodarka/news-euro-zastapi-zlotego-zapytali-polakow-wyniki-sondazu-sa-jasn,nId,22503940",
+      "pubDate": "Wed, 31 Dec 2025 05:47:35 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Manus trafia do Mety. Zuckerberg ma teraz asa w rękawie — pytanie, czy wykorzysta",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/manus-trafia-do-mety-zuckerberg-ma-teraz-asa-w-rekawie-pytanie-czy-go-wykorzysta/3ecnfg1",
+      "pubDate": "Wed, 31 Dec 2025 05:47:04 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Pogoda. Atak zimy. Czerwone ostrzeżenia IMGW przed śniegiem nadal w mocy",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-30-31-12-snieg-zawieje-zamiecie-czerwony-alarm-najwyzszy-stopien-ostrzezen-st8820843?source=rss",
@@ -848,6 +872,12 @@
       "source": "Onet"
     },
     {
+      "title": "Wall Street ponownie kończy dzień z niewielkimi spadkami",
+      "link": "https://www.bankier.pl/wiadomosc/Wall-Street-ponownie-konczy-dzien-z-niewielkimi-spadkami-9062370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 30 Dec 2025 23:01:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "USA rozluźniają sankcje. Na liście osoby powiązane z Kremlem",
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-30/usa-rozluzniaja-sankcje-na-liscie-osoby-powiazane-z-kremlem/",
       "pubDate": "Tue, 30 Dec 2025 22:52:00 +0100",
@@ -870,6 +900,12 @@
       "link": "https://wydarzenia.interia.pl/warminsko-mazurskie/news-paraliz-drogi-do-warszawy-podjeto-niecodzienna-decyzje-koryt,nId,22503927",
       "pubDate": "Tue, 30 Dec 2025 21:38:38 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Atak zimy i paraliż na północy. Sztab kryzysowy zwołuje kolejne posiedzenie",
+      "link": "https://www.bankier.pl/wiadomosc/Atak-zimy-i-paraliz-na-polnocy-Sztab-kryzysowy-zwoluje-kolejne-posiedzenie-9062365.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Tue, 30 Dec 2025 22:32:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Three hikers found dead on southern California’s Mount Baldy",
@@ -16398,6 +16434,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -63036,48 +63096,6 @@
       "link": "https://mamstartup.pl/orlen-i-politechnika-warszawska-zaciesniaja-wspolprace-na-rzecz-rozwoju-biogazu-i-biometanu/",
       "pubDate": "Fri, 19 Dec 2025 09:47:24 +0000",
       "source": "MamStartup"
-    },
-    {
-      "title": "Polskie oczy Bundeswehry. Krakowska firma SATIM rozpoznaje cele",
-      "link": "https://tech.wp.pl/polskie-oczy-bundeswehry-krakowska-firma-satim-rozpoznaje-cele,7234090434836992a",
-      "pubDate": "Fri, 19 Dec 2025 10:46:33 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Ten sklep był w listopadzie najtańszy w Polsce",
-      "link": "https://tvn24.pl/biznes/handel/najtanszy-sklep-w-polsce-francuska-siec-auchan-liderem-w-listopadzie-badanie-asm-sfa-st8808982?source=rss",
-      "pubDate": "Fri, 19 Dec 2025 09:46:28 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Iranian boxing champion at imminent risk of execution as retrial request rejected",
-      "link": "https://www.theguardian.com/global-development/2025/dec/19/iranian-boxing-champion-mohammad-javad-vafaei-sani-risk-of-execution-retrial-request-rejected",
-      "pubDate": "Fri, 19 Dec 2025 09:45:02 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Porwanie, dręczenie i agresywny pies. \"Łowcy głów\" zatrzymali Ukraińca",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-porwanie-dreczenie-i-agresywny-pies-lowcy-glow-zatrzymali-uk,nId,8052028",
-      "pubDate": "Fri, 19 Dec 2025 10:43:28 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "\"Trwają przygotowania do wojny\". Orban oskarża Brukselę",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-trwaja-przygotowania-do-wojny-orban-oskarza-bruksele,nId,8052037",
-      "pubDate": "Fri, 19 Dec 2025 10:42:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Odczuli skutki celnego ataku Ukrainy. Rosyjski gigant idzie na dno",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-odczuli-skutki-celnego-ataku-ukrainy-rosyjski-gigant-idzie-n,nId,22500154",
-      "pubDate": "Fri, 19 Dec 2025 09:41:39 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Greece rescues 545 migrants off Gavdos as Libya route sees surge in crossings",
-      "link": "http://www.euronews.com/2025/12/19/greece-rescues-545-migrants-off-gavdos-as-libya-route-sees-surge-in-crossings",
-      "pubDate": "Fri, 19 Dec 2025 10:41:28 +0100",
-      "source": "Euronews"
     },
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -151610,6 +151628,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -202070,6 +202112,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -214081,54 +214147,6 @@
           "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-26T13:33:37Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "10",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "10",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2025-11-26T13:33:37Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Czy UE chce osłabić szyfrowaną komunikację? Tak, choć niekoniecznie przez Chat Control",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "10",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/czy-ue-chce-oslabic-szyfrowana-komunikacje-tak-choc-niekoniecznie-przez-chat-control/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "10",
           "@_type": "application/atom+xml"
         }
       ],
