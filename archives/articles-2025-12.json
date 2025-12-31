@@ -1,7 +1,19 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-31T19:35:49.678Z",
+  "generatedAt": "2025-12-31T19:44:40.594Z",
   "items": [
+    {
+      "title": "\"Rozwój, bezpieczeństwo i lepsza jakość życia\". Prezydent wygłosił orędzie noworoczne",
+      "link": "https://www.rmf24.pl/fakty/polska/news-rozwoj-bezpieczenstwo-i-lepsza-jakosc-zycia-prezydent-wyglos,nId,8054678",
+      "pubDate": "Wed, 31 Dec 2025 20:37:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Śmierć 4-latka w przedszkolu. Siedem osób na ławie oskarżonych",
+      "link": "https://wiadomosci.onet.pl/krakow/smierc-4-latka-w-przedszkolu-siedem-osob-na-lawie-oskarzonych/l0e10ve",
+      "pubDate": "Wed, 31 Dec 2025 19:33:50 GMT",
+      "source": "Onet"
+    },
     {
       "title": "​Śmierć dziecka w przedszkolu w Zabierzowie. Siedem osób stanie przed sądem",
       "link": "https://www.rmf24.pl/regiony/krakow/news-smierc-dziecka-w-przedszkolu-w-zabierzowie-siedem-osob-stani,nId,8054679",
@@ -21283,6 +21295,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -63781,24 +63817,6 @@
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-20-12-duzo-chmur-i-wysoka-wilgotnosc-st8810569?source=rss",
       "pubDate": "Sat, 20 Dec 2025 01:00:00 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Make Korea great again: The right-wing group wooing disenchanted youth",
-      "link": "https://www.bbc.com/news/articles/c5y27ekr26xo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 20 Dec 2025 00:45:23 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Survivors of Epstein’s abuse condemn justice department for only partly releasing files",
-      "link": "https://www.theguardian.com/us-news/2025/dec/19/epstein-victims-condemn-doj-files-release",
-      "pubDate": "Sat, 20 Dec 2025 00:45:00 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Syria: US launches airstrikes on IS targets after attack",
-      "link": "https://www.dw.com/en/syria-us-launches-airstrikes-on-is-targets-after-attack/a-75250651?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 00:06:00 GMT",
-      "source": "DW"
     }
   ]
 }
