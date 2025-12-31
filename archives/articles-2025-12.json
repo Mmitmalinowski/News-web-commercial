@@ -1,7 +1,25 @@
 {
   "month": "2025-12",
-  "generatedAt": "2025-12-31T21:41:09.553Z",
+  "generatedAt": "2025-12-31T21:50:48.443Z",
   "items": [
+    {
+      "title": "​Złe prognozy na Nowy Rok: śnieg, marznący deszcz i zamiecie",
+      "link": "https://www.rmf24.pl/pogoda/news-zle-prognozy-na-nowy-rok-snieg-marznacy-deszcz-i-zamiecie,nId,8054687",
+      "pubDate": "Wed, 31 Dec 2025 22:45:01 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Narracja Kremla o ataku się sypie? Niespodziewany ruch Trumpa",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-narracja-kremla-o-ataku-sie-sypie-niespodziewany-ruch-trumpa,nId,22504183",
+      "pubDate": "Wed, 31 Dec 2025 21:44:39 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "End of an era as New York City transit retires three-decade-old MetroCard",
+      "link": "https://www.theguardian.com/us-news/2025/dec/31/new-york-city-metrocard-retired",
+      "pubDate": "Wed, 31 Dec 2025 21:38:09 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Nowa decyzja Donalda Trumpa. Chodzi o trzy amerykańskie miasta. \"Wrócimy w silniejszej formie\"",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-oglosil-nowa-decyzje-tuz-przed-nowym-rokiem/nmyw8pd",
@@ -21451,6 +21469,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -63919,30 +63961,6 @@
       "link": "http://www.press.pl/tresc/90816,polskie-radio-24-na-15_-urodziny-dostalo-nowa-oprawe-dzwiekowa?rss=1",
       "pubDate": "Sat, 20 Dec 2025 05:48:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "Donald Trump ostrzega. \"Zostaniecie uderzeni mocniej\". Podsumowanie nocy",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-ostrzega-zostaniecie-uderzeni-mocniej-podsumowanie-nocy/cls3gs1",
-      "pubDate": "Sat, 20 Dec 2025 04:45:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "MSW Turcji: na nasze terytorium spadł rosyjski dron",
-      "link": "https://tvn24.pl/swiat/turcja-msw-na-polnocy-kraju-spadl-rosyjski-dron-st8810655?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 04:41:45 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Radio Nowy Świat szykuje na święta \"Slalom świąteczny\"",
-      "link": "http://www.press.pl/tresc/90810,radio-nowy-Swiat-szykuje-na-swieta-_slalom-swiateczny_?rss=1",
-      "pubDate": "Sat, 20 Dec 2025 05:40:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Negocjacje pokojowe Ukrainy i USA. Kijów przekazał najnowsze informacje",
-      "link": "https://wiadomosci.onet.pl/swiat/negocjacje-pokojowe-ukrainy-i-usa-kijow-przekazal-najnowsze-informacje/2v4xhfq",
-      "pubDate": "Sat, 20 Dec 2025 04:36:53 GMT",
-      "source": "Onet"
     }
   ]
 }
