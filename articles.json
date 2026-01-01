@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-01-01T17:49:21.565Z",
+  "generatedAt": "2026-01-01T17:58:47.740Z",
   "items": [
+    {
+      "title": "Kilkadziesiąt zabitych w ataku dronów. Rosja oskarża Ukrainę",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43585931-kilkadziesiat-zabitych-w-ataku-dronow-rosja-oskarza-ukraine",
+      "pubDate": "Thu, 01 Jan 2026 18:52:27 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nie tylko chrześcijaństwo. Pogaństwo w Polsce rośnie w siłę",
+      "link": "https://geekweek.interia.pl/lifestyle/news-nie-tylko-chrzescijanstwo-poganstwo-w-polsce-rosnie-w-sile,nId,22503772",
+      "pubDate": "Thu, 01 Jan 2026 17:49:07 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Operator drona zauważył tekturę w oknach. Dramatyczny apel rosyjskiego żołnierza. \"Chcę żyć\"",
+      "link": "https://wiadomosci.onet.pl/swiat/operator-drona-zauwazyl-tekture-w-oknach-apel-rosyjskiego-zolnierza/ctyfj6q",
+      "pubDate": "Thu, 01 Jan 2026 17:46:56 GMT",
+      "source": "Onet"
+    },
     {
       "title": "​Wybuch przemocy na ulicach. Noc, która wstrząsnęła Holandią",
       "link": "https://www.rmf24.pl/fakty/swiat/news-wybuch-przemocy-na-ulicach-noc-ktora-wstrzasnela-holandia,nId,8054746",
       "pubDate": "Thu, 01 Jan 2026 18:44:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Ofiary śmiertelne i strzały na prowincji. Protesty w Iranie przybierają na sile",
+      "link": "https://www.bankier.pl/wiadomosc/Ofiary-smiertelne-i-strzaly-na-prowincji-Protesty-w-Iranie-przybieraja-na-sile-9063062.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 1 Jan 2026 18:42:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Ship seized in Finland suspected of cable damage was carrying sanctioned Russian steel",
@@ -25032,6 +25056,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68184,15 +68232,9 @@
       "link": "http://www.press.pl/tresc/90814,Srednio-129-tys_-widzow-oglada-w-polsat-news-program-agnieszki-gozdyry?rss=1",
       "pubDate": "Sat, 20 Dec 2025 07:45:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "Prywatność w iOS. Uprawnienia aplikacji, śledzenie w sieci i zdjęcia z lokalizacją. Co warto wyłączyć?",
-      "link": "https://www.chip.pl/2025/12/prywatnosc-w-ios-uprawnienia-aplikacji-sledzenie-w-sieci-i-zdjecia-z-lokalizacja",
-      "pubDate": "Sat, 20 Dec 2025 06:43:00 +0000",
-      "source": "Chip.pl"
     }
   ],
-  "totalArticles": 10564,
+  "totalArticles": 10568,
   "activeMonths": [
     "2026-01",
     "2025-12"
