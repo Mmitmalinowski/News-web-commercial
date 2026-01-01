@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-01-01T19:32:04.644Z",
+  "generatedAt": "2026-01-01T19:44:12.988Z",
   "items": [
+    {
+      "title": "Several people killed as protests spread across Iran",
+      "link": "https://www.dw.com/en/several-people-killed-as-protests-spread-across-iran/a-75361629?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 1 Jan 2026 19:38:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Chiny znowu biją rekord świata. Tamtejsza wirówka sięga granic hipergrawitacji",
+      "link": "https://www.chip.pl/2026/01/chiny-rekordowa-wirowka-hipergrawitacja",
+      "pubDate": "Thu, 01 Jan 2026 19:36:48 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Plac Centralny w Nowej Hucie pod wodą. Utrudnienia w ruchu",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-plac-centralny-w-nowej-hucie-pod-woda-utrudnienia-w-ruchu,nId,8054752",
+      "pubDate": "Thu, 01 Jan 2026 20:31:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Rzecznik rządu o orędziu Nawrockiego: słyszałem dużo \"ja\"",
+      "link": "https://tvn24.pl/polska/karol-nawrocki-oredzie-rzecznik-rzadu-adam-szlapka-slyszalem-w-nim-duzo-ja-zycze-prezydentowi-myslenia-o-polsce-st8826788?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 19:30:22 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Premier Tusk: \"2026 będzie rokiem polskiego przyspieszenia\"",
       "link": "https://businessinsider.com.pl/wiadomosci/noworoczne-oredzie-premiera-rok-2026-nazwano-rokiem-przyspieszenia/wycxwfq",
       "pubDate": "Thu, 01 Jan 2026 19:29:23 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "​Tusk w orędziu: Złotowłosa gospodarka i dociśniecie śruby przestępcom",
+      "link": "https://www.rmf24.pl/polityka/news-tusk-w-oredziu-zlotowlosa-gospodarka-i-docisniecie-sruby-prz,nId,8054751",
+      "pubDate": "Thu, 01 Jan 2026 20:29:15 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Pogoda w styczniu nie odpuści. Znamy najnowsze prognozy",
@@ -70,6 +100,12 @@
     {
       "title": "Noworoczne orędzie Donalda Tuska. \"Dociśniemy śrubę\"",
       "link": "https://wiadomosci.onet.pl/kraj/noworoczne-oredzie-donalda-tuska-docisniemy-srube/5bfk37x",
+      "pubDate": "Thu, 01 Jan 2026 19:01:34 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Noworoczne orędzie Donalda Tuska. \"Dociśniemy śrubę\"",
+      "link": "https://wiadomosci.onet.pl/kraj/noworoczne-oredzie-donalda-tuska-docisniemy-srube-przestepcom/5bfk37x",
       "pubDate": "Thu, 01 Jan 2026 19:01:34 GMT",
       "source": "Onet"
     },
@@ -25266,6 +25302,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68508,15 +68568,9 @@
       "link": "https://wiadomosci.onet.pl/lublin/ogromny-karambol-na-s19-w-stojeszynie-droga-w-strone-rzeszowa-wciaz-zablokowana/gpm11f2",
       "pubDate": "Sat, 20 Dec 2025 06:53:16 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "USA może czekać katastrofa. Nowe zdjęcia ujawniają skalę zagrożenia",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-19/usa-moze-czekac-katastrofa-nowe-zdjecia-ujawniaja-skale-zagrozenia/",
-      "pubDate": "Sat, 20 Dec 2025 07:53:00 +0100",
-      "source": "Polsat News"
     }
   ],
-  "totalArticles": 10603,
+  "totalArticles": 10609,
   "activeMonths": [
     "2026-01",
     "2025-12"

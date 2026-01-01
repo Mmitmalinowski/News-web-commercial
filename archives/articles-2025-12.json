@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T19:32:04.355Z",
+  "generatedAt": "2026-01-01T19:44:12.697Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64891,12 +64915,6 @@
       "link": "https://wiadomosci.onet.pl/lublin/ogromny-karambol-na-s19-w-stojeszynie-droga-w-strone-rzeszowa-wciaz-zablokowana/gpm11f2",
       "pubDate": "Sat, 20 Dec 2025 06:53:16 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "USA może czekać katastrofa. Nowe zdjęcia ujawniają skalę zagrożenia",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-19/usa-moze-czekac-katastrofa-nowe-zdjecia-ujawniaja-skale-zagrozenia/",
-      "pubDate": "Sat, 20 Dec 2025 07:53:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
