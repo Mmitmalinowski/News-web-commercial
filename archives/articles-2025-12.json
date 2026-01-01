@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T22:18:10.947Z",
+  "generatedAt": "2026-01-01T22:40:54.660Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65071,12 +65095,6 @@
       "link": "https://antyweb.pl/swieta-z-epic-games-store-trwaja-co-dzis-za-darmo",
       "pubDate": "Sat, 20 Dec 2025 07:00:38 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "How the hunt for a perfect picture has pushed the ‘magical’ galaxy frog towards extinction",
-      "link": "http://www.euronews.com/green/2025/12/20/how-the-hunt-for-a-perfect-picture-has-pushed-the-magical-galaxy-frog-towards-extinction",
-      "pubDate": "Sat, 20 Dec 2025 08:00:25 +0100",
-      "source": "Euronews"
     }
   ]
 }
