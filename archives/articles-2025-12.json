@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T14:24:38.458Z",
+  "generatedAt": "2026-01-01T14:43:22.792Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64603,12 +64627,6 @@
       "link": "https://biznes.interia.pl/finanse/news-jak-zamknac-konto-w-banku-to-zalezy-od-konkretnej-instytucji,nId,22498701",
       "pubDate": "Sat, 20 Dec 2025 06:20:05 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Zagadka niebieskich błysków właśnie pękła. Trop prowadzi do zaskakującego sprawcy",
-      "link": "https://spidersweb.pl/2025/12/zagadka-lfbots-rozwiazana-czarna-dziura-wszystko-wyjasnia.html",
-      "pubDate": "Sat, 20 Dec 2025 07:20:00 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
