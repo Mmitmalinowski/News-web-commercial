@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-01T05:45:54.201Z",
+  "generatedAt": "2026-01-01T05:59:00.874Z",
   "items": [
+    {
+      "title": "WhatsApp odpala fajerwerki. Moc nowości w komunikatorze!",
+      "link": "https://antyweb.pl/whatsapp-odpala-fajerwerki-moc-nowosci-w-komunikatorze",
+      "pubDate": "Thu, 01 Jan 2026 05:57:17 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Blisko ideału. Tak będzie rozwijała się polska gospodarka [ANALIZA]",
+      "link": "https://www.money.pl/gospodarka/blisko-idealu-tak-bedzie-rozwijala-sie-polska-gospodarka-analiza-7236410201644000a.html",
+      "pubDate": "Thu, 01 Jan 2026 06:47:01 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Telewizje nie emitują już reklamy Łomży z Tomaszem Karolakiem",
+      "link": "https://www.wirtualnemedia.pl/telewizje-nie-emituja-juz-reklamy-lomzy-z-tomaszem-karolakiem,7238405116775392a",
+      "pubDate": "Thu, 01 Jan 2026 06:46:32 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Canal+ i Warner Bros. Discovery z wieloletnią umową o współpracy",
+      "link": "http://www.press.pl/tresc/90966,canal--i-warner-bros_-discovery-z-wieloletnia-umowa-o-wspolpracy?rss=1",
+      "pubDate": "Thu, 01 Jan 2026 06:46:00 +0100",
+      "source": "Press.pl"
+    },
     {
       "title": "Zasiłek dla bezrobotnych nie dla każdego. Państwo zapłaci tylko wybranym",
       "link": "https://biznes.interia.pl/praca/news-ile-wynosi-zasilek-dla-bezrobotnych-oto-zasady-obowiazujace,nId,22497767",
@@ -22140,6 +22164,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64740,15 +64788,9 @@
       "link": "http://www.press.pl/tresc/90803,_poranna-rozmowa_-w-rmf-fm-ma-ponad-2-mln-sluchaczy_-a-_gosc-radia-zet_-o-milion-mniej?rss=1",
       "pubDate": "Sat, 20 Dec 2025 06:29:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "\"Kevin sam w Nowym Jorku\" najdroższy w styczniowym cenniku Polsatu",
-      "link": "http://www.press.pl/tresc/90807,_kevin-sam-w-nowym-jorku_-najdrozszy-w-styczniowym-cenniku-polsatu?rss=1",
-      "pubDate": "Sat, 20 Dec 2025 06:29:00 +0100",
-      "source": "Press.pl"
     }
   ],
-  "totalArticles": 10092,
+  "totalArticles": 10096,
   "activeMonths": [
     "2026-01",
     "2025-12"
