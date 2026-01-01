@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-01-01T03:56:49.291Z",
+  "generatedAt": "2026-01-01T04:48:50.832Z",
   "items": [
+    {
+      "title": "\"Chcemy końca wojny, ale nie końca Ukrainy. Czy jesteśmy zmęczeni? Bardzo\"",
+      "link": "https://tvn24.pl/swiat/zelenski-ukraincy-chca-zakonczenia-wojny-ale-nie-konca-ukrainy-st8825833?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 04:35:06 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Niebezpieczna pogoda, orędzie prezydenta, tragedia w Radzewie",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-czwartek-1-stycznia-najwazniejsze-informacje-st8825857?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 04:30:11 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "To będzie największa rewolucja dla milionów Polaków od niemal 100 lat. \"Polacy uwielbiają wielkie litery\"",
+      "link": "https://wiadomosci.onet.pl/warszawa/dlaczego-warszawiak-bedzie-warszawiakiem-jezykoznawca-o-wielkiej-reformie/cly63jn",
+      "pubDate": "Thu, 01 Jan 2026 04:30:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Płonie wieża zabytkowego kościoła w Amsterdamie. Dziesiątki domów ewakuowanych [ZDJĘCIA]",
+      "link": "https://wiadomosci.onet.pl/swiat/pozar-vondelkerk-w-amsterdamie-zawalil-sie-dach-kosciola/9hkqq0p",
+      "pubDate": "Thu, 01 Jan 2026 04:23:31 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tak będzie wyglądała wojna w Ukrainie w 2026 r. \"Ściana dronów\" i trzydniowe szturmy na ziemię niczyją",
+      "link": "https://wiadomosci.onet.pl/kraj/co-wydarzy-sie-w-ukrainie-w-2026-r-trzydniowe-szturmy-na-ziemie-niczyja/7m79xm0",
+      "pubDate": "Thu, 01 Jan 2026 04:10:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "To nie koniec zamieszania pogodowego w Polsce. Zbliża się aktywny niż Tizian",
+      "link": "https://wiadomosci.onet.pl/pogoda/niz-tizian-nie-przyniesie-nam-spokoju-w-pogodzie-bedzie-nowa-dostawa-sniegu/m6jle2c",
+      "pubDate": "Thu, 01 Jan 2026 04:09:39 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Które miasta w Polsce są najbardziej zagrożone w razie wojny? Raport wskazuje jasno",
+      "link": "https://businessinsider.com.pl/wiadomosci/ktore-miasta-w-polsce-sa-najbardziej-zagrozone-w-razie-wojny-raport/z8zlrm6",
+      "pubDate": "Thu, 01 Jan 2026 03:58:00 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Fiński premier komentuje kolejny incydent na Bałtyku. \"Jest pokusa by wysnuć pewne wnioski\"",
       "link": "https://wiadomosci.onet.pl/swiat/podmorskie-kable-na-baltyku-uszkodzone-finski-premier-komentuje/hb5d1z8",
@@ -21792,6 +21834,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64338,15 +64404,9 @@
       "link": "https://wiadomosci.onet.pl/swiat/usa-ruszaja-na-krucjate-wedlug-trumpa-swiat-moze-pomiescic-dwie-superpotegi/010525g",
       "pubDate": "Sat, 20 Dec 2025 05:22:53 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "\"Słodko-gorzki\" szczyt w Brukseli",
-      "link": "https://tvn24.pl/polska/profesor-katarzyna-pisarska-po-szczycie-w-brukseli-slodko-gorzkie-doswiadczenie-st8810622?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 05:20:13 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 10034,
+  "totalArticles": 10041,
   "activeMonths": [
     "2026-01",
     "2025-12"
