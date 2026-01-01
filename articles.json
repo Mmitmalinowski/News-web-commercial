@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-01T23:46:14.912Z",
+  "generatedAt": "2026-01-01T23:55:30.605Z",
   "items": [
+    {
+      "title": "Venezuela releases 88 jailed after post-election protests",
+      "link": "https://www.dw.com/en/venezuela-releases-88-jailed-after-post-election-protests/a-75362835?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 1 Jan 2026 23:53:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Australian electric car market to get influx of new models as cheaper EVs hit the road",
+      "link": "https://www.theguardian.com/environment/2026/jan/02/ev-australia-electric-cars-vehicle-lower-price-cheap-best-2026-new-models",
+      "pubDate": "Thu, 01 Jan 2026 23:36:56 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Donald Trump ignoruje zalecenie lekarzy. Prezydent USA podał powód decyzji",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-ignoruje-zalecenie-lekarzy-prezydent-usa-podal-powod-decyzji/4fhmlsc",
@@ -25626,6 +25638,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69138,15 +69174,9 @@
       "link": "https://businessinsider.com.pl/wiadomosci/kto-wszedlby-dzis-do-sejmu-dwa-zaskoczenia-w-nowym-sondazu/vsmw1sl",
       "pubDate": "Sat, 20 Dec 2025 07:08:43 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Creating new traditions and exploring the world: What’s driving the boom in Christmas travel?",
-      "link": "http://www.euronews.com/travel/2025/12/20/creating-new-traditions-and-exploring-the-world-whats-driving-the-boom-in-christmas-travel",
-      "pubDate": "Sat, 20 Dec 2025 08:04:31 +0100",
-      "source": "Euronews"
     }
   ],
-  "totalArticles": 10663,
+  "totalArticles": 10665,
   "activeMonths": [
     "2026-01",
     "2025-12"
