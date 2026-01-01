@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T21:12:58.852Z",
+  "generatedAt": "2026-01-01T21:32:36.266Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64999,12 +65023,6 @@
       "link": "https://biznes.interia.pl/finanse/news-jeden-blad-i-stracisz-kontrole-nad-karta-tak-zlodzieje-kradn,nId,22499080",
       "pubDate": "Sat, 20 Dec 2025 07:00:05 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Co dalej z Trybunałem Konstytucyjnym po wyroku TSUE? Setki wyroków do podważenia",
-      "link": "https://www.rp.pl/sady-i-trybunaly/art43536401-co-dalej-z-trybunalem-konstytucyjnym-po-wyroku-tsue-setki-wyrokow-do-podwazenia",
-      "pubDate": "Sat, 20 Dec 2025 08:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
