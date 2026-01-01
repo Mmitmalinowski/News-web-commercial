@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-01-01T21:46:17.179Z",
+  "generatedAt": "2026-01-01T21:55:53.075Z",
   "items": [
+    {
+      "title": "Odnaleźli powietrze sprzed 1,4 mld lat uwięzione w kryształach. To odkrycie ujawnia nieznaną historię Ziemi",
+      "link": "https://www.chip.pl/2026/01/powietrze-uwiezione-w-krysztalach-probki",
+      "pubDate": "Thu, 01 Jan 2026 21:49:24 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "Atak zimy na Warmii i Mazurach. Ciężarówka wjechała do rowu",
       "link": "https://wydarzenia.interia.pl/warminsko-mazurskie/news-atak-zimy-na-warmii-i-mazurach-ciezarowka-wjechala-do-rowu,nId,22504309",
       "pubDate": "Thu, 01 Jan 2026 21:43:16 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Zohran Mamdani: „Dzisiaj rozpoczyna się nowa era. Nowy Jork będzie przykładem dla świata”",
+      "link": "https://oko.press/zohran-mamdani-dzisiaj-rozpoczyna-sie-nowa-era-nowy-jork-bedzie-przykladem-dla-swiata",
+      "pubDate": "Thu, 01 Jan 2026 21:41:02 +0000",
+      "source": "OKO.press"
     },
     {
       "title": "​Protesty rozlewają się na cały Iran. Giną ludzie",
@@ -25572,6 +25584,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68958,15 +68994,9 @@
       "link": "https://www.theguardian.com/uk-news/2025/dec/20/shooting-hares-england-ban-trail-hunting-animal-welfare-law",
       "pubDate": "Sat, 20 Dec 2025 07:00:23 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Nowy trend namieszał w zwyczajach. W europejskim kraju rozgorzała dyskusja",
-      "link": "https://wydarzenia.interia.pl/ciekawostki/news-nowy-trend-namieszal-w-zwyczajach-w-europejskim-kraju-rozgor,nId,22464911",
-      "pubDate": "Sat, 20 Dec 2025 07:00:05 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 10654,
+  "totalArticles": 10656,
   "activeMonths": [
     "2026-01",
     "2025-12"
