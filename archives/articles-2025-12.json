@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T13:47:40.152Z",
+  "generatedAt": "2026-01-01T13:58:11.069Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64567,12 +64591,6 @@
       "link": "https://energia.rp.pl/surowce-i-paliwa/art43529131-szanse-i-zagrozenia-dla-rynku-paliw-jak-pogodzic-coraz-nizszy-popyt-z-potrzeba-inwestycji",
       "pubDate": "Sat, 20 Dec 2025 07:18:28 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Przed ingresem kardynała Rysia. Czy to coś zmienia w polskim Kościele?",
-      "link": "https://oko.press/przed-ingresem-kardynala-rysia-czy-to-cos-zmienia-w-polskim-kosciele",
-      "pubDate": "Sat, 20 Dec 2025 06:12:41 +0000",
-      "source": "OKO.press"
     }
   ]
 }
