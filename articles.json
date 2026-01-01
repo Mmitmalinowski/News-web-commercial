@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-01-01T07:46:23.506Z",
+  "generatedAt": "2026-01-01T07:55:51.659Z",
   "items": [
+    {
+      "title": "Gości zatkało, gdy na salę wszedł robot-drużba. Wypożyczalnia robotów to hit",
+      "link": "https://spidersweb.pl/2026/01/wypozyczalnia-robotow.html",
+      "pubDate": "Thu, 01 Jan 2026 08:50:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Dziennikarka zapytała, czego Donald Trump życzy sobie na  Nowy Rok. Wystarczyły trzy słowa",
+      "link": "https://wiadomosci.onet.pl/swiat/sylwestra-spedzil-na-florydzie-donald-trump-zdradzil-marzenie-na-nowy-rok/dyjnrd4",
+      "pubDate": "Thu, 01 Jan 2026 07:46:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Najem krótkoterminowy. Mają patent na uciążliwych gości, ale rząd ich nie słucha",
+      "link": "https://www.rp.pl/nieruchomosci/art43575201-najem-krotkoterminowy-maja-patent-na-uciazliwych-gosci-ale-rzad-ich-nie-slucha",
+      "pubDate": "Thu, 01 Jan 2026 08:46:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Można zaoszczędzić na wywozie śmieci. Trzeba złożyć odpowiedni wniosek",
       "link": "https://biznes.interia.pl/finanse/news-te-osoby-nie-beda-musialy-placic-za-wywoz-smieci-sprawdz-czy,nId,22497471",
       "pubDate": "Thu, 01 Jan 2026 07:45:03 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ponad 200 dronów wycelowanych w Ukrainę. Niespokojną noc mieli też Rosjanie",
+      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-trudna-noworoczna-noc-dla-ukrainy-i-uderzenia-na-rafinerie-w-rosji-st8825890?source=rss",
+      "pubDate": "Thu, 01 Jan 2026 07:44:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wiatr i słońce na cenzurowanym. Trump kontra OZE",
+      "link": "https://energia.rp.pl/oze/art43569431-wiatr-i-slonce-na-cenzurowanym-trump-kontra-oze",
+      "pubDate": "Thu, 01 Jan 2026 08:42:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Z lotniska do miasta wiezie cię statek kosmiczny. Bez kierowcy",
@@ -22512,6 +22542,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65202,15 +65256,9 @@
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wojsko-zabiega-o-graczy-ich-umiejetnosci-sa-bezcenne-na-obecnym-polu-walki/lbfndr6",
       "pubDate": "Sat, 20 Dec 2025 05:32:18 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Nazwy samochodów, placów, knajpek na nowo. Językoznawca: niepotrzebne zamieszanie",
-      "link": "https://tvn24.pl/polska/jezyk-polski-od-1-stycznia-nowa-ortografia-jezykoznawca-niepotrzebne-zamieszanie-st8788271?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 05:31:36 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 10154,
+  "totalArticles": 10159,
   "activeMonths": [
     "2026-01",
     "2025-12"
