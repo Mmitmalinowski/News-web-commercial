@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-01T23:12:18.112Z",
+  "generatedAt": "2026-01-01T23:32:56.622Z",
   "items": [
+    {
+      "title": "Donald Trump ignoruje zalecenie lekarzy. Prezydent USA podał powód decyzji",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-ignoruje-zalecenie-lekarzy-prezydent-usa-podal-powod-decyzji/4fhmlsc",
+      "pubDate": "Thu, 01 Jan 2026 23:12:25 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Kalendarium - piątek 2 stycznia",
       "link": "https://pro.rp.pl/kalendarium/art43586421-kalendarium-piatek-2-stycznia",
@@ -25620,6 +25626,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69096,15 +69126,9 @@
       "link": "https://www.rp.pl/budzet-i-podatki/art43537041-weto-prezydenta-a-budzet-panstwa-o-co-toczy-sie-spor",
       "pubDate": "Sat, 20 Dec 2025 08:02:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dziennikarz Meczyków doznał udaru. \"Może ktoś potraktuje to jak przestrogę\"",
-      "link": "https://www.wirtualnemedia.pl/mateusz-rokuszewski-meczyki-pl-dziennikarz-w-szpitalu-doznal-udaru,7234410940533248a",
-      "pubDate": "Sat, 20 Dec 2025 08:01:08 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ],
-  "totalArticles": 10662,
+  "totalArticles": 10663,
   "activeMonths": [
     "2026-01",
     "2025-12"
