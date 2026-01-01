@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-01T19:44:12.988Z",
+  "generatedAt": "2026-01-01T19:53:41.899Z",
   "items": [
+    {
+      "title": "​Pociąg ze 180 pasażerami utknął w zaspach",
+      "link": "https://www.rmf24.pl/regiony/olsztyn/news-pociag-ze-180-pasazerami-utknal-w-zaspach,nId,8054753",
+      "pubDate": "Thu, 01 Jan 2026 20:46:38 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Meta znów inwestuje w AI. Kupi startup z Chin",
+      "link": "https://www.wirtualnemedia.pl/meta-znow-inwestuje-w-ai-kupi-startup-z-chin,7238845438773760a",
+      "pubDate": "Thu, 01 Jan 2026 20:46:03 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Iran starts 2026 facing protests, inflation and sanctions",
+      "link": "https://www.dw.com/en/iran-starts-2026-facing-protests-inflation-and-sanctions/a-75360572?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 1 Jan 2026 19:46:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Nowy sojusz na Morzu Śródziemnym. Trzy kraje jednoczą się przeciw Turcji",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-nowy-sojusz-na-morzu-srodziemnym-trzy-kraje-jednocza-sie-prz,nId,22504280",
+      "pubDate": "Thu, 01 Jan 2026 19:43:20 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Several people killed as protests spread across Iran",
       "link": "https://www.dw.com/en/several-people-killed-as-protests-spread-across-iran/a-75361629?maca=en-rss-en-all-1573-xml-mrss",
@@ -25302,6 +25326,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68562,15 +68610,9 @@
       "link": "https://wiadomosci.onet.pl/swiat/atak-na-polski-konsulat-w-brukseli-budynek-oblany-czerwona-farba/wqf2c9j",
       "pubDate": "Sat, 20 Dec 2025 06:55:28 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Ogromny karambol na S19. Droga w stronę Rzeszowa wciąż jest zablokowana",
-      "link": "https://wiadomosci.onet.pl/lublin/ogromny-karambol-na-s19-w-stojeszynie-droga-w-strone-rzeszowa-wciaz-zablokowana/gpm11f2",
-      "pubDate": "Sat, 20 Dec 2025 06:53:16 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 10609,
+  "totalArticles": 10613,
   "activeMonths": [
     "2026-01",
     "2025-12"
