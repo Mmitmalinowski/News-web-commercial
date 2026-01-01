@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-01T20:40:17.042Z",
+  "generatedAt": "2026-01-01T20:53:41.368Z",
   "items": [
+    {
+      "title": "Red Carpet Media Group przenosi dwie stacje do innej spółki",
+      "link": "https://www.wirtualnemedia.pl/red-carpet-media-group-stacje-vidoctv-i-show-tv-w-nowej-spolce-lukasza-kulaka,7238860157094880a",
+      "pubDate": "Thu, 01 Jan 2026 21:44:43 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
     {
       "title": "Ukraiński wywiad: sfabrykowaliśmy śmierć dowódcy i przejęliśmy \"nagrodę\", którą za zabójstwo wystawiła Rosja",
       "link": "https://tvn24.pl/swiat/ukraina-wywiad-wojskowy-sfabrykowal-smierc-dowodcy-denisa-kapustina-i-mowi-o-porazce-rosjan-st8826713?source=rss",
@@ -25494,6 +25500,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68808,15 +68838,9 @@
       "link": "https://wydarzenia.interia.pl/lubelskie/news-grozny-karamabol-na-s-19-w-lubelskiem-zderzylo-sie-kilkanasc,nId,22501607",
       "pubDate": "Sat, 20 Dec 2025 06:59:14 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Groźny karamabol na S19 w Lubelskiem. Zderzyło się kilkanaście pojazdów",
-      "link": "https://wydarzenia.interia.pl/lubelskie/news-grozny-karamabol-na-s19-w-lubelskiem-zderzylo-sie-kilkanasci,nId,22501607",
-      "pubDate": "Sat, 20 Dec 2025 06:59:14 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 10641,
+  "totalArticles": 10642,
   "activeMonths": [
     "2026-01",
     "2025-12"
