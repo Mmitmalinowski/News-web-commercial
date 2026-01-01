@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T22:53:01.552Z",
+  "generatedAt": "2026-01-01T23:12:17.828Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65107,12 +65131,6 @@
       "link": "https://www.wirtualnemedia.pl/mateusz-rokuszewski-meczyki-pl-dziennikarz-w-szpitalu-doznal-udaru,7234410940533248a",
       "pubDate": "Sat, 20 Dec 2025 08:01:08 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "The EU plans to raise €90 billion in joint debt for Ukraine — here's how",
-      "link": "http://www.euronews.com/my-europe/2025/12/20/the-eu-plans-to-raise-90-billion-in-joint-debt-for-ukraine-heres-how",
-      "pubDate": "Sat, 20 Dec 2025 08:00:43 +0100",
-      "source": "Euronews"
     }
   ]
 }
