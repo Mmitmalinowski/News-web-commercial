@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T15:59:36.438Z",
+  "generatedAt": "2026-01-01T16:35:16.014Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64711,12 +64735,6 @@
       "link": "https://spidersweb.pl/2025/12/lodz-dzungla-pod-kopula.html",
       "pubDate": "Sat, 20 Dec 2025 07:41:00 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Atak na polski konsulat. Czerwona farba i obraźliwe hasła w sercu Europy",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-atak-na-polski-konsulat-czerwona-farba-i-obrazliwe-hasla-w-s,nId,8052316",
-      "pubDate": "Sat, 20 Dec 2025 07:40:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
