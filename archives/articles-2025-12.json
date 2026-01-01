@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-01T10:54:46.607Z",
+  "generatedAt": "2026-01-01T11:14:26.417Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21649,6 +21649,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -64441,12 +64465,6 @@
       "link": "https://oko.press/prof-monika-sus-wojna-juz-jest-bez-spolecznej-odpornosci-nie-obronimy-sie",
       "pubDate": "Sat, 20 Dec 2025 06:01:10 +0000",
       "source": "OKO.press"
-    },
-    {
-      "title": "Pension income across Europe: Which countries offer the highest pensions?",
-      "link": "http://www.euronews.com/business/2025/12/20/pension-income-across-europe-which-countries-offer-the-highest-pensions",
-      "pubDate": "Sat, 20 Dec 2025 07:00:52 +0100",
-      "source": "Euronews"
     }
   ]
 }
