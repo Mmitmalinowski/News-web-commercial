@@ -1,9 +1,33 @@
 {
-  "generatedAt": "2026-01-02T19:39:15.246Z",
+  "generatedAt": "2026-01-02T19:48:45.776Z",
   "items": [
+    {
+      "title": "Yemen separatists plan transition to independence by 2028",
+      "link": "https://www.dw.com/en/yemen-separatists-plan-transition-to-independence-by-2028/a-75372634?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 2 Jan 2026 19:40:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Rosjanie projektują nowy okręt podwodny Arktur. Podają nierealne terminy",
+      "link": "https://tech.wp.pl/rosjanie-projektuja-nowy-okret-podwodny-arktur-podaja-nierealne-terminy,7239196172602336a",
+      "pubDate": "Fri, 02 Jan 2026 20:38:18 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Zakaz wstępu do lasu. \"Okiść, złamane drzewa stwarzają niebezpieczeństwo\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/atak-zimy-sniezyce-w-polsce-zakaz-wstepu-do-lasu-st8828282?source=rss",
+      "pubDate": "Fri, 02 Jan 2026 19:35:42 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Czarzasty uderza w prezydenta. Padła zaskakująca propozycja",
       "link": "https://wiadomosci.onet.pl/kraj/czarzasty-uderza-w-nawrockiego-padla-zaskakujaca-propozycja/ynh9c03",
+      "pubDate": "Fri, 02 Jan 2026 19:33:52 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Włodzimierz Czarzasty uderza w prezydenta. Padła zaskakująca propozycja",
+      "link": "https://wiadomosci.onet.pl/kraj/wlodzimierz-czarzasty-uderza-w-prezydenta-padla-zaskakujaca-propozycja/ynh9c03",
       "pubDate": "Fri, 02 Jan 2026 19:33:52 GMT",
       "source": "Onet"
     },
@@ -186,6 +210,12 @@
       "link": "https://www.bankier.pl/wiadomosc/Tesla-traci-korone-Elon-Musk-pokonany-przez-chinskiego-giganta-BYD-9063450.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 2 Jan 2026 19:40:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Czechy. Opozycja chce odwołać przewodniczącego Izby Poselskiej.  Mówił o „złodziejach z junty Zełenskiego”",
+      "link": "https://www.rp.pl/polityka/art43588371-czechy-opozycja-chce-odwolac-przewodniczacego-izby-poselskiej-mowil-o-zlodziejach-z-junty-zelenskiego",
+      "pubDate": "Fri, 02 Jan 2026 19:40:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Nowa aranżacja kabiny w samolotach PLL LOT. Pierwszy rejs już dzisiaj",
@@ -31776,6 +31806,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76116,15 +76170,9 @@
       "link": "https://antyweb.pl/galaxy-s21-z-aktualizacja-oto-co-w-niej",
       "pubDate": "Sat, 20 Dec 2025 08:32:13 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "9-latek potrącony w garażu. Lądował śmigłowiec LPR",
-      "link": "https://wiadomosci.onet.pl/lubuskie/9-latek-potracony-w-garazu-ladowal-smiglowiec-lpr/24k85p4",
-      "pubDate": "Sat, 20 Dec 2025 08:27:36 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 11685,
+  "totalArticles": 11690,
   "activeMonths": [
     "2026-01",
     "2025-12"
