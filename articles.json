@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-01-02T21:12:54.642Z",
+  "generatedAt": "2026-01-02T21:28:36.106Z",
   "items": [
+    {
+      "title": "Naczelny Zero.pl o planach serwisu. \"Jesteśmy szczęściarzami\"",
+      "link": "https://www.wirtualnemedia.pl/naczelny-zero-pl-o-planach-serwisu-jestesmy-szczesciarzami,7239221990824928a",
+      "pubDate": "Fri, 02 Jan 2026 22:25:25 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Zawód szpieg. Zełenski wyciągnął z rękawa prawdziwego asa",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-zawod-szpieg-zelenski-wyciagnal-z-rekawa-prawdziwego-asa,nId,8054977",
+      "pubDate": "Fri, 02 Jan 2026 22:20:54 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Roszady w administracji Wołodymyra Zełenskiego. Będzie nowy minister obrony",
+      "link": "https://wiadomosci.onet.pl/swiat/roszady-w-administracji-wolodymyra-zelenskiego-bedzie-nowy-minister-obrony/kwvv8sn",
+      "pubDate": "Fri, 02 Jan 2026 21:20:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Minister cyfryzacji apeluje do prezydenta. \"AI szaleje\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-minister-cyfryzacji-apeluje-do-prezydenta-ai-szaleje,nId,22504629",
+      "pubDate": "Fri, 02 Jan 2026 21:15:53 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Tragiczny wypadek na drodze. Samochód uderzył w drzewo, zginęły dwie osoby",
+      "link": "https://www.rmf24.pl/regiony/szczecin/news-tragiczny-wypadek-na-drodze-samochod-uderzyl-w-drzewo-zginel,nId,8054982",
+      "pubDate": "Fri, 02 Jan 2026 22:13:22 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tragedia w kurorcie Crans-Montana w Szwajcarii. \"Ściany z łatwopalnej pianki\"",
+      "link": "https://wiadomosci.onet.pl/swiat/tragedia-w-kurorcie-crans-montana-w-szwajcarii-sciany-z-latwopalnej-pianki/v0f8bhy",
+      "pubDate": "Fri, 02 Jan 2026 21:09:14 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Tragiczny finał wyjścia na sanki. Pięciolatka wzywała pomoc",
       "link": "https://wydarzenia.interia.pl/dolnoslaskie/news-tragiczny-final-wyjscia-na-sanki-pieciolatka-wzywala-pomoc,nId,22504625",
@@ -12,6 +48,12 @@
       "link": "https://wiadomosci.onet.pl/szczecin/horror-pod-bialym-borem-nie-zyja-kierowca-i-19-letnia-pasazerka/4pl4c2r",
       "pubDate": "Fri, 02 Jan 2026 20:59:35 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Władze USA ostrzegają podróżujących do Rosji. „Przygotuj  testament, zostaw próbki  DNA”",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43588451-wladze-usa-ostrzegaja-podrozujacych-do-rosji-przygotuj-testament-zostaw-probki-dna",
+      "pubDate": "Fri, 02 Jan 2026 21:59:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "\"Bez gonitwy kampanijnej\", ale \"trudny\". Co przyniesie rok, który może być \"przełomowy\" ",
@@ -32004,6 +32046,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76452,15 +76518,9 @@
       "link": "https://www.dw.com/en/germany-news-magdeburg-memorial-marks-year-since-attack/live-75251407?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 08:42:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Germany: 1,600 asylum requests by people rejected at border",
-      "link": "https://www.dw.com/en/germany-1-600-asylum-requests-by-people-rejected-at-border/live-75251407?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 08:42:00 GMT",
-      "source": "DW"
     }
   ],
-  "totalArticles": 11723,
+  "totalArticles": 11730,
   "activeMonths": [
     "2026-01",
     "2025-12"
