@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-02T23:21:02.679Z",
+  "generatedAt": "2026-01-02T23:36:17.686Z",
   "items": [
+    {
+      "title": "Kolejna fala protestów w Iranie. Jest apel o \"milionową obecność\"",
+      "link": "https://wiadomosci.onet.pl/swiat/kolejna-fala-protestow-w-teheranie-jest-apel-o-milionowa-obecnosc/2ljz594",
+      "pubDate": "Fri, 02 Jan 2026 23:27:33 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "US woman charged with fetal homicide after allegedly inducing own abortion",
+      "link": "https://www.theguardian.com/us-news/2026/jan/02/kentucky-woman-arrest-abortion",
+      "pubDate": "Fri, 02 Jan 2026 23:17:11 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Eksperyment Fluid Particles na ISS. Jak drobiny w kosmosie mogą rozwiązać problemy na Ziemi",
       "link": "https://www.chip.pl/2026/01/eksperyment-fluid-particles-na-iss",
@@ -32124,6 +32136,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76716,15 +76752,9 @@
       "link": "https://geekweek.interia.pl/militaria/news-rosyjski-lowca-trafiony-padl-ofiara-roju-dronow,nId,22501616",
       "pubDate": "Sat, 20 Dec 2025 08:55:15 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Pociąg zderzył się ze stadem słoni",
-      "link": "https://tvn24.pl/tvnmeteo/najnowsze/indie-pociag-zderzyl-sie-ze-stadem-sloni-zginelo-siedem-zwierzat-st8810759?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 08:52:20 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 11743,
+  "totalArticles": 11745,
   "activeMonths": [
     "2026-01",
     "2025-12"
