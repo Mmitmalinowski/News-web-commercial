@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-02T13:43:19.200Z",
+  "generatedAt": "2026-01-02T13:56:05.707Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21661,6 +21661,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65665,12 +65689,6 @@
       "link": "https://antyweb.pl/youtube-wkurzyl-uzytkownikow-wystarczyla-jedna-zmiana",
       "pubDate": "Sat, 20 Dec 2025 08:00:06 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Od planetoid po czarne dziury: Polski wkład w międzynarodową astronomię dzięki ESO",
-      "link": "https://www.rmf24.pl/nauka/news-od-planetoid-po-czarne-dziury-polski-wklad-w-miedzynarodowa-,nId,8050795",
-      "pubDate": "Sat, 20 Dec 2025 09:00:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
