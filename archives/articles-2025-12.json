@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-02T09:55:07.838Z",
+  "generatedAt": "2026-01-02T10:17:25.398Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21661,6 +21661,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65485,12 +65509,6 @@
       "link": "https://businessinsider.com.pl/wiadomosci/dla-kogo-z-politykow-byl-to-fatalny-rok-polacy-wskazali-sondaz/883hrf4",
       "pubDate": "Sat, 20 Dec 2025 07:42:00 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "W episkopacie jest czarną owcą. Co zmieni kardynał Ryś?",
-      "link": "https://tvn24.pl/najnowsze/krakow-ingres-kardynala-grzegorza-rysia-st8807628?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 07:41:35 GMT",
-      "source": "TVN24"
     }
   ]
 }
