@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-02T21:28:36.106Z",
+  "generatedAt": "2026-01-02T21:41:26.449Z",
   "items": [
     {
       "title": "Naczelny Zero.pl o planach serwisu. \"Jesteśmy szczęściarzami\"",
@@ -32046,6 +32046,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -73130,6 +73154,12 @@
       "source": "Onet"
     },
     {
+      "title": "Germany: 1,600 asylum requests by people rejected at border",
+      "link": "https://www.dw.com/en/germany-1-600-asylum-requests-by-people-rejected-at-border/live-75251407?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 21 Dec 2025 09:51:00 GMT",
+      "source": "DW"
+    },
+    {
       "title": "Nowy scenariusz na święta. \"Zaskoczenie\"",
       "link": "https://tvn24.pl/biznes/z-kraju/boze-narodzenie-2025-nowy-scenariusz-na-swieta-zaskoczenie-st8811716?source=rss",
       "pubDate": "Sun, 21 Dec 2025 09:50:21 GMT",
@@ -76506,18 +76536,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-wyprzedzil-jaroslawa-kaczynskiego-nowy-sondaz/hjwqhmn",
       "pubDate": "Sat, 20 Dec 2025 08:45:03 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Przewożenie choinki na dachu. Za ten błąd będzie spory mandat",
-      "link": "https://biznes.interia.pl/finanse/news-przewozenie-choinki-na-dachu-w-takim-przypadku-policjant-wyp,nId,22499131",
-      "pubDate": "Sat, 20 Dec 2025 08:44:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Germany news: Magdeburg memorial marks year since attack",
-      "link": "https://www.dw.com/en/germany-news-magdeburg-memorial-marks-year-since-attack/live-75251407?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 08:42:00 GMT",
-      "source": "DW"
     }
   ],
   "totalArticles": 11730,
