@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-02T11:43:28.830Z",
+  "generatedAt": "2026-01-02T11:53:05.224Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -29127,6 +29127,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -30065,6 +30089,12 @@
     {
       "title": "Bundestag inquiry on Germany's COVID-19 response to conclude",
       "link": "https://www.dw.com/en/bundestag-inquiry-on-germany-s-covid-19-response-to-conclude/a-75283320?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 28 Dec 2025 06:50:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Germany's COVID-19 response under scrutiny",
+      "link": "https://www.dw.com/en/germany-s-covid-19-response-under-scrutiny/a-75283320?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 28 Dec 2025 06:50:00 GMT",
       "source": "DW"
     },
@@ -65587,18 +65617,6 @@
       "link": "https://www.chip.pl/2025/12/uderzenie-w-ksiezyc-geminidy-obserwatorium",
       "pubDate": "Sat, 20 Dec 2025 07:53:00 +0000",
       "source": "Chip.pl"
-    },
-    {
-      "title": "8 osób nie żyje, 27 jest rannych. Potężny atak na Odessę",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-8-osob-nie-zyje-27-jest-rannych-potezny-atak-na-odesse,nId,8052339",
-      "pubDate": "Sat, 20 Dec 2025 08:49:22 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Polski konsulat zdewastowany. Sprawcy wypisali obraźliwe hasła",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-polski-konsulat-zdewastowany-sprawcy-wypisali-obrazliwe-hasl,nId,22501613",
-      "pubDate": "Sat, 20 Dec 2025 07:47:56 GMT",
-      "source": "Interia"
     }
   ]
 }
