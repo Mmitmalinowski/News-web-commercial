@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-02T16:57:42.418Z",
+  "generatedAt": "2026-01-02T17:20:56.163Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65845,12 +65869,6 @@
       "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-oregonie-zalane-auta-osuwiska-zawalone-domy-to-najgorsza-rzecz-jaka-spotkala-mnie-w-zyciu-st8810703?source=rss",
       "pubDate": "Sat, 20 Dec 2025 08:10:24 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Central Asia and Japan discuss new cooperation formats at inaugural Tokyo summit",
-      "link": "http://www.euronews.com/2025/12/20/central-asia-and-japan-discuss-new-cooperation-formats-at-inaugural-tokyo-summit",
-      "pubDate": "Sat, 20 Dec 2025 09:10:16 +0100",
-      "source": "Euronews"
     }
   ]
 }
