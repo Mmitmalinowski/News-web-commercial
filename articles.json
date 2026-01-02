@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-02T22:47:19.940Z",
+  "generatedAt": "2026-01-02T22:59:20.135Z",
   "items": [
+    {
+      "title": "Germany: Third bank robbery reported in NRW in days",
+      "link": "https://www.dw.com/en/germany-third-bank-robbery-reported-in-nrw-in-days/a-75372907?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 2 Jan 2026 22:55:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Polska ograniczy media społecznościowe dla młodzieży? Wiceminister zabrał głos",
       "link": "https://wiadomosci.onet.pl/kraj/polska-ograniczy-media-spolecznosciowe-dla-mlodziezy-trwaja-prace/cc41q03",
@@ -532,6 +538,12 @@
     {
       "title": "Izrael rozmieszcza elitarne jednostki na granicy z Libanem. Netanjahu \"podejmie wyjątkowe decyzje\"",
       "link": "https://wiadomosci.onet.pl/swiat/izrael-rozmieszcza-elitarne-jednostki-na-granicy-z-libanem-podejmie-wyjatkowe-decyzje/96breq2",
+      "pubDate": "Fri, 02 Jan 2026 18:28:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Izrael rozmieszcza elitarne jednostki na granicy z Libanem. Netanjahu zwołuje naradę",
+      "link": "https://wiadomosci.onet.pl/swiat/izrael-rozmieszcza-elitarne-jednostki-na-granicy-z-libanem-netanjahu-zwoluje-narade/96breq2",
       "pubDate": "Fri, 02 Jan 2026 18:28:46 GMT",
       "source": "Onet"
     },
@@ -32094,6 +32106,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76650,15 +76686,9 @@
       "link": "https://tvn24.pl/tvnmeteo/swiat/indie-pociag-zderzyl-sie-ze-stadem-sloni-zginelo-siedem-zwierzat-st8810759?source=rss",
       "pubDate": "Sat, 20 Dec 2025 08:52:20 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Luka VAT w Polsce. Eksperci informują o poprawie",
-      "link": "https://www.money.pl/podatki/luka-vat-w-polsce-eksperci-informuja-o-poprawie-7234434813819392a.html",
-      "pubDate": "Sat, 20 Dec 2025 09:50:56 +0100",
-      "source": "Money.pl"
     }
   ],
-  "totalArticles": 11738,
+  "totalArticles": 11740,
   "activeMonths": [
     "2026-01",
     "2025-12"
