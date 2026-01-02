@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-02T22:02:20.572Z",
+  "generatedAt": "2026-01-02T22:29:43.338Z",
   "items": [
+    {
+      "title": "BBC settles with 7 October survivors for filming home ‘without permission’",
+      "link": "https://www.theguardian.com/media/2026/jan/02/bbc-settles-with-7-october-survivors-for-filming-home-without-permission",
+      "pubDate": "Fri, 02 Jan 2026 22:08:15 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Michał Urbaniak nie żyje. Rodzina podała datę pogrzebu muzyka",
       "link": "https://www.rmf24.pl/fakty/polska/news-michal-urbaniak-nie-zyje-rodzina-podala-date-pogrzebu-muzyka,nId,8054983",
@@ -46,6 +52,12 @@
     {
       "title": "Tragiczny wypadek na drodze. Samochód uderzył w drzewo, zginęły dwie osoby",
       "link": "https://www.rmf24.pl/regiony/szczecin/news-tragiczny-wypadek-na-drodze-samochod-uderzyl-w-drzewo-zginel,nId,8054982",
+      "pubDate": "Fri, 02 Jan 2026 22:13:22 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tragiczny wypadek. Samochód uderzył w drzewo, zginęły dwie osoby",
+      "link": "https://www.rmf24.pl/regiony/szczecin/news-tragiczny-wypadek-samochod-uderzyl-w-drzewo-zginely-dwie-oso,nId,8054982",
       "pubDate": "Fri, 02 Jan 2026 22:13:22 +0100",
       "source": "RMF24"
     },
@@ -32064,6 +32076,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76584,15 +76620,9 @@
       "link": "https://tvn24.pl/lodz/turobowice-samochod-dachowal-na-drodze-powiatowej-nie-zyje-kierowca-st8810774?source=rss",
       "pubDate": "Sat, 20 Dec 2025 08:48:59 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Epstein case: Thousands of files released, but lawmakers still demand more",
-      "link": "http://www.euronews.com/2025/12/20/epstein-case-thousands-of-files-released-but-lawmakers-still-demand-more",
-      "pubDate": "Sat, 20 Dec 2025 09:48:06 +0100",
-      "source": "Euronews"
     }
   ],
-  "totalArticles": 11733,
+  "totalArticles": 11735,
   "activeMonths": [
     "2026-01",
     "2025-12"
