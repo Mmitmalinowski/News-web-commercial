@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-01-02T22:59:20.135Z",
+  "generatedAt": "2026-01-02T23:21:02.679Z",
   "items": [
+    {
+      "title": "Eksperyment Fluid Particles na ISS. Jak drobiny w kosmosie mogą rozwiązać problemy na Ziemi",
+      "link": "https://www.chip.pl/2026/01/eksperyment-fluid-particles-na-iss",
+      "pubDate": "Fri, 02 Jan 2026 23:15:40 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Kalendarium - sobota 3 stycznia",
+      "link": "https://pro.rp.pl/kalendarium/art43588211-kalendarium-sobota-3-stycznia",
+      "pubDate": "Sat, 03 Jan 2026 00:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Germany: Third bank robbery reported in NRW in days",
       "link": "https://www.dw.com/en/germany-third-bank-robbery-reported-in-nrw-in-days/a-75372907?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 2 Jan 2026 22:55:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Man dies after shooting in Melbourne’s inner north",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/03/man-dies-after-shooting-in-melbournes-inner-north-ntwnfb",
+      "pubDate": "Fri, 02 Jan 2026 22:48:57 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Polska ograniczy media społecznościowe dla młodzieży? Wiceminister zabrał głos",
@@ -32106,6 +32124,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76680,15 +76722,9 @@
       "link": "https://tvn24.pl/tvnmeteo/najnowsze/indie-pociag-zderzyl-sie-ze-stadem-sloni-zginelo-siedem-zwierzat-st8810759?source=rss",
       "pubDate": "Sat, 20 Dec 2025 08:52:20 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Pociąg zderzył się ze stadem słoni",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/indie-pociag-zderzyl-sie-ze-stadem-sloni-zginelo-siedem-zwierzat-st8810759?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 08:52:20 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 11740,
+  "totalArticles": 11743,
   "activeMonths": [
     "2026-01",
     "2025-12"
