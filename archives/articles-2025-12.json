@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-02T10:41:46.034Z",
+  "generatedAt": "2026-01-02T10:53:41.589Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21661,6 +21661,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65521,12 +65545,6 @@
       "link": "https://biznes.interia.pl/finanse/news-abonament-rtv-2026-co-planuje-rzad-i-ile-za-to-zaplacimy-zle,nId,22499029",
       "pubDate": "Sat, 20 Dec 2025 07:44:01 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Ogromny karambol na S19. Droga w stronę Rzeszowa już przejezdna",
-      "link": "https://wiadomosci.onet.pl/lublin/ogromny-karambol-na-s19-w-stojeszynie-droga-w-strone-rzeszowa-juz-przejezdna/gpm11f2",
-      "pubDate": "Sat, 20 Dec 2025 07:42:16 GMT",
-      "source": "Onet"
     }
   ]
 }
