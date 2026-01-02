@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-02T17:20:56.163Z",
+  "generatedAt": "2026-01-02T17:39:13.287Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -65863,12 +65887,6 @@
       "link": "https://moto.rp.pl/ten-pierwszy-raz/art43377021-denza-z9-gt-potrafi-to-czego-niemiecka-elita-nawet-nie-probuje",
       "pubDate": "Sat, 20 Dec 2025 09:11:06 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Zalane auta, osuwiska, zawalone domy. \"To najgorsza rzecz, jaka spotkała mnie w życiu\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/powodz-w-oregonie-zalane-auta-osuwiska-zawalone-domy-to-najgorsza-rzecz-jaka-spotkala-mnie-w-zyciu-st8810703?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 08:10:24 GMT",
-      "source": "TVN24"
     }
   ]
 }
