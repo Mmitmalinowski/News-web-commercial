@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-02T19:26:56.406Z",
+  "generatedAt": "2026-01-02T19:39:15.246Z",
   "items": [
+    {
+      "title": "Czarzasty uderza w prezydenta. Padła zaskakująca propozycja",
+      "link": "https://wiadomosci.onet.pl/kraj/czarzasty-uderza-w-nawrockiego-padla-zaskakujaca-propozycja/ynh9c03",
+      "pubDate": "Fri, 02 Jan 2026 19:33:52 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Twórcy ChatGPT będą chcieli sprzedać Ci… długopis",
+      "link": "https://www.tabletowo.pl/tworcy-chatgpt-beda-chcieli-sprzedac-ci-dlugopis/",
+      "pubDate": "Fri, 02 Jan 2026 19:27:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Earthquake with a preliminary magnitude of 6.5 rattles southern and central Mexico",
+      "link": "http://www.euronews.com/2026/01/02/earthquake-with-a-preliminary-magnitude-of-65-rattles-southern-and-central-mexico",
+      "pubDate": "Fri, 02 Jan 2026 20:24:21 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Kosmiczna wiadomość. Sławosz Uznański-Wiśniewski zostanie ojcem",
       "link": "https://www.rmf24.pl/fakty/polska/news-kosmiczna-wiadomosc-slawosz-uznanski-wisniewski-zostanie-ojc,nId,8054974",
@@ -31758,6 +31776,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76080,15 +76122,9 @@
       "link": "https://wiadomosci.onet.pl/lubuskie/9-latek-potracony-w-garazu-ladowal-smiglowiec-lpr/24k85p4",
       "pubDate": "Sat, 20 Dec 2025 08:27:36 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Gang św. mikołajów napadł na sklep. Wiadomo, co stało się z łupem ",
-      "link": "https://wydarzenia.interia.pl/ciekawostki/news-gang-sw-mikolajow-napadl-na-sklep-wiadomo-co-stalo-sie-z-lup,nId,22501609",
-      "pubDate": "Sat, 20 Dec 2025 08:27:24 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 11682,
+  "totalArticles": 11685,
   "activeMonths": [
     "2026-01",
     "2025-12"
