@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-03T22:58:47.978Z",
+  "generatedAt": "2026-01-03T23:24:48.104Z",
   "items": [
+    {
+      "title": "British and French aircraft attack underground Islamic State weapons store in Syria",
+      "link": "https://www.theguardian.com/world/2026/jan/03/british-and-french-aircraft-attack-underground-isis-weapons-store-in-syria",
+      "pubDate": "Sat, 03 Jan 2026 23:06:23 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "How UK plush toy Jellycat conquered China ",
+      "link": "https://www.bbc.com/news/articles/cj0e36p74v1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 23:02:08 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Ten problem niszczy panele słoneczne. Naukowcy wskazali zaskakujące rozwiązanie po serii prób",
+      "link": "https://www.chip.pl/2026/01/system-energetyczny-idx-pvt-ahp-eksperymenty",
+      "pubDate": "Sat, 03 Jan 2026 22:59:20 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "Maduro jest już w USA. Wiemy, kiedy usłyszy zarzuty",
       "link": "https://www.rmf24.pl/fakty/swiat/news-maduro-jest-juz-w-usa-wiemy-kiedy-uslyszy-zarzuty,nId,8055279",
@@ -45962,6 +45980,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81786,15 +81828,9 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/awaryjne-ladowanie-bez-zezwolenia-kilkunastu-zolnierzy-aresztowanych/",
       "pubDate": "Sat, 20 Dec 2025 11:46:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Ukraine updates: Russia set to join talks in Miami",
-      "link": "https://www.dw.com/en/ukraine-updates-russia-set-to-join-talks-in-miami/live-75252411?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 10:46:00 GMT",
-      "source": "DW"
     }
   ],
-  "totalArticles": 12381,
+  "totalArticles": 12384,
   "activeMonths": [
     "2026-01",
     "2025-12"
