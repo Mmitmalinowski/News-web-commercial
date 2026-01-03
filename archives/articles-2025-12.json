@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T04:38:43.907Z",
+  "generatedAt": "2026-01-03T04:57:23.889Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -66385,12 +66409,6 @@
       "link": "https://www.dw.com/en/sudan-humanitarian-situation-is-worst-crisis-of-2025/a-75243232?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 09:02:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Kłopoty z dostępnością ważnego leku dla pacjentów ze schizofrenią",
-      "link": "https://www.rp.pl/leki-i-terapie/art43540631-klopoty-z-dostepnoscia-waznego-leku-dla-pacjentow-ze-schizofrenia",
-      "pubDate": "Sat, 20 Dec 2025 10:01:30 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
