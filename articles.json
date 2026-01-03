@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-03T19:12:07.427Z",
+  "generatedAt": "2026-01-03T19:27:28.732Z",
   "items": [
+    {
+      "title": "LG chce oddać nam czas. Robot ma przejąć część domowych obowiązków",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/lg-chce-oddac-nam-czas-robot-ma-przejac-czesc-domowych-obowiazkow/q95pjfw",
+      "pubDate": "Sat, 03 Jan 2026 19:17:54 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Trudne warunki w górach. Lawinowa \"dwójka\" w Karkonoszach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/trudne-warunki-w-gorach-lawinowa-dwojka-w-karkonoszach-st8829599?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 19:12:10 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "\"Jesteśmy gotowi\". Laureatka Nobla z Wenezueli o przyszłej władzy",
       "link": "https://wydarzenia.interia.pl/zagranica/news-jestesmy-gotowi-laureatka-nobla-z-wenezueli-o-przyszlej-wlad,nId,22504783",
@@ -35700,6 +35712,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -81264,15 +81300,9 @@
       "link": "https://biznes.interia.pl/finanse/news-ceny-warzyw-przed-swietami-jedno-wyjatkowo-drogie,nId,22501634",
       "pubDate": "Sat, 20 Dec 2025 10:29:28 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Czerwona farba i wulgarne hasła na fasadzie polskiego konsulatu",
-      "link": "https://tvn24.pl/swiat/czerwona-farba-i-wulgarne-hasla-na-fasadzie-polskiego-konsulatu-w-brukseli-st8810857?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 10:25:53 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 12339,
+  "totalArticles": 12341,
   "activeMonths": [
     "2026-01",
     "2025-12"
