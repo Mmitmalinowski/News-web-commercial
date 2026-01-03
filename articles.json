@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-01-03T11:49:45.706Z",
+  "generatedAt": "2026-01-03T12:01:07.973Z",
   "items": [
     {
       "title": "ChatGPT wybrał imię dla dziecka. Internet zapłonął",
       "link": "https://spidersweb.pl",
       "pubDate": "Sat, 03 Jan 2026 16:11:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Klatkę schodową zwężono podczas remontu. Nowe informacje ws. pożaru w szwajcarskim kurorcie",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-klatke-schodowa-zwezono-podczas-remontu-nowe-informacje-ws-p,nId,8055023",
+      "pubDate": "Sat, 03 Jan 2026 12:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Polscy politycy reagują na atak USA na Wenezuelę. Fala komentarzy. \"Niebezpieczna analogia\"",
+      "link": "https://wiadomosci.onet.pl/swiat/polscy-politycy-reaguja-na-atak-usa-na-wenezuele-fala-komentarzy-niebezpieczna/lsn612e",
+      "pubDate": "Sat, 03 Jan 2026 11:53:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wskazali najczarniejszy dla Putina scenariusz. Ryzyko detronizacji w reżimie",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-wskazali-najczarniejszy-dla-putina-scenariusz-ryzyko-detroni,nId,22504679",
+      "pubDate": "Sat, 03 Jan 2026 11:49:39 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Craig the beer-ambassador elephant dies aged 54",
+      "link": "https://www.bbc.com/news/articles/c8e5k7p5222o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 11:48:14 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Nicolas Maduro schwytany przez Amerykanów. Radosław Sikorski reaguje. Zamieścił wpis",
+      "link": "https://wiadomosci.onet.pl/swiat/nicolas-maduro-schwytany-przez-amerykanow-radoslaw-sikorski-reaguje-zamiescil-wpis/45gvwmx",
+      "pubDate": "Sat, 03 Jan 2026 11:46:29 GMT",
+      "source": "Onet"
     },
     {
       "title": "Kraj nękany wojną zrywa z przeszłością. \"Odejście od kultu jednostki\"",
@@ -34092,6 +34122,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -79242,15 +79296,9 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-opublikowano-nowe-dokumenty-ws-epsteina-na-zdjeciach-byly-pr,nId,22501620",
       "pubDate": "Sat, 20 Dec 2025 09:43:13 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Jaką osobowość ma AI? Naukowcy próbują to zbadać",
-      "link": "https://tech.wp.pl/jaka-osobowosc-ma-ai-naukowcy-probuja-to-zbadac,7234433889757696a",
-      "pubDate": "Sat, 20 Dec 2025 10:34:07 +0100",
-      "source": "Tech WP.pl"
     }
   ],
-  "totalArticles": 12071,
+  "totalArticles": 12076,
   "activeMonths": [
     "2026-01",
     "2025-12"
