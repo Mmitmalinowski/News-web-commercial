@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-03T22:49:23.075Z",
+  "generatedAt": "2026-01-03T22:58:47.978Z",
   "items": [
+    {
+      "title": "Maduro jest już w USA. Wiemy, kiedy usłyszy zarzuty",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-maduro-jest-juz-w-usa-wiemy-kiedy-uslyszy-zarzuty,nId,8055279",
+      "pubDate": "Sat, 03 Jan 2026 23:54:22 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Missing worker found dead after roof collapse deep underground at Queensland coalmine",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/04/missing-worker-found-dead-after-roof-collapse-deep-underground-at-queensland-coalmine-ntwnfb",
+      "pubDate": "Sat, 03 Jan 2026 22:47:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Nicolas Maduro wylądował w USA. Prokuratura pokazała nowe zarzuty [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/swiat/maduro-wyladowal-w-usa-prokuratura-pokazala-nowe-zarzuty-relacja-na-zywo/n757cdk",
+      "pubDate": "Sat, 03 Jan 2026 22:44:38 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Nicolas Maduro jest już w Nowym Jorku. Trafi do aresztu",
       "link": "https://wiadomosci.onet.pl/swiat/nicolas-maduro-jest-juz-w-nowym-jorku-trafi-do-aresztu/vpvcb5r",
@@ -45920,6 +45938,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81750,15 +81792,9 @@
       "link": "https://www.dw.com/en/ukraine-updates-russia-set-to-join-talks-in-miami/live-75252411?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 10:46:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Ukraine updates: Russia joins talks in Miami",
-      "link": "https://www.dw.com/en/ukraine-updates-russia-joins-talks-in-miami/live-75252411?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 10:46:00 GMT",
-      "source": "DW"
     }
   ],
-  "totalArticles": 12378,
+  "totalArticles": 12381,
   "activeMonths": [
     "2026-01",
     "2025-12"
