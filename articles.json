@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-03T21:53:40.745Z",
+  "generatedAt": "2026-01-03T22:14:57.486Z",
   "items": [
+    {
+      "title": "Reuters: samolot z Maduro wylądował w Nowym Jorku",
+      "link": "https://tvn24.pl/swiat/usa-nicolas-maduro-w-nowym-jorku-st8829679?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 22:01:48 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wiceprezydent Wenezueli: Żądamy uwolnienia Maduro. To nasz jedyny prezydent",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43590271-wiceprezydent-wenezueli-zadamy-uwolnienia-maduro-to-nasz-jedyny-prezydent",
+      "pubDate": "Sat, 03 Jan 2026 22:59:37 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Tragiczny wypadek w Warmińsko-Mazurskiem. Auto uderzyło w drzewo",
+      "link": "https://www.rmf24.pl/regiony/olsztyn/news-tragiczny-wypadek-w-warminsko-mazurskiem-auto-uderzylo-w-drz,nId,8055276",
+      "pubDate": "Sat, 03 Jan 2026 22:58:51 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Media: Samolot z Nicolasem Maduro wylądował w USA",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-media-samolot-z-nicolasem-maduro-wyladowal-w-usa,nId,22504799",
+      "pubDate": "Sat, 03 Jan 2026 21:53:10 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Europejscy przywódcy reagują na schwytanie Nicolasa Maduro. \"Nie będziemy płakać\"",
       "link": "https://wiadomosci.onet.pl/swiat/europejscy-przywodcy-reaguja-na-schwytanie-nicolasa-maduro-nie-bedziemy-plakac/nzm978c",
@@ -45806,6 +45830,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81654,15 +81702,9 @@
       "link": "https://biznes.interia.pl/finanse/news-wigilia-po-nowemu-miesza-w-przelewach-pko-bp-wydal-wazny-kom,nId,22466093",
       "pubDate": "Sat, 20 Dec 2025 10:44:03 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Kometa 3I/ATLAS zniknie na zawsze. Co udało się finalnie ustalić?",
-      "link": "https://spidersweb.pl/2025/12/kometa-3i-atlas-ostateczne-obserwacje.html",
-      "pubDate": "Sat, 20 Dec 2025 11:43:45 +0100",
-      "source": "Spider's Web"
     }
   ],
-  "totalArticles": 12371,
+  "totalArticles": 12375,
   "activeMonths": [
     "2026-01",
     "2025-12"
