@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-03T22:14:57.486Z",
+  "generatedAt": "2026-01-03T22:35:38.293Z",
   "items": [
+    {
+      "title": "Amerykańskie wojsko trafi do Wenezueli? Donald Trump komentuje",
+      "link": "https://wiadomosci.onet.pl/swiat/amerykanskie-wojsko-trafi-do-wenezueli-donald-trump-komentuje/9wrzdfd",
+      "pubDate": "Sat, 03 Jan 2026 22:27:18 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Reuters: samolot z Maduro wylądował w Nowym Jorku",
       "link": "https://tvn24.pl/swiat/usa-nicolas-maduro-w-nowym-jorku-st8829679?source=rss",
@@ -30,6 +36,12 @@
       "link": "https://wiadomosci.onet.pl/swiat/europejscy-przywodcy-reaguja-na-schwytanie-nicolasa-maduro-nie-bedziemy-plakac/nzm978c",
       "pubDate": "Sat, 03 Jan 2026 21:46:31 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Przejęcie władzy w Wenezueli. Europejscy liderzy nie kryją obaw",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-03/przejecie-wladzy-w-wenezueli-europejscy-liderzy-nie-kryja-obaw/",
+      "pubDate": "Sat, 03 Jan 2026 22:39:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Namaszczony na następcę, doprowadził kraj do kompletnej ruiny. Kim jest Nicolas Maduro?",
@@ -45854,6 +45866,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81696,15 +81732,9 @@
       "link": "https://www.dw.com/en/ukraine-updates-russia-say-peace-deal-hampered-by-changes/live-75252411?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 10:46:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "PKO BP opublikował ważny komunikat. Chodzi o Boże Narodzenie i sylwestra",
-      "link": "https://biznes.interia.pl/finanse/news-wigilia-po-nowemu-miesza-w-przelewach-pko-bp-wydal-wazny-kom,nId,22466093",
-      "pubDate": "Sat, 20 Dec 2025 10:44:03 GMT",
-      "source": "Biznes.interia.pl"
     }
   ],
-  "totalArticles": 12375,
+  "totalArticles": 12377,
   "activeMonths": [
     "2026-01",
     "2025-12"
