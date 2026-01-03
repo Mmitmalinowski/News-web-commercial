@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-03T22:35:38.293Z",
+  "generatedAt": "2026-01-03T22:49:23.075Z",
   "items": [
+    {
+      "title": "Nicolas Maduro jest już w Nowym Jorku. Trafi do aresztu",
+      "link": "https://wiadomosci.onet.pl/swiat/nicolas-maduro-jest-juz-w-nowym-jorku-trafi-do-aresztu/vpvcb5r",
+      "pubDate": "Sat, 03 Jan 2026 22:32:42 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Amerykańskie wojsko trafi do Wenezueli? Donald Trump komentuje",
       "link": "https://wiadomosci.onet.pl/swiat/amerykanskie-wojsko-trafi-do-wenezueli-donald-trump-komentuje/9wrzdfd",
@@ -45890,6 +45896,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81726,15 +81756,9 @@
       "link": "https://www.dw.com/en/ukraine-updates-russia-joins-talks-in-miami/live-75252411?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 10:46:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Ukraine updates: Russia say peace deal hampered by changes",
-      "link": "https://www.dw.com/en/ukraine-updates-russia-say-peace-deal-hampered-by-changes/live-75252411?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 10:46:00 GMT",
-      "source": "DW"
     }
   ],
-  "totalArticles": 12377,
+  "totalArticles": 12378,
   "activeMonths": [
     "2026-01",
     "2025-12"
