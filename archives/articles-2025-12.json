@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T10:53:06.162Z",
+  "generatedAt": "2026-01-03T11:10:29.843Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -66745,12 +66769,6 @@
       "link": "https://tvn24.pl/tvnwarszawa/ursus/warszawa-metro-pojedzie-do-ursusa-cztery-kilometry-trzy-stacje-dwa-wezly-przesiadkowe-st8809484?source=rss",
       "pubDate": "Sat, 20 Dec 2025 09:33:05 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Xiaomi ulepszy smartwatche i opaski. Pomysł jest imponujący",
-      "link": "https://www.tabletowo.pl/xiaomi-otwiera-laboratorium-testow-smartwatchy-i-opasek/",
-      "pubDate": "Sat, 20 Dec 2025 09:33:00 +0000",
-      "source": "Tabletowo"
     }
   ]
 }
