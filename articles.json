@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-03T11:40:29.405Z",
+  "generatedAt": "2026-01-03T11:49:45.706Z",
   "items": [
     {
       "title": "ChatGPT wybrał imię dla dziecka. Internet zapłonął",
@@ -8,10 +8,46 @@
       "source": "Spider's Web"
     },
     {
+      "title": "Kraj nękany wojną zrywa z przeszłością. \"Odejście od kultu jednostki\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-syria-oglasza-nowy-etap-historii-kraju-nowe-banknoty-bez-wiz,nId,22504075",
+      "pubDate": "Sat, 03 Jan 2026 11:44:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Jest nowy szef ukraińskiego wywiadu wojskowego",
+      "link": "https://wiadomosci.onet.pl/swiat/gen-oleh-iwaszczenko-nowym-szefem-hur-kluczowa-zmiana-w-ukrainskim-wywiadzie/s1cm5s4",
+      "pubDate": "Sat, 03 Jan 2026 11:43:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Artur Bartkiewicz: Atak na Wenezuelę a sprawa polska. Dlaczego należy się niepokoić?",
+      "link": "https://www.rp.pl/komentarze/art43589711-artur-bartkiewicz-atak-na-wenezuele-a-sprawa-polska-dlaczego-nalezy-sie-niepokoic",
+      "pubDate": "Sat, 03 Jan 2026 12:42:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Władze Wenezueli: są ofiary ataku USA. To cywile i żołnierze [RELACJA NA ŻYWO]",
+      "link": "https://wiadomosci.onet.pl/swiat/wladze-wenezueli-sa-ofiary-ataku-usa-to-cywile-i-zolnierze-relacja-na-zywo/n757cdk",
+      "pubDate": "Sat, 03 Jan 2026 11:41:38 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Może spaść aż 300-400 mm wody. Potężne załamanie pogody na południu Europy",
+      "link": "https://wiadomosci.onet.pl/pogoda/moze-spasc-az-300-400-mm-wody-potezne-zalamanie-pogody-na-poludniu-europy/ctwcbym",
+      "pubDate": "Sat, 03 Jan 2026 11:38:06 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Dalsze kroki wojsk USA w Wenezueli. Marco Rubio nakreślił plan",
       "link": "https://businessinsider.com.pl/wiadomosci/dalsze-kroki-wojsk-usa-w-wenezueli-marco-rubio-podal-jaki-jest-plan/y6wwgd2",
       "pubDate": "Sat, 03 Jan 2026 11:35:21 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Atak USA na Wenezuelę. Donald Trump chwali się \"sukcesem\". Oto co wiemy do tej pory",
+      "link": "https://wiadomosci.onet.pl/swiat/atak-usa-na-wenezuele-tak-wygladal-przebieg-zdarzen-oto-co-wiemy-do-tej-pory/ww3hz1b",
+      "pubDate": "Sat, 03 Jan 2026 11:34:28 GMT",
+      "source": "Onet"
     },
     {
       "title": "Venezuela attack: what we know so far as Trump claims Maduro captured",
@@ -34056,6 +34092,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -79188,15 +79248,9 @@
       "link": "https://tech.wp.pl/jaka-osobowosc-ma-ai-naukowcy-probuja-to-zbadac,7234433889757696a",
       "pubDate": "Sat, 20 Dec 2025 10:34:07 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Te aplikacje przydadzą ci się na zakupach. Zainstaluj je przed wyjściem do sklepu",
-      "link": "https://android.com.pl/tech/1002341-aplikacje-do-zainstalowania-na-zakupy/",
-      "pubDate": "Sat, 20 Dec 2025 09:34:00 +0000",
-      "source": "Android.com.pl"
     }
   ],
-  "totalArticles": 12065,
+  "totalArticles": 12071,
   "activeMonths": [
     "2026-01",
     "2025-12"
