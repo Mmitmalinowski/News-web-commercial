@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T13:53:55.677Z",
+  "generatedAt": "2026-01-03T14:13:18.828Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -66907,12 +66931,6 @@
       "link": "https://www.rp.pl/konflikty-zbrojne/art43540831-wywiad-usa-cele-wojenne-wladimira-putina-wobec-ukrainy-pozostaja-bez-zmian",
       "pubDate": "Sat, 20 Dec 2025 10:47:43 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Morsowanie i kolędowanie. Ostatnia okazja w tym roku",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/warszawa-morsowanie-nad-wisla-w-weekend-przed-swietami-20-i-21-grudnia-2025-st8810465?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 09:46:02 GMT",
-      "source": "TVN24"
     }
   ]
 }
