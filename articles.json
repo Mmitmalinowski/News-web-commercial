@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-03T05:25:28.131Z",
+  "generatedAt": "2026-01-03T05:43:12.198Z",
   "items": [
+    {
+      "title": "Tu porażkę poniósł i rząd PiS, i PO. Ryszard Florek o długiej liście niezałatwionych spraw [OPINIA]",
+      "link": "https://www.money.pl/gospodarka/tu-porazke-poniosl-i-rzad-pis-i-po-ryszard-florek-o-dlugiej-liscie-niezalatwionych-spraw-opinia-7234181099809760a.html",
+      "pubDate": "Sat, 03 Jan 2026 06:38:37 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Jeden kraj liderem obrotów na warszawskiej giełdzie. To ich pieniądze nakręciły wzrost akcji",
+      "link": "https://businessinsider.com.pl/gielda/jeden-kraj-liderem-obrotow-na-warszawskiej-gieldzie-to-ich-pieniadze-nakrecily-wzrost/d12hqk6",
+      "pubDate": "Sat, 03 Jan 2026 05:34:44 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1410",
+      "link": "https://www.rp.pl/swiat/art43588481-wojna-rosji-z-ukraina-dzien-1410",
+      "pubDate": "Sat, 03 Jan 2026 06:30:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kambodża oskarża Tajlandię o złamanie porozumienia. Mówi o \"aneksji\"",
+      "link": "https://wiadomosci.onet.pl/swiat/kambodza-oskarza-tajlandie-o-zlamanie-porozumienia-mowi-o-zbrojnej-aneksji/sfxh6wx",
+      "pubDate": "Sat, 03 Jan 2026 05:29:21 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sekretarz generalny ONZ apeluje do Izraela. \"Jesteśmy głęboko zaniepokojeni\". Chodzi o nowy zakaz",
+      "link": "https://wiadomosci.onet.pl/swiat/sekretarz-generalny-onz-apeluje-do-izraela-jestesmy-gleboko-zaniepokojeni/mlrn59f",
+      "pubDate": "Sat, 03 Jan 2026 05:20:33 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Burzliwa dyskusja na rządzie. A reforma i tak musi się wydarzyć",
       "link": "https://tvn24.pl/polska/burzliwa-dyskusja-o-panstwowej-inspekcji-pracy-na-posiedzeniu-rzadu-reforma-jednym-z-kamieni-milowych-kpo-st8828350?source=rss",
@@ -8,10 +38,22 @@
       "source": "TVN24"
     },
     {
+      "title": "Trump threat to intervene over protests 'reckless', says Iran foreign minister",
+      "link": "https://www.bbc.com/news/articles/c2057md3gvro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 05:16:08 GMT",
+      "source": "BBC News"
+    },
+    {
       "title": "Rekordowa liczba operacji u wybrzeży Portugalii. Wzrost aktywności rosyjskich statków",
       "link": "https://wydarzenia.interia.pl/zagranica/news-rekordowa-liczba-operacji-u-wybrzezy-portugalii-wzrost-aktyw,nId,22504645",
       "pubDate": "Sat, 03 Jan 2026 05:13:49 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Missile attack on Kharkiv kills two, including child, say Ukraine authorities",
+      "link": "https://www.bbc.com/news/articles/cx2lnk3486xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 05:13:36 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Muzeum POLIN. Między historią Żydów, antysemityzmem a cierpieniem Palestyńczyków",
@@ -32502,6 +32544,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -77256,15 +77322,9 @@
       "link": "https://tvn24.pl/swiat/rosjanie-ostrzelali-most-niedaleko-odessy-jest-nagranie-st8810795?source=rss",
       "pubDate": "Sat, 20 Dec 2025 09:07:41 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Coś dziwnego stało się z muzyką w ciągu 50 lat. AI odkryła powód",
-      "link": "https://geekweek.interia.pl/sztuka/news-ai-odkryla-co-sie-stalo-z-tekstami-i-melodiami-piosenek-w-ci,nId,22499037",
-      "pubDate": "Sat, 20 Dec 2025 09:03:22 GMT",
-      "source": "GeekWeek"
     }
   ],
-  "totalArticles": 11806,
+  "totalArticles": 11813,
   "activeMonths": [
     "2026-01",
     "2025-12"
