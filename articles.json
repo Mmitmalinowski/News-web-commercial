@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-03T19:27:28.732Z",
+  "generatedAt": "2026-01-03T19:38:28.247Z",
   "items": [
+    {
+      "title": "Te zdjęcia przejdą do historii. Ujawnili, co działo się w kwaterze Trumpa",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-te-zdjecia-przejda-do-historii-ujawnili-co-dzialo-sie-w-kwat,nId,22504779",
+      "pubDate": "Sat, 03 Jan 2026 19:23:57 GMT",
+      "source": "Interia"
+    },
     {
       "title": "LG chce oddać nam czas. Robot ma przejąć część domowych obowiązków",
       "link": "https://businessinsider.com.pl/technologie/nowe-technologie/lg-chce-oddac-nam-czas-robot-ma-przejac-czesc-domowych-obowiazkow/q95pjfw",
@@ -290,6 +296,12 @@
       "source": "Business Insider"
     },
     {
+      "title": "Dzieci, nieletni migranci i migrantki, znikają w Polsce [Rozmowa]",
+      "link": "https://oko.press/dzieci-nieletni-migranci-i-migrantki-znikaja-w-polsce-rozmowa",
+      "pubDate": "Sat, 03 Jan 2026 17:25:42 +0000",
+      "source": "OKO.press"
+    },
+    {
       "title": "Trump on Venezuela: 'We are going to run the country'",
       "link": "https://www.bbc.com/news/videos/c368px35ly8o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sat, 03 Jan 2026 17:20:46 GMT",
@@ -544,6 +556,12 @@
     {
       "title": "Zaginiona w akcji. Gdzie jest wiceprezydent Wenezueli?",
       "link": "https://www.rmf24.pl/fakty/swiat/news-zaginiona-w-akcji-gdzie-jest-wiceprezydent-wenezueli,nId,8055045",
+      "pubDate": "Sat, 03 Jan 2026 17:14:40 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zagadka rozwiązana. Wiceprezydent Wenezueli nie jest w Rosji",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-zagadka-rozwiazana-wiceprezydent-wenezueli-nie-jest-w-rosji,nId,8055045",
       "pubDate": "Sat, 03 Jan 2026 17:14:40 +0100",
       "source": "RMF24"
     },
@@ -35712,6 +35730,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -81294,15 +81336,9 @@
       "link": "https://www.bbc.com/news/articles/c62vx2pgl0eo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sat, 20 Dec 2025 10:32:21 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Warzywa przed świętami tańsze niż rok temu. Jedno \"wyjątkowo drogie\"",
-      "link": "https://biznes.interia.pl/finanse/news-ceny-warzyw-przed-swietami-jedno-wyjatkowo-drogie,nId,22501634",
-      "pubDate": "Sat, 20 Dec 2025 10:29:28 GMT",
-      "source": "Biznes.interia.pl"
     }
   ],
-  "totalArticles": 12341,
+  "totalArticles": 12344,
   "activeMonths": [
     "2026-01",
     "2025-12"
