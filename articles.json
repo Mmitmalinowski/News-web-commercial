@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-03T21:46:22.494Z",
+  "generatedAt": "2026-01-03T21:53:40.745Z",
   "items": [
+    {
+      "title": "Europejscy przywódcy reagują na schwytanie Nicolasa Maduro. \"Nie będziemy płakać\"",
+      "link": "https://wiadomosci.onet.pl/swiat/europejscy-przywodcy-reaguja-na-schwytanie-nicolasa-maduro-nie-bedziemy-plakac/nzm978c",
+      "pubDate": "Sat, 03 Jan 2026 21:46:31 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Namaszczony na następcę, doprowadził kraj do kompletnej ruiny. Kim jest Nicolas Maduro?",
       "link": "https://tvn24.pl/swiat/nicolas-maduro-kim-jest-jak-doszedl-do-wladzy-sylwetka-st8829621?source=rss",
@@ -2266,6 +2272,12 @@
     {
       "title": "Trump potwierdza ataki. \"Maduro został pojmany\" ",
       "link": "https://tvn24.pl/swiat/donald-trump-potwierdza-ataki-nicolas-maduro-zostal-pojmany-st8828777?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 09:32:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Zmowa narkoterrorystyczna\" i \"tysiące ton\" kokainy. Nowe zarzuty dla Maduro",
+      "link": "https://tvn24.pl/swiat/usa-wenezuela-prokuratura-ujawnila-nowe-zarzuty-przeciwko-nicolasowi-maduro-i-jego-otoczeniu-st8828777?source=rss",
       "pubDate": "Sat, 03 Jan 2026 09:32:18 GMT",
       "source": "TVN24"
     },
@@ -35880,6 +35892,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -81624,15 +81660,9 @@
       "link": "https://spidersweb.pl/2025/12/kometa-3i-atlas-ostateczne-obserwacje.html",
       "pubDate": "Sat, 20 Dec 2025 11:43:45 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Człowiek Karola Nawrockiego o sporach w PiS. Dosadne słowa na temat Jacka Kurskiego",
-      "link": "https://wiadomosci.onet.pl/kraj/czlowiek-karola-nawrockiego-o-sporach-w-pis-dosadne-slowa-na-temat-jacka-kurskiego/2pex7m5",
-      "pubDate": "Sat, 20 Dec 2025 10:41:12 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 12369,
+  "totalArticles": 12371,
   "activeMonths": [
     "2026-01",
     "2025-12"
