@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-03T17:39:53.528Z",
+  "generatedAt": "2026-01-03T17:49:23.294Z",
   "items": [
+    {
+      "title": "NASA odkryła wyjątkowo odporne formy życia. Mogłyby polecieć na Marsa",
+      "link": "https://geekweek.interia.pl/nauka/news-nasa-odkryla-wyjatkowo-odporne-formy-zycia-moglyby-poleciec,nId,22504717",
+      "pubDate": "Sat, 03 Jan 2026 17:45:17 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Wytrwałość, dane i wizja: jak powstaje startup zmieniający zdrowie [WYWIAD]",
+      "link": "https://businessinsider.com.pl/biznes/jak-powstal-healthnix-karol-waluszewski-o-drodze-od-amazona-do-startupu-w-health/7qryxgl",
+      "pubDate": "Sat, 03 Jan 2026 17:39:36 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Zmarł prof. Andrzej Paczkowski. Wybitny historyk, opozycjonista i alpinista miał 87 lat",
+      "link": "https://www.rmf24.pl/fakty/polska/news-zmarl-prof-andrzej-paczkowski-wybitny-historyk-opozycjonista,nId,8055047",
+      "pubDate": "Sat, 03 Jan 2026 18:39:15 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Pogoda na jutro - niedziela, 4.01. Temperatura w nocy wszędzie spadnie poniżej zera",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-4-01-atak-zimy-sniezyce-w-polsce-temperatura-w-nocy-wszedzie-spadnie-ponizej-zera-st8829466?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 17:38:43 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Będzie nowa fala śnieżyc i coraz silniejszy mróz. Taką pogodę przyniesie niedziela",
       "link": "https://wiadomosci.onet.pl/pogoda/bedzie-nowa-fala-sniezyc-i-coraz-silniejszy-mroz-mamy-pogode-na-niedziele/gdqv9tt",
@@ -106,6 +130,12 @@
     {
       "title": "\"Niewiarygodna siła\" USA. Trump: uderzyliśmy w samym centrum Caracas",
       "link": "https://tvn24.pl/swiat/atak-usa-na-wenezuele-donald-trump-o-szczegolach-st8829451?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 16:55:12 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Trump: będziemy prowadzić Wenezuelę do czasu udanej transformacji. Pojawi się grupa ludzi",
+      "link": "https://tvn24.pl/swiat/atak-usa-na-wenezuele-donald-trump-bedziemy-w-niej-przewodzic-do-czasu-transformacji-st8829451?source=rss",
       "pubDate": "Sat, 03 Jan 2026 16:55:12 GMT",
       "source": "TVN24"
     },
@@ -35424,6 +35454,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -80898,15 +80952,9 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/usa-elon-musk-12-cyfr-wazna-wygrana-szefa-tesli-w-sadzie-st8810823?source=rss",
       "pubDate": "Sat, 20 Dec 2025 10:17:23 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Zabrzmiał dzwon Zygmunt. Kraków wita nowego metropolitę",
-      "link": "https://tvn24.pl/krakow/krakow-ingres-kardynala-grzegorza-rysia-na-wawelu-st8810843?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 10:16:26 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 12293,
+  "totalArticles": 12298,
   "activeMonths": [
     "2026-01",
     "2025-12"
