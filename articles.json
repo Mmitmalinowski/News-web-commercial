@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-03T23:38:59.261Z",
+  "generatedAt": "2026-01-03T23:49:35.394Z",
   "items": [
     {
       "title": "Brytyjczycy i Francuzi uderzyli w Syrii. \"Zniszczono podziemne tunele\"",
@@ -474,6 +474,12 @@
       "link": "https://geekweek.interia.pl/nauka/news-nasa-odkryla-wyjatkowo-odporne-formy-zycia-moglyby-poleciec,nId,22504717",
       "pubDate": "Sat, 03 Jan 2026 17:45:17 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Venezuela's Maduro arrives in New York after capture by US",
+      "link": "https://www.dw.com/en/venezuela-s-maduro-arrives-in-new-york-after-capture-by-us/live-75373644?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 3 Jan 2026 17:45:00 GMT",
+      "source": "DW"
     },
     {
       "title": "Wytrwałość, dane i wizja: jak powstaje startup zmieniający zdrowie [WYWIAD]",
@@ -35976,6 +35982,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -81846,15 +81876,9 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/swieci-mikolajowie-obrabowali-sklep-w-kanadzie-grupa-przekazala-oswiadczenie-chodzi-o-symbol/",
       "pubDate": "Sat, 20 Dec 2025 11:49:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Tomasz Mateusiak: Zakopane właśnie obchodzi dwie rocznice. Żadna nie jest powodem do świętowania",
-      "link": "https://wiadomosci.onet.pl/krakow/mateusiak-zakopane-obchodzi-dwie-rocznice-zadna-nie-jest-powodem-do-swietowania/s9781mw",
-      "pubDate": "Sat, 20 Dec 2025 10:48:34 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 12385,
+  "totalArticles": 12386,
   "activeMonths": [
     "2026-01",
     "2025-12"
