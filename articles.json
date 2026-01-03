@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-01-03T10:41:58.189Z",
+  "generatedAt": "2026-01-03T10:53:06.478Z",
   "items": [
+    {
+      "title": "Police identify first four victims of Swiss ski resort fire",
+      "link": "https://www.bbc.com/news/articles/cjdjl303zxlo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 10:47:47 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Polska dziennikarka mówi, co dzieje się w Wenezueli po ataku USA. \"Już nie ma światła\"",
+      "link": "https://wiadomosci.onet.pl/swiat/atak-usa-na-wenezuele-polka-mowi-co-dzieje-sie-na-miejscu-nie-ma-swiatla/mzfkxwj",
+      "pubDate": "Sat, 03 Jan 2026 10:46:16 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Te śmigłowce Amerykanie wykorzystali w ataku na Wenezuelę",
+      "link": "https://geekweek.interia.pl/technologia/news-te-smiglowce-amerykanie-wykorzystali-w-ataku-na-wenezuele,nId,22504694",
+      "pubDate": "Sat, 03 Jan 2026 10:45:39 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Jawność płac? Firmy wciąż są niechętne, pracownicy nadal nieufni",
+      "link": "https://biznes.interia.pl/praca/news-jawnosc-plac-firmy-wciaz-sa-niechetne-pracownicy-nadal-nieuf,nId,22503902",
+      "pubDate": "Sat, 03 Jan 2026 10:44:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Nowe dane o Polakach w Wenezueli. Apel rzecznika MSZ",
+      "link": "https://www.rmf24.pl/fakty/polska/news-nowe-dane-o-polakach-w-wenezueli-apel-rzecznika-msz,nId,8055016",
+      "pubDate": "Sat, 03 Jan 2026 11:43:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Rosja zareagowała na atak USA na Wenezuelę. MSZ jest oburzone",
       "link": "https://www.rp.pl/konflikty-zbrojne/art43589691-rosja-zareagowala-na-atak-usa-na-wenezuele-msz-jest-oburzone",
       "pubDate": "Sat, 03 Jan 2026 11:39:35 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "\"Plan Putina się nie uda\". Europa wysyła USA i Rosji jasny sygnał. Nawet Republikanie przestrzegają Donalda Trumpa",
+      "link": "https://wiadomosci.onet.pl/swiat/plan-putina-sie-nie-uda-europa-wysyla-usa-i-rosji-jasny-sygnal/1j1n1zf",
+      "pubDate": "Sat, 03 Jan 2026 10:37:28 GMT",
+      "source": "Onet"
     },
     {
       "title": "Szukają Polaków do pracy. Płacą 150 zł na godzinę, ale jest haczyk",
@@ -33792,6 +33828,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -78852,15 +78912,9 @@
       "link": "https://www.tabletowo.pl/xiaomi-otwiera-laboratorium-testow-smartwatchy-i-opasek/",
       "pubDate": "Sat, 20 Dec 2025 09:33:00 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Masz szerokie horyzonty? Zdobyć 70 proc. w tym quizie to już sztuka!",
-      "link": "https://businessinsider.com.pl/wiadomosci/masz-szerokie-horyzonty-zdobyc-70-proc-w-tym-quizie-to-juz-sztuka/2y1zplf",
-      "pubDate": "Sat, 20 Dec 2025 09:32:29 GMT",
-      "source": "Business Insider"
     }
   ],
-  "totalArticles": 12021,
+  "totalArticles": 12027,
   "activeMonths": [
     "2026-01",
     "2025-12"
