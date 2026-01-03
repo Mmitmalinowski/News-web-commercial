@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-01-03T15:49:01.278Z",
+  "generatedAt": "2026-01-03T15:58:36.254Z",
   "items": [
+    {
+      "title": "Nowości w TVP Info. Ruszył cykl dla seniorów",
+      "link": "https://www.wirtualnemedia.pl/tvp-info-nowy-program-info-senior-i-wydarzy-sie-kiedy-ogladac,7239497794025984a",
+      "pubDate": "Sat, 03 Jan 2026 16:57:19 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Neo-sędzia robił karierę za PiS. Teraz decyzją ministra Kulaska będzie oceniał profesorów prawa",
+      "link": "https://oko.press/neo-sedzia-robil-kariere-za-pis-teraz-decyzja-ministra-kulaska-bedzie-ocenial-profesorow-prawa",
+      "pubDate": "Sat, 03 Jan 2026 15:55:27 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Ogromny korek na granicy z Niemcami. Trzeba uzbroić się w cierpliwość",
+      "link": "https://www.rmf24.pl/regiony/wroclaw/news-ogromny-korek-na-granicy-z-niemcami-trzeba-uzbroic-sie-w-cie,nId,8055043",
+      "pubDate": "Sat, 03 Jan 2026 16:52:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Kości mówią więcej niż DNA. Nauka tego nie przewidziała",
+      "link": "https://spidersweb.pl/2026/01/metabolity-w-kosciach-rewolucja-w-badaniach-przeszlosci.html",
+      "pubDate": "Sat, 03 Jan 2026 16:50:24 +0100",
+      "source": "Spider's Web"
+    },
     {
       "title": "Hubble zagląda do kosmicznej wylęgarni. Kadr robi wrażenie",
       "link": "https://spidersweb.pl/2026/01/kosmiczna-wylegarnia-gwiazd-na-nowym-zdjeciu-hubble-n159.html",
       "pubDate": "Sat, 03 Jan 2026 16:47:50 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "\"Strzelają bez litości\". Chaos na ulicach Iranu. Ludzie mają dość",
+      "link": "https://wiadomosci.onet.pl/swiat/strzelaja-bez-litosci-chaos-na-ulicach-iranu-ludzie-maja-dosc/es2d9y7",
+      "pubDate": "Sat, 03 Jan 2026 15:46:23 GMT",
+      "source": "Onet"
     },
     {
       "title": "Kenya mourns death of iconic elephant Craig",
@@ -54,6 +84,12 @@
       "link": "https://sport.rp.pl/pilka-nozna/art43589911-puchar-narodow-afryki-dlaczego-rzad-gabonu-rozwiazal-reprezentacje-i-wyrzucil-gwiazdy",
       "pubDate": "Sat, 03 Jan 2026 16:35:25 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kim jest Nicolas Maduro? Jak \"Super Wąsy\" doprowadził Wenezuelę do upadku",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-03/kim-jest-nicolas-maduro-jak-super-wasy-doprowadzil-wenezuele-do-upadku/",
+      "pubDate": "Sat, 03 Jan 2026 16:35:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Miał być wybuch w 2025 r. Natura zrobiła psikusa",
@@ -34992,6 +35028,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -80358,15 +80418,9 @@
       "link": "https://antyweb.pl/najgorsza-interakcja-z-chatbotem-wyrwalbym-wlosy-ale-ich-nie-mam",
       "pubDate": "Sat, 20 Dec 2025 10:00:32 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Trickle release of Epstein files on a Friday signals move to bury Trump ties",
-      "link": "https://www.theguardian.com/us-news/2025/dec/20/epstein-files-release-strategy-trump",
-      "pubDate": "Sat, 20 Dec 2025 10:00:29 GMT",
-      "source": "The Guardian"
     }
   ],
-  "totalArticles": 12221,
+  "totalArticles": 12227,
   "activeMonths": [
     "2026-01",
     "2025-12"
