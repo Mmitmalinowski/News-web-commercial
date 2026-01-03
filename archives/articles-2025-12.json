@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T21:31:10.486Z",
+  "generatedAt": "2026-01-03T21:46:22.201Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -67393,12 +67417,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/czlowiek-karola-nawrockiego-o-sporach-w-pis-dosadne-slowa-na-temat-jacka-kurskiego/2pex7m5",
       "pubDate": "Sat, 20 Dec 2025 10:41:12 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "OnePlus Turbo na przecieku. Nowa seria zaoferuje rekordowe baterie",
-      "link": "https://android.com.pl/tech/1003215-oneplus-turbo-na-przecieku-bateria/",
-      "pubDate": "Sat, 20 Dec 2025 10:41:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
