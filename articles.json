@@ -1,11 +1,53 @@
 {
-  "generatedAt": "2026-01-03T15:38:23.694Z",
+  "generatedAt": "2026-01-03T15:49:01.278Z",
   "items": [
+    {
+      "title": "Hubble zagląda do kosmicznej wylęgarni. Kadr robi wrażenie",
+      "link": "https://spidersweb.pl/2026/01/kosmiczna-wylegarnia-gwiazd-na-nowym-zdjeciu-hubble-n159.html",
+      "pubDate": "Sat, 03 Jan 2026 16:47:50 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Kenya mourns death of iconic elephant Craig",
+      "link": "https://www.dw.com/en/kenya-mourns-death-of-iconic-elephant-craig/a-75378118?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 3 Jan 2026 15:44:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Chiny oskarżają USA po ataku na Wenezuelę. \"Poważne naruszenie\"",
+      "link": "https://wiadomosci.onet.pl/swiat/chiny-oskarzaja-usa-po-ataku-na-wenezuele-powazne-naruszenie/fk42wnx",
+      "pubDate": "Sat, 03 Jan 2026 15:42:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tragiczny pożar w Szwajcarii. Nowy ruch śledczych, stawiają zarzuty",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tragiczny-pozar-w-szwajcarii-nowy-ruch-sledczych-stawiaja-za,nId,22504743",
+      "pubDate": "Sat, 03 Jan 2026 15:39:33 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Małpa chodziła jak człowiek. Wygodna historia zburzona",
+      "link": "https://spidersweb.pl/2026/01/sahelanthropus-najstarszy-dwunozny-krewny-czlowieka.html",
+      "pubDate": "Sat, 03 Jan 2026 16:38:19 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Swiss NYE fire: Bar managers face criminal investigation",
+      "link": "https://www.dw.com/en/swiss-nye-fire-bar-managers-face-criminal-investigation/a-75378122?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 3 Jan 2026 15:38:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Apple chce zmotywować Cię do aktywności w nowym roku",
       "link": "https://www.tabletowo.pl/apple-chce-zmotywowac-cie-do-aktywnosci-w-nowym-roku/",
       "pubDate": "Sat, 03 Jan 2026 15:37:24 +0000",
       "source": "Tabletowo"
+    },
+    {
+      "title": "Wybitny historyk i wykładowca. Nie żyje profesor Andrzej Paczkowski",
+      "link": "https://tvn24.pl/polska/nie-zyje-historyk-prof-andrzej-paczkowski-mial-87-lat-st8829417?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 15:36:30 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Puchar Narodów Afryki. Dlaczego rząd Gabonu rozwiązał reprezentację i wyrzucił gwiazdy?",
@@ -34950,6 +34992,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -80298,15 +80364,9 @@
       "link": "https://www.theguardian.com/us-news/2025/dec/20/epstein-files-release-strategy-trump",
       "pubDate": "Sat, 20 Dec 2025 10:00:29 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Family ‘banned from more than 1,000 petrol stations’ amid fuel theft row",
-      "link": "https://www.theguardian.com/money/2025/dec/20/fuel-theft-row-banned-petrol-stations-cash",
-      "pubDate": "Sat, 20 Dec 2025 10:00:28 GMT",
-      "source": "The Guardian"
     }
   ],
-  "totalArticles": 12214,
+  "totalArticles": 12221,
   "activeMonths": [
     "2026-01",
     "2025-12"
