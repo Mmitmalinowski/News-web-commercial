@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T17:49:22.996Z",
+  "generatedAt": "2026-01-03T17:58:45.069Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -67159,12 +67183,6 @@
       "link": "https://tech.wp.pl/s/portalstoczniowy-pl/pierwsza-taka-aukcja-1-3-gw-mocy-na-polskim-baltyku,7234206211479169a",
       "pubDate": "Sat, 20 Dec 2025 11:19:18 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "12 cyfr. Ważna decyzja dla Muska",
-      "link": "https://tvn24.pl/biznes/ze-swiata/usa-elon-musk-12-cyfr-wazna-wygrana-szefa-tesli-w-sadzie-st8810823?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 10:17:23 GMT",
-      "source": "TVN24"
     }
   ]
 }
