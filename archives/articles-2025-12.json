@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T05:54:15.806Z",
+  "generatedAt": "2026-01-03T06:22:18.102Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -66457,12 +66481,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-dziurawa-blokada-trumpa-objety-sankcjami-tankowiec-doplynal,nId,22501624",
       "pubDate": "Sat, 20 Dec 2025 09:11:58 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Mikołaje i elfy okradły supermarket. Łupy zostawiły pod choinką",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-mikolaje-i-elfy-okradly-supermarket-lupy-zostawily-pod-choin,nId,8052348",
-      "pubDate": "Sat, 20 Dec 2025 10:10:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
