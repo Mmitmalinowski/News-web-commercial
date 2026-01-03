@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-03T20:25:40.539Z",
+  "generatedAt": "2026-01-03T20:43:23.405Z",
   "items": [
+    {
+      "title": "Modernizacja polskiej armii zagrożona? Problemem finanse",
+      "link": "https://businessinsider.com.pl/gospodarka/budzet-wojska-sie-nie-spina-wykonanie-planu-malo-realne/jfy0fz6",
+      "pubDate": "Sat, 03 Jan 2026 20:25:25 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Wiceprezydent Wenezueli nie składa broni. Skierowała żądanie do USA",
       "link": "https://wydarzenia.interia.pl/zagranica/news-wiceprezydent-wenezueli-nie-sklada-broni-skierowala-zadanie,nId,22504789",
@@ -35820,6 +35826,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -81474,15 +81504,9 @@
       "link": "https://www.rp.pl/konflikty-zbrojne/art43540801-amerykanie-zbombardowali-cele-w-syrii-donald-trump-pisze-o-odwecie",
       "pubDate": "Sat, 20 Dec 2025 11:38:03 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowy metropolita krakowski. Kardynał Grzegorz Ryś objął urząd",
-      "link": "https://wydarzenia.interia.pl/kraj/news-nowy-metropolita-krakowski-kardynal-grzegorz-rys-objal-urzad,nId,22501642",
-      "pubDate": "Sat, 20 Dec 2025 10:37:33 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 12359,
+  "totalArticles": 12360,
   "activeMonths": [
     "2026-01",
     "2025-12"
