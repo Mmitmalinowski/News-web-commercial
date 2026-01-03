@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-01-02T23:56:07.518Z",
+  "generatedAt": "2026-01-03T01:24:41.106Z",
   "items": [
+    {
+      "title": "K-Pop band BTS set to make comeback in March",
+      "link": "https://www.dw.com/en/k-pop-band-bts-set-to-make-comeback-in-march/a-75372972?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 3 Jan 2026 01:09:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Pogoda na dziś - sobota, 3.01. Dosypie 30 centymetrów śniegu",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-3-01-dosypie-30-centymetrow-sniegu-st8828338?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 01:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Police to carry long-arm rifles at final Ashes Test in Sydney amid heightened security after Bondi attack",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/03/police-to-carry-long-arm-rifles-final-ashes-test-sydney-heightened-security-after-bondi-attack-ntwnfb",
+      "pubDate": "Sat, 03 Jan 2026 00:57:25 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Four challenges facing New York City Mayor Mamdani ",
+      "link": "https://www.bbc.com/news/articles/ce8edj7y5z9o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 00:46:58 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Two people killed in magnitude 6.5 earthquake in Mexico",
+      "link": "https://www.bbc.com/news/articles/c1ev8el75gyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 03 Jan 2026 00:44:57 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Tragiczne trzęsienie ziemi w Meksyku. Nie żyją co najmniej dwie osoby. Są też ranni",
+      "link": "https://wiadomosci.onet.pl/swiat/tragiczne-trzesienie-ziemi-w-meksyku-nie-zyja-co-najmniej-dwie-osoby/3k7j0kj",
+      "pubDate": "Sat, 03 Jan 2026 00:30:02 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Kolejna fala protestów w Iranie. Jest apel o \"milionową obecność\"",
       "link": "https://wiadomosci.onet.pl/swiat/kolejna-fala-protestow-w-teheranie-jest-apel-o-milionowa-obecnosc/2ljz594",
@@ -32142,6 +32178,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -76788,15 +76848,9 @@
       "link": "http://www.press.pl/tresc/90818,tvn-przygotowuje-15_-edycje-_masterchefa__-ruszyl-casting?rss=1",
       "pubDate": "Sat, 20 Dec 2025 09:59:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "Nocny atak Ukrainy. Trafione rosyjski okręt wojenny i platforma wiertnicza",
-      "link": "https://businessinsider.com.pl/wiadomosci/atak-ukrainy-na-morzu-kaspijskim-nocny-nalot-dronow/9pdgv63",
-      "pubDate": "Sat, 20 Dec 2025 08:58:48 GMT",
-      "source": "Business Insider"
     }
   ],
-  "totalArticles": 11746,
+  "totalArticles": 11752,
   "activeMonths": [
     "2026-01",
     "2025-12"
