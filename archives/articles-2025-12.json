@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T14:13:18.828Z",
+  "generatedAt": "2026-01-03T14:34:55.200Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -66925,12 +66949,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/wyslannik-kremla-w-drodze-do-miami-potwierdzaja-sie-doniesienia-mediow/9d5d383",
       "pubDate": "Sat, 20 Dec 2025 09:52:47 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Wywiad USA: Cele wojenne Władimira Putina wobec Ukrainy pozostają bez zmian",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43540831-wywiad-usa-cele-wojenne-wladimira-putina-wobec-ukrainy-pozostaja-bez-zmian",
-      "pubDate": "Sat, 20 Dec 2025 10:47:43 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
