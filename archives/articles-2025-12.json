@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-03T23:24:47.817Z",
+  "generatedAt": "2026-01-03T23:38:58.969Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -67519,12 +67543,6 @@
       "link": "https://wiadomosci.onet.pl/krakow/mateusiak-zakopane-obchodzi-dwie-rocznice-zadna-nie-jest-powodem-do-swietowania/s9781mw",
       "pubDate": "Sat, 20 Dec 2025 10:48:34 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Awaryjne lądowanie w Afryce. Kilkunastu żołnierzy aresztowanych",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/awaryjne-ladowanie-bez-zezwolenia-kilkunastu-zolnierzy-aresztowanych/",
-      "pubDate": "Sat, 20 Dec 2025 11:46:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
