@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-03T18:35:56.325Z",
+  "generatedAt": "2026-01-03T18:54:48.285Z",
   "items": [
+    {
+      "title": "Wenezuela nie będzie ostatnia? Donald Trump: on musi uważać na tyłek",
+      "link": "https://wiadomosci.onet.pl/swiat/wenezuela-nie-bedzie-ostatnia-donald-trump-on-musi-uwazac-na-tylek/2zqby2x",
+      "pubDate": "Sat, 03 Jan 2026 18:44:42 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "‘It’s impossible not to feel relief’: UK Venezuelans on Maduro’s capture",
+      "link": "https://www.theguardian.com/world/2026/jan/03/its-impossible-not-to-feel-relief-uk-venezuelans-on-maduros-capture",
+      "pubDate": "Sat, 03 Jan 2026 18:43:36 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Analysis: What does the fall of Venezuela's Maduro mean for Tehran?",
+      "link": "http://www.euronews.com/2026/01/03/analysis-what-does-the-fall-of-venezuelas-maduro-mean-for-tehran",
+      "pubDate": "Sat, 03 Jan 2026 19:39:19 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Who is Zelenskyy's new chief-of-staff, Kyrylo Budanov?",
+      "link": "https://www.dw.com/en/who-is-zelenskyy-s-new-chief-of-staff-kyrylo-budanov/a-75375476?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 3 Jan 2026 18:35:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Koniec spekulacji? Głośna kometa nie wygląda na dzieło \"Obcych\"",
       "link": "https://antyweb.pl/3iatlas-technosygnatury-badania",
@@ -42,6 +66,12 @@
       "link": "https://www.dw.com/en/ukraine-updates-trump-says-putin-killing-too-many-people/live-75373512?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 3 Jan 2026 18:26:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "\"Zmieniliśmy się w światowego tyrana\". Demokraci krytykują Trumpa",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-03/zmienilismy-sie-w-swiatowego-tyrana-demokraci-krytykuja-trumpa/",
+      "pubDate": "Sat, 03 Jan 2026 19:26:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Kolejny prezydent na celowniku USA? \"Musi uważać na swój tyłek\"",
@@ -35628,6 +35658,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -81156,15 +81210,9 @@
       "link": "https://wiadomosci.onet.pl/krakow/krakow-ma-nowego-metropolite-ingres-kardynala-grzegorza-rysia-zdjecia/ep9m7e2",
       "pubDate": "Sat, 20 Dec 2025 10:23:49 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Udany atak Ukraińców. Rosja straciła dwa myśliwce Su-27",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-udany-atak-ukraincow-rosja-stracila-dwa-mysliwce-su-27,nId,22501635",
-      "pubDate": "Sat, 20 Dec 2025 10:22:00 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 12327,
+  "totalArticles": 12332,
   "activeMonths": [
     "2026-01",
     "2025-12"
