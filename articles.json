@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-01-03T05:43:12.198Z",
+  "generatedAt": "2026-01-03T05:54:16.088Z",
   "items": [
+    {
+      "title": "Kanały muzyczne MTV przeszły do historii. Co oglądać w zamian?",
+      "link": "https://www.wirtualnemedia.pl/koniec-mtv-kanaly-muzyczne-nie-dziala-alternatywa-za-darmo-rozwiazanie-umowy,7238216823323136a",
+      "pubDate": "Sat, 03 Jan 2026 06:52:33 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Kierowca znanego boksera usłyszał zarzuty. Nowe fakty ws. tragicznego wypadku",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-kierowca-znanego-boksera-uslyszal-zarzuty-nowe-fakty-ws-trag,nId,8054993",
+      "pubDate": "Sat, 03 Jan 2026 06:47:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Kwartet\" zatrzyma Katarzynę Pełczyńską-Nałęcz? Rywale ministry zawarli sojusz",
+      "link": "https://wiadomosci.onet.pl/kraj/kwartet-zatrzyma-katarzyne-pelczynska-nalecz-rywale-ministry-zawarli-sojusz/yeqtkh0",
+      "pubDate": "Sat, 03 Jan 2026 05:45:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Donald Tusk blokuje reformę rynku pracy. Awantura na posiedzeniu rządu. Co dalej?",
+      "link": "https://businessinsider.com.pl/prawo/praca/koniec-z-reforma-pip-co-zamiast-kamienia-milowego-kpo/zzge8f6",
+      "pubDate": "Sat, 03 Jan 2026 05:44:43 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "\"Cały kwartał\" w ogniu. \"Zniszczenia są ogromne\"",
+      "link": "https://tvn24.pl/swiat/usa-potezny-pozar-placu-budowy-w-denver-nagranie-z-drona-st8828449?source=rss",
+      "pubDate": "Sat, 03 Jan 2026 05:43:09 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Przesuną całe miasto o 3 km. Powodem kopalnia. \"Żyjemy z minerałów\"",
+      "link": "https://biznes.interia.pl/energetyka/news-przesuna-cale-miasto-dom-po-domu-powodem-rozbudowa-kopalni-z,nId,22503363",
+      "pubDate": "Sat, 03 Jan 2026 05:40:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Tu porażkę poniósł i rząd PiS, i PO. Ryszard Florek o długiej liście niezałatwionych spraw [OPINIA]",
       "link": "https://www.money.pl/gospodarka/tu-porazke-poniosl-i-rzad-pis-i-po-ryszard-florek-o-dlugiej-liscie-niezalatwionych-spraw-opinia-7234181099809760a.html",
@@ -32544,6 +32580,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -77316,15 +77376,9 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-mikolaje-i-elfy-okradly-supermarket-lupy-zostawily-pod-choin,nId,8052348",
       "pubDate": "Sat, 20 Dec 2025 10:10:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Rosjanie ostrzelali most niedaleko Odessy. Jest nagranie",
-      "link": "https://tvn24.pl/swiat/rosjanie-ostrzelali-most-niedaleko-odessy-jest-nagranie-st8810795?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 09:07:41 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 11813,
+  "totalArticles": 11819,
   "activeMonths": [
     "2026-01",
     "2025-12"
