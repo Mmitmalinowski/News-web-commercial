@@ -1,6 +1,54 @@
 {
-  "generatedAt": "2026-01-04T14:14:06.333Z",
+  "generatedAt": "2026-01-04T14:34:50.915Z",
   "items": [
+    {
+      "title": "Intel złapał zadyszkę. AMD siedzi im na karku",
+      "link": "https://antyweb.pl/intel-zlapal-zadyszke-amd-siedzi-im-na-karku",
+      "pubDate": "Sun, 04 Jan 2026 14:30:06 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Papież Leon XIV zabrał głos po zatrzymaniu Nicolása Maduro, wskazał na suwerenność Wenezueli",
+      "link": "https://www.rp.pl/kosciol/art43590921-papiez-leon-xiv-zabral-glos-po-zatrzymaniu-nicolasa-maduro-wskazal-na-suwerennosc-wenezueli",
+      "pubDate": "Sun, 04 Jan 2026 15:29:04 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wyjechali na wakacje mimo ostrzeżeń. MSZ podało nowe informacje o Polakach",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-04/wyjechali-na-wakacje-mimo-ostrzezen-msz-podalo-nowe-informacje-o-polakach/",
+      "pubDate": "Sun, 04 Jan 2026 15:29:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Donald Trump i Pokojowa Nagroda Nobla? \"Utracił wszelkie szanse\"",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-trump-i-pokojowa-nagroda-nobla-utracil-wszelkie-szanse/hbkh1zr",
+      "pubDate": "Sun, 04 Jan 2026 14:24:03 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Unia Europejska znosi opłaty roamingowe dla dwóch krajów",
+      "link": "https://tvn24.pl/biznes/ze-swiata/unia-europejska-znosi-oplaty-roamingowe-dla-ukrainy-i-moldawii-st8830390?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 14:18:08 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Cilia Flores: kariera „pierwszej bojowniczki” Wenezueli",
+      "link": "https://kobieta.rp.pl/ludzie/art43590881-cilia-flores-kariera-pierwszej-bojowniczki-wenezueli",
+      "pubDate": "Sun, 04 Jan 2026 15:17:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Obiecujący rok dla mieszkalnictwa. O planach mówi Tomasz Lewandowski, wiceminister rozwoju",
+      "link": "https://businessinsider.com.pl/prawo/opinie/tomasz-lewandowski-ujawnia-plany-13-ustaw-do-wdrozenia/qh8644t",
+      "pubDate": "Sun, 04 Jan 2026 14:14:27 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "To miała być rewolucja w gastronomii. Restauracja Muska świeci pustkami",
+      "link": "https://businessinsider.com.pl/lifestyle/miala-byc-rewolucja-w-gastronomii-jest-klapa-restauracja-muska-swieci-pustkami/pfpjws5",
+      "pubDate": "Sun, 04 Jan 2026 14:13:05 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Korea Północna wystrzeliła pociski balistyczne. \"Nieregularne trajektorie\"",
       "link": "https://www.rmf24.pl/fakty/swiat/news-korea-polnocna-wystrzelila-pociski-balistyczne-nieregularne-,nId,8055315",
@@ -49016,6 +49064,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -84630,15 +84702,9 @@
       "link": "https://geekweek.interia.pl/militaria/news-niemcy-kupuja-drogie-wozy-bojowe-za-prawie-tyle-kupilismy-cz,nId,22501633",
       "pubDate": "Sat, 20 Dec 2025 11:45:08 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Przesyłki trafiają pod zły adres. Klienci skarżą się na znaną platformę ",
-      "link": "https://biznes.interia.pl/finanse/news-klienci-skarza-sie-na-problemy-z-dostawa-prezenty-trafiaja-p,nId,22500057",
-      "pubDate": "Sat, 20 Dec 2025 11:44:04 GMT",
-      "source": "Biznes.interia.pl"
     }
   ],
-  "totalArticles": 12750,
+  "totalArticles": 12758,
   "activeMonths": [
     "2026-01",
     "2025-12"
