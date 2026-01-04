@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-04T14:47:10.880Z",
+  "generatedAt": "2026-01-04T14:56:22.904Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68167,12 +68191,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/co-dalej-z-zamrozonymi-aktywami-kanclerz-merz-tych-pieniedzy-rosja-nie-odzyska/vrx0cz8",
       "pubDate": "Sat, 20 Dec 2025 11:46:27 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Szop wpadł przez sufit i ugryzł gościa hotelu",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-szop-wpadl-przez-sufit-i-ugryzl-goscia-hotelu-st8810877?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 11:45:08 GMT",
-      "source": "TVN24"
     }
   ]
 }
