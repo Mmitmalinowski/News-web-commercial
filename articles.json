@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T09:34:02.593Z",
+  "generatedAt": "2026-01-04T09:46:19.826Z",
   "items": [
+    {
+      "title": "To jeden z najpopularniejszych kurortów w Polsce. Wyprzedza Wisłę i Zakopane ",
+      "link": "https://biznes.interia.pl/finanse/news-to-jeden-z-najpopularniejszych-kurortow-wyprzedza-wisle-i-za,nId,22503824",
+      "pubDate": "Sun, 04 Jan 2026 09:44:05 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Afera w więzieniu w Goleniowie. \"Dzwoniły po kolegów, aby nie zostawać z nim sam na sam\"",
+      "link": "https://wiadomosci.onet.pl/szczecin/afera-w-wiezieniu-w-goleniowie-oskarzenia-o-mobbing-i-molestowanie/1yerxhl",
+      "pubDate": "Sun, 04 Jan 2026 09:43:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Senegal, Mali set up AFCON quarterfinal clash",
+      "link": "http://www.euronews.com/2026/01/04/senegal-mali-set-up-afcon-quarterfinal-clash",
+      "pubDate": "Sun, 04 Jan 2026 10:35:58 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Police identify 16 more victims of Swiss bar fire",
+      "link": "https://www.bbc.com/news/articles/c3vel0xvlvgo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 04 Jan 2026 09:35:27 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "\"Prawo dżungli\". Nowy porządek świata według Trumpa jest już rzeczywistością",
+      "link": "https://businessinsider.com.pl/wiadomosci/putinizacja-polityki-usa-i-prawo-dzungli-swiat-reaguje-na-amerykanski-atak-na/rp2zxvw",
+      "pubDate": "Sun, 04 Jan 2026 09:34:23 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Ćwiczenia wpływają nie tylko na kondycję. Naukowcy odkryli, że zmieniają też nerwy serca",
       "link": "https://android.com.pl/nauka/1004369-cwiczenia-kondycja-naukowcy-odkrycie/",
@@ -47618,6 +47648,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -83322,15 +83376,9 @@
       "link": "https://www.rp.pl/polityka/art43540891-kto-byl-najwiekszym-wygranym-i-przegranym-2025-roku-polacy-wskazali-w-sondazu",
       "pubDate": "Sat, 20 Dec 2025 12:04:41 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Europa musi zrozumieć, że te terminy nie są nieskończone\"",
-      "link": "https://tvn24.pl/biznes/ze-swiata/paragwaj-szef-msz-ruben-ramirez-lezcano-o-umowie-ue-mercosur-st8810889?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 11:03:12 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 12577,
+  "totalArticles": 12582,
   "activeMonths": [
     "2026-01",
     "2025-12"
