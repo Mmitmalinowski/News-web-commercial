@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-04T21:46:26.632Z",
+  "generatedAt": "2026-01-04T21:53:29.104Z",
   "items": [
     {
       "title": "Donald Trump \"potrzebuje\" Grenlandii. Jest odpowiedź premier Danii",
@@ -22,6 +22,12 @@
     {
       "title": "Tragedia w szwajcarskim kurorcie: Zakończyła się identyfikacja ofiar",
       "link": "https://www.rmf24.pl/fakty/swiat/news-tragedia-w-szwajcarskim-kurorcie-zakonczyla-sie-identyfikacj,nId,8055333",
+      "pubDate": "Sun, 04 Jan 2026 22:15:42 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tragedia w szwajcarskim kurorcie: Zidentyfikowano wszystkie ofiary pożaru",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tragedia-w-szwajcarskim-kurorcie-zidentyfikowano-wszystkie-o,nId,8055333",
       "pubDate": "Sun, 04 Jan 2026 22:15:42 +0100",
       "source": "RMF24"
     },
@@ -50840,6 +50846,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86292,15 +86322,9 @@
       "link": "https://tvn24.pl/bialystok/pozar-biebrzanskiego-parku-narodowego-prokuratura-umarza-sprawe-st8811003?source=rss",
       "pubDate": "Sat, 20 Dec 2025 12:30:33 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Rosja wzmacnia siły powietrzne dwoma bombowcami Tu-160M",
-      "link": "https://tech.wp.pl/rosja-wzmacnia-sily-powietrzne-dwoma-bombowcami-tu-160m,7234128815618560a",
-      "pubDate": "Sat, 20 Dec 2025 13:30:00 +0100",
-      "source": "Tech WP.pl"
     }
   ],
-  "totalArticles": 12946,
+  "totalArticles": 12947,
   "activeMonths": [
     "2026-01",
     "2025-12"
