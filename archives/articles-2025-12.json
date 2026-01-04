@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-04T04:01:45.871Z",
+  "generatedAt": "2026-01-04T04:54:54.081Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -67609,12 +67633,6 @@
       "link": "https://www.rp.pl/sady-i-trybunaly/art43540951-kolejne-klopoty-sedziego-przemyslawa-radzika-ruch-waldemara-zurka",
       "pubDate": "Sat, 20 Dec 2025 11:59:54 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "W tych regionach jest szansa na białe święta. Oto najnowsza prognoza",
-      "link": "https://wiadomosci.onet.pl/pogoda/te-regiony-pokryja-sie-sniegiem-w-sam-raz-w-wigilie-mamy-najnowsza-prognoze/3qgd0mx",
-      "pubDate": "Sat, 20 Dec 2025 10:58:06 GMT",
-      "source": "Onet"
     }
   ]
 }
