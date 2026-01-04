@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T21:53:29.104Z",
+  "generatedAt": "2026-01-04T22:12:33.057Z",
   "items": [
+    {
+      "title": "Linie lotnicze już liczą oszczędności. Ratunek przed zimą przyszedł z nieoczekiwanej strony",
+      "link": "https://www.chip.pl/2026/01/lotnictwo-zima-uratuje-zelator-dbs",
+      "pubDate": "Sun, 04 Jan 2026 22:01:51 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Tragiczny pożar baru w Szwajcarii. Policja zidentyfikowała wszystkie ofiary",
+      "link": "https://wiadomosci.onet.pl/swiat/tragiczny-pozar-baru-w-szwajcarii-policja-zidentyfikowala-wszystkie-ofiary/9pdz37h",
+      "pubDate": "Sun, 04 Jan 2026 21:58:25 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "EU calls for respect of international law as Trump remains vague on Venezuelan transition plan",
+      "link": "http://www.euronews.com/my-europe/2026/01/04/eu-calls-for-respect-of-international-law-as-trump-remains-vague-on-venezuelan-transition-",
+      "pubDate": "Sun, 04 Jan 2026 22:52:26 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Venezuelans under TPS can apply for refugee status, Kristi Noem says",
+      "link": "https://www.theguardian.com/us-news/2026/jan/04/kristi-noem-venezuela-leader-tps-refugee",
+      "pubDate": "Sun, 04 Jan 2026 21:51:27 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kolejny światłowód przerwany na Bałtyku. Służby przeszukują statek",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-04/kolejny-swiatlowod-przerwany-na-baltyku-sluzby-przeszukuja-statek/",
+      "pubDate": "Sun, 04 Jan 2026 22:47:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Donald Trump \"potrzebuje\" Grenlandii. Jest odpowiedź premier Danii",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-potrzebuje-grenlandii-jest-odpowiedz-premier-danii/097c7qy",
@@ -50870,6 +50900,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86316,15 +86370,9 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-morze-zmienilo-sie-w-krew-niezwykle-zjawisko-na-slynnej-plaz,nId,8052361",
       "pubDate": "Sat, 20 Dec 2025 13:31:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Spłonęły ponad 184 hektary parku narodowego. Sprawcy nie ma, prokuratura umorzyła śledztwo",
-      "link": "https://tvn24.pl/bialystok/pozar-biebrzanskiego-parku-narodowego-prokuratura-umarza-sprawe-st8811003?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 12:30:33 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 12947,
+  "totalArticles": 12952,
   "activeMonths": [
     "2026-01",
     "2025-12"
