@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-04T22:59:38.979Z",
+  "generatedAt": "2026-01-04T23:27:09.523Z",
   "items": [
+    {
+      "title": "Lider wenezuelskiej opozycji zabrał głos. \"Obalenie Maduro nie wystarczy\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-lider-wenezuelskiej-opozycji-zabral-glos-obalenie-maduro-nie,nId,22504972",
+      "pubDate": "Sun, 04 Jan 2026 23:13:39 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Radosław Sikorski o rozmowach pokojowych. \"To jest problem z dyktatorami\"",
+      "link": "https://wiadomosci.onet.pl/kraj/radoslaw-sikorski-o-rozmowach-pokojowych-to-jest-problem-z-dyktatorami/s00d219",
+      "pubDate": "Sun, 04 Jan 2026 23:03:09 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Podatkowy flesz - terminy, wskaźniki, stawki 5-12 stycznia 2026 r.",
+      "link": "https://pro.rp.pl/podatkowy-flesz/art43591951-podatkowy-flesz-terminy-wskazniki-stawki-5-12-stycznia-2026-r",
+      "pubDate": "Mon, 05 Jan 2026 00:01:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "W 2025 roku wzrosła przewaga \"Dzień dobry TVN\" nad \"Pytaniem na śniadanie\"",
       "link": "http://www.press.pl/tresc/91010,w-2025-roku-wzrosla-przewaga-_dzien-dobry-tvn_-nad-_pytaniem-na-sniadanie_?rss=1",
@@ -51032,6 +51050,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86454,15 +86496,9 @@
       "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sat, 20 Dec 2025 12:44:18 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Śmierć Polaka w Holandii. Sprawca usłyszał wyrok",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-smierc-polaka-w-holandii-sprawca-uslyszal-wyrok,nId,22501659",
-      "pubDate": "Sat, 20 Dec 2025 12:41:37 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 12958,
+  "totalArticles": 12961,
   "activeMonths": [
     "2026-01",
     "2025-12"
