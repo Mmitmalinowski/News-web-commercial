@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-04T23:27:09.523Z",
+  "generatedAt": "2026-01-04T23:41:54.409Z",
   "items": [
+    {
+      "title": "Evangeline Lilly reveals she has brain damage after hitting her head in fall",
+      "link": "https://www.theguardian.com/film/2026/jan/05/evangeline-lilly-brain-damage-beach-fall",
+      "pubDate": "Sun, 04 Jan 2026 23:29:32 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Switzerland bar fire: All victims of New Year's fire identified",
+      "link": "https://www.dw.com/en/switzerland-bar-fire-all-victims-of-new-year-s-fire-identified/a-75387162?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 4 Jan 2026 23:26:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Lider wenezuelskiej opozycji zabrał głos. \"Obalenie Maduro nie wystarczy\"",
       "link": "https://wydarzenia.interia.pl/zagranica/news-lider-wenezuelskiej-opozycji-zabral-glos-obalenie-maduro-nie,nId,22504972",
@@ -51074,6 +51086,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86490,15 +86526,9 @@
       "link": "https://www.rp.pl/gospodarka/art43541081-banku-rosji-prezent-pod-choinke-ale-jest-i-rozga",
       "pubDate": "Sat, 20 Dec 2025 13:45:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Who and what are in the Epstein files?",
-      "link": "https://www.bbc.com/news/articles/c8r38ne1x2mo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sat, 20 Dec 2025 12:44:18 GMT",
-      "source": "BBC News"
     }
   ],
-  "totalArticles": 12961,
+  "totalArticles": 12963,
   "activeMonths": [
     "2026-01",
     "2025-12"
