@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T09:46:19.826Z",
+  "generatedAt": "2026-01-04T09:55:13.100Z",
   "items": [
+    {
+      "title": "Nie żyje Anna Kurek ps. Anka. Sanitariuszka powstania warszawskiego miała 96 lat",
+      "link": "https://wiadomosci.onet.pl/kraj/nie-zyje-anna-kurek-ps-anka-sanitariuszka-powstania-warszawskiego-miala-96-lat/56rw7fq",
+      "pubDate": "Sun, 04 Jan 2026 09:51:24 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zima w Amsterdamie. KLM odwołał prawie 300 lotów, w tym do Polski. Co z rejsami LOT-u?",
+      "link": "https://turystyka.rp.pl/lotniska/art43590541-zima-w-amsterdamie-klm-odwolal-prawie-300-lotow-w-tym-do-polski-co-z-rejsami-lot-u",
+      "pubDate": "Sun, 04 Jan 2026 10:50:20 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kto był zwycięzcą polskiej polityki w 2025 r.? Polacy odpowiedzieli w sondażu",
+      "link": "https://wydarzenia.interia.pl/kraj/news-kto-byl-zwyciezca-polskiej-polityki-w-2025-r-polacy-odpowied,nId,22504837",
+      "pubDate": "Sun, 04 Jan 2026 09:49:40 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Wielki plan Trumpa nie wypalił. \"To jest niemożliwe i się nie uda\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-wielki-plan-trumpa-nie-wypalil-to-jest-niemozliwe-i-sie-nie,nId,22504844",
+      "pubDate": "Sun, 04 Jan 2026 09:49:06 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Jechali na komisariat. Nie żyje policjantka",
+      "link": "https://tvn24.pl/olsztyn/piecki-w-wypadku-zginela-35-letnia-policjantka-sierzant-klaudia-nasiadko-st8830018?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 09:44:10 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "To jeden z najpopularniejszych kurortów w Polsce. Wyprzedza Wisłę i Zakopane ",
       "link": "https://biznes.interia.pl/finanse/news-to-jeden-z-najpopularniejszych-kurortow-wyprzedza-wisle-i-za,nId,22503824",
@@ -47672,6 +47702,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -83370,15 +83424,9 @@
       "link": "https://www.bankier.pl/wiadomosc/Wulgarne-hasla-i-czerwona-farba-na-polskim-konsulacie-Sikorski-Nasza-polityka-jest-skuteczna-9059196.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 20 Dec 2025 12:11:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Kto był największym wygranym i przegranym 2025 roku. Polacy wskazali w sondażu",
-      "link": "https://www.rp.pl/polityka/art43540891-kto-byl-najwiekszym-wygranym-i-przegranym-2025-roku-polacy-wskazali-w-sondazu",
-      "pubDate": "Sat, 20 Dec 2025 12:04:41 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 12582,
+  "totalArticles": 12587,
   "activeMonths": [
     "2026-01",
     "2025-12"
