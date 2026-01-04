@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T13:44:39.840Z",
+  "generatedAt": "2026-01-04T13:54:25.420Z",
   "items": [
+    {
+      "title": "Ta nacja zarabia w Niemczech najwięcej. Wykonują prestiżowe zawody",
+      "link": "https://biznes.interia.pl/gospodarka/news-zarabiaja-najwiecej-wsrod-obcokrajowcow-w-niemczech-ciagna-w,nId,22504884",
+      "pubDate": "Sun, 04 Jan 2026 13:52:33 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Korea Północna reaguje. \"Zbójecka natura USA\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-korea-polnocna-reaguje-zbojecka-natura-usa,nId,8055314",
+      "pubDate": "Sun, 04 Jan 2026 14:50:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Ropy na świecie nie zabraknie. OPEC+ nie spowolni wydobycia",
+      "link": "https://energia.rp.pl/ropa/art43590851-ropy-na-swiecie-nie-zabraknie-opec-nie-spowolni-wydobycia",
+      "pubDate": "Sun, 04 Jan 2026 14:47:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Najbardziej znienawidzony fotoradar w Polsce zniszczony po raz trzeci",
+      "link": "https://zyciewarszawy.pl/aktualnosci/art43590401-najbardziej-znienawidzony-fotoradar-w-polsce-zniszczony-po-raz-trzeci-problemem-rygorystyczne-ograniczenie",
+      "pubDate": "Sun, 04 Jan 2026 14:45:21 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dramatyczna akcja ratunkowa na Bałtyku. Działania utrudniały warunki pogodowe",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/dramatyczna-akcja-ratunkowa-na-baltyku-dzialania-utrudnialy-warunki-pogodowe/7y75rf9",
+      "pubDate": "Sun, 04 Jan 2026 13:43:40 GMT",
+      "source": "Onet"
+    },
     {
       "title": "\"To może być punkt zwrotny\". Nowa geopolityczna układanka Donalda Trumpa. Chiny zwietrzyły szansę",
       "link": "https://wiadomosci.onet.pl/politico/punkt-zwrotny-nowa-geopolityczna-ukladanka-trumpa-chiny-zwietrzyly-szanse/bswdz52",
@@ -48866,6 +48896,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -84492,15 +84546,9 @@
       "link": "https://tvn24.pl/swiat/ukraincy-ostrzelali-lotnisko-na-krymie-mysliwce-trafione-st8811002?source=rss",
       "pubDate": "Sat, 20 Dec 2025 11:41:45 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Who's working over Christmas?",
-      "link": "https://www.dw.com/en/who-s-working-over-christmas/a-75246315?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 11:40:00 GMT",
-      "source": "DW"
     }
   ],
-  "totalArticles": 12733,
+  "totalArticles": 12738,
   "activeMonths": [
     "2026-01",
     "2025-12"
