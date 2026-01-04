@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-04T17:37:29.210Z",
+  "generatedAt": "2026-01-04T17:48:17.214Z",
   "items": [
+    {
+      "title": "Masz Garmina? Ten niewielki gadżet może uratować Twój trening",
+      "link": "https://www.tabletowo.pl/phelinta-garmin-przenosna-ladowarka-powerbank/",
+      "pubDate": "Sun, 04 Jan 2026 17:46:00 +0000",
+      "source": "Tabletowo"
+    },
     {
       "title": "Girls aged 14 and 15 among 24 victims of Crans-Montana fire identified",
       "link": "https://www.theguardian.com/world/2026/jan/04/crans-montana-fire-victims-identified-silent-procession",
@@ -49934,6 +49940,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85476,15 +85506,9 @@
       "link": "http://www.euronews.com/2025/12/20/turkmenistans-30-years-of-permanent-neutrality",
       "pubDate": "Sat, 20 Dec 2025 13:00:39 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Christmas ads put on a diet as UK ban on TV junk food advertising bites",
-      "link": "https://www.theguardian.com/business/2025/dec/20/uk-ad-ban-tv-junk-food",
-      "pubDate": "Sat, 20 Dec 2025 12:00:30 GMT",
-      "source": "The Guardian"
     }
   ],
-  "totalArticles": 12855,
+  "totalArticles": 12856,
   "activeMonths": [
     "2026-01",
     "2025-12"
