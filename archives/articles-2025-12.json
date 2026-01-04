@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-04T19:27:09.932Z",
+  "generatedAt": "2026-01-04T19:38:26.833Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68455,12 +68479,6 @@
       "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-ai-zmienia-swiat-ale-po-cichu-zuzywa-wode-i-energie-jak-metr,nId,22500180",
       "pubDate": "Sat, 20 Dec 2025 12:15:04 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "To ma być wkrótce lotnisko nr 3 w Polsce. Właśnie otwiera nową erę lotów",
-      "link": "https://businessinsider.com.pl/wiadomosci/zjednoczone-emiraty-arabskie-z-modlina-to-moze-byc-lotnisko-nr-3-w-polsce/w5fzhhj",
-      "pubDate": "Sat, 20 Dec 2025 12:11:01 GMT",
-      "source": "Business Insider"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-04T19:27:10.227Z",
+  "generatedAt": "2026-01-04T19:38:27.118Z",
   "items": [
     {
       "title": "Wybierasz się do Gruzji? Nowy wymóg wobec turystów",
@@ -24,6 +24,12 @@
       "link": "https://www.rmf24.pl/regiony/trojmiasto/news-atak-zimy-na-pomorzu-zasypanych-wiele-drog-jest-apel-policji,nId,8055328",
       "pubDate": "Sun, 04 Jan 2026 20:20:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "\"Wzywamy wszystkie strony\". Oświadczenie państw UE ws. Wenezueli",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-04/wzywamy-wszystkie-strony-oswiadczenie-panstw-ue-ws-wenezueli/",
+      "pubDate": "Sun, 04 Jan 2026 20:20:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Auschwitz survivor Eva Schloss dies aged 96 as King Charles leads tributes",
@@ -50426,6 +50432,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85932,15 +85962,9 @@
       "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-ai-zmienia-swiat-ale-po-cichu-zuzywa-wode-i-energie-jak-metr,nId,22500180",
       "pubDate": "Sat, 20 Dec 2025 12:15:04 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "To ma być wkrótce lotnisko nr 3 w Polsce. Właśnie otwiera nową erę lotów",
-      "link": "https://businessinsider.com.pl/wiadomosci/zjednoczone-emiraty-arabskie-z-modlina-to-moze-byc-lotnisko-nr-3-w-polsce/w5fzhhj",
-      "pubDate": "Sat, 20 Dec 2025 12:11:01 GMT",
-      "source": "Business Insider"
     }
   ],
-  "totalArticles": 12913,
+  "totalArticles": 12914,
   "activeMonths": [
     "2026-01",
     "2025-12"
