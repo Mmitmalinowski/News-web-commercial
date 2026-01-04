@@ -1,6 +1,60 @@
 {
-  "generatedAt": "2026-01-04T11:08:30.876Z",
+  "generatedAt": "2026-01-04T11:27:21.681Z",
   "items": [
+    {
+      "title": "Nowe ustalenia w sprawie tragicznego pożaru w Szwajcarii. \"Wieloletnie zaniedbania\"",
+      "link": "https://wiadomosci.onet.pl/swiat/nowe-ustalenia-w-sprawie-tragicznego-pozaru-w-szwajcarii-wieloletnie-zaniedbania/q4fyp1g",
+      "pubDate": "Sun, 04 Jan 2026 11:24:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Czy OLED to najlepszy wybór? Dlaczego panel OLED wciąż nie rządzi w VR i handheldach?",
+      "link": "https://www.chip.pl/2026/01/czy-oled-to-najlepszy-wybor",
+      "pubDate": "Sun, 04 Jan 2026 11:21:22 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Greek aviation disrupted by radio communication issues",
+      "link": "https://www.dw.com/en/greek-aviation-disrupted-by-radio-communication-issues/a-75383839?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 4 Jan 2026 11:17:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Starbucks zmienia strategię. Kawiarnie znikają z ulic największych miast",
+      "link": "https://businessinsider.com.pl/gospodarka/starbucks-zamyka-setki-kawiarnii-w-usa-teraz-bedzie-atakowal-przedmiescia/vl24rsb",
+      "pubDate": "Sun, 04 Jan 2026 11:14:52 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Bogusław Chrabota: Noworoczna tragedia w Crans-Montana dużo nam mówi o tzw. pokoleniu alfa",
+      "link": "https://www.rp.pl/komentarze/art43590591-boguslaw-chrabota-noworoczna-tragedia-w-crans-montana-duzo-nam-mowi-o-tzw-pokoleniu-alfa",
+      "pubDate": "Sun, 04 Jan 2026 12:14:01 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "ChatGPT zaprzeczał inwazji na Wenezuelę. Zagubiona sztuczna inteligencja",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43590601-chatgpt-zaprzeczal-inwazji-na-wenezuele-zagubiona-sztuczna-inteligencja",
+      "pubDate": "Sun, 04 Jan 2026 12:12:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dezinformacja, deepfake i kłamstwa AI. Reakcje internetu po ataku USA na Wenezuelę",
+      "link": "https://android.com.pl/tech/1006336-dezinformacja-atak-usa-na-wenezuele/",
+      "pubDate": "Sun, 04 Jan 2026 11:12:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Wysłali mysz w kosmos. Teraz urodziła małe myszki",
+      "link": "https://geekweek.interia.pl/nauka/news-wyslali-mysz-w-kosmos-teraz-urodzila-male-myszki,nId,22504835",
+      "pubDate": "Sun, 04 Jan 2026 11:10:14 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Szukali go od ponad roku. \"Łowcy głów\" wytropili go w Holandii",
+      "link": "https://tvn24.pl/lublin/powiat-hrubieszowski-szukali-go-od-ponad-roku-wpadl-w-holandii-wysledzili-go-lowcy-glow-st8830254?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 11:05:37 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "British and French warplanes strike suspected IS weapons facility in Syria",
       "link": "http://www.euronews.com/2026/01/04/british-and-french-warplanes-strike-suspected-is-weapons-facility-in-syria",
@@ -258,6 +312,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/nie-zyje-anna-kurek-ps-anka-sanitariuszka-powstania-warszawskiego-miala-96-lat/56rw7fq",
       "pubDate": "Sun, 04 Jan 2026 09:51:24 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "‘It has hit us very hard’: grief grips Crans-Montana as police identify more victims",
+      "link": "https://www.theguardian.com/world/2026/jan/04/it-has-hit-us-very-hard-grief-stricken-crans-montana-residents-on-how-their-world-has-changed-forever",
+      "pubDate": "Sun, 04 Jan 2026 09:51:14 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Zima w Amsterdamie. KLM odwołał prawie 300 lotów, w tym do Polski. Co z rejsami LOT-u?",
@@ -1062,6 +1122,12 @@
       "link": "https://spidersweb.pl/2026/01/pentagon-przeszkoli-polskie-lotnictwo-wsparcie.html",
       "pubDate": "Sun, 04 Jan 2026 07:10:29 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Kłopoty z wymuszoną wdzięcznością. Od pornografii do zawiści [CZARNACKA]",
+      "link": "https://oko.press/klopoty-z-wdziecznoscia-od-pornografii-do-zawisci",
+      "pubDate": "Sun, 04 Jan 2026 06:08:11 +0000",
+      "source": "OKO.press"
     },
     {
       "title": "Transnarodowe represje – niewidzialny problem. Jak Europa wydaje opozycjonistów autorytarnym reżimom",
@@ -48080,6 +48146,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -83748,15 +83838,9 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/piaseczno-oszustwo-na-przesylke-za-pobraniem-kobieta-stracila-pieniadze-st8810256?source=rss",
       "pubDate": "Sat, 20 Dec 2025 11:27:19 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Ukraińcy zniszczyli rosyjski myśliwiec. Ruszał w lot bojowy",
-      "link": "https://wiadomosci.onet.pl/swiat/ukraincy-zniszczyli-rosyjski-mysliwiec-ruszal-w-lot-bojowy/ceqjz43",
-      "pubDate": "Sat, 20 Dec 2025 11:18:18 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 12630,
+  "totalArticles": 12641,
   "activeMonths": [
     "2026-01",
     "2025-12"
