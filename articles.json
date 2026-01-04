@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-04T20:53:42.326Z",
+  "generatedAt": "2026-01-04T21:12:03.547Z",
   "items": [
+    {
+      "title": "Monopol Google’a pękł. Kto podbija rynek wyszukiwarek?",
+      "link": "https://cyfrowa.rp.pl/globalne-interesy/art43590961-monopol-google-a-pekl-kto-podbija-rynek-wyszukiwarek",
+      "pubDate": "Sun, 04 Jan 2026 22:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Protests erupt in US cities over Trump’s military intervention in Venezuela",
+      "link": "https://www.theguardian.com/world/2026/jan/04/venezuela-trump-protests-us-cities",
+      "pubDate": "Sun, 04 Jan 2026 21:02:50 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kolejne uszkodzenie podwodnego kabla na Bałtyku. Premier Łotwy reaguje",
+      "link": "https://wiadomosci.onet.pl/swiat/kolejne-uszkodzenie-podwodnego-kabla-na-baltyku-premier-lotwy-zabrala-glos/z6g8mj9",
+      "pubDate": "Sun, 04 Jan 2026 20:53:32 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Te kraje krytykują działania USA w Wenezueli. Wydano komunikat",
       "link": "https://tvn24.pl/swiat/te-kraje-krytykuja-dzialania-usa-w-wenezueli-wydano-komunikat-st8831014?source=rss",
@@ -50714,6 +50732,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86184,15 +86226,9 @@
       "link": "https://android.com.pl/tech/1003223-samsung-w-one-ui-8-5-poprawi-aparat/",
       "pubDate": "Sat, 20 Dec 2025 12:29:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Opublikowano nowe dokumenty ws. Epsteina. Tysiące stron materiałów",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/opublikowano-tysiace-dokumentow-ws-epsteina-departament-sprawiedliwosci-usa-odtajnil-materialy/",
-      "pubDate": "Sat, 20 Dec 2025 13:28:00 +0100",
-      "source": "Polsat News"
     }
   ],
-  "totalArticles": 12937,
+  "totalArticles": 12940,
   "activeMonths": [
     "2026-01",
     "2025-12"
