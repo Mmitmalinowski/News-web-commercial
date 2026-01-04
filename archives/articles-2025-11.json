@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-04T16:22:55.324Z",
+  "generatedAt": "2026-01-04T16:44:57.030Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -95469,6 +95469,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -152865,6 +152889,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -160825,18 +160873,6 @@
       "link": "http://www.euronews.com/business/2025/11/26/uk-budget-raises-taxes-by-26bn-gaining-investor-approval-after-surprise-leak",
       "pubDate": "Wed, 26 Nov 2025 16:33:45 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Zamach stanu w Gwinei Bissau. Prezydent został aresztowany",
-      "link": "https://wiadomosci.onet.pl/swiat/zamach-stanu-w-gwinei-bissau-prezydent-zostal-aresztowany/lhcp7xj",
-      "pubDate": "Wed, 26 Nov 2025 15:32:56 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rosyjski sposób na auta, których klienci nie chcą. Czy szef Gazpromu pojedzie Ładą?",
-      "link": "https://www.rp.pl/biznes/art43404151-rosyjski-sposob-na-auta-ktorych-klienci-nie-chca-czy-szef-gazpromu-pojedzie-lada",
-      "pubDate": "Wed, 26 Nov 2025 16:31:41 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
