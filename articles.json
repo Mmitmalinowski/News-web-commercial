@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T11:39:13.911Z",
+  "generatedAt": "2026-01-04T11:48:30.278Z",
   "items": [
+    {
+      "title": "Kolejny, wielki sukces Beyoncé. Tym razem nie muzyczny",
+      "link": "https://biznes.interia.pl/gospodarka/news-beyonce-nowa-miliarderka-przede-wszystkim-dzieki-dwom-trasom,nId,22504159",
+      "pubDate": "Sun, 04 Jan 2026 11:44:01 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Wielka awaria lotnicza w Grecji. Loty odwołane i opóźnione",
+      "link": "https://www.rp.pl/transport/art43590661-wielka-awaria-lotnicza-w-grecji-loty-odwolane-i-opoznione",
+      "pubDate": "Sun, 04 Jan 2026 12:43:54 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Adidas sponsorem reprezentacji Polski w koszykówce",
+      "link": "https://www.wirtualnemedia.pl/adidas-sponsorem-reprezentacji-polski-w-koszykowce,7239784702589440a",
+      "pubDate": "Sun, 04 Jan 2026 12:43:06 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "2 godziny i 20 minut. Kulisy operacji \"Absolute Resolve\"",
+      "link": "https://tvn24.pl/swiat/nicolas-maduro-schwytany-przez-usa-kulisy-operacji-przeciwko-dyktatorowi-st8830314?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 11:38:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zużycie węgla jest stabilne. Do końca dekady może się trochę zmienić",
+      "link": "https://businessinsider.com.pl/gospodarka/globalne-zuzycie-wegla-osiagnelo-szczyt-eksperci-przewiduja-odwrot-trendu/r3qwyfm",
+      "pubDate": "Sun, 04 Jan 2026 11:37:20 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Francja ma już wszystkiego dość. Macron ma rekordowo niskie poparcie",
       "link": "https://www.rp.pl/polityka/art43587311-francja-ma-juz-wszystkiego-dosc-macron-ma-rekordowo-niskie-poparcie",
@@ -24,6 +54,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-paraliz-lotnisk-w-calej-grecji-odwolane-loty-nieokreslone-pr,nId,22504868",
       "pubDate": "Sun, 04 Jan 2026 11:32:28 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Demokraci domagają się autoryzacji Kongresu dla operacji w Wenezueli [TEKST AKTUALIZOWANY]",
+      "link": "https://oko.press/demokraci-domagaja-sie-autoryzacji-kongresu-dla-operacji-w-wenezueli",
+      "pubDate": "Sun, 04 Jan 2026 11:32:20 +0000",
+      "source": "OKO.press"
     },
     {
       "title": "Jak mieszkają Europejczycy? Polacy blisko czołówki pod względem własności",
@@ -48260,6 +48296,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -83916,15 +83976,9 @@
       "link": "https://www.bankier.pl/wiadomosc/Polacy-zadowoleni-ze-swojej-sytuacji-materialnej-CBOS-Najwiecej-w-historii-pomiarow-9058608.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 20 Dec 2025 12:34:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Atak na polski konsulat w Brukseli. Jest reakcja Radosława Sikorskiego",
-      "link": "https://wiadomosci.onet.pl/kraj/atak-na-polski-konsulat-w-brukseli-jest-reakcja-radoslawa-sikorskiego/wxq224n",
-      "pubDate": "Sat, 20 Dec 2025 11:32:53 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 12652,
+  "totalArticles": 12658,
   "activeMonths": [
     "2026-01",
     "2025-12"
