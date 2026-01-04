@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-04T21:31:12.750Z",
+  "generatedAt": "2026-01-04T21:46:26.632Z",
   "items": [
+    {
+      "title": "Donald Trump \"potrzebuje\" Grenlandii. Jest odpowiedź premier Danii",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-potrzebuje-grenlandii-jest-odpowiedz-premier-danii/097c7qy",
+      "pubDate": "Sun, 04 Jan 2026 21:38:05 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Nowe informacje po tragedii w Szwajcarii. Zidentyfikowano ofiary pożaru",
       "link": "https://wydarzenia.interia.pl/zagranica/news-nowe-informacje-po-tragedii-w-szwajcarii-zidentyfikowano-ofi,nId,22504966",
@@ -72,6 +78,12 @@
       "link": "https://www.rmf24.pl/regiony/szczecin/news-odpalili-fajerwerki-w-sklepie-by-ukrasc-kontroler-policja-pu,nId,8055332",
       "pubDate": "Sun, 04 Jan 2026 21:37:34 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Berlin. Po pożarze dziesiątki tysięcy mieszkań bez prądu. Do podpalenia przyznała się Vulkangruppe",
+      "link": "https://www.rp.pl/przestepczosc/art43591891-berlin-po-pozarze-dziesiatki-tysiecy-mieszkan-bez-pradu-do-podpalenia-przyznala-sie-vulkangruppe",
+      "pubDate": "Sun, 04 Jan 2026 21:35:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "US ‘running’ Venezuela now seems less likely but second intervention possible",
@@ -50804,6 +50816,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86262,15 +86298,9 @@
       "link": "https://tech.wp.pl/rosja-wzmacnia-sily-powietrzne-dwoma-bombowcami-tu-160m,7234128815618560a",
       "pubDate": "Sat, 20 Dec 2025 13:30:00 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Pierwsza homilia nowego metropolity krakowskiego. Kard. Ryś: najpierw trzeba zobaczyć Kościół pełen łaski",
-      "link": "https://wiadomosci.onet.pl/krakow/pierwsza-homilia-nowego-metropolity-krakowskiego-kard-rys-najpierw-trzeba-zobaczyc/w3f5yk3",
-      "pubDate": "Sat, 20 Dec 2025 12:29:06 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 12944,
+  "totalArticles": 12946,
   "activeMonths": [
     "2026-01",
     "2025-12"
