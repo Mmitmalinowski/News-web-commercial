@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-04T23:41:54.409Z",
+  "generatedAt": "2026-01-04T23:52:20.184Z",
   "items": [
+    {
+      "title": "High tides and heavy rain flood parts of California’s Bay Area",
+      "link": "https://www.theguardian.com/us-news/2026/jan/04/rain-flooding-california-bay-area",
+      "pubDate": "Sun, 04 Jan 2026 23:41:30 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Evangeline Lilly reveals she has brain damage after hitting her head in fall",
       "link": "https://www.theguardian.com/film/2026/jan/05/evangeline-lilly-brain-damage-beach-fall",
@@ -51110,6 +51116,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86520,15 +86550,9 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-radoslaw-sikorski-reaguje-na-informacje-rmf-fm-ws-ataku-na-p,nId,8052360",
       "pubDate": "Sat, 20 Dec 2025 13:46:08 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Banku Rosji prezent pod choinkę. Ale jest i rózga",
-      "link": "https://www.rp.pl/gospodarka/art43541081-banku-rosji-prezent-pod-choinke-ale-jest-i-rozga",
-      "pubDate": "Sat, 20 Dec 2025 13:45:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 12963,
+  "totalArticles": 12964,
   "activeMonths": [
     "2026-01",
     "2025-12"
