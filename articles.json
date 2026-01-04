@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-04T22:49:59.334Z",
+  "generatedAt": "2026-01-04T22:59:38.979Z",
   "items": [
+    {
+      "title": "W 2025 roku wzrosła przewaga \"Dzień dobry TVN\" nad \"Pytaniem na śniadanie\"",
+      "link": "http://www.press.pl/tresc/91010,w-2025-roku-wzrosla-przewaga-_dzien-dobry-tvn_-nad-_pytaniem-na-sniadanie_?rss=1",
+      "pubDate": "Sun, 04 Jan 2026 23:55:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Relacja reportera \"Faktów\" z Kolumbii. \"Było słychać okrzyki trzymilionowej diaspory Wenezuelczyków\"",
+      "link": "https://tvn24.pl/swiat/kolumbia-relacja-reportera-faktow-z-kolumbii-bylo-slychac-okrzyki-trzymilionowej-diaspory-wenezuelczykow-st8831035?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 22:51:13 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "UK’s plans to seize asylum seekers’ phones condemned by campaigners",
       "link": "https://www.theguardian.com/uk-news/2026/jan/04/uk-plans-seize-asylum-seekers-phones-condemned-campaigners",
@@ -50996,6 +51008,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86424,15 +86460,9 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-smierc-polaka-w-holandii-sprawca-uslyszal-wyrok,nId,22501659",
       "pubDate": "Sat, 20 Dec 2025 12:41:37 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Meta zarabia krocie na oszustwach i skarży się na regulacje Unii Europejskiej",
-      "link": "https://oko.press/meta-krocie-na-oszustwach-i-skarzy-sie-na-regulacje-ue",
-      "pubDate": "Sat, 20 Dec 2025 12:40:08 +0000",
-      "source": "OKO.press"
     }
   ],
-  "totalArticles": 12956,
+  "totalArticles": 12958,
   "activeMonths": [
     "2026-01",
     "2025-12"
