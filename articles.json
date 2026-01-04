@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-04T20:42:14.260Z",
+  "generatedAt": "2026-01-04T20:53:42.326Z",
   "items": [
+    {
+      "title": "Te kraje krytykują działania USA w Wenezueli. Wydano komunikat",
+      "link": "https://tvn24.pl/swiat/te-kraje-krytykuja-dzialania-usa-w-wenezueli-wydano-komunikat-st8831014?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 20:45:27 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Odwołane loty, utrudnienia na kolei. Atak zimy paraliżuje Holandię",
       "link": "https://wiadomosci.onet.pl/swiat/odwolane-loty-utrudnienia-na-kolei-atak-zimy-paralizuje-holandie/tbvtbbv",
@@ -50684,6 +50690,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86160,15 +86190,9 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/opublikowano-tysiace-dokumentow-ws-epsteina-departament-sprawiedliwosci-usa-odtajnil-materialy/",
       "pubDate": "Sat, 20 Dec 2025 13:28:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Prezydent Karol Nawrocki powoła Radę ds. Naprawy Ustroju Państwa",
-      "link": "https://wydarzenia.interia.pl/kraj/news-karol-nawrocki-powola-rade-ds-naprawy-ustroju-panstwa-prezyd,nId,22501652",
-      "pubDate": "Sat, 20 Dec 2025 12:25:00 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 12936,
+  "totalArticles": 12937,
   "activeMonths": [
     "2026-01",
     "2025-12"
