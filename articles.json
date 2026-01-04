@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-04T19:38:27.118Z",
+  "generatedAt": "2026-01-04T19:47:56.496Z",
   "items": [
     {
       "title": "Wybierasz się do Gruzji? Nowy wymóg wobec turystów",
@@ -702,6 +702,12 @@
       "link": "https://tvn24.pl/swiat/wenezuela-nicolas-maduro-pojmany-przez-usa-politycy-o-znaczeniu-tej-decyzji-dla-polski-st8830413?source=rss",
       "pubDate": "Sun, 04 Jan 2026 15:18:40 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Szef MSZ Francji: świat będzie coraz bardziej brutalny",
+      "link": "https://www.bankier.pl/wiadomosc/Szef-MSZ-Francji-swiat-bedzie-coraz-bardziej-brutalny-9063763.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 4 Jan 2026 16:16:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Bowen: Trump's action could set precedent for authoritarian powers across globe",
@@ -50456,6 +50462,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85956,15 +85986,9 @@
       "link": "https://antyweb.pl/koniec-ze-wzrostem-cen-ram-samsung-ma-pomysl",
       "pubDate": "Sat, 20 Dec 2025 12:15:26 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Mało kto liczy ten koszt. AI zużywa wodę i energię na ogromną skalę",
-      "link": "https://geekweek.interia.pl/technologia/sztuczna-inteligencja/news-ai-zmienia-swiat-ale-po-cichu-zuzywa-wode-i-energie-jak-metr,nId,22500180",
-      "pubDate": "Sat, 20 Dec 2025 12:15:04 GMT",
-      "source": "GeekWeek"
     }
   ],
-  "totalArticles": 12914,
+  "totalArticles": 12915,
   "activeMonths": [
     "2026-01",
     "2025-12"
