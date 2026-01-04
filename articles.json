@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-04T16:44:57.242Z",
+  "generatedAt": "2026-01-04T16:57:08.242Z",
   "items": [
+    {
+      "title": "Ważna informacja dla pasażerów kolei. Zdecydowany ruch PKP Intercity",
+      "link": "https://www.rmf24.pl/fakty/polska/news-wazna-informacja-dla-pasazerow-kolei-zdecydowany-ruch-pkp-in,nId,8055321",
+      "pubDate": "Sun, 04 Jan 2026 17:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tylko kreatywna destrukcja zwiększy konkurencyjność Europy [OPINIA]",
+      "link": "https://www.money.pl/gospodarka/tylko-kreatywna-destrukcja-zwiekszy-konkurencyjnosc-europy-opinia-7238728982670304a.html",
+      "pubDate": "Sun, 04 Jan 2026 17:48:52 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Marco Rubio oburzony pytaniem w sprawie Wenezueli. \"To absurd\"",
+      "link": "https://wiadomosci.onet.pl/swiat/marco-rubio-oburzony-pytaniem-w-sprawie-wenezueli-to-absurd/045h82x",
+      "pubDate": "Sun, 04 Jan 2026 16:44:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Figurka z szopki zawisła na stryczku. \"To była lalka tylko imitująca Jezuska\"",
+      "link": "https://wiadomosci.onet.pl/wroclaw/lalka-z-szopki-zawisla-na-sznurze-uczucia-religijne-nie-zostaly-obrazone/ggx8bc8",
+      "pubDate": "Sun, 04 Jan 2026 16:43:26 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Skazana położna, \"pośredniczka\" w adopcji, \"potwór nieprawości\". Historia Elisabeth Wiese",
+      "link": "https://tvn24.pl/ciekawostki/historia-elisabeth-wiese-skazano-ja-za-smierc-pieciorga-dzieci-st8803433?source=rss",
+      "pubDate": "Sun, 04 Jan 2026 16:42:07 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Marco Rubio wskazuje kolejny cel USA. \"Ten kraj jest w dużych tarapatach\"",
       "link": "https://wiadomosci.onet.pl/swiat/marco-rubio-wskazuje-kolejny-cel-usa-ten-kraj-jest-w-duzych-tarapatach/6ce8cwp",
@@ -49736,6 +49766,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85296,15 +85350,9 @@
       "link": "https://wiadomosci.onet.pl/swiat/naruszyl-najbardziej-intymna-sfere-zycia-zony-niemiecki-sad-wydal-wyrok/09q5pxf",
       "pubDate": "Sat, 20 Dec 2025 11:59:23 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Czym jest dom? Historia przetrwania i siły rodziny pani Marty z Sieprawia",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-czym-jest-dom-historia-przetrwania-i-sily-rodziny-pani-marty,nId,8052306",
-      "pubDate": "Sat, 20 Dec 2025 12:57:00 +0100",
-      "source": "RMF24"
     }
   ],
-  "totalArticles": 12834,
+  "totalArticles": 12839,
   "activeMonths": [
     "2026-01",
     "2025-12"
