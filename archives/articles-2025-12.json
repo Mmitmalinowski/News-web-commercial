@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-04T17:57:21.172Z",
+  "generatedAt": "2026-01-04T18:31:42.926Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68383,12 +68407,6 @@
       "link": "https://www.rp.pl/kultura/art43541101-waldemar-dabrowski-znowu-na-czele-opery-tym-razem-w-szczecinie",
       "pubDate": "Sat, 20 Dec 2025 13:06:31 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nie obejrzycie więcej Lotto w telewizji",
-      "link": "https://www.tabletowo.pl/nie-obejrzycie-wiecej-lotto-w-telewizji/",
-      "pubDate": "Sat, 20 Dec 2025 12:01:00 +0000",
-      "source": "Tabletowo"
     }
   ]
 }
