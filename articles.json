@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-04T07:42:08.506Z",
+  "generatedAt": "2026-01-04T07:51:41.580Z",
   "items": [
+    {
+      "title": "Sondaż: Czy Polacy uważają Niemcy za zagrożenie dla Polski?",
+      "link": "https://www.rp.pl/polityka/art43590451-sondaz-czy-polacy-uwazaja-niemcy-za-zagrozenie-dla-polski",
+      "pubDate": "Sun, 04 Jan 2026 08:48:20 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Tak Polacy budowali chińską metropolię. Niesamowita historia Harbinu",
+      "link": "https://wydarzenia.interia.pl/kraj/news-potezna-chinska-metropolie-budowali-polacy-zapomniana-histor,nId,22499922",
+      "pubDate": "Sun, 04 Jan 2026 07:47:29 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Captured Venezuelan leader Nicolás Maduro arrives in New York as future of country remains unclear",
+      "link": "http://www.euronews.com/2026/01/04/captured-venezuelan-leader-nicolas-maduro-arrives-in-new-york-as-future-of-country-remains",
+      "pubDate": "Sun, 04 Jan 2026 08:47:02 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Wystarczy, że odbiorą jeden telefon. Łatwo można stracić konto w banku",
+      "link": "https://biznes.interia.pl/finanse/news-wystarczy-odebrac-jeden-telefon-po-rozpoczeciu-rozmowy-traca,nId,22503782",
+      "pubDate": "Sun, 04 Jan 2026 07:44:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Migrena odbiera zmysły i pamięć. Czy wiesz, jak z nią walczyć?",
       "link": "https://geekweek.interia.pl/medycyna/news-migrena-zmienia-cialo-odbiera-zmysly-i-pamiec-niewidzialny-w,nId,22504456",
@@ -47066,6 +47090,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -82806,15 +82854,9 @@
       "link": "https://businessinsider.com.pl/polityka/tarcia-na-prawicy-kto-jest-dzis-politycznym-liderem-sondaz/8p1nhl2",
       "pubDate": "Sat, 20 Dec 2025 11:01:34 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Samsung zaskoczy podejściem. Flagowiec z niespodzianką",
-      "link": "https://antyweb.pl/samsung-zaskoczy-podejsciem-flagowiec-z-niespodzianka",
-      "pubDate": "Sat, 20 Dec 2025 11:00:38 GMT",
-      "source": "Antyweb"
     }
   ],
-  "totalArticles": 12509,
+  "totalArticles": 12513,
   "activeMonths": [
     "2026-01",
     "2025-12"
