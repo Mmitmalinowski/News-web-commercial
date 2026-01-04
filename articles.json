@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-04T22:36:14.082Z",
+  "generatedAt": "2026-01-04T22:49:59.334Z",
   "items": [
+    {
+      "title": "UK’s plans to seize asylum seekers’ phones condemned by campaigners",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/04/uk-plans-seize-asylum-seekers-phones-condemned-campaigners",
+      "pubDate": "Sun, 04 Jan 2026 22:30:18 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Korea Północna wystrzeliła kolejne pociski. \"To bardzo ważne\"",
       "link": "https://wydarzenia.interia.pl/zagranica/news-korea-polnocna-wystrzelila-kolejne-pociski-to-bardzo-wazne,nId,22504969",
@@ -50966,6 +50972,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86400,15 +86430,9 @@
       "link": "https://oko.press/meta-krocie-na-oszustwach-i-skarzy-sie-na-regulacje-ue",
       "pubDate": "Sat, 20 Dec 2025 12:40:08 +0000",
       "source": "OKO.press"
-    },
-    {
-      "title": "Były premier Pakistanu skazany za przywłaszczenie oficjalnych prezentów. Surowy wyrok",
-      "link": "https://wiadomosci.onet.pl/swiat/byly-premier-pakistanu-skazany-za-przywlaszczenie-oficjalnych-prezentow/8225q9c",
-      "pubDate": "Sat, 20 Dec 2025 12:40:07 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 12955,
+  "totalArticles": 12956,
   "activeMonths": [
     "2026-01",
     "2025-12"
