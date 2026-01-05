@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-05T22:58:39.837Z",
+  "generatedAt": "2026-01-05T23:25:51.935Z",
   "items": [
+    {
+      "title": "Prezydent Turcji składa deklarację w sprawie Strefy Gazy. \"Jesteśmy gotowi\"",
+      "link": "https://wiadomosci.onet.pl/swiat/erdogan-o-strefie-gazy-jestesmy-gotowi-wziac-na-siebie-odpowiedzialnosc/8k4fyfc",
+      "pubDate": "Mon, 05 Jan 2026 22:57:01 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Emocje podczas rozprawy Maduro, media opisują. Na sali doszło do kłótni",
       "link": "https://wydarzenia.interia.pl/zagranica/news-emocje-podczas-rozprawy-maduro-media-opisuja-na-sali-doszlo,nId,22505308",
@@ -58856,6 +58862,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -93972,15 +94002,9 @@
       "link": "https://www.rp.pl/nieruchomosci-mieszkaniowe/art43541281-kupujacy-mieszkania-wcale-sie-nie-spiesza",
       "pubDate": "Sat, 20 Dec 2025 15:39:38 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wszyscy dają zniżki na paliwo. Na której stacji będzie najtaniej?",
-      "link": "https://antyweb.pl/wszyscy-daja-znizki-na-paliwo-na-ktorej-stacji-bedzie-najtaniej",
-      "pubDate": "Sat, 20 Dec 2025 14:30:02 GMT",
-      "source": "Antyweb"
     }
   ],
-  "totalArticles": 14058,
+  "totalArticles": 14059,
   "activeMonths": [
     "2026-01",
     "2025-12"
