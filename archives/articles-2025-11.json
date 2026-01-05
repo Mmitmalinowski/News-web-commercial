@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-05T12:25:20.517Z",
+  "generatedAt": "2026-01-05T13:14:15.387Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -96597,6 +96597,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -155121,6 +155145,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -162517,18 +162565,6 @@
       "link": "https://wiadomosci.onet.pl/tylko-w-onecie/bitwa-o-kosmos-i-pieniadze-w-tle-walka-wewnatrz-obozu-wladzy-sa-trzy-opcje/ksfwq4v",
       "pubDate": "Wed, 26 Nov 2025 16:39:39 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Bitwa o kosmos i pieniądze. W tle polityka. Nieoficjalnie: są trzy opcje",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/bitwa-o-kosmos-i-pieniadze-w-tle-polityka-sa-trzy-opcje/ksfwq4v",
-      "pubDate": "Wed, 26 Nov 2025 16:39:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Michelle Fairley w RMF FM. Gwiazda \"Gry o tron\" zdradza kulisy pracy na planie serialu",
-      "link": "https://www.rmf24.pl/kultura/news-michelle-fairley-w-rmf-fm-gwiazda-gry-o-tron-zdradza-kulisy-,nId,8044211",
-      "pubDate": "Wed, 26 Nov 2025 17:39:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
