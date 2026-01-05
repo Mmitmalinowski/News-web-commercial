@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T11:43:15.879Z",
+  "generatedAt": "2026-01-05T11:53:10.872Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69085,12 +69109,6 @@
       "link": "https://geekweek.interia.pl/nauka/news-czas-na-marsie-plynie-szybciej-niz-na-ziemi-wyliczono-doklad,nId,22500221",
       "pubDate": "Sat, 20 Dec 2025 13:20:05 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Były premier i jego żona skazani na kolejne kary więzienia",
-      "link": "https://tvn24.pl/swiat/pakistan-byly-premier-i-jego-zona-skazani-na-kolejne-kary-wiezienia-st8811004?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 13:16:12 GMT",
-      "source": "TVN24"
     }
   ]
 }
