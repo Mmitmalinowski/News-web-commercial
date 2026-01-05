@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T17:02:53.616Z",
+  "generatedAt": "2026-01-05T17:34:07.907Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69301,12 +69325,6 @@
       "link": "https://www.rp.pl/nieruchomosci/art43541211-za-wynajem-mieszkania-mniej-niz-rok-temu",
       "pubDate": "Sat, 20 Dec 2025 14:51:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Perfume's multicultural journey: From antiquity to TikTok",
-      "link": "https://www.dw.com/en/perfume-s-multicultural-journey-from-antiquity-to-tiktok/a-75106869?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 20 Dec 2025 13:50:00 GMT",
-      "source": "DW"
     }
   ]
 }
