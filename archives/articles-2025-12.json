@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T18:00:52.971Z",
+  "generatedAt": "2026-01-05T18:46:54.390Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69355,12 +69379,6 @@
       "link": "https://antyweb.pl/uzytkownicy-whatsappa-na-minie-latwo-mozna-sie-nadziac",
       "pubDate": "Sat, 20 Dec 2025 14:00:28 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "USA nie przeprowadziły ataku na Państwo Islamskie samotnie. Pomogła armia arabskiego kraju",
-      "link": "https://wiadomosci.onet.pl/swiat/usa-nie-przeprowadzily-ataku-na-panstwo-islamskie-samotnie-pomogla-armia-jordanii/y7wkl88",
-      "pubDate": "Sat, 20 Dec 2025 14:00:11 GMT",
-      "source": "Onet"
     }
   ]
 }
