@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T08:53:54.238Z",
+  "generatedAt": "2026-01-05T09:23:59.415Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68959,12 +68983,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-niemieckie-media-nawrocki-probuje-grac-role-polskiego-trumpa,nId,22501661",
       "pubDate": "Sat, 20 Dec 2025 13:07:53 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "‘A potential treasure trove’: World Health Organization to explore benefits of traditional medicines",
-      "link": "https://www.theguardian.com/global-development/2025/dec/20/who-traditional-medicine-alternative-remedies-mainstream-healthcare-evidence",
-      "pubDate": "Sat, 20 Dec 2025 13:00:31 GMT",
-      "source": "The Guardian"
     }
   ]
 }
