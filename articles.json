@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-05T19:43:31.906Z",
+  "generatedAt": "2026-01-05T19:52:35.271Z",
   "items": [
+    {
+      "title": "Ukraińcy alarmują. Takich dronów Rosja jeszcze nie miała, \"nowe zagrożenie\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraincy-alarmuja-takich-dronow-rosja-jeszcze-nie-miala-nowe,nId,22505272",
+      "pubDate": "Mon, 05 Jan 2026 19:50:03 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Brutalnie zabili 18-latkę. Ojciec dziewczyny skazany za \"zabójstwo honorowe\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-brutalnie-zabili-18-latke-ojciec-dziewczyny-skazany-za-zaboj,nId,8055568",
+      "pubDate": "Mon, 05 Jan 2026 20:47:30 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "PKP Intercity kontratakuje z promocjami. Polsko-czeska wojna na torach nabiera rozmachu",
+      "link": "https://businessinsider.com.pl/firmy/pkp-intercity-przejmuje-polaczenia-regiojet-czesi-mowia-o-eliminacji-konkurencji/p5ke043",
+      "pubDate": "Mon, 05 Jan 2026 19:45:43 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ojciec zabił córkę, pomogli mu synowie. W Holandii zapadł wyrok",
+      "link": "https://wiadomosci.onet.pl/swiat/ojciec-zabil-corke-pomogli-mu-synowie-w-holandii-zapadl-wyrok/qgjbd39",
+      "pubDate": "Mon, 05 Jan 2026 19:44:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "North Korea says latest missile tests involved new hypersonic weapons systems",
+      "link": "http://www.euronews.com/2026/01/05/north-korea-says-latest-missile-tests-involved-new-hypersonic-weapons-systems",
+      "pubDate": "Mon, 05 Jan 2026 20:39:10 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Minister: chcemy, żeby ludzie dojechali na czas",
       "link": "https://tvn24.pl/biznes/z-kraju/klimczak-powrotach-do-domow-6-stycznia-2026-roku-chcemy-zeby-ludzie-dojechali-na-czas-st8832735?source=rss",
@@ -58232,6 +58262,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -93414,15 +93468,9 @@
       "link": "https://tvn24.pl/biznes/ze-swiata/donald-trump-teraz-juz-tego-nie-robimy-st8811099?source=rss",
       "pubDate": "Sat, 20 Dec 2025 14:09:20 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Over 1,000 migrants have arrivied in Crete in December",
-      "link": "http://www.euronews.com/2025/12/20/over-1000-migrants-have-arrivied-in-crete-in-december",
-      "pubDate": "Sat, 20 Dec 2025 15:07:07 +0100",
-      "source": "Euronews"
     }
   ],
-  "totalArticles": 13998,
+  "totalArticles": 14003,
   "activeMonths": [
     "2026-01",
     "2025-12"
