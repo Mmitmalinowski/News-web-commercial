@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-05T21:39:32.423Z",
+  "generatedAt": "2026-01-05T21:51:56.734Z",
   "items": [
+    {
+      "title": "Cuba defiant as it braces for post-Maduro era",
+      "link": "https://www.bbc.com/news/articles/cz9vg0w9w28o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 05 Jan 2026 21:41:36 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Minneapolis Hilton cancels ICE agents’ hotel reservations",
       "link": "https://www.theguardian.com/us-news/2026/jan/05/ice-hilton-minneapolis",
@@ -1360,6 +1366,12 @@
     {
       "title": "Kilkuset turystów nie może opuścić wyspy. Wśród nich Polacy",
       "link": "https://tvn24.pl/biznes/turystyka/polacy-utkneli-na-sokotrze-w-zwiazku-z-blokada-lotow-st8832508?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 16:15:57 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polscy turyści na Sokotrze będą mogli opuścić wyspę 7 stycznia ",
+      "link": "https://tvn24.pl/biznes/turystyka/odwolane-loty-z-sokotry-polscy-turysci-beda-mogli-poleciec-do-dzeddy-7-stycznia-st8832508?source=rss",
       "pubDate": "Mon, 05 Jan 2026 16:15:57 GMT",
       "source": "TVN24"
     },
@@ -58676,6 +58688,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -93822,15 +93858,9 @@
       "link": "https://www.rmf24.pl/regiony/slaskie/news-biegacz-niszczyciel-samochodow-na-ulicach-bedzina,nId,8052370",
       "pubDate": "Sat, 20 Dec 2025 15:17:15 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Koniec bezpiecznych rejsów. Ukraina uderza we flotę Putina tam, gdzie nikt się nie spodziewał",
-      "link": "https://businessinsider.com.pl/wiadomosci/ukraina-rozszerza-ataki-na-flote-cieni-rosyjskie-tankowce-zagrozone-na-calym-swiecie/79x657z",
-      "pubDate": "Sat, 20 Dec 2025 14:15:26 GMT",
-      "source": "Business Insider"
     }
   ],
-  "totalArticles": 14048,
+  "totalArticles": 14050,
   "activeMonths": [
     "2026-01",
     "2025-12"
