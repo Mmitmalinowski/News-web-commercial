@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-05T23:25:51.935Z",
+  "generatedAt": "2026-01-05T23:43:19.852Z",
   "items": [
+    {
+      "title": "Donald Trump zapytany o wybory w Wenezueli. \"Najpierw musimy naprawić kraj\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-zapytany-o-wybory-w-wenezueli-nie-ma-mowy/xbj4skn",
+      "pubDate": "Mon, 05 Jan 2026 23:30:09 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Prezydent Turcji składa deklarację w sprawie Strefy Gazy. \"Jesteśmy gotowi\"",
       "link": "https://wiadomosci.onet.pl/swiat/erdogan-o-strefie-gazy-jestesmy-gotowi-wziac-na-siebie-odpowiedzialnosc/8k4fyfc",
@@ -58886,6 +58892,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -93996,15 +94026,9 @@
       "link": "https://www.tabletowo.pl/orange-konczy-rok-z-przytupem-duze-przejecie-w-toku/",
       "pubDate": "Sat, 20 Dec 2025 14:41:00 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Kupujący mieszkania wcale się nie spieszą",
-      "link": "https://www.rp.pl/nieruchomosci-mieszkaniowe/art43541281-kupujacy-mieszkania-wcale-sie-nie-spiesza",
-      "pubDate": "Sat, 20 Dec 2025 15:39:38 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 14059,
+  "totalArticles": 14060,
   "activeMonths": [
     "2026-01",
     "2025-12"
