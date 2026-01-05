@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T20:41:13.622Z",
+  "generatedAt": "2026-01-05T20:56:41.861Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69481,12 +69505,6 @@
       "link": "https://pro.rp.pl/pit/art43535961-ulga-w-pit-na-firmowa-skladke-zdrowotna-bedzie-wyzsza",
       "pubDate": "Sat, 20 Dec 2025 15:11:56 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Warszawa na pierwszym miejscu w prestiżowym rankingu. Chodzi o europejskie miasta przyszłości ",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-na-pierwszym-miejscu-prestizowego-rankingu-forbes-chodzi-o-europejskie-miasta-przyszlosci-st8811301?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 14:11:00 GMT",
-      "source": "TVN24"
     }
   ]
 }
