@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T07:03:17.443Z",
+  "generatedAt": "2026-01-05T07:38:46.435Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68886,12 +68910,6 @@
       "title": "IMGW wydał ostrzeżenia pierwszego stopnia. Tu pogoda utrudni podróżowanie",
       "link": "https://wiadomosci.onet.pl/pogoda/w-tych-regionach-kierowcy-musza-uwazac-imgw-wydal-alerty-przed-gesta-mgla/kffy6d3",
       "pubDate": "Sat, 20 Dec 2025 12:54:36 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Amerykański wywiad ostrzega przed planami Putina. Ujawniono nowe informacje",
-      "link": "https://wiadomosci.onet.pl/swiat/amerykanski-wywiad-ostrzega-przed-planami-putina-ujawniono-nowe-informacje/l5l3zkl",
-      "pubDate": "Sat, 20 Dec 2025 12:54:24 GMT",
       "source": "Onet"
     }
   ]
