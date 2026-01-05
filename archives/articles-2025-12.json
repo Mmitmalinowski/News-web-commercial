@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T14:15:41.053Z",
+  "generatedAt": "2026-01-05T14:46:47.636Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69175,12 +69199,6 @@
       "link": "https://android.com.pl/tech/1003227-blik-zdominowal-swiateczne-zakupy/",
       "pubDate": "Sat, 20 Dec 2025 13:38:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Stracili 70 mln dol. Ukraiński atak na rosyjskie myśliwce Su-27",
-      "link": "https://tech.wp.pl/stracili-70-mln-dol-ukrainski-atak-na-rosyjskie-mysliwce-su-27,7234494098504192a",
-      "pubDate": "Sat, 20 Dec 2025 14:31:28 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
