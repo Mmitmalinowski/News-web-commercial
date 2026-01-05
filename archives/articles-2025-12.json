@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T14:46:47.636Z",
+  "generatedAt": "2026-01-05T15:01:04.987Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69193,12 +69217,6 @@
       "link": "https://www.theguardian.com/uk-news/2025/dec/20/dover-ferry-delays-hit-christmas-travellers-after-french-border-it-failure",
       "pubDate": "Sat, 20 Dec 2025 13:39:04 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "BLIK zdominował świąteczne zakupy. Bezpieczeństwo w sieci zapewnia AI",
-      "link": "https://android.com.pl/tech/1003227-blik-zdominowal-swiateczne-zakupy/",
-      "pubDate": "Sat, 20 Dec 2025 13:38:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
