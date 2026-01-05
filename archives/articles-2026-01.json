@@ -1,7 +1,223 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-05T10:15:59.076Z",
+  "generatedAt": "2026-01-05T10:46:56.376Z",
   "items": [
+    {
+      "title": "„Europa” Krzysztofa Warlikowskiego. Cielecka, Chyra, Ostaszewska o krwawych tajemnicach Europy",
+      "link": "https://www.rp.pl/teatr/art43592751-europa-krzysztofa-warlikowskiego-cielecka-chyra-ostaszewska-o-krwawych-tajemnicach-europy",
+      "pubDate": "Mon, 05 Jan 2026 11:44:40 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Absolutny must have dla kierowców. Biedronka z nową promocją",
+      "link": "https://android.com.pl/tech/1006401-biedronka-z-promocjami-na-jump-starter/",
+      "pubDate": "Mon, 05 Jan 2026 10:41:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Chiny ostro potępiają działania USA w sprawie Wenezueli. \"W rażący sposób użyły siły\"",
+      "link": "https://wiadomosci.onet.pl/swiat/chiny-ostro-potepiaja-usa-w-razacy-sposob-uzyly-sily/flpv0j5",
+      "pubDate": "Mon, 05 Jan 2026 10:40:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Niemiecki wywiad podsłuchiwał Baracka Obamę? Szokujące doniesienia o działaniach BND",
+      "link": "https://wiadomosci.onet.pl/swiat/niemiecki-wywiad-podsluchiwal-baracka-obame-szokujace-doniesienia-o-bnd/hxebthf",
+      "pubDate": "Mon, 05 Jan 2026 10:39:37 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wir polarny namiesza w pogodzie w Polsce i Europie. To dopiero początek",
+      "link": "https://wiadomosci.onet.pl/pogoda/wir-polarny-sprowadza-wielka-zime-do-europy-potezne-mrozy-i-sniezyce/62e6kxd",
+      "pubDate": "Mon, 05 Jan 2026 10:39:09 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Manchester United rozstaje się z Rubenem Amorimem",
+      "link": "https://sport.rp.pl/pilka-nozna/art43592941-manchester-united-rozstaje-sie-z-rubenem-amorimem",
+      "pubDate": "Mon, 05 Jan 2026 11:39:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Trzęsienie ziemi w Manchesterze United. Ruben Amorina zwolniony",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-trzesienie-ziemi-w-manchesterze-united-ruben-amorina-zwolnio,nId,8055428",
+      "pubDate": "Mon, 05 Jan 2026 11:36:10 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Germany news: Solar power usage on the rise",
+      "link": "https://www.dw.com/en/germany-news-solar-power-usage-on-the-rise/live-75390211?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 5 Jan 2026 10:35:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "USA pojmały Nicolása Maduro. Co wiemy o roli Delta Force w nocnej operacji w Caracas",
+      "link": "https://businessinsider.com.pl/wiadomosci/delta-force-w-operacji-pojmania-nicolasa-maduro-co-wiemy-o-tajnej-jednostce-armii-usa/3npws9c",
+      "pubDate": "Mon, 05 Jan 2026 10:34:28 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Niemcy na równi pochyłej. Tak źle nie było od lat. Największej gospodarce Europy grozi trwała stagnacja [OPINIA]",
+      "link": "https://wiadomosci.onet.pl/swiat/tak-zle-nie-bylo-od-lat-niemcy-moga-nie-podniesc-sie-z-kryzysu-opinia/xf0ltl3",
+      "pubDate": "Mon, 05 Jan 2026 10:33:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Dobra i zła wiadomość dla właścicieli smartfonów Xiaomi, Redmi i Poco. Czas pomyśleć o zmianie?",
+      "link": "https://www.tabletowo.pl/dobra-i-zla-wiadomosc-dla-wlascicieli-smartfonow-xiaomi-redmi-i-poco-czas-pomyslec-o-zmianie/",
+      "pubDate": "Mon, 05 Jan 2026 10:33:26 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "10 osób skazanych za nękanie Brigitte Macron. Sąd zdecydował",
+      "link": "https://wiadomosci.onet.pl/swiat/10-osob-skazanych-za-nekanie-brigitte-macron-sad-zdecydowal/227m86e",
+      "pubDate": "Mon, 05 Jan 2026 10:33:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kłeczek o dyktaturze Tuska i więźniach w aresztach wydobywczych. Wiceminister odwołał występ w programie Republiki",
+      "link": "https://www.wirtualnemedia.pl/kleczek-o-dyktaturze-tuska-i-wiezniach-w-aresztach-wydobywczych-wiceminister-odwolal-wystep-w-programie-republiki,7240103407733728a",
+      "pubDate": "Mon, 05 Jan 2026 11:32:48 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 5.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-5-1-2026-7240126418213856a.html",
+      "pubDate": "Mon, 05 Jan 2026 11:32:13 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "\"Neoni\" przejmują Sąd Najwyższy. \"W ten sposób buduje się reżim\"",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/neoni-przejmuja-sad-najwyzszy-domyka-sie-ciag-technologiczny/dcfqtc5",
+      "pubDate": "Mon, 05 Jan 2026 10:32:05 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wrze przed wyborami w Polsce 2050. \"Mit stworzony przez sztab koleżanki\"",
+      "link": "https://wiadomosci.onet.pl/kraj/wrze-przed-wyborami-w-polsce-2050-paulina-hennig-kloska-to-jakis-mit/992sb9q",
+      "pubDate": "Mon, 05 Jan 2026 10:31:32 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polski model lepszy od Mety. Zajął czołowe miejsce",
+      "link": "https://biznes.interia.pl/gospodarka/news-polski-model-ai-w-czolowce-w-swiatowym-rankingu-wyprzedzil-m,nId,22505070",
+      "pubDate": "Mon, 05 Jan 2026 10:30:34 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Reklamy niezdrowej żywności zakazane. \"Światowy kamień milowy\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/przelomowe-prawo-wielkiej-brytanii-zakaz-wyswietlania-reklam-niezdrowego-jedzenia-w-ciagu-dnia-st8831412?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 10:30:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 5.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-5-1-2026-7240125987969536a.html",
+      "pubDate": "Mon, 05 Jan 2026 11:29:33 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Eksperci patrzą z niepokojem. Te wulkany mogą wybuchnąć w najbliższym czasie",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-05/eksperci-patrza-z-niepokojem-te-wulkany-moga-wybuchnac-w-najblizszym-czasie/",
+      "pubDate": "Mon, 05 Jan 2026 11:29:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Biało od Bałtyku po Sudety. Zima na waszych zdjęciach",
+      "link": "https://tvn24.pl/tvnmeteo/polska/bialo-od-baltyku-po-sudety-zima-na-waszych-zdjeciach-st8831491?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 10:27:44 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 5.1.2026",
+      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-5-1-2026-7240125594577888a.html",
+      "pubDate": "Mon, 05 Jan 2026 11:27:43 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "UE wzywa w sprawie Wenezueli. Liderzy piszą o \"szczególnej odpowiedzialności\" organu ONZ",
+      "link": "https://tvn24.pl/swiat/ue-wzywa-w-sprawie-wenezueli-liderzy-pisza-o-szczegolnej-odpowiedzialnosci-organu-onz-st8831350?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 10:26:17 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 5.1.2026",
+      "link": "https://www.money.pl/pieniadze/kopia-ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-18-11-2025-7240125045873152a.html",
+      "pubDate": "Mon, 05 Jan 2026 11:26:09 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Środowisko eksperckie apeluje do Marty Nawrockiej. Batalia o ustawę chroniącą dzieci w Internecie",
+      "link": "https://www.wirtualnemedia.pl/srodowisko-eksperckie-apeluje-do-marty-nawrockiej-batalia-o-ustawe-chroniaca-dzieci-w-internecie,7240107663813600a",
+      "pubDate": "Mon, 05 Jan 2026 11:24:41 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Za kilka dni rusza kwalifikacja wojskowa. Oto zasady w 2026 roku",
+      "link": "https://www.rmf24.pl/fakty/polska/news-za-kilka-dni-rusza-kwalifikacja-wojskowa-oto-zasady-w-2026-r,nId,8055395",
+      "pubDate": "Mon, 05 Jan 2026 11:23:22 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "31-latek zatrzymany po pościgu. Miał zakaz prowadzenia",
+      "link": "https://tvn24.pl/poznan/poznan-31-latek-zatrzymany-po-poscigu-mial-zakaz-prowadzenia-st8831219?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 10:23:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rekordowa emerytura Joe Bidena. Więcej niż prezydencka pensja",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-05/rekordowa-emerytura-joe-bidena-wiecej-niz-prezydencka-pensja/",
+      "pubDate": "Mon, 05 Jan 2026 11:22:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Co z pismami składanymi przez ePUAP przez przedsiębiorców wpisanych do CEiDG?",
+      "link": "https://pro.rp.pl/abc-firmy/art43592761-co-z-pismami-skladanymi-przez-epuap-przez-przedsiebiorcow-wpisanych-do-ceidg",
+      "pubDate": "Mon, 05 Jan 2026 11:22:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Greenland prime minister says 'enough' after latest Trump threat",
+      "link": "http://www.euronews.com/2026/01/05/greenland-prime-minister-says-enough-after-latest-trump-threat",
+      "pubDate": "Mon, 05 Jan 2026 11:19:46 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Wreszcie możesz powiedzieć lodowce, by się zamknęła",
+      "link": "https://spidersweb.pl/2026/01/samsung-lodowka-sterowana-glosem-nowosc-ces.html",
+      "pubDate": "Mon, 05 Jan 2026 11:18:34 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Do countries really need fossil fuels to develop?",
+      "link": "https://www.dw.com/en/do-countries-really-need-fossil-fuels-to-develop/a-75243684?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 5 Jan 2026 10:17:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Co mówią jelita pszczół? \"Czuły czujnik biologiczny\"",
+      "link": "https://tvn24.pl/zdrowie/co-mowia-jelita-pszczol-czuly-czujnik-biologiczny-st8828151?source=rss",
+      "pubDate": "Mon, 05 Jan 2026 10:16:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Aldi reports record Christmas sales after shoppers moved to cut festive grocery bills",
+      "link": "https://www.theguardian.com/business/2026/jan/05/aldi-record-christmas-sales",
+      "pubDate": "Mon, 05 Jan 2026 10:16:07 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Zmiany na najwyższym szczeblu SBU. Generał zgodził się na dymisję",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-zmiany-na-najwyzszym-szczeblu-sbu-general-zgodzil-sie-na-dym,nId,22505038",
+      "pubDate": "Mon, 05 Jan 2026 10:15:30 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Microsoft obstaje przy swoim. Prezes przekonuje do wizji nowego Windowsa",
+      "link": "https://antyweb.pl/microsoft-obstaje-przy-swoim-prezes-przekonuje-do-wizji-nowego-windowsa",
+      "pubDate": "Mon, 05 Jan 2026 10:15:24 GMT",
+      "source": "Antyweb"
+    },
     {
       "title": "Przedstawiciel IATA: Geopolityka zawsze ma wpływ na lotnictwo",
       "link": "https://www.rp.pl/transport/art43564271-przedstawiciel-iata-geopolityka-zawsze-ma-wplyw-na-lotnictwo",
@@ -45,6 +261,18 @@
       "source": "RMF24"
     },
     {
+      "title": "Eighty ‘one in, one out’ asylum seekers accuse UK of degrading treatment",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/05/one-in-one-out-asylum-seekers-accuse-uk-degrading-treatment",
+      "pubDate": "Mon, 05 Jan 2026 10:06:50 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Three children dead in Iran protests as security forces accused of ‘indiscriminate targeting’",
+      "link": "https://www.theguardian.com/global-development/2026/jan/05/children-killed-iran-protests-security-forces",
+      "pubDate": "Mon, 05 Jan 2026 10:06:17 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "Co oznacza zakończenie Stranger Things 5? Wyjaśniamy",
       "link": "https://android.com.pl/rozrywka/1006386-co-oznacza-zakonczenie-stranger-things-5/",
       "pubDate": "Mon, 05 Jan 2026 10:05:00 +0000",
@@ -77,6 +305,12 @@
     {
       "title": "Rosjanie wdrażają plan \"Buran\". Wywieźli kilkanaście ton śniegu",
       "link": "https://wydarzenia.interia.pl/zagranica/news-rosjanie-wdrazaja-plan-buran-wywiezli-kilkanascie-ton-sniegu,nId,22505064",
+      "pubDate": "Mon, 05 Jan 2026 10:01:29 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Rosjanie wdrażają plan \"Buran\". Wywieźli kilkanaście tysięcy ton śniegu",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-rosjanie-wdrazaja-plan-buran-wywiezli-kilkanascie-tysiecy-to,nId,22505064",
       "pubDate": "Mon, 05 Jan 2026 10:01:29 GMT",
       "source": "Interia"
     },
@@ -139,6 +373,12 @@
       "link": "https://www.chip.pl/2026/01/motocykl-wibrujace-siedzenie-viberalert-bezpieczenstwo",
       "pubDate": "Mon, 05 Jan 2026 09:56:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Prąd może zdrożeć do ponad 700 zł za MWh. Motyka: Obóz prezydenta blokuje wiatraki",
+      "link": "https://www.bankier.pl/wiadomosc/Prad-moze-zdrozec-do-ponad-700-zl-Motyka-Oboz-prezydenta-blokuje-wiatraki-9063903.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Mon, 5 Jan 2026 10:54:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "200 000 Europejczyków musi znaleźć nową pracę: AI robi redukcję w bankowości",

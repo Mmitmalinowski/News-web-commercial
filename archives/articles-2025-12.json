@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T10:15:59.117Z",
+  "generatedAt": "2026-01-05T10:46:56.418Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69013,12 +69037,6 @@
       "link": "https://tvn24.pl/polska/kas-fundacja-ludzi-bakiewicza-miala-stworzyc-centrum-patriotyczne-zatrudnila-stajennego-st8810347?source=rss",
       "pubDate": "Sat, 20 Dec 2025 13:11:32 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Kolejny dron rozbił się w kraju NATO. Podobnego używają Rosjanie",
-      "link": "https://geekweek.interia.pl/militaria/news-kolejny-dron-rozbil-sie-w-kraju-nato-mozliwe-rosyjskie-pocho,nId,22501660",
-      "pubDate": "Sat, 20 Dec 2025 13:10:00 GMT",
-      "source": "GeekWeek"
     }
   ]
 }
