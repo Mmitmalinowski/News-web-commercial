@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-05T23:43:19.852Z",
+  "generatedAt": "2026-01-05T23:50:54.976Z",
   "items": [
+    {
+      "title": "Future of autonomous driving and robots just went up a gear. Nvidia and Boston Dynamics CES latest",
+      "link": "http://www.euronews.com/next/2026/01/06/future-of-autonomous-driving-and-robots-just-went-up-a-gear-nvidia-and-boston-dynamics-ces",
+      "pubDate": "Tue, 06 Jan 2026 00:35:09 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Donald Trump zapytany o wybory w Wenezueli. \"Najpierw musimy naprawić kraj\"",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-zapytany-o-wybory-w-wenezueli-nie-ma-mowy/xbj4skn",
@@ -58916,6 +58922,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -94020,15 +94050,9 @@
       "link": "https://www.dw.com/en/pakistan-sentences-ex-pm-imran-khan-wife-bushra-bibi-to-17-years-in-prison/a-75253492?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 20 Dec 2025 14:42:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Orange kończy rok z przytupem. Duże przejęcie w toku",
-      "link": "https://www.tabletowo.pl/orange-konczy-rok-z-przytupem-duze-przejecie-w-toku/",
-      "pubDate": "Sat, 20 Dec 2025 14:41:00 +0000",
-      "source": "Tabletowo"
     }
   ],
-  "totalArticles": 14060,
+  "totalArticles": 14061,
   "activeMonths": [
     "2026-01",
     "2025-12"
