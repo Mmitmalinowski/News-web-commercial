@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-05T05:21:18.975Z",
+  "generatedAt": "2026-01-05T05:53:49.020Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -68833,12 +68857,6 @@
       "link": "https://oko.press/na-zywo/na-zywo-relacja/polski-konsulat-zdewastowany-sikorski-komus-nie-podoba-sie-mur",
       "pubDate": "Sat, 20 Dec 2025 12:50:48 +0000",
       "source": "OKO.press"
-    },
-    {
-      "title": "USA. Wiatr powalał drzewa na auta i domy",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-wiatr-powalal-drzewa-na-auta-i-domy-st8810998?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 12:49:00 GMT",
-      "source": "TVN24"
     }
   ]
 }
