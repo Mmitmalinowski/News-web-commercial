@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-06T21:13:23.881Z",
+  "generatedAt": "2026-01-06T21:34:37.770Z",
   "items": [
+    {
+      "title": "Nowy sondaż poparcia partyjnego. KO i partia Brauna zyskują",
+      "link": "https://www.rmf24.pl/fakty/polska/news-nowy-sondaz-poparcia-partyjnego-ko-i-partia-brauna-zyskuja,nId,8055670",
+      "pubDate": "Tue, 06 Jan 2026 22:24:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "UK and France to send troops to Ukraine if peace deal agreed",
+      "link": "https://www.bbc.com/news/articles/c17zee20qpzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Jan 2026 21:02:58 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Paris under blanket of snow as temperatures drop below zero",
       "link": "http://www.euronews.com/video/2026/01/06/paris-under-blanket-of-snow-as-temperatures-drop-below-zero",
@@ -66,6 +78,12 @@
       "link": "https://www.theguardian.com/uk-news/2026/jan/06/west-midlands-police-insist-decision-to-ban-maccabi-fans-not-politically-influenced",
       "pubDate": "Tue, 06 Jan 2026 20:21:53 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "'It seems unjust to me' - Views on Maduro's seizure from Caracas",
+      "link": "https://www.bbc.com/news/videos/cn42zz4ypgwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Jan 2026 20:19:09 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Co ustalili na szczycie? Liderzy koalicji chętnych po rozmowach",
@@ -64778,6 +64796,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99594,15 +99636,9 @@
       "link": "https://tvn24.pl/polska/areszt-wobec-polaka-zatrzymanego-przez-abw-tomasz-siemoniak-mial-dokumentowac-wojskowe-transporty-st8811430?source=rss",
       "pubDate": "Sat, 20 Dec 2025 16:28:40 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Waszyngton proponuje bezpośrednie negocjacje Ukraina-Rosja",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43541671-waszyngton-proponuje-bezposrednie-negocjacje-ukraina-rosja",
-      "pubDate": "Sat, 20 Dec 2025 17:21:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 14845,
+  "totalArticles": 14848,
   "activeMonths": [
     "2026-01",
     "2025-12"

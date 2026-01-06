@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T21:13:23.564Z",
+  "generatedAt": "2026-01-06T21:34:37.477Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70525,12 +70549,6 @@
       "link": "https://tvn24.pl/polska/areszt-wobec-polaka-zatrzymanego-przez-abw-tomasz-siemoniak-mial-dokumentowac-wojskowe-transporty-st8811430?source=rss",
       "pubDate": "Sat, 20 Dec 2025 16:28:40 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Waszyngton proponuje bezpośrednie negocjacje Ukraina-Rosja",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43541671-waszyngton-proponuje-bezposrednie-negocjacje-ukraina-rosja",
-      "pubDate": "Sat, 20 Dec 2025 17:21:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
