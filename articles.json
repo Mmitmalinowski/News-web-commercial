@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-06T20:15:41.418Z",
+  "generatedAt": "2026-01-06T20:41:21.860Z",
   "items": [
+    {
+      "title": "Donald Tusk zapowiedział spotkanie z prezydentem. Szef kancelarii: nie było takiej prośby",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zapowiedzial-spotkanie-z-prezydentem-szef-kancelarii-nie-bylo-takiej/nxvdz9t",
+      "pubDate": "Tue, 06 Jan 2026 20:35:06 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "UK and France ‘ready to deploy troops’ to Ukraine after ceasefire",
+      "link": "https://www.theguardian.com/world/2026/jan/06/uk-france-ready-to-deploy-troops-to-ukraine-after-ceasefire",
+      "pubDate": "Tue, 06 Jan 2026 20:26:09 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "France and UK confirm boots on the ground after ceasefire in Ukraine",
+      "link": "http://www.euronews.com/my-europe/2026/01/06/france-and-uk-confirm-boots-on-the-ground-after-ceasefire-in-ukraine",
+      "pubDate": "Tue, 06 Jan 2026 21:24:45 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "West Midlands police insist decision to ban Maccabi fans ‘not politically influenced’",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/06/west-midlands-police-insist-decision-to-ban-maccabi-fans-not-politically-influenced",
+      "pubDate": "Tue, 06 Jan 2026 20:21:53 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Co ustalili na szczycie? Liderzy koalicji chętnych po rozmowach",
+      "link": "https://tvn24.pl/swiat/szczyt-w-paryzu-komentarze-liderow-koalicji-chetnych-st8833877?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 20:18:05 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "German prosecutors open terror probe into Berlin blackout",
       "link": "https://www.dw.com/en/german-prosecutors-open-terror-probe-into-berlin-blackout/a-75413616?maca=en-rss-en-all-1573-xml-mrss",
@@ -16,6 +46,12 @@
     {
       "title": "Gwarancje sojuszników wobec Ukrainy. Znamy treść deklaracji paryskiej",
       "link": "https://wiadomosci.onet.pl/swiat/gwarancje-sojusznikow-wobec-ukrainy-znamy-tresc-deklaracji-paryskiej/ryf7547",
+      "pubDate": "Tue, 06 Jan 2026 20:07:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Gwarancje sojuszników wobec Ukrainy. Znamy treść deklaracji paryskiej",
+      "link": "https://wiadomosci.onet.pl/swiat/gwarancje-sojusznikow-wobec-ukrainy-jest-tresc-deklaracji-paryskiej/ryf7547",
       "pubDate": "Tue, 06 Jan 2026 20:07:58 GMT",
       "source": "Onet"
     },
@@ -64628,6 +64664,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99462,15 +99522,9 @@
       "link": "https://wiadomosci.onet.pl/kraj/abw-zatrzymalo-40-latka-podejrzanego-o-szpiegostwo-jest-decyzja-sadu/p84ytz5",
       "pubDate": "Sat, 20 Dec 2025 16:18:01 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Former Pakistani prime minister Imran Khan and wife sentenced to 17 years in prison",
-      "link": "http://www.euronews.com/2025/12/20/former-pakistani-prime-minister-imran-khan-and-wife-sentenced-to-17-years-in-prison",
-      "pubDate": "Sat, 20 Dec 2025 17:11:45 +0100",
-      "source": "Euronews"
     }
   ],
-  "totalArticles": 14832,
+  "totalArticles": 14838,
   "activeMonths": [
     "2026-01",
     "2025-12"

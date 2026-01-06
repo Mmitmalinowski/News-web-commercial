@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T20:15:41.116Z",
+  "generatedAt": "2026-01-06T20:41:21.561Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70471,12 +70495,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/abw-zatrzymalo-40-latka-podejrzanego-o-szpiegostwo-jest-decyzja-sadu/p84ytz5",
       "pubDate": "Sat, 20 Dec 2025 16:18:01 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Former Pakistani prime minister Imran Khan and wife sentenced to 17 years in prison",
-      "link": "http://www.euronews.com/2025/12/20/former-pakistani-prime-minister-imran-khan-and-wife-sentenced-to-17-years-in-prison",
-      "pubDate": "Sat, 20 Dec 2025 17:11:45 +0100",
-      "source": "Euronews"
     }
   ]
 }
