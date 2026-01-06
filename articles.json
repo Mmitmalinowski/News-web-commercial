@@ -1,11 +1,41 @@
 {
-  "generatedAt": "2026-01-06T19:14:36.272Z",
+  "generatedAt": "2026-01-06T19:30:58.293Z",
   "items": [
+    {
+      "title": "Awantura na posiedzeniu rządu? Premier Donald Tusk komentuje doniesienia",
+      "link": "https://wiadomosci.onet.pl/kraj/premier-o-reformie-panstwowej-inspekcji-pracy-nie-bedzie-kontynuowana/ddbd7tn",
+      "pubDate": "Tue, 06 Jan 2026 19:25:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tusk: tę sprawę uważam za zamkniętą ",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-reformie-panstwowej-inspekcji-pracy-te-sprawe-uwazam-za-zamknieta-st8833850?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 19:23:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Brytyjskie i francuskie wojska będą stacjonować po wojnie w Ukrainie. Jest deklaracja",
+      "link": "https://wiadomosci.onet.pl/kraj/brytyjskie-i-francuskie-wojska-beda-stacjonowac-po-wojnie-w-ukrainie-jest-deklaracja/cl18rx0",
+      "pubDate": "Tue, 06 Jan 2026 19:19:58 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Australia news live: three states braces for extreme heat; remains of missing snorkeller wash ashore on WA beach",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jan/07/australia-news-live-heatwave-weather-bushfire-warning-anthony-albanese-antisemitism-bondi-royal-commission-inflation-abs-rba-interest-rates-ntwnfb",
+      "pubDate": "Tue, 06 Jan 2026 19:15:19 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Sakiewicz idzie w zaparte ws. wpisu o Maduro i Tusku. \"Tam panuje absolutny amok\"",
       "link": "https://www.wirtualnemedia.pl/tomasz-sakiewicz-wpis-donald-tusk-i-maduro-zawiadomienie-do-prokuratury,7240605876275712a",
       "pubDate": "Tue, 06 Jan 2026 20:09:58 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Donald Tusk spotka się z Karolem Nawrockim. Zdradził szczegóły",
+      "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-spotka-sie-z-karolem-nawrockim-mysle-ze-dobrze-to-rozumie/wn7fngy",
+      "pubDate": "Tue, 06 Jan 2026 19:09:27 GMT",
+      "source": "Onet"
     },
     {
       "title": "Ukraine: Allies endorse 'robust' security guarantees",
@@ -64310,6 +64340,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99168,15 +99222,9 @@
       "link": "https://wiadomosci.onet.pl/kraj/zabojstwo-16-letniej-mai-z-mlawy-nieoficjalnie-bartosz-g-jeszcze-dzis-trafi-do-polski/yvx05mn",
       "pubDate": "Sat, 20 Dec 2025 16:05:57 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Ukraiński politolog: Ukraińcy są wdzięczni, ale nie tylko Polakom",
-      "link": "https://www.rp.pl/polityka/art43541091-ukrainski-politolog-ukraincy-sa-wdzieczni-ale-nie-tylko-polakom",
-      "pubDate": "Sat, 20 Dec 2025 17:04:35 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 14795,
+  "totalArticles": 14800,
   "activeMonths": [
     "2026-01",
     "2025-12"
