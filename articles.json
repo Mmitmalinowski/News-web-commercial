@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-06T05:51:52.148Z",
+  "generatedAt": "2026-01-06T06:01:08.197Z",
   "items": [
+    {
+      "title": "Nicolas Maduro ma w celi towarzystwo. Media mówią o groźnych więźniach",
+      "link": "https://wiadomosci.onet.pl/swiat/nicolas-maduro-w-nowojorskim-wiezieniu-obalony-dyktator-nie-jest-sam-w-celi/hxv5qss",
+      "pubDate": "Tue, 06 Jan 2026 05:55:47 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Orban: to nie jest dobry czas na wizytę Putina w Budapeszcie",
+      "link": "https://tvn24.pl/swiat/wegry-viktor-orban-to-nie-jest-dobry-czas-na-wizyte-wladimira-putina-w-budapeszcie-st8832865?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 05:50:12 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Wydawcy domagają się od Skarbu Państwa odszkodowań za opóźnienie we wdrożeniu DSM",
       "link": "http://www.press.pl/tresc/91026,wydawcy-domagaja-sie-od-skarbu-panstwa-odszkodowan-za-opoznienie-we-wdrozeniu-dsm?rss=1",
@@ -96,6 +108,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/orszaki-trzech-kroli-w-calej-polsce-w-warszawie-pojawi-sie-karol-nawrocki/2pw8tkz",
       "pubDate": "Tue, 06 Jan 2026 05:38:00 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Albanese softens resistance to royal commission into Bondi attack as pressure mounts",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/06/albanese-softens-resistance-to-royal-commission-into-bondi-attack-as-pressure-mounts-ntwnfb",
+      "pubDate": "Tue, 06 Jan 2026 05:35:27 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Tak padła ostatnia twierdza III Rzeszy. Tajemnicze zniknięcie gauleitera Dolnego Śląska",
@@ -598,6 +616,12 @@
     {
       "title": "Venezuela updates: World grapples with seizure of Maduro",
       "link": "https://www.dw.com/en/venezuela-updates-world-grapples-with-seizure-of-maduro/live-75401237?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 6 Jan 2026 01:06:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Venezuela: 'Regime change' not the plan, say US Republicans",
+      "link": "https://www.dw.com/en/venezuela-regime-change-not-the-plan-say-us-republicans/live-75401237?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Tue, 6 Jan 2026 01:06:00 GMT",
       "source": "DW"
     },
@@ -59768,6 +59792,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -94824,15 +94872,9 @@
       "link": "https://www.bankier.pl/wiadomosc/Tajny-raport-Pentagonu-Chiny-moga-pokonac-USA-w-wojnie-o-Tajwan-9054227.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sat, 20 Dec 2025 16:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Zbrojeniowy boom w Portugali. Tylko w rok powstało 60 firm",
-      "link": "https://www.bankier.pl/wiadomosc/Zbrojeniowy-boom-w-Portugali-Tylko-w-rok-powstalo-60-firm-9058300.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sat, 20 Dec 2025 16:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ],
-  "totalArticles": 14170,
+  "totalArticles": 14174,
   "activeMonths": [
     "2026-01",
     "2025-12"
