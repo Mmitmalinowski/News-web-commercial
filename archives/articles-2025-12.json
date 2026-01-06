@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T16:24:42.497Z",
+  "generatedAt": "2026-01-06T16:54:03.001Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70273,12 +70297,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-20/od-trzech-do-pieciu-lat-eksperci-ocenili-sytuacje-gospodarcza-w-rosji/",
       "pubDate": "Sat, 20 Dec 2025 16:57:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Nowa broń w rękach Ukraińców. Była tajemnicą, a już wsławiła się w boju",
-      "link": "https://geekweek.interia.pl/militaria/news-ukraincy-w-koncu-go-ujawnili-odrzutowy-bars-juz-nie-daje-ros,nId,22501695",
-      "pubDate": "Sat, 20 Dec 2025 15:51:25 GMT",
-      "source": "GeekWeek"
     }
   ]
 }
