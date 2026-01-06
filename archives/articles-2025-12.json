@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T12:18:23.868Z",
+  "generatedAt": "2026-01-06T13:08:53.281Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70111,12 +70135,6 @@
       "link": "https://spidersweb.pl/2025/12/wirtualny-asystent-mobywatel.html",
       "pubDate": "Sat, 20 Dec 2025 16:30:00 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Putin wysunął żądania i złożył ofertę Ukrainie. Jednoznaczna reakcja",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-putin-wysunal-zadania-i-zlozyl-oferte-ukrainie-jednoznaczna,nId,22501678",
-      "pubDate": "Sat, 20 Dec 2025 15:28:42 GMT",
-      "source": "Interia"
     }
   ]
 }
