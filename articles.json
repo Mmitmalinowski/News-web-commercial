@@ -1,6 +1,48 @@
 {
-  "generatedAt": "2026-01-06T19:44:33.188Z",
+  "generatedAt": "2026-01-06T19:53:48.921Z",
   "items": [
+    {
+      "title": "Po spotkaniu w Paryżu. Europa nie odda Ukrainy",
+      "link": "https://www.rp.pl/polityka/art43597871-po-spotkaniu-w-paryzu-europa-nie-odda-ukrainy",
+      "pubDate": "Tue, 06 Jan 2026 20:50:57 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Jurek Owsiak: to jest nasz największy sukces",
+      "link": "https://tvn24.pl/polska/34-final-wosp-jurek-owsiak-to-jest-nasz-najwiekszy-sukces-st8833878?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 19:50:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Klasyczna fizyka wyjaśnia problem uznawany za kwantowy. Zaskakujące połączenie między polaryzacją a splątaniem",
+      "link": "https://www.chip.pl/2026/01/klasyczna-fizyka-rozwiazuje-kwantowy-problem",
+      "pubDate": "Tue, 06 Jan 2026 19:48:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "US may intercept and seize oil tanker heading for Europe, reports say ",
+      "link": "https://www.bbc.com/news/articles/c7v0deypjl4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Tue, 06 Jan 2026 19:47:29 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Umowa z Mercosur. Zmiana stanowiska Włoch coraz bliżej",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-umowa-z-mercosur-zmiana-stanowiska-wloch-coraz-blizej,nId,8055666",
+      "pubDate": "Tue, 06 Jan 2026 20:47:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Pogoda na jutro - środa, 7.01. Miejscami termometry pokażą -18 stopni",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-sroda-7-01-miejscami-termometry-pokaza-18-stopni-st8833758?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 19:45:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Znaczne postępy\". Wysłannik USA zabrał głos po spotkaniu \"koalicji chętnych\"",
+      "link": "https://wiadomosci.onet.pl/swiat/znaczne-postepy-wyslannik-usa-reaguje-po-spotkaniu-koalicji-chetnych/c0gjftc",
+      "pubDate": "Tue, 06 Jan 2026 19:38:58 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Maszynista odkrył brak szyny. Ekspertyza wyjaśni przyczyny incydentu",
       "link": "https://www.rmf24.pl/regiony/lodz/news-maszynista-odkryl-brak-szyny-ekspertyza-wyjasni-przyczyny-in,nId,8055665",
@@ -64448,6 +64490,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99294,15 +99360,9 @@
       "link": "https://tvn24.pl/swiat/wybory-w-ukrainie-i-kwesta-bezpieczenstwa-wolodymyr-zelenski-wskazal-gdzie-nie-moga-sie-odbyc-st8811397?source=rss",
       "pubDate": "Sat, 20 Dec 2025 16:10:32 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "​Francuska policja zabiła napastnika. Miał dwa kuchenne noże",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-francuska-policja-zabila-napastnika-mial-dwa-kuchenne-noze,nId,8052379",
-      "pubDate": "Sat, 20 Dec 2025 17:09:32 +0100",
-      "source": "RMF24"
     }
   ],
-  "totalArticles": 14810,
+  "totalArticles": 14817,
   "activeMonths": [
     "2026-01",
     "2025-12"

@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T19:44:32.898Z",
+  "generatedAt": "2026-01-06T19:53:48.624Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70435,12 +70459,6 @@
       "link": "https://tvn24.pl/swiat/wybory-w-ukrainie-i-kwesta-bezpieczenstwa-wolodymyr-zelenski-wskazal-gdzie-nie-moga-sie-odbyc-st8811397?source=rss",
       "pubDate": "Sat, 20 Dec 2025 16:10:32 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "​Francuska policja zabiła napastnika. Miał dwa kuchenne noże",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-francuska-policja-zabila-napastnika-mial-dwa-kuchenne-noze,nId,8052379",
-      "pubDate": "Sat, 20 Dec 2025 17:09:32 +0100",
-      "source": "RMF24"
     }
   ]
 }
