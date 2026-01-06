@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-06T21:34:37.770Z",
+  "generatedAt": "2026-01-06T21:49:00.288Z",
   "items": [
+    {
+      "title": "Pożar mieszkania w bloku. Zginęła jedna osoba",
+      "link": "https://tvn24.pl/polska/szczecin-pozar-mieszkania-w-bloku-zginela-jedna-osoba-st8833918?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 21:42:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rozmieszczenie sił w Ukrainie po rozejmie. Podpisano memorandum",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rozmieszczenie-sil-w-ukrainie-po-rozejmie-podpisano-memorand,nId,22505479",
+      "pubDate": "Tue, 06 Jan 2026 21:38:42 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Współpracujemy z resztkami reżimu Maduro\". Wymowny wpis amerykańskiego senatora",
+      "link": "https://wiadomosci.onet.pl/swiat/wspolpracujemy-z-resztkami-rezimu-maduro-wymowny-wpis-amerykanskiego-senatora/4xzf5dn",
+      "pubDate": "Tue, 06 Jan 2026 21:33:51 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Trump says US military ‘always an option’ for acquiring Greenland",
+      "link": "https://www.theguardian.com/us-news/2026/jan/06/trump-greenland-control-us-military",
+      "pubDate": "Tue, 06 Jan 2026 21:24:22 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Nowy sondaż poparcia partyjnego. KO i partia Brauna zyskują",
       "link": "https://www.rmf24.pl/fakty/polska/news-nowy-sondaz-poparcia-partyjnego-ko-i-partia-brauna-zyskuja,nId,8055670",
@@ -64820,6 +64844,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99630,15 +99678,9 @@
       "link": "https://tvn24.pl/tvnmeteo/nauka/usa-cmy-spijaly-lzy-losia-wygladalo-jakby-los-mial-druga-pare-oczu-st8811400?source=rss",
       "pubDate": "Sat, 20 Dec 2025 16:29:04 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "\"Miał dokumentować wojskowe transporty\". Zatrzymany przez ABW",
-      "link": "https://tvn24.pl/polska/areszt-wobec-polaka-zatrzymanego-przez-abw-tomasz-siemoniak-mial-dokumentowac-wojskowe-transporty-st8811430?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 16:28:40 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 14848,
+  "totalArticles": 14852,
   "activeMonths": [
     "2026-01",
     "2025-12"
