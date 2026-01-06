@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-06T23:22:34.213Z",
+  "generatedAt": "2026-01-06T23:39:20.469Z",
   "items": [
+    {
+      "title": "Republicans silent and Democrats incensed on fifth anniversary of US Capitol attack",
+      "link": "https://www.theguardian.com/us-news/2026/jan/06/january-6-us-capitol-attack-fifth-anniversary",
+      "pubDate": "Tue, 06 Jan 2026 23:12:55 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Kalendarium - środa 7 stycznia",
       "link": "https://pro.rp.pl/kalendarium/art43597721-kalendarium-sroda-7-stycznia",
@@ -65054,6 +65060,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99828,15 +99858,9 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraina-otworzyla-nowy-front-rosja-zaskoczona-moze-dojsc-do,nId,22501700",
       "pubDate": "Sat, 20 Dec 2025 16:46:12 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Wszyscy \"za\". Niecodzienne głosowanie w Sejmie",
-      "link": "https://www.rmf24.pl/polityka/news-wszyscy-za-niecodzienne-glosowanie-w-sejmie,nId,8052380",
-      "pubDate": "Sat, 20 Dec 2025 17:40:00 +0100",
-      "source": "RMF24"
     }
   ],
-  "totalArticles": 14863,
+  "totalArticles": 14864,
   "activeMonths": [
     "2026-01",
     "2025-12"
