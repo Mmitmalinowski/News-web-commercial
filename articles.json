@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-01-06T04:29:14.115Z",
+  "generatedAt": "2026-01-06T04:59:15.625Z",
   "items": [
+    {
+      "title": "Sondaż: tylko 33 procent Amerykanów popiera atak na Wenezuelę",
+      "link": "https://tvn24.pl/swiat/usa-obalenie-nicolasa-maduro-sondaz-tylko-33-procent-amerykanow-popiera-atak-na-wenezuele-st8832851?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 04:54:21 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Opposition leader Machado says she hasn’t spoken to Trump since attack as she vows to return to Venezuela – live",
+      "link": "https://www.theguardian.com/world/live/2026/jan/06/venezuela-live-updates-maduro-trump-us-attack-opposition-machado-return",
+      "pubDate": "Tue, 06 Jan 2026 04:45:03 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Ruch lotniczy był sparaliżowany przez kilka godzin. Jest dochodzenie",
+      "link": "https://tvn24.pl/swiat/grecja-dochodzenie-w-sprawie-niedzielnej-awarii-ktora-sparalizowala-ruch-lotniczy-na-kilka-godzin-st8832866?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 04:44:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Donald Tusk reprezentuje Polskę w Paryżu. Decydujący moment konsultacji",
+      "link": "https://wiadomosci.onet.pl/swiat/27-szefow-panstw-i-rzadow-oczekiwanych-na-spotkaniu-koalicji-chetnych-w-paryzu/fdrsxyw",
+      "pubDate": "Tue, 06 Jan 2026 04:43:31 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "US allies and foes denounce Trump's intervention in Venezuela in UN Security Council meeting",
+      "link": "http://www.euronews.com/2026/01/06/us-allies-and-foes-denounce-trumps-intervention-in-venezuela-in-un-security-council-meetin",
+      "pubDate": "Tue, 06 Jan 2026 05:40:53 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Nie żyje Eva Schloss. Przybrana siostra Anne Frank zmarła w wieku 96 lat",
+      "link": "https://tvn24.pl/swiat/eva-schloss-nie-zyje-przybrana-siostra-anne-frank-zmarla-w-wieku-96-lat-st8832861?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 04:36:18 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Maduro stanął przed sądem, Polki ranne w pożarze w kurorcie, apel premiera",
       "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-we-wtorek-6-stycznia-najwazniejsze-informacje-st8832870?source=rss",
@@ -22,6 +58,12 @@
     {
       "title": "Central African Republic: Touadera heading for third term",
       "link": "https://www.dw.com/en/central-african-republic-touadera-heading-for-third-term/a-75401315?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 6 Jan 2026 03:56:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Central African Republic: Touadera secures third term",
+      "link": "https://www.dw.com/en/central-african-republic-touadera-secures-third-term/a-75401315?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Tue, 6 Jan 2026 03:56:00 GMT",
       "source": "DW"
     },
@@ -59330,6 +59372,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -94404,15 +94470,9 @@
       "link": "https://www.theguardian.com/uk-news/2025/dec/20/met-using-outdated-powers-to-police-pro-palestine-protests-say-legal-experts",
       "pubDate": "Sat, 20 Dec 2025 14:54:37 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Pociski CAMM dla Polski. Współpraca, której nam brakowało",
-      "link": "https://tech.wp.pl/pociski-camm-dla-polski-wspolpraca-ktorej-nam-brakowalo,7230168788089792a",
-      "pubDate": "Sat, 20 Dec 2025 15:51:31 +0100",
-      "source": "Tech WP.pl"
     }
   ],
-  "totalArticles": 14109,
+  "totalArticles": 14116,
   "activeMonths": [
     "2026-01",
     "2025-12"
