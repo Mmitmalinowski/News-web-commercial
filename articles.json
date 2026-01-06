@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-06T03:49:18.025Z",
+  "generatedAt": "2026-01-06T04:29:14.115Z",
   "items": [
+    {
+      "title": "Maduro stanął przed sądem, Polki ranne w pożarze w kurorcie, apel premiera",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-we-wtorek-6-stycznia-najwazniejsze-informacje-st8832870?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 04:15:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rząd wydaje miliony na propagandę sukcesu. Znamy dokładne kwoty",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/rzad-wydaje-miliony-na-kampanie-robimy-nie-gadamy-znamy-dokladne-kwoty/2c07ky9",
+      "pubDate": "Tue, 06 Jan 2026 04:03:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kolejne regiony ze śnieżycami i narastający mróz. Zima pokaże jeszcze surowsze oblicze [POGODA]",
+      "link": "https://wiadomosci.onet.pl/pogoda/zima-pokaze-jeszcze-surowsze-oblicze-narastajacy-mroz-i-kolejna-fala-sniegu/pxhv4cj",
+      "pubDate": "Tue, 06 Jan 2026 04:01:01 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Central African Republic: Touadera heading for third term",
+      "link": "https://www.dw.com/en/central-african-republic-touadera-heading-for-third-term/a-75401315?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 6 Jan 2026 03:56:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Pociski Hellfire mogą się schować. Nowa superbroń już w rękach USA",
+      "link": "https://www.chip.pl/2026/01/usa-nowe-pociski-red-wolf",
+      "pubDate": "Tue, 06 Jan 2026 03:52:32 +0000",
+      "source": "Chip.pl"
+    },
     {
       "title": "Kolumbijscy ministrowie deklarują gotowość do współpracy z USA. W przeciwieństwie do prezydenta",
       "link": "https://wiadomosci.onet.pl/swiat/kolumbijscy-ministrowie-deklaruja-gotowosc-do-wspolpracy-z-usa/t59k0v5",
@@ -59276,6 +59306,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -94356,15 +94410,9 @@
       "link": "https://tech.wp.pl/pociski-camm-dla-polski-wspolpraca-ktorej-nam-brakowalo,7230168788089792a",
       "pubDate": "Sat, 20 Dec 2025 15:51:31 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Pogoda na Wigilię i Boże Narodzenie. Tu święta mogą być białe",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-swieta-prognoza-na-wigilie-i-boze-narodzenie-czy-jest-szansa-na-snieg-st8811332?source=rss",
-      "pubDate": "Sat, 20 Dec 2025 14:48:44 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 14104,
+  "totalArticles": 14109,
   "activeMonths": [
     "2026-01",
     "2025-12"
