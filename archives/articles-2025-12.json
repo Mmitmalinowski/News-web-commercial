@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T13:49:20.158Z",
+  "generatedAt": "2026-01-06T14:01:37.174Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70147,12 +70171,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/syn-andrzeja-leppera-domaga-sie-milionow-skierowal-pismo-do-ministra-zurka/4fhjx4y",
       "pubDate": "Sat, 20 Dec 2025 15:34:46 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Tunelami, przez rzekę i zaporę. Migranci nadal przechodzą przez zieloną granicę z Białorusią",
-      "link": "https://oko.press/tunelami-przez-rzeke-i-zapore-migranci-nadal-przechodza-przez-zielona-granice-z-bialorusia",
-      "pubDate": "Sat, 20 Dec 2025 15:30:29 +0000",
-      "source": "OKO.press"
     }
   ]
 }
