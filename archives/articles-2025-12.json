@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T07:44:13.700Z",
+  "generatedAt": "2026-01-06T07:54:10.230Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -69877,12 +69901,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/kolejne-rozmowy-na-florydzie-w-negocjacje-moze-wlaczyc-sie-marco-rubio/6hgn7xm",
       "pubDate": "Sat, 20 Dec 2025 15:00:16 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Którego dnia wypada koniec Adwentu 2025? Prawo kościelne mówi jasno",
-      "link": "https://wydarzenia.interia.pl/religia/news-ktorego-dnia-wypada-koniec-adwentu-2025-prawo-koscielne-mowi,nId,22498601",
-      "pubDate": "Sat, 20 Dec 2025 15:00:01 GMT",
-      "source": "Interia"
     }
   ]
 }
