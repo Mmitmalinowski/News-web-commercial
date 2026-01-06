@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-06T20:41:21.860Z",
+  "generatedAt": "2026-01-06T20:53:27.209Z",
   "items": [
+    {
+      "title": "Właściciele baru w Szwajcarii wydali oświadczenie: \"Jesteśmy zdruzgotani\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-wlasciciele-baru-w-szwajcarii-wydali-oswiadczenie-jestesmy-z,nId,8055668",
+      "pubDate": "Tue, 06 Jan 2026 21:48:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Wielki krok naprzód, konkretne ustalenia\". Zełenski komentuje szczyt w Paryżu",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-wielki-krok-naprzod-konkretne-ustalenia-zelenski-komentuje-s,nId,8055669",
+      "pubDate": "Tue, 06 Jan 2026 21:44:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Donald Tusk zapowiedział spotkanie z prezydentem. Szef kancelarii: nie było takiej prośby",
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zapowiedzial-spotkanie-z-prezydentem-szef-kancelarii-nie-bylo-takiej/nxvdz9t",
@@ -64688,6 +64700,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -99516,15 +99552,9 @@
       "link": "https://www.chip.pl/2025/12/krysztaly-nowa-rodzina-projektowanie-materialow",
       "pubDate": "Sat, 20 Dec 2025 16:20:38 +0000",
       "source": "Chip.pl"
-    },
-    {
-      "title": "ABW zatrzymało 40-latka podejrzanego o szpiegostwo. Jest decyzja sądu",
-      "link": "https://wiadomosci.onet.pl/kraj/abw-zatrzymalo-40-latka-podejrzanego-o-szpiegostwo-jest-decyzja-sadu/p84ytz5",
-      "pubDate": "Sat, 20 Dec 2025 16:18:01 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 14838,
+  "totalArticles": 14840,
   "activeMonths": [
     "2026-01",
     "2025-12"
