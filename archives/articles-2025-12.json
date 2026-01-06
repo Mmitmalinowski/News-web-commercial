@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-06T15:55:39.117Z",
+  "generatedAt": "2026-01-06T16:24:42.497Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70255,12 +70279,6 @@
       "link": "https://geekweek.interia.pl/militaria/news-ukraincy-w-koncu-go-ujawnili-odrzutowy-bars-juz-nie-daje-ros,nId,22501695",
       "pubDate": "Sat, 20 Dec 2025 15:51:25 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Zełenski stawia warunek wyborom w Ukrainie. USA mają klucz do bezpieczeństwa głosowania",
-      "link": "https://businessinsider.com.pl/wiadomosci/koniec-walk-na-czas-glosowania-przelomowe-slowa-zelenskiego-o-roli-usa-w-ukrainskich/cjx45m6",
-      "pubDate": "Sat, 20 Dec 2025 15:43:02 GMT",
-      "source": "Business Insider"
     }
   ]
 }
