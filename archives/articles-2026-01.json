@@ -1,7 +1,91 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-05T23:50:54.614Z",
+  "generatedAt": "2026-01-06T02:23:37.857Z",
   "items": [
+    {
+      "title": "Man dies in Sydney after being pepper-sprayed by NSW police during arrest",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/06/man-dies-in-sydney-after-being-pepper-sprayed-by-nsw-police-during-arrest-ntwnfb",
+      "pubDate": "Tue, 06 Jan 2026 01:43:04 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Media: w pobliżu pałacu prezydenckiego w Wenezueli padły strzały",
+      "link": "https://wiadomosci.onet.pl/swiat/media-strzaly-w-poblizu-palacu-prezydenckiego-w-wenezueli/mb7gf12",
+      "pubDate": "Tue, 06 Jan 2026 01:33:39 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Donald Trump ujawnia nowe szczegóły dotyczące aresztowania Nicolasa Maduro. \"Wielu ludzi reżimu chciało zawrzeć układ\"",
+      "link": "https://wiadomosci.onet.pl/swiat/trump-o-szczegolach-aresztowania-maduro-wskazal-nowe-okolicznosci/y3nd51e",
+      "pubDate": "Tue, 06 Jan 2026 01:19:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "NATO could end if US takes over Greenland — Danish PM",
+      "link": "https://www.dw.com/en/nato-could-end-if-us-takes-over-greenland-danish-pm/a-75401270?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 6 Jan 2026 01:08:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Venezuela updates: World grapples with seizure of Maduro",
+      "link": "https://www.dw.com/en/venezuela-updates-world-grapples-with-seizure-of-maduro/live-75401237?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Tue, 6 Jan 2026 01:06:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "‘It ought to provide a deterrent’: what US action in Venezuela means for Taiwan",
+      "link": "https://www.theguardian.com/world/2026/jan/06/what-us-action-in-venezuela-means-for-taiwan",
+      "pubDate": "Tue, 06 Jan 2026 01:00:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Pogoda na dziś - wtorek, 6.01. Ziąb w całym kraju, będzie też prószył śnieg",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-wtorek-6-01-pogoda-na-trzech-kroli-st8832473?source=rss",
+      "pubDate": "Tue, 06 Jan 2026 01:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "AI images of Maduro capture reap millions of views on social media",
+      "link": "https://www.theguardian.com/technology/2026/jan/05/maduro-venezuela-ai-images",
+      "pubDate": "Tue, 06 Jan 2026 00:32:30 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Prezydent Serbii reaguje na sojusz Chorwacji, Albanii i Kosowa. \"Nie jestem ani naiwny, ani głupi\"",
+      "link": "https://wiadomosci.onet.pl/swiat/aleksandar-vuczic-oskarza-sasiadow-to-przeciwko-serbii/z1blhg5",
+      "pubDate": "Tue, 06 Jan 2026 00:25:15 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "UK car sales top 2m in 2025 as Chinese brands boom",
+      "link": "https://www.theguardian.com/business/2026/jan/06/uk-car-sales-2025-chinese-brands-electric-car-smmt",
+      "pubDate": "Tue, 06 Jan 2026 00:01:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Adults in England eating as much salt a day as in 22 bags of crisps, study shows",
+      "link": "https://www.theguardian.com/food/2026/jan/06/adults-england-eating-salt-in-22-bags-of-crisps-study",
+      "pubDate": "Tue, 06 Jan 2026 00:01:21 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Laptop z dwoma ekranami i coś, co zawstydza RGB. Nowości Asusa dla graczy",
+      "link": "https://www.tabletowo.pl/gamingowe-nowosci-asus-z-ces-2026/",
+      "pubDate": "Tue, 06 Jan 2026 00:01:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Oko w oko z wenezuelskim dyktatorem. \"Jestem jeńcem wojennym\". Mamy relację z sali sądowej",
+      "link": "https://wiadomosci.onet.pl/swiat/oko-w-oko-z-dyktatorem-maduro-jestem-jencem-wojennym-relacja-z-sali-sadowej/4xmgp22",
+      "pubDate": "Mon, 05 Jan 2026 23:56:14 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Atak zimy na południu Europy. Jedna osoba zginęła wskutek silnej śnieżycy",
+      "link": "https://wiadomosci.onet.pl/swiat/silna-sniezyca-na-poludniu-europy-tysiace-osob-bez-pradu-i-utrudnienia-na-drogach/jqm36tl",
+      "pubDate": "Mon, 05 Jan 2026 23:55:30 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Future of autonomous driving and robots just went up a gear. Nvidia and Boston Dynamics CES latest",
       "link": "http://www.euronews.com/next/2026/01/06/future-of-autonomous-driving-and-robots-just-went-up-a-gear-nvidia-and-boston-dynamics-ces",
