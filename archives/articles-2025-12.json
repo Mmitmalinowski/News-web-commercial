@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-07T04:59:48.883Z",
+  "generatedAt": "2026-01-07T05:33:52.399Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70777,12 +70801,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/fronty-wojny-setki-tysiecy-atakow-dziennie-general-ujawnia-jak-polska-sie-broni/0zdxevm",
       "pubDate": "Sat, 20 Dec 2025 17:00:09 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "mObywatel przestanie działać na niektórych iPhone’ach. Kto straci dostęp do aplikacji?",
-      "link": "https://www.chip.pl/2025/12/mobywatel-przestanie-dzialac-na-niektorych-iphoneach-kto-straci-dostep-do-aplikacji",
-      "pubDate": "Sat, 20 Dec 2025 17:00:00 +0000",
-      "source": "Chip.pl"
     }
   ]
 }
