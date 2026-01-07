@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-07T22:00:46.056Z",
+  "generatedAt": "2026-01-07T22:31:10.320Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -71551,12 +71575,6 @@
       "link": "https://www.rp.pl/swiat/art43536371-rosja-nie-ustepuje-pokoj-odlegly-usa-w-chaosie",
       "pubDate": "Sat, 20 Dec 2025 20:00:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Nie wiadomo, kto kogo zaatakował\". Ukraina reaguje na bulwersujące słowa Viktora Orbana",
-      "link": "https://wiadomosci.onet.pl/swiat/nie-wiadomo-kto-kogo-zaatakowal-ukraina-reaguje-na-slowa-viktora-orbana/xszqd1j",
-      "pubDate": "Sat, 20 Dec 2025 18:48:24 GMT",
-      "source": "Onet"
     }
   ]
 }
