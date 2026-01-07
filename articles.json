@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-07T21:40:04.029Z",
+  "generatedAt": "2026-01-07T21:51:37.821Z",
   "items": [
+    {
+      "title": "Barcelona nokautuje w Superpucharze Hiszpanii. Czy będzie El Clasico w finale?",
+      "link": "https://sport.rp.pl/pilka-nozna/art43603071-barcelona-nokautuje-w-superpucharze-hiszpanii-czy-bedzie-el-clasico-w-finale",
+      "pubDate": "Wed, 07 Jan 2026 22:43:46 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Strzelanina w Minneapolis. Donald Trump komentuje. \"Musimy stanąć w obronie naszych funkcjonariuszy\"",
       "link": "https://wiadomosci.onet.pl/swiat/strzelanina-w-minneapolis-donald-trump-zabral-glos/4rrjd55",
@@ -73922,6 +73928,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -108408,15 +108438,9 @@
       "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art43531221-nie-tylko-ozempic-polacy-chca-odchudzic-europejczykow-z-pomoca-ai",
       "pubDate": "Sat, 20 Dec 2025 19:48:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Rosja przyspiesza przygotowania do ataku na państwa NATO. Kraje bałtyckie czeka okupacja?",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43541761-rosja-przyspiesza-przygotowania-do-ataku-na-panstwa-nato-kraje-baltyckie-czeka-okupacja",
-      "pubDate": "Sat, 20 Dec 2025 19:43:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 16149,
+  "totalArticles": 16150,
   "activeMonths": [
     "2026-01",
     "2025-12"
