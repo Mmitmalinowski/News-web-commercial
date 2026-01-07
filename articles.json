@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-07T21:51:37.821Z",
+  "generatedAt": "2026-01-07T22:00:46.357Z",
   "items": [
+    {
+      "title": "Donald Trump chce zwiększenia budżetu wojskowego. \"Zapewni nam bezpieczeństwo i ochronę, niezależnie od tego, kim jest wróg\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-chce-wiekszego-budzetu-dla-armii-wskazal-kwote/sp6sk1x",
+      "pubDate": "Wed, 07 Jan 2026 21:55:50 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Barcelona nokautuje w Superpucharze Hiszpanii. Czy będzie El Clasico w finale?",
       "link": "https://sport.rp.pl/pilka-nozna/art43603071-barcelona-nokautuje-w-superpucharze-hiszpanii-czy-bedzie-el-clasico-w-finale",
@@ -73952,6 +73958,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -108432,15 +108462,9 @@
       "link": "https://wiadomosci.onet.pl/swiat/nie-wiadomo-kto-kogo-zaatakowal-ukraina-reaguje-na-slowa-viktora-orbana/xszqd1j",
       "pubDate": "Sat, 20 Dec 2025 18:48:24 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Nie tylko Ozempic. Polacy chcą odchudzić Europejczyków z pomocą AI",
-      "link": "https://cyfrowa.rp.pl/biznes-ludzie-startupy/art43531221-nie-tylko-ozempic-polacy-chca-odchudzic-europejczykow-z-pomoca-ai",
-      "pubDate": "Sat, 20 Dec 2025 19:48:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 16150,
+  "totalArticles": 16151,
   "activeMonths": [
     "2026-01",
     "2025-12"
