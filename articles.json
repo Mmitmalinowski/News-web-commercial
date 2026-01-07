@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-07T22:31:10.640Z",
+  "generatedAt": "2026-01-07T22:49:08.962Z",
   "items": [
+    {
+      "title": "Zmasowany atak Rosji na Ukrainę. Dwa regiony bez prądu, wielkie utrudnienia",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-zmasowany-atak-rosji-na-ukraine-dwa-regiony-bez-pradu-wielki,nId,22506170",
+      "pubDate": "Wed, 07 Jan 2026 22:44:33 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Nastolatka wypadła z jadącej karetki. Groźny incydent na autostradzie w Wielkiej Brytanii",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-nastolatka-wypadla-z-jadacej-karetki-grozny-incydent-na-auto,nId,8056020",
+      "pubDate": "Wed, 07 Jan 2026 23:39:05 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Reeves condemns Farage opposition to lifting two-child benefit cap",
+      "link": "https://www.theguardian.com/politics/2026/jan/07/racchel-reeves-nigel-farage-two-child-benefit-cap-comments",
+      "pubDate": "Wed, 07 Jan 2026 22:30:51 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Smaller farms in England to be prioritised for nature funding, minister to announce",
+      "link": "https://www.theguardian.com/environment/2026/jan/07/smaller-farms-to-be-prioritised-for-uk-nature-funding-minister-to-announce",
+      "pubDate": "Wed, 07 Jan 2026 22:30:50 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Blackout w dwóch ukraińskich obwodach. \"Wróg zadał kolejny cios\"",
       "link": "https://wiadomosci.onet.pl/swiat/ukraina-mierzy-sie-z-blackoutem-to-wynik-rosyjskich-atakow/183mv3v",
@@ -74030,6 +74054,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -108498,15 +108546,9 @@
       "link": "https://antyweb.pl/6g-w-polsce-pierwsze-testy-harmonogram-2030",
       "pubDate": "Sat, 20 Dec 2025 19:00:02 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Rosja nie ustępuje, pokój odległy. USA w chaosie",
-      "link": "https://www.rp.pl/swiat/art43536371-rosja-nie-ustepuje-pokoj-odlegly-usa-w-chaosie",
-      "pubDate": "Sat, 20 Dec 2025 20:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 16155,
+  "totalArticles": 16159,
   "activeMonths": [
     "2026-01",
     "2025-12"
