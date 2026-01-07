@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-07T08:22:10.312Z",
+  "generatedAt": "2026-01-07T08:51:14.536Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70921,12 +70945,6 @@
       "link": "https://businessinsider.com.pl/gospodarka/zmiany-w-sciagalnosci-podatkow-polska-wyroznia-sie-w-unijnych-statystykach/89s9l5l",
       "pubDate": "Sat, 20 Dec 2025 17:06:51 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Prevc triumfuje w Engelbergu. Tomasiak najlepszy z Polaków",
-      "link": "https://www.rmf24.pl/sport/skoki-narciarskie/news-prevc-triumfuje-w-engelbergu-tomasiak-najlepszy-z-polakow,nId,8052383",
-      "pubDate": "Sat, 20 Dec 2025 18:06:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
