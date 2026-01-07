@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-01-07T21:23:02.240Z",
+  "generatedAt": "2026-01-07T21:40:04.029Z",
   "items": [
+    {
+      "title": "Strzelanina w Minneapolis. Donald Trump komentuje. \"Musimy stanąć w obronie naszych funkcjonariuszy\"",
+      "link": "https://wiadomosci.onet.pl/swiat/strzelanina-w-minneapolis-donald-trump-zabral-glos/4rrjd55",
+      "pubDate": "Wed, 07 Jan 2026 21:30:02 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "​Katastrofa śmigłowca na stoku narciarskim w Rosji. Dwie osoby nie żyją",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-katastrofa-smiglowca-na-stoku-narciarskim-w-rosji-dwie-osoby,nId,8056004",
+      "pubDate": "Wed, 07 Jan 2026 22:29:35 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "37-letnia kobieta zginęła w Minneapolis w czasie akcji deportacyjnej ICE",
+      "link": "https://tvn24.pl/swiat/usa-kobieta-zastrzelona-w-minneapolis-w-czasie-akcji-ice-st8835640?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 21:25:23 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Agent imigracyjny zastrzelił kobietę. Burza w USA",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-agent-imigracyjny-zastrzelil-kobiete-burza-w-usa,nId,22506160",
+      "pubDate": "Wed, 07 Jan 2026 21:21:31 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Plan na Wenezuelę. Trzy punkty Marco Rubio",
       "link": "https://tvn24.pl/swiat/plan-na-wenezuele-trzy-punkty-marco-rubio-st8835614?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 21:19:13 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Plan na Wenezuelę. Trzy punkty Marca Rubio",
+      "link": "https://tvn24.pl/swiat/plan-na-wenezuele-trzy-punkty-marca-rubio-st8835614?source=rss",
       "pubDate": "Wed, 07 Jan 2026 21:19:13 GMT",
       "source": "TVN24"
     },
@@ -1738,6 +1768,12 @@
     {
       "title": "Kaczyński o \"marzeniach przeciwników\". \"Z pewnością nie spełnią się\"",
       "link": "https://tvn24.pl/polska/spotkanie-w-pis-jaroslaw-kaczynski-to-marzenia-naszych-przeciwnikow-z-cala-pewnoscia-sie-nie-spelnia-st8835299?source=rss",
+      "pubDate": "Wed, 07 Jan 2026 15:56:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Posiedzenie klubu PiS i pytania o podziały. \"Mamy skrzydła i wzniesiemy się\"",
+      "link": "https://tvn24.pl/polska/posiedzenie-klubu-pis-i-pytania-o-podzialy-mamy-skrzydla-i-wzniesiemy-sie-st8835299?source=rss",
       "pubDate": "Wed, 07 Jan 2026 15:56:01 GMT",
       "source": "TVN24"
     },
@@ -73862,6 +73898,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -108354,15 +108414,9 @@
       "link": "https://www.rp.pl/konflikty-zbrojne/art43541761-rosja-przyspiesza-przygotowania-do-ataku-na-panstwa-nato-kraje-baltyckie-czeka-okupacja",
       "pubDate": "Sat, 20 Dec 2025 19:43:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Police use riot shields to help recapture runaway Wiltshire goat",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/20/police-use-riot-shields-to-help-recapture-runaway-wiltshire-goat",
-      "pubDate": "Sat, 20 Dec 2025 18:38:16 GMT",
-      "source": "The Guardian"
     }
   ],
-  "totalArticles": 16143,
+  "totalArticles": 16149,
   "activeMonths": [
     "2026-01",
     "2025-12"
