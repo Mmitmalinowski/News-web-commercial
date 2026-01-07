@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-07T20:57:30.099Z",
+  "generatedAt": "2026-01-07T21:23:01.946Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -71479,12 +71503,6 @@
       "link": "https://www.theguardian.com/uk-news/2025/dec/20/police-use-riot-shields-to-help-recapture-runaway-wiltshire-goat",
       "pubDate": "Sat, 20 Dec 2025 18:38:16 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Amerykanie zapraszają na trójstronne rozmowy. Przełom czy zagrywka? Wołodymyr Zełenski: nie jestem pewien, czy wyniknie z tego coś nowego",
-      "link": "https://wiadomosci.onet.pl/politico/usa-zapraszaja-na-rozmowy-przelom-czy-zagrywka-zelenski-nie-jestem-pewien-czy/wepzx03",
-      "pubDate": "Sat, 20 Dec 2025 18:36:17 GMT",
-      "source": "Onet"
     }
   ]
 }
