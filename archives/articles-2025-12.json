@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-07T09:16:55.256Z",
+  "generatedAt": "2026-01-07T09:45:23.128Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -70957,12 +70981,6 @@
       "link": "https://wiadomosci.onet.pl/najtajniejsza-wigilia-w-pis-kaczynski-chce-wykonczyc-brauna-czarnecki-walczy-w-klatce/f9twwdh",
       "pubDate": "Sat, 20 Dec 2025 17:13:55 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Zbigniew Parafianowicz w Wirtualnej Polsce. Koniec współpracy z Onetem",
-      "link": "https://www.wirtualnemedia.pl/zbigniew-parafianowicz-w-wirtualnej-polsce-koniec-wspolpracy-z-onetem,7234559770405376a",
-      "pubDate": "Sat, 20 Dec 2025 18:10:52 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
