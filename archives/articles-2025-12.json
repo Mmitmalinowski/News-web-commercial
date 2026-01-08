@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-08T05:01:58.446Z",
+  "generatedAt": "2026-01-08T05:36:09.141Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -71749,12 +71773,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/steve-witkoff-spotkal-sie-z-wladimirem-putinem-rosjanie-postawili-warunek/n2wdqqj",
       "pubDate": "Sat, 20 Dec 2025 19:24:38 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "\"Nic nie stoi na przeszkodzie\". Deklarują wysłanie wojsk do Ukrainy",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-portugalskie-wojska-moga-trafic-do-ukrainy-kierujac-sie-zobo,nId,22501716",
-      "pubDate": "Sat, 20 Dec 2025 19:16:47 GMT",
-      "source": "Interia"
     }
   ]
 }
