@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-08T21:56:07.302Z",
+  "generatedAt": "2026-01-08T22:22:02.077Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -72505,12 +72529,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-tak-putin-testowal-czlowieka-trumpa-media-ujawniaja-zdumiewa,nId,22501735",
       "pubDate": "Sat, 20 Dec 2025 21:58:39 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "„WSJ”: Jak Witkoff został głównym negocjatorem Trumpa w sprawie Ukrainy. „Przyjedź sam, bez CIA”",
-      "link": "https://www.rp.pl/polityka/art43541831-wsj-jak-witkoff-zostal-glownym-negocjatorem-trumpa-w-sprawie-ukrainy-przyjedz-sam-bez-cia",
-      "pubDate": "Sat, 20 Dec 2025 22:51:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
