@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-08T20:51:00.254Z",
+  "generatedAt": "2026-01-08T21:00:09.220Z",
   "items": [
+    {
+      "title": "Karol Nawrocki krytykuje Włodzimierza Czarzastego. \"Pewien absmak\"",
+      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-skrytykowal-wlodzimierza-czarzastego-wypomnial-mu-konkretne-liczby/hdjbb1w",
+      "pubDate": "Thu, 08 Jan 2026 20:55:51 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zabbix + Grafana – cz.4 – Pobieranie danych z DB",
+      "link": "https://sekurak.pl/zabbix-grafana-cz-4-pobieranie-danych-z-db/",
+      "pubDate": "Thu, 08 Jan 2026 20:51:03 +0000",
+      "source": "Sekurak"
+    },
+    {
+      "title": "Nieoczekiwany triumf Karola Nawrockiego. \"Pomyłki czasem dają dobre rozwiązania\"",
+      "link": "https://wiadomosci.onet.pl/kraj/nieoczekiwany-triumf-karola-nawrockiego-komisji-zabraklo-glosow/fnjj2sd",
+      "pubDate": "Thu, 08 Jan 2026 20:50:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zaufany człowiek Ziobry nie do ruszenia? Kulisy sprawy prokuratora Ziarkiewicza",
+      "link": "https://www.rmf24.pl/polityka/news-zaufany-czlowiek-ziobry-nie-do-ruszenia-kulisy-sprawy-prokur,nId,8056330",
+      "pubDate": "Thu, 08 Jan 2026 21:48:01 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Disney+ zapowiada zmiany. Tego oczekuje pokolenie Z i Alfa",
       "link": "https://www.tabletowo.pl/disney-zapowiada-wertykalne-filmy/",
@@ -516,6 +540,12 @@
       "link": "https://www.chip.pl/2026/01/roborock-saros-rover-to-robot-sprzatajacy-ktory-w-koncu-nie-boi-sie-schodow",
       "pubDate": "Thu, 08 Jan 2026 19:00:00 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "\"Raport Międzynarodowy\". Oto nowe punkty zapalne w 2026 roku",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/raport-miedzynarodowy-rosja-dostala-w-policzek-skutki-interwencji-usa/89t44r4",
+      "pubDate": "Thu, 08 Jan 2026 19:00:00 GMT",
+      "source": "Onet"
     },
     {
       "title": "Iran protests spread nationwide as NGO reports dozens killed",
@@ -83090,6 +83120,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -117270,15 +117324,9 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-stany-zjednoczone-zatrzymaly-kolejny-tankowiec-u-wybrzezy-we,nId,8052400",
       "pubDate": "Sat, 20 Dec 2025 22:37:58 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Pozostałości świątyni grobowej króla Niuserre odkryte w Abusir",
-      "link": "https://www.rp.pl/spoleczenstwo/art43541771-pozostalosci-swiatyni-grobowej-krola-niuserre-odkryte-w-abusir",
-      "pubDate": "Sat, 20 Dec 2025 22:35:12 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 17473,
+  "totalArticles": 17478,
   "activeMonths": [
     "2026-01",
     "2025-12"
