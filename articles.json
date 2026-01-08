@@ -1,6 +1,36 @@
 {
-  "generatedAt": "2026-01-08T22:22:02.383Z",
+  "generatedAt": "2026-01-08T22:43:18.948Z",
   "items": [
+    {
+      "title": "US House breaks with Trump to revive Affordable Care Act subsidies",
+      "link": "https://www.theguardian.com/us-news/2026/jan/08/affordable-care-act-subsidies-vote",
+      "pubDate": "Thu, 08 Jan 2026 22:32:04 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump: to jedyna rzecz, która może mnie powstrzymać",
+      "link": "https://tvn24.pl/swiat/donald-trump-to-jedyna-rzecz-ktora-moze-mnie-powstrzymac-st8837382?source=rss",
+      "pubDate": "Thu, 08 Jan 2026 22:22:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Heatwave engulfs south-eastern states as Victoria faces catastrophic fire conditions not seen since Black Summer",
+      "link": "https://www.theguardian.com/environment/2026/jan/09/heatwave-engulfs-south-eastern-states-as-victoria-faces-catastrophic-bushfire-conditions-not-seen-since-black-summer",
+      "pubDate": "Thu, 08 Jan 2026 22:18:43 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "General Motors reports $7bn earnings loss after pulling back from EVs",
+      "link": "https://www.theguardian.com/business/2026/jan/08/general-motors-earnings-loss",
+      "pubDate": "Thu, 08 Jan 2026 22:12:29 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Siły morskie USA na wodach Zatoki Perskiej. Jest reakcja Iranu",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-08/sily-morskie-usa-w-poblizu-iranu-donald-trump-grozil-uzyciem-sily/",
+      "pubDate": "Thu, 08 Jan 2026 23:05:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "List Kim Dzong Una do Władimira Putina, upubliczniono treść. \"Bezwarunkowo\"",
       "link": "https://wydarzenia.interia.pl/zagranica/news-list-kim-dzong-una-do-wladimira-putina-upubliczniono-tresc-b,nId,22506613",
@@ -66,6 +96,12 @@
       "link": "https://regiony.rp.pl/z-regionow/art43609351-mroz-nie-sprzyja-nauce-zajecia-w-szkolach-moga-byc-zawieszane",
       "pubDate": "Thu, 08 Jan 2026 22:19:03 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dolary za przychylność mieszkańców. Media o planie Trumpa ws. Grenlandii",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-08/dolary-za-przychylnosc-mieszkancow-media-o-planie-trumpa-ws-grenlandii/",
+      "pubDate": "Thu, 08 Jan 2026 22:19:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Rosja planuje potężny atak na Ukrainę. USA ostrzegają, wydali alert",
@@ -83342,6 +83378,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -117492,15 +117552,9 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-swiateczne-zyczenia-z-glebin-przystrojona-choinka-na-dnie-je,nId,8052401",
       "pubDate": "Sat, 20 Dec 2025 23:43:16 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Tak Putin testował człowieka Trumpa. Media ujawniają zdumiewające fakty",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-tak-putin-testowal-czlowieka-trumpa-media-ujawniaja-zdumiewa,nId,22501735",
-      "pubDate": "Sat, 20 Dec 2025 21:58:39 GMT",
-      "source": "Interia"
     }
   ],
-  "totalArticles": 17495,
+  "totalArticles": 17501,
   "activeMonths": [
     "2026-01",
     "2025-12"
