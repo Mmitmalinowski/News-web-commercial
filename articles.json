@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-08T23:45:43.157Z",
+  "generatedAt": "2026-01-08T23:55:26.705Z",
   "items": [
+    {
+      "title": "Skandal w Piasecznie. Policja reaguje na wpisy w sieci. Zapowiada działania",
+      "link": "https://wiadomosci.onet.pl/warszawa/skandal-w-piasecznie-policja-reaguje-na-wpisy-w-sieci-zapowiada-dzialania/ycv8cvf",
+      "pubDate": "Thu, 08 Jan 2026 23:47:06 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zmasowany atak Rosjan po ostrzeżeniach USA. Uderzenia w Kijowie i we Lwowie",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-zmasowany-atak-rosjan-po-ostrzezeniach-usa-uderzenia-w-kijow,nId,22506619",
+      "pubDate": "Thu, 08 Jan 2026 23:40:43 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Fact check: Trump's claim about the ICE operation is false",
       "link": "https://www.dw.com/en/fact-check-trump-s-claim-about-the-ice-operation-is-false/a-75442390?maca=en-rss-en-all-1573-xml-mrss",
@@ -83594,6 +83606,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -117714,15 +117750,9 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rozpoczely-sie-wczesniej-wyslannik-kremla-zabral-glos-po-roz,nId,22501736",
       "pubDate": "Sat, 20 Dec 2025 23:29:48 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Zmarła Gabriela Andrychowicz, była prezenterka Chillizet",
-      "link": "http://www.press.pl/tresc/90820,zmarla-gabriela-andrychowicz_-byla-prezenterka-chillizet?rss=1",
-      "pubDate": "Sun, 21 Dec 2025 00:06:00 +0100",
-      "source": "Press.pl"
     }
   ],
-  "totalArticles": 17517,
+  "totalArticles": 17519,
   "activeMonths": [
     "2026-01",
     "2025-12"
