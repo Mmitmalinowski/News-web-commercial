@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-08T23:32:10.807Z",
+  "generatedAt": "2026-01-08T23:45:43.157Z",
   "items": [
+    {
+      "title": "Fact check: Trump's claim about the ICE operation is false",
+      "link": "https://www.dw.com/en/fact-check-trump-s-claim-about-the-ice-operation-is-false/a-75442390?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 8 Jan 2026 23:32:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Tennessee university reinstates professor fired for post criticizing Charlie Kirk",
+      "link": "https://www.theguardian.com/us-news/2026/jan/08/tennessee-university-professor-reinstated-charlie-kirk-post",
+      "pubDate": "Thu, 08 Jan 2026 23:29:34 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Jaki będzie styczeń? RPP ma argumenty za pauzą w luzowaniu polityki pieniężnej",
+      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43606541-jaki-bedzie-styczen-rpp-ma-argumenty-za-pauza-w-luzowaniu-polityki-pienieznej",
+      "pubDate": "Fri, 09 Jan 2026 00:27:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ten properties in Ruffy destroyed, including firefighter’s home, as fire hits Victorian town ‘like a bomb’",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/09/ten-properties-in-ruffy-destroyed-including-firefighters-home-as-fire-hits-victorian-town-like-a-bomb",
+      "pubDate": "Thu, 08 Jan 2026 23:25:49 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Greenland: Vance warns Europe to take Trump 'seriously'",
       "link": "https://www.dw.com/en/greenland-vance-warns-europe-to-take-trump-seriously/a-75442457?maca=en-rss-en-all-1573-xml-mrss",
@@ -20,10 +44,22 @@
       "source": "GeekWeek"
     },
     {
+      "title": "Rosja uderzyła w Ukrainę potężnym Oresznikiem. Jest nagranie",
+      "link": "https://geekweek.interia.pl/militaria/news-rosja-uderzyla-w-ukraine-poteznym-oresznikiem,nId,22506618",
+      "pubDate": "Thu, 08 Jan 2026 23:05:56 GMT",
+      "source": "GeekWeek"
+    },
+    {
       "title": "US congressmen ask judge to appoint official to force release of all Epstein files",
       "link": "https://www.theguardian.com/us-news/2026/jan/08/judge-appoint-official-release-epstein-files",
       "pubDate": "Thu, 08 Jan 2026 23:03:40 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Minnesota officials say FBI blocked their access to ICE shooting probe",
+      "link": "https://www.bbc.com/news/articles/c99knmrx71go?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 08 Jan 2026 23:01:45 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Fala nocnych ataków Rosjan. Eksplozje słyszane w Kijowie i Lwowie",
@@ -83534,6 +83570,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -117660,15 +117720,9 @@
       "link": "http://www.press.pl/tresc/90820,zmarla-gabriela-andrychowicz_-byla-prezenterka-chillizet?rss=1",
       "pubDate": "Sun, 21 Dec 2025 00:06:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "USA przejęły tankowiec u wybrzeży Wenezueli. W tle walka karteli narkotykowych",
-      "link": "https://wiadomosci.onet.pl/swiat/usa-przejely-tankowiec-u-wybrzezy-wenezueli-w-tle-walka-karteli-narkotykowych/cyrtlhf",
-      "pubDate": "Sat, 20 Dec 2025 23:01:34 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 17511,
+  "totalArticles": 17517,
   "activeMonths": [
     "2026-01",
     "2025-12"
