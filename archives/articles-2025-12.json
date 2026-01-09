@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-09T04:12:20.649Z",
+  "generatedAt": "2026-01-09T04:52:28.470Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -72685,12 +72709,6 @@
       "link": "https://www.theguardian.com/football/2025/dec/21/football-teams-boxing-day-bonanza-lack-premier-league-games",
       "pubDate": "Sun, 21 Dec 2025 00:09:43 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Afryka domaga się reparacji za kolonializm. Straty oszacowano na kosmiczną kwotę",
-      "link": "https://wiadomosci.onet.pl/swiat/afryka-chce-reparacji-za-kolonializm-straty-oszacowano-na-kosmiczna-kwote/zwxx0jj",
-      "pubDate": "Sun, 21 Dec 2025 00:08:46 GMT",
-      "source": "Onet"
     }
   ]
 }
