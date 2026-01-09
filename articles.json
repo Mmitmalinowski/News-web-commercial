@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-09T22:48:47.342Z",
+  "generatedAt": "2026-01-09T22:57:51.210Z",
   "items": [
+    {
+      "title": "Trump znowu o Grenlandii: jeśli nie po dobroci, to w trudniejszy sposób",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-trump-znowu-o-grenlandii-jesli-nie-po-dobroci-to-w-trudniejs,nId,8056803",
+      "pubDate": "Fri, 09 Jan 2026 23:53:01 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Po dobroci lub w trudniejszy sposób\". Trump stawia jasno sprawę Grenlandii",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-po-dobroci-lub-w-trudniejszy-sposob-trump-stawia-jasno-spraw,nId,22507081",
+      "pubDate": "Fri, 09 Jan 2026 22:50:54 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Ruch Wenezueli po latach. Władze zamierzają naprawić relacje z USA",
       "link": "https://wiadomosci.onet.pl/swiat/wladze-wenezueli-zamierzaja-naprawic-relacje-z-usa/chxfrxx",
@@ -2520,6 +2532,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -93338,6 +93374,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -127146,15 +127206,9 @@
       "link": "https://geekweek.interia.pl/nauka/news-to-nie-byl-stracony-rok-7-optymistycznych-historii-naukowych,nId,22499935",
       "pubDate": "Sun, 21 Dec 2025 04:50:02 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Polska na mapie kierunków na święta. Wyróżniono dwa miasta",
-      "link": "https://biznes.interia.pl/gospodarka/news-tam-warto-pojechac-na-swieta-polska-wyrozniona-za-najlepsza,nId,22499956",
-      "pubDate": "Sun, 21 Dec 2025 04:50:02 GMT",
-      "source": "Biznes.interia.pl"
     }
   ],
-  "totalArticles": 18858,
+  "totalArticles": 18861,
   "activeMonths": [
     "2026-01",
     "2025-12"
