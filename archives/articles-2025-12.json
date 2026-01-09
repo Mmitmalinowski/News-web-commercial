@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-09T23:39:43.439Z",
+  "generatedAt": "2026-01-09T23:50:55.234Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -39813,6 +39813,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -73601,12 +73625,6 @@
     {
       "title": "Tyle średnio kosztuje bilet lotniczy w okresie świątecznym",
       "link": "https://www.bankier.pl/wiadomosc/Tyle-srednio-kosztuje-bilet-lotniczy-w-okresie-swiatecznym-9057047.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 21 Dec 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "AI, które „czyta” mowę ciała pieszego. Przełom w autonomicznej jeździe",
-      "link": "https://www.bankier.pl/wiadomosc/AI-ktore-czyta-mowe-ciala-pieszego-Przelom-w-autonomicznej-jezdzie-9053716.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 21 Dec 2025 06:00:00 +0100",
       "source": "Bankier.pl"
     }
