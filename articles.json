@@ -1,11 +1,23 @@
 {
-  "generatedAt": "2026-01-09T21:25:42.623Z",
+  "generatedAt": "2026-01-09T21:41:29.221Z",
   "items": [
+    {
+      "title": "Irańskie elity szukają schronienia we Francji i Rosji. Upadek reżimu coraz bliżej?",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-iranskie-elity-szukaja-schronienia-we-francji-i-rosji-upadek,nId,8056793",
+      "pubDate": "Fri, 09 Jan 2026 22:29:44 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "\"Nie wyrzuciłabym krzyża\". Nauczycielka wyjaśnia",
       "link": "https://wydarzenia.interia.pl/wiadomosci-lokalne/news-nie-wyrzucilabym-krzyza-nauczycielka-wyjasnia,nId,22507070",
       "pubDate": "Fri, 09 Jan 2026 21:23:54 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Australia heatwave live updates: Victoria declares state of disaster in multiple areas as bushfires rage; temperatures to reach 43C in Sydney",
+      "link": "https://www.theguardian.com/australia-news/live/2026/jan/10/australia-heatwave-updates-sydney-temperature-victorian-fires-bushfire-latest",
+      "pubDate": "Fri, 09 Jan 2026 21:21:22 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Wróciliśmy do rozwiązań sprzed lat. Ludzie są w szoku i dzwonią po straż",
@@ -2388,6 +2400,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -92966,6 +93002,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -126804,15 +126864,9 @@
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-stawia-sprawe-jasno-to-moze-byc-wojna-podsumowanie-nocy/zmtrl9d",
       "pubDate": "Sun, 21 Dec 2025 04:45:40 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Australian PM announces intelligence review as country mourns Bondi attack",
-      "link": "https://www.bbc.com/news/articles/c5ydzl0nwqeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 21 Dec 2025 04:43:19 GMT",
-      "source": "BBC News"
     }
   ],
-  "totalArticles": 18831,
+  "totalArticles": 18834,
   "activeMonths": [
     "2026-01",
     "2025-12"
