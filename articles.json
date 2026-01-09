@@ -1,10 +1,430 @@
 {
-  "generatedAt": "2026-01-09T12:20:46.740Z",
+  "generatedAt": "2026-01-09T13:10:13.495Z",
   "items": [
+    {
+      "title": "Zima sparaliżowała Czechy! Autostrady zablokowane, drogi do Polski nieprzejezdne",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-zima-sparalizowala-czechy-autostrady-zablokowane-drogi-do-po,nId,8056541",
+      "pubDate": "Fri, 09 Jan 2026 14:06:24 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Śmierć ciężarnej w szpitalu w Warszawie. Kontrole instalacji gazów medycznych w stołecznych placówkach",
+      "link": "https://zyciewarszawy.pl/zdrowie/art43612361-smierc-ciezarnej-w-szpitalu-na-madalinskiego-kontrole-instalacji-gazow-medycznych-w-warszawskich-placowkach",
+      "pubDate": "Fri, 09 Jan 2026 14:05:43 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "USA przychyliły się do prośby Rosji. \"Przyjmujemy decyzję z zadowoleniem\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-usa-przychylily-sie-do-prosby-rosji-przyjmujemy-decyzje-z-za,nId,22506878",
+      "pubDate": "Fri, 09 Jan 2026 13:03:18 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Dlaczego nikt nie wygrywa z FIFA? Przykład Gabonu mówi wszystko",
+      "link": "https://www.rp.pl/plus-minus/art43606011-dlaczego-nikt-nie-wygrywa-z-fifa-przyklad-gabonu-mowi-wszystko",
+      "pubDate": "Fri, 09 Jan 2026 14:03:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Aktywacja Windows bez Internetu? Jest jeszcze jeden sposób",
+      "link": "https://antyweb.pl/aktywacja-windows-offline",
+      "pubDate": "Fri, 09 Jan 2026 13:00:34 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Jaki będzie 2026 rok dla polskiej gospodarki?",
+      "link": "https://pro.rp.pl/magazyn-o-biznesie/art43606131-jaki-bedzie-2026-rok-dla-polskiej-gospodarki",
+      "pubDate": "Fri, 09 Jan 2026 14:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Tłusty nabiał a zdrowie mózgu. Zaskakujące wyniki 25-letnich badań",
+      "link": "https://kobieta.rp.pl/nauka/art43593931-tlusty-nabial-a-zdrowie-mozgu-zaskakujace-wyniki-25-letnich-badan",
+      "pubDate": "Fri, 09 Jan 2026 13:59:21 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kary dla firm odśnieżających miejskie chodniki. Jedna straciła umowę",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-kary-dla-firm-odsniezajacych-miejskie-chodniki-jedna-z-nich-stracila-umowe-st8838317?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:59:17 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Protest rolników przeciwko Mercosur. Z takimi transparentami przyjechali [GALERIA]",
+      "link": "https://wiadomosci.onet.pl/kraj/protest-rolnikow-przeciwko-mercosur-z-takimi-transparentami-przyjechali-galeria/8f95nwm",
+      "pubDate": "Fri, 09 Jan 2026 12:58:14 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tajemnicze okoliczności śmierci \"Pershinga\" w Zakopanem. Jego zabójca właśnie wyszedł na wolność i będzie walczył o odszkodowanie",
+      "link": "https://wiadomosci.onet.pl/kraj/egzekucja-pershinga-kryje-tajemnice-jego-zabojca-wyszedl-na-wolnosc/pdexxmf",
+      "pubDate": "Fri, 09 Jan 2026 12:54:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "MSZ wezwie ambasadora. Oczekuje wyjaśnień ws. Polaków z azylem na Węgrzech",
+      "link": "https://www.rmf24.pl/fakty/polska/news-msz-wezwie-ambasadora-oczekuje-wyjasnien-ws-polakow-z-azylem,nId,8056525",
+      "pubDate": "Fri, 09 Jan 2026 13:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Międzynarodowa mafia i polski król kryptowalut. Ustalenia \"Superwizjera\"",
+      "link": "https://tvn24.pl/katowice/miedzynarodowa-mafia-i-polski-krol-kryptowalut-ustalenia-superwizjera-st8837592?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:52:59 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Prezydent Karol Nawrocki zawetował ustawę wdrażającą akt o usługach cyfrowych (DSA)",
+      "link": "https://www.rp.pl/prawo-w-polsce/art43612591-prezydent-karol-nawrocki-zawetowal-ustawe-wdrazajaca-akt-o-uslugach-cyfrowych-dsa",
+      "pubDate": "Fri, 09 Jan 2026 13:52:35 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polskie F-35 to już potęga. Amerykanie właśnie nam pogratulowali",
+      "link": "https://spidersweb.pl/2026/01/polskie-f-35-to-juz-potega.html",
+      "pubDate": "Fri, 09 Jan 2026 13:52:26 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Rośnie napięcie na Bliskim Wschodzie. Ajatollah grozi protestującym",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-rosnie-napiecie-na-bliskim-wschodzie-ajatollah-grozi-protest,nId,22506853",
+      "pubDate": "Fri, 09 Jan 2026 12:51:43 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Moskwa uderza Oriesznikiem pod Lwów. Strachy na Lachy i desperacja Putina",
+      "link": "https://oko.press/moskwa-uderza-oriesznikiem-pod-lwow-strachy-na-lachy-i-desperacja-putina",
+      "pubDate": "Fri, 09 Jan 2026 12:51:41 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "\"Kompletnie nie do pomyślenia\". Upokorzenie Rosji. Postawiła wszystko na przegraną kartę. Dziś szydzą z niej nawet jej dawni \"wasale\" [OPINIA]",
+      "link": "https://wiadomosci.onet.pl/swiat/rosja-wypadla-z-gry-putin-zostal-wyparty-z-wlasnego-podworka-opinia/rw0jjbz",
+      "pubDate": "Fri, 09 Jan 2026 12:50:51 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kosiniak-Kamysz o umowie z Mercosur: \"Przygotujemy zaskarżenie do TSUE\"",
+      "link": "https://biznes.interia.pl/polityka/news-kosiniak-kamysz-o-umowie-ue-z-mercosur-sprawa-nie-jest-zamkn,nId,22506892",
+      "pubDate": "Fri, 09 Jan 2026 12:50:46 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Od zahaczenia ramieniem w windzie do pobicia. Policja pokazuje nagranie",
+      "link": "https://tvn24.pl/katowice/zory-od-zahaczenia-ramieniem-w-windzie-do-pobicia-nagranie-st8838328?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:50:45 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Oriesznik nie miał głowicy bojowej. SBU pokazuje szczątki pocisku",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-oriesznik-nie-mial-glowicy-bojowej-sbu-pokazuje-szczatki-poc,nId,8056512",
+      "pubDate": "Fri, 09 Jan 2026 13:50:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "US military in Germany: What you need to know",
+      "link": "https://www.dw.com/en/us-military-in-germany-what-you-need-to-know/a-49998340?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 9 Jan 2026 12:50:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Szef BBN zareagował na wpis ministra obrony. \"Szturchanie nie na miejscu\"",
+      "link": "https://wiadomosci.onet.pl/kraj/szef-bbn-zareagowal-na-wpis-ministra-obrony-szturchanie-nie-na-miejscu/4t529n6",
+      "pubDate": "Fri, 09 Jan 2026 12:49:06 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Prezydent Nawrocki wetuje ustawę pozwalającą na blokadę nielegalnych treści w internecie. Powtarza argumenty o cenzurze",
+      "link": "https://www.wirtualnemedia.pl/prezydent-nawrocki-wetuje-ustawe-pozwalajaca-na-blokade-nielegalnych-tresci-w-internecie-powtarza-argumenty-o-cenzurze,7241562310728672a",
+      "pubDate": "Fri, 09 Jan 2026 13:48:59 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Rekordowa kwalifikacja wojskowa w Zachodniopomorskiem – kogo wezwą?",
+      "link": "https://www.rmf24.pl/regiony/szczecin/news-rekordowa-kwalifikacja-wojskowa-w-zachodniopomorskiem-kogo-w,nId,8056528",
+      "pubDate": "Fri, 09 Jan 2026 13:48:38 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Mapa zasięgu sieci T-Mobile 5G. Gdzie jest szybki internet?",
+      "link": "https://spidersweb.pl/t-mobile-5g-mapa-zasiegu-polska-warszawa/",
+      "pubDate": "Fri, 09 Jan 2026 13:47:09 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Pusheen przejmuje Biedronkę. Akcesoria elektroniczne w świetnych cenach",
+      "link": "https://android.com.pl/tech/1007717-elektrosprzety-pusheen-w-biedronce/",
+      "pubDate": "Fri, 09 Jan 2026 12:46:23 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Gwałt na komisariacie. Jest oświadczenie Komendy Głównej Policji",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/gwalt-na-komisariacie-jest-oswiadczenie-komendy-glownej-policji",
+      "pubDate": "Fri, 09 Jan 2026 12:45:39 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Awantura w Sejmie. \"Niech pan nie macha paluchem\"",
+      "link": "https://tvn24.pl/polska/sprawa-gwaltu-na-policjantce-spiecie-w-sejmie-marcin-kierwinski-do-pis-chcecie-robic-tanie-politykierstwo-st8837918?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:45:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Wszystko się skończy, łącznie z NATO\". Trump kreśli czarny scenariusz. Może popełnić największy błąd w historii Zachodu",
+      "link": "https://wiadomosci.onet.pl/politico/wszystko-sie-skonczy-lacznie-z-nato-trump-kresli-czarny-scenariusz-moze-popelnic/1vt2sch",
+      "pubDate": "Fri, 09 Jan 2026 12:44:28 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wielki magazyn gazu na celowniku Rosjan. Wystrzelili rakiety Oresznik",
+      "link": "https://www.money.pl/gospodarka/wielki-magazyn-gazu-na-celowniku-rosjan-wystrzelili-rakiety-oresznik-7241567201249792a.html",
+      "pubDate": "Fri, 09 Jan 2026 13:44:25 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Rolnicy boją się skutków umowy z Mercosur. \"Za co wyżywimy nasze rodziny?\"",
+      "link": "https://tvn24.pl/biznes/najnowsze/rolnicy-boja-sie-skutkow-umowy-z-mercosur-za-co-wyzywimy-nasze-rodziny-st8838188?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:43:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Świat ciągle daje do myślenia. Andrzej Leder, gość „Plusa Minusa”, poleca",
+      "link": "https://www.rp.pl/plus-minus/art43605951-swiat-ciagle-daje-do-myslenia-andrzej-leder-gosc-plusa-minusa-poleca",
+      "pubDate": "Fri, 09 Jan 2026 13:42:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nielegalna wycinka kilkuset drzew. Jest śledztwo",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/torun-nielegalna-wycinka-kilkuset-drzew-z-obszaru-natura-2000-st8838300?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:41:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Część mediów ma reporterów na granicy Kolumbii z Wenezuelą",
+      "link": "http://www.press.pl/tresc/91095,czesc-mediow-ma-reporterow-na-granicy-kolumbii-z-wenezuela?rss=1",
+      "pubDate": "Fri, 09 Jan 2026 13:40:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Prezydent zawetował nowelizację ustawy o usługach cyfrowych. Apele nie pomogły",
+      "link": "https://cyberdefence24.pl/polityka-i-prawo/prezydent-zawetowal-nowelizacje-ustawy-o-uslugach-cyfrowych-apele-nie-pomogly",
+      "pubDate": "Fri, 09 Jan 2026 13:39:10 +0100",
+      "source": "Cyberdefence24"
+    },
+    {
+      "title": "Kolejne zatrzymania w sprawie \"mafii śmieciowej\". Pięć osób w areszcie",
+      "link": "https://tvn24.pl/opole/kolejne-zatrzymania-w-sprawie-mafii-smieciowej-piec-osob-w-areszcie-st8838197?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:38:57 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wystawy w Europie, które trzeba zobaczyć w tym roku. Cézanne, Matisse, Abramović",
+      "link": "https://sukces.rp.pl/sztuka/art43607591-wystawy-w-europie-ktore-trzeba-zobaczyc-w-tym-roku-cezanne-matisse-abramovic",
+      "pubDate": "Fri, 09 Jan 2026 13:38:39 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kolejne weta prezydenta. Karol Nawrocki zdecydował",
+      "link": "https://businessinsider.com.pl/wiadomosci/trzy-weta-prezydenta-co-zawetowal-karol-nawrocki/v44vcfs",
+      "pubDate": "Fri, 09 Jan 2026 12:38:08 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Polacy zmieniają sposób ogrzewania swoich mieszkań. Coraz mniej ciepła sieciowego",
+      "link": "https://businessinsider.com.pl/gospodarka/czym-grzeja-sie-polacy-coraz-mniej-ciepla-sieciowego/vc2774s",
+      "pubDate": "Fri, 09 Jan 2026 12:37:53 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kolejne weta prezydenta. \"Gdy rząd pracuje dobrze - weta nie ma\"",
+      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-zawetowal-trzy-ustawy-st8838338?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:37:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kalendarz szczepień, 88 szczepionek i liczba Hitlera. Tym razem sięgają po \"magię liczb\"    ",
+      "link": "https://konkret24.tvn24.pl/zdrowie/kalendarz-szczepien-88-szczepionek-i-liczba-hitlera-tym-razem-siegaja-po-magie-liczb-st8836686?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:37:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tusk przyjechał do Nawrockiego. Rozmowy w cztery oczy",
+      "link": "https://wydarzenia.interia.pl/kraj/news-tusk-przyjechal-do-nawrockiego-rozmowy-w-cztery-oczy,nId,22506733",
+      "pubDate": "Fri, 09 Jan 2026 12:36:59 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Jak wygląda skuteczność ochrony granicy z Białorusią? Są nowe dane",
+      "link": "https://www.rmf24.pl/fakty/polska/news-jak-wyglada-skutecznosc-ochrony-granicy-z-bialorusia-sa-nowe,nId,8056519",
+      "pubDate": "Fri, 09 Jan 2026 13:36:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Rozpoczęło się spotkanie premiera Tuska z prezydentem Nawrockim",
+      "link": "https://wiadomosci.onet.pl/kraj/rozpoczelo-sie-spotkanie-premiera-tuska-z-prezydentem-nawrockim/qg7qc8p",
+      "pubDate": "Fri, 09 Jan 2026 12:35:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Są kolejne trzy weta Karola Nawrockiego",
+      "link": "https://www.rmf24.pl/polityka/news-sa-kolejne-trzy-weta-karola-nawrockiego,nId,8056520",
+      "pubDate": "Fri, 09 Jan 2026 13:35:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nie będzie blokowania nielegalnych treści w internecie. Ustawa zablokowana przez prezydenta",
+      "link": "https://www.bankier.pl/wiadomosc/Nie-bedzie-blokowania-nielegalnych-tresci-w-internecie-Ustawa-zablokowana-przez-prezydenta-9065952.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 13:35:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Tusk przyjechał do Nawrockiego. Rozmowa w cztery oczy",
+      "link": "https://tvn24.pl/polska/donald-tusk-przyjechal-do-karola-nawrockiego-st8838219?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:34:54 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Słowo Roku 2025 ogłoszone. Czy wybór kapituły i internautów cię zaskoczy?",
+      "link": "https://geekweek.interia.pl/lifestyle/news-to-one-rzadzily-nasza-wyobraznia-wybrano-najwazniejsze-slowa,nId,22506816",
+      "pubDate": "Fri, 09 Jan 2026 12:34:23 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Erste głównym akcjonariuszem Santander BP",
+      "link": "https://www.bankier.pl/wiadomosc/Erste-sfinalizowal-zakup-ok-49-proc-akcji-Santander-Bank-Polska-9065950.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 13:34:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Wielka transakcja na polskim rynku. Jest potwierdzenie",
+      "link": "https://biznes.interia.pl/gospodarka/news-wielka-transakcja-na-polskim-rynku-od-dzis-wspolnie-bedziemy,nId,22506903",
+      "pubDate": "Fri, 09 Jan 2026 12:33:24 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Polskie wojsko planuje modernizację. Gigant składa ofertę na wyjątkowe samoloty",
+      "link": "https://businessinsider.com.pl/wiadomosci/airbus-sklada-oferte-polskiemu-wojsku-chca-dostarczyc-wyjatkowe-samoloty/bl7n7rg",
+      "pubDate": "Fri, 09 Jan 2026 12:33:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Donald Tusk już w Pałacu Prezydenckim. Czego dotyczy rozmowa?",
+      "link": "https://www.rp.pl/polityka/art43612421-donald-tusk-juz-w-palacu-prezydenckim-czego-dotyczy-rozmowa",
+      "pubDate": "Fri, 09 Jan 2026 13:33:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kolejne ustawy z wetem Karola Nawrockiego. Znamy szczegóły",
+      "link": "https://wiadomosci.onet.pl/kraj/kolejne-ustawy-z-wetem-karola-nawrockiego-nie-jestem-notariuszem/44se8p4",
+      "pubDate": "Fri, 09 Jan 2026 12:32:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Minister rolnictwa o Mercosur. Uderza w Karola Nawrockiego",
+      "link": "https://wiadomosci.onet.pl/kraj/minister-rolnictwa-o-mercosur-uderza-w-karola-nawrockiego/zsrg8vd",
+      "pubDate": "Fri, 09 Jan 2026 12:27:07 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nowy Jork. Dramatyczne sceny w szpitalu \"wczesnym sprawdzianem\" dla Mamdaniego?",
+      "link": "https://tvn24.pl/swiat/nowy-jork-politico-dramatyczne-sceny-w-szpitalu-wczesnym-sprawdzianem-dla-mamdaniego-st8837893?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:27:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "OSHEE oficjalnym partnerem LALIGA na 43 rynkach europejskich",
+      "link": "https://wiadomosci.onet.pl/kraj/oshee-oficjalnym-partnerem-laliga-na-43-rynkach-europejskich/929r6sm",
+      "pubDate": "Fri, 09 Jan 2026 12:27:00 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "70 lat od śmierci Garegina Nżdeha. Armenia wciąż żyje jego cieniem",
+      "link": "https://www.rp.pl/plus-minus/art43606031-70-lat-od-smierci-garegina-nzdeha-armenia-wciaz-zyje-jego-cieniem",
+      "pubDate": "Fri, 09 Jan 2026 13:27:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Robotyczna ustawka na CES 2026 w wersji Unitree",
+      "link": "https://www.chip.pl/2026/01/robot-unitree-g1-ces-2026-boks-mma",
+      "pubDate": "Fri, 09 Jan 2026 12:27:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "X UK revenues drop nearly 60% in a year as content concerns spook advertisers",
+      "link": "https://www.theguardian.com/technology/2026/jan/09/x-uk-revenues-drop-nearly-60-in-a-year-as-advertisers-pull-out-over-content-concerns",
+      "pubDate": "Fri, 09 Jan 2026 12:26:38 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Umowa UE z Mercosur. Co oznacza dla europejskiego przemysłu i rolnictwa?",
+      "link": "https://biznes.interia.pl/gospodarka/news-umowa-z-mercosur-jest-zielone-swiatlo-oto-co-sie-zmieni,nId,22506852",
+      "pubDate": "Fri, 09 Jan 2026 12:25:45 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Wstrząsająca śmierć ciężarnej. Rafał Trzaskowski zapowiada kontrole",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-wstrzasajaca-smierc-ciezarnej-rafal-trzaskowski-zapowiada-ko,nId,8056505",
+      "pubDate": "Fri, 09 Jan 2026 13:25:15 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Karol Nawrocki podjął decyzję. Nowe weta prezydenta",
+      "link": "https://wydarzenia.interia.pl/kraj/news-karol-nawrocki-podjal-decyzje-nowe-weta-prezydenta,nId,22506868",
+      "pubDate": "Fri, 09 Jan 2026 12:25:06 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Skandal w bytomskim Kościele. Dwóch byłych proboszczów usłyszało zarzuty",
+      "link": "https://wiadomosci.onet.pl/slask/skandal-w-bytomskim-kosciele-chodzi-o-oszustwa-na-ponad-30-mln-zl/gfq4xx0",
+      "pubDate": "Fri, 09 Jan 2026 12:24:50 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zielone światło dla umowy z Mercosurem. Takie są jej cele",
+      "link": "https://businessinsider.com.pl/gospodarka/mercosur-i-unia-europejska-jakie-korzysci-i-wyzwania-dla-polskiej-gospodarki/vfyxb9j",
+      "pubDate": "Fri, 09 Jan 2026 12:22:29 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Karty, klimat i planowanie. „Pierwsza osada” wciąga od pierwszej rundy",
+      "link": "https://www.rp.pl/plus-minus/art43606071-karty-klimat-i-planowanie-pierwsza-osada-wciaga-od-pierwszej-rundy",
+      "pubDate": "Fri, 09 Jan 2026 13:22:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ktoś przerobił twoje zdjęcie. Jak można się chronić przed tym procederem?",
+      "link": "https://www.rp.pl/prawo-dla-ciebie/art43612051-ktos-przerobil-twoje-zdjecie-jak-mozna-sie-chronic-przed-tym-procederem",
+      "pubDate": "Fri, 09 Jan 2026 13:22:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Spotify no longer running ICE recruitment ads, after US government campaign ends",
+      "link": "https://www.theguardian.com/technology/2026/jan/09/spotify-no-longer-running-ice-recruitment-ads-after-us-government-campaign-ends",
+      "pubDate": "Fri, 09 Jan 2026 12:19:25 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Tragedia pod Zieloną Górą. Pies zagryzł mężczyznę. Drastyczne obrażenia",
+      "link": "https://wiadomosci.onet.pl/lubuskie/tragedia-pod-zielona-gora-pies-zagryzl-mezczyzne-drastyczne-obrazenia/gygj9c2",
+      "pubDate": "Fri, 09 Jan 2026 12:17:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Rosja użyła Oriesznika. Oto dlaczego Ukraina nie jest w stanie go zatrzymać",
+      "link": "https://wiadomosci.onet.pl/swiat/rosja-uzyla-oriesznika-ukraina-nie-jest-w-stanie-go-zatrzymac/5neltkp",
+      "pubDate": "Fri, 09 Jan 2026 12:17:23 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Tragedia po cesarskim cięciu. 31-latka zmarła kilka godzin po porodzie",
       "link": "https://www.rmf24.pl/regiony/warszawa/news-tragedia-po-cesarskim-cieciu-31-latka-zmarla-kilka-godzin-po,nId,8056500",
       "pubDate": "Fri, 09 Jan 2026 13:14:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Bryła lodu z tira roztrzaskała szybę Audi, raniła kobietę! Policja szuka sprawcy koszmarnego wypadku",
+      "link": "https://www.rmf24.pl/regiony/poznan/news-bryla-lodu-z-tira-roztrzaskala-szybe-audi-ranila-kobiete-pol,nId,8056513",
+      "pubDate": "Fri, 09 Jan 2026 13:13:41 +0100",
       "source": "RMF24"
     },
     {
@@ -18,6 +438,18 @@
       "link": "https://www.rp.pl/plus-minus/art43605891-jan-maciejewski-podroz-trzech",
       "pubDate": "Fri, 09 Jan 2026 13:12:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Operacja „Północny Korsarz”. Rosja pali \"legendę\"",
+      "link": "https://tech.wp.pl/s/portalstoczniowy-pl/operacja-polnocny-korsarz-rosja-pali-legende,7241062925166209a",
+      "pubDate": "Fri, 09 Jan 2026 13:12:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Trump's grand plan to reshape the world order leaves Europe with a difficult choice to make",
+      "link": "https://www.bbc.com/news/articles/c041n3ng03no?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 09 Jan 2026 12:11:35 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Cisza w Waszyngtonie, hałas w Kijowie. Zakulisowa dyplomacja zderza się z atakami Kremla. \"Niekończące się dokumenty nie ogrzeją wieżowca\"",
@@ -42,6 +474,12 @@
       "link": "https://spidersweb.pl/2026/01/samsung-galaxy-a57-premiera-luty.html",
       "pubDate": "Fri, 09 Jan 2026 13:08:17 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Orkan Goretti spustoszył Wielką Brytanię. Tysiące domów wciąż bez prądu",
+      "link": "https://www.bankier.pl/wiadomosc/Orkan-Goretti-spustoszyl-Wielka-Brytanie-Tysiace-domow-wciaz-bez-pradu-9065926.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 13:08:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "„Project Motor Racing” – frajda za kierownicą, frustracja w menu",
@@ -248,6 +686,12 @@
       "source": "Onet"
     },
     {
+      "title": "Rosjanie uwolnieni z tankowca przejętego przez USA. Maria Zacharowa wyraża wdzięczność",
+      "link": "https://wiadomosci.onet.pl/swiat/dwaj-rosjanie-uwolnieni-z-tankowca-przejetego-przez-usa-zacharowa-dziekuje/skhse3b",
+      "pubDate": "Fri, 09 Jan 2026 11:43:57 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Tragiczna śmierć ciężarnej w szpitalu. Prezydent Warszawy zarządził kontrolę",
       "link": "https://wiadomosci.onet.pl/warszawa/smierc-ciezarnej-w-warszawskim-szpitalu-rafal-trzaskowski-zarzadzil-kontrole/pqg5xy6",
       "pubDate": "Fri, 09 Jan 2026 11:42:17 GMT",
@@ -299,6 +743,12 @@
       "title": "Reform UK accused of ‘betraying’ election pledges after council tax rises",
       "link": "https://www.theguardian.com/politics/2026/jan/09/reform-uk-accused-of-betraying-election-pledges-after-council-tax-rises",
       "pubDate": "Fri, 09 Jan 2026 11:36:34 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Digested week: How potatoes dauphinoise took a chunk of my thumb … and with it my new year optimism",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/09/digested-week-how-potatoes-dauphinoise-took-chunk-of-my-thumb-new-year-optimism",
+      "pubDate": "Fri, 09 Jan 2026 11:36:22 GMT",
       "source": "The Guardian"
     },
     {
@@ -714,6 +1164,12 @@
       "link": "https://tvn24.pl/katowice/ruda-slaska-nie-spodobala-im-sie-czapka-z-klubowym-logo-szarpali-odpychali-kopali-zarzuty-dla-dwoch-mezczyzn-st8837878?source=rss",
       "pubDate": "Fri, 09 Jan 2026 10:52:00 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "100 zł za samo założenie konta powraca. 1300 zł to teraz pula nagród w Santanderze",
+      "link": "https://www.bankier.pl/wiadomosc/100-zl-za-samo-zalozenie-konta-powraca-1300-zl-to-teraz-pula-nagrod-w-Santanderze-9065850.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 11:52:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Pesa prawdopodobnie kupi niemieckiego producenta tramwajów",
@@ -1996,6 +2452,12 @@
     {
       "title": "Finał sejmowego skandalu. Poseł musi przeprosić dziennikarkę",
       "link": "https://www.rmf24.pl/fakty/polska/news-final-sejmowego-skandalu-posel-musi-przeprosic-dziennikarke,nId,8056380",
+      "pubDate": "Fri, 09 Jan 2026 09:13:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wojciech Skurkiewicz musi przeprosić Justynę Dobrosz-Oracz. Incydent w Sejmie",
+      "link": "https://www.rmf24.pl/fakty/polska/news-wojciech-skurkiewicz-musi-przeprosic-justyne-dobrosz-oracz-i,nId,8056380",
       "pubDate": "Fri, 09 Jan 2026 09:13:00 +0100",
       "source": "RMF24"
     },
@@ -3676,6 +4138,12 @@
     {
       "title": "Russia strikes Ukraine with Oreshnik hypersonic missile",
       "link": "https://www.dw.com/en/russia-strikes-ukraine-with-oreshnik-hypersonic-missile/live-75442708?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 9 Jan 2026 04:05:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Russia fires Oreshnik hypersonic missile at Ukraine",
+      "link": "https://www.dw.com/en/russia-fires-oreshnik-hypersonic-missile-at-ukraine/live-75442708?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 9 Jan 2026 04:05:00 GMT",
       "source": "DW"
     },
@@ -88310,6 +88778,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -122286,15 +122778,9 @@
       "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-21122025/tgpg04n",
       "pubDate": "Sun, 21 Dec 2025 03:04:30 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Kraków. Sprawdź prognozę pogody w dniu 21.12.2025",
-      "link": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-21122025/7pq2y99",
-      "pubDate": "Sun, 21 Dec 2025 03:04:09 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 18207,
+  "totalArticles": 18285,
   "activeMonths": [
     "2026-01",
     "2025-12"
