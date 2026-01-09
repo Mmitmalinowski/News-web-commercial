@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-09T11:26:32.097Z",
+  "generatedAt": "2026-01-09T11:41:50.710Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -72990,12 +73014,6 @@
       "title": "Kielce - prognoza pogody w dniu 21.12.2025",
       "link": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-21122025/xmh97j4",
       "pubDate": "Sun, 21 Dec 2025 03:03:48 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Katowice - 21.12.2025. Pogoda na dziś",
-      "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-21122025/bc70gyn",
-      "pubDate": "Sun, 21 Dec 2025 03:03:47 GMT",
       "source": "Onet"
     }
   ]
