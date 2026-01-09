@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-09T22:57:51.210Z",
+  "generatedAt": "2026-01-09T23:23:31.232Z",
   "items": [
+    {
+      "title": "Supernowa Keplera. Ćwierć wieku kosmicznej ekspansji w 40 sekund",
+      "link": "https://www.chip.pl/2026/01/supernowa-keplera-cwierc-wieku-kosmicznej-ekspansji-w-40-sekund",
+      "pubDate": "Fri, 09 Jan 2026 23:07:05 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Kalendarium - sobota 10 stycznia",
+      "link": "https://pro.rp.pl/kalendarium/art43614371-kalendarium-sobota-10-stycznia",
+      "pubDate": "Sat, 10 Jan 2026 00:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Trump ramps up Greenland threats and says US will intervene ‘whether they like it or not’",
+      "link": "https://www.theguardian.com/us-news/2026/jan/09/trump-greenland-threats-white-house",
+      "pubDate": "Fri, 09 Jan 2026 23:01:46 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Trump znowu o Grenlandii: jeśli nie po dobroci, to w trudniejszy sposób",
       "link": "https://www.rmf24.pl/fakty/swiat/news-trump-znowu-o-grenlandii-jesli-nie-po-dobroci-to-w-trudniejs,nId,8056803",
@@ -2532,6 +2550,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -93398,6 +93440,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -127200,15 +127266,9 @@
       "link": "https://businessinsider.com.pl/poradnik-finansowy/wcale-nie-ksiazki-czy-kosmetyki-ten-prezent-laduje-pod-choinka-najczesciej-tylko-u/7kr0mwk",
       "pubDate": "Sun, 21 Dec 2025 05:00:00 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Co dobrego działo się w nauce w 2025 r.? Same pozytywne historie",
-      "link": "https://geekweek.interia.pl/nauka/news-to-nie-byl-stracony-rok-7-optymistycznych-historii-naukowych,nId,22499935",
-      "pubDate": "Sun, 21 Dec 2025 04:50:02 GMT",
-      "source": "GeekWeek"
     }
   ],
-  "totalArticles": 18861,
+  "totalArticles": 18865,
   "activeMonths": [
     "2026-01",
     "2025-12"
