@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-09T07:49:18.824Z",
+  "generatedAt": "2026-01-09T07:58:48.589Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -101541,6 +101541,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -165009,6 +165033,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -169933,18 +169981,6 @@
       "link": "https://geekweek.interia.pl/militaria/news-potezne-su-57-nad-ukraina-skuteczniejsze-w-walce-od-f-35-i-f,nId,22460688",
       "pubDate": "Thu, 27 Nov 2025 04:55:01 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Polarne powietrze opanuje Polskę. Najbliższe dni nie przyniosą ocieplenia",
-      "link": "https://wiadomosci.onet.pl/kraj/polarne-powietrze-opanuje-polske-najblizsze-dni-nie-przyniosa-ocieplenia/61fr77b",
-      "pubDate": "Thu, 27 Nov 2025 04:53:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rada programowa apeluje do władz TVP. \"Zagrożenie dla stabilności i rozwoju nadawcy\"",
-      "link": "https://www.wirtualnemedia.pl/tvp-rada-programowa-uchwaly-spadek-ogladalnosci-kanaly-tematyczne-finansowanie-barbara-bilinska,7226109205617280a",
-      "pubDate": "Thu, 27 Nov 2025 05:52:36 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
