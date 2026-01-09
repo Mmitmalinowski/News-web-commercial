@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-09T22:31:49.908Z",
+  "generatedAt": "2026-01-09T22:48:46.973Z",
   "items": [
+    {
+      "title": "Ruch Wenezueli po latach. Władze zamierzają naprawić relacje z USA",
+      "link": "https://wiadomosci.onet.pl/swiat/wladze-wenezueli-zamierzaja-naprawic-relacje-z-usa/chxfrxx",
+      "pubDate": "Fri, 09 Jan 2026 22:29:55 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Trump says US needs to 'own' Denmark to prevent Russia and China from taking it",
       "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
@@ -25,6 +31,12 @@
       "link": "https://www.theguardian.com/us-news/2026/jan/09/trump-oil-company-executives-meeting-venezuela",
       "pubDate": "Fri, 09 Jan 2026 22:07:25 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Trump's Venezuela oil meeting starts with few concrete promises",
+      "link": "https://www.bbc.com/news/articles/c205dx61x76o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 09 Jan 2026 22:07:18 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Monitor Polski z 9 stycznia 2026 r. (poz. 36-49)",
@@ -2509,6 +2521,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
