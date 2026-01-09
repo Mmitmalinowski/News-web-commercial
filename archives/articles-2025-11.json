@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-09T09:37:23.263Z",
+  "generatedAt": "2026-01-09T09:55:56.377Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -101637,6 +101637,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -165201,6 +165225,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "12",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -170077,18 +170125,6 @@
       "link": "https://krytykapolityczna.pl/multimedia/sharenting-wyjasniamy-co-naprawde-oznacza-pokazywanie-dzieci-w-sieci/",
       "pubDate": "Thu, 27 Nov 2025 05:00:00 +0000",
       "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Marsz ku centrum i umizgi do prawicy przyniosły duńskiej socjaldemokracji historyczną porażkę",
-      "link": "https://krytykapolityczna.pl/swiat/dania-frederiksen-upadek-modelu-socjaldemokracji/",
-      "pubDate": "Thu, 27 Nov 2025 05:00:00 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Katarzyna Wójcik: Praca to praca",
-      "link": "https://pro.rp.pl/kadry-i-place/art43378241-katarzyna-wojcik-praca-to-praca",
-      "pubDate": "Thu, 27 Nov 2025 06:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
