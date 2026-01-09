@@ -1,12 +1,174 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-09T05:16:33.383Z",
+  "generatedAt": "2026-01-09T05:47:15.405Z",
   "items": [
+    {
+      "title": "Dlaczego politycy nie mówią nam całej prawdy o obaleniu Nicolása Maduro",
+      "link": "https://www.rp.pl/plus-minus/art43605841-dlaczego-politycy-nie-mowia-nam-calej-prawdy-o-obaleniu-nicolasa-maduro",
+      "pubDate": "Fri, 09 Jan 2026 06:45:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ukraińcy na polskim rynku pracy. Prezes banku o wpływie na gospodarkę",
+      "link": "https://biznes.interia.pl/gospodarka/news-prezes-banku-wprost-o-ukraincach-mieszkajacych-w-polsce-i-na,nId,22506632",
+      "pubDate": "Fri, 09 Jan 2026 05:43:25 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Utrudnienia w Warszawie. Protest rolników przeciwko umowie z Mercosur",
+      "link": "https://wiadomosci.onet.pl/warszawa/utrudnienia-w-warszawie-protest-rolnikow-przeciwko-umowie-z-mercosur/fteee5w",
+      "pubDate": "Fri, 09 Jan 2026 05:41:05 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nowe \"babciowe\" jednak działa? Polacy najchętniej wybierają jedną opcję",
+      "link": "https://biznes.interia.pl/finanse/news-to-juz-15-miesiecy-babciowego-jedna-opcja-przoduje-w-statyst,nId,22506585",
+      "pubDate": "Fri, 09 Jan 2026 05:40:05 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Wenezuela wypuszcza więźniów politycznych. To pokłosie akcji USA",
+      "link": "https://wiadomosci.onet.pl/swiat/wenezuela-wypuszcza-wiezniow-politycznych-to-poklosie-akcji-usa/fxw4580",
+      "pubDate": "Fri, 09 Jan 2026 05:39:52 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nałożyć czy nie nałożyć, oto jest pytanie. Trump o kolejnych rosyjskich sankcjach",
+      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-nalozyc-czy-nie-nalozyc-oto-jest-pytanie-trump-o-kolejnych-r,nId,8056351",
+      "pubDate": "Fri, 09 Jan 2026 06:39:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Popłyną miliardy na polski skok technologiczny. Czy Future Tech Poland to coś więcej niż tylko nowy fundusz?",
+      "link": "https://mamstartup.pl/poplyna-miliardy-na-polski-skok-technologiczny-czy-future-tech-poland-to-cos-wiecej-niz-tylko-nowy-fundusz/",
+      "pubDate": "Fri, 09 Jan 2026 05:38:30 +0000",
+      "source": "MamStartup"
+    },
+    {
+      "title": "Protest rolników w Warszawie. Utrudnienia w Śródmieściu, pozamykane ulice",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-protest-rolnikow-w-warszawie-utrudnienia-w-srodmiesciu-pozam,nId,8056350",
+      "pubDate": "Fri, 09 Jan 2026 06:37:54 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Niechciane córki. Selekcja płci w nepalskich rodzinach",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-niechciane-corki-selekcja-plci-w-nepalskich-rodzinach,nId,8056353",
+      "pubDate": "Fri, 09 Jan 2026 06:37:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Nadchodzi dyrektywa o luce płacowej. Oto jej dwa możliwe, choć nieoczywiste skutki",
+      "link": "https://businessinsider.com.pl/praca/zasady-transparentnosci-wynagrodzen-firmy-boja-sie-nieoczywistych-skutkow/b23vrzm",
+      "pubDate": "Fri, 09 Jan 2026 05:35:48 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Duża wygrana w Lotto. Kumulacja rozbita",
+      "link": "https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-8-stycznia-2026-jakie-liczby-padly-w-trakcie-ostatniego-losowania-st8837428?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:35:24 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kryzys demograficzny. Wiele polskich gmin czeka depopulacja",
+      "link": "https://biznes.interia.pl/gospodarka/news-brak-lekarzy-pustostany-i-likwidowane-szkoly-klamka-zapadla,nId,22506534",
+      "pubDate": "Fri, 09 Jan 2026 05:30:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Viktor Orban straszy Węgrów utratą emerytur i wsparcia rodzin. \"Przerażający rezultat\"",
+      "link": "https://businessinsider.com.pl/wiadomosci/viktor-orban-straszy-wegrow-utrata-emerytur-przerazajacy-rezultat/q8lkqvq",
+      "pubDate": "Fri, 09 Jan 2026 05:28:53 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Tam mróz będzie trzymał przez cały dzień. IMGW ostrzega",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/silny-mroz-ostrzezenia-imgw-9-10-01-tu-mroz-moze-powodowac-zagrozenie-zdrowia-i-zycia-mapa-st8831653?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:28:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Widziałem z czym Polska pojechała na wielkie targi do Las Vegas. \"Brakuje nam czasem odwagi\"",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/z-czym-polska-przyjechala-na-ces-2026-widzialem-nasz-pawilon/dnggn9x",
+      "pubDate": "Fri, 09 Jan 2026 05:27:23 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kradł tablice, by nie płacić za paliwo",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/sochaczew-kradl-tablice-rejestracyjne-by-nie-placic-za-paliwo-st8837309?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:24:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Grenlandia już raz była bez lodu. \"To brzmi jak ostrzeżenie\"",
+      "link": "https://spidersweb.pl/2026/01/odwierty-pod-lodem-grenlandii-zaskoczyly-naukowcow.html",
+      "pubDate": "Fri, 09 Jan 2026 06:23:07 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Pokolenie Z już nikomu nie ufa. Nawet faktom",
+      "link": "https://spidersweb.pl/2026/01/mlodzi-nie-wiedza-co-jest-prawda-w-sieci.html",
+      "pubDate": "Fri, 09 Jan 2026 06:22:02 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Podróże jak moja przechodzą do historii. Czas powitać luksus",
+      "link": "https://spidersweb.pl/2026/01/podroze-jak-moja-przechodza-do-historii.html",
+      "pubDate": "Fri, 09 Jan 2026 06:21:26 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Ciemna galaktyka świeci jak jarzeniówka. Nie powinna",
+      "link": "https://spidersweb.pl/2026/01/ciemna-galaktyka-fast-j0139-4328-jednak-swieci.html",
+      "pubDate": "Fri, 09 Jan 2026 06:21:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Powstaje najdroższa górska willa. Ceny za pobyt zapierają dech",
+      "link": "https://biznes.interia.pl/gospodarka/news-to-bedzie-najbardziej-poszukiwany-adres-w-alpach-na-pobyt-st,nId,22506551",
+      "pubDate": "Fri, 09 Jan 2026 05:20:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Dwie osoby postrzelone przez funkcjonariuszy. \"Dzień po przerażającej przemocy w Minnesocie\"",
+      "link": "https://tvn24.pl/swiat/usa-agenci-federalni-otworzyli-ogien-do-dwoch-osob-w-portland-st8837410?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:18:55 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tak NATO szykuje się do wojny w Arktyce. Stawia na ten surowy, opancerzony transporter 6×6",
+      "link": "https://businessinsider.com.pl/technologie/wojna-w-arktyce-nato-stawia-na-ten-transporter-66/7ly8ep8",
+      "pubDate": "Fri, 09 Jan 2026 05:17:03 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Nowy w Kampinoskim Parku Narodowym",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-nowy-gatunek-nietoperza-w-kampinoskim-parku-narodowym-to-nocka-bechsteina-st8837280?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:13:25 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Dziś protest rolników w centrum Warszawy. Będą zamknięte ulice i objazdy",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/dzis-protest-rolnikow-w-centrum-warszawy-beda-zamkniete-ulice-i-objazdy-st8837357?source=rss",
+      "pubDate": "Fri, 09 Jan 2026 05:12:30 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Podatnik kontra skarbówka. Oto plan ministerstwa. Eksperci ostrzegają",
+      "link": "https://www.money.pl/podatki/podatnik-kontra-skarbowka-oto-plan-ministerstwa-eksperci-ostrzegaja-7241460703480800a.html",
+      "pubDate": "Fri, 09 Jan 2026 06:12:29 +0100",
+      "source": "Money.pl"
+    },
     {
       "title": "MacBook w końcu dotykowy. Jest na to świetny sposób",
       "link": "https://spidersweb.pl/2026/01/macbook-w-koncu-dotykowy-jest-na-to-swietny-sposob.html",
       "pubDate": "Fri, 09 Jan 2026 06:11:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Trump says he will meet Venezuela opposition leader Machado, and threatens drug cartel land strikes",
+      "link": "https://www.theguardian.com/world/2026/jan/09/trump-venezuela-leadership-meeting-opposition-machado",
+      "pubDate": "Fri, 09 Jan 2026 05:10:56 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Tak poznasz, że nie wpuszczą cię do samolotu. Dwa \"sygnały\" overbookingu",
@@ -15,10 +177,22 @@
       "source": "Biznes.interia.pl"
     },
     {
+      "title": "Masz działkę i chcesz się budować? Uważaj na te zmiany",
+      "link": "https://businessinsider.com.pl/prawo/dzialka-bez-planu-miejscowego-sprawdz-jak-nie-stracic-prawa-do-zabudowy/s4c4f7k",
+      "pubDate": "Fri, 09 Jan 2026 05:10:00 GMT",
+      "source": "Business Insider"
+    },
+    {
       "title": "Marlena Jezierska dyrektorką biura sponsoringu kultury i nauki w Orlenie",
       "link": "http://www.press.pl/tresc/91084,marlena-jezierska-dyrektorka-biura-sponsoringu-kultury-i-nauki-w-orlenie?rss=1",
       "pubDate": "Fri, 09 Jan 2026 06:08:00 +0100",
       "source": "Press.pl"
+    },
+    {
+      "title": "Ruszyła budowa pierwszej w krajach bałtyckich fabryki nowoczesnych ładunków dla artylerii",
+      "link": "https://www.bankier.pl/wiadomosc/Ruszyla-budowa-pierwszej-w-krajach-baltyckich-fabryki-nowoczesnych-ladunkow-dla-artylerii-9065485.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 06:08:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Sussan Ley won the royal commission argument. For the sake of unity, will she stop the all-out attack?",
@@ -103,6 +277,12 @@
       "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-norweska-9-stycznia-2026-r/bgr1nx1",
       "pubDate": "Fri, 09 Jan 2026 05:02:01 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Orban: Ukraina chce tylu pieniędzy, ile starczyłoby na nasze emerytury przez 40 lat",
+      "link": "https://www.bankier.pl/wiadomosc/Orban-Ukraina-chce-tylu-pieniedzy-ile-starczyloby-na-nasze-emerytury-przez-40-lat-9065481.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 06:02:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Kurs HUF/PLN 09 stycznia 2026 r.",
@@ -279,6 +459,12 @@
       "source": "Chip.pl"
     },
     {
+      "title": "Czy spółki nadal muszą publikować ogłoszenia w MSiG?",
+      "link": "https://pro.rp.pl/biznes/art43605401-czy-spolki-nadal-musza-publikowac-ogloszenia-w-msig",
+      "pubDate": "Fri, 09 Jan 2026 05:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
       "title": "Święta ze streamingiem? Disney+ przed TVP VOD, platforma Polsatu wypadła z czołówki",
       "link": "https://www.wirtualnemedia.pl/netflix-hbo-max-disney-ile-uzytkownikow-maja-w-polsce-wyniki-z-grudnia-2025-roku,7241361943780320a",
       "pubDate": "Fri, 09 Jan 2026 05:48:56 +0100",
@@ -309,6 +495,12 @@
       "source": "Interia"
     },
     {
+      "title": "Trump chce Nobla z rąk liderki wenezuelskiej opozycji. \"Wielki wstyd\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-chce-nobla-z-rak-liderki-wenezuelskiej-opozycji-wielki,nId,22506628",
+      "pubDate": "Fri, 09 Jan 2026 04:45:16 GMT",
+      "source": "Interia"
+    },
+    {
       "title": "W \"Pulsie Medycyny\" duża zmiana. Odeszła wieloletnia naczelna",
       "link": "https://www.wirtualnemedia.pl/w-pulsie-medycyny-duza-zmiana-odeszla-wieloletnia-naczelna,7241195301939712a",
       "pubDate": "Fri, 09 Jan 2026 05:44:59 +0100",
@@ -317,6 +509,12 @@
     {
       "title": "Australia: 3 missing as 'catastrophic' fires rage amid heatwave",
       "link": "https://www.dw.com/en/australia-3-missing-as-catastrophic-fires-rage-amid-heatwave/a-75443400?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 9 Jan 2026 04:43:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Australia: 3 missing as 'catastrophic' fires rage amid heat wave",
+      "link": "https://www.dw.com/en/australia-3-missing-as-catastrophic-fires-rage-amid-heat-wave/a-75443400?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 9 Jan 2026 04:43:00 GMT",
       "source": "DW"
     },
@@ -777,6 +975,12 @@
       "source": "Onet"
     },
     {
+      "title": "Rosja zaatakowała Kijów i Lwów. Seria eksplozji",
+      "link": "https://www.bankier.pl/wiadomosc/Ukraina-Rosja-zaatakowala-Kijow-i-Lwow-w-stolicy-zginely-trzy-osoby-aktl-2-9065477.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 9 Jan 2026 02:01:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Pogoda na dziś - piątek, 9.01. Mocno sypnie śniegiem",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-9-01-mocno-sypnie-sniegiem-st8837366?source=rss",
       "pubDate": "Fri, 09 Jan 2026 01:00:00 GMT",
@@ -1183,6 +1387,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-tragedia-na-plazy-w-tajlandii-ratownik-powiedzial-ze-nie-pot,nId,22506582",
       "pubDate": "Thu, 08 Jan 2026 20:26:25 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Spotkanie na szczycie w Pałacu. Duda i Nawrocki o ciągłości władzy i wadach systemu",
+      "link": "https://www.bankier.pl/wiadomosc/Spotkanie-na-szczycie-w-Palacu-Duda-i-Nawrocki-o-ciaglosci-wladzy-i-wadach-systemu-9065452.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 8 Jan 2026 21:25:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "‘Immoral’: Cambridge college urged to drop private school recruitment drive",
