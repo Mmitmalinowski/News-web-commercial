@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-09T06:39:04.071Z",
+  "generatedAt": "2026-01-09T07:01:54.379Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -72775,12 +72799,6 @@
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-21-12-miejscami-niebo-zacznie-sie-przejasniac-st8811482?source=rss",
       "pubDate": "Sun, 21 Dec 2025 01:00:00 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Ujawnili, a po chwili znikneły. Amerykanie usunęli kilkanaście plików związanych z Epsteinem",
-      "link": "https://www.bankier.pl/wiadomosc/Ujawnili-a-po-chwili-zniknely-Amerykanie-usuneli-kilkanascie-plikow-zwiazanych-z-Epsteinem-9059280.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 21 Dec 2025 01:46:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
