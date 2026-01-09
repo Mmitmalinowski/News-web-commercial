@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-09T13:49:57.556Z",
+  "generatedAt": "2026-01-09T14:01:45.667Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -21667,6 +21667,30 @@
       "link": "https://tvn24.pl/krakow/poronin-korki-na-zakopiance-st8820188?source=rss",
       "pubDate": "Sun, 28 Dec 2025 10:33:16 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
@@ -73080,12 +73104,6 @@
       "title": "Poznań - jakiej pogody możemy się spodziewać 21.12.2025?",
       "link": "https://wiadomosci.onet.pl/poznan/poznan-prognoza-pogody-w-dniu-21122025/40zejd3",
       "pubDate": "Sun, 21 Dec 2025 03:04:44 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Olsztyn - 21.12.2025. Prognoza pogody w mieście",
-      "link": "https://wiadomosci.onet.pl/olsztyn/olsztyn-prognoza-pogody-w-dniu-21122025/e2ck2r6",
-      "pubDate": "Sun, 21 Dec 2025 03:04:31 GMT",
       "source": "Onet"
     }
   ]
