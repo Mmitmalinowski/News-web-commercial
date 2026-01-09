@@ -1,12 +1,42 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-09T22:01:12.014Z",
+  "generatedAt": "2026-01-09T22:31:49.908Z",
   "items": [
+    {
+      "title": "Trump says US needs to 'own' Denmark to prevent Russia and China from taking it",
+      "link": "https://www.bbc.com/news/articles/c78vj5n7jg3o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 09 Jan 2026 22:27:47 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump wygraża, a Iran skarży się do ONZ. \"Bezprawne działania\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-wygraza-a-iran-skarzy-sie-do-onz-bezprawne-dzialania,nId,22507079",
+      "pubDate": "Fri, 09 Jan 2026 22:17:25 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Jarosław Kaczyński odcina się od Grzegorza Brauna. „Przekroczył granice nieprzekraczalne”",
+      "link": "https://www.rp.pl/polityka/art43614481-jaroslaw-kaczynski-odcina-sie-od-grzegorza-brauna-przekroczyl-granice-nieprzekraczalne",
+      "pubDate": "Fri, 09 Jan 2026 23:17:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Trump promises oil companies ‘total safety’ in Venezuela as he urges them to invest billions",
+      "link": "https://www.theguardian.com/us-news/2026/jan/09/trump-oil-company-executives-meeting-venezuela",
+      "pubDate": "Fri, 09 Jan 2026 22:07:25 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Monitor Polski z 9 stycznia 2026 r. (poz. 36-49)",
       "link": "https://www.rp.pl/akty-prawne/art43614491-monitor-polski-z-9-stycznia-2026-r-poz-36-49",
       "pubDate": "Fri, 09 Jan 2026 22:58:16 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Vivek Ramaswamy ‘alarmed’ after family’s bodyguard charged for drug trafficking",
+      "link": "https://www.theguardian.com/us-news/2026/jan/09/vivek-ramaswamy-bodyguard-drug-trafficking",
+      "pubDate": "Fri, 09 Jan 2026 21:57:19 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Dziennik Ustaw z 9 stycznia 2026 r. (poz. 18-22)",
@@ -27,10 +57,28 @@
       "source": "TVN24"
     },
     {
+      "title": "Rośnie napięcie wokół Grenlandii. Prezydent USA zagroził \"trudniejszym sposobem\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-09/rosnie-napiecie-wokol-grenlandii-donald-trump-stawia-ultimatum/",
+      "pubDate": "Fri, 09 Jan 2026 22:50:00 +0100",
+      "source": "Polsat News"
+    },
+    {
       "title": "Stanowcze słowa Donalda Trumpa. \"Pozyskamy Grenlandię po dobroci lub w inny sposób\"",
       "link": "https://wiadomosci.onet.pl/swiat/stanowcze-slowa-donalda-trumpa-pozyskamy-grenlandie-po-dobroci-lub-w-inny-sposob/l8bwy2q",
       "pubDate": "Fri, 09 Jan 2026 21:49:18 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Stanowcze słowa Donalda Trumpa. \"Pozyskamy Grenlandię po dobroci lub w inny sposób\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-pozyskamy-grenlandie-po-dobroci-lub-w-inny-sposob/l8bwy2q",
+      "pubDate": "Fri, 09 Jan 2026 21:49:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "'I feel free': Australia's social media ban, one month on",
+      "link": "https://www.bbc.com/news/articles/c0mpmgn3jv2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 09 Jan 2026 21:45:00 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Tankowiec przejęty na pełnym morzu. Akcja USA, dokonano abordażu",
@@ -217,6 +265,12 @@
       "link": "https://geekweek.interia.pl/nauka/news-sonda-ujawnia-brutalna-historie-czarnej-dziury-drogi-mleczne,nId,22506864",
       "pubDate": "Fri, 09 Jan 2026 20:30:01 GMT",
       "source": "GeekWeek"
+    },
+    {
+      "title": "Ministerstwo: Powtórzyć konkurs w Muzeum Literatury. Zarząd Mazowsza: Nie i co nam zrobicie?",
+      "link": "https://oko.press/ministerstwo-powtorzyc-konkurs-w-muzeum-literatury-zarzad-mazowsza-nie-i-co-nam-zrobicie",
+      "pubDate": "Fri, 09 Jan 2026 20:29:03 +0000",
+      "source": "OKO.press"
     },
     {
       "title": "Partnerka zastrzelonej w Minneapolis kobiety zabrała głos. \"Zostałam, by wychować naszego syna\"",
@@ -2455,6 +2509,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
