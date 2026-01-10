@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-01-10T13:50:16.266Z",
+  "generatedAt": "2026-01-10T14:02:03.165Z",
   "items": [
+    {
+      "title": "AI zastąpi lekarzy? Ekspertka nie ma złudzeń",
+      "link": "https://www.rmf24.pl/radio/news-ai-zastapi-lekarzy-ekspertka-nie-ma-zludzen,nId,8056855",
+      "pubDate": "Sat, 10 Jan 2026 14:56:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Elon Musk zrobił nieumyślnie coś dobrego",
+      "link": "https://android.com.pl/tech/1008020-elon-musk-zrobil-cos-dobrego/",
+      "pubDate": "Sat, 10 Jan 2026 13:56:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "\"Granica się zaciera\". Co świat IT czeka w 2026 r.",
+      "link": "https://businessinsider.com.pl/gospodarka/co-swiat-it-czeka-w-2026-r-jest-prognoza-eksperta/myghnwl",
+      "pubDate": "Sat, 10 Jan 2026 13:52:25 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Mocna odpowiedź na apel Trumpa. \"To dzisiaj nie jest możliwe\" ",
       "link": "https://tvn24.pl/biznes/ze-swiata/wenezuela-prezes-exxonmobil-darren-woods-odpowiada-na-apel-prezydenta-usa-donalda-trumpa-to-dzisiaj-nie-jest-mozliwe-st8839737?source=rss",
       "pubDate": "Sat, 10 Jan 2026 13:46:56 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Iran protesters tell of brutal police response, hundreds of deaths and forced confessions",
+      "link": "https://www.theguardian.com/global-development/2026/jan/10/iran-protesters-tell-of-brutal-police-response-deaths-and-forced-confessions",
+      "pubDate": "Sat, 10 Jan 2026 13:44:07 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Prezydent na pielgrzymce na Jasną Górę. Przywitał się z kibicami",
@@ -5124,6 +5148,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -97718,6 +97766,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -131304,15 +131376,9 @@
       "link": "https://www.bbc.com/news/articles/c79xyxdpzrxo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 21 Dec 2025 06:10:47 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Producenci aut uciekają od aut. To co będą produkować?",
-      "link": "https://spidersweb.pl/2025/12/ev-ai-volkswagen-ford.html",
-      "pubDate": "Sun, 21 Dec 2025 07:10:00 +0100",
-      "source": "Spider's Web"
     }
   ],
-  "totalArticles": 19329,
+  "totalArticles": 19334,
   "activeMonths": [
     "2026-01",
     "2025-12"
