@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-10T16:57:22.326Z",
+  "generatedAt": "2026-01-10T17:19:57.423Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -40893,6 +40893,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -74413,12 +74437,6 @@
       "link": "https://tvn24.pl/polska/pogrzeb-tragicznie-zmarlej-danusi-jelenia-gora-pograzona-w-zalobie-st8811618?source=rss",
       "pubDate": "Sun, 21 Dec 2025 06:35:08 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Robią parking z łopat wiatraków. Zaraz, co?",
-      "link": "https://spidersweb.pl/2025/12/szwecja-parking-z-lopat-turbin-wiatrowych-vattenfall.html",
-      "pubDate": "Sun, 21 Dec 2025 07:30:00 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
