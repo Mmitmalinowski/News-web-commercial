@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-10T22:49:34.374Z",
+  "generatedAt": "2026-01-10T22:58:56.133Z",
   "items": [
+    {
+      "title": "Nie wierzyła, że pokonała Igę Świątek. Klaudia Zwolińska wygrała plebiscyt Przeglądu Sportowego",
+      "link": "https://sport.rp.pl/sport/art43617731-nie-wierzyla-ze-pokonala-ige-swiatek-klaudia-zwolinska-wygrala-plebiscyt-przegladu-sportowego",
+      "pubDate": "Sat, 10 Jan 2026 23:54:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Mississippi man charged with six murders, including father, brother and a child",
+      "link": "https://www.theguardian.com/us-news/2026/jan/10/mississippi-six-murders",
+      "pubDate": "Sat, 10 Jan 2026 22:52:32 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Syria: US launches retaliatory strikes against Islamic State",
       "link": "https://www.dw.com/en/syria-us-launches-retaliatory-strikes-against-islamic-state/a-75462852?maca=en-rss-en-all-1573-xml-mrss",
@@ -6582,6 +6594,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -100718,6 +100754,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -134112,15 +134172,9 @@
       "link": "https://tvn24.pl/swiat/sprawa-jeffreya-epsteina-departament-sprawiedliwosci-usa-usunal-czesc-opublikowanych-plikow-st8811630?source=rss",
       "pubDate": "Sun, 21 Dec 2025 07:08:11 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Planujesz przejść na emeryturę w 2026 roku? Ekspert ZUS wskazuje dwa najlepsze terminy",
-      "link": "https://www.rp.pl/praca-emerytury-i-renty/art43534591-planujesz-przejsc-na-emeryture-w-2026-roku-ekspert-zus-wskazuje-dwa-najlepsze-terminy",
-      "pubDate": "Sun, 21 Dec 2025 08:05:42 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
-  "totalArticles": 19605,
+  "totalArticles": 19608,
   "activeMonths": [
     "2026-01",
     "2025-12"
