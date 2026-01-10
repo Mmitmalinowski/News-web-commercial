@@ -1,12 +1,60 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-10T11:44:01.775Z",
+  "generatedAt": "2026-01-10T11:53:47.227Z",
   "items": [
+    {
+      "title": "Zmiany w księgach wieczystych i nowa usługa w mObywatelu. Sejm przyjął ustawę",
+      "link": "https://www.rp.pl/w-sadzie-i-w-urzedzie/art43616941-zmiany-w-ksiegach-wieczystych-i-nowa-usluga-w-mobywatelu-sejm-przyjal-ustawe",
+      "pubDate": "Sat, 10 Jan 2026 12:50:32 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Donald Tusk odpowiada na deklarację Jarosława Kaczyńskiego. „Bez Brauna? Nie ma szans”",
+      "link": "https://www.rp.pl/polityka/art43616921-donald-tusk-odpowiada-na-deklaracje-jaroslawa-kaczynskiego-bez-brauna-nie-ma-szans",
+      "pubDate": "Sat, 10 Jan 2026 12:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Coraz niższa temperatura, coraz więcej problemów. Kijów walczy ze skutkami ataku",
+      "link": "https://tvn24.pl/swiat/ukraina-kijow-walczy-ze-skutkami-ataku-rosjan-coraz-nizsze-temperatury-awaria-zasilania-st8839615?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:47:17 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Central Europe's populists left reeling by Venezuela attack",
+      "link": "https://www.dw.com/en/central-europe-s-populists-left-reeling-by-venezuela-attack/a-75450701?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 10 Jan 2026 11:47:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Trzy ofiary mrozów w Polsce. Jest pilny apel policji",
+      "link": "https://wiadomosci.onet.pl/kraj/trzy-ofiary-mrozow-w-polsce-jest-pilny-apel-policji/02wte0j",
+      "pubDate": "Sat, 10 Jan 2026 11:45:21 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zbliżają się ferie. Czym zaskoczy nas aura? Oto prognoza eksperta",
+      "link": "https://www.rmf24.pl/fakty/polska/news-zblizaja-sie-ferie-czym-zaskoczy-nas-aura-oto-prognoza-ekspe,nId,8056835",
+      "pubDate": "Sat, 10 Jan 2026 12:45:09 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Awaria w TVP. Nie działają niektóre serwisy",
+      "link": "https://businessinsider.com.pl/wiadomosci/awaria-w-tvp-niektore-serwisy-internetowe-nie-dzialaja/dmbxnpg",
+      "pubDate": "Sat, 10 Jan 2026 11:44:47 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Android Auto ma poważny problem. Błąd utrudnia jazdę",
       "link": "https://android.com.pl/tech/1008010-android-auto-blad-utrudnia-jazde/",
       "pubDate": "Sat, 10 Jan 2026 11:43:00 +0000",
       "source": "Android.com.pl"
+    },
+    {
+      "title": "Policjanci przerwali dramat trójki dzieci. Spędziły dobę w samochodzie w lesie",
+      "link": "https://wiadomosci.onet.pl/szczecin/policjanci-przerwali-dramat-trojki-dzieci-spedzily-dobe-w-samochodzie-w-lesie/bex2csx",
+      "pubDate": "Sat, 10 Jan 2026 11:42:21 GMT",
+      "source": "Onet"
     },
     {
       "title": "Rekordy zimy już pobite. Niska temperatura napędziła zapotrzebowanie na prąd i gaz",
@@ -25,6 +73,12 @@
       "link": "https://wiadomosci.onet.pl/pogoda/temperatura-moze-spasc-do-25-st-c-najwieksze-mrozy-sa-dopiero-przed-nami/7j1584m",
       "pubDate": "Sat, 10 Jan 2026 11:37:01 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Rescuers race to find dozens missing after deadly landfill collapse in Philippines",
+      "link": "https://www.bbc.com/news/articles/cn42jqlqy4xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:32:44 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Wielka awaria w TVP. Nie działają niektóre serwisy internetowe",
@@ -4603,6 +4657,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
