@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-10T21:09:18.491Z",
+  "generatedAt": "2026-01-10T21:30:16.485Z",
   "items": [
+    {
+      "title": "Tragedia na ulicy Minneapolis. Pokazano nowe nagranie z interwencji agenta ICE",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-tragedia-na-ulicy-minneapolis-pokazano-nowe-nagranie-z-inter,nId,8056881",
+      "pubDate": "Sat, 10 Jan 2026 22:20:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Akcja ratunkowa w Norwegii. Szukają nastolatków z Polski",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-10/polacy-utkneli-na-norweskiej-gorze-nastolatkow-szuka-ekipa-wojskowego-smiglowca/",
+      "pubDate": "Sat, 10 Jan 2026 22:17:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Orban gotowy do walki o kolejną kadencję. \"Nie czas na eksperymenty\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-10/orban-gotowy-do-walki-o-kolejna-kadencje-nie-czas-na-eksperymenty/",
+      "pubDate": "Sat, 10 Jan 2026 22:14:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Viktor Orban – kandydat na premiera. \"Proponuję, abyśmy kontynuowali bunt\"",
       "link": "https://www.rmf24.pl/fakty/swiat/news-viktor-orban-kandydat-na-premiera-proponuje-abysmy-kontynuow,nId,8056880",
@@ -6469,6 +6487,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
