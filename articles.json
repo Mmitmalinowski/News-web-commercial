@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-10T19:38:37.018Z",
+  "generatedAt": "2026-01-10T19:47:50.649Z",
   "items": [
+    {
+      "title": "Były wiceminister z PiS szokuje: „Polska finansuje terroryzm”",
+      "link": "https://www.rp.pl/polityka/art43608701-byly-wiceminister-z-pis-szokuje-polska-finansuje-terroryzm",
+      "pubDate": "Sat, 10 Jan 2026 20:42:35 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "USA i Słowacja podpiszą ważną umowę. Robert Fico zdradził szczegóły",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-i-slowacja-podpisza-wazna-umowe-robert-fico-zdradzil-szczegoly/jlg9wl9",
+      "pubDate": "Sat, 10 Jan 2026 19:33:10 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Niemcy sparaliżowane. Stoją pociągi, są ofiary śmiertelne",
       "link": "https://wydarzenia.interia.pl/zagranica/news-niemcy-sparalizowane-stoja-pociagi-sa-ofiary-smiertelne,nId,22507242",
@@ -6294,6 +6306,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -99854,6 +99890,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -133320,15 +133380,9 @@
       "link": "https://www.bankier.pl/wiadomosc/Mial-dokumentowac-wojskowe-transporty-40-latek-zatrzymany-przez-ABW-trafil-do-aresztu-9059246.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 21 Dec 2025 08:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Władimir Putin wyraził gotowość do rozmów z Emmanuelem Macronem",
-      "link": "https://wiadomosci.onet.pl/swiat/wladimir-putin-wyrazil-gotowosc-do-rozmow-z-emmanuelem-macronem/7cee0cx",
-      "pubDate": "Sun, 21 Dec 2025 06:57:04 GMT",
-      "source": "Onet"
     }
   ],
-  "totalArticles": 19545,
+  "totalArticles": 19548,
   "activeMonths": [
     "2026-01",
     "2025-12"
