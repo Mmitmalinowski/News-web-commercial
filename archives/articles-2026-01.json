@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-10T20:41:41.411Z",
+  "generatedAt": "2026-01-10T20:52:31.260Z",
   "items": [
+    {
+      "title": "Owner of Swiss bar in New Year's Eve fire admits service door was locked from the inside",
+      "link": "http://www.euronews.com/2026/01/10/owner-of-swiss-bar-in-new-years-eve-fire-admits-service-door-was-locked-from-the-inside",
+      "pubDate": "Sat, 10 Jan 2026 21:48:10 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "US: Hundreds of rallies expected over ICE shootings",
+      "link": "https://www.dw.com/en/us-hundreds-of-rallies-expected-over-ice-shootings/live-75462489?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 10 Jan 2026 20:42:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Atak Rosji blisko granic UE i NATO. ONZ zwołuje nadzwyczajne posiedzenie",
       "link": "https://wydarzenia.interia.pl/zagranica/news-atak-rosji-blisko-granic-ue-i-nato-onz-zwoluje-nadzwyczajne,nId,22507259",
@@ -6421,6 +6433,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
