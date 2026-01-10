@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-10T21:43:51.663Z",
+  "generatedAt": "2026-01-10T21:53:09.925Z",
   "items": [
+    {
+      "title": "Pożar pustostanu w Małopolsce. W środku znaleziono zwęglone ciało",
+      "link": "https://wydarzenia.interia.pl/malopolskie/news-pozar-pustostanu-w-malopolsce-w-srodku-znaleziono-zweglone-c,nId,22507268",
+      "pubDate": "Sat, 10 Jan 2026 21:49:34 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Polscy nastolatkowie utknęli w górach Norwegii. Trwa akcja poszukiwawcza",
       "link": "https://wiadomosci.onet.pl/swiat/polscy-nastolatkowie-utkneli-w-gorach-norwegii-trwa-akcja-poszukiwawcza/g1egjz9",
@@ -6516,6 +6522,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -100460,6 +100490,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -133878,15 +133932,9 @@
       "link": "https://www.theguardian.com/world/2025/dec/21/denmark-postnord-postal-delivery-letters-society",
       "pubDate": "Sun, 21 Dec 2025 07:00:53 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Android przywróci lubianą funkcję. Użytkownicy tęsknią za nią od lat",
-      "link": "https://antyweb.pl/android-przywroci-lubiana-funkcje-uzytkownicy-tesknia-za-nia-od-lat",
-      "pubDate": "Sun, 21 Dec 2025 07:00:35 GMT",
-      "source": "Antyweb"
     }
   ],
-  "totalArticles": 19590,
+  "totalArticles": 19592,
   "activeMonths": [
     "2026-01",
     "2025-12"
