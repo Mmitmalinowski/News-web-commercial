@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-10T22:58:56.133Z",
+  "generatedAt": "2026-01-10T23:27:21.325Z",
   "items": [
+    {
+      "title": "US: Hundreds of rallies held over ICE shootings",
+      "link": "https://www.dw.com/en/us-hundreds-of-rallies-held-over-ice-shootings/live-75462489?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 10 Jan 2026 23:11:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "W Republice wypłaty z opóźnieniem? \"To czarny PR, każdy ma różne terminy\"",
+      "link": "https://www.wirtualnemedia.pl/telewizja-republika-zarobki-wyplacane-pracownikom-z-opoznieniem-jaroslaw-olechowski-dementuje,7242078877129216a",
+      "pubDate": "Sun, 11 Jan 2026 00:08:24 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "'Hermès of durian': The luxury fruit cashing in on China's billion-dollar appetite",
+      "link": "https://www.bbc.com/news/articles/cz7ndzw28v4o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 10 Jan 2026 23:06:39 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "Nie wierzyła, że pokonała Igę Świątek. Klaudia Zwolińska wygrała plebiscyt Przeglądu Sportowego",
       "link": "https://sport.rp.pl/sport/art43617731-nie-wierzyla-ze-pokonala-ige-swiatek-klaudia-zwolinska-wygrala-plebiscyt-przegladu-sportowego",
@@ -76,6 +94,12 @@
     {
       "title": "Polscy nastolatkowie utknęli w górach Norwegii. Trwa akcja poszukiwawcza",
       "link": "https://wiadomosci.onet.pl/swiat/polscy-nastolatkowie-utkneli-w-gorach-norwegii-trwa-akcja-poszukiwawcza/g1egjz9",
+      "pubDate": "Sat, 10 Jan 2026 21:39:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polscy nastolatkowie utknęli w górach Norwegii. Akcja poszukiwawcza zakończona",
+      "link": "https://wiadomosci.onet.pl/swiat/polscy-nastolatkowie-utkneli-w-gorach-norwegii-akcja-poszukiwawcza-zakonczona/g1egjz9",
       "pubDate": "Sat, 10 Jan 2026 21:39:17 GMT",
       "source": "Onet"
     },
@@ -6594,6 +6618,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -100778,6 +100826,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -134166,15 +134238,9 @@
       "link": "https://wiadomosci.onet.pl/swiat/strzelanina-w-poblizu-johannesburga-sprawcy-otworzyli-ogien-w-tawernie-dziewiec-ofiar/et3jlgz",
       "pubDate": "Sun, 21 Dec 2025 07:08:43 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Zniknęła część ujawnionych dokumentów. Między innymi zdjęcie, na którym widać Trumpa",
-      "link": "https://tvn24.pl/swiat/sprawa-jeffreya-epsteina-departament-sprawiedliwosci-usa-usunal-czesc-opublikowanych-plikow-st8811630?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 07:08:11 GMT",
-      "source": "TVN24"
     }
   ],
-  "totalArticles": 19608,
+  "totalArticles": 19613,
   "activeMonths": [
     "2026-01",
     "2025-12"
