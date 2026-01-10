@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-10T14:53:46.994Z",
+  "generatedAt": "2026-01-10T15:13:06.738Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -103485,6 +103485,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -168897,6 +168921,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -172849,18 +172897,6 @@
       "link": "http://www.press.pl/tresc/90470,kira-sukhoboichenko-dolacza-do-dzialu-personal-branding-w-olive-media?rss=1",
       "pubDate": "Thu, 27 Nov 2025 07:50:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "Marta Leszczyńska dołącza do FCB Warsaw",
-      "link": "http://www.press.pl/tresc/90471,marta-leszczynska-dolacza-do-fcb-warsaw?rss=1",
-      "pubDate": "Thu, 27 Nov 2025 07:50:00 +0100",
-      "source": "Press.pl"
-    },
-    {
-      "title": "Warszawski startup chce znaleźć Ci pracę Twoich marzeń: HRTech Global Work AI z inwestycją 2 mln EUR",
-      "link": "https://mamstartup.pl/warszawski-startup-chce-znalezc-ci-prace-twoich-marzen-hrtech-global-work-ai-z-inwestycja-2-mln-eur/",
-      "pubDate": "Thu, 27 Nov 2025 06:49:51 +0000",
-      "source": "MamStartup"
     }
   ]
 }
