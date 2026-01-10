@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-10T19:47:50.267Z",
+  "generatedAt": "2026-01-10T19:57:00.081Z",
   "items": [
+    {
+      "title": "Model wyjaśniający działanie wszechświata nie działa. Napięcia w kosmologii osiągnęły niespotykany poziom",
+      "link": "https://www.chip.pl/2026/01/model-lambda-cmd-wszechswiat",
+      "pubDate": "Sat, 10 Jan 2026 19:55:00 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "\"To nie czas na eksperymentatorów\". Orban wprost o wyborach na Węgrzech",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-to-nie-czas-na-eksperymentatorow-orban-wprost-o-wyborach-na,nId,22507255",
+      "pubDate": "Sat, 10 Jan 2026 19:54:43 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Donald Trump ma pomysł na Wenezuelę. Podpisał ważne rozporządzenie",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-ma-pomysl-na-wenezuele-podpisal-wazne-rozporzadzenie/xf72h33",
+      "pubDate": "Sat, 10 Jan 2026 19:43:50 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Były wiceminister z PiS szokuje: „Polska finansuje terroryzm”",
       "link": "https://www.rp.pl/polityka/art43608701-byly-wiceminister-z-pis-szokuje-polska-finansuje-terroryzm",
@@ -6307,6 +6325,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
