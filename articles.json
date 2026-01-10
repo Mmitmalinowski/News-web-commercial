@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-09T23:50:55.555Z",
+  "generatedAt": "2026-01-10T00:00:22.418Z",
   "items": [
+    {
+      "title": "Maryland woman who says she is US citizen finally released from ICE custody",
+      "link": "https://www.theguardian.com/us-news/2026/jan/09/maryland-woman-us-citizen-released-ice-custody",
+      "pubDate": "Fri, 09 Jan 2026 23:52:49 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Syrian army renews strikes on Kurdish fighters in Aleppo",
       "link": "https://www.dw.com/en/syrian-army-renews-strikes-on-kurdish-fighters-in-aleppo/a-75457783?maca=en-rss-en-all-1573-xml-mrss",
@@ -2562,6 +2568,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -93572,6 +93602,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -127356,15 +127410,9 @@
       "link": "https://www.bankier.pl/wiadomosc/Trump-oglasza-Patriot-Games-Demokraci-To-brzmi-jak-Igrzyska-smierci-9058528.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 21 Dec 2025 06:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Tyle średnio kosztuje bilet lotniczy w okresie świątecznym",
-      "link": "https://www.bankier.pl/wiadomosc/Tyle-srednio-kosztuje-bilet-lotniczy-w-okresie-swiatecznym-9057047.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 21 Dec 2025 06:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ],
-  "totalArticles": 18869,
+  "totalArticles": 18871,
   "activeMonths": [
     "2026-01",
     "2025-12"
