@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-10T11:16:33.611Z",
+  "generatedAt": "2026-01-10T11:33:56.456Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -103221,6 +103221,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "\"Głupotą byłoby nie skorzystać, ale interesem życia byłoby nie kupować\"",
       "link": "https://tvn24.pl/biznes/handel/black-friday-2025-glupota-byloby-nie-skorzystac-ale-interesem-zycia-byloby-nie-kupowac-wywiad-z-piotrem-buckim-w-tvn24-st8773796?source=rss",
       "pubDate": "Thu, 27 Nov 2025 14:47:45 GMT",
@@ -168369,6 +168393,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -172453,18 +172501,6 @@
       "link": "https://www.bankier.pl/wiadomosc/RPA-nie-jest-godne-czlonkostwa-w-G20-ani-zadnej-organizacji-9046370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Thu, 27 Nov 2025 07:32:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "'Make Amazon Pay’: Global strikes planned on Black Friday as workers in over 30 countries unite",
-      "link": "http://www.euronews.com/next/2025/11/27/make-amazon-pay-global-strikes-planned-on-black-friday-as-workers-in-over-30-countries-uni",
-      "pubDate": "Thu, 27 Nov 2025 07:30:20 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Rośnie liczba ofiar pożaru w Hongkongu. Dramatyczne doniesienia",
-      "link": "https://wiadomosci.onet.pl/swiat/dramat-w-dzielnicy-tai-po-w-hongkongu-pozar-odebral-zycie-44-osob/kmwv4s4",
-      "pubDate": "Thu, 27 Nov 2025 06:30:01 GMT",
-      "source": "Onet"
     }
   ]
 }

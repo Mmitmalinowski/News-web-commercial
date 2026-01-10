@@ -1,12 +1,60 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-10T11:16:33.458Z",
+  "generatedAt": "2026-01-10T11:33:56.301Z",
   "items": [
+    {
+      "title": "Pierwszy taki zakaz na świecie. Zablokowali narzędzie firmy Elona Muska",
+      "link": "https://tvn24.pl/biznes/tech/indonezja-blokuje-chatbota-grok-firmy-xai-elona-muska-pierwszy-taki-zakaz-na-swiecie-st8839574?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:27:31 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Najgroźniejsza rzecz\" w kontakcie z AI. \"Jeżeli czujemy wielki ból, to chatbot to podbije i podniesie\" ",
+      "link": "https://tvn24.pl/polska/najgrozniejsza-rzecz-w-kontakcie-z-ai-jezeli-czujemy-wielki-bol-to-chatbot-to-podbije-i-podniesie-st8839546?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:27:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Jedna z najsilniejszych burz \"od niepamiętnych czasów\". Zginął mężczyzna",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wielka-brytania-orkan-goretti-jedna-z-najsilniejszych-burz-od-niepamietnych-czasow-zginal-mezczyzna-st8839570?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:26:21 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tusk o \"deklaracji Kaczyńskiego\". \"Szkoda, że nie ma nic wspólnego z rzeczywistością\"",
+      "link": "https://tvn24.pl/polska/donald-tusk-o-deklaracji-jaroslawa-kaczynskiego-w-sprawie-grzegorza-brauna-st8839650?source=rss",
+      "pubDate": "Sat, 10 Jan 2026 11:23:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Włochy tłumaczą głosowanie ws. umowy z Mercosurem",
+      "link": "https://www.money.pl/gospodarka/wlochy-tlumacza-glosowanie-ws-umowy-z-mercosurem-7241899835898848a.html",
+      "pubDate": "Sat, 10 Jan 2026 12:22:54 +0100",
+      "source": "Money.pl"
+    },
     {
       "title": "Lokatorzy na \"osiedlu Rydzyka\" drżą przed rachunkami. \"Płacę chore pieniądze\"",
       "link": "https://biznes.interia.pl/finanse/news-oplaty-na-osiedlu-rydzyka-znow-w-gore-juz-place-chore-pienia,nId,22507131",
       "pubDate": "Sat, 10 Jan 2026 11:14:12 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Lokatorzy na \"osiedlu Rydzyka\" drżą przed rachunkami. \"Płacę chore pieniądze\"",
+      "link": "https://biznes.interia.pl/finanse/news-nazywaja-je-osiedlem-rydzyka-lokatorzy-znow-zaplaca-wiecej-c,nId,22507131",
+      "pubDate": "Sat, 10 Jan 2026 11:14:12 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Zakusy Trumpa rosną, ale politycy z wyspy są zgodni. \"Nie chcemy\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-zakusy-trumpa-rosna-ale-politycy-z-wyspy-sa-zgodni-nie-chcem,nId,22507137",
+      "pubDate": "Sat, 10 Jan 2026 11:13:11 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Korea Północna oskarża sąsiada z Południa. \"Zapłacą za to wysoką cenę\"",
+      "link": "https://wiadomosci.onet.pl/swiat/korea-polnocna-oskarza-sasiada-z-poludnia-zaplaca-za-to-wysoka-cene/k846t6x",
+      "pubDate": "Sat, 10 Jan 2026 11:11:01 GMT",
+      "source": "Onet"
     },
     {
       "title": "Wielka awaria w TVP. Nie działa TVP VOD i stream TVP Info",
@@ -1301,6 +1349,12 @@
     {
       "title": "Na skoki z problemami? Protest mieszkańców na zakopiance",
       "link": "https://www.rmf24.pl/regiony/krakow/news-na-skoki-z-problemami-protest-mieszkancow-na-zakopiance,nId,8056807",
+      "pubDate": "Sat, 10 Jan 2026 07:05:14 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Korki na zakopiance. Protest mieszkańców w sprawie nowej S7",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-korki-na-zakopiance-protest-mieszkancow-w-sprawie-nowej-s7,nId,8056807",
       "pubDate": "Sat, 10 Jan 2026 07:05:14 +0100",
       "source": "RMF24"
     },
@@ -4495,6 +4549,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
