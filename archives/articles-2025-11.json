@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-11T18:31:52.606Z",
+  "generatedAt": "2026-01-11T18:53:30.692Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -172641,6 +172665,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -175656,18 +175704,6 @@
       "title": "Czy ten wyraz naprawdę istnieje? W tym quizie łatwo się potknąć",
       "link": "https://wiadomosci.onet.pl/ciekawostki/czy-ten-wyraz-naprawde-istnieje-w-tym-quizie-latwo-sie-potknac/ffnmrx1",
       "pubDate": "Thu, 27 Nov 2025 09:02:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nowa generacja radarów zmienia zasady gry. Polska współtworzy autonomiczną rewolucję",
-      "link": "https://moto.rp.pl/innowacje/art43410091-nowa-generacja-radarow-zmienia-zasady-gry-polska-wspoltworzy-autonomiczna-rewolucje",
-      "pubDate": "Thu, 27 Nov 2025 10:01:32 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kolejne dziecko zmarło po rosyjskim ataku na Tarnopol. \"Teraz Adriana jest tam, gdzie nie ma strachu i wybuchów — obok mamy\"",
-      "link": "https://wiadomosci.onet.pl/swiat/12-latka-zmarla-w-szpitalu-wzrosla-liczba-ofiar-rosyjskiego-ataku-na-tarnopol/1hdks24",
-      "pubDate": "Thu, 27 Nov 2025 09:01:31 GMT",
       "source": "Onet"
     }
   ]
