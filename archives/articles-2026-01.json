@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T21:11:48.688Z",
+  "generatedAt": "2026-01-11T21:31:04.704Z",
   "items": [
+    {
+      "title": "Spektakl w Dżeddzie. Barcelona z Lewandowskim triumfuje w finale Superpucharu",
+      "link": "https://www.rmf24.pl/sport/pilka-nozna/news-spektakl-w-dzeddzie-barcelona-z-lewandowskim-triumfuje-w-fin,nId,8056954",
+      "pubDate": "Sun, 11 Jan 2026 22:26:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tragiczny weekend w Alpach. Lawiny zebrały śmiertelne żniwo",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-11/tragiczny-weekend-w-alpach-lawiny-zebraly-smiertelne-zniwo/",
+      "pubDate": "Sun, 11 Jan 2026 22:11:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Londyn reaguje na rosyjskie ataki. Szykuje nową broń dla Ukrainy",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-londyn-reaguje-na-rosyjskie-ataki-szykuje-nowa-bron-dla-ukra,nId,22507427",
+      "pubDate": "Sun, 11 Jan 2026 21:08:21 GMT",
+      "source": "Interia"
+    },
     {
       "title": "W bezpośrednich kontaktach prezydent \"wcale nie jest taki konfrontacyjny\"",
       "link": "https://tvn24.pl/polska/stosunki-karola-nawrockiego-i-donalda-tuska-w-bezposrednich-kontaktach-prezydent-wcale-nie-jest-taki-konfrontacyjny-st8841697?source=rss",
@@ -10027,6 +10045,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62749,30 +62791,6 @@
       "link": "https://www.theguardian.com/society/2026/jan/01/hundreds-of-blackpool-families-to-be-evicted-in-mass-dispersion-of-vulnerable-people",
       "pubDate": "Thu, 01 Jan 2026 09:06:06 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Wzrosła akcyza na wyroby alkoholowe i papierosy",
-      "link": "https://www.bankier.pl/wiadomosc/Wzrosla-akcyza-na-wyroby-alkoholowe-i-papierosy-9062927.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 10:06:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Ukrywał się dwa lata, w więzieniu spędzi 16 ",
-      "link": "https://tvn24.pl/rzeszow/przyslup-zatrzymany-po-dwoch-latach-poszukiwan-37-latek-mial-do-odbycia-16-lat-wiezienia-st8826028?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 09:04:03 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Historyczna świątynia w ogniu. Dramatyczne zdjęcia z Amsterdamu",
-      "link": "https://www.rmf24.pl/fakty/news-historyczna-swiatynia-w-ogniu-dramatyczne-zdjecia-z-amsterda,nId,8054716",
-      "pubDate": "Thu, 01 Jan 2026 10:02:39 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Wychłodzona i wyczerpana. 24-latka uratowana na Babiej Górze",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-wychlodzona-i-wyczerpana-24-latka-uratowana-na-babiej-gorze,nId,8054715",
-      "pubDate": "Thu, 01 Jan 2026 10:02:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
