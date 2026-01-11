@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T21:53:39.668Z",
+  "generatedAt": "2026-01-11T22:13:26.614Z",
   "items": [
+    {
+      "title": "Europa rozważa wysłanie wojsk na Grenlandię. \"To decydujący moment\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-europa-rozwaza-wyslanie-wojsk-na-grenlandie-to-decydujacy-mo,nId,22507432",
+      "pubDate": "Sun, 11 Jan 2026 22:00:31 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Awaryjny powrót astronautów z USA. Kosmosu nie da się podbić bez sztucznej grawitacji",
+      "link": "https://cyfrowa.rp.pl/technologie/art43620081-awaryjny-powrot-astronautow-z-usa-kosmosu-nie-da-sie-podbic-bez-sztucznej-grawitacji",
+      "pubDate": "Sun, 11 Jan 2026 22:50:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Data podpisania umowy z Mercosur potwierdzona",
       "link": "https://www.rmf24.pl/fakty/swiat/news-data-podpisania-umowy-z-mercosur-potwierdzona,nId,8056955",
@@ -10081,6 +10093,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62809,24 +62845,6 @@
       "link": "https://www.money.pl/pieniadze/swiadczenie-wspierajace-dla-kolejnej-grupy-zmiany-w-2026-roku-7238688791952352a.html",
       "pubDate": "Thu, 01 Jan 2026 10:21:00 +0100",
       "source": "Money.pl"
-    },
-    {
-      "title": "Pracować dalej czy dorabiać na emeryturze - co się bardziej opłaca?",
-      "link": "https://biznes.interia.pl/emerytury/news-pracowac-dalej-czy-dorabiac-na-emeryturze-co-sie-bardziej-op,nId,22500205",
-      "pubDate": "Thu, 01 Jan 2026 09:20:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Siarczysty mróz w noc sylwestrową. Temperatura spadła niemal do -20 st. C",
-      "link": "https://wiadomosci.onet.pl/pogoda/za-nami-niezwykle-mrozny-przelom-roku-temperatura-spadla-niemal-do-20-st-c/6w8rd6w",
-      "pubDate": "Thu, 01 Jan 2026 09:18:23 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Duma i uprzedzenie. Będzie zwrot w relacjach prezydenta z premierem?",
-      "link": "https://wydarzenia.interia.pl/kraj/news-duma-i-uprzedzenie-nowy-rok-przyniesie-zwrot-w-relacjach-pre,nId,22504093",
-      "pubDate": "Thu, 01 Jan 2026 09:18:18 GMT",
-      "source": "Interia"
     }
   ]
 }
