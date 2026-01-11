@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-11T11:29:34.466Z",
+  "generatedAt": "2026-01-11T11:44:38.717Z",
   "items": [
+    {
+      "title": "Wygrałem Mistrzostwa Świata Microsoft Excel. Oto co każdy pracownik biurowy powinien wiedzieć o Excelu",
+      "link": "https://businessinsider.com.pl/praca/mistrz-excela-dla-business-insidera-mam-50-tys-trikow/8855e0b",
+      "pubDate": "Sun, 11 Jan 2026 11:38:51 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Samochód omal nie zatonął w jeziorze. Kierowca zniknął. Policja apeluje",
+      "link": "https://wiadomosci.onet.pl/slask/niebezpieczne-zdarzenie-na-jeziorze-zywieckim-samochod-niemal-zatonal/kdb0qf8",
+      "pubDate": "Sun, 11 Jan 2026 11:31:33 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "USA. Kalifornia. 35 zatruć w dwa miesiące. Ekspertom \"brakuje skali\"",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/usa-kalifornia-35-zatruc-muchomorami-w-dwa-miesiace-w-tym-trzy-zgony-ekspertom-brakuje-skali-st8840831?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 11:28:11 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Andrzej Duda zjeżdża na nartach, Karol Nawrocki patronem",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-andrzej-duda-zjezdza-na-nartach-karol-nawrocki-patronem,nId,8056915",
@@ -8316,6 +8334,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -103796,6 +103838,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -137022,15 +137088,9 @@
       "link": "https://www.rp.pl/polityka/art43542081-sondaz-karol-nawrocki-ocenil-ze-w-relacji-z-ukraincami-nie-czujemy-sie-jak-partnerzy-co-na-to-polacy",
       "pubDate": "Sun, 21 Dec 2025 09:10:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Koniec muzyki, jaką znamy. Oto w jaki sposób AI zmienia nasze gusta i branżę",
-      "link": "https://tech.wp.pl/koniec-muzyki-jaka-znamy-oto-w-jaki-sposob-ai-zmienia-nasze-gusta-i-branze,7233777196350432a",
-      "pubDate": "Sun, 21 Dec 2025 09:09:00 +0100",
-      "source": "Tech WP.pl"
     }
   ],
-  "totalArticles": 19922,
+  "totalArticles": 19926,
   "activeMonths": [
     "2026-01",
     "2025-12"
