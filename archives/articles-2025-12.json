@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-11T02:26:19.000Z",
+  "generatedAt": "2026-01-11T04:00:28.684Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -41541,6 +41541,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -74899,12 +74923,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-potezna-awaria-pradu-w-amerykanskim-miescie-zapanowala-calko,nId,22501747",
       "pubDate": "Sun, 21 Dec 2025 07:23:52 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "\"7. Dzień Tygodnia w Radiu ZET\". Zaprasza Andrzej Stankiewicz",
-      "link": "https://wiadomosci.onet.pl/7-dzien-tygodnia-w-radiu-zet-zaprasza-andrzej-stankiewicz/1m9vwxv",
-      "pubDate": "Sun, 21 Dec 2025 07:23:35 GMT",
-      "source": "Onet"
     }
   ]
 }
