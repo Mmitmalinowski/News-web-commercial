@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-11T11:52:01.855Z",
+  "generatedAt": "2026-01-11T12:01:36.721Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -42117,6 +42117,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -75331,12 +75355,6 @@
       "link": "https://www.rmf24.pl/nauka/news-1000-zrodel-swiatla-najciemniejsze-miejsce-na-ziemi-zagrozon,nId,8050572",
       "pubDate": "Sun, 21 Dec 2025 09:10:31 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Ma 1300 lat. Rzadki medalion z menorą znaleziony w Jerozolimie",
-      "link": "https://geekweek.interia.pl/historia/news-ma-1300-lat-rzadki-medalion-z-menora-znaleziony-w-jerozolimi,nId,22501407",
-      "pubDate": "Sun, 21 Dec 2025 08:10:04 GMT",
-      "source": "GeekWeek"
     }
   ]
 }
