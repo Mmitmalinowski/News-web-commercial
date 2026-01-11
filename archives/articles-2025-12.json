@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-10T23:59:10.353Z",
+  "generatedAt": "2026-01-11T02:26:19.000Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -41517,6 +41517,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -71727,6 +71751,12 @@
       "source": "RMF24"
     },
     {
+      "title": "Christmas in the air: Why scents spark emotions and memories",
+      "link": "https://www.dw.com/en/christmas-in-the-air-why-scents-spark-emotions-and-memories/a-75214747?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 22 Dec 2025 04:25:00 GMT",
+      "source": "DW"
+    },
+    {
       "title": "Ściągnij foliową czapeczkę i załóż nowe arcydzieło naukowców. Blokada 5G i Wi-Fi gwarantowana",
       "link": "https://www.chip.pl/2025/12/zaklocenia-elektromagnetyczne-powloka-blokujaca",
       "pubDate": "Mon, 22 Dec 2025 04:23:59 +0000",
@@ -74875,18 +74905,6 @@
       "link": "https://wiadomosci.onet.pl/7-dzien-tygodnia-w-radiu-zet-zaprasza-andrzej-stankiewicz/1m9vwxv",
       "pubDate": "Sun, 21 Dec 2025 07:23:35 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Influencerom spadają zasięgi. To skutek nowego prawa",
-      "link": "https://www.wirtualnemedia.pl/influencerom-spadaja-zasiegi-to-skutek-nowego-prawa,7233502348446208a",
-      "pubDate": "Sun, 21 Dec 2025 08:22:21 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Ewakuują się z obwodu sumskiego. Media: Rosjanie porwali kilkudziesięciu Ukraińców",
-      "link": "https://www.polsatnews.pl/wiadomosc/2025-12-21/prowadza-ewakuacje-z-obwodu-sumskiego-media-kilkadziesiat-ukraincow-wywieziono-do-rosji/",
-      "pubDate": "Sun, 21 Dec 2025 08:22:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
