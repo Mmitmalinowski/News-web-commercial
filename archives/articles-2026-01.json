@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T22:49:43.724Z",
+  "generatedAt": "2026-01-11T22:58:51.766Z",
   "items": [
+    {
+      "title": "Wiadomo, kiedy podpisana zostanie umowa Mercosur. KE potwierdza",
+      "link": "https://wiadomosci.onet.pl/swiat/wiadomo-kiedy-podpisana-zostanie-umowa-mercosur-ke-potwierdza/lre482k",
+      "pubDate": "Sun, 11 Jan 2026 22:46:35 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Meta blocked nearly 550,000 accounts in first days of Australia’s under-16s social media ban",
       "link": "https://www.theguardian.com/australia-news/2026/jan/12/australia-u16-social-media-ban-meta-blocked-half-million-accounts",
@@ -10129,6 +10135,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62869,18 +62899,6 @@
       "link": "https://wiadomosci.onet.pl/ciekawostki/lubisz-quizy-z-wiedzy-ogolnej-tego-nie-mozesz-przegapic/t8p2rgt",
       "pubDate": "Thu, 01 Jan 2026 09:33:06 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Several dozen dead after explosion hits Swiss ski resort bar",
-      "link": "https://www.dw.com/en/several-dozen-dead-after-explosion-hits-swiss-ski-resort-bar/a-75357616?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 1 Jan 2026 09:32:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Od 1 stycznia 2026 r. zmiany w Poczcie Polskiej. Koniec listów z urzędów",
-      "link": "https://businessinsider.com.pl/wiadomosci/e-doreczenia-obowiazkowe-od-2026-r-ministerstwo-cyfryzacji-zapowiada-rewolucje/cs03f9z",
-      "pubDate": "Thu, 01 Jan 2026 09:30:00 GMT",
-      "source": "Business Insider"
     }
   ]
 }
