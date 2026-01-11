@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-11T07:22:09.088Z",
+  "generatedAt": "2026-01-11T07:38:46.247Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -41733,6 +41733,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -75042,12 +75066,6 @@
       "title": "Drogowcy rozpoczynają przerwę zimową. Czy to oznacza przestój w pracach?",
       "link": "https://moto.rp.pl/tu-i-teraz/art43542061-drogowcy-rozpoczynaja-przerwe-zimowa-czy-to-oznacza-przestoj-w-pracach",
       "pubDate": "Sun, 21 Dec 2025 08:39:20 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Przełomowy wyrok w Delaware. Elon Musk odzyskuje miliardy",
-      "link": "https://www.rp.pl/biznes/art43542031-przelomowy-wyrok-w-delaware-elon-musk-odzyskuje-miliardy",
-      "pubDate": "Sun, 21 Dec 2025 08:39:00 +0100",
       "source": "Rzeczpospolita"
     }
   ]
