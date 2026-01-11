@@ -1,7 +1,49 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T08:53:26.390Z",
+  "generatedAt": "2026-01-11T09:13:01.601Z",
   "items": [
+    {
+      "title": "USA zaatakowały obiekty ISIS w Syrii",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/usa-zaatakowaly-obiekty-isis-w-syrii",
+      "pubDate": "Sun, 11 Jan 2026 09:04:56 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Zawieje, zamiecie i niska temperatura. Pół Polski w alertach ",
+      "link": "https://wydarzenia.interia.pl/kraj/news-zawieje-zamiecie-i-niska-temperatura-pol-polski-w-alertach,nId,22507301",
+      "pubDate": "Sun, 11 Jan 2026 09:02:13 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "13. emerytura w 2026 r. nie dla wszystkich. Obowiązują limity dochodów ",
+      "link": "https://wydarzenia.interia.pl/kraj/news-13-emerytura-w-2026-r-nie-dla-wszystkich-obowiazuja-limity-d,nId,22506056",
+      "pubDate": "Sun, 11 Jan 2026 09:00:04 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Ile wolnego ma nauczyciel? Tak wygląda harmonogram pracy",
+      "link": "https://biznes.interia.pl/praca/news-ile-wolnego-ma-nauczyciel-tak-wyglada-harmonogram-pracy,nId,22506031",
+      "pubDate": "Sun, 11 Jan 2026 09:00:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Izrael planuje nową \"operację\" w Strefie Gazy. \"Potrzebna zgoda Donalda Trumpa\"",
+      "link": "https://wiadomosci.onet.pl/swiat/izrael-planuje-nowa-operacje-w-strefie-gazy-potrzebna-zgoda-donalda-trumpa/nr57ebk",
+      "pubDate": "Sun, 11 Jan 2026 08:56:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Tories would ban under-16s from social media, says Badenoch – UK politics live",
+      "link": "https://www.theguardian.com/politics/live/2026/jan/11/tories-ban-under-16s-social-media-badenoch-uk-politics-live",
+      "pubDate": "Sun, 11 Jan 2026 08:54:37 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Zmarł Bob Weir, współzałożyciel legendarnej grupy",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-zmarl-bob-weir-wspolzalozyciel-legendarnej-grupy,nId,8056904",
+      "pubDate": "Sun, 11 Jan 2026 09:52:11 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Trump: nie pozwolimy już, by Amerykanie byli oszukiwani",
       "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-nie-pozwolimy-juz-by-amerykanie-byli-oszukiwani-st8840560?source=rss",
@@ -15,10 +57,22 @@
       "source": "Biznes.interia.pl"
     },
     {
+      "title": "Iran odgraża się USA i Izraelowi. Mówią o \"uzasadnionych celach\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-iran-odgraza-sie-usa-i-izraelowi-mowia-o-uzasadnionych-celac,nId,22507293",
+      "pubDate": "Sun, 11 Jan 2026 08:49:50 GMT",
+      "source": "Interia"
+    },
+    {
       "title": "Stracił panowanie nad autem, wjechał w dom ",
       "link": "https://tvn24.pl/poznan/borowiec-pijany-kierowca-wjechal-w-dom-na-poznanskiej-st8840580?source=rss",
       "pubDate": "Sun, 11 Jan 2026 08:49:14 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "One person dead and 300 buildings destroyed in Australia bushfires",
+      "link": "https://www.bbc.com/news/articles/c75xdg2p36lo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 11 Jan 2026 08:47:28 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Jak naprawdę pracuje się z gwiazdami?",
@@ -35,6 +89,12 @@
     {
       "title": "Wjechał pod rozpędzony pociąg. Nie żyje",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/wrzosow-minsk-mazowiecki-smiertelny-wypadek-na-torach-kierowca-nie-zyje-st8840584?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 08:39:42 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wjechała pod rozpędzony pociąg. Nie żyje",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/wrzosow-minsk-mazowiecki-smiertelny-wypadek-na-torach-jedna-osoba-nie-zyje-st8840584?source=rss",
       "pubDate": "Sun, 11 Jan 2026 08:39:42 GMT",
       "source": "TVN24"
     },
@@ -7723,6 +7783,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
