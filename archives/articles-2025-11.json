@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-11T07:49:13.192Z",
+  "generatedAt": "2026-01-11T07:58:25.627Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -171009,6 +171033,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -174433,18 +174481,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/bronislaw-komorowski-wywiad-z-prezydentem/t92skjj",
       "pubDate": "Thu, 27 Nov 2025 08:09:39 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Maciej Dyjas: jesteśmy gotowi zwiększać udział w akcjonariacie Murapolu",
-      "link": "https://www.rp.pl/rynek-nieruchomosci/art43410021-maciej-dyjas-jestesmy-gotowi-zwiekszac-udzial-w-akcjonariacie-murapolu",
-      "pubDate": "Thu, 27 Nov 2025 09:09:10 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Blisko 15 proc. Polek nie ma żadnych oszczędności. Dziwi jednak coś innego [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/wiesz-czy-masz-oszczednosci-to-zobacz-ile-osob-nie-wie-badanie/ts011th",
-      "pubDate": "Thu, 27 Nov 2025 08:09:01 GMT",
-      "source": "Business Insider"
     }
   ]
 }
