@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-11T13:50:14.130Z",
+  "generatedAt": "2026-01-11T13:59:27.118Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -171873,6 +171897,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -175081,18 +175129,6 @@
       "link": "https://www.dw.com/en/zimbabwean-activist-wins-german-africa-prize/a-74737477?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Thu, 27 Nov 2025 08:40:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Dziś drugi dzień BNP Paribas Warsaw SerialCon! Michelle Fairley odebrała nagrodę",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-dzis-drugi-dzien-bnp-paribas-warsaw-serialcon-michelle-fairl,nId,8044349",
-      "pubDate": "Thu, 27 Nov 2025 09:39:25 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rząd daje więcej czasu firmom na spełnienie ważnego obowiązku. Chodzi o ceny prądu",
-      "link": "https://pro.rp.pl/abc-firmy/art43410211-rzad-daje-wiecej-czasu-firmom-na-spelnienie-waznego-obowiazku-chodzi-o-ceny-pradu",
-      "pubDate": "Thu, 27 Nov 2025 09:38:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
