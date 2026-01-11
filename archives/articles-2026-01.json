@@ -1,12 +1,48 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T19:38:33.521Z",
+  "generatedAt": "2026-01-11T19:47:58.756Z",
   "items": [
+    {
+      "title": "Potężny atak zimy. Coraz więcej szkół na Pomorzu odwołuje zajęcia",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/potezny-atak-zimy-coraz-wiecej-szkol-na-pomorzu-odwoluje-zajecia/hx715bn",
+      "pubDate": "Sun, 11 Jan 2026 19:46:04 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Szkoły zamknięte przez atak zimy. Tu w poniedziałek nie będzie lekcji",
+      "link": "https://tvn24.pl/tvnmeteo/polska/szkoly-zamkniete-przez-atak-zimy-tu-w-poniedzialek-nie-bedzie-lekcji-st8841618?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 19:41:55 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Finisz prac na Placu Centralnym w Krakowie. Kiedy tramwaje wrócą na stałe trasy?",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-finisz-prac-na-placu-centralnym-w-krakowie-kiedy-tramwaje-wr,nId,8056947",
+      "pubDate": "Sun, 11 Jan 2026 20:40:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tak Pantone zbudował monopol na kolory. \"Stał się złem koniecznym\"",
+      "link": "https://businessinsider.com.pl/wideo/pantone-wyznacza-standardy-w-swiecie-kolorow-dlaczego-projektanci-za-to-placa/ephdv81",
+      "pubDate": "Sun, 11 Jan 2026 19:40:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "YouTube nieco namiesza, ale ma być bardziej intuicyjnie",
+      "link": "https://www.tabletowo.pl/youtube-zmiany-w-filtrach-wyszukiwania/",
+      "pubDate": "Sun, 11 Jan 2026 19:38:00 +0000",
+      "source": "Tabletowo"
+    },
     {
       "title": "​Europa wyśle wojsko na Grenlandię? \"Decydujący moment\"",
       "link": "https://www.rmf24.pl/fakty/swiat/news-europa-wysle-wojsko-na-grenlandie-decydujacy-moment,nId,8056946",
       "pubDate": "Sun, 11 Jan 2026 20:36:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Trump wants to help Iranian protesters but his advice is conflicted",
+      "link": "https://www.theguardian.com/world/2026/jan/11/trump-wants-to-help-iranian-protesters-but-his-advice-is-conflicted",
+      "pubDate": "Sun, 11 Jan 2026 19:31:57 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Po co Trumpowi Grenlandia? \"Powodów jest kilka\" ",
@@ -61,6 +97,12 @@
       "link": "https://www.bankier.pl/wiadomosc/Darmowa-wiza-praca-i-ulgi-Kto-moze-sie-ubiegac-o-Karte-Polaka-9066603.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 11 Jan 2026 20:05:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Gwarancja na Parkside – czy bać się kupowania narzędzi w Lidlu?",
+      "link": "https://antyweb.pl/gwarancja-na-parkside",
+      "pubDate": "Sun, 11 Jan 2026 19:00:47 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Webb namierzył \"kosmiczne dziobaki\". O co tu chodzi?!",
@@ -9859,6 +9901,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62617,54 +62683,6 @@
       "link": "https://biznes.interia.pl/finanse/news-kiedy-komornik-moze-zajac-emeryture-powodow-jest-kilka,nId,22466548",
       "pubDate": "Thu, 01 Jan 2026 08:30:03 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Kolejny atak USA na łodzie domniemanych przemytników. Pasażerowie wyskoczyli do wody",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-kolejny-atak-usa-na-lodzie-domniemanych-przemytnikow-pasazer,nId,8054713",
-      "pubDate": "Thu, 01 Jan 2026 09:30:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Tak USA walczą z \"narkoterroryzmem\". Jest nowe nagranie",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-tak-usa-walcza-z-narkoterroryzmem-jest-nowe-nagranie,nId,8054713",
-      "pubDate": "Thu, 01 Jan 2026 09:30:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Zabójstwo w Giżycku. Taksówkarz zginął w sylwestrową noc",
-      "link": "https://wydarzenia.interia.pl/warminsko-mazurskie/news-zabojstwo-w-gizycku-taksowkarz-zginal-w-sylwestrowa-noc,nId,22504206",
-      "pubDate": "Thu, 01 Jan 2026 08:28:10 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "OnePlus 16 nie będzie musiał wstydzić się porównania z Samsungiem i Xiaomi",
-      "link": "https://www.tabletowo.pl/oneplus-16-nie-bedzie-wstydzil-sie-porownania-z-konkurencja/",
-      "pubDate": "Thu, 01 Jan 2026 08:28:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "15 tys. żołnierzy do pilnowania rozejmu? Tajny plan Paryża i Londynu",
-      "link": "https://www.bankier.pl/wiadomosc/15-tys-zolnierzy-do-pilnowania-rozejmu-Tajny-plan-Paryza-i-Londynu-9062934.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 09:26:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Lockheed Martin ma dostarczyć Tajwanowi sprzęt wojskowy za ponad 328 mln dolarów",
-      "link": "https://www.bankier.pl/wiadomosc/Lockheed-Martin-ma-dostarczyc-Tajwanowi-sprzet-wojskowy-za-ponad-328-mln-dolarow-9062907.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 09:25:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Polityczny ściek AI zalał internet. Za kilka lat nie odróżnimy prawdy od fikcji",
-      "link": "https://android.com.pl/tech/980964-polityczny-sciek-ai-zalal-internet/",
-      "pubDate": "Thu, 01 Jan 2026 08:24:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Nielsen: jesienią czas oglądania TV nieznacznie dłuższy niż przed rokiem",
-      "link": "http://www.press.pl/tresc/90977,nielsen_-jesienia czas-ogladania-tv-nieznacznie-dluzszy-niz-przed-rokiem?rss=1",
-      "pubDate": "Thu, 01 Jan 2026 09:22:00 +0100",
-      "source": "Press.pl"
     }
   ]
 }
