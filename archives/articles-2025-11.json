@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-11T18:53:30.692Z",
+  "generatedAt": "2026-01-11T19:10:13.088Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -172689,6 +172713,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -175692,18 +175740,6 @@
       "title": "\"Mam 60 lat. I proszę was: nigdy nie popełniajcie moich błędów\"",
       "link": "https://wiadomosci.onet.pl/ciekawostki/mam-60-lat-i-prosze-was-nigdy-nie-popelniajcie-moich-bledow/tx4ds2z",
       "pubDate": "Thu, 27 Nov 2025 09:05:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tarczyński promuje \"prorosyjskiego szkodnika\". Żaryn: wstyd, kompromitacja i szkodzenie Polsce",
-      "link": "https://tvn24.pl/polska/dominik-tarczynski-promuje-prorosyjskiego-szkodnika-z-usa-stanislaw-zaryn-wstyd-i-kompromitacja-st8773815?source=rss",
-      "pubDate": "Thu, 27 Nov 2025 09:03:34 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Czy ten wyraz naprawdę istnieje? W tym quizie łatwo się potknąć",
-      "link": "https://wiadomosci.onet.pl/ciekawostki/czy-ten-wyraz-naprawde-istnieje-w-tym-quizie-latwo-sie-potknac/ffnmrx1",
-      "pubDate": "Thu, 27 Nov 2025 09:02:42 GMT",
       "source": "Onet"
     }
   ]
