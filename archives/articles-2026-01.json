@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T17:48:21.223Z",
+  "generatedAt": "2026-01-11T17:57:34.712Z",
   "items": [
+    {
+      "title": "\"Nowa superpotęga Europy\". Niemieckie media o Polsce",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-11/nowa-superpotega-europy-niemieckie-media-o-polsce/",
+      "pubDate": "Sun, 11 Jan 2026 18:53:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Sudan's government returns to capital after nearly 3 years of war",
+      "link": "https://www.bbc.com/news/articles/ckgn5g90lggo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 11 Jan 2026 17:50:02 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Dziecko upadło nagle na podłogę. Chwile grozy w Szczecinku",
+      "link": "https://wiadomosci.onet.pl/szczecin/dziecko-upadlo-nagle-na-podloge-chwile-grozy-w-szczecinku/0kgxyhb",
+      "pubDate": "Sun, 11 Jan 2026 17:48:57 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Trump stawia Kubie warunki. Stanowcza reakcja prezydenta, \"jesteśmy gotowi\"",
       "link": "https://wydarzenia.interia.pl/zagranica/news-trump-stawia-kubie-warunki-stanowcza-reakcja-prezydenta-jest,nId,22507392",
@@ -9577,6 +9595,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62533,30 +62575,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2026-01-01/eksplozja-w-szwajcarskim-kurorcie-w-sylwestrowa-noc-sa-zabici-i-ranni/",
       "pubDate": "Thu, 01 Jan 2026 08:15:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Jak długo alkohol utrzymuje się w organizmie? Tyle naprawdę trwa trzeźwienie",
-      "link": "https://wiadomosci.onet.pl/kraj/tak-dlugo-alkohol-utrzymuje-sie-w-organizmie-tyle-schodza-piwo-i-wino/lpbvp44",
-      "pubDate": "Thu, 01 Jan 2026 07:14:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Germany facing many challenges in 2026",
-      "link": "https://www.dw.com/en/germany-facing-many-challenges-in-2026/a-75115805?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 1 Jan 2026 07:13:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Germany facing many domestic challenges in 2026",
-      "link": "https://www.dw.com/en/germany-facing-many-domestic-challenges-in-2026/a-75115805?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 1 Jan 2026 07:13:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Conscription, pensions and AfD on Germany's 2026 agenda",
-      "link": "https://www.dw.com/en/conscription-pensions-and-afd-on-germany-s-2026-agenda/a-75115805?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 1 Jan 2026 07:13:00 GMT",
-      "source": "DW"
     }
   ]
 }
