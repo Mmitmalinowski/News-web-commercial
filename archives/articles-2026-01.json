@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T21:44:09.089Z",
+  "generatedAt": "2026-01-11T21:53:39.668Z",
   "items": [
+    {
+      "title": "Data podpisania umowy z Mercosur potwierdzona",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-data-podpisania-umowy-z-mercosur-potwierdzona,nId,8056955",
+      "pubDate": "Sun, 11 Jan 2026 22:47:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wielka Brytania rozważa wysłanie wojska na Grenlandię? Minister mówi o normalnych rozmowach",
+      "link": "https://www.rp.pl/polityka/art43619791-wielka-brytania-rozwaza-wyslanie-wojska-na-grenlandie-minister-mowi-o-normalnych-rozmowach",
+      "pubDate": "Sun, 11 Jan 2026 22:44:56 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Szalone El Clasico. Barcelona z pierwszym trofeum w tym roku, Lewandowski znów z golem",
       "link": "https://sport.rp.pl/pilka-nozna/art43620121-szalone-el-clasico-barcelona-z-pierwszym-trofeum-w-tym-roku-lewandowski-znow-z-golem",
@@ -10069,6 +10081,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62791,24 +62827,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-duma-i-uprzedzenie-nowy-rok-przyniesie-zwrot-w-relacjach-pre,nId,22504093",
       "pubDate": "Thu, 01 Jan 2026 09:18:18 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Śrem ma nowe reguły wywozu odpadów od 1 stycznia. Śmieciarka może ich nie zabrać",
-      "link": "https://businessinsider.com.pl/wiadomosci/gmina-zmienia-zasady-odbioru-smieci-mieszkancy-moga-doznac-szoku/q62xd6l",
-      "pubDate": "Thu, 01 Jan 2026 09:18:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rosjanie zaatakowali tuż przy granicy z Polską. Niespokojna sylwestrowa noc w Ukrainie",
-      "link": "https://wiadomosci.onet.pl/swiat/rosjanie-zaatakowali-tuz-przy-granicy-z-polska-niespokojna-sylwestrowa-noc-w-ukrainie/sehpgdp",
-      "pubDate": "Thu, 01 Jan 2026 09:17:12 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "TikTok odpowiada na zarzuty po tragedii w Polsce",
-      "link": "https://www.bankier.pl/wiadomosc/TikTok-odpowiada-na-zarzuty-po-tragedii-w-Polsce-9060032.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 10:16:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
