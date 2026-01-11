@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-11T12:01:36.721Z",
+  "generatedAt": "2026-01-11T12:58:18.886Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -42141,6 +42141,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -75349,12 +75373,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-wyszli-z-baru-padly-strzaly-dziewiec-osob-nie-zyje,nId,22501754",
       "pubDate": "Sun, 21 Dec 2025 08:13:21 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "1000 źródeł światła. Najciemniejsze miejsce na Ziemi zagrożone",
-      "link": "https://www.rmf24.pl/nauka/news-1000-zrodel-swiatla-najciemniejsze-miejsce-na-ziemi-zagrozon,nId,8050572",
-      "pubDate": "Sun, 21 Dec 2025 09:10:31 +0100",
-      "source": "RMF24"
     }
   ]
 }
