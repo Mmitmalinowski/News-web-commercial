@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T20:42:19.077Z",
+  "generatedAt": "2026-01-11T20:53:22.120Z",
   "items": [
+    {
+      "title": "MSZ ostrzega przed podróżami do Iranu. Nowy komunikat",
+      "link": "https://wiadomosci.onet.pl/kraj/msz-ostrzega-przed-podrozami-do-iranu-nie-jedz-tam-teraz/ezxpbvh",
+      "pubDate": "Sun, 11 Jan 2026 20:50:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Alarm w niemieckim pociągu. Ewakuowano pasażerów, zatrzymano Polaka",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-alarm-w-niemieckim-pociagu-ewakuowano-pasazerow-zatrzymano-p,nId,22507423",
+      "pubDate": "Sun, 11 Jan 2026 20:44:52 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "\"Wszystko w naszej pogodzie może się zdarzyć\" ",
+      "link": "https://tvn24.pl/tvnmeteo/polska/prognozowanie-pogody-wszystko-moze-sie-zdarzyc-st8841679?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 20:42:15 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "​Czarny weekend w Alpach. Lawiny zabiły sześciu narciarzy",
       "link": "https://www.rmf24.pl/fakty/swiat/news-czarny-weekend-w-alpach-lawiny-zabily-szesciu-narciarzy,nId,8056952",
@@ -9997,6 +10015,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62713,30 +62755,6 @@
       "link": "https://tech.wp.pl/naukowcy-zaskakuja-stworzyli-klej-ktory-moze-holowac-samochod,7237666718153216a",
       "pubDate": "Thu, 01 Jan 2026 10:01:00 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Tragiczny wypadek w sylwestrową noc. Nie żyje 31-latek",
-      "link": "https://wiadomosci.onet.pl/krakow/tragiczny-wypadek-w-sylwestrowa-noc-nie-zyje-31-latek/w7gv3b8",
-      "pubDate": "Thu, 01 Jan 2026 09:00:53 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Skoki, Makłowicz i koncert noworoczny: Co obejrzeć 1 stycznia, żeby dojść do siebie?",
-      "link": "https://antyweb.pl/co-obejrzec-w-nowy-rok",
-      "pubDate": "Thu, 01 Jan 2026 09:00:07 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Matury próbne w 2026 roku w dwóch terminach. Kiedy się odbędą?",
-      "link": "https://wydarzenia.interia.pl/matura/news-matury-probne-w-2026-roku-w-dwoch-terminach-kiedy-sie-odbeda,nId,22503981",
-      "pubDate": "Thu, 01 Jan 2026 09:00:03 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zmiany w emeryturach czerwcowych. Dotkną ponad 100 tys. Polaków",
-      "link": "https://www.money.pl/pieniadze/zmiany-w-emeryturach-czerwcowych-dotkna-ponad-100-tys-polakow-7238683047279584a.html",
-      "pubDate": "Thu, 01 Jan 2026 09:56:55 +0100",
-      "source": "Money.pl"
     }
   ]
 }
