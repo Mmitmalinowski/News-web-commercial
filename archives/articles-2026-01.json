@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-11T20:53:22.120Z",
+  "generatedAt": "2026-01-11T21:11:48.688Z",
   "items": [
+    {
+      "title": "W bezpośrednich kontaktach prezydent \"wcale nie jest taki konfrontacyjny\"",
+      "link": "https://tvn24.pl/polska/stosunki-karola-nawrockiego-i-donalda-tuska-w-bezposrednich-kontaktach-prezydent-wcale-nie-jest-taki-konfrontacyjny-st8841697?source=rss",
+      "pubDate": "Sun, 11 Jan 2026 20:57:11 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Rekord! Komiks z Supermanem skradziony hollywoodzkiemu aktorowi poszedł za miliony",
+      "link": "https://www.rmf24.pl/ciekawostki/news-rekord-komiks-z-supermanem-skradziony-hollywoodzkiemu-aktoro,nId,8056953",
+      "pubDate": "Sun, 11 Jan 2026 21:55:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "MSZ ostrzega przed podróżami do Iranu. Nowy komunikat",
       "link": "https://wiadomosci.onet.pl/kraj/msz-ostrzega-przed-podrozami-do-iranu-nie-jedz-tam-teraz/ezxpbvh",
@@ -10015,6 +10027,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62737,24 +62773,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-wychlodzona-i-wyczerpana-24-latka-uratowana-na-babiej-gorze,nId,8054715",
       "pubDate": "Thu, 01 Jan 2026 10:02:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Niebezpieczne incydenty w Warszawie i Poznaniu. Płonęły choinki na głównych placach",
-      "link": "https://wiadomosci.onet.pl/warszawa/niebezpieczne-incydenty-w-warszawie-i-poznaniu-plonely-choinki-na-glownych-placach/c6p852v",
-      "pubDate": "Thu, 01 Jan 2026 09:01:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rozkochał w sobie i oszukał kilkanaście kobiet",
-      "link": "https://tvn24.pl/poznan/kalisz-34-latek-rozkochal-w-sobie-i-oszukal-kilkanascie-kobiet-akt-oskarzenia-st8825974?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 09:01:36 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Naukowcy zaskakują. Stworzyli klej, który może holować samochód",
-      "link": "https://tech.wp.pl/naukowcy-zaskakuja-stworzyli-klej-ktory-moze-holowac-samochod,7237666718153216a",
-      "pubDate": "Thu, 01 Jan 2026 10:01:00 +0100",
-      "source": "Tech WP.pl"
     }
   ]
 }
