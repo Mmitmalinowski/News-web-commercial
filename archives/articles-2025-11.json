@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-12T20:12:40.389Z",
+  "generatedAt": "2026-01-12T20:40:00.196Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -175473,6 +175497,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -177781,18 +177829,6 @@
       "link": "https://konkret24.tvn24.pl/polityka/chinskie-dzialo-strzela-7-razy-szybciej-niz-dzwiek-nie-to-berkowicz-strzela-kula-w-plot-st8773172?source=rss",
       "pubDate": "Thu, 27 Nov 2025 10:19:53 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Wirtualna Polska liderem opiniotwórczych mediów w październiku. Wirtualnemedia.pl w TOP10",
-      "link": "https://www.wirtualnemedia.pl/wirtualna-polska-liderem-opiniotworczych-mediow-w-pazdzierniku-wirtualnemedia-pl-w-top10,7226016141130368a",
-      "pubDate": "Thu, 27 Nov 2025 11:19:26 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Tragiczny pożar osiedla w Hongkongu. Rośnie liczba ofiar",
-      "link": "https://businessinsider.com.pl/wiadomosci/najwiekszy-pozar-w-hongkongu-od-prawie-30-lat-remont-zamienil-sie-w-katastrofe/2p3cxk5",
-      "pubDate": "Thu, 27 Nov 2025 10:19:16 GMT",
-      "source": "Business Insider"
     }
   ]
 }

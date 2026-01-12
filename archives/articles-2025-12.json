@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-12T20:12:40.307Z",
+  "generatedAt": "2026-01-12T20:40:00.108Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -44013,6 +44013,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -76753,12 +76777,6 @@
       "link": "http://www.press.pl/tresc/90825,znika-dodatek-telewizyjny-_telewidz__-ukazywal-sie-z-tygodnikami-lokalnymi?rss=1",
       "pubDate": "Sun, 21 Dec 2025 11:31:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "Karol Nawrocki: nie czujemy się partnerami Ukrainy. Czy Polacy się zgadzają? [SONDAŻ]",
-      "link": "https://businessinsider.com.pl/wiadomosci/wiekszosc-polakow-popiera-slowa-karola-nawrockiego-o-partnerstwie-z-ukraina/br9twpm",
-      "pubDate": "Sun, 21 Dec 2025 10:30:54 GMT",
-      "source": "Business Insider"
     }
   ]
 }
