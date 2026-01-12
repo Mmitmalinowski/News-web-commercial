@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-11T23:50:58.943Z",
+  "generatedAt": "2026-01-12T00:00:10.038Z",
   "items": [
+    {
+      "title": "Queensland weather: state braces for heavy rain and floods after ex-Tropical Cyclone Koji batters far north",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/12/queensland-weather-heavy-rain-floods-ex-tropical-cyclone-koji",
+      "pubDate": "Sun, 11 Jan 2026 23:43:46 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Wiadomo, kiedy podpisana zostanie umowa Mercosur. KE potwierdza",
       "link": "https://wiadomosci.onet.pl/swiat/wiadomo-kiedy-podpisana-zostanie-umowa-mercosur-ke-potwierdza/lre482k",
@@ -10134,6 +10140,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -62942,18 +62972,6 @@
       "source": "Polsat News"
     },
     {
-      "title": "Wstępują do strefy euro. Mieszkańcy boją się podwyżek, władze uspokajają",
-      "link": "https://businessinsider.com.pl/finanse/bulgaria-wprowadza-euro-burmistrz-sofii-zapewnia-nie-bedzie-podwyzek-cen/61wgbv0",
-      "pubDate": "Thu, 01 Jan 2026 09:39:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Tragedia w Sylwestra. Dziesiątki ofiar śmiertelnych w Szwajcarii",
-      "link": "https://www.bankier.pl/wiadomosc/Tragedia-w-Sylwestra-Dziesiatki-ofiar-smiertelnych-w-Szwajcarii-9062994.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 10:39:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
       "link": "https://wiadomosci.onet.pl/swiat/rosja-oskarza-ukraine-o-atak-dronami-cia-rezydencja-putina-ani-on-sam-nie-byli-celami/ny3h5en",
       "pubDate": "Wed, 31 Dec 2025 23:19:25 GMT",
@@ -106028,6 +106046,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -139002,12 +139044,6 @@
       "link": "https://wiadomosci.onet.pl/prof-stempin-w-sejmie-nie-powinno-byc-ani-chanuki-ani-bozego-narodzenia/mnxtf4t",
       "pubDate": "Sun, 21 Dec 2025 09:28:59 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Lawina pochwał pod adresem Warszawy. \"Nie próbuje już robić wrażenia\"",
-      "link": "https://biznes.interia.pl/finanse/news-polskie-miasto-wyroznione-inspiruje-bo-nie-probuje-juz-robic,nId,22501757",
-      "pubDate": "Sun, 21 Dec 2025 09:27:10 GMT",
-      "source": "Biznes.interia.pl"
     }
   ],
   "totalArticles": 20000,
