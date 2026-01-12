@@ -1,6 +1,6 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-12T23:45:48.448Z",
+  "generatedAt": "2026-01-12T23:55:20.837Z",
   "items": [
     {
       "title": "Peter Mandelson apologises for Epstein association in sudden U-turn",
@@ -5125,6 +5125,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Mroz-przetestowal-system-Mamy-nowy-rekord-zapotrzebowania-na-prad-9066857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 12 Jan 2026 11:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-12T09:58:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -63865,12 +63889,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/chca-sie-pozbyc-z-niemiec-syryjskich-uchodzcow-deportacyjny-terminal/7h31zm7",
       "pubDate": "Fri, 02 Jan 2026 18:05:56 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Ciało kobiety na górskim szlaku. Prawdopodobnie doszło do ataku pumy",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-cialo-kobiety-na-gorskim-szlaku-prawdopodobnie-doszlo-do-ata,nId,8054965",
-      "pubDate": "Fri, 02 Jan 2026 19:04:58 +0100",
-      "source": "RMF24"
     }
   ]
 }
