@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-12T22:28:03.576Z",
+  "generatedAt": "2026-01-12T22:45:02.170Z",
   "items": [
+    {
+      "title": "US judge lets Danish firm resume Rhode Island offshore wind project halted by Trump",
+      "link": "https://www.theguardian.com/business/2026/jan/12/orsted-rhode-island-wind-project-trump",
+      "pubDate": "Mon, 12 Jan 2026 22:29:58 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump announces 25% tariff on Iran's trading partners",
+      "link": "https://www.dw.com/en/trump-announces-25-tariff-on-iran-s-trading-partners/a-75481137?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 12 Jan 2026 22:28:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "​Ciało żołnierza odnalezione na bagnach",
       "link": "https://www.rmf24.pl/regiony/warszawa/news-cialo-zolnierza-odnalezione-na-bagnach,nId,8057360",
@@ -5034,6 +5046,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Mroz-przetestowal-system-Mamy-nowy-rekord-zapotrzebowania-na-prad-9066857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 12 Jan 2026 11:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-12T09:58:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -63764,24 +63800,6 @@
       "source": "BBC News"
     },
     {
-      "title": "Oto ile pieniędzy wpłynie do Polski z Unii w 2026 r. \"To absolutny rekord\"",
-      "link": "https://businessinsider.com.pl/finanse/kpo-i-inne-fundusze-oto-ile-pieniedzy-wplynie-do-polski-z-unii-w-tym-roku-to/wzzcdd6",
-      "pubDate": "Fri, 02 Jan 2026 17:36:58 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Źle policzyli głosy, prokuratura wnioskuje o warunkowe umorzenie",
-      "link": "https://tvn24.pl/szczecin/kolbaskowo-zle-policzyli-glosy-prokuratura-wnioskuje-o-warunkowe-umorzenie-st8828243?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 17:36:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Dotkliwa strata Rosjan. Setki milionów dolarów poszły z dymem",
-      "link": "https://geekweek.interia.pl/militaria/news-dotkliwa-strata-rosjan-setki-milionow-dolarow-poszly-z-dymem,nId,22504591",
-      "pubDate": "Fri, 02 Jan 2026 17:36:12 GMT",
-      "source": "GeekWeek"
-    },
-    {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
       "link": "https://wiadomosci.onet.pl/swiat/rosja-oskarza-ukraine-o-atak-dronami-cia-rezydencja-putina-ani-on-sam-nie-byli-celami/ny3h5en",
       "pubDate": "Wed, 31 Dec 2025 23:19:25 GMT",
@@ -107960,6 +107978,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -140658,12 +140700,6 @@
       "link": "https://www.rmf24.pl/regiony/krakow/news-niezwykla-wigilia-na-krakowskim-rynku-to-najwiekszy-swiatecz,nId,8052643",
       "pubDate": "Sun, 21 Dec 2025 11:46:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Trzeci dzień dogaszają pożar hali. Będą rozbierać konstrukcję",
-      "link": "https://tvn24.pl/rzeszow/stalowa-wola-trzeci-dzien-dogaszaja-pozar-hali-st8811849?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 10:45:08 GMT",
-      "source": "TVN24"
     }
   ],
   "totalArticles": 20000,
