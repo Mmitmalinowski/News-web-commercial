@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-12T19:28:11.387Z",
+  "generatedAt": "2026-01-12T19:42:56.126Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -175329,6 +175353,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -177673,18 +177721,6 @@
       "link": "https://businessinsider.com.pl/prawo/banki-nie-moga-juz-zastraszac-konsumentow-tsue-zmienia-zasady/xxdn1p3",
       "pubDate": "Thu, 27 Nov 2025 10:16:53 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Nie tylko fabryki stanęły. Mogły wyciec dane ponad miliona osób",
-      "link": "https://tvn24.pl/biznes/ze-swiata/japonia-asahi-nie-tylko-fabryki-stanely-mogly-wyciec-dane-nawet-1-5-miliona-osob-st8773604?source=rss",
-      "pubDate": "Thu, 27 Nov 2025 10:16:32 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Omnicom sfinalizował przejęcie IPG. Powstała największa grupa reklamowa na świecie",
-      "link": "https://www.wirtualnemedia.pl/omnicom-sfinalizowal-przejecie-ipg-powstala-najwieksza-grupa-reklamowa-na-swiecie,7226294650538688a",
-      "pubDate": "Thu, 27 Nov 2025 11:16:03 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
