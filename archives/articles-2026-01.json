@@ -1,12 +1,60 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-12T20:55:29.465Z",
+  "generatedAt": "2026-01-12T21:17:35.219Z",
   "items": [
+    {
+      "title": "Przekażą Ukrainie bajońskie sumy. Kraj NATO ogłasza pomoc w trybie pilnym",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-przekaza-ukrainie-bajonskie-sumy-kraj-nato-oglasza-pomoc-w-t,nId,22507893",
+      "pubDate": "Mon, 12 Jan 2026 21:10:05 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "IQS z nowym członkiem zarządu",
+      "link": "https://www.wirtualnemedia.pl/iqs-z-nowym-czlonkiem-zarzadu,7242669593950720a",
+      "pubDate": "Mon, 12 Jan 2026 22:06:45 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "W znanym polskim kurorcie powstanie kolej gondolowa",
+      "link": "https://businessinsider.com.pl/lifestyle/podroze/zapomniana-inwestycja-w-polskim-kurorcie-rusza-po-trzech-dekadach/58vh12t",
+      "pubDate": "Mon, 12 Jan 2026 21:05:52 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Donald Trump ostrzega Amerykanów. \"Jeśli to się stanie, mamy przerąbane\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-donald-trump-ostrzega-amerykanow-jesli-to-sie-stanie-mamy-pr,nId,22507894",
+      "pubDate": "Mon, 12 Jan 2026 21:00:34 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Trump: byłby kompletny bałagan, nasz kraj praktycznie nie mógłby tego spłacić",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-bylby-kompletny-balagan-nasz-kraj-praktycznie-nie-moglby-tego-splacic-st8843667?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 21:00:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Projekt ustawy o aneksji Grenlandii. Amerykański polityk przekazał szczegóły",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-przejmie-grenlandie-jest-projekt-ustawy-o-aneksji/v5qxs8j",
+      "pubDate": "Mon, 12 Jan 2026 20:53:20 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Ile kosztuje funt? Kurs funta do złotego PLN/GBP 12.01.2026",
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-funt-kurs-funta-do-zlotego-pln-gbp-12-01-2026-7242756420975104a.html",
       "pubDate": "Mon, 12 Jan 2026 21:52:55 +0100",
       "source": "Money.pl"
+    },
+    {
+      "title": "Sąd Najwyższy zdecyduje o cłach USA. Donald Trump ostrzega. Użył mocnych słów",
+      "link": "https://wiadomosci.onet.pl/swiat/spor-o-cla-w-usa-donald-trump-grzmi-w-najnowszym-wpisie-uzyl-mocnych-slow/30zdqf7",
+      "pubDate": "Mon, 12 Jan 2026 20:52:46 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Trump to meet Venezuelan opposition leader Machado at the White House",
+      "link": "https://www.bbc.com/news/articles/cr7jzpr95yvo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Mon, 12 Jan 2026 20:51:10 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 12.01.2026",
@@ -4867,6 +4915,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Mroz-przetestowal-system-Mamy-nowy-rekord-zapotrzebowania-na-prad-9066857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 12 Jan 2026 11:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-12T09:58:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -63637,60 +63709,6 @@
       "link": "https://www.theguardian.com/uk-news/2026/jan/02/ministers-cannot-go-on-ignoring-the-shamima-begum-case-for-two-important-reasons",
       "pubDate": "Fri, 02 Jan 2026 17:10:15 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Klamka zapadła. To już jawny sojusz przeciwko Turcji",
-      "link": "https://tech.wp.pl/klamka-zapadla-to-juz-jawny-sojusz-przeciwko-turcji,7239139470322656a",
-      "pubDate": "Fri, 02 Jan 2026 18:06:25 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Swiss bar fire likely started by sparklers on champagne bottles",
-      "link": "https://www.bbc.com/news/articles/cq6v41jg9jzo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 02 Jan 2026 17:06:17 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Dwa nowe odcinkowe pomiary prędkości w pobliżu stolicy",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-dwa-nowe-odcinkowe-pomiary-predkosci-w-poblizu-stolicy-st8828177?source=rss",
-      "pubDate": "Fri, 02 Jan 2026 17:06:13 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Dwie osoby nie żyją, kilka jest rannych. Seria lawin w Alpach",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-dwie-osoby-nie-zyja-kilka-jest-rannych-seria-lawin-w-alpach,nId,8054960",
-      "pubDate": "Fri, 02 Jan 2026 18:05:47 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "CSU ma dość uchodźców z Syrii. Ujawniono plany partii",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-csu-ma-dosc-uchodzcow-z-syrii-ujawniono-plany-partii,nId,8054958",
-      "pubDate": "Fri, 02 Jan 2026 18:05:39 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "For years, governments have pledged to ban plastic bags — but the bags are still piling up globally",
-      "link": "https://www.dw.com/en/for-years-governments-have-pledged-to-ban-plastic-bags-but-the-bags-are-still-piling-up-globally/a-74980708?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 2 Jan 2026 17:05:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Why plastic bans aren't working and what needs to change",
-      "link": "https://www.dw.com/en/why-plastic-bans-aren-t-working-and-what-needs-to-change/a-74980708?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 2 Jan 2026 17:05:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Wielkie zmiany na najwyższych szczeblach w Ukrainie. Zapadła decyzja",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-wielkie-zmiany-na-najwyzszych-szczeblach-w-ukrainie-zapadla,nId,22504578",
-      "pubDate": "Fri, 02 Jan 2026 17:01:52 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Pięciolatka zginęła w gospodarstwie agroturystycznym. Ruch prokuratury",
-      "link": "https://wiadomosci.onet.pl/olsztyn/pieciolatka-zginela-w-gospodarstwie-agroturystycznym-ruch-prokuratury/ypx9fj4",
-      "pubDate": "Fri, 02 Jan 2026 17:01:00 GMT",
-      "source": "Onet"
     }
   ]
 }
