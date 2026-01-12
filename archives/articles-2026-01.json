@@ -1,7 +1,43 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-12T21:17:35.219Z",
+  "generatedAt": "2026-01-12T21:38:26.960Z",
   "items": [
+    {
+      "title": "Połączenie dwóch krajów w Europie w jedno? Prezydentka: zagłosowałabym \"za\"",
+      "link": "https://wiadomosci.onet.pl/swiat/dwa-kraje-w-europie-polacza-sie-w-jedno-prezydentka-zaglosowalabym-za/sn3svb4",
+      "pubDate": "Mon, 12 Jan 2026 21:33:40 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "\"Ma tylko jedną rzecz\". Trump ocenia sytuację Zełenskiego",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-12/ma-tylko-jedna-rzecz-trump-ocenia-sytuacje-zelenskiego/",
+      "pubDate": "Mon, 12 Jan 2026 22:26:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Trump ‘unafraid to use military force on Iran’, White House says",
+      "link": "https://www.theguardian.com/us-news/2026/jan/12/white-house-trump-iran",
+      "pubDate": "Mon, 12 Jan 2026 21:24:03 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Machina już ruszyła. Europa ma gęsią skórkę na myśl o planach Donalda Trumpa",
+      "link": "https://wiadomosci.onet.pl/swiat/machina-juz-ruszyla-europa-ma-gesia-skorke-na-mysl-o-planach-donalda-trumpa/4j2mr2z",
+      "pubDate": "Mon, 12 Jan 2026 21:23:41 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "​Kobieta zgłosiła molestowanie w hotelu. Policjant bez zarzutów",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-kobieta-zglosila-molestowanie-w-hotelu-policjant-bez-zarzuto,nId,8057348",
+      "pubDate": "Mon, 12 Jan 2026 22:22:55 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Decyzja, której USA mogą nie udźwignąć. Donald Trump ostrzega przed chaosem",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-12/decyzja-ktorej-usa-moga-nie-udzwignac-donald-trump-ostrzega-przed-chaosem/",
+      "pubDate": "Mon, 12 Jan 2026 22:16:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Przekażą Ukrainie bajońskie sumy. Kraj NATO ogłasza pomoc w trybie pilnym",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-przekaza-ukrainie-bajonskie-sumy-kraj-nato-oglasza-pomoc-w-t,nId,22507893",
@@ -29,6 +65,12 @@
     {
       "title": "Trump: byłby kompletny bałagan, nasz kraj praktycznie nie mógłby tego spłacić",
       "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-bylby-kompletny-balagan-nasz-kraj-praktycznie-nie-moglby-tego-splacic-st8843667?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 21:00:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Trump: jeśli sąd to unieważni, mamy przerąbane",
+      "link": "https://tvn24.pl/biznes/ze-swiata/usa-donald-trump-jesli-sad-to-uniewazni-mamy-przerabane-st8843667?source=rss",
       "pubDate": "Mon, 12 Jan 2026 21:00:22 GMT",
       "source": "TVN24"
     },
@@ -4915,6 +4957,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Mroz-przetestowal-system-Mamy-nowy-rekord-zapotrzebowania-na-prad-9066857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 12 Jan 2026 11:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-12T09:58:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -63661,54 +63727,6 @@
       "link": "https://businessinsider.com.pl/gospodarka/nicolas-maduro-ugina-sie-pod-presja-usa-kiedy-gdzie-i-jak-chca/w3zlr0t",
       "pubDate": "Fri, 02 Jan 2026 17:20:13 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Nowe życie dla elektrowni węglowych. Polska wyciągnie wnioski z blackoutu w Hiszpanii?",
-      "link": "https://energia.rp.pl/elektroenergetyka/art43587471-nowe-zycie-dla-elektrowni-weglowych-polska-wyciagnie-wnioski-z-blackoutu-w-hiszpanii",
-      "pubDate": "Fri, 02 Jan 2026 18:19:46 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Woman killed in suspected mountain lion attack in US",
-      "link": "https://www.bbc.com/news/articles/c9vxp4ng8d8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 02 Jan 2026 17:18:36 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Nowe zasady na słowackich stokach. Sprawdź, zanim pojedziesz",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-nowe-zasady-na-slowackich-stokach-sprawdz-zanim-pojedziesz,nId,8054961",
-      "pubDate": "Fri, 02 Jan 2026 18:17:46 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Dyplomatyczne trzęsienie ziemi, jakiego nie widzieliśmy od czasów Lenina. Następca Trumpa będzie musiał to wszystko odkręcić [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/w-relacjach-usa-i-rosji-trump-dokonal-zwrotu-jakiego-nie-bylo-od-czasow-lenina/8xf0yz2",
-      "pubDate": "Fri, 02 Jan 2026 17:16:13 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zabójstwo taksówkarza w Giżycku. Prokuratura ujawnia nowe fakty",
-      "link": "https://wiadomosci.onet.pl/olsztyn/zabojstwo-taksowkarza-w-gizycku-prokuratura-ujawnia-nowe-fakty/8bfh80g",
-      "pubDate": "Fri, 02 Jan 2026 17:13:56 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zmienili morze w elektrownię. Skala inwestycji powala",
-      "link": "https://spidersweb.pl/2026/01/najwieksza-morska-elektrownia-sloneczna-chiny.html",
-      "pubDate": "Fri, 02 Jan 2026 18:13:43 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Pogoda w najbliższych godzinach będzie niebezpieczna. Minister ostrzega",
-      "link": "https://wiadomosci.onet.pl/kraj/polska-w-objeciach-sniezyc-trwaja-przygotowania-do-trudnej-nocy/q349eew",
-      "pubDate": "Fri, 02 Jan 2026 17:11:05 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ministers cannot go on ignoring the Shamima Begum case, for two important reasons",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/02/ministers-cannot-go-on-ignoring-the-shamima-begum-case-for-two-important-reasons",
-      "pubDate": "Fri, 02 Jan 2026 17:10:15 GMT",
-      "source": "The Guardian"
     }
   ]
 }

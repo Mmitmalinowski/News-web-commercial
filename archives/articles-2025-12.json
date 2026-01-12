@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-12T21:17:35.279Z",
+  "generatedAt": "2026-01-12T21:38:27.024Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -44085,6 +44085,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -76807,12 +76831,6 @@
       "link": "https://tvn24.pl/biznes/moto/motoryzacja-samochody-z-chin-pieta-achillesowa-europy-st8811807?source=rss",
       "pubDate": "Sun, 21 Dec 2025 10:34:36 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Zoom TV zwiększył udział w grupie 4+, a Nowa TV w komercyjnej 16-59",
-      "link": "http://www.press.pl/tresc/90826,zoom-tv-zwiekszyl-udzial-w-grupie-4-_-a-nowa-tv-w-komercyjnej-16-59?rss=1",
-      "pubDate": "Sun, 21 Dec 2025 11:34:00 +0100",
-      "source": "Press.pl"
     }
   ]
 }
