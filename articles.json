@@ -1,6 +1,66 @@
 {
-  "generatedAt": "2026-01-12T07:37:09.064Z",
+  "generatedAt": "2026-01-12T07:52:49.225Z",
   "items": [
+    {
+      "title": "Samoloty przegrywają z zimą. Apokalipsa na polskich lotniskach",
+      "link": "https://spidersweb.pl/2026/01/lotniska-zima-problem.html",
+      "pubDate": "Mon, 12 Jan 2026 08:50:07 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "PiS chce dymisji ministra rolnictwa. \"Krajewski wykazuje się arogancją\"",
+      "link": "https://www.rmf24.pl/polityka/news-pis-chce-dymisji-ministra-rolnictwa-krajewski-wykazuje-sie-a,nId,8056996",
+      "pubDate": "Mon, 12 Jan 2026 08:48:28 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Sikorski odpowiada. \"USA nie wypowiedziały wojny\"",
+      "link": "https://tvn24.pl/swiat/radoslaw-sikorski-odpowiedzial-na-slowa-tuckera-carlsona-usa-nie-wypowiedzialy-wojny-st8841881?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 07:46:38 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Samsung Galaxy S27 Ultra w nowych przeciekach. Jego aparat robi wrażenie",
+      "link": "https://android.com.pl/tech/1008302-galaxy-s27-ultra-aparat-przecieki/",
+      "pubDate": "Mon, 12 Jan 2026 07:45:56 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Były policjant podejrzany o serię włamań do myjni samochodowych",
+      "link": "https://tvn24.pl/rzeszow/podkarpackie-malopolskie-swietokrzyskie-byly-policjant-podejrzany-o-serie-wlaman-do-myjni-samochodowych-st8842063?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 07:45:47 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Chiny budują wyspy, świat patrzy z niepokojem. To może być punkt zapalny globalnego konfliktu",
+      "link": "https://businessinsider.com.pl/wideo/chiny-i-sztuczne-wyspy-jak-wplywaja-na-sytuacje-na-morzu-poludniowochinskim/q3fzwkm",
+      "pubDate": "Mon, 12 Jan 2026 07:43:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Zarabiali na prostytucji i prali brudne pieniądze. Akcja CBŚP [WIDEO]",
+      "link": "https://wiadomosci.onet.pl/trojmiasto/zarabiali-na-prostytucji-i-prali-brudne-pieniadze-akcja-cbsp-wideo/glkrfls",
+      "pubDate": "Mon, 12 Jan 2026 07:42:10 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Atak na medyków w szpitalu w Piotrkowie. Policja szuka agresywnej kobiety",
+      "link": "https://www.rmf24.pl/regiony/lodz/news-atak-na-medykow-w-szpitalu-w-piotrkowie-policja-szuka-agresy,nId,8056988",
+      "pubDate": "Mon, 12 Jan 2026 08:41:34 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Bestia uwolniona. Okulary XR weszły na wyższy poziom",
+      "link": "https://www.tabletowo.pl/bestia-uwolniona-okulary-xr-viture-beast/",
+      "pubDate": "Mon, 12 Jan 2026 07:37:33 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Wrze w SOP po aferze wokół Donalda Tuska. Dowódcy napisali do MSWiA",
+      "link": "https://wiadomosci.onet.pl/kraj/wrze-w-sop-po-aferze-wokol-donalda-tuska-dowodcy-napisali-do-mswia/g5dgkvh",
+      "pubDate": "Mon, 12 Jan 2026 07:35:12 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Ukraina otrzyma pociski dalekiego zasięgu. Wielka Brytania ogłasza projekt Nightfall",
       "link": "https://www.rp.pl/konflikty-zbrojne/art43620691-ukraina-otrzyma-pociski-dalekiego-zasiegu-wielka-brytania-oglasza-projekt-nightfall",
@@ -270,6 +330,12 @@
       "link": "https://oko.press/na-zywo/na-zywo-relacja/trump-ponownie-rozwaza-atak-na-iran",
       "pubDate": "Mon, 12 Jan 2026 06:46:19 +0000",
       "source": "OKO.press"
+    },
+    {
+      "title": "\"Tajemniczy obiekt\" na trasie Trumpa. Nadzwyczajne środki bezpieczeństwa",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-12/tajemniczy-obiekt-na-trasie-trumpa-wdrozono-nadzwyczajne-srodki-bezpieczenstwa/",
+      "pubDate": "Mon, 12 Jan 2026 07:44:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Hamas says it will dissolve its Gaza government when new Palestinian body takes over",
@@ -11754,6 +11820,30 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-09T14:09:01Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -63044,78 +63134,6 @@
       "source": "Interia"
     },
     {
-      "title": "Awaria wodociągu, woda zalała ulicę",
-      "link": "https://tvn24.pl/tvnwarszawa/praga-poludnie/goclaw-ulica-abrahama-awaria-wodociagu-woda-zalala-ulice-st8826777?source=rss",
-      "pubDate": "Thu, 01 Jan 2026 17:14:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "​Tragiczny pożar w Crans-Montana. Świat składa kondolencje",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-tragiczny-pozar-w-crans-montana-swiat-sklada-kondolencje,nId,8054745",
-      "pubDate": "Thu, 01 Jan 2026 18:14:11 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Najważniejsze wydarzenia w polskiej polityce 2026 r. Co nas czeka w nowym roku?",
-      "link": "https://www.rp.pl/polityka/art43573091-najwazniejsze-wydarzenia-w-polskiej-polityce-2026-r-co-nas-czeka-w-nowym-roku",
-      "pubDate": "Thu, 01 Jan 2026 18:08:29 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Labour needs complete ‘reset’ to defeat Reform UK threat, says strategist",
-      "link": "https://www.theguardian.com/politics/2026/jan/01/labour-needs-complete-reset-to-defeat-threat-posed-by-reform-uk-says-strategist",
-      "pubDate": "Thu, 01 Jan 2026 17:00:45 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Abortion may no longer be a top priority for Democratic voters ahead of 2026 midterms, polls show",
-      "link": "https://www.theguardian.com/world/2026/jan/01/abortion-states-2026-midterms",
-      "pubDate": "Thu, 01 Jan 2026 17:00:44 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Latest news bulletin | January 1st, 2026 – Evening",
-      "link": "http://www.euronews.com/video/2026/01/01/latest-news-bulletin-january-1st-2026-evening",
-      "pubDate": "Thu, 01 Jan 2026 18:00:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Reaktor jądrowy 1,6 km pod ziemią. Czy tak wygląda przyszłość energetyki?",
-      "link": "https://antyweb.pl/reaktor-jadrowy-pod-ziemia",
-      "pubDate": "Thu, 01 Jan 2026 17:00:09 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Z takim sprzętem na imprezę masową nie wejdziecie. Zakazów będzie więcej",
-      "link": "https://antyweb.pl/raspberry-po-flipper-zero-zakazane",
-      "pubDate": "Thu, 01 Jan 2026 17:00:08 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Nowe zasady w warszawskiej SCT. Zakaz dla starszych diesli i aut benzynowych",
-      "link": "https://www.bankier.pl/wiadomosc/Nowe-zasady-w-warszawskiej-SCT-Zakaz-dla-starszych-diesli-i-aut-benzynowych-9062915.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 18:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Samsung jednak nie stoi w miejscu. Gigant testuje baterię 20 000 mAh, ale jest jeden „mały” problem",
-      "link": "https://www.chip.pl/2026/01/samsung-testuje-baterie-20-000-mah-ale-jest-jeden-maly-problem",
-      "pubDate": "Thu, 01 Jan 2026 17:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Bruksela chce przeznaczyć miliardy na tanie mieszkania. Nowa strategia UE",
-      "link": "https://www.bankier.pl/wiadomosc/Bruksela-chce-przeznaczyc-miliardy-na-tanie-mieszkania-Nowa-strategia-UE-9060064.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 18:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "ZUS ma czas do marca. Rusza wypłata wyrównań dla ponad 100 tys. osób",
-      "link": "https://www.bankier.pl/wiadomosc/ZUS-ma-czas-do-marca-Rusza-wyplata-wyrownan-dla-ponad-100-tys-osob-9062902.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 1 Jan 2026 18:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
       "link": "https://wiadomosci.onet.pl/swiat/rosja-oskarza-ukraine-o-atak-dronami-cia-rezydencja-putina-ani-on-sam-nie-byli-celami/ny3h5en",
       "pubDate": "Wed, 31 Dec 2025 23:19:25 GMT",
@@ -106406,6 +106424,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -139326,12 +139368,6 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rozpoczelo-sie-polowanie-na-flote-cieni-rosyjskie-tankowce-n,nId,22501763",
       "pubDate": "Sun, 21 Dec 2025 09:49:29 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Geely: Od taniej raty do globalnego giganta",
-      "link": "https://moto.rp.pl/po-drodze/art43542771-geely-od-taniej-raty-do-globalnego-giganta",
-      "pubDate": "Sun, 21 Dec 2025 10:48:36 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
   "totalArticles": 20000,
