@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-12T22:45:01.777Z",
+  "generatedAt": "2026-01-12T22:54:59.290Z",
   "items": [
+    {
+      "title": "Było głosowanie, nie ma wyników. Nieoficjalnie: przez błąd systemu",
+      "link": "https://tvn24.pl/polska/polska-2050-wybory-przewodniczacej-bylo-glosowanie-nie-ma-wynikow-nieoficjalnie-przez-blad-systemu-st8843627?source=rss",
+      "pubDate": "Mon, 12 Jan 2026 22:49:53 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Starmer tells Labour MPs his foreign trips can help fix cost-of-living crisis",
+      "link": "https://www.theguardian.com/politics/2026/jan/12/starmer-tells-labour-mps-his-foreign-trips-can-help-fix-cost-of-living-crisis",
+      "pubDate": "Mon, 12 Jan 2026 22:39:50 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "US judge lets Danish firm resume Rhode Island offshore wind project halted by Trump",
       "link": "https://www.theguardian.com/business/2026/jan/12/orsted-rhode-island-wind-project-trump",
@@ -5047,6 +5059,30 @@
       "link": "https://www.bankier.pl/wiadomosc/Mroz-przetestowal-system-Mamy-nowy-rekord-zapotrzebowania-na-prad-9066857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 12 Jan 2026 11:00:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-12T09:58:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -63781,24 +63817,6 @@
       "link": "https://www.theguardian.com/world/2026/jan/02/anthony-joshuas-driver-charged-with-dangerous-driving-after-fatal-crash-in-nigeria",
       "pubDate": "Fri, 02 Jan 2026 17:45:20 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Co wywołało awanturę o reformę PIP? Znamy kulisy wydarzeń na obradach rządu",
-      "link": "https://www.rp.pl/polityka/art43587011-co-wywolalo-awanture-o-reforme-pip-znamy-kulisy-wydarzen-na-obradach-rzadu",
-      "pubDate": "Fri, 02 Jan 2026 18:45:03 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Poważna awaria w Warszawie. Mieszkańcy centrum bez bieżącej wody",
-      "link": "https://wiadomosci.onet.pl/kraj/awaria-wodociagow-w-warszawie-czesc-mieszkancow-bez-biezacej-wody/7ynrbhj",
-      "pubDate": "Fri, 02 Jan 2026 17:39:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Watch: Earthquake interrupts Mexico's president during press conference",
-      "link": "https://www.bbc.com/news/videos/ckgkn3v8mndo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 02 Jan 2026 17:37:25 GMT",
-      "source": "BBC News"
     }
   ]
 }
