@@ -1,7 +1,67 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-13T20:35:43.885Z",
+  "generatedAt": "2026-01-13T20:52:51.089Z",
   "items": [
+    {
+      "title": "\"Ręka mi nie zadrży\". Czarzasty wprost o sprawie Ziobry",
+      "link": "https://www.rmf24.pl/polityka/news-reka-mi-nie-zadrzy-czarzasty-wprost-o-sprawie-ziobry,nId,8057645",
+      "pubDate": "Tue, 13 Jan 2026 21:48:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Biedronka potwierdza: ceny zaczęły spadać. Wyniki sieci zaskakują",
+      "link": "https://www.rp.pl/handel/art43631281-biedronka-potwierdza-ceny-zaczely-spadac-wyniki-sieci-zaskakuja",
+      "pubDate": "Tue, 13 Jan 2026 21:46:52 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Uszkodzenie polskiego konsulatu przez Rosjan. Wiceszef MSZ mówi o \"fali uderzeniowej\"",
+      "link": "https://wiadomosci.onet.pl/kraj/uszkodzenie-polskiego-konsulatu-przez-rosjan-wiceszef-msz-mowi-o-zniszczeniach/h1s6dcs",
+      "pubDate": "Tue, 13 Jan 2026 20:46:33 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Awaria w Kielcach. Nawet 30 tys. osób może zostać bez ogrzewania",
+      "link": "https://www.rmf24.pl/regiony/kielce/news-awaria-w-kielcach-nawet-30-tys-osob-moze-zostac-bez-ogrzewan,nId,8057647",
+      "pubDate": "Tue, 13 Jan 2026 21:46:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Samsung odchudza popularny model. Tego brakowało składakom",
+      "link": "https://spidersweb.pl/2026/01/galaxy-z-flip-8-waga-specyfikacja.html",
+      "pubDate": "Tue, 13 Jan 2026 21:45:46 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Paulina Hennig-Kloska w centrum zamieszania z głosowaniem w Polsce 2050. Oto majątek ministry",
+      "link": "https://businessinsider.com.pl/wiadomosci/paulina-hennig-kloska-i-jej-majatek-pokazne-oszczednosci-i-trzy-nieruchomosci/r4kg7e7",
+      "pubDate": "Tue, 13 Jan 2026 20:44:40 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Planowali ataki w Europie. Ukraińców zdradziły lokalizatory GPS",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-planowali-ataki-w-europie-ukraincow-zdradzily-lokalizatory-g,nId,22508406",
+      "pubDate": "Tue, 13 Jan 2026 20:43:14 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Polska i Ukraina wzmacniają współpracę. Z tym wraca nasza delegacja",
+      "link": "https://www.rmf24.pl/fakty/polska/news-polska-i-ukraina-wzmacniaja-wspolprace-z-tym-wraca-nasza-del,nId,8057646",
+      "pubDate": "Tue, 13 Jan 2026 21:42:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Judge blocks White House bid to revoke whistleblower lawyer’s security clearance",
+      "link": "https://www.theguardian.com/us-news/2026/jan/13/trump-mark-zaid-restore-clearance",
+      "pubDate": "Tue, 13 Jan 2026 20:41:13 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Rząd chce sprawdzić wydane już warunki przyłączenia OZE do sieci. Branża protestuje",
+      "link": "https://energia.rp.pl/oze/art43631161-rzad-chce-sprawdzic-wydane-juz-warunki-przylaczenia-oze-do-sieci-branza-protestuje",
+      "pubDate": "Tue, 13 Jan 2026 21:34:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Marznące opady na ulicach i chodnikach. W środę będzie bardzo ślisko",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-w-srode-bedzie-bardzo-slisko-st8845432?source=rss",
@@ -163,6 +223,12 @@
       "link": "https://www.rp.pl/biznes/art43631261-rosja-przejmuje-fabryki-zagranicznych-koncernow-uderzenie-w-polski-i-dunski-kapital",
       "pubDate": "Tue, 13 Jan 2026 21:02:48 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Israel cuts ties with three global bodies after US withdrawal, foreign ministry says",
+      "link": "http://www.euronews.com/2026/01/13/israel-cuts-ties-with-three-global-bodies-after-us-withdrawal-foreign-ministry-says",
+      "pubDate": "Tue, 13 Jan 2026 21:01:58 +0100",
+      "source": "Euronews"
     },
     {
       "title": "Autonomiczny kurier wywołał chaos w Chinach. To przestroga dla nas wszystkich",
@@ -6331,6 +6397,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -64555,78 +64645,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/witold-jurasz-rok-2026-bedzie-rokiem-proby-dla-swiata-i-testem-dojrzalosci-dla/dm5897m",
       "pubDate": "Mon, 05 Jan 2026 04:02:04 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Piotr Bujak, główny ekonomista PKO BP: Jeszcze zdrowszy i stabilniejszy wzrost",
-      "link": "https://www.rp.pl/gospodarka/art43591791-piotr-bujak-glowny-ekonomista-pko-bp-jeszcze-zdrowszy-i-stabilniejszy-wzrost",
-      "pubDate": "Mon, 05 Jan 2026 05:02:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Człowiek od kampanii Morawieckiego, chiński pośrednik i dziwne transakcje. Unijne CBA: możliwe pranie pieniędzy",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/czlowiek-od-kampanii-morawieckiego-i-chinczycy-mozliwe-pranie-pieniedzy/d4kcywg",
-      "pubDate": "Mon, 05 Jan 2026 04:01:43 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Krajowy System e-Faktur – nowy obowiązek to nowe ryzyka",
-      "link": "https://pro.rp.pl/zmiany-w-przepisach-podatkowych/art43585021-krajowy-system-e-faktur-nowy-obowiazek-to-nowe-ryzyka",
-      "pubDate": "Mon, 05 Jan 2026 05:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Krajowy System e-Faktur – nowy obowiązek to nowe ryzyka",
-      "link": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art43585021-krajowy-system-e-faktur-nowy-obowiazek-to-nowe-ryzyka",
-      "pubDate": "Mon, 05 Jan 2026 05:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Czy dystrybutor ma prawo do ulgi na robotyzację",
-      "link": "https://pro.rp.pl/cit-rozliczenia/art43585041-czy-dystrybutor-ma-prawo-do-ulgi-na-robotyzacje",
-      "pubDate": "Mon, 05 Jan 2026 04:55:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Co nowego w fundacjach rodzinnych",
-      "link": "https://pro.rp.pl/cit-zasady-ogolne/art43585031-co-nowego-w-fundacjach-rodzinnych",
-      "pubDate": "Mon, 05 Jan 2026 04:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wojna Rosji z Ukrainą. Dzień 1412",
-      "link": "https://www.rp.pl/swiat/art43592001-wojna-rosji-z-ukraina-dzien-1412",
-      "pubDate": "Mon, 05 Jan 2026 04:48:01 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Bartłomiej Przymusiński: Szansa na przyspieszenie w sądach",
-      "link": "https://www.rp.pl/sady-i-trybunaly/art43580641-bartlomiej-przymusinski-szansa-na-przyspieszenie-w-sadach",
-      "pubDate": "Mon, 05 Jan 2026 04:46:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Marek A. Cichocki: W sprawie Wenezueli nie powinniśmy bronić wrogów i atakować przyjaciół",
-      "link": "https://www.rp.pl/komentarze/art43590561-marek-a-cichocki-w-sprawie-wenezueli-nie-powinnismy-bronic-wrogow-i-atakowac-przyjaciol",
-      "pubDate": "Mon, 05 Jan 2026 04:30:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wystartował Rajd Dakar. W tak licznym składzie Polacy jeszcze nie jechali",
-      "link": "https://sport.rp.pl/moto/art43591751-wystartowal-rajd-dakar-w-tak-licznym-skladzie-polacy-jeszcze-nie-jechali",
-      "pubDate": "Mon, 05 Jan 2026 04:25:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Raman Pratasiewicz. Zakładnik dyktatora czy funkcjonariusz wywiadu Białorusi?",
-      "link": "https://www.rp.pl/polityka/art43590711-raman-pratasiewicz-zakladnik-dyktatora-czy-funkcjonariusz-wywiadu-bialorusi",
-      "pubDate": "Mon, 05 Jan 2026 04:18:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "W 2026 r. więcej pracowników odczuje konkurencję AI. Jakie stanowiska są zagrożone?",
-      "link": "https://pro.rp.pl/pro/art43590211-w-2026-r-wiecej-pracownikow-odczuje-konkurencje-ai-jakie-stanowiska-sa-zagrozone",
-      "pubDate": "Mon, 05 Jan 2026 04:17:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
