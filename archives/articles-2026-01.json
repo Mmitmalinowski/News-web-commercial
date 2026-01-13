@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-13T22:30:58.393Z",
+  "generatedAt": "2026-01-13T22:50:35.792Z",
   "items": [
+    {
+      "title": "US agents use teargas on Minneapolis protesters as anti-ICE calls intensify",
+      "link": "https://www.theguardian.com/us-news/2026/jan/13/ice-cbp-minneapolis-teargas",
+      "pubDate": "Tue, 13 Jan 2026 22:41:22 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Congressional progressives vow to block DHS funding without reforms",
+      "link": "https://www.theguardian.com/us-news/2026/jan/13/dhs-funding-congress-progressives",
+      "pubDate": "Tue, 13 Jan 2026 22:33:59 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Labour revives Northern Powerhouse Rail project with pledge of £45bn funds",
+      "link": "https://www.theguardian.com/business/2026/jan/13/northern-powerhouse-rail-project-pledge-funds",
+      "pubDate": "Tue, 13 Jan 2026 22:30:07 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Greenland's prime minister says his country choses Denmark over US",
       "link": "http://www.euronews.com/video/2026/01/13/greenlands-prime-minister-says-his-country-choses-denmark-over-us",
@@ -6571,6 +6589,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -64711,30 +64753,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Cios-w-klientow-Putina-Trump-zapowiada-cla-siegajace-500-procent-9063823.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 5 Jan 2026 05:57:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Ukraine updates: Deadly Russian attack hits Kyiv",
-      "link": "https://www.dw.com/en/ukraine-updates-deadly-russian-attack-hits-kyiv/live-75387687?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 5 Jan 2026 04:53:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Paraliż ruchu lotniczego w rejonie Karaibów. To pokłosie interwencji USA",
-      "link": "https://wiadomosci.onet.pl/swiat/paraliz-ruchu-lotniczego-w-rejonie-karaibow-to-poklosie-interwencji-usa/4p00j4g",
-      "pubDate": "Mon, 05 Jan 2026 04:51:53 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trump grozi kolejnym atakiem w Wenezueli. Mówił przy tym o innych krajach",
-      "link": "https://tvn24.pl/swiat/donald-trump-grozi-kolejnym-atakiem-w-wenezeuli-mowi-przy-tym-o-innych-krajach-st8831058?source=rss",
-      "pubDate": "Mon, 05 Jan 2026 04:51:31 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Raportowanie JPK_CIT, czyli fiskus zobaczy wszystko",
-      "link": "https://pro.rp.pl/zmiany-w-przepisach-podatkowych/art43584981-raportowanie-jpk-cit-czyli-fiskus-zobaczy-wszystko",
-      "pubDate": "Mon, 05 Jan 2026 05:50:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
