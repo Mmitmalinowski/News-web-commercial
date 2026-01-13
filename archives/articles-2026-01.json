@@ -1,7 +1,31 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-13T21:59:38.367Z",
+  "generatedAt": "2026-01-13T22:30:58.393Z",
   "items": [
+    {
+      "title": "Greenland's prime minister says his country choses Denmark over US",
+      "link": "http://www.euronews.com/video/2026/01/13/greenlands-prime-minister-says-his-country-choses-denmark-over-us",
+      "pubDate": "Tue, 13 Jan 2026 23:27:05 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "To nie obca ingerencja. Mamy wyniki analizy po wyborach w partii Hołowni",
+      "link": "https://wydarzenia.interia.pl/kraj/news-wiemy-co-stalo-sie-w-glosowaniu-partii-holowni-mamy-wyniki-a,nId,22508417",
+      "pubDate": "Tue, 13 Jan 2026 22:14:08 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Trump says Microsoft will pay more for its data centers’ electricity",
+      "link": "https://www.theguardian.com/technology/2026/jan/13/trump-microsoft-data-centers-electricity",
+      "pubDate": "Tue, 13 Jan 2026 22:09:02 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump grozi Iranowi. \"Podejmiemy mocne działania\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-trump-grozi-iranowi-podejmiemy-mocne-dzialania,nId,8057653",
+      "pubDate": "Tue, 13 Jan 2026 23:01:51 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Donald Trump ponownie ostrzega Iran. \"Zobaczycie, co się wtedy stanie\"",
       "link": "https://wiadomosci.onet.pl/swiat/iran-bedzie-skazywal-protestujacych-na-kare-smierci-ostra-reakcja-trumpa/gcf56ts",
@@ -6547,6 +6571,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -64687,36 +64735,6 @@
       "link": "https://pro.rp.pl/zmiany-w-przepisach-podatkowych/art43584981-raportowanie-jpk-cit-czyli-fiskus-zobaczy-wszystko",
       "pubDate": "Mon, 05 Jan 2026 05:50:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Raportowanie JPK_CIT, czyli fiskus zobaczy wszystko",
-      "link": "https://pro.rp.pl/cit/art43584981-raportowanie-jpk-cit-czyli-fiskus-zobaczy-wszystko",
-      "pubDate": "Mon, 05 Jan 2026 05:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Żona potrąciła samochodem swojego męża. Oboje nie byli trzeźwi",
-      "link": "https://www.rmf24.pl/regiony/rzeszow/news-zona-potracila-samochodem-swojego-meza-oboje-nie-byli-trzezw,nId,8055337",
-      "pubDate": "Mon, 05 Jan 2026 05:45:55 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "KSeF od 1 lutego także dla małych firm. Muszą do niego wchodzić po faktury zakupowe",
-      "link": "https://pro.rp.pl/krajowy-system-e-faktur-ksef/art43588071-ksef-od-1-lutego-takze-dla-malych-firm-musza-do-niego-wchodzic-po-faktury-zakupowe",
-      "pubDate": "Mon, 05 Jan 2026 05:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Donald Trump zagroził kolejnym krajom. Mówił o akcjach wojskowych",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-donald-trump-zagrozil-kolejnym-krajom-mowil-o-akcjach-wojsko,nId,22504977",
-      "pubDate": "Mon, 05 Jan 2026 04:44:03 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"Kwota jest śmieszna\". Wydawcy krytykują brak wsparcia dla serwisów internetowych",
-      "link": "https://www.wirtualnemedia.pl/kwota-jest-smieszna-wydawcy-krytykuja-brak-wsparcia-dla-serwisow-internetowych,7238351383624672a",
-      "pubDate": "Mon, 05 Jan 2026 05:41:51 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
