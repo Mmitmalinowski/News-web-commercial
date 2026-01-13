@@ -1,6 +1,6 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-13T23:41:29.295Z",
+  "generatedAt": "2026-01-13T23:51:53.769Z",
   "items": [
     {
       "title": "Kalendarium - środa 14 stycznia",
@@ -6607,6 +6607,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -64799,12 +64823,6 @@
     {
       "title": "Akcje KGHM i lit aktywami miesiąca. Polska spółka technologiczna daje zwycięstwo",
       "link": "https://www.bankier.pl/wiadomosc/Akcje-KGHM-i-lit-aktywami-miesiaca-Polska-spolka-technologiczna-daje-zwyciestwo-9063353.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 5 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Hipoteki w promocjach dalej tanieją, ale cenowego szoku nie widać",
-      "link": "https://www.bankier.pl/wiadomosc/Promocje-kredytow-hipotecznych-styczen-2026-9063737.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 5 Jan 2026 06:00:00 +0100",
       "source": "Bankier.pl"
     }
