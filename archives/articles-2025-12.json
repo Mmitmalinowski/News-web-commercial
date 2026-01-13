@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-13T15:46:26.584Z",
+  "generatedAt": "2026-01-13T16:01:53.506Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -45021,6 +45021,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -77508,12 +77532,6 @@
       "title": "Alarm over ‘exploding’ rise in use of sanctions-busting shadow fleet",
       "link": "https://www.theguardian.com/world/2025/dec/21/alarm-over-exploding-rise-in-use-of-sanctions-busting-shadow-fleet",
       "pubDate": "Sun, 21 Dec 2025 11:33:26 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "‘I feel special, in my heart’: thousands gather at Stonehenge for winter solstice",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/21/stonehenge-winter-solstice",
-      "pubDate": "Sun, 21 Dec 2025 11:33:21 GMT",
       "source": "The Guardian"
     }
   ]
