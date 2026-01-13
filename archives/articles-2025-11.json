@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-13T09:54:49.639Z",
+  "generatedAt": "2026-01-13T10:18:35.446Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -176865,6 +176889,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -178825,18 +178873,6 @@
       "link": "https://www.money.pl/pieniadze/kopia-ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-18-11-2025-7226330493430496a.html",
       "pubDate": "Thu, 27 Nov 2025 12:00:10 +0100",
       "source": "Money.pl"
-    },
-    {
-      "title": "Tej nocy nad Polską znajdzie się \"plama\" zimna. Takiego mrozu tej jesieni jeszcze nie było",
-      "link": "https://wiadomosci.onet.pl/pogoda/srogi-mroz-uderzy-juz-tej-nocy-temperatura-spadnie-ponizej-15-st-c/ne6mm9p",
-      "pubDate": "Thu, 27 Nov 2025 10:59:23 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Szwedzkie media o zakupie okrętów podwodnych przez Polskę. \"Zamiana łady na nowe volvo\"",
-      "link": "https://wiadomosci.onet.pl/swiat/szwedzkie-media-o-zakupie-okretow-podwodnych-przez-polske-zamiana-lady-na-nowe-volvo/0fb8gqg",
-      "pubDate": "Thu, 27 Nov 2025 10:56:55 GMT",
-      "source": "Onet"
     }
   ]
 }
