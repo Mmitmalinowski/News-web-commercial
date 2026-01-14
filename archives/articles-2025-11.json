@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-14T21:27:09.669Z",
+  "generatedAt": "2026-01-14T21:45:12.696Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -180705,6 +180729,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -181705,18 +181753,6 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-andrzej-duda-pokazal-ile-wynosi-jego-prezydencka-emerytura,nId,8044472",
       "pubDate": "Thu, 27 Nov 2025 13:48:59 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Wielka blokada ruchu lotniczego. USA ostrzegają, polskie MSZ odradza",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-wielka-blokada-ruchu-lotniczego-usa-ostrzegaja-polskie-msz-o,nId,22460913",
-      "pubDate": "Thu, 27 Nov 2025 12:48:26 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Trump pod ostrzałem. Chciał skończyć wojnę w Ukrainie, a rozpętał ją na własnym podwórku. Plan, który podzielił Amerykę [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/plan-ktory-wbil-klin-w-ameryke-trump-chcial-skonczyc-wojne-w-ukrainie-a-rozpetal-ja/l0c86el",
-      "pubDate": "Thu, 27 Nov 2025 12:48:06 GMT",
-      "source": "Onet"
     }
   ]
 }
