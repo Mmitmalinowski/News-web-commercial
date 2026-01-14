@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-14T23:19:41.274Z",
+  "generatedAt": "2026-01-14T23:32:56.755Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -46773,6 +46773,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -78823,12 +78847,6 @@
       "link": "https://biznes.interia.pl/finanse/news-paraliz-kolei-w-czechach-dotknal-polskich-pasazerow-duze-opo,nId,22501806",
       "pubDate": "Sun, 21 Dec 2025 13:27:39 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Apel Zełenskiego po rozmowach w USA. \"Panuje wspólne przekonanie\"",
-      "link": "https://tvn24.pl/swiat/wojna-w-ukrainie-rozmowy-pokojowe-w-usa-wolodymyr-zelenski-apeluje-o-konsultacje-z-europejskimi-partnerami-st8811929?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 13:26:44 GMT",
-      "source": "TVN24"
     }
   ]
 }
