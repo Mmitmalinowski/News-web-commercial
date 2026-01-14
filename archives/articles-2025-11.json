@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-14T11:46:43.488Z",
+  "generatedAt": "2026-01-14T11:56:21.549Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -179601,6 +179625,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -180877,18 +180925,6 @@
       "link": "https://www.rp.pl/konsumenci/art43411471-tsue-banki-nie-moga-szachowac-frankowiczow-swoimi-roszczeniami",
       "pubDate": "Thu, 27 Nov 2025 13:18:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "\"Sojusz północny\" receptą na kłopoty Polski? \"Będziemy siedzieć przy stole\"",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-sojusz-polnocny-recepta-na-klopoty-polski-bedziemy-siedziec,nId,22460874",
-      "pubDate": "Thu, 27 Nov 2025 12:17:03 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Radosław Sikorski odpowiada posłowi PiS i Republice. \"Putinowi i wam to się nie podoba\"",
-      "link": "https://wiadomosci.onet.pl/kraj/sikorski-odpowiada-poslowi-pis-i-republice-putinowi-i-wam-to-sie-nie-podoba/2qvslg3",
-      "pubDate": "Thu, 27 Nov 2025 12:16:28 GMT",
-      "source": "Onet"
     }
   ]
 }
