@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-14T22:57:03.321Z",
+  "generatedAt": "2026-01-14T23:19:41.212Z",
   "items": [
+    {
+      "title": "Kalendarium - czwartek 15 stycznia",
+      "link": "https://pro.rp.pl/kalendarium/art43637811-kalendarium-czwartek-15-stycznia",
+      "pubDate": "Thu, 15 Jan 2026 00:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Administracja USA ogłasza. Kolejny etap planu pokojowego",
+      "link": "https://wydarzenia.interia.pl/bliski-wschod/news-administracja-usa-oglasza-kolejny-etap-planu-pokojowego,nId,22509011",
+      "pubDate": "Wed, 14 Jan 2026 23:02:50 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Two-star Michelin restaurant in Wales handed one-star hygiene rating",
+      "link": "https://www.theguardian.com/food/2026/jan/14/two-star-michelin-restaurant-in-wales-handed-one-star-hygiene-rating",
+      "pubDate": "Wed, 14 Jan 2026 22:49:25 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Falstart następcy Xabi Alonso. Wstydliwa porażka Realu",
       "link": "https://www.rmf24.pl/sport/news-falstart-nastepcy-xabi-alonso-wstydliwa-porazka-realu,nId,8057954",
@@ -14995,6 +15013,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -65683,30 +65725,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-40-ofiar-pozaru-w-barze-ujawniono-nowe-informacje,nId,8055636",
       "pubDate": "Tue, 06 Jan 2026 13:45:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Microsoft woli Chrome od własnego Edge'a. Nie dziwię się",
-      "link": "https://spidersweb.pl/2026/01/microsoft-woli-chrome-niz-edge.html",
-      "pubDate": "Tue, 06 Jan 2026 13:45:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Zima sparaliżowała transport w Holandii  ",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/zima-sparalizowala-transport-w-holandii-st8833323?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 12:43:31 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Children killed after drone hits home in Sudan, medics say",
-      "link": "https://www.bbc.com/news/articles/c74w54783zeo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 06 Jan 2026 12:42:34 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Hungarian director and titan of contemplative cinema Béla Tarr dies aged 70",
-      "link": "http://www.euronews.com/culture/2026/01/06/hungarian-director-and-titan-of-contemplative-cinema-bela-tarr-dies-aged-70",
-      "pubDate": "Tue, 06 Jan 2026 13:41:04 +0100",
-      "source": "Euronews"
     }
   ]
 }

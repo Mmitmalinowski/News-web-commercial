@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-14T22:57:03.469Z",
+  "generatedAt": "2026-01-14T23:19:41.354Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -180945,6 +180969,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -181885,18 +181933,6 @@
       "link": "https://businessinsider.com.pl/gospodarka/bielik-ai-rosnie-w-sile-rafal-brzoska-i-sebastian-kulczyk-wspieraja-polska-sztuczna/n5ldyxb",
       "pubDate": "Thu, 27 Nov 2025 12:52:42 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Akt oskarżenia w sprawie Collegium Humanum. Karol Karski: Czuję się jak Józef K. Zakneblowali mnie",
-      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/akt-oskarzenia-w-sprawie-collegium-humanum-karol-karski-czuje-sie-jak-jozef-k/n7de3vt",
-      "pubDate": "Thu, 27 Nov 2025 12:52:33 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Polski generał o sytuacji Ukrainy na froncie. \"Ledwo zipie\"",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-polski-general-o-sytuacji-ukrainy-na-froncie-ledwo-zipie,nId,22460892",
-      "pubDate": "Thu, 27 Nov 2025 12:52:28 GMT",
-      "source": "Interia"
     }
   ]
 }
