@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-14T09:02:12.153Z",
+  "generatedAt": "2026-01-14T09:41:08.716Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -45909,6 +45909,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -78175,12 +78199,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2025-12-21/rosyjski-okret-dobil-do-brzegu-w-skandynawii-wezwano-sluzby-kontrwywiadu/",
       "pubDate": "Sun, 21 Dec 2025 13:28:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Gorzki smak łakoci. Ceny kakao spadają, ceny czekolady rosną",
-      "link": "https://businessinsider.com.pl/gospodarka/ceny-slodyczy-nie-spadaja-choc-kakao-tanie-jak-nigdy-powodow-jest-kilka/nqq67c8",
-      "pubDate": "Sun, 21 Dec 2025 12:27:20 GMT",
-      "source": "Business Insider"
     }
   ]
 }
