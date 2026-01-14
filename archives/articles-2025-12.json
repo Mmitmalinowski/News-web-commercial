@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-14T16:39:25.964Z",
+  "generatedAt": "2026-01-14T17:04:45.931Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -46317,6 +46317,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -78480,12 +78504,6 @@
       "title": "\"Zobaczyliśmy, że dach zaczyna zawijać się jak taco\"",
       "link": "https://tvn24.pl/tvnmeteo/swiat/usa-w-kolorado-wiatr-zerwal-dach-hali-wspinaczkowej-zobaczylismy-ze-zaczyna-zawijac-sie-jak-taco-st8812086?source=rss",
       "pubDate": "Sun, 21 Dec 2025 12:57:03 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Bez względu na wygląd każdy nosi w sobie godność\". Wigilia na krakowskim Rynku",
-      "link": "https://tvn24.pl/krakow/krakow-wigilia-dla-osob-bezdomnych-i-potrzebujacych-st8812155?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 12:53:51 GMT",
       "source": "TVN24"
     }
   ]
