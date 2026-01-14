@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-14T15:25:25.364Z",
+  "generatedAt": "2026-01-14T15:45:38.223Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -179937,6 +179961,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -181129,18 +181177,6 @@
       "link": "https://www.tabletowo.pl/skladany-iphone-premiera-jednak-w-2026-roku-cena/",
       "pubDate": "Thu, 27 Nov 2025 12:33:02 +0000",
       "source": "Tabletowo"
-    },
-    {
-      "title": "Akt oskarżenia po wielkim pożarze hali w Gdańsku. Trzech mężczyzn stanie przed sądem",
-      "link": "https://tvn24.pl/trojmiasto/gdansk-akt-oskarzenia-po-pozarze-zabytkowej-hali-trzech-mezczyzn-stanie-przed-sadem-st8774457?source=rss",
-      "pubDate": "Thu, 27 Nov 2025 12:26:44 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Lech Wałęsa o Donaldzie Trumpie: albo jest zdrajcą, albo fenomenalnie mądrym facetem",
-      "link": "https://wiadomosci.onet.pl/kraj/lech-walesa-niejednoznacznie-o-planie-donalda-trumpa-bardzo-chytra-koncepcja/ncsrlh6",
-      "pubDate": "Thu, 27 Nov 2025 12:26:33 GMT",
-      "source": "Onet"
     }
   ]
 }
