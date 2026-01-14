@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-14T22:23:15.907Z",
+  "generatedAt": "2026-01-14T22:44:53.455Z",
   "items": [
+    {
+      "title": "Falstart następcy Xabi Alonso. Wstydliwa porażka Realu",
+      "link": "https://www.rmf24.pl/sport/news-falstart-nastepcy-xabi-alonso-wstydliwa-porazka-realu,nId,8057954",
+      "pubDate": "Wed, 14 Jan 2026 23:35:48 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Astronauci pomyślnie ewakuowani z kosmosu. Co tam się dzieje?",
+      "link": "https://geekweek.interia.pl/kosmos/news-astronauci-pomyslnie-ewakuowani-z-kosmosu-co-tam-sie-dzieje,nId,22509002",
+      "pubDate": "Wed, 14 Jan 2026 22:24:54 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Żołnierze z Francji udadzą się na Grenlandię. W tle napięcie między Danią i USA",
+      "link": "https://wiadomosci.onet.pl/swiat/zolnierze-z-francji-udadza-sie-na-grenlandie-w-tle-napiecie-miedzy-dania-i-usa/pwd3w4n",
+      "pubDate": "Wed, 14 Jan 2026 22:18:58 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Grafen wreszcie trafi do masowej produkcji. Naukowcy rozwiązali problem, który blokował tę technologię przez lata",
       "link": "https://www.chip.pl/2026/01/nowy-globalny-standard-dla-grafenu",
@@ -18,6 +36,12 @@
       "link": "https://www.rp.pl/media/art43638561-starcie-gigantow-netflix-sklada-gotowkowa-oferte-na-warner-bros",
       "pubDate": "Wed, 14 Jan 2026 22:53:06 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Denmark warns of 'fundamental disagreement' after White House talks on Greenland",
+      "link": "https://www.bbc.com/news/articles/cx20vzz0g8vo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Wed, 14 Jan 2026 21:52:49 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Polityka Trumpa uderza w światową turystykę. „Podróż jest dziś aktem politycznym”",
@@ -14958,6 +14982,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -65642,36 +65690,6 @@
       "source": "Wirtualnemedia.pl"
     },
     {
-      "title": "Nowy wyścig zbrojeń. USA ruszają z programem",
-      "link": "https://tvn24.pl/biznes/tech/nowy-wyscig-zbrojen-technologicznych-usa-ruszaja-z-programem-us-tech-force-st8832343?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 12:36:57 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "W pogodzie zrobi się niebezpiecznie. Lepiej nie wychodzić z domu",
-      "link": "https://wydarzenia.interia.pl/kraj/news-w-pogodzie-zrobi-sie-niebezpiecznie-lepiej-nie-wychodzic-z-d,nId,22505373",
-      "pubDate": "Tue, 06 Jan 2026 12:36:36 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Pomarańczowy alert IMGW w części Polski. Godziny dzielą nas od uderzenia śnieżycy",
-      "link": "https://wiadomosci.onet.pl/pogoda/pomaranczowy-alert-imgw-w-czesci-polski-godziny-dziela-nas-od-uderzenia-sniezycy/fc7zyxy",
-      "pubDate": "Tue, 06 Jan 2026 12:35:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "At least 22 Ethiopian migrants killed in 'horrific' road crash",
-      "link": "https://www.bbc.com/news/articles/cn82g8wwvn5o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 06 Jan 2026 12:34:08 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Tak kupuje się przychylność Donalda Trumpa? Znane firmy zasponsorują transformację kościoła w USA House w Davos",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-przyleci-do-davos-kosciol-zmieni-sie-w-usa-house/0qnywm5",
-      "pubDate": "Tue, 06 Jan 2026 12:33:48 GMT",
-      "source": "Business Insider"
-    },
-    {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
       "link": "https://wiadomosci.onet.pl/swiat/rosja-oskarza-ukraine-o-atak-dronami-cia-rezydencja-putina-ani-on-sam-nie-byli-celami/ny3h5en",
       "pubDate": "Wed, 31 Dec 2025 23:19:25 GMT",
@@ -112370,6 +112388,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -144438,12 +144480,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-kradziez-kabli-na-kolei-w-pradze-komunikacyjny-paraliz,nId,8052653",
       "pubDate": "Sun, 21 Dec 2025 14:23:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Auto spłonęło doszczętnie. Strażacy wynieśli butle z garażu",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/zelechow-zabia-wola-pozar-garazu-i-samochodu-st8812154?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 13:22:11 GMT",
-      "source": "TVN24"
     }
   ],
   "totalArticles": 20000,
