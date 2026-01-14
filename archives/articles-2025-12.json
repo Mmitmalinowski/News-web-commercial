@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-14T19:22:24.922Z",
+  "generatedAt": "2026-01-14T19:38:17.633Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -46461,6 +46461,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -78588,12 +78612,6 @@
       "title": "Kilkadziesiąt pociągów opóźnionych w Pradze. Skradziono 70 metrów kabla",
       "link": "https://wiadomosci.onet.pl/swiat/kilkadziesiat-pociagow-opoznionych-w-pradze-skradziono-70-metrow-kabla/7fnffdf",
       "pubDate": "Sun, 21 Dec 2025 12:59:46 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Tragedia w Ziębicach. Samochód wjechał pod pociąg",
-      "link": "https://wiadomosci.onet.pl/wroclaw/tragedia-w-ziebicach-samochod-wjechal-pod-pociag/gm7sl2t",
-      "pubDate": "Sun, 21 Dec 2025 12:59:04 GMT",
       "source": "Onet"
     }
   ]
