@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-14T08:40:47.842Z",
+  "generatedAt": "2026-01-14T09:02:12.243Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -179217,6 +179241,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -180588,18 +180636,6 @@
       "title": "​Piła i prześcieradła. Brawurowa ucieczka więźniów",
       "link": "https://www.rmf24.pl/fakty/swiat/news-pila-i-przescieradla-brawurowa-ucieczka-wiezniow,nId,8044462",
       "pubDate": "Thu, 27 Nov 2025 13:05:20 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Galaxy Watch6 z One UI 8. Stabilna wersja trafia do użytkowników",
-      "link": "https://android.com.pl/tech/995797-galaxy-watch6-otrzymuje-one-ui-8-watch/",
-      "pubDate": "Thu, 27 Nov 2025 12:05:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Zmiany w komunikacji miejskiej w Krakowie. Na most Grunwaldzki wracają autobusy",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-zmiany-w-komunikacji-miejskiej-w-krakowie-na-most-grunwaldzk,nId,8044456",
-      "pubDate": "Thu, 27 Nov 2025 13:04:33 +0100",
       "source": "RMF24"
     }
   ]
