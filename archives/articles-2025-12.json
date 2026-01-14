@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-14T21:00:32.392Z",
+  "generatedAt": "2026-01-14T21:27:09.583Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -46605,6 +46605,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -78696,12 +78720,6 @@
       "title": "Ponad tysiąc ciężarówek stoi na granicy z Ukrainą",
       "link": "https://tvn24.pl/lublin/dorohusk-kolejka-tirow-do-przejscia-z-ukraina-w-dorohusku-st8812384?source=rss",
       "pubDate": "Sun, 21 Dec 2025 13:10:29 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Papier do pieczenia może być toksyczny? Ile w tym prawdy",
-      "link": "https://konkret24.tvn24.pl/zdrowie/papier-do-pieczenia-moze-byc-toksyczny-ile-w-tym-prawdy-st8769372?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 13:08:44 GMT",
       "source": "TVN24"
     }
   ]
