@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-14T04:54:50.868Z",
+  "generatedAt": "2026-01-14T05:20:28.263Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -45669,6 +45669,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -77995,12 +78019,6 @@
       "link": "https://www.theguardian.com/world/2025/dec/21/gunmen-johannesburg-township-in-south-africas-second-mass-shooting-within-weeks",
       "pubDate": "Sun, 21 Dec 2025 12:12:54 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Israel approves new settlements in occupied West Bank",
-      "link": "https://www.dw.com/en/israel-approves-new-settlements-in-occupied-west-bank/a-75257753?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 21 Dec 2025 12:12:00 GMT",
-      "source": "DW"
     }
   ]
 }
