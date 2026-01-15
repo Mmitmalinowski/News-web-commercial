@@ -1,6 +1,354 @@
 {
-  "generatedAt": "2026-01-15T04:54:02.647Z",
+  "generatedAt": "2026-01-15T05:20:42.995Z",
   "items": [
+    {
+      "title": "Łapią rosyjskie drony na wędkę. Brzmi absurdalnie, ale to skuteczne",
+      "link": "https://spidersweb.pl/2026/01/ukraina-wedki-na-drony-nowy-sposob-obrony.html",
+      "pubDate": "Thu, 15 Jan 2026 06:20:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "\"Nawet nie potrzeba wojny\". Polscy producenci leków alarmują",
+      "link": "https://www.money.pl/gospodarka/nawet-nie-potrzeba-wojny-polscy-producenci-lekow-alarmuja-7243584090601600a.html",
+      "pubDate": "Thu, 15 Jan 2026 06:19:32 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Xbox ma Grę Roku, a ty nawet o tym nie wiesz. Co za porażka",
+      "link": "https://spidersweb.pl/2026/01/xbox-game-pass-clair-obscure-expedition-33-goty-2025-gra-roku-za-darmo.html",
+      "pubDate": "Thu, 15 Jan 2026 06:15:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Problem z niepłaceniem czynszów, jest apel o zmiany. \"Niesprawiedliwe\"",
+      "link": "https://biznes.interia.pl/finanse/news-ten-przepis-blokuje-sciaganie-dlugu-w-mieszkaniach-komunalny,nId,22508934",
+      "pubDate": "Thu, 15 Jan 2026 05:12:24 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Przepytuje polityków i promuje suplementy. Nowa rola Magdaleny Ogórek",
+      "link": "https://www.wirtualnemedia.pl/przepytuje-politykow-i-promuje-suplementy-nowa-rola-magdaleny-ogorek,7242687701978080a",
+      "pubDate": "Thu, 15 Jan 2026 06:11:54 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Nie czekaj! Zostało tylko 10 dni na zgłoszenie się do naszego konkursu dla dziennikarzy",
+      "link": "https://www.wirtualnemedia.pl/nie-czekaj-zostalo-tylko-10-dni-na-zgloszenie-sie-do-naszego-konkursu-dla-dziennikarzy,7243374014662784a",
+      "pubDate": "Thu, 15 Jan 2026 06:11:36 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "7 kanałów zabiega o koncesje satelitarne. KRRiT chce dodatkowych informacji [TYLKO U NAS]",
+      "link": "https://www.wirtualnemedia.pl/krrit-nowe-kanaly-satelitarne-grupa-mwe-networks-music-club-zaiks-canal-plus-koniec-mtv,7243453077354624a",
+      "pubDate": "Thu, 15 Jan 2026 06:11:01 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Nowe odcinki \"The Floor\" w TVN już w lutym. Stacja szykuje wiele zmian [NASZ NEWS]",
+      "link": "https://www.wirtualnemedia.pl/nowe-odcinki-the-floor-w-tvn-juz-w-lutym-stacja-szykuje-wiele-zmian-nasz-news,7243322716755968a",
+      "pubDate": "Thu, 15 Jan 2026 06:10:02 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "UE nałożyła na Polskę nowy obowiązek. Chodzi o kranówkę ",
+      "link": "https://biznes.interia.pl/gospodarka/news-unia-nalozyla-na-polske-nowy-obowiazek-przepisy-dotycza-kran,nId,22508811",
+      "pubDate": "Thu, 15 Jan 2026 05:10:01 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Galaktyka nagle zgasła. Webb wskazał winnego",
+      "link": "https://spidersweb.pl/2026/01/supermasywna-dziura-zabila-galaktyke-pabla.html",
+      "pubDate": "Thu, 15 Jan 2026 06:10:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Internet oszalał na punkcie wspomnień z 2016 roku. Ekspert zwraca uwagę na jedno",
+      "link": "https://www.wirtualnemedia.pl/internet-oszalal-na-punkcie-wspomnien-z-2016-roku-uwaga-na-jedno-2016-challenge-karmi-ai-algorytm,7243356977731616a",
+      "pubDate": "Thu, 15 Jan 2026 06:09:38 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Polska marka odzieżowa zmienia logo. Pierwszy raz od powstania 40 lat temu [TYLKO U NAS]",
+      "link": "https://www.wirtualnemedia.pl/polska-marka-odziezowa-zmienia-logo-pierwszy-raz-od-powstania-40-lat-temu-tylko-u-nas,7243400046012544a",
+      "pubDate": "Thu, 15 Jan 2026 06:09:20 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "RMF FM świętuje 36-lecie. 36 godzin transmisji na żywo",
+      "link": "https://www.wirtualnemedia.pl/rmf-fm-36-urodziny-transmisja-live-radio-streaming-kopiec-koncert,7243409276860544a",
+      "pubDate": "Thu, 15 Jan 2026 06:08:54 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Polsat wiosną bez odcinka specjalnego \"Przyjaciółek\" [NASZ NEWS]",
+      "link": "https://www.wirtualnemedia.pl/polsat-wiosna-bez-odcinka-specjalnego-przyjaciolek-nasz-news,7243312556595680a",
+      "pubDate": "Thu, 15 Jan 2026 06:08:34 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Orlen wspiera kolejną dyscyplinę sportową",
+      "link": "https://www.wirtualnemedia.pl/orlen-polski-zwiazek-triathlonu-umowa-wspolpraca-pieniadze,7243386717300864a",
+      "pubDate": "Thu, 15 Jan 2026 06:08:13 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Będzie drugi sezon \"Strażaków z sąsiedztwa\". Ruszyły zdjęcia",
+      "link": "https://www.wirtualnemedia.pl/bedzie-drugi-sezon-strazakow-z-sasiedztwa-ruszyly-zdjecia,7243467347130464a",
+      "pubDate": "Thu, 15 Jan 2026 06:07:50 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Iran na kilka godzin zamknął swoją przestrzeń powietrzną",
+      "link": "https://www.rp.pl/polityka/art43640341-iran-na-kilka-godzin-zamknal-swoja-przestrzen-powietrzna",
+      "pubDate": "Thu, 15 Jan 2026 06:06:48 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "KRRiT wypłaci ponad 21 mln zł Polskiemu Radiu i rozgłośniom regionalnym",
+      "link": "https://www.wirtualnemedia.pl/krrit-wyplaty-depozyt-polskie-radio-rozglosnie-regionalne-tvp-abonament-2024,7243428866537568a",
+      "pubDate": "Thu, 15 Jan 2026 06:05:11 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Ukraina oficjalnie potwierdza. Mamy Tempesta i upolował już co najmniej 21 Shahedów",
+      "link": "https://geekweek.interia.pl/militaria/news-ukraina-oficjalnie-potwierdza-mamy-tempesta-i-upolowal-juz-c,nId,22508866",
+      "pubDate": "Thu, 15 Jan 2026 05:05:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Coś dziwnego dzieje się na stacji kosmicznej. Mikroby dostały szału",
+      "link": "https://spidersweb.pl/2026/01/iss-wirusy-mocniejsze-w-mikrograwitacji.html",
+      "pubDate": "Thu, 15 Jan 2026 06:05:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Ponad 89 proc. Polaków w zasięgu reklamy zewnętrznej",
+      "link": "https://www.wirtualnemedia.pl/ponad-89-proc-polakow-w-zasiegu-reklamy-zewnetrznej,7243413727221888a",
+      "pubDate": "Thu, 15 Jan 2026 06:04:53 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "KRRiT rozstrzygnęła konkurs. Był tylko jeden chętny",
+      "link": "https://www.wirtualnemedia.pl/krrit-konkurs-wola-kolo-czerwienska-wygrana-radio-plonsk,7243418456455264a",
+      "pubDate": "Thu, 15 Jan 2026 06:04:34 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Oto nominowani do Nagrody Mariusza Waltera za 2025",
+      "link": "https://www.wirtualnemedia.pl/nagroda-mariusza-waltera-nominowani-tvn-lista-nazwisk,7243424683243648a",
+      "pubDate": "Thu, 15 Jan 2026 06:04:12 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Google wprowadza spersonalizowane reklamy zakupowe z AI",
+      "link": "https://www.wirtualnemedia.pl/google-ai-mode-reklamy-zakupy-narzedzie-firmy,7243355699603936a",
+      "pubDate": "Thu, 15 Jan 2026 06:03:52 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Kurs JPY/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-japonskiego-dzisiaj-po-ile-jest-jen-japonski-15-stycznia-2026-r/frvzfvp",
+      "pubDate": "Thu, 15 Jan 2026 05:02:51 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs EUR/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-15-stycznia-2026-r/lp7kr95",
+      "pubDate": "Thu, 15 Jan 2026 05:02:29 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs USD/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-amerykanskiego-dzisiaj-po-ile-jest-dolar-amerykanski-15-stycznia-2026-r/5em6nd2",
+      "pubDate": "Thu, 15 Jan 2026 05:02:28 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs CHF/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-szwajcarskiego-dzisiaj-po-ile-jest-frank-szwajcarski-15-stycznia-2026-r/dz958nw",
+      "pubDate": "Thu, 15 Jan 2026 05:02:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs GBP/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funtow-brytyjskich-dzisiaj-po-ile-jest-funt-brytyjski-15-stycznia-2026-r/zvkksx7",
+      "pubDate": "Thu, 15 Jan 2026 05:02:14 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "No to się porobiło. Miały być nie do powstrzymania, ale Amerykanie pokazali nową broń",
+      "link": "https://www.chip.pl/2026/01/drony-swiatlowod-bron-mikrofalowa-epirus-leonidas-vehicelkit",
+      "pubDate": "Thu, 15 Jan 2026 05:02:05 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Polityka Trumpa uderza w światową turystykę. „Podróż jest dziś aktem politycznym”",
+      "link": "https://turystyka.rp.pl/nowe-trendy/art43636241-polityka-trumpa-uderza-w-swiatowa-turystyke-podroz-jest-dzis-aktem-politycznym",
+      "pubDate": "Thu, 15 Jan 2026 06:02:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kurs CZK/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-czeska-15-stycznia-2026-r/17gr14d",
+      "pubDate": "Thu, 15 Jan 2026 05:02:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Musk's xAI curbs sexually explicit image generation in Grok",
+      "link": "https://www.dw.com/en/musk-s-xai-curbs-sexually-explicit-image-generation-in-grok/a-75511331?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Thu, 15 Jan 2026 05:02:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Kurs NOK/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-norweska-15-stycznia-2026-r/lqmcvd4",
+      "pubDate": "Thu, 15 Jan 2026 05:01:57 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs SEK/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-szwedzkiej-dzisiaj-po-ile-jest-korona-szwedzka-15-stycznia-2026-r/kvkhyr4",
+      "pubDate": "Thu, 15 Jan 2026 05:01:42 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs DKK/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-dunskiej-dzisiaj-po-ile-jest-korona-dunska-15-stycznia-2026-r/xgmd7ms",
+      "pubDate": "Thu, 15 Jan 2026 05:01:41 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs TRY/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-turckiej-dzisiaj-po-ile-jest-lira-turecka-15-stycznia-2026-r/55mqkfj",
+      "pubDate": "Thu, 15 Jan 2026 05:01:26 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs HUF/PLN 15 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-forinta-wegierskiego-dzisiaj-po-ile-jest-forint-wegierski-15-stycznia-2026-r/q9hvye2",
+      "pubDate": "Thu, 15 Jan 2026 05:01:25 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Ugandans to vote in election expected to extend Museveni’s four-decade rule",
+      "link": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
+      "pubDate": "Thu, 15 Jan 2026 05:00:51 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "World warming faster than forecast as pollution cuts remove hidden cooling effect",
+      "link": "http://www.euronews.com/green/2026/01/15/world-warming-faster-than-forecast-as-pollution-cuts-remove-hidden-cooling-effect",
+      "pubDate": "Thu, 15 Jan 2026 06:00:07 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Geodeta zdecyduje, kto dostanie koncesję. Polskie miasto słono zapłaci",
+      "link": "https://biznes.interia.pl/gospodarka/news-torun-poszukuje-geodety-zmierzy-odleglosci-miedzy-sklepami,nId,22508708",
+      "pubDate": "Thu, 15 Jan 2026 05:00:01 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Renault Filante: luksusowy SUV z Korei, którego w Europie nie zobaczymy",
+      "link": "https://moto.rp.pl/parking/art43634661-renault-filante-luksusowy-suv-z-korei-ktorego-w-europie-nie-zobaczymy",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Koniec diesla na kolei? Takich pociągów w Polsce jeszcze nie było",
+      "link": "https://spidersweb.pl/2026/01/koleje-dolnoslaskie-zamowienie-prototypy.html",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "CD Projekt RED szykuje się do premiery Wiedźmina 4. Konkurent to najważniejsza gra w historii",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-dodatek-do-wiedzmina-3-przed-wiedzminem-4-fakty-poszlaki-i-odpowiedz-cd-projekt/7ekf98q",
+      "pubDate": "Thu, 15 Jan 2026 05:00:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Warren Buffett: gotówka jest jak tlen. Prognoza na następne 100 lat legendarnego inwestora",
+      "link": "https://www.bankier.pl/wiadomosc/Warren-Buffett-gotowka-jest-jak-tlen-Prognoza-na-nastepne-100-lat-legendarnego-inwestora-9068270.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Spór w PKO BP o auta służbowe. Bank wprowadza zmiany, dyrektorzy oddziałów skarżą się na ograniczenia",
+      "link": "https://www.bankier.pl/wiadomosc/Spor-w-PKO-BP-o-auta-sluzbowe-Bank-wprowadza-zmiany-dyrektorzy-oddzialow-skarza-sie-na-ograniczenia-9067969.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "„Nie ma komu pracować przy pacjentach”. Szpitale coraz bardziej odczuwają kryzys kadrowy",
+      "link": "https://www.bankier.pl/wiadomosc/Pielegniarki-na-wage-zlota-W-szpitalach-brakuje-ich-coraz-bardziej-9068360.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "ING przekazał środki ze stypendium komornikowi. Klient idzie do prokuratury",
+      "link": "https://www.bankier.pl/wiadomosc/Zwolnienie-srodkow-spod-zajecia-komorniczego-jakie-sa-obowiazki-banku-9068168.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "KSeF: uwaga na mylące daty. Wielu przedsiębiorców może wpaść w tę pułapkę",
+      "link": "https://www.bankier.pl/wiadomosc/KSeF-uwaga-na-mylace-daty-Wielu-przedsiebiorcow-moze-wpasc-w-te-pulapke-9068239.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Ranking kont oszczędnościowych. 7% na czele tabeli. Wykonaj te kroki, by odebrać wysokie odsetki",
+      "link": "https://www.bankier.pl/wiadomosc/Ranking-kont-oszczednosciowych-w-styczniu-2026-r-7-na-czele-tabeli-Wykonaj-te-kroki-by-odebrac-wysokie-odsetki-9068162.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Darmowe konto firmowe na stałe? Sprawdzamy najlepsze oferty",
+      "link": "https://www.bankier.pl/wiadomosc/Ranking-najtanszych-kont-firmowych-bez-ograniczen-czasowych-styczen-2026-r-9068176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "MAGA przecenia, jak wielu Amerykanów chce strzelać lewaczkom w twarz",
+      "link": "https://krytykapolityczna.pl/swiat/trump-ice-minnesota-przemoc-migracja-fafo/",
+      "pubDate": "Thu, 15 Jan 2026 05:00:00 +0000",
+      "source": "Krytyka Polityczna"
+    },
+    {
+      "title": "Iran protest killings have halted, Trump claims, as Tehran says executions are ‘out of the question’",
+      "link": "https://www.theguardian.com/world/2026/jan/15/iran-protest-killings-trump-tehran-claims-no-executions",
+      "pubDate": "Thu, 15 Jan 2026 04:57:49 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump says Iran has 'no plan' to execute protesters",
+      "link": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 04:57:26 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Iran otworzył przestrzeń powietrzną. Media ujawniają dalsze plany Trumpa",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-iran-otworzyl-przestrzen-powietrzna-media-ujawniaja-dalsze-p,nId,22509022",
+      "pubDate": "Thu, 15 Jan 2026 04:57:18 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Rosja właśnie straciła status potęgi morskiej. Chiny tuż obok USA",
+      "link": "https://geekweek.interia.pl/militaria/news-rosja-wlasnie-stracila-status-potegi-morskiej-chiny-tuz-obok,nId,22508969",
+      "pubDate": "Thu, 15 Jan 2026 04:55:01 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Przewidział kryzys z 2008 roku. Teraz ostrzega przed kolejnym krachem",
+      "link": "https://biznes.interia.pl/gieldy/aktualnosci/news-alphabet-mocniejszy-niz-apple-wall-street-pod-dyktando-sztuc,nId,22508498",
+      "pubDate": "Thu, 15 Jan 2026 04:52:01 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Trump mówił o zakończeniu wojny w Ukrainie. Wskazał na \"główną przeszkodę\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-15/trump-mowil-o-zakonczeniu-wojny-w-ukrainie-wskazal-na-glowna-przeszkode/",
+      "pubDate": "Thu, 15 Jan 2026 05:52:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Minneapolis: Officer shoots person in leg during arrest",
       "link": "https://www.dw.com/en/minneapolis-officer-shoots-person-in-leg-during-arrest/a-75511317?maca=en-rss-en-all-1573-xml-mrss",
@@ -15450,6 +15798,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -65498,360 +65870,6 @@
       "source": "Onet"
     },
     {
-      "title": "Nowa deklaracja Unii Europejskiej, w tle zmiany w Caracas. \"Nie uznajemy\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-nowa-deklaracja-unii-europejskiej-w-tle-zmiany-w-caracas-nie,nId,22505418",
-      "pubDate": "Tue, 06 Jan 2026 15:50:27 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Maszynista zgłosił brak szyny. 112 centymetrów ubytku",
-      "link": "https://tvn24.pl/lodz/bedzelin-maszynista-zglosil-brak-szyny-112-centymetrow-ubytku-st8833740?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 15:49:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "María Corina Machado vows to return to Venezuela and rejects rule of Maduro’s deputy",
-      "link": "https://www.theguardian.com/world/2026/jan/06/maria-corina-machado-vows-return-venezuela-rejects-rule-maduro-deputy-delcy-rodriguez",
-      "pubDate": "Tue, 06 Jan 2026 15:47:17 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Brak własnych satelitów to ryzyko. To będzie jeden z kluczowych sektorów w 2026 r.",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/dane-satelitarne-zmieniaja-reguly-gry-bez-nich-panstwa-traca/vvdhg4q",
-      "pubDate": "Tue, 06 Jan 2026 15:45:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ksiądz z Podkarpacia stanie przed sądem. Za hejt na dr Jagielską",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/ksiadz-z-podkarpacia-stanie-przed-sadem-za-hejt-na-dr-jagielska",
-      "pubDate": "Tue, 06 Jan 2026 15:44:52 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "\"Wszystko jest nielegalne\". Premier Francji ostro o akcji USA w Wenezueli",
-      "link": "https://wiadomosci.onet.pl/swiat/wszystko-jest-nielegalne-premier-francji-ostro-o-akcji-usa-w-wenezueli/ph7b6kf",
-      "pubDate": "Tue, 06 Jan 2026 15:41:43 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Iran protests: Reports of clashes at Tehran bazaar",
-      "link": "https://www.dw.com/en/iran-protests-reports-of-clashes-at-tehran-bazaar/a-75409139?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Tue, 6 Jan 2026 15:41:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Arabia Saudyjska otwiera rynki finansowe dla zagranicznych inwestorów",
-      "link": "https://businessinsider.com.pl/gielda/wiadomosci/saudyjska-gielda-bez-barier-koniec-ograniczen-dla-zagranicznych-inwestorow/v89qjf9",
-      "pubDate": "Tue, 06 Jan 2026 15:38:23 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Tłumy na Trakcie Królewskim. Orszak Trzech Króli przeszedł przez Warszawę",
-      "link": "https://www.rmf24.pl/regiony/warszawa/news-tlumy-na-trakcie-krolewskim-orszak-trzech-kroli-przeszedl-pr,nId,8055648",
-      "pubDate": "Tue, 06 Jan 2026 16:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rzecznik MSZ o powrocie Polaków z Sokotry. \"To będą komercyjne loty\"",
-      "link": "https://tvn24.pl/biznes/turystyka/jemen-sokotra-rzecznik-msz-maciej-wewior-o-powrocie-polakow-to-beda-komercyjne-loty-st8833656?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 15:33:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tak rośnie InPost. Akcje spółki zyskują blisko 23 proc. po informacji o ofercie przejęcia",
-      "link": "https://www.money.pl/gielda/tak-rosnie-inpost-akcje-spolki-zyskuja-blisko-23-proc-po-informacji-o-ofercie-przejecia-7240553221073408a.html",
-      "pubDate": "Tue, 06 Jan 2026 16:31:58 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Israel pushes ahead with vast illegal settlement in heart of West Bank",
-      "link": "https://www.theguardian.com/world/2026/jan/06/israel-vast-illegal-settlement-west-bank",
-      "pubDate": "Tue, 06 Jan 2026 15:30:16 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Państwo pomoże rozwodnikom. Nadchodzi nowa e-usługa",
-      "link": "https://spidersweb.pl/2026/01/panstwo-pomoze-rozwodnikom.html",
-      "pubDate": "Tue, 06 Jan 2026 16:30:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Zacznie się wieczorem. Alert RCB dla mieszkańców dwóch województw",
-      "link": "https://wiadomosci.onet.pl/kraj/zacznie-sie-wieczorem-alert-rcb-dla-mieszkancow-dwoch-wojewodztw/3y05ksq",
-      "pubDate": "Tue, 06 Jan 2026 15:29:10 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "California Republican congressman Doug LaMalfa dies",
-      "link": "https://www.theguardian.com/us-news/2026/jan/06/doug-lamalfa-dies-california",
-      "pubDate": "Tue, 06 Jan 2026 15:27:38 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Pożegnanie po 15 latach. Ola Kot odchodzi z Eska TV",
-      "link": "https://www.wirtualnemedia.pl/ola-kot-eska-tv-odchodzi-dalej-w-radio-eska,7240552859302400a",
-      "pubDate": "Tue, 06 Jan 2026 16:27:32 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nowe doniesienia w sprawie InPostu. Oto kto chce go przejąć",
-      "link": "https://businessinsider.com.pl/gielda/kto-chce-kupic-inpost-brytyjskie-media-dotarly-do-informacji/hn8qgj6",
-      "pubDate": "Tue, 06 Jan 2026 15:26:16 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Chłopiec zjeżdżał z górki na \"jabłku\", trafił w jadący samochód",
-      "link": "https://tvn24.pl/trojmiasto/bytow-chlopiec-zjezdzal-z-gorki-na-jablku-trafil-w-jadacy-samochod-st8833710?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 15:22:54 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Marznący deszcz i śnieg paraliżują Bałkany. \"Nigdy nie widzieli czegoś takiego\"",
-      "link": "https://www.bankier.pl/wiadomosc/Marznacy-deszcz-i-snieg-paralizuja-Balkany-Nigdy-nie-widzieli-czegos-takiego-9064354.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 6 Jan 2026 16:22:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Tego obiektu nie powinno tam być. Astronomowie łapią się za głowy",
-      "link": "https://geekweek.interia.pl/kosmos/news-to-odkrycie-psuje-kosmiczne-teorie-gromada-galaktyk-jest-gor,nId,22505289",
-      "pubDate": "Tue, 06 Jan 2026 15:20:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Tajemniczy relikt odkryty przez teleskop Hubble'a. Coś takiego widzimy pierwszy raz",
-      "link": "https://spidersweb.pl/2026/01/tajemniczy-relikt-odkryty-przez-teleskop-hubble.html",
-      "pubDate": "Tue, 06 Jan 2026 16:20:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Iran is plotting to assassinate Syria's al-Sharaa, Israel warns",
-      "link": "http://www.euronews.com/2026/01/06/iran-is-plotting-to-assassinate-syrias-al-sharaa-israel-warns",
-      "pubDate": "Tue, 06 Jan 2026 16:18:22 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Oświadczenie ws. Grenlandii. Przywódcy UE, w tym Tusk, zabrali głos",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-oswiadczenie-ws-grenlandii-przywodcy-ue-w-tym-tusk-zabrali-g,nId,8055647",
-      "pubDate": "Tue, 06 Jan 2026 16:18:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Żwawa hulajnoga do miasta. Ma logo Predatora",
-      "link": "https://www.tabletowo.pl/zwawa-hulajnoga-do-miasta-ma-logo-predatora/",
-      "pubDate": "Tue, 06 Jan 2026 15:16:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "\"Onet Rano.\" | 07.01",
-      "link": "https://wiadomosci.onet.pl/kraj/onet-rano-or-0701/9pxm3p6",
-      "pubDate": "Tue, 06 Jan 2026 15:14:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Brak wody na czterech ulicach w Szczecinie. Trwają prace nad usunięciem awarii",
-      "link": "https://tvn24.pl/szczecin/szczecin-brak-wody-na-czterech-ulicach-trwaja-prace-nad-usunieciem-awarii-st8833655?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 15:12:53 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tak Trump miał opisać różnicę między Irakiem a Wenezuelą",
-      "link": "https://tvn24.pl/biznes/ze-swiata/tak-donald-trump-mial-opisac-roznice-miedzy-irakiem-a-wenezuela-st8833700?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 15:12:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Mnożą się apele do USA, doradca Putina prowokuje. \"Sprawa przesądzona\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-mnoza-sie-apele-do-usa-doradca-putina-prowokuje-sprawa-przes,nId,22505406",
-      "pubDate": "Tue, 06 Jan 2026 15:10:08 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Pożegnanie z węglem to nowa nadzieja. Wyczekiwana utopia już tu jest",
-      "link": "https://spidersweb.pl/2026/01/pozegnanie-z-weglem-to-nowa-utopia.html",
-      "pubDate": "Tue, 06 Jan 2026 16:10:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Zapytali Trumpa o zamiary wobec Wenezueli. Wskazał termin: Za mniej niż 18 miesięcy",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-06/zapytali-trumpa-o-zamiary-wobec-wenezueli-wskazal-termin-za-mniej-niz-18-miesiecy/",
-      "pubDate": "Tue, 06 Jan 2026 16:06:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Pryska kolejny mit. Amerykanie obnażyli wartość rosyjskich \"baniek antydostępowych\"",
-      "link": "https://tech.wp.pl/pryska-kolejny-mit-amerykanie-obnazyli-wartosc-rosyjskich-baniek-antydostepowych,7240531060554240a",
-      "pubDate": "Tue, 06 Jan 2026 16:03:49 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Coraz więcej krajów mówi o tym otwarcie. Do Senatu również wpłynęła petycja",
-      "link": "https://wydarzenia.interia.pl/kraj/news-coraz-wiecej-krajow-mowi-o-tym-otwarcie-do-senatu-rowniez-wp,nId,22505112",
-      "pubDate": "Tue, 06 Jan 2026 15:00:01 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Korzystanie z telefonu będzie gafą. Wracamy do lat 90.",
-      "link": "https://spidersweb.pl/2026/01/korzystanie-z-telefonu-bedzie-gafa-wracamy-do-lat-90.html",
-      "pubDate": "Tue, 06 Jan 2026 16:00:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "To może być jedna z większych fal mrozów ostatnich lat. Apogeum jeszcze w tym tygodniu",
-      "link": "https://wiadomosci.onet.pl/pogoda/takiego-zimna-w-polsce-dawno-nie-bylo-znamy-date-nadejscia-najwiekszych-mrozow/dwf9n5p",
-      "pubDate": "Tue, 06 Jan 2026 14:58:37 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Od 2026 roku wyższy limit dorabiania bez podatku i ZUS. Co z NFZ? ",
-      "link": "https://biznes.interia.pl/finanse/news-kwartalny-limit-dla-dzialalnosci-nierejestrowanej-nie-trzeba,nId,22505215",
-      "pubDate": "Tue, 06 Jan 2026 14:55:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "US justice department has released less than 1% of Epstein files, filing reveals",
-      "link": "https://www.theguardian.com/us-news/2026/jan/06/epstein-files-release-justice-department",
-      "pubDate": "Tue, 06 Jan 2026 14:54:52 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Tak zamieniłam niepotrzebne książki na gotówkę. Tych aplikacji na pewno nie znacie",
-      "link": "https://android.com.pl/tech/1005270-uzywane-ksiazki-sprzedaz-online/",
-      "pubDate": "Tue, 06 Jan 2026 14:51:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Nie żyje Bela Tarr",
-      "link": "https://tvn24.pl/kultura-i-styl/nie-zyje-bela-tarr-st8833672?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 14:49:26 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kent water failure was foreseen and could have been stopped, regulator says",
-      "link": "https://www.theguardian.com/business/2026/jan/06/kent-tunbridge-wells-water-treatment-failure-regulator",
-      "pubDate": "Tue, 06 Jan 2026 14:48:19 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rajd Dakar: Eryk Goczał najlepszy z Polaków na trzecim etapie",
-      "link": "https://www.rmf24.pl/sport/news-rajd-dakar-eryk-goczal-najlepszy-z-polakow-na-trzecim-etapie,nId,8055644",
-      "pubDate": "Tue, 06 Jan 2026 15:46:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Miller na front! – woła J. K. Bielecki, a Miller dalej sączy w mediach antyukraiński jad",
-      "link": "https://oko.press/13-antyukrainskich-tez-leszka-millera-kreml-go-wychwala-a-wy-go-zapraszacie-2",
-      "pubDate": "Tue, 06 Jan 2026 14:45:20 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Miller na front! – woła J. K. Bielecki, a Miller dalej sączy w mediach antyukraiński jad",
-      "link": "https://oko.press/13-antyukrainskich-tez-leszka-millera-kreml-go-wychwala-a-wy-zapraszacie",
-      "pubDate": "Tue, 06 Jan 2026 14:45:20 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Six people die as snow, ice and freezing temperatures wreak havoc in Europe",
-      "link": "https://www.theguardian.com/world/2026/jan/06/deaths-snow-ice-freezing-temperatures-havoc-europe",
-      "pubDate": "Tue, 06 Jan 2026 14:44:37 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "\"To różni Irak od Wenezueli\". Donald Trump znów zabrał głos po akcji USA",
-      "link": "https://wiadomosci.onet.pl/swiat/zatrzymamy-rope-donald-trump-tlumaczyl-publicyscie-akcje-usa-w-wenezueli/vfgy9jf",
-      "pubDate": "Tue, 06 Jan 2026 14:44:25 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Over 40 swimmers brave icy Vltava River for Prague's Three Kings Swim",
-      "link": "http://www.euronews.com/video/2026/01/06/over-40-swimmers-brave-icy-vltava-river-for-pragues-three-kings-swim",
-      "pubDate": "Tue, 06 Jan 2026 15:43:04 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "\"Jeśli zostaniemy w domu, umrzemy\". Sparaliżowany Berlin stał się miastem duchów. Z minuty na minutę [REPORTAŻ]",
-      "link": "https://wiadomosci.onet.pl/swiat/jesli-zostaniemy-w-domu-umrzemy-sparalizowany-berlin-stal-sie-miastem-duchow/wzbcnbt",
-      "pubDate": "Tue, 06 Jan 2026 14:42:34 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Geotermia w USA ma się nieźle, inwestycje mogą przyspieszyć",
-      "link": "https://energia.rp.pl/nowa-energia/art43593681-geotermia-w-usa-ma-sie-niezle-inwestycje-moga-przyspieszyc",
-      "pubDate": "Tue, 06 Jan 2026 15:42:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Pogoda. Trzaskający mróz i pół metra śniegu. Zima nigdzie się nie wybiera",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/atak-zimy-w-polsce-sniezyce-pogoda-na-weekend-i-5-dni-trzaskajacy-mroz-i-snieg-zima-sie-rozkreca-st8833598?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 14:41:12 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Two Republicans oppose Pete Hegseth’s censure of fellow Senator Mark Kelly",
-      "link": "https://www.theguardian.com/us-news/2026/jan/06/pete-hegseth-censure-mark-kelly-republicans",
-      "pubDate": "Tue, 06 Jan 2026 14:40:30 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nowy materiał magnetyczny już tu jest. Na nowo definiuje projektowanie pamięci i komputerów kwantowych",
-      "link": "https://www.chip.pl/2026/01/material-magentyczny-pamiec-komputery-kwantowe",
-      "pubDate": "Tue, 06 Jan 2026 14:39:57 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Tragiczny wypadek  w Białym Dunajcu. Wielkie utrudnienia na kolei",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-tragiczny-wypadek-w-bialym-dunajcu-wielkie-utrudnienia-na-ko,nId,8055643",
-      "pubDate": "Tue, 06 Jan 2026 15:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Tragiczny wypadek w Białym Dunajcu. Ogromne utrudnienia na kolei",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-tragiczny-wypadek-w-bialym-dunajcu-ogromne-utrudnienia-na-ko,nId,8055643",
-      "pubDate": "Tue, 06 Jan 2026 15:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Tragiczny wypadek na Podhalu. Ogromne utrudnienia na kolei",
-      "link": "https://www.rmf24.pl/regiony/zakopane/news-tragiczny-wypadek-na-podhalu-ogromne-utrudnienia-na-kolei,nId,8055643",
-      "pubDate": "Tue, 06 Jan 2026 15:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "InPost może zmienić właściciela. Niespodziewana oferta przejęcia",
-      "link": "https://tvn24.pl/biznes/z-kraju/inpost-moze-zmienic-wlasciciela-niespodziewana-oferta-przejecia-st8833661?source=rss",
-      "pubDate": "Tue, 06 Jan 2026 14:32:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trump porównuje Wenezuelę do Iraku. \"Tym razem zatrzymamy ropę\"",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-porownuje-Wenezuele-do-Iraku-Tym-razem-zatrzymamy-rope-9064342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Tue, 6 Jan 2026 15:31:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Które linie lotnicze są najbardziej punktualne na świecie? [RANKING]",
-      "link": "https://businessinsider.com.pl/wiadomosci/ranking-linii-lotniczych-2025-kto-jest-najpunktualniejszy/8z7frjj",
-      "pubDate": "Tue, 06 Jan 2026 14:30:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Amerykanie błyskawicznie zajęliby Nuuk. Europa nie zrobiłaby nic [OPINIA]",
-      "link": "https://wydarzenia.interia.pl/felietony/news-rozdrapywanie-swiata,nId,22505398",
-      "pubDate": "Tue, 06 Jan 2026 14:29:46 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zelensky replaces Ukraine's powerful security service chief",
-      "link": "https://www.bbc.com/news/articles/cpv7myg2nw4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 06 Jan 2026 14:26:46 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Powstaną nowe partie, które zagrożą Konfederacji i wypełnią pustkę po partii Szymona Hołowni",
-      "link": "https://www.rp.pl/polityka/art43587791-powstana-nowe-partie-ktore-zagroza-konfederacji-i-wypelnia-pustke-po-partii-szymona-holowni",
-      "pubDate": "Tue, 06 Jan 2026 15:26:38 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
       "link": "https://wiadomosci.onet.pl/swiat/rosja-oskarza-ukraine-o-atak-dronami-cia-rezydencja-putina-ani-on-sam-nie-byli-celami/ny3h5en",
       "pubDate": "Wed, 31 Dec 2025 23:19:25 GMT",
@@ -112790,6 +112808,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -144798,12 +144840,6 @@
       "link": "https://www.wirtualnemedia.pl/republika-koledy-boze-narodzenie-zenek-martyniuk-na-widowni-karol-nawrocki,7234864278837760a",
       "pubDate": "Sun, 21 Dec 2025 14:44:05 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Radosław Sikorski: Nie wierzę, że Putin popełni kardynalny błąd, ale nie można tego wykluczyć. Dlatego się zbroimy [WYWIAD]",
-      "link": "https://wiadomosci.onet.pl/swiat/sikorski-nie-moge-wykluczyc-ze-putin-popelni-blad-dlatego-sie-zbroimy-wywiad/km4br92",
-      "pubDate": "Sun, 21 Dec 2025 13:44:00 GMT",
-      "source": "Onet"
     }
   ],
   "totalArticles": 20000,
