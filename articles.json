@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-15T22:47:49.378Z",
+  "generatedAt": "2026-01-15T22:58:02.102Z",
   "items": [
+    {
+      "title": "Nagie zdjęcie uczennicy wygenerowane przez AI. Jest reakcja prokuratury",
+      "link": "https://www.rmf24.pl/fakty/polska/news-nagie-zdjecie-uczennicy-wygenerowane-przez-ai-jest-reakcja-p,nId,8058193",
+      "pubDate": "Thu, 15 Jan 2026 23:50:53 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Mother of one of Elon Musk’s sons sues over Grok-generated explicit images",
+      "link": "https://www.theguardian.com/technology/2026/jan/15/mother-of-one-of-elon-musks-sons-sues-over-grok-generated-explicit-images",
+      "pubDate": "Thu, 15 Jan 2026 22:35:01 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Trump press secretary launches tirade against reporter who asked about ICE",
       "link": "https://www.theguardian.com/us-news/2026/jan/15/karoline-leavitt-journalist-tirade",
@@ -22932,6 +22944,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -66588,24 +66624,6 @@
       "link": "https://wiadomosci.onet.pl/tylko-w-onecie/panstwowe-stanowiska-w-zamian-za-poparcie-wybory-lidera-polski-2050-coraz-bardziej/gly6sk7",
       "pubDate": "Wed, 07 Jan 2026 16:34:27 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Rezerwy banku centralnego. Udział złota rośnie",
-      "link": "https://tvn24.pl/biznes/pieniadze/rekordowa-ilosc-zlota-w-skarbcu-tyle-wynosza-rezerwy-walutowe-polski-st8835358?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 16:30:39 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Czyżby czekał mnie powrót do Chrome'a? Microsoft daje nam \"miłe koszmaru znaki\"",
-      "link": "https://antyweb.pl/microsoft-edge-copilot-fluent-design",
-      "pubDate": "Wed, 07 Jan 2026 16:30:17 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Amerykańsko-rosyjskie zaoczne starcie na morzu",
-      "link": "https://www.rp.pl/polityka/art43601201-amerykansko-rosyjskie-zaoczne-starcie-na-morzu",
-      "pubDate": "Wed, 07 Jan 2026 17:30:00 +0100",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -114554,6 +114572,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -146310,12 +146352,6 @@
       "link": "https://www.chip.pl/2025/12/gigabyte-gaming-360-ice-test-recenzja-opinia",
       "pubDate": "Sun, 21 Dec 2025 15:00:00 +0000",
       "source": "Chip.pl"
-    },
-    {
-      "title": "Sztuczna inteligencja wybiera prezenty. Nowy trend w świątecznych zakupach",
-      "link": "https://www.bankier.pl/wiadomosc/Sztuczna-inteligencja-wybiera-prezenty-Nowy-trend-w-swiatecznych-zakupach-9058334.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 21 Dec 2025 16:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ],
   "totalArticles": 20000,
