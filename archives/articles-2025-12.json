@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-15T11:28:37.300Z",
+  "generatedAt": "2026-01-15T11:44:17.243Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -47325,6 +47325,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -79237,12 +79261,6 @@
       "link": "https://tvn24.pl/swiat/czechy-utrudnienia-na-kolei-po-kradziezy-70-metrow-kabla-podejrzewanemu-grozi-do-osmiu-lat-wiezienia-st8812396?source=rss",
       "pubDate": "Sun, 21 Dec 2025 14:12:25 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Prześwietlą najsławniejszą piramidę Majów. Chcą znaleźć ukryte \"anomalie\"",
-      "link": "https://geekweek.interia.pl/militaria/news-archeolodzy-szukaja-tajemniczych-struktur-w-piramidzie-kukul,nId,22501786",
-      "pubDate": "Sun, 21 Dec 2025 14:12:19 GMT",
-      "source": "GeekWeek"
     }
   ]
 }
