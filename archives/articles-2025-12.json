@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-15T14:23:58.136Z",
+  "generatedAt": "2026-01-15T14:48:18.351Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -47469,6 +47469,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -79345,12 +79369,6 @@
       "link": "https://www.money.pl/emerytury/pracowales-przed-1999-r-zus-przypomina-tak-mozna-zwiekszyc-emeryture-7234871712365056a.html",
       "pubDate": "Sun, 21 Dec 2025 15:22:09 +0100",
       "source": "Money.pl"
-    },
-    {
-      "title": "Skok o 700 procent. Taniej jest przez Kraków",
-      "link": "https://tvn24.pl/biznes/turystyka/wlochy-skok-o-700-procent-taniej-jest-przez-krakow-st8812433?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 14:21:08 GMT",
-      "source": "TVN24"
     }
   ]
 }
