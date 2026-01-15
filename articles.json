@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-15T21:49:29.890Z",
+  "generatedAt": "2026-01-15T21:58:46.234Z",
   "items": [
+    {
+      "title": "Polska reaguje na sytuację w Iranie. Ambasador wezwany do MSZ",
+      "link": "https://wydarzenia.interia.pl/kraj/news-polska-reaguje-na-sytuacje-w-iranie-ambasador-wezwany-do-msz,nId,22509497",
+      "pubDate": "Thu, 15 Jan 2026 21:54:55 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Unia Europejska ma własny Artykuł 5, nawet mocniejszy od tego w NATO. Dania może go użyć, by bronić Grenlandii",
       "link": "https://wiadomosci.onet.pl/swiat/grenlandia-w-centrum-konfliktu-dania-moze-siegnac-po-klauzule-ue/ped3nv7",
@@ -22860,6 +22866,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -66540,18 +66570,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/maduro-mogl-trafic-do-turcji-zamiast-aresztu-erdogan-stanowczo-odpowiada/v8g3t20",
       "pubDate": "Wed, 07 Jan 2026 16:18:57 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Pogoda na najbliższe dni. Nocą termometry pokażą nawet -20 st.",
-      "link": "https://wiadomosci.onet.pl/pogoda/imgw-ostrzega-przed-sniegiem-termometry-noca-pokaza-nawet-20-st/9dpphly",
-      "pubDate": "Wed, 07 Jan 2026 16:17:35 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jak żart stał się groźbą. Co wiemy o prawej ręce Donalda Trumpa",
-      "link": "https://tvn24.pl/swiat/jak-zart-stal-sie-grozba-co-wiemy-o-prawej-rece-donalda-trumpa-st8834001?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 16:13:29 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -114428,6 +114446,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -146202,12 +146244,6 @@
       "link": "https://tech.wp.pl/s/codziennypoznan-pl/cichy-kryzys-w-lasach-polscy-naukowcy-ujawniaja-skale-problemu,7234869795416193a",
       "pubDate": "Sun, 21 Dec 2025 15:57:00 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "​Samochód wjechał w witrynę restauracji w Gdyni. Są poszkodowani",
-      "link": "https://www.rmf24.pl/regiony/trojmiasto/news-samochod-wjechal-w-witryne-restauracji-w-gdyni-sa-poszkodowa,nId,8052664",
-      "pubDate": "Sun, 21 Dec 2025 15:55:44 +0100",
-      "source": "RMF24"
     }
   ],
   "totalArticles": 20000,
