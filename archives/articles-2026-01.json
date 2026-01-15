@@ -1,7 +1,49 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-15T19:49:59.221Z",
+  "generatedAt": "2026-01-15T19:59:47.925Z",
   "items": [
+    {
+      "title": "Mają dość latającego złomu. Niedawno wydali miliony na remont",
+      "link": "https://tech.wp.pl/maja-dosc-latajacego-zlomu-niedawno-wydali-miliony-na-remont,7243789842450528a",
+      "pubDate": "Thu, 15 Jan 2026 20:58:44 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Oddajesz krew i dostajesz nową polską grę o wampirach. Ku chwale mrocznego lorda",
+      "link": "https://spidersweb.pl/2026/01/oddajesz-krew-dostajesz-gre-vampires-bloodlord-rising.html",
+      "pubDate": "Thu, 15 Jan 2026 20:58:25 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "\"Kalejdoskop dla dzieci\" i \"walka o stołki\". Czym właściwie jest reżim w Iranie i czy upadnie?",
+      "link": "https://tvn24.pl/swiat/kalejdoskop-dla-dzieci-i-walka-o-stolki-czym-wlasciwie-jest-rezim-w-iranie-i-czy-upadnie-st8850980?source=rss",
+      "pubDate": "Thu, 15 Jan 2026 19:53:39 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Sędzia: WBD nie musi ujawniać informacji o umowie z Netflixem",
+      "link": "https://www.wirtualnemedia.pl/sedzia-wbd-nie-musi-ujawniac-informacji-o-umowie-z-netflixem,7243774489417824a",
+      "pubDate": "Thu, 15 Jan 2026 20:53:26 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Gehenna benedyktynek trwała przez dekady. Wstrząsające wyniki śledztwa",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-gehenna-benedyktynek-trwala-przez-dekady-wstrzasajace-wyniki,nId,22509451",
+      "pubDate": "Thu, 15 Jan 2026 19:53:09 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Naukowcy znaleźli nowy stan materii, w którym elektrony zachowują się tak, jakby nie obowiązywały prawa fizyki",
+      "link": "https://www.chip.pl/2026/01/nowy-stan-materii-elektrony-lamia-prawa-fizyki",
+      "pubDate": "Thu, 15 Jan 2026 19:52:02 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Ambasador Iranu wezwany \"na dywanik\" w Warszawie",
+      "link": "https://tvn24.pl/polska/ambasador-iranu-w-polsce-eisa-kameli-wezwany-na-dywanik-do-msz-st8851607?source=rss",
+      "pubDate": "Thu, 15 Jan 2026 19:49:17 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Polskie Porty Lotnicze chcą przejąć lotnisko w Modlinie",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-polskie-porty-lotnicze-chca-wiekszosci-udzialow-na-lotnisku-w-modlinie-st8851586?source=rss",
@@ -259,6 +301,12 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-trzy-kraje-staraly-sie-odwiesc-trumpa-od-ataku-na-iran-w-ost,nId,8058172",
       "pubDate": "Thu, 15 Jan 2026 19:53:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Europa wysyła wojsko na Grenlandię. Dania planuje stałą obecność NATO",
+      "link": "https://www.rp.pl/polityka/art43644951-europa-wysyla-wojsko-na-grenlandie-dania-planuje-stala-obecnosc-nato",
+      "pubDate": "Thu, 15 Jan 2026 19:53:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Glapiński nie poruszył złotego. Konferencja prezesa NBP bez wpływu na rynki",
@@ -22429,6 +22477,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -66391,60 +66463,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-bylego-europosla-R-Czarneckiego-ws-kilometrowek-9064784.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 7 Jan 2026 16:13:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Przełom w badaniach nad rakiem skóry. Odkryto kluczowy mechanizm ochrony",
-      "link": "https://geekweek.interia.pl/medycyna/news-przelom-w-badaniach-nad-rakiem-skory-odkryto-kluczowy-mechan,nId,22505893",
-      "pubDate": "Wed, 07 Jan 2026 15:12:52 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Konfederacja z nowym rzecznikiem prasowym. Zastąpił Ewę Zajączkowską-Hernik",
-      "link": "https://www.wirtualnemedia.pl/konfederacja-z-nowym-rzecznikiem-prasowym-zastapil-ewe-zajaczkowska-hernik,7240849053661696a",
-      "pubDate": "Wed, 07 Jan 2026 16:11:39 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Kaczyński zwołał spotkanie PiS. Morawiecki miał wejść tylnymi drzwiami",
-      "link": "https://tvn24.pl/polska/kaczynski-zwolal-spotkanie-pis-morawiecki-mial-wejsc-tylnymi-drzwiami-st8835031?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:11:09 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Obydwaj twierdzą, że mieli zielone\". Jeden z kierowców nigdy nie miał prawa jazdy",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/sekocin-las-zderzenie-na-braci-lesnych-st8835174?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 15:11:06 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Jest pierwszy element pakietu antyblackoutowego. Chodzi o uporządkowanie OZE",
-      "link": "https://energia.rp.pl/sieci-przesylowe/art43600171-jest-pierwszy-element-pakietu-antyblackoutowego-chodzi-o-uporzadkowanie-oze",
-      "pubDate": "Wed, 07 Jan 2026 16:10:58 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Największa lotnicza porażka Rosji w XXI w. Ten samolot nie powinien powstać",
-      "link": "https://wiadomosci.onet.pl/swiat/najwieksza-lotnicza-porazka-rosji-w-xxi-w-ten-samolot-nie-powinien-powstac/f6mvtr8",
-      "pubDate": "Wed, 07 Jan 2026 15:10:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Man jailed for selling fatal chemical to encourage suicide in UK-first case",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/07/man-jailed-for-selling-fatal-chemical-to-encourage-suicide-in-uk-first-case",
-      "pubDate": "Wed, 07 Jan 2026 15:10:31 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Trump wywraca naftowy stolik. “Prognozy obarczone dużym ryzykiem”",
-      "link": "https://biznes.interia.pl/gospodarka/news-trump-wywraca-naftowy-stolik-prognozy-obarczone-duzym-ryzyki,nId,22505984",
-      "pubDate": "Wed, 07 Jan 2026 15:10:06 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Maduro's capture sparks African debate",
-      "link": "https://www.dw.com/en/maduro-s-capture-sparks-african-debate/a-75407413?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 7 Jan 2026 15:09:00 GMT",
-      "source": "DW"
     }
   ]
 }
