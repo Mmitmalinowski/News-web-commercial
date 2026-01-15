@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-15T22:27:45.218Z",
+  "generatedAt": "2026-01-15T22:47:49.103Z",
   "items": [
+    {
+      "title": "Trump press secretary launches tirade against reporter who asked about ICE",
+      "link": "https://www.theguardian.com/us-news/2026/jan/15/karoline-leavitt-journalist-tirade",
+      "pubDate": "Thu, 15 Jan 2026 22:27:33 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Aid workers cleared of human trafficking charges in Greece",
+      "link": "https://www.bbc.com/news/articles/c98j7n2xj1xo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 22:27:29 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Judge allows offshore wind farm halted by Trump to resume construction",
+      "link": "https://www.theguardian.com/us-news/2026/jan/15/wind-project-trump-judge",
+      "pubDate": "Thu, 15 Jan 2026 22:22:15 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Wołodymyr Zełenski odpowiada Donaldowi Trumpowi. Padły stanowcze słowa",
       "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-odpowiada-donaldowi-trumpowi-padly-stanowcze-slowa/zq2rx8m",
@@ -22915,6 +22933,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -66565,30 +66607,6 @@
       "link": "https://www.rp.pl/polityka/art43601201-amerykansko-rosyjskie-zaoczne-starcie-na-morzu",
       "pubDate": "Wed, 07 Jan 2026 17:30:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dzieci zdążyły dorosnąć, ale WIG20 w końcu sięgnął dawnego poziomu. Wzrosty przy słabym otoczeniu i ogromnych obrotach",
-      "link": "https://www.bankier.pl/wiadomosc/Dzieci-zdazyly-dorosnac-ale-WIG20-w-koncu-siegnal-dawnego-poziomu-Wzrosty-przy-slabym-otoczeniu-i-ogromnych-obrotach-9064860.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 7 Jan 2026 17:29:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Tak wyglądał pościg za rosyjskim tankowcem. Brytyjskie RAF wsparły USA",
-      "link": "https://wiadomosci.onet.pl/swiat/tak-wygladal-poscig-za-rosyjskim-tankowcem-brytyjskie-raf-wsparly-usa/0bbf77j",
-      "pubDate": "Wed, 07 Jan 2026 16:27:03 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "UE zaostrza kurs wobec Mercosuru. Krajewski: Wraca 5-procentowy próg ochronny dla rolników",
-      "link": "https://www.bankier.pl/wiadomosc/UE-zaostrza-kurs-wobec-Mercosuru-Krajewski-Wraca-5-procentowy-prog-ochronny-dla-rolnikow-9064857.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Wed, 7 Jan 2026 17:27:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Santander mówi \"adios\". Hiszpanie o wyjściu banku z Polski",
-      "link": "https://biznes.interia.pl/gospodarka/news-santander-zwija-zagle-wie-na-co-przeznaczy-nadwyzke-kapitalo,nId,22506072",
-      "pubDate": "Wed, 07 Jan 2026 16:26:26 GMT",
-      "source": "Biznes.interia.pl"
     }
   ]
 }
