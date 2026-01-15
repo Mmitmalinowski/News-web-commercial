@@ -1,6 +1,6 @@
 {
   "month": "2025-11",
-  "generatedAt": "2026-01-15T23:25:15.602Z",
+  "generatedAt": "2026-01-15T23:41:51.230Z",
   "items": [
     {
       "title": "Podatkowy flesz - terminy, wskaźniki i stawki 1-7 grudnia 2025 r.",
@@ -66063,6 +66063,30 @@
           "@_type": "application/atom+xml",
           "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
           "@_thr:count": "0"
+        }
+      ],
+      "pubDate": "2025-11-27T14:47:52Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Jak pokonać stres przed pierwszą rozmową rekrutacyjną?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pokonac-stres-przed-pierwsza-rozmowa-rekrutacyjna/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
         }
       ],
       "pubDate": "2025-11-27T14:47:52Z",
@@ -183441,6 +183465,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Jak pomóc sobie w szukaniu pracy w branży IT?",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/jak-pomoc-sobie-w-szukaniu-pracy-w-branzy-it/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "13",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-11-27T14:31:44Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "JSW drastycznie obcięła górnikom Barbórkę",
       "link": "https://businessinsider.com.pl/gospodarka/zle-wiesci-dla-gornikow-jsw-obciela-im-barborkowe/6ffnfkh",
       "pubDate": "Thu, 27 Nov 2025 14:31:05 GMT",
@@ -183756,18 +183804,6 @@
       "title": "Anti-abortion activist Joanna Howe claims her employer gave her immunity from complaints by pro-choice campaigners",
       "link": "https://www.theguardian.com/australia-news/2025/nov/27/anti-abortion-activist-joanna-howes-claims-her-employer-gave-her-immunity-from-complaints-by-pro-choice-campaigners-ntwnfb",
       "pubDate": "Thu, 27 Nov 2025 14:00:39 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "State Library of Victoria faces job cuts as staff accuse management of pursuing ‘digital vanity projects’",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/27/state-library-of-victoria-faces-job-cuts-as-staff-accuse-management-of-pursuing-digital-vanity-projects",
-      "pubDate": "Thu, 27 Nov 2025 14:00:38 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "‘How far is it going to escalate?’ Fear Santos gas plan in Beetaloo basin could be start of NT fracking rush",
-      "link": "https://www.theguardian.com/australia-news/2025/nov/27/santos-gas-plan-beetaloo-basin-northern-territory-fracking-fears",
-      "pubDate": "Thu, 27 Nov 2025 14:00:38 GMT",
       "source": "The Guardian"
     }
   ]
