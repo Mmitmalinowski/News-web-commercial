@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-15T09:54:58.918Z",
+  "generatedAt": "2026-01-15T10:21:01.422Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -47229,6 +47229,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -79165,12 +79189,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-szwedzi-wkroczyli-na-rosyjski-statek-sluzby-nie-mowia-wszyst,nId,22501816",
       "pubDate": "Sun, 21 Dec 2025 14:05:11 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Co się dzieje ze słynnym hotelem w Pobierowie? Pojechaliśmy sprawdzić",
-      "link": "https://businessinsider.com.pl/gospodarka/co-sie-dzieje-ze-slynnym-hotelem-w-pobierowie/lp64sw1",
-      "pubDate": "Sun, 21 Dec 2025 14:01:18 GMT",
-      "source": "Business Insider"
     }
   ]
 }
