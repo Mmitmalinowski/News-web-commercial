@@ -1,12 +1,48 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-15T21:58:45.968Z",
+  "generatedAt": "2026-01-15T22:27:45.218Z",
   "items": [
+    {
+      "title": "Wołodymyr Zełenski odpowiada Donaldowi Trumpowi. Padły stanowcze słowa",
+      "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-odpowiada-donaldowi-trumpowi-padly-stanowcze-slowa/zq2rx8m",
+      "pubDate": "Thu, 15 Jan 2026 22:19:29 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Afera wokół wyborów w Polsce 2050. Jest pierwsza dymisja ",
+      "link": "https://wydarzenia.interia.pl/kraj/news-afera-wokol-wyborow-w-polsce-2050-jest-pierwsza-dymisja,nId,22509496",
+      "pubDate": "Thu, 15 Jan 2026 22:16:35 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Venezuelan Nobel Peace Prize winner presents her medal to Trump",
+      "link": "https://www.bbc.com/news/articles/cx2w94wp4p1o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 22:08:24 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "US says it reached deal with Taiwan to lower tariffs and boost investments",
+      "link": "https://www.theguardian.com/us-news/2026/jan/15/us-taiwan-tariff-deal",
+      "pubDate": "Thu, 15 Jan 2026 22:07:12 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Corina Machado przyjęta w Białym Domu. \"Trump nie zmienił zdania\"",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-corina-machado-przyjeta-w-bialym-domu-trump-nie-zmienil-zdan,nId,8058184",
+      "pubDate": "Thu, 15 Jan 2026 23:03:38 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Polska reaguje na sytuację w Iranie. Ambasador wezwany do MSZ",
       "link": "https://wydarzenia.interia.pl/kraj/news-polska-reaguje-na-sytuacje-w-iranie-ambasador-wezwany-do-msz,nId,22509497",
       "pubDate": "Thu, 15 Jan 2026 21:54:55 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "San Francisco to make childcare free for families earning up to $230,000",
+      "link": "https://www.theguardian.com/us-news/2026/jan/15/san-francisco-childcare-families",
+      "pubDate": "Thu, 15 Jan 2026 21:49:45 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Unia Europejska ma własny Artykuł 5, nawet mocniejszy od tego w NATO. Dania może go użyć, by bronić Grenlandii",
@@ -17,6 +53,12 @@
     {
       "title": "Machado przekazała medal Pokojowej Nagrody Nobla Trumpowi",
       "link": "https://tvn24.pl/swiat/wenezuela-maria-corina-machado-przekazala-medal-pokojowej-nagrody-nobla-donaldowi-trumpowi-st8851673?source=rss",
+      "pubDate": "Thu, 15 Jan 2026 21:40:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Machado u Trumpa z medalem Pokojowej Nagrody Nobla",
+      "link": "https://tvn24.pl/swiat/wenezuela-maria-corina-machado-z-medalem-pokojowej-nagrody-nobla-u-donalda-trumpa-st8851673?source=rss",
       "pubDate": "Thu, 15 Jan 2026 21:40:07 GMT",
       "source": "TVN24"
     },
@@ -217,6 +259,12 @@
       "link": "https://www.theguardian.com/australia-news/live/2026/jan/16/hate-speech-legislation-political-reaction-anthony-albanese-labor-sussan-ley-coalition-greens-adelaide-festival-writers-week-backlash-sydney-protest-ban-ntwnfb",
       "pubDate": "Thu, 15 Jan 2026 20:25:11 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Iran authorities demanding large sums for return of protesters' bodies, BBC told",
+      "link": "https://www.bbc.com/news/articles/c4g5md1n1yxo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Thu, 15 Jan 2026 20:19:13 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Zamówienia dla wojska pod lupą. Coś tu wyraźnie zgrzyta",
@@ -22867,6 +22915,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -66517,60 +66589,6 @@
       "link": "https://biznes.interia.pl/gospodarka/news-santander-zwija-zagle-wie-na-co-przeznaczy-nadwyzke-kapitalo,nId,22506072",
       "pubDate": "Wed, 07 Jan 2026 16:26:26 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Reform London mayor candidate accused of talking down capital with ‘pity’ remark",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/07/reform-london-mayor-candidate-laila-cunningham-accused-talking-down-capital",
-      "pubDate": "Wed, 07 Jan 2026 16:24:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Myszy Logitech przestały działać na Macach. Ktoś zapomniał przedłużyć certyfikat",
-      "link": "https://www.chip.pl/2026/01/mysz-logitech-mac-nie-dziala-poprawka",
-      "pubDate": "Wed, 07 Jan 2026 16:24:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Tajemniczy zestaw do polowania na wampiry odnaleziony. To polski unikat",
-      "link": "https://tech.wp.pl/tajemniczy-zestaw-do-polowania-na-wampiry-odnaleziony-skrywal-go-futeral,7240861560412672a",
-      "pubDate": "Wed, 07 Jan 2026 17:24:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "UK helped US seize Russian-flagged tanker, defence ministry says",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/07/uk-helped-us-seize-russian-flagged-tanker-defence-ministry-says",
-      "pubDate": "Wed, 07 Jan 2026 16:23:59 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Popularna gra wprowadza zakazy na całym świecie. Chodzi o masowe pozwy",
-      "link": "https://android.com.pl/tech/1006947-gra-roblox-ograniczenia-czatow/",
-      "pubDate": "Wed, 07 Jan 2026 16:21:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Minister rolnictwa o umowie z Mercosurem. \"Chcielibyśmy zablokować\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-krajewski-o-umowie-z-mercosurem-musimy-wypracowac-jak-najlep,nId,22506093",
-      "pubDate": "Wed, 07 Jan 2026 16:20:54 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "‘How is it possible?’: Berliners demand answers after sabotage causes blackout",
-      "link": "https://www.theguardian.com/world/2026/jan/07/how-is-it-possible-berliners-demand-answers-after-sabotage-causes-blackout",
-      "pubDate": "Wed, 07 Jan 2026 16:20:06 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Ten robot humanoidalny trafi do fabryk i zastąpi ludzi",
-      "link": "https://geekweek.interia.pl/technologia/news-ten-robot-humanoidalny-trafi-do-fabryk-i-zastapi-ludzi,nId,22506060",
-      "pubDate": "Wed, 07 Jan 2026 16:20:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Nicolas Maduro nie musiał wylądować w amerykańskim areszcie? Jasna odpowiedź prezydenta Turcji",
-      "link": "https://wiadomosci.onet.pl/swiat/maduro-mogl-trafic-do-turcji-zamiast-aresztu-erdogan-stanowczo-odpowiada/v8g3t20",
-      "pubDate": "Wed, 07 Jan 2026 16:18:57 GMT",
-      "source": "Onet"
     }
   ]
 }
