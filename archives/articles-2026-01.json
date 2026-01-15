@@ -1,7 +1,49 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-15T11:44:17.180Z",
+  "generatedAt": "2026-01-15T11:54:02.971Z",
   "items": [
+    {
+      "title": "Sprawa Kamilka wraca do sądu. Najważniejsze fakty",
+      "link": "https://wiadomosci.onet.pl/kraj/sprawa-kamilka-wraca-do-sadu-najwazniejsze-fakty/rz7m0yq",
+      "pubDate": "Thu, 15 Jan 2026 11:51:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "\"Decyzja zapadła\". Kolejne myśliwce z Polski dla Ukrainy",
+      "link": "https://tech.wp.pl/decyzja-zapadla-kolejne-mysliwce-z-polski-dla-ukrainy,7243677074937984a",
+      "pubDate": "Thu, 15 Jan 2026 12:50:09 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Przegrzewające się wtyczki zasilania. Reaguj zanim będzie za późno",
+      "link": "https://tech.wp.pl/przegrzewajace-sie-wtyczki-zasilania-reaguj-zanim-bedzie-za-pozno,7243682867974721v",
+      "pubDate": "Thu, 15 Jan 2026 12:49:25 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "1600 osób na bruk. Gigant chce \"utrzymać kluczowe inwestycje\"",
+      "link": "https://tvn24.pl/biznes/tech/szwecja-1600-osob-na-bruk-ericsson-chce-utrzymac-kluczowe-inwestycje-st8850500?source=rss",
+      "pubDate": "Thu, 15 Jan 2026 11:47:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Przypadki groźnego wirusa na Uniwersytecie Warszawskim",
+      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-wirus-wzw-a-na-uniwersytecie-warszawskim-st8849975?source=rss",
+      "pubDate": "Thu, 15 Jan 2026 11:46:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Dramat w Świętochłowicach. Żaroodporne cegły przygniotły pracowników",
+      "link": "https://wiadomosci.onet.pl/slask/dramat-w-swietochlowicach-zaroodporne-cegly-przygniotly-pracownikow/7mv45mx",
+      "pubDate": "Thu, 15 Jan 2026 11:44:13 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Atak w centrum Lwowa. Słup ognia tuż przy spornym pomniku",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-atak-w-centrum-lwowa-slup-ognia-tuz-przy-spornym-pomniku,nId,22509237",
+      "pubDate": "Thu, 15 Jan 2026 11:42:35 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Violent thunderstorms trigger flash flooding along Australia's Great Ocean Road",
       "link": "http://www.euronews.com/video/2026/01/15/violent-thunderstorms-trigger-flash-flooding-along-australias-great-ocean-road",
@@ -121,6 +163,12 @@
       "link": "https://antyweb.pl/starozytne-znalezisko-w-zoladku-ma-ponad-14-tys-lat",
       "pubDate": "Thu, 15 Jan 2026 11:30:43 GMT",
       "source": "Antyweb"
+    },
+    {
+      "title": "More than 4.7m social media accounts blocked after Australia’s under-16 ban came into force, PM says",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/15/australia-u16-social-media-ban-millions-accounts-blocked",
+      "pubDate": "Thu, 15 Jan 2026 11:30:14 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Euronews journalists' voices stolen in fake anti-Ukraine videos",
@@ -18775,6 +18823,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -66103,60 +66175,6 @@
       "link": "https://android.com.pl/tech/1006741-nvidia-odkryla-jak-przetrwac/",
       "pubDate": "Wed, 07 Jan 2026 08:05:00 +0000",
       "source": "Android.com.pl"
-    },
-    {
-      "title": "Zima w Polsce się umacnia. Najsilniejsze śnieżyce w konkretnym regionie",
-      "link": "https://wydarzenia.interia.pl/kraj/news-zima-w-polsce-sie-umacnia-najsilniejsze-sniezyce-w-konkretny,nId,22505541",
-      "pubDate": "Wed, 07 Jan 2026 08:04:53 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "USA rozszerzają kosztowne wymagania wizowe. Nowe kraje na liście",
-      "link": "https://businessinsider.com.pl/wiadomosci/donald-trump-zaciesnia-polityke-wizowa-nowe-zasady-uderzaja-w-podroznych/vp0vepq",
-      "pubDate": "Wed, 07 Jan 2026 08:04:30 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Pijany wsiadł na quada i zabrał pasażerów. Jedna osoba zginęła, kierowca oskarżony",
-      "link": "https://tvn24.pl/katowice/myszkow-pijany-kierowca-quada-spowodowal-wypadek-akt-oskarzenia-st8834088?source=rss",
-      "pubDate": "Wed, 07 Jan 2026 08:03:30 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wiceminister infrastruktury o sytuacji po aktach dywersji na kolei. Mówi o \"głupich żartach\"",
-      "link": "https://wiadomosci.onet.pl/kraj/sytuacja-po-aktach-dywersji-na-kolei-wiceminister-infrastruktury-mowi-o-glupich/3x7k18b",
-      "pubDate": "Wed, 07 Jan 2026 08:01:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Germany news: Berlin blackout to end as terror probe opened",
-      "link": "https://www.dw.com/en/germany-news-berlin-blackout-to-end-as-terror-probe-opened/live-75415059?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Wed, 7 Jan 2026 08:01:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "MSI na CES pokazuje nowości w każdym segmencie rynku",
-      "link": "https://antyweb.pl/msi-na-ces-pokazuje-nowosci-w-kazdym-segmencie-rynku",
-      "pubDate": "Wed, 07 Jan 2026 08:00:58 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Karol Nawrocki spotka się z Donaldem Tuskiem. Jest wstępna data rozmowy",
-      "link": "https://www.rmf24.pl/polityka/news-karol-nawrocki-spotka-sie-z-donaldem-tuskiem-jest-wstepna-da,nId,8055716",
-      "pubDate": "Wed, 07 Jan 2026 09:00:15 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Ostatni dzień promocji Business Insidera i Onet Premium. Wyjątkowe oferty [AUTOPROMOCJA]",
-      "link": "https://businessinsider.com.pl/wiadomosci/ostatni-dzien-promocji-bi-i-onet-premium-autopromocja/hpg81vt",
-      "pubDate": "Wed, 07 Jan 2026 08:00:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ethiopians gather for Orthodox Christmas Eve candlelight ceremony",
-      "link": "http://www.euronews.com/video/2026/01/07/ethiopians-gather-for-orthodox-christmas-eve-candlelight-ceremony",
-      "pubDate": "Wed, 07 Jan 2026 08:58:08 +0100",
-      "source": "Euronews"
     }
   ]
 }
