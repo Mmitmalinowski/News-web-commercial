@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-16T20:42:18.617Z",
+  "generatedAt": "2026-01-16T20:54:27.004Z",
   "items": [
+    {
+      "title": "​W Tatrach lawiny mogą schodzić samoczynnie. Trzeci stopień zagrożenia",
+      "link": "https://www.rmf24.pl/regiony/zakopane/news-w-tatrach-lawiny-moga-schodzic-samoczynnie-trzeci-stopien-za,nId,8058401",
+      "pubDate": "Fri, 16 Jan 2026 21:41:38 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Karol Nawrocki na prestiżowym forum ekonomicznym. Wiadomo, z kim się spotka",
       "link": "https://businessinsider.com.pl/gospodarka/karol-nawrocki-i-donald-trump-na-jednym-forum-oto-plany-prezydenta/zxthwj1",
@@ -30547,6 +30553,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67477,18 +67507,6 @@
       "link": "https://tech.wp.pl/nato-nie-moze-sie-ich-nachwalic-bija-kolejny-rekord,7241262339771360a",
       "pubDate": "Thu, 08 Jan 2026 17:15:41 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Możliwe przejęcie InPostu. Banki gotowe udzielić ogromnego kredytu",
-      "link": "https://biznes.interia.pl/gospodarka/news-media-advent-prowadzi-rozmowy-z-rafalem-brzoska-i-ppf-banki,nId,22506538",
-      "pubDate": "Thu, 08 Jan 2026 16:15:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Matka trafiła do aresztu, dzieci do ośrodka Jugendamtu. Jest decyzja niemieckiego sądu",
-      "link": "https://tvn24.pl/szczecin/matka-trafila-do-aresztu-dzieci-do-osrodka-jugendamtu-jest-decyzja-niemieckiego-sadu-st8836150?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:13:22 GMT",
-      "source": "TVN24"
     }
   ]
 }

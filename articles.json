@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-16T20:42:18.884Z",
+  "generatedAt": "2026-01-16T20:54:27.277Z",
   "items": [
+    {
+      "title": "​W Tatrach lawiny mogą schodzić samoczynnie. Trzeci stopień zagrożenia",
+      "link": "https://www.rmf24.pl/regiony/zakopane/news-w-tatrach-lawiny-moga-schodzic-samoczynnie-trzeci-stopien-za,nId,8058401",
+      "pubDate": "Fri, 16 Jan 2026 21:41:38 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Karol Nawrocki na prestiżowym forum ekonomicznym. Wiadomo, z kim się spotka",
       "link": "https://businessinsider.com.pl/gospodarka/karol-nawrocki-i-donald-trump-na-jednym-forum-oto-plany-prezydenta/zxthwj1",
@@ -30546,6 +30552,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67476,18 +67506,6 @@
       "link": "https://tech.wp.pl/nato-nie-moze-sie-ich-nachwalic-bija-kolejny-rekord,7241262339771360a",
       "pubDate": "Thu, 08 Jan 2026 17:15:41 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Możliwe przejęcie InPostu. Banki gotowe udzielić ogromnego kredytu",
-      "link": "https://biznes.interia.pl/gospodarka/news-media-advent-prowadzi-rozmowy-z-rafalem-brzoska-i-ppf-banki,nId,22506538",
-      "pubDate": "Thu, 08 Jan 2026 16:15:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Matka trafiła do aresztu, dzieci do ośrodka Jugendamtu. Jest decyzja niemieckiego sądu",
-      "link": "https://tvn24.pl/szczecin/matka-trafila-do-aresztu-dzieci-do-osrodka-jugendamtu-jest-decyzja-niemieckiego-sadu-st8836150?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 16:13:22 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -116612,6 +116630,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -148074,12 +148116,6 @@
       "link": "https://wiadomosci.onet.pl/lublin/ogromne-kolejki-tirow-na-granicy-z-ukraina-kierowcy-musza-czekac-nawet-36-godzin/5gy22q6",
       "pubDate": "Sun, 21 Dec 2025 16:20:36 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Lampa V16 zamiast trójkąta. Co oznaczają przepisy z Hiszpanii dla Polski",
-      "link": "https://android.com.pl/moto/1003478-lampa-v16-zamiast-trojkata-polska/",
-      "pubDate": "Sun, 21 Dec 2025 16:20:00 +0000",
-      "source": "Android.com.pl"
     }
   ],
   "totalArticles": 20000,
