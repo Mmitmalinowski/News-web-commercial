@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-16T21:37:32.382Z",
+  "generatedAt": "2026-01-16T21:48:54.417Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -49197,6 +49197,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -80641,12 +80665,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/awaria-pradu-sparalizowala-san-francisco-130-tys-osob-bez-zasilania/cs2sym5",
       "pubDate": "Sun, 21 Dec 2025 16:27:06 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Polowanie na czerwony... tankowiec. USA próbuje zatrzymać okręt u wybrzeży Wenezueli",
-      "link": "https://www.bankier.pl/wiadomosc/Polowanie-na-czerwony-tankowiec-USA-probuje-zatrzymac-okret-u-wybrzezy-Wenezueli-9059370.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 21 Dec 2025 17:26:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
