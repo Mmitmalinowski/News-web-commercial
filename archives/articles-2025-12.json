@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-16T10:53:10.725Z",
+  "generatedAt": "2026-01-16T11:12:15.181Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -48501,6 +48501,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -80119,12 +80143,6 @@
       "link": "http://www.euronews.com/2025/12/21/dozens-of-epstein-files-have-disappeared-from-government-website",
       "pubDate": "Sun, 21 Dec 2025 16:31:01 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Metroid Prime 4: Beyond – recenzja. Miała być rewolucja, jest rozczarowanie",
-      "link": "https://antyweb.pl/metroid-prime-4-beyond-recenzja",
-      "pubDate": "Sun, 21 Dec 2025 15:30:05 GMT",
-      "source": "Antyweb"
     }
   ]
 }
