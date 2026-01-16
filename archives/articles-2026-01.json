@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-16T22:55:59.450Z",
+  "generatedAt": "2026-01-16T23:19:31.103Z",
   "items": [
+    {
+      "title": "Kalendarium - sobota 17 stycznia",
+      "link": "https://pro.rp.pl/kalendarium/art43650241-kalendarium-sobota-17-stycznia",
+      "pubDate": "Sat, 17 Jan 2026 00:07:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Chaos w Polsce 2050 nie ustaje. Przerwa w obradach Rady Krajowej",
       "link": "https://wiadomosci.onet.pl/kraj/chaos-w-polsce-2050-nie-ustaje-przerwa-w-obradach-rady-krajowej/xwt5nyc",
@@ -23,6 +29,12 @@
     {
       "title": "Wybory przewodniczącego partii. Polska 2050 podjęła decyzję",
       "link": "https://wydarzenia.interia.pl/kraj/news-wybory-przewodniczacego-partii-polska-2050-podjela-decyzje,nId,22509520",
+      "pubDate": "Fri, 16 Jan 2026 22:37:36 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Co z wyborami przewodniczącego Polski 2050? Partia wydała komunikat",
+      "link": "https://wydarzenia.interia.pl/kraj/news-co-z-wyborami-przewodniczacego-polski-2050-partia-wydala-kom,nId,22509520",
       "pubDate": "Fri, 16 Jan 2026 22:37:36 GMT",
       "source": "Interia"
     },
@@ -4415,6 +4427,12 @@
     {
       "title": "Greenland: Trump signals tariffs on nations that oppose goal",
       "link": "https://www.dw.com/en/greenland-trump-signals-tariffs-on-nations-that-oppose-goal/live-75533548?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 16 Jan 2026 10:31:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Trump signals tariffs on nations that oppose Greenland goal",
+      "link": "https://www.dw.com/en/trump-signals-tariffs-on-nations-that-oppose-greenland-goal/live-75533548?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 16 Jan 2026 10:31:00 GMT",
       "source": "DW"
     },
@@ -30745,6 +30763,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67590,30 +67632,6 @@
       "title": "Ślepi na \"szare łabędzie\". Cztery lata temu świat zignorował znaki zapowiadające wojnę w Ukrainie. Teraz może popełnić ten sam błąd [OPINIA]",
       "link": "https://wiadomosci.onet.pl/swiat/swiat-zignorowal-znaki-zapowiadajace-wojne-w-ukrainie-moze-popelnic-podobny-blad/20rv563",
       "pubDate": "Thu, 08 Jan 2026 16:51:38 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Gmail zmieni się nie do poznania. Nie każdy będzie zachwycony",
-      "link": "https://spidersweb.pl/2026/01/gmail-zmieni-sie-nie-do-poznania.html",
-      "pubDate": "Thu, 08 Jan 2026 17:49:10 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Macron z ponurą diagnozą, uderza w Trumpa. \"Odwraca się od sojuszników\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-macron-z-ponura-diagnoza-uderza-w-trumpa-odwraca-sie-od-soju,nId,22506512",
-      "pubDate": "Thu, 08 Jan 2026 16:48:20 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zmiana adresu Gmail. Nowa funkcja to okazja dla oszustów",
-      "link": "https://android.com.pl/tech/1007262-zmiana-adresu-gmail-oszusci/",
-      "pubDate": "Thu, 08 Jan 2026 16:48:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Niepokojące doniesienia z Wenezueli. \"Gangi przejmują kontrolę\"",
-      "link": "https://wiadomosci.onet.pl/swiat/niepokojace-doniesienia-z-wenezueli-gangi-przejmuja-kontrole/92p43pq",
-      "pubDate": "Thu, 08 Jan 2026 16:47:03 GMT",
       "source": "Onet"
     }
   ]
