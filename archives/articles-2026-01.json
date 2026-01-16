@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-16T21:48:54.349Z",
+  "generatedAt": "2026-01-16T21:58:05.376Z",
   "items": [
+    {
+      "title": "Donald Trump zakpił z europejskiego przywódcy. \"Powiedziałem mu...\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-donald-trump-zakpil-z-europejskiego-przywodcy-powiedzialem-m,nId,22509886",
+      "pubDate": "Fri, 16 Jan 2026 21:50:02 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Mistrzostwa Europy. Polakom zabrakło armat",
       "link": "https://sport.rp.pl/pilka-reczna/art43650611-mistrzostwa-europy-polakom-zabraklo-armat",
@@ -30685,6 +30691,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67549,18 +67579,6 @@
       "link": "http://www.euronews.com/my-europe/2026/01/08/belgium-urges-eu-to-use-aid-as-bargaining-chip-to-increase-migrant-deportations",
       "pubDate": "Thu, 08 Jan 2026 17:35:20 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Tak wygląda zestaw do polowania na wampiry. Jedyny taki w Polsce",
-      "link": "https://geekweek.interia.pl/historia/news-tak-wyglada-zestaw-do-polowania-na-wampiry-unikat-na-skale-p,nId,22506469",
-      "pubDate": "Thu, 08 Jan 2026 16:35:05 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "EU–Jordan summit signals Brussels' bid for influence in a volatile Middle East",
-      "link": "https://www.dw.com/en/eu-jordan-summit-signals-brussels-bid-for-influence-in-a-volatile-middle-east/a-75437904?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 8 Jan 2026 16:35:00 GMT",
-      "source": "DW"
     }
   ]
 }
