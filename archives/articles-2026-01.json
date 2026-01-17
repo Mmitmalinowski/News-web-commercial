@@ -1,7 +1,37 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T05:27:31.791Z",
+  "generatedAt": "2026-01-17T05:44:39.369Z",
   "items": [
+    {
+      "title": "Milionowa kaucja i zakaz opuszczania kraju dla Tymoszenko",
+      "link": "https://tvn24.pl/swiat/ukraina-wyzszy-sad-antykorupcyjny-tymoszenko-ma-wplacic-kaucje-i-nie-moze-opuszczac-kraju-st8853288?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 05:41:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ile wynosi zachowek od darowizny mieszkania? Tak go obliczysz ",
+      "link": "https://biznes.interia.pl/finanse/news-zachowek-od-darowizny-mieszkania-nawet-przy-pustym-testamenc,nId,22506319",
+      "pubDate": "Sat, 17 Jan 2026 05:40:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Polityczne trzęsienie ziemi w Polsce 2050. Kto pokieruje partią Szymona Hołowni?",
+      "link": "https://www.rmf24.pl/polityka/news-polityczne-trzesienie-ziemi-w-polsce-2050-kto-pokieruje-part,nId,8058412",
+      "pubDate": "Sat, 17 Jan 2026 06:38:21 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Mieszkam w Szwajcarii od 5 lat. Oto sześć największych błędów, które widzę u osób odwiedzających ten kraj po raz pierwszy",
+      "link": "https://businessinsider.com.pl/lifestyle/wakacje-w-szwajcarii-jak-sie-przygotowac-unikaj-tych-bledow/n1hbnkl",
+      "pubDate": "Sat, 17 Jan 2026 05:28:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "\"Jest bardziej prawdopodobne, że Putin umrze, niż że zostanie odsunięty od władzy\"",
+      "link": "https://tvn24.pl/swiat/co-zmieni-smierc-putina-rozmowa-z-ianem-garnerem-st8832415?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 05:25:05 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Brytyjczycy zmienią granicę wieku rezerwistów",
       "link": "https://tvn24.pl/swiat/wielka-brytania-zmienia-granice-wieku-rezerwistow-st8853290?source=rss",
@@ -31153,6 +31183,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67759,42 +67813,6 @@
       "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-08-01-2026-7241297159289344a.html",
       "pubDate": "Thu, 08 Jan 2026 18:54:17 +0100",
       "source": "Money.pl"
-    },
-    {
-      "title": "Rynek deweloperski. „Wojna cenowa jeszcze potrwa”",
-      "link": "https://www.rp.pl/nieruchomosci/art43608821-rynek-deweloperski-wojna-cenowa-jeszcze-potrwa",
-      "pubDate": "Thu, 08 Jan 2026 18:53:34 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 08.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-08-01-2026-7241296869497344a.html",
-      "pubDate": "Thu, 08 Jan 2026 18:53:06 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Orlen testuje nowy rodzaj usług. Na stacji paliw zrobisz pranie i zjesz pizzę",
-      "link": "https://businessinsider.com.pl/wiadomosci/na-stacji-orlenu-zrobisz-pranie-i-zjesz-pizze-klienci-sa-zainteresowani/q4wg8n6",
-      "pubDate": "Thu, 08 Jan 2026 17:52:29 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Cały kraj odcięty od sieci. Chaos w Iranie, policja otworzyła ogień",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-caly-kraj-odciety-od-sieci-chaos-w-iranie-policja-otworzyla,nId,22506575",
-      "pubDate": "Thu, 08 Jan 2026 17:52:01 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "​Była matką trójki dzieci, poetką. W USA wrze po zastrzeleniu Renee Good",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-byla-matka-trojki-dzieci-poetka-w-usa-wrze-po-zastrzeleniu-r,nId,8056296",
-      "pubDate": "Thu, 08 Jan 2026 18:51:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Bunt w Partii Republikańskiej? Pięciu senatorów zagłosowało za ograniczeniem uprawnień Trumpa",
-      "link": "https://www.rp.pl/polityka/art43609001-bunt-w-partii-republikanskiej-pieciu-senatorow-zaglosowalo-za-ograniczeniem-uprawnien-trumpa",
-      "pubDate": "Thu, 08 Jan 2026 18:51:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
