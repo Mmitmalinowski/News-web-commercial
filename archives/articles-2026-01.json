@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T21:32:47.885Z",
+  "generatedAt": "2026-01-17T21:44:17.808Z",
   "items": [
+    {
+      "title": "Spór na linii Europa-USA zaostrza się. W niedzielę nadzwyczajne spotkanie w Brukseli",
+      "link": "https://wiadomosci.onet.pl/swiat/europa-reaguje-na-zapowiedzi-trumpa-zwolano-nadzwyczajne-spotkanie-w-brukseli/czegplt",
+      "pubDate": "Sat, 17 Jan 2026 21:34:06 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Kto po Jarosławie Kaczyńskim? Polacy wskazali następcę prezesa PiS",
       "link": "https://wydarzenia.interia.pl/kraj/news-kto-po-jaroslawie-kaczynskim-polacy-wskazali-nastepce-prezes,nId,22510021",
@@ -41175,6 +41181,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68773,18 +68803,6 @@
       "link": "https://www.rmf24.pl/regiony/slaskie/news-gigantyczny-przekret-w-parafiach-duchowni-wsrod-oskarzonych-,nId,8056426",
       "pubDate": "Fri, 09 Jan 2026 10:59:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Poczta Polska będzie trochę jak Cepelia. Oby nie skończyło się na magnesach z Chin",
-      "link": "https://spidersweb.pl/2026/01/poczta-polska-postawi-na-lokalnosc.html",
-      "pubDate": "Fri, 09 Jan 2026 10:57:52 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Fundacja Helsińska: nowy system wyborczy do KRS będzie premiował sędziów rejonowych",
-      "link": "https://www.rp.pl/sady-i-trybunaly/art43611711-fundacja-helsinska-nowy-system-wyborczy-do-krs-bedzie-premiowal-sedziow-rejonowych",
-      "pubDate": "Fri, 09 Jan 2026 10:57:24 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
