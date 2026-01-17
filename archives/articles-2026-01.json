@@ -1,7 +1,49 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T20:46:39.760Z",
+  "generatedAt": "2026-01-17T20:56:13.139Z",
   "items": [
+    {
+      "title": "Japan: Popular Prime Minister Takaichi calls early election",
+      "link": "https://www.dw.com/en/japan-popular-prime-minister-takaichi-calls-early-election/a-75550678?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 20:55:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Znają plany Rosji, Ukraina bije na alarm. \"Katastrofalne skutki\"",
+      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-znaja-plany-rosji-ukraina-bije-na-alarm-nowe-masowe-uderzeni,nId,22510026",
+      "pubDate": "Sat, 17 Jan 2026 20:49:35 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Spain submits 79 military modernisation programmes for NATO review",
+      "link": "http://www.euronews.com/2026/01/17/spain-submits-79-military-modernisation-programmes-for-nato-review",
+      "pubDate": "Sat, 17 Jan 2026 21:48:41 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "UE zwołuje nadzwyczajne spotkanie. Chodzi o groźby Trumpa",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-ue-zwoluje-nadzwyczajne-spotkanie-chodzi-o-grozby-trumpa,nId,8058473",
+      "pubDate": "Sat, 17 Jan 2026 21:47:12 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Zarabiają niecałe cztery złote dziennie. Dramat rolników w Pakistanie",
+      "link": "https://businessinsider.com.pl/wideo/kryzys-klimatyczny-niszczy-rolnictwo-w-pakistanie-rolnicy-w-dramatycznej-sytuacji/hblz1sh",
+      "pubDate": "Sat, 17 Jan 2026 20:47:12 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Tragedia w Myjomicach. Znamy prawdopodobną przyczynę pożaru",
+      "link": "https://wiadomosci.onet.pl/poznan/tragiczny-pozar-w-myjomicach-znamy-mozliwa-przyczyne-pozaru-przegrzana-bateria/jej5f1n",
+      "pubDate": "Sat, 17 Jan 2026 20:47:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "EU vows coordinated response to Trump's tariffs threat over Greenland sale",
+      "link": "http://www.euronews.com/my-europe/2026/01/17/eu-vows-coordinated-response-to-trumps-tariffs-threat-over-greenland-sale",
+      "pubDate": "Sat, 17 Jan 2026 21:46:30 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "To pytanie rozgrzewa opinię publiczną. Kto zastąpi Jarosława Kaczyńskiego? [SONDAŻ]",
       "link": "https://businessinsider.com.pl/polityka/prezes-pis-po-jaroslawie-kaczynskim-to-typy-polakow-sondaz/6kz87lq",
@@ -119,6 +161,12 @@
     {
       "title": "Greenland row: EU weighing response to Trump tariff plan",
       "link": "https://www.dw.com/en/greenland-row-eu-weighing-response-to-trump-tariff-plan/live-75550031?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 19:44:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "EU pushes back against Trump's latest tariff moves, warns of 'dangerous downward spiral.' Follow live",
+      "link": "https://www.dw.com/en/eu-pushes-back-against-trump-s-latest-tariff-moves-warns-of-dangerous-downward-spiral-follow-live/live-75550031?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 17 Jan 2026 19:44:00 GMT",
       "source": "DW"
     },
@@ -41007,6 +41055,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68677,60 +68749,6 @@
       "link": "https://tvn24.pl/tvnmeteo/polska/mroz-w-polsce-ponizej-20-stopni-pokazujecie-jak-zimno-jest-u-was-st8837672?source=rss",
       "pubDate": "Fri, 09 Jan 2026 09:52:52 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Karty płatnicze znikną w ciągu czterech lat. Oto jak będziemy płacić",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-karty-platnicze-znikna-w-ciagu-czterech-lat-oto-jak-bedziemy,nId,8056416",
-      "pubDate": "Fri, 09 Jan 2026 10:51:43 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Będzie podatek od tacy? Co z likwidacją Funduszu Kościelnego? Minister odpowiada",
-      "link": "https://www.rmf24.pl/ekonomia/news-bedzie-podatek-od-tacy-co-z-likwidacja-funduszu-koscielnego-,nId,8056407",
-      "pubDate": "Fri, 09 Jan 2026 10:51:24 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Trump claims to have cancelled ‘previously expected’ second wave of attacks on Venezuela – US politics live",
-      "link": "https://www.theguardian.com/us-news/live/2026/jan/09/trump-venezuela-oil-attacks-minnesota-portland-ice-supreme-court-tariffs-latest-news-updates",
-      "pubDate": "Fri, 09 Jan 2026 09:49:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Trwa decydujące spotkanie w sprawie umowy Mercosur. Francuscy rolnicy protestują",
-      "link": "https://wiadomosci.onet.pl/swiat/trwa-decydujace-spotkanie-o-umowie-mercosur-rolnicy-protestuja-we-francji/bvzerg0",
-      "pubDate": "Fri, 09 Jan 2026 09:49:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Elon Musk's Grok AI image editing limited to paid X users after deepfakes",
-      "link": "https://www.bbc.com/news/articles/c99kn52nx9do?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 09:48:22 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Tak może wyglądać Samsung Galaxy S26. Nowe rendery zdradzają więcej",
-      "link": "https://android.com.pl/tech/1007654-tak-moze-wygladac-samsung-galaxy-s26/",
-      "pubDate": "Fri, 09 Jan 2026 09:47:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Ważą się losy brutalistycznego ratusza. Wyburzyć, sprzedać czy remontować?",
-      "link": "https://sukces.rp.pl/architektura/art43394941-waza-sie-losy-brutalistycznego-ratusza-wyburzyc-sprzedac-czy-remontowac",
-      "pubDate": "Fri, 09 Jan 2026 10:46:23 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kometa 3I/Atlas ma coś, co wymyka się logice. \"To nie jest iluzja\"",
-      "link": "https://spidersweb.pl/2026/01/kometa-3i-atlas-orientacja-dzet.html",
-      "pubDate": "Fri, 09 Jan 2026 10:46:23 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Trump ogłasza w sprawie Wenezueli. Nagła zmiana planów",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-oglasza-w-sprawie-wenezueli-nagla-zmiana-planow,nId,22506770",
-      "pubDate": "Fri, 09 Jan 2026 09:46:04 GMT",
-      "source": "Interia"
     }
   ]
 }
