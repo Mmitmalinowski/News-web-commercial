@@ -1,9 +1,39 @@
 {
-  "generatedAt": "2026-01-17T16:47:46.520Z",
+  "generatedAt": "2026-01-17T16:56:51.565Z",
   "items": [
+    {
+      "title": "Donald Trump ogłasza nowe cła na sojuszników USA z Europy. Poszło o Grenlandię",
+      "link": "https://www.rp.pl/polityka/art43653811-donald-trump-oglasza-nowe-cla-na-sojusznikow-usa-z-europy-poszlo-o-grenlandie",
+      "pubDate": "Sat, 17 Jan 2026 17:52:31 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Krakowska strefa rodzi się w bólach ",
+      "link": "https://tvn24.pl/krakow/krakow-pierwsze-dwa-tygodnie-dzialania-sct-protesty-wandalizm-oplaty-wyrok-st8851437?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 16:51:28 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Donald Trump mówi bez ogródek w ekskluzywnym wywiadzie dla mediów Axel Springer. \"Czas, by w Iranie poszukać nowego przywództwa\"",
+      "link": "https://wiadomosci.onet.pl/politico/donald-trump-mowi-bez-ogrodek-w-ekskluzywnym-wywiadzie-dla-mediow-axel-springer-czas/g4bcf1p",
+      "pubDate": "Sat, 17 Jan 2026 16:49:21 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Donald Trump przeszedł do czynów. Nakłada cła na kraje wspierające Grenlandię",
+      "link": "https://businessinsider.com.pl/finanse/handel/donald-trump-przeszedl-do-czynow-naklada-cla-na-kraje-wspierajace-grenlandie/lbvmgyh",
+      "pubDate": "Sat, 17 Jan 2026 16:46:22 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Trump sets tariffs on some European nations over Greenland",
       "link": "https://www.dw.com/en/trump-sets-tariffs-on-some-european-nations-over-greenland/a-75549367?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 16:46:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Trump to impose tariffs on European nations over Greenland",
+      "link": "https://www.dw.com/en/trump-to-impose-tariffs-on-european-nations-over-greenland/a-75549367?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 17 Jan 2026 16:46:00 GMT",
       "source": "DW"
     },
@@ -12,6 +42,18 @@
       "link": "https://logistyka.rp.pl/rynek/art43653801-nie-tylko-warszawa-pociagnie-rynek-magazynowy",
       "pubDate": "Sat, 17 Jan 2026 17:44:50 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Donald Trump zapowiada cła na europejskich sojuszników. Chodzi o Grenlandię",
+      "link": "https://tvn24.pl/swiat/grenlandia-usa-donald-trump-grozi-europejczykom-clami-st8854221?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 16:43:39 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ilu cudzoziemców legalnie pracuje w Polsce?",
+      "link": "https://www.rmf24.pl/fakty/polska/news-ilu-cudzoziemcow-legalnie-pracuje-w-polsce,nId,8058458",
+      "pubDate": "Sat, 17 Jan 2026 17:42:19 +0100",
+      "source": "RMF24"
     },
     {
       "title": "Czy chiński smok pożre Koreańczyków? Samsung i LG powoli tracą rynek telewizorów",
@@ -39884,6 +39926,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68411,54 +68477,6 @@
       "title": "\"Dziwaczny\" wypadek gitarzysty Foo Fighters. Jest oświadczenie zespołu",
       "link": "https://www.rmf24.pl/kultura/news-dziwaczny-wypadek-gitarzysty-foo-fighters-jest-oswiadczenie-,nId,8056382",
       "pubDate": "Fri, 09 Jan 2026 09:05:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Russia hits Ukraine with rarely-used Oreshnik missile in fresh strikes",
-      "link": "https://www.bbc.com/news/articles/cgqe9kv9xxvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 08:04:56 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Zapytali Polaków o przyjęcie euro. Zdecydowana deklaracja",
-      "link": "https://biznes.interia.pl/polityka/news-przyjecie-euro-w-polsce-za-takim-scenariuszem-opowiadaja-sie,nId,22506671",
-      "pubDate": "Fri, 09 Jan 2026 08:03:52 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Za nami noc mocno na minusie. A to dopiero początek",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/mroz-w-polsce-za-nami-noc-mocno-na-minusie-a-to-dopiero-poczatek-st8837499?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 08:03:08 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Euro w Polsce. Oto co myśli 70 proc. Polaków",
-      "link": "https://biznes.interia.pl/finanse/news-polacy-maja-jasne-zdanie-w-sprawie-wprowadzenia-euro-tak-zag,nId,22506681",
-      "pubDate": "Fri, 09 Jan 2026 08:02:02 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Już wiemy skąd słabe wyniki Tesli. Europa ma jej dość",
-      "link": "https://antyweb.pl/juz-wiemy-skad-slabe-wyniki-tesli-europa-ma-jej-dosc",
-      "pubDate": "Fri, 09 Jan 2026 08:00:22 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Wraca temat podatku cyfrowego. To rozwiązanie przyjmie Trump?",
-      "link": "https://biznes.interia.pl/gospodarka/news-w-rzadzie-wraca-podatek-cyfrowy-uklon-w-strone-usa-cios-dla,nId,22506679",
-      "pubDate": "Fri, 09 Jan 2026 07:57:45 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Węgry udzieliły azylu dwóm Polakom. \"Wysłano list\"",
-      "link": "https://wiadomosci.onet.pl/swiat/wegry-udzielily-azylu-dwom-polakom-wyslano-list/7fp36qe",
-      "pubDate": "Fri, 09 Jan 2026 07:57:24 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rosjanie zaatakowali Oriesznikiem. Pocisk spadł blisko granicy z Polską",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-rosjanie-zaatakowali-oriesznikiem-pocisk-spadl-blisko-granic,nId,8056369",
-      "pubDate": "Fri, 09 Jan 2026 08:57:00 +0100",
       "source": "RMF24"
     },
     {
@@ -118880,6 +118898,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -150018,12 +150060,6 @@
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-22-12-lokalnie-wciaz-maja-snuc-sie-mgly-st8812711?source=rss",
       "pubDate": "Sun, 21 Dec 2025 18:38:24 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Rzecznik Billa Clintona: Biały Dom robi z niego kozła ofiarnego ws. Epsteina",
-      "link": "https://www.rp.pl/polityka/art43545071-rzecznik-billa-clintona-bialy-dom-robi-z-niego-kozla-ofiarnego-ws-epsteina",
-      "pubDate": "Sun, 21 Dec 2025 19:34:51 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
   "totalArticles": 20000,
