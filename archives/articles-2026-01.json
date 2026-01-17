@@ -1,6 +1,6 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T22:13:12.331Z",
+  "generatedAt": "2026-01-17T22:35:33.419Z",
   "items": [
     {
       "title": "„Nie damy się szantażować”. Przywódcy z Europy odpowiadają Trumpowi na groźby ceł. W tle Grenlandia",
@@ -41271,6 +41271,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68832,12 +68856,6 @@
       "title": "White House unleashes torrent of untruths after woman shot dead by ICE",
       "link": "https://www.theguardian.com/us-news/2026/jan/09/white-house-minneapolis-ice-killing",
       "pubDate": "Fri, 09 Jan 2026 10:00:35 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Alzheimer’s therapies should target a particular gene, researchers say",
-      "link": "https://www.theguardian.com/society/2026/jan/09/alzheimers-therapies-target-apoe-gene-variants-researchers-say",
-      "pubDate": "Fri, 09 Jan 2026 10:00:34 GMT",
       "source": "The Guardian"
     }
   ]
