@@ -1,6 +1,6 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T22:49:05.884Z",
+  "generatedAt": "2026-01-17T22:58:36.991Z",
   "items": [
     {
       "title": "Australia news live: woman dead in powerful storm as landslide and flood warnings issued for Sydney",
@@ -41331,6 +41331,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68869,12 +68893,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-ciagniki-zablokuja-warszawe-wielki-protest-policja-ostrzega,nId,22506727",
       "pubDate": "Fri, 09 Jan 2026 10:02:32 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Germany news: Winter storm halts train service in north",
-      "link": "https://www.dw.com/en/germany-news-winter-storm-halts-train-service-in-north/live-75446137?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 10:02:00 GMT",
-      "source": "DW"
     }
   ]
 }
