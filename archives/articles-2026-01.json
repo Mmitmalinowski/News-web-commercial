@@ -1,6 +1,6 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T03:26:21.942Z",
+  "generatedAt": "2026-01-17T04:07:19.728Z",
   "items": [
     {
       "title": "US issues 'military activity' flight advisory over Latin America",
@@ -30973,6 +30973,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67717,12 +67741,6 @@
       "link": "https://www.rp.pl/polityka/art43606621-czego-bedzie-dotyczyc-delikatne-spotkanie-w-cztery-oczy-donalda-tuska-z-karolem-nawrockim",
       "pubDate": "Thu, 08 Jan 2026 18:24:46 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Mocne słowa Macrona o USA. \"Odwracają się od swoich sojuszników\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-08/mocne-slowa-macrona-o-usa-odwracaja-sie-od-swoich-sojusznikow/",
-      "pubDate": "Thu, 08 Jan 2026 18:23:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
