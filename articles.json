@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-17T11:40:13.490Z",
+  "generatedAt": "2026-01-17T11:49:32.168Z",
   "items": [
+    {
+      "title": "Iran trwale odcięty od globalnego internetu? „Wdrażany jest tajny plan”",
+      "link": "https://www.rp.pl/polityka/art43653521-iran-trwale-odciety-od-globalnego-internetu-wdrazany-jest-tajny-plan",
+      "pubDate": "Sat, 17 Jan 2026 12:45:33 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pracujący przed tym rokiem dostaną więcej. ZUS podwyższa emerytury",
+      "link": "https://biznes.interia.pl/emerytury/news-pracowales-przed-1999-rokiem-zus-podwyzsza-emerytury,nId,22509722",
+      "pubDate": "Sat, 17 Jan 2026 11:40:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Poważny wypadek syna Kadyrowa. Moskwa miała wysłać \"latający szpital\"",
+      "link": "https://tvn24.pl/swiat/powazny-wypadek-syna-kadyrowa-moskwa-miala-wyslac-latajacy-szpital-st8853519?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 11:37:14 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Kilkadziesiąt obiektów z Białorusi nad Polską. Komunikat BBN",
       "link": "https://wiadomosci.onet.pl/kraj/komunikat-bbn-w-sprawie-obiektow-z-bialorusi-w-nocy-wlecialy-do-polski/7tg9f1b",
@@ -190,6 +208,12 @@
     {
       "title": "Dwie kobiety zginęły w pożarze domu",
       "link": "https://tvn24.pl/lublin/tragedia-w-jaszczowie-kolonii-pozar-domu-nie-zyja-dwie-kobiety-st8853623?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 10:57:34 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Matka i córka zginęły w pożarze domu",
+      "link": "https://tvn24.pl/lublin/tragedia-w-jaszczowie-kolonii-matka-i-corka-zginely-w-pozarze-domu-st8853623?source=rss",
       "pubDate": "Sat, 17 Jan 2026 10:57:34 GMT",
       "source": "TVN24"
     },
@@ -38258,6 +38282,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68142,36 +68190,6 @@
       "link": "https://www.wirtualnemedia.pl/zmiany-w-obszarze-sponsoringu-orlenu-jezierska-na-nowym-stanowisku-dolaczaja-wocial-i-patkowski,7241263210544096a",
       "pubDate": "Fri, 09 Jan 2026 05:52:50 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Bombowiec nowej generacji USA ma paskudny sekret? Chiny przeanalizowały B-21 Raider",
-      "link": "https://www.chip.pl/2026/01/chiny-wady-b-21-raider-bombowiec-nowej-generacji-usa",
-      "pubDate": "Fri, 09 Jan 2026 04:52:30 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Czy spółki nadal muszą publikować ogłoszenia w MSiG?",
-      "link": "https://pro.rp.pl/biznes/art43605401-czy-spolki-nadal-musza-publikowac-ogloszenia-w-msig",
-      "pubDate": "Fri, 09 Jan 2026 05:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Święta ze streamingiem? Disney+ przed TVP VOD, platforma Polsatu wypadła z czołówki",
-      "link": "https://www.wirtualnemedia.pl/netflix-hbo-max-disney-ile-uzytkownikow-maja-w-polsce-wyniki-z-grudnia-2025-roku,7241361943780320a",
-      "pubDate": "Fri, 09 Jan 2026 05:48:56 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Sąd utrzymał wysoką grzywnę KRRiT nałożoną na TVN. Będzie apelacja",
-      "link": "https://www.wirtualnemedia.pl/krrit-sad-tvn-dzien-dobry-wakacje-kara-lokowanie-produktu-nadmierne,7241317368855520a",
-      "pubDate": "Fri, 09 Jan 2026 05:48:25 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Przedstawiciele Danii i Grenlandii w Białym Domu. Spotkali się doradcami Trumpa",
-      "link": "https://tvn24.pl/swiat/przedstawiciele-danii-i-grenlandii-w-bialym-domu-spotkali-sie-doradcami-trumpa-st8837405?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 04:47:34 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -118208,6 +118226,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -149442,12 +149484,6 @@
       "link": "https://businessinsider.com.pl/nieruchomosci/vissavi-znika-z-galerii-handlowych-agata-blok-o-kulisach-decyzji/vslmg04",
       "pubDate": "Sun, 21 Dec 2025 18:00:00 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Israel’s approves proposal for 19 new Jewish settlements in West Bank",
-      "link": "http://www.euronews.com/2025/12/21/israels-approves-proposal-for-19-new-jewish-settlements-in-west-bank",
-      "pubDate": "Sun, 21 Dec 2025 18:57:29 +0100",
-      "source": "Euronews"
     }
   ],
   "totalArticles": 20000,
