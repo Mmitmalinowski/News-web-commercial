@@ -1,7 +1,31 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T04:07:19.728Z",
+  "generatedAt": "2026-01-17T04:43:44.007Z",
   "items": [
+    {
+      "title": "Filipino migrant worker’s death in NSW referred to federal police",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/17/filipino-migrant-workers-death-in-nsw-referred-to-federal-police",
+      "pubDate": "Sat, 17 Jan 2026 04:26:13 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Przerwane obrady Polski 2050, odrzucony wniosek obrońców Ziobry, pożar w domu dziecka",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-sobote-17-stycznia-najwazniejsze-informacje-st8853294?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 04:20:07 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Iran enters uneasy calm after deadly anti-regime protests",
+      "link": "https://www.dw.com/en/iran-enters-uneasy-calm-after-deadly-anti-regime-protests/a-75545347?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 04:18:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Dziś do części Polski wtargnie surowa zima. W nocy będzie nawet -20 st. C [POGODA]",
+      "link": "https://wiadomosci.onet.pl/pogoda/mrozny-antycyklon-coraz-blizej-polski-w-nocy-temperatura-spadnie-do-20-st-c/yne9qfj",
+      "pubDate": "Sat, 17 Jan 2026 04:05:10 GMT",
+      "source": "Onet"
+    },
     {
       "title": "US issues 'military activity' flight advisory over Latin America",
       "link": "https://www.dw.com/en/us-issues-military-activity-flight-advisory-over-latin-america/a-75545335?maca=en-rss-en-all-1573-xml-mrss",
@@ -30973,6 +30997,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67711,36 +67759,6 @@
       "link": "https://www.dw.com/en/us-protesters-officers-clash-after-minneapolis-ice-shooting/a-75440502?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Thu, 8 Jan 2026 17:29:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "US: Protesters, officers clash after Minneapolis shooting",
-      "link": "https://www.dw.com/en/us-protesters-officers-clash-after-minneapolis-shooting/a-75440502?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 8 Jan 2026 17:29:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Dwa zdarzenia obok siebie i korek na A4",
-      "link": "https://tvn24.pl/krakow/tarnow-biala-nawierzchnia-dwa-zdarzenia-obok-siebie-i-korek-na-a4-st8837206?source=rss",
-      "pubDate": "Thu, 08 Jan 2026 17:26:06 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Odkryli homininy sprzed 773 tys. lat. Wypełnią lukę w ewolucji",
-      "link": "https://geekweek.interia.pl/historia/news-odkryli-homininy-sprzed-773-tys-lat-wypelnia-luke-w-ewolucji,nId,22506303",
-      "pubDate": "Thu, 08 Jan 2026 17:25:07 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "‘Shadow fleet’ ships moving sanctioned oil reflagged to Russia at rising rate",
-      "link": "https://www.theguardian.com/business/2026/jan/08/shadow-fleet-ships-sanctioned-oil-reflagged-russia-lloyds-list-analysis",
-      "pubDate": "Thu, 08 Jan 2026 17:24:48 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Czego będzie dotyczyć delikatne spotkanie w cztery oczy Donalda Tuska z Karolem Nawrockim",
-      "link": "https://www.rp.pl/polityka/art43606621-czego-bedzie-dotyczyc-delikatne-spotkanie-w-cztery-oczy-donalda-tuska-z-karolem-nawrockim",
-      "pubDate": "Thu, 08 Jan 2026 18:24:46 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
