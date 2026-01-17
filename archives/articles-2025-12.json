@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-17T08:53:16.120Z",
+  "generatedAt": "2026-01-17T09:12:56.569Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -49797,6 +49797,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81090,12 +81114,6 @@
       "title": "One in eight of 14- to 17-year-olds in Great Britain say they have used nicotine pouches",
       "link": "https://www.theguardian.com/society/2025/dec/21/one-in-eight-teens-britain-have-used-nicotine-pouches-survey-finds",
       "pubDate": "Sun, 21 Dec 2025 17:36:36 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Officer who fatally shot Tamir Rice fired from West Virginia ranger position",
-      "link": "https://www.theguardian.com/us-news/2025/dec/21/officer-fired-tamir-rice-shooting",
-      "pubDate": "Sun, 21 Dec 2025 17:34:03 GMT",
       "source": "The Guardian"
     }
   ]
