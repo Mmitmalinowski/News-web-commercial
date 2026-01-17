@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T23:49:30.779Z",
+  "generatedAt": "2026-01-17T23:58:32.130Z",
   "items": [
+    {
+      "title": "Donald Trump tworzy Radę Pokoju. Za miejsce w niej chce miliarda dolarów",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-tworzy-rade-pokoju-miliard-dolarow-za-miejsce-przy-stole/y9b4y7z",
+      "pubDate": "Sat, 17 Jan 2026 23:54:12 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Amerykańskie siły eliminują lidera terrorystów w Syrii. To odpowiedź na grudniowy atak",
       "link": "https://wiadomosci.onet.pl/swiat/usa-odpowiada-na-grudniowa-zasadzke-atak-na-cele-w-syrii/7ynysr9",
@@ -25,6 +31,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/balony-przemytnicze-nad-polska-nowy-komunikat-policji/7636ek2",
       "pubDate": "Sat, 17 Jan 2026 22:55:01 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Rosja chce wyłączyć Ukrainie prąd z elektrowni jądrowych? Wywiad ostrzega",
+      "link": "https://www.rp.pl/konflikty-zbrojne/art43653771-rosja-chce-wylaczyc-ukrainie-prad-z-elektrowni-jadrowych-wywiad-ostrzega",
+      "pubDate": "Sat, 17 Jan 2026 23:52:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Australia news live: woman dead in powerful storm as landslide and flood warnings issued for Sydney",
@@ -41451,6 +41463,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68928,24 +68964,6 @@
       "title": "Wielki protest w Warszawie. Karol Nawrocki spotkał się z rolnikami",
       "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-spotkal-sie-z-rolnikami-wsrod-tematow-umowa-mercosur/xnfwycw",
       "pubDate": "Fri, 09 Jan 2026 10:08:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Unia Europejska Ameryki Południowej? Nie do końca. Oto czym dokładnie jest Mercosur",
-      "link": "https://businessinsider.com.pl/gospodarka/nowa-strefa-wolnego-handlu-uemercosur-spory-obawy-i-kulisy-negocjacji/n0meyxp",
-      "pubDate": "Fri, 09 Jan 2026 10:08:05 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rosja użyła najpotężniejszej broni. Oresznik jest odwetem za rezydentcję Putina",
-      "link": "https://tech.wp.pl/rosja-uzyla-najpotezniejszej-broni-oresznik-jest-odwetem-za-rezydentcje-putina,7241526998023136a",
-      "pubDate": "Fri, 09 Jan 2026 11:07:41 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Prokuratura bada sprawę wrocławskiego AZS. Chodzi o defraudację unijnych pieniędzy",
-      "link": "https://wiadomosci.onet.pl/kraj/klub-sportowy-zdefraudowal-unijne-pieniadze-w-tle-sprawa-collegium-humanum/fxq9th7",
-      "pubDate": "Fri, 09 Jan 2026 10:06:51 GMT",
       "source": "Onet"
     }
   ]
