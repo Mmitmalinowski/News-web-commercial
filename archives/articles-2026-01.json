@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T21:53:28.318Z",
+  "generatedAt": "2026-01-17T22:13:12.331Z",
   "items": [
+    {
+      "title": "„Nie damy się szantażować”. Przywódcy z Europy odpowiadają Trumpowi na groźby ceł. W tle Grenlandia",
+      "link": "https://www.rp.pl/polityka/art43654621-nie-damy-sie-szantazowac-przywodcy-z-europy-odpowiadaja-trumpowi-na-grozby-cel-w-tle-grenlandia",
+      "pubDate": "Sat, 17 Jan 2026 23:04:31 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Jak dużą krzywdę UE może wyrządzić Stanom Zjednoczonym?",
+      "link": "https://www.rmf24.pl/polityka/news-jak-duza-krzywde-ue-moze-wyrzadzic-stanom-zjednoczonym,nId,8058474",
+      "pubDate": "Sat, 17 Jan 2026 22:48:08 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Dakar 2026 rozstrzygnięty. Wielki wyczyn Polaków na koniec rajdu",
       "link": "https://sport.rp.pl/moto/art43654641-dakar-2026-rozstrzygniety-wielki-wyczyn-polakow-na-koniec-rajdu",
@@ -41235,6 +41247,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68803,24 +68839,6 @@
       "link": "https://www.theguardian.com/society/2026/jan/09/alzheimers-therapies-target-apoe-gene-variants-researchers-say",
       "pubDate": "Fri, 09 Jan 2026 10:00:34 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Prezydent zawetował podwyżkę akcyzy na alkohol. Oto ile straci budżet",
-      "link": "https://www.money.pl/gospodarka/prezydent-zawetowal-podwyzke-akcyzy-na-alkohol-oto-ile-straci-budzet-7241529199242208a.html",
-      "pubDate": "Fri, 09 Jan 2026 10:59:41 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Makabryczne odkrycie pod Skierniewicami. Policjanci znaleźli 16 martwych psów",
-      "link": "https://wiadomosci.onet.pl/lodz/martwe-psy-na-posesji-pod-skierniewicami-policja-znalazla-cos-jeszcze/4ermfr8",
-      "pubDate": "Fri, 09 Jan 2026 09:59:40 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Francuska armia stawia na rodzimą sztuczną inteligencję. Podjęto współpracę z Mistral AI",
-      "link": "https://mamstartup.pl/francuska-armia-stawia-na-rodzima-sztuczna-inteligencje-podjeto-wspolprace-z-mistral-ai/",
-      "pubDate": "Fri, 09 Jan 2026 09:59:26 +0000",
-      "source": "MamStartup"
     }
   ]
 }
