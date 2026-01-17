@@ -1,12 +1,60 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T09:33:31.820Z",
+  "generatedAt": "2026-01-17T09:46:15.607Z",
   "items": [
+    {
+      "title": "Śmiercionośne selfie. Zastraszające wypadki turystów",
+      "link": "https://wiadomosci.onet.pl/swiat/smiercionosne-selfie-zastraszajace-wypadki-turystow/vj66j9w",
+      "pubDate": "Sat, 17 Jan 2026 09:40:15 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Sondaż: Co czwarty Polak chce Konfederacji Korony Polskiej w przyszłym Sejmie",
+      "link": "https://www.rp.pl/polityka/art43653391-sondaz-co-czwarty-polak-chce-konfederacji-korony-polskiej-w-przyszlym-sejmie",
+      "pubDate": "Sat, 17 Jan 2026 10:40:03 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Od stycznia duże zmiany dla spadkobierców. Nowe przepisy mówią o podatku",
+      "link": "https://biznes.interia.pl/finanse/news-podatek-od-spadku-od-stycznia-nowe-przepisy,nId,22508859",
+      "pubDate": "Sat, 17 Jan 2026 09:40:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Google Chrome zmienia układ kart. Przestawienie się będzie ciężki",
+      "link": "https://android.com.pl/tech/1010094-google-chrome-pionowy-uklad-kart/",
+      "pubDate": "Sat, 17 Jan 2026 09:39:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Francja może opuścić NATO? W parlamencie pojawiła się propozycja",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-17/francja-moze-opuscic-nato-w-parlamencie-pojawila-sie-propozycja/",
+      "pubDate": "Sat, 17 Jan 2026 10:38:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Chiny chcą powtórzyć operację USA? Niepokojące ćwiczenia",
+      "link": "https://wiadomosci.onet.pl/swiat/chiny-chca-powtorzyc-operacje-usa-niepokojace-cwiczenia/r5x3mq8",
+      "pubDate": "Sat, 17 Jan 2026 09:37:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zaginął naukowiec. Wyszedł z domu i nie wrócił",
+      "link": "https://tvn24.pl/rzeszow/rzeszow-zaginal-naukowiec-doktor-kacper-swierk-policja-prosi-o-pomoc-w-poszukiwaniach-st8853435?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 09:33:42 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Włamują się przez słuchawki. Mogą podsłuchiwać rozmowy",
       "link": "https://tech.wp.pl/wlamuja-sie-przez-sluchawki-moga-podsluchiwac-rozmowy,7244048835859521v",
       "pubDate": "Sat, 17 Jan 2026 10:33:00 +0100",
       "source": "Tech WP.pl"
+    },
+    {
+      "title": "\"Wirtuoz mafii śmieciowej\" przyjechał i \"wyłożył karty na stół\". Kulisy dziennikarskiej prowokacji",
+      "link": "https://tvn24.pl/polska/umowa-smieciowa-dziennikarz-tvn24-o-efektach-dziennikarskiej-prowokacji-st8853360?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 09:30:58 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Składany iPhone już jesienią. Nowe informacje",
@@ -2879,6 +2927,12 @@
     {
       "title": "Nie żyje 11-letni chłopiec, matka w szpitalu. Ojciec uratował dwoje małych dzieci",
       "link": "https://tvn24.pl/poznan/myjomice-pozar-domu-nie-zyje-11-letni-chlopiec-matka-w-szpitalu-ojciec-uratowal-dwoje-malych-dzieci-st8853029?source=rss",
+      "pubDate": "Fri, 16 Jan 2026 16:35:18 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Tragiczny pożar. Nie żyje 11-letni chłopiec, jego matka zmarła w szpitalu",
+      "link": "https://tvn24.pl/poznan/myjomice-pozar-domu-nie-zyje-11-letni-chlopiec-matka-zmarla-w-szpitalu-ojciec-uratowal-dwoje-malych-dzieci-st8853029?source=rss",
       "pubDate": "Fri, 16 Jan 2026 16:35:18 GMT",
       "source": "TVN24"
     },
@@ -32275,6 +32329,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67969,66 +68047,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/wypadek-miedzy-toruniem-a-bydgoszcza-na-dk10-zderzyly-sie-trzy-pojazdy/7dm89y3",
       "pubDate": "Fri, 09 Jan 2026 01:15:38 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Rosja zaatakowała Kijów i Lwów. Seria eksplozji",
-      "link": "https://www.bankier.pl/wiadomosc/Ukraina-Rosja-zaatakowala-Kijow-i-Lwow-w-stolicy-zginely-trzy-osoby-aktl-2-9065477.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 02:01:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Pogoda na dziś - piątek, 9.01. Mocno sypnie śniegiem",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-piatek-9-01-mocno-sypnie-sniegiem-st8837366?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 01:00:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "US federal immigration agents wound 2 in Portland",
-      "link": "https://www.dw.com/en/us-federal-immigration-agents-wound-2-in-portland/a-75442551?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 00:57:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "US Border patrol agents wound 2 in Portland",
-      "link": "https://www.dw.com/en/us-border-patrol-agents-wound-2-in-portland/a-75442551?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 00:57:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "US Border patrol agents shoot and wound 2 in Portland",
-      "link": "https://www.dw.com/en/us-border-patrol-agents-shoot-and-wound-2-in-portland/a-75442551?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 00:57:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Dozens of writers boycott Adelaide festival after it dumps pro-Palestine academic Randa Abdel-Fattah",
-      "link": "https://www.theguardian.com/culture/2026/jan/09/adelaide-festival-boycott-pro-palestine-academic-randa-abdel-fattah-ntwnfb",
-      "pubDate": "Fri, 09 Jan 2026 00:54:11 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Two people shot by US federal agents in Portland, police say",
-      "link": "https://www.theguardian.com/us-news/2026/jan/08/portland-federal-agents-shooting",
-      "pubDate": "Fri, 09 Jan 2026 00:53:19 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nagła zmiana planów NASA. Astronauci przedwcześnie wracają na Ziemię",
-      "link": "https://wiadomosci.onet.pl/swiat/nagla-zmiana-planow-nasa-astronauci-przedwczesnie-wracaja-na-ziemie/p06rttj",
-      "pubDate": "Fri, 09 Jan 2026 00:32:05 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kierowcy płacą więcej za włoskie autostrady. Rząd niezadowolony, ale przegrywa w sądzie",
-      "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43611101-kierowcy-placa-wiecej-za-wloskie-autostrady-rzad-niezadowolony-ale-przegrywa-w-sadzie",
-      "pubDate": "Fri, 09 Jan 2026 01:24:09 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "The secret mission to fly a president's body back home - pilot speaks to the BBC",
-      "link": "https://www.bbc.com/news/articles/c5y2v2p3nl8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 00:17:11 GMT",
-      "source": "BBC News"
     }
   ]
 }
