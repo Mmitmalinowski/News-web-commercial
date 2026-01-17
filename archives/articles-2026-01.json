@@ -1,7 +1,55 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T00:00:35.528Z",
+  "generatedAt": "2026-01-17T01:58:10.808Z",
   "items": [
+    {
+      "title": "US justice department investigating Minnesota Democrats over alleged obstruction of ICE",
+      "link": "https://www.bbc.com/news/articles/czx1wgvpr1zo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 17 Jan 2026 01:44:20 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Trump taps Blair, Rubio for Gaza 'Board of Peace'",
+      "link": "https://www.dw.com/en/trump-taps-blair-rubio-for-gaza-board-of-peace/a-75544950?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 01:30:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Syria uznała Kurdów. Zaskakujący dekret w trakcie walk",
+      "link": "https://wiadomosci.onet.pl/swiat/syria-uznala-kurdow-zaskakujacy-dekret-w-trakcie-walk/c2t193g",
+      "pubDate": "Sat, 17 Jan 2026 01:02:22 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Pogoda na dziś - sobota, 17.01. W części kraju aura będzie pogodna",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-sobota-17-01-w-czesci-kraju-aura-bedzie-pogodna-st8853050?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 01:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "US justice department to inquire into Minnesota leaders for alleged conspiracy to obstruct ICE",
+      "link": "https://www.theguardian.com/us-news/2026/jan/16/us-doj-minnesota-tim-walz-jacob-frey-inquiry",
+      "pubDate": "Sat, 17 Jan 2026 00:59:13 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "From camouflage to tracksuits - Guinea's junta leader poised to become civilian president",
+      "link": "https://www.bbc.com/news/articles/cpv70mek448o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 17 Jan 2026 00:43:58 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Under fire from the sea, families in Odesa try to escape Russian barrage",
+      "link": "https://www.bbc.com/news/articles/cnvg70v1z0ro?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 17 Jan 2026 00:14:00 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Paracetamol is safe in pregnancy, says study refuting Trump autism claims",
+      "link": "https://www.bbc.com/news/articles/c74vdgkw1kzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 17 Jan 2026 00:13:47 GMT",
+      "source": "BBC News"
+    },
     {
       "title": "To oni mają zarządzać Strefą Gazy. Znamy skład Rady Pokoju",
       "link": "https://wiadomosci.onet.pl/swiat/to-oni-maja-zarzadzac-strefa-gazy-znamy-sklad-rady-pokoju/d5kh05x",
@@ -13,6 +61,12 @@
       "link": "https://www.theguardian.com/society/2026/jan/16/study-debunks-trump-claim-paracetamol-causes-autism-pregnancy",
       "pubDate": "Fri, 16 Jan 2026 23:30:10 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Blair and Rubio among names on Gaza 'Board of Peace'",
+      "link": "https://www.bbc.com/news/articles/c07xv92vrz2o?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 16 Jan 2026 23:15:34 GMT",
+      "source": "BBC News"
     },
     {
       "title": "Kalendarium - sobota 17 stycznia",
@@ -30787,6 +30841,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67627,66 +67705,6 @@
       "link": "https://www.theguardian.com/us-news/2026/jan/08/torso-killer-1965-murder-new-jersey",
       "pubDate": "Thu, 08 Jan 2026 17:02:43 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Tobiasz Bocheński: Kierwiński jest niekompetentny i nieprzygotowany",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/popoludniowa-rozmowa/news-tobiasz-bochenski-kierwinski-jest-niekompetentny-i-nieprzygo,nId,8056252",
-      "pubDate": "Thu, 08 Jan 2026 18:02:22 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Monitor Polski  z 8 stycznia 2025 r. (poz. 34)",
-      "link": "https://www.rp.pl/akty-prawne/art43608691-monitor-polski-z-8-stycznia-2025-r-poz-34",
-      "pubDate": "Thu, 08 Jan 2026 18:01:46 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Last of three siblings abandoned in London over eight-year period adopted",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/08/three-siblings-abandoned-london-over-eight-year-period-adopted",
-      "pubDate": "Thu, 08 Jan 2026 17:00:36 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Latest news bulletin | January 8th, 2026 – Evening",
-      "link": "http://www.euronews.com/video/2026/01/08/latest-news-bulletin-january-8th-2026-evening",
-      "pubDate": "Thu, 08 Jan 2026 18:00:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Który Windows jest najgorszy w benchmarkach? Będziesz zaskoczony",
-      "link": "https://antyweb.pl/windows-benchmark-ktory-najszybszy",
-      "pubDate": "Thu, 08 Jan 2026 17:00:25 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Hundreds of nonconsensual AI images being created by Grok on X, data shows",
-      "link": "https://www.theguardian.com/technology/2026/jan/08/grok-x-nonconsensual-images",
-      "pubDate": "Thu, 08 Jan 2026 17:00:12 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Dziennik Ustaw z 8 stycznia 2025 r. (poz. 15-17)",
-      "link": "https://www.rp.pl/akty-prawne/art43608671-dziennik-ustaw-z-8-stycznia-2025-r-poz-15-17",
-      "pubDate": "Thu, 08 Jan 2026 18:00:03 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Masz numer w T-Mobile? Możesz liczyć na zwrot pieniędzy",
-      "link": "https://www.chip.pl/2026/01/masz-numer-w-t-mobile-mozesz-liczyc-na-zwrot-pieniedzy",
-      "pubDate": "Thu, 08 Jan 2026 17:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Glapiński przed Trybunałem Stanu? Przewodniczący komisji: Nie wiem, czy zdążymy w 2026 roku",
-      "link": "https://www.bankier.pl/wiadomosc/Glapinski-przed-Trybunalem-Stanu-Przewodniczacy-komisji-Nie-wiem-czy-zdazymy-w-2026-roku-9065385.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 8 Jan 2026 18:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "'Appalling' and 'nonsense': Republicans push back against Trump’s Greenland plans",
-      "link": "http://www.euronews.com/2026/01/08/appalling-and-nonsense-republicans-push-back-against-trumps-greenland-plans",
-      "pubDate": "Thu, 08 Jan 2026 17:58:07 +0100",
-      "source": "Euronews"
     }
   ]
 }
