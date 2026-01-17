@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-17T07:27:54.779Z",
+  "generatedAt": "2026-01-17T07:41:25.853Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -49677,6 +49677,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -81001,12 +81025,6 @@
       "link": "https://tvn24.pl/tvnmeteo/nauka/szwajcaria-lodowiec-morteratsch-ta-atrakcja-turystyczna-to-zwiastun-zaglady-st8812387?source=rss",
       "pubDate": "Sun, 21 Dec 2025 17:25:29 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Wyprowadzka Rosjan z konsulatu w Gdańsku przyspiesza. Te zdjęcia mówią wszystko",
-      "link": "https://wiadomosci.onet.pl/kraj/to-ostatnie-dni-rosyjskiego-konsulatu-w-gdansku-tak-pakuja-sie-dyplomaci/8z5xh3h",
-      "pubDate": "Sun, 21 Dec 2025 17:18:58 GMT",
-      "source": "Onet"
     }
   ]
 }
