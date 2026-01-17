@@ -1,6 +1,42 @@
 {
-  "generatedAt": "2026-01-17T20:00:42.155Z",
+  "generatedAt": "2026-01-17T20:31:33.694Z",
   "items": [
+    {
+      "title": "EU and Mercosur sign major trade deal in Asuncion",
+      "link": "http://www.euronews.com/video/2026/01/17/eu-and-mercosur-sign-major-trade-deal-in-asuncion",
+      "pubDate": "Sat, 17 Jan 2026 21:25:00 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Ogromny pożar w Małopolsce. W trakcie wesela zapaliła się karczma",
+      "link": "https://wiadomosci.onet.pl/kraj/ogromny-pozar-w-malopolsce-w-trakcie-wesela-zapalila-sie-karczma/p77c2f3",
+      "pubDate": "Sat, 17 Jan 2026 20:23:15 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "W Dolinie Krzemowej drukują książki jak 150 lat temu. Jedna kosztuje nawet 10 tys. dol.",
+      "link": "https://businessinsider.com.pl/wideo/arion-press-zachwyca-recznym-drukiem-ksiazek-rzemioslo-na-wage-zlota/wmh6qp3",
+      "pubDate": "Sat, 17 Jan 2026 20:11:36 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Wesele w Targanicach przerwane, wybuchł ogień. Pilna ewakuacja",
+      "link": "https://wydarzenia.interia.pl/malopolskie/news-wesele-w-targanicach-przerwane-wybuchl-ogien-pilna-ewakuacja,nId,22510028",
+      "pubDate": "Sat, 17 Jan 2026 20:09:55 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Dania odpowiada na nagłą zapowiedź Donalda Trumpa. \"Niespodzianka\"",
+      "link": "https://wiadomosci.onet.pl/swiat/dunski-minister-odpowiada-na-zapowiedz-donalda-trumpa-niespodzianka/s7lebcm",
+      "pubDate": "Sat, 17 Jan 2026 20:03:31 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "USA nakładają cła na osiem państw europejskich za postawę w sprawie Grenlandii",
+      "link": "https://www.bankier.pl/wiadomosc/USA-nakladaja-cla-na-osiem-panstw-europejskich-za-postawe-w-sprawie-Grenlandii-9070034.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 17 Jan 2026 21:00:00 +0100",
+      "source": "Bankier.pl"
+    },
     {
       "title": "Pierwsza na świecie pułapka grawitonowa ma doprowadzić do rozwikłania wieloletniej zagadki",
       "link": "https://www.chip.pl/2026/01/pierwsza-na-swiecie-pulapka-grawitonowa",
@@ -14,10 +50,22 @@
       "source": "Euronews"
     },
     {
+      "title": "What a seventh term for 81-year-old leader means for Uganda",
+      "link": "https://www.bbc.com/news/articles/cx20qj1pwrwo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sat, 17 Jan 2026 19:55:16 GMT",
+      "source": "BBC News"
+    },
+    {
       "title": "Wesele przerwane przez wielki pożar. 100 osób ewakuowanych",
       "link": "https://www.rmf24.pl/regiony/krakow/news-wesele-przerwane-przez-wielki-pozar-100-osob-ewakuowanych,nId,8058471",
       "pubDate": "Sat, 17 Jan 2026 20:52:07 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Trump’s tariff threat is an attempt to divide Europe and quash opposition over Greenland",
+      "link": "https://www.theguardian.com/world/2026/jan/17/trumps-tariff-threat-is-an-attempt-to-divide-europe-and-quash-opposition-over-greenland",
+      "pubDate": "Sat, 17 Jan 2026 19:51:17 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Prezydent Francji zapowiada zjednoczoną odpowiedź na groźby Trumpa. Nie jest sam",
@@ -40874,6 +40922,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68640,60 +68712,6 @@
       "link": "https://tvn24.pl/kultura-i-styl/vinci-2-do-obejrzenia-w-internecie-premiera-w-piatek-st8837103?source=rss",
       "pubDate": "Fri, 09 Jan 2026 09:44:51 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Ta oferta zainteresuje osoby z kilkoma kredytami. Alior Bank przygotował specjalne oprocentowanie",
-      "link": "https://www.bankier.pl/wiadomosc/Ta-oferta-zainteresuje-osoby-z-kilkoma-kredytami-Alior-Bank-przygotowal-specjalne-oprocentowanie-9063317.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 10:44:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Najbardziej niedowartościowane spółki z Wall Street. Na liście prawdziwi giganci",
-      "link": "https://businessinsider.com.pl/gielda/niedowartosciowane-spolki-z-wall-street-na-liscie-sa-prawdziwi-giganci/5c3rt3c",
-      "pubDate": "Fri, 09 Jan 2026 09:43:04 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rolnicy boją się Mercosuru. Sprawdzamy, czy mają rację [ANALIZA]",
-      "link": "https://businessinsider.com.pl/gospodarka/rolnicy-obawiaja-sie-mercosuru-czy-slusznie/ndcr1kh",
-      "pubDate": "Fri, 09 Jan 2026 09:41:21 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Emilia wysiadła z samochodu i ślad po niej zaginął",
-      "link": "https://tvn24.pl/lublin/okuninka-policja-szuka-37-letniej-emilii-kwiecien-st8837668?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 09:40:52 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Wołodymyr Zełenski o zmasowanym ataku Rosjan. Apeluje do USA",
-      "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-o-zmasowanym-ataku-rosjan-apeluje-do-usa/2ez7528",
-      "pubDate": "Fri, 09 Jan 2026 09:38:04 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ameryka odpuszcza Wenezueli. Donald Trump ogłasza",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-ameryka-odpuszcza-wenezueli-donald-trump-oglasza,nId,8056430",
-      "pubDate": "Fri, 09 Jan 2026 10:37:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Nastolatek zmiażdżony przez autobus podczas demonstracji w Jerozolimie",
-      "link": "https://tvn24.pl/swiat/izrael-nastolatek-zmiazdzony-przez-autobus-podczas-demonstracji-mial-niespelna-18-lat-st8835379?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 09:36:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Iran: Internet cut off as protests spread nationwide",
-      "link": "https://www.dw.com/en/iran-internet-cut-off-as-protests-spread-nationwide/a-75440793?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 09:36:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Sporna ustawa na biurku Karola Nawrockiego. \"Będą kategoryczne decyzje\"",
-      "link": "https://wiadomosci.onet.pl/kraj/sporna-ustawa-na-biurku-prezydenta-nawrockiego-beda-kategoryczne-decyzje/v29klgj",
-      "pubDate": "Fri, 09 Jan 2026 09:35:38 GMT",
-      "source": "Onet"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -119426,6 +119444,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -150486,12 +150528,6 @@
       "link": "https://edukacja.rp.pl/uczelnie-wyzsze/art43545191-uniwersytet-opolski-akademicka-rzetelnosc-i-rynkowy-pragmatyzm",
       "pubDate": "Sun, 21 Dec 2025 20:05:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "France to build new aircraft carrier — Macron",
-      "link": "https://www.dw.com/en/france-to-build-new-aircraft-carrier-macron/a-75259779?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sun, 21 Dec 2025 19:05:00 GMT",
-      "source": "DW"
     }
   ],
   "totalArticles": 20000,
