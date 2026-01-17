@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T11:49:31.900Z",
+  "generatedAt": "2026-01-17T11:58:51.672Z",
   "items": [
+    {
+      "title": "Gang paliwowy oszukał państwo na miliardy złotych. Jest akt oskarżenia",
+      "link": "https://www.rmf24.pl/fakty/polska/news-gang-paliwowy-oszukal-panstwo-na-miliardy-zlotych-jest-akt-o,nId,8058436",
+      "pubDate": "Sat, 17 Jan 2026 12:51:11 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Chiński dron wojskowy naruszył przestrzeń kontrolowaną przez Tajwan",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-chinski-dron-wojskowy-naruszyl-przestrzen-kontrolowana-przez,nId,8058435",
+      "pubDate": "Sat, 17 Jan 2026 12:47:04 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Iran trwale odcięty od globalnego internetu? „Wdrażany jest tajny plan”",
       "link": "https://www.rp.pl/polityka/art43653521-iran-trwale-odciety-od-globalnego-internetu-wdrazany-jest-tajny-plan",
@@ -38307,6 +38319,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68173,24 +68209,6 @@
       "link": "https://www.rmf24.pl/regiony/szczecin/news-kleby-dymu-w-polanowie-splonal-supermarket,nId,8056349",
       "pubDate": "Fri, 09 Jan 2026 05:54:00 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Zniknęły kanały MTV. Co w zamian zaoferują Canal+ i Polsat Box?",
-      "link": "https://www.wirtualnemedia.pl/canal-plus-polsat-box-nowe-kanaly-koniec-mtv-rozwiazanie-umowy-kanal-zero-tv-jak-ogladac,7240946186034144a",
-      "pubDate": "Fri, 09 Jan 2026 05:53:43 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Protesty w Iranie nie ustają, w ogniu stanął budynek rządowy [NAJWAŻNIEJSZE INFORMACJE]",
-      "link": "https://wiadomosci.onet.pl/swiat/protesty-w-iranie-nie-ustaja-w-ogniu-stanal-budynek-rzadowy-najwazniejsze-informacje/phyy83j",
-      "pubDate": "Fri, 09 Jan 2026 04:53:09 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zmiany w obszarze sponsoringu Orlenu: Jezierska na nowym stanowisku, dołączają Wocial i Patkowski",
-      "link": "https://www.wirtualnemedia.pl/zmiany-w-obszarze-sponsoringu-orlenu-jezierska-na-nowym-stanowisku-dolaczaja-wocial-i-patkowski,7241263210544096a",
-      "pubDate": "Fri, 09 Jan 2026 05:52:50 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
