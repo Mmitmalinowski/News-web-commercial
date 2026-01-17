@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T05:44:39.369Z",
+  "generatedAt": "2026-01-17T05:54:17.137Z",
   "items": [
+    {
+      "title": "Exiled Iranian women in Germany: 'All that remains is rage!'",
+      "link": "https://www.dw.com/en/exiled-iranian-women-in-germany-all-that-remains-is-rage/a-75532977?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 05:48:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Alert RCB. \"Nie wychodź w góry\"",
+      "link": "https://tvn24.pl/tvnmeteo/polska/alert-rcb-17-01-zagrozenie-lawinowe-tatry-nie-wychodz-w-gory-st8853301?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 05:42:05 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Milionowa kaucja i zakaz opuszczania kraju dla Tymoszenko",
       "link": "https://tvn24.pl/swiat/ukraina-wyzszy-sad-antykorupcyjny-tymoszenko-ma-wplacic-kaucje-i-nie-moze-opuszczac-kraju-st8853288?source=rss",
@@ -31183,6 +31195,30 @@
       "link": "https://tvn24.pl/tvnwarszawa/okolice/pruszkow-awaria-urzadzen-sterowania-ruchem-utrudnienia-w-kursowaniu-pociagow-st8843863?source=rss",
       "pubDate": "Tue, 13 Jan 2026 07:17:30 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
@@ -67795,24 +67831,6 @@
       "link": "https://tvn24.pl/lodz/tragedia-na-a1-proces-sebastiana-m-oskarzony-przedstawia-alternatywna-wersje-zdarzen-st8837232?source=rss",
       "pubDate": "Thu, 08 Jan 2026 17:57:01 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "David Bowie’s widow Iman and daughter Lexi lead tributes on music icon’s would-be 79th birthday",
-      "link": "http://www.euronews.com/culture/2026/01/08/david-bowies-widow-iman-and-daughter-lexi-lead-tributes-on-music-icons-would-be-79th-birth",
-      "pubDate": "Thu, 08 Jan 2026 18:54:52 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Retro imperializm Trumpa. Czy Stany Zjednoczone przejmą Grenlandię?",
-      "link": "https://oko.press/retro-imperializm-trumpa-czy-stany-zjednoczone-przejma-grenlandie",
-      "pubDate": "Thu, 08 Jan 2026 17:54:39 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 08.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-08-01-2026-7241297159289344a.html",
-      "pubDate": "Thu, 08 Jan 2026 18:54:17 +0100",
-      "source": "Money.pl"
     }
   ]
 }
