@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T23:38:56.991Z",
+  "generatedAt": "2026-01-17T23:49:30.779Z",
   "items": [
+    {
+      "title": "Amerykańskie siły eliminują lidera terrorystów w Syrii. To odpowiedź na grudniowy atak",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-odpowiada-na-grudniowa-zasadzke-atak-na-cele-w-syrii/7ynysr9",
+      "pubDate": "Sat, 17 Jan 2026 23:38:41 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Israel objects to US lineup of 'Gaza executive board'",
       "link": "https://www.dw.com/en/israel-objects-to-us-lineup-of-gaza-executive-board/a-75550023?maca=en-rss-en-all-1573-xml-mrss",
@@ -41421,6 +41427,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68917,18 +68947,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/klub-sportowy-zdefraudowal-unijne-pieniadze-w-tle-sprawa-collegium-humanum/fxq9th7",
       "pubDate": "Fri, 09 Jan 2026 10:06:51 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Pierwsza taka sytuacja od początku wojny. Rosyjska gospodarka traci ostatnie koło ratunkowe. Chiny odwracają się plecami",
-      "link": "https://wiadomosci.onet.pl/swiat/blady-strach-na-kremlu-rosyjska-gospodarka-traci-kolo-ratunkowe-od-chin/vrgczbf",
-      "pubDate": "Fri, 09 Jan 2026 10:05:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Cztery duńskie partie chcą wysłania europejskich wojsk na Grenlandię",
-      "link": "https://tvn24.pl/swiat/dania-cztery-partie-chca-wyslania-europejskich-wojsk-na-grenlandie-st8837604?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 10:05:00 GMT",
-      "source": "TVN24"
     }
   ]
 }
