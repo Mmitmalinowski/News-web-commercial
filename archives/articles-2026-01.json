@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T21:44:17.808Z",
+  "generatedAt": "2026-01-17T21:53:28.318Z",
   "items": [
+    {
+      "title": "Dakar 2026 rozstrzygnięty. Wielki wyczyn Polaków na koniec rajdu",
+      "link": "https://sport.rp.pl/moto/art43654641-dakar-2026-rozstrzygniety-wielki-wyczyn-polakow-na-koniec-rajdu",
+      "pubDate": "Sat, 17 Jan 2026 22:45:45 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Spór na linii Europa-USA zaostrza się. W niedzielę nadzwyczajne spotkanie w Brukseli",
       "link": "https://wiadomosci.onet.pl/swiat/europa-reaguje-na-zapowiedzi-trumpa-zwolano-nadzwyczajne-spotkanie-w-brukseli/czegplt",
@@ -41205,6 +41211,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68791,18 +68821,6 @@
       "link": "https://mamstartup.pl/francuska-armia-stawia-na-rodzima-sztuczna-inteligencje-podjeto-wspolprace-z-mistral-ai/",
       "pubDate": "Fri, 09 Jan 2026 09:59:26 +0000",
       "source": "MamStartup"
-    },
-    {
-      "title": "Fikcyjne studia Bosaka w Collegium Humanum",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/fikcyjne-studia-bosaka-w-collegium-humanum",
-      "pubDate": "Fri, 09 Jan 2026 09:59:08 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Gigantyczny przekręt w parafiach. Duchowni wśród oskarżonych o milionowe oszustwa",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-gigantyczny-przekret-w-parafiach-duchowni-wsrod-oskarzonych-,nId,8056426",
-      "pubDate": "Fri, 09 Jan 2026 10:59:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
