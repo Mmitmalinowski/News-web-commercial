@@ -1,10 +1,70 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T11:08:45.949Z",
+  "generatedAt": "2026-01-17T11:27:47.778Z",
   "items": [
+    {
+      "title": "'Hands off Greenland' protests to draw thousands",
+      "link": "https://www.dw.com/en/hands-off-greenland-protests-to-draw-thousands/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 17 Jan 2026 11:23:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Kamczatka. Najwięcej śniegu od ponad 30 lat. Dwie osoby nie żyją",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/rosja-kamczatka-najwiecej-sniegu-od-ponad-30-lat-dwie-osoby-nie-zyja-st8853514?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 11:19:09 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Śnieg przygniótł Kamczatkę. Gospodarka stanęła, wprowadzony stan wyjątkowy",
+      "link": "https://www.rp.pl/gospodarka/art43653501-snieg-przygniotl-kamczatke-gospodarka-stanela-wprowadzony-stan-wyjatkowy",
+      "pubDate": "Sat, 17 Jan 2026 12:18:24 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Gmail na Androidzie z ważnym ułatwieniem. Do tej pory było tylko na iPhone’ach",
+      "link": "https://android.com.pl/tech/1010403-gmail-na-androidzie-z-wazna-funkcja/",
+      "pubDate": "Sat, 17 Jan 2026 11:15:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Zegarek za 2 miliony euro. Są takie dwa na świecie i chronią je patenty",
+      "link": "https://biznes.interia.pl/gospodarka/news-wyjatkowo-skomplikowany-zegarek-pierwszy-ktorego-dzwonek-gra,nId,22509865",
+      "pubDate": "Sat, 17 Jan 2026 11:15:00 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Jarosław Kaczyński ma powody do obaw? W tym sondażu Karol Nawrocki go deklasuje",
+      "link": "https://wiadomosci.onet.pl/kraj/jaroslaw-kaczynski-ma-powody-do-obaw-w-tym-sondazu-karol-nawrocki-go-deklasuje/x0tg7mk",
+      "pubDate": "Sat, 17 Jan 2026 11:14:12 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wyprowadził się i zostawił zwierzęta bez opieki",
+      "link": "https://tvn24.pl/lublin/gmina-dolhobyczow-wyprowadzil-sie-i-zostawil-zwierzeta-bez-opieki-st8853502?source=rss",
+      "pubDate": "Sat, 17 Jan 2026 11:11:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Siedem porad od doradczyni zawodowej, jak zdobyć awans",
+      "link": "https://businessinsider.com.pl/praca/jak-awansowac-doradczyni-zawodowa-zdradza-siedem-krokow/kc1nvzv",
+      "pubDate": "Sat, 17 Jan 2026 11:10:43 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Armia USA  buduje pancerne cacko. \"Drapieżnik szczytowy\" w świecie czołgów",
+      "link": "https://wiadomosci.onet.pl/swiat/nowy-abrams-pokazany-na-targach-samochodowych-znamy-szczegoly/81z72zx",
+      "pubDate": "Sat, 17 Jan 2026 11:07:00 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Impas w wyborach lidera Polski 2050. \"Były marszałek przerwał łączenie\"",
       "link": "https://wydarzenia.interia.pl/kraj/news-impas-w-wyborach-lidera-polski-2050-byly-marszalek-przerwal,nId,22509946",
+      "pubDate": "Sat, 17 Jan 2026 11:04:56 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Impas w wyborach lidera Polski 2050. \"Hołownia był w Dubaju i przerwał połączenie\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-impas-w-wyborach-lidera-polski-2050-holownia-byl-w-dubaju-i,nId,22509946",
       "pubDate": "Sat, 17 Jan 2026 11:04:56 GMT",
       "source": "Interia"
     },
@@ -21,10 +81,22 @@
       "source": "RMF24"
     },
     {
+      "title": "Arcytrudne ćwiczenia w newralgicznym rejonie. \"Spójrzcie na mapę\". Elitarne oddziały szkolą się na wypadek konfliktu z Rosją",
+      "link": "https://wiadomosci.onet.pl/politico/to-tu-w-razie-w-europa-bedzie-musiala-zmierzyc-sie-z-rosja-spojrzcie-na-mape/7tg1mx4",
+      "pubDate": "Sat, 17 Jan 2026 11:02:37 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Pociski Hellfire w nowej roli. W tym zastosowaniu zaskakują",
       "link": "https://tech.wp.pl/pociski-hellfire-w-nowej-roli-w-tym-zastosowaniu-zaskakuja,7243718685608032a",
       "pubDate": "Sat, 17 Jan 2026 12:01:00 +0100",
       "source": "Tech WP.pl"
+    },
+    {
+      "title": "‘Make no mistake, this is an occupation’: ICE’s deadly presence casts long shadow over Minneapolis",
+      "link": "https://www.theguardian.com/us-news/2026/jan/17/minneapolis-twin-cities-ice-dispatch",
+      "pubDate": "Sat, 17 Jan 2026 11:00:25 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Latest news bulletin | January 17th, 2026 – Midday",
@@ -499,6 +571,12 @@
       "link": "https://www.tabletowo.pl/recenzja-oneplus-15r-test-opinia/",
       "pubDate": "Sat, 17 Jan 2026 09:01:00 +0000",
       "source": "Tabletowo"
+    },
+    {
+      "title": "Zepp Pay – te banki pozwalają płacić zegarkami Amazfit",
+      "link": "https://antyweb.pl/zepp-pay-banki-w-polsce-platnosci-zegarkiem-amazfit",
+      "pubDate": "Sat, 17 Jan 2026 09:00:53 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "US House candidate buys nazis.us domain to redirect visitors to homeland security",
@@ -38073,6 +38151,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68052,90 +68154,6 @@
       "title": "Zmiany w drugim sezonie \"Bez kompleksów\". Program otwarty także na mężczyzn",
       "link": "https://www.wirtualnemedia.pl/zmiany-w-drugim-sezonie-bez-kompleksow-program-otwarty-takze-na-mezczyzn,7241204063754752a",
       "pubDate": "Fri, 09 Jan 2026 05:38:00 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "\"Disco Star\" trafił na głównę antenę Polsatu. Ilu widzów miała premiera?",
-      "link": "https://www.wirtualnemedia.pl/disco-star-trafil-na-glowne-antene-polsatu-ilu-widzow-miala-premiera,7241228157082112a",
-      "pubDate": "Fri, 09 Jan 2026 05:36:22 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Były dziennikarz Eurosportu wrócił do kanału Wydarzenia 24. Pół roku spędził w Hiszpanii",
-      "link": "https://www.wirtualnemedia.pl/wydarzenia-24-jakub-ostrowski-serwis-sportowy-eurosport-jak-ogladac-ogladalnosc,7241309689498112a",
-      "pubDate": "Fri, 09 Jan 2026 05:35:14 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Donald Trump o sankcjach na Rosję. \"Mam nadzieję, że nie będę musiał ich użyć\"",
-      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-o-sankcjach-na-rosje-mam-nadzieje-ze-nie-bede-musial-ich-uzyc/dqpffg1",
-      "pubDate": "Fri, 09 Jan 2026 04:34:13 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Havas zapowiada AVA: globalny portal LLM. Stawia na AI wspieraną przez ludzi",
-      "link": "https://www.wirtualnemedia.pl/havas-zapowiada-ava-globalny-portal-llm-stawia-na-ai-wspierana-przez-ludzi,7241238865664512a",
-      "pubDate": "Fri, 09 Jan 2026 05:33:38 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Agencja Hand Made z nowym szefami. Założyciele po 20 latach przekazali stery",
-      "link": "https://www.wirtualnemedia.pl/agencja-hand-made-z-nowym-szefami-zalozyciele-po-20-latach-przekazali-stery,7241215674694144a",
-      "pubDate": "Fri, 09 Jan 2026 05:31:18 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Marcin Dorociński reklamuje Nice To Fit You. \"Miło mądrze jeść\"",
-      "link": "https://www.wirtualnemedia.pl/marcin-dorocinski-reklamuje-nice-to-fit-you-milo-madrze-jesc,7241252147583968a",
-      "pubDate": "Fri, 09 Jan 2026 05:30:01 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Zaliczki na dywidendę - kiedy trzeba je zwrócić?",
-      "link": "https://pro.rp.pl/biznes/art43605481-zaliczki-na-dywidende-kiedy-trzeba-je-zwrocic",
-      "pubDate": "Fri, 09 Jan 2026 05:30:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "W Wenezueli do głosu dochodzą gangi. \"Poczynają sobie coraz śmielej\"",
-      "link": "https://tvn24.pl/swiat/wenezuela-media-w-kraju-do-glosu-dochodza-gangi-st8837425?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 04:27:49 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Podatek cyfrowy w nowej formie.\"Nie chcemy niczego robić na kolanie\"",
-      "link": "https://wiadomosci.onet.pl/kraj/podatek-cyfrowy-w-nowej-formienie-chcemy-niczego-robic-na-kolanie/xrshtpf",
-      "pubDate": "Fri, 09 Jan 2026 04:25:50 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Venezuelan government begins releasing political prisoners",
-      "link": "https://www.bbc.com/news/articles/c0mkwl2g499o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 04:23:49 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Można zgłaszać kandydatów do Nagrody Woyciechowskiego w kategorii \"Autor Internetowy\"",
-      "link": "https://www.wirtualnemedia.pl/mozna-zglaszac-kandydatow-do-nagrody-woyciechowskiego-w-kategorii-autor-internetowy,7241298691808224a",
-      "pubDate": "Fri, 09 Jan 2026 05:23:12 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "One dead, 38 missing after massive landfill collapses in Philippines",
-      "link": "https://www.bbc.com/news/articles/c17zqz5pprwo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 04:22:38 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Nocny atak na Lwów i Kijów. Rosjanie użyli Oresznika?",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-nocny-atak-na-lwow-i-kijow-rosjanie-uzyli-oresznika,nId,8056348",
-      "pubDate": "Fri, 09 Jan 2026 05:22:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "InPlus Media oraz Media Group i Smile Communication będą pracować dla PARP",
-      "link": "https://www.wirtualnemedia.pl/inplus-media-oraz-media-group-i-smile-communication-beda-pracowac-dla-parp,7241286880262656a",
-      "pubDate": "Fri, 09 Jan 2026 05:21:20 +0100",
       "source": "Wirtualnemedia.pl"
     }
   ]
