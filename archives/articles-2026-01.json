@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T20:43:37.314Z",
+  "generatedAt": "2026-01-18T20:53:42.147Z",
   "items": [
+    {
+      "title": "Po ambasadorach czas na przywódców. UE planuje pilne spotkanie w Brukseli",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-po-ambasadorach-czas-na-przywodcow-ue-planuje-pilne-spotkani,nId,22510202",
+      "pubDate": "Sun, 18 Jan 2026 20:48:28 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Potężne pożary trawią południowe Chile. Nie żyje co najmniej 16 osób",
+      "link": "https://wiadomosci.onet.pl/swiat/potezne-pozary-trawia-poludniowe-chile-nie-zyje-co-najmniej-16-osob/f7g2241",
+      "pubDate": "Sun, 18 Jan 2026 20:40:17 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Horror w Iranie. Tysiące zabitych w masakrach, w kostnicach zalegają ciała",
+      "link": "https://www.rmf24.pl/raporty/raport-izrael-w-stanie-wojny/news-horror-w-iranie-tysiace-zabitych-w-masakrach-w-kostnicach-za,nId,8058670",
+      "pubDate": "Sun, 18 Jan 2026 21:40:00 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Nowe informacje po tragicznym wypadku w Krakowie. Oto co motocyklista zrobił chwilę przed",
       "link": "https://wiadomosci.onet.pl/krakow/tragiczny-wypadek-motocyklisty-w-krakowie-policja-podala-nowe-informacje/c2mv180",
@@ -1571,6 +1589,12 @@
     {
       "title": "EU leaders will hold an emergency summit in the coming days to discuss Trump's latest tariff threat",
       "link": "https://www.dw.com/en/eu-leaders-will-hold-an-emergency-summit-in-the-coming-days-to-discuss-trump-s-latest-tariff-threat/live-75550031?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 18 Jan 2026 13:39:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Greenland row: EU to hold emergency summit on Trump tariffs",
+      "link": "https://www.dw.com/en/greenland-row-eu-to-hold-emergency-summit-on-trump-tariffs/live-75550031?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sun, 18 Jan 2026 13:39:00 GMT",
       "source": "DW"
     },
@@ -46833,6 +46857,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66703,36 +66751,6 @@
       "link": "https://spidersweb.pl/2026/01/ceny-pamieci-znowu-wystrzela-bedzie-gorzej.html",
       "pubDate": "Fri, 09 Jan 2026 17:20:28 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Fala komentarzy po wecie prezydenta. \"Obiecał kiedyś Konfederatom\"",
-      "link": "https://wydarzenia.interia.pl/kraj/news-fala-komentarzy-po-wecie-prezydenta-obiecal-kiedys-konfedera,nId,22506961",
-      "pubDate": "Fri, 09 Jan 2026 16:19:50 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"To jakby onkolog musiał zostać dodatkowo chemioterapeutą\". Psychologowie protestują",
-      "link": "https://tvn24.pl/zdrowie/to-jakby-onkolog-musial-zostac-dodatkowo-chemioterapeuta-psychologowie-protestuja-st8838940?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 16:18:43 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tusk: doprowadzimy tę kwestię do pozytywnego finału",
-      "link": "https://tvn24.pl/biznes/dla-pracownika/reforma-pip-premier-donald-tusk-zapowiada-korekte-i-kompromis-z-bruksela-st8838925?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 16:18:31 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "‘An incomprehensible nightmare’: grief turns to anger over Swiss bar fire as Le Constellation owner arrested",
-      "link": "https://www.theguardian.com/world/2026/jan/09/swiss-bar-fire-le-constellation-owner-arrested",
-      "pubDate": "Fri, 09 Jan 2026 16:18:00 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Which airline had the fewest delays in 2025? New report reveals the most reliable carriers",
-      "link": "http://www.euronews.com/travel/2026/01/09/which-airline-had-the-fewest-delays-in-2025-new-report-reveals-the-most-reliable-carriers",
-      "pubDate": "Fri, 09 Jan 2026 17:17:29 +0100",
-      "source": "Euronews"
     }
   ]
 }
