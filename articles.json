@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-18T05:50:06.522Z",
+  "generatedAt": "2026-01-18T05:59:00.513Z",
   "items": [
     {
       "title": "Syrian army surges into Kurdish-held towns in ‘betrayal’ shattering hopes of accord",
@@ -42002,6 +42002,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -69066,12 +69090,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Szwecja-zamyka-drzwi-Najmniej-wnioskow-o-azyl-od-40-lat-9065837.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Fri, 9 Jan 2026 12:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Jest decyzja Brukseli w sprawie umowy z Mercosurem",
-      "link": "https://tvn24.pl/biznes/ze-swiata/panstwa-unii-europejskiej-zgodzily-sie-na-zawarcie-umowy-handlowej-z-krajami-mercosur-st8837990?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 10:59:32 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -120308,6 +120326,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151242,12 +151284,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/wolodymyr-zelenski-zapowiada-aktywny-tydzien-mimo-swiat-presja-musi-wzrosnac/jg56hpm",
       "pubDate": "Sun, 21 Dec 2025 19:59:29 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Morawiecki uznał, że Kaczyński \"nie będzie mu mówił z kim debatować\"",
-      "link": "https://tvn24.pl/polska/jaroslaw-kaczynski-wydal-mateuszowi-morawieckiemu-zakaz-debatowania-ze-slawomirem-mentzenem-w-ramach-piwa-z-mentzenem-w-warszawie-ujawnila-arleta-zalewska-st8812724?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 19:57:24 GMT",
-      "source": "TVN24"
     }
   ],
   "totalArticles": 20000,
