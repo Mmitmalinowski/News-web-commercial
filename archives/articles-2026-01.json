@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T19:27:23.547Z",
+  "generatedAt": "2026-01-18T19:38:57.758Z",
   "items": [
+    {
+      "title": "Unia Europejska reaguje na groźby Trumpa. Nieoficjalnie: przygotowuje cła odwetowe",
+      "link": "https://wiadomosci.onet.pl/swiat/unia-europejska-reaguje-na-grozby-trumpa-nieoficjalnie-przygotowuje-cla-odwetowe/dk1yce8",
+      "pubDate": "Sun, 18 Jan 2026 19:33:16 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Syrian government announces ceasefire with Syrian Democratic Forces",
       "link": "http://www.euronews.com/2026/01/18/syrian-government-announces-ceasefire-with-syrian-democratic-forces",
@@ -46467,6 +46473,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66631,18 +66661,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-zawetowal-ustawe-minister-gawkowski-wyprowadzil-cios-w-polakow/h4232h2",
       "pubDate": "Fri, 09 Jan 2026 15:46:09 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Policjantka odpowie za śmierć mężczyzny",
-      "link": "https://tvn24.pl/olsztyn/szczytno-tragedia-na-drodze-policjantka-odpowie-za-smierc-mezczyzny-st8838738?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 15:44:28 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trial starts of man accused of inciting teenagers to harm themselves online",
-      "link": "https://www.bbc.com/news/articles/cje1vjpwje4o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 15:42:38 GMT",
-      "source": "BBC News"
     }
   ]
 }
