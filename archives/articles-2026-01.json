@@ -1,12 +1,48 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-17T23:58:32.130Z",
+  "generatedAt": "2026-01-18T02:21:06.751Z",
   "items": [
+    {
+      "title": "Ukraine war briefing: Russia readying strikes on nuclear power system, Zelenskyy warns",
+      "link": "https://www.theguardian.com/world/2026/jan/18/ukraine-war-briefing-russia-readying-strikes-on-nuclear-power-system-zelenskyy-warns",
+      "pubDate": "Sun, 18 Jan 2026 02:12:57 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Wenezuela po zatrzymaniu Maduro. Kolejni więźniowie polityczni odzyskują wolność",
+      "link": "https://wiadomosci.onet.pl/swiat/kolejni-wiezniowie-polityczni-opuscili-wenezuelskie-wiezienia/2s7rg1e",
+      "pubDate": "Sun, 18 Jan 2026 01:58:19 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Pogoda na dziś - niedziela, 18.01. Niedziela pod znakiem słońca i mrozu",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-niedziela-18-01-niedziela-pod-znakiem-slonca-i-mrozu-st8854228?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 01:00:00 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "USA przemieszczają kolejne siły na Bliski Wschód. Wśród nich czołgi Abrams",
+      "link": "https://wiadomosci.onet.pl/swiat/usa-wciaz-wzmacniaja-obecnosc-na-bliskim-wschodzie-przemieszczaja-sprzet/vp0vl1r",
+      "pubDate": "Sun, 18 Jan 2026 00:55:57 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Amerykańscy senatorowie sprzeciwiają się groźbom Trumpa. \"Dalsze kroczenie tą ścieżką jest szkodliwe\"",
+      "link": "https://wiadomosci.onet.pl/swiat/trump-grozi-clami-amerykanscy-senatorowie-krytykuja-prezydenta-usa/ns2v9mh",
+      "pubDate": "Sun, 18 Jan 2026 00:23:00 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Donald Trump tworzy Radę Pokoju. Za miejsce w niej chce miliarda dolarów",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-tworzy-rade-pokoju-miliard-dolarow-za-miejsce-przy-stole/y9b4y7z",
       "pubDate": "Sat, 17 Jan 2026 23:54:12 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Thousands of Greenlanders march against Trump’s takeover threat",
+      "link": "https://www.theguardian.com/world/2026/jan/17/thousands-of-greenlanders-march-in-protest-of-donald-trumps-threats-of-us-control",
+      "pubDate": "Sat, 17 Jan 2026 23:49:17 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Amerykańskie siły eliminują lidera terrorystów w Syrii. To odpowiedź na grudniowy atak",
@@ -397,6 +433,12 @@
       "link": "https://www.rp.pl/opinie-polityczno-spoleczne/art43653711-ursula-von-der-leyen-wspolpraca-ue-mercosur-wzmacnia-europe-w-niestabilnych-czasach",
       "pubDate": "Sat, 17 Jan 2026 20:00:49 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Życie bez haseł w 2026 roku. Raz to ustawiasz i logowania przestają boleć.",
+      "link": "https://antyweb.pl/zycie-bez-hasel-w-2026-roku-raz-to-ustawiasz-i-logowania-przestaja-bolec",
+      "pubDate": "Sat, 17 Jan 2026 19:00:47 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Niemcy w kryzysie i niepokoju. Chińskie AI nie powie o Tajwanie",
@@ -41487,6 +41529,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68917,54 +68983,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2026-01-09/trump-zapowiadal-druga-fale-atakow-na-wenezuele-oglosil-swoja-decyzje/",
       "pubDate": "Fri, 09 Jan 2026 11:18:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Powstanie gigant surowcowy? Rio Tinto i Glencore rozmawiają o fuzji",
-      "link": "https://energia.rp.pl/surowce-i-paliwa/art43611791-powstanie-gigant-surowcowy-rio-tinto-i-glencore-rozmawiaja-o-fuzji",
-      "pubDate": "Fri, 09 Jan 2026 11:15:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Syria announces ceasefire in Aleppo after three days of clashes with Kurds",
-      "link": "https://www.theguardian.com/world/2026/jan/09/syria-announces-ceasefire-aleppo-clashes-kurds",
-      "pubDate": "Fri, 09 Jan 2026 10:14:14 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "DeepSeek's AI gains traction in developing nations, Microsoft report says",
-      "link": "http://www.euronews.com/next/2026/01/09/deepseeks-ai-gains-traction-in-developing-nations-microsoft-report-says",
-      "pubDate": "Fri, 09 Jan 2026 11:14:08 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Jest nowa zastępczyni prezydenta Warszawy",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-nowa-zastepczyni-prezydenta-stolicy-kim-jest-karolina-bober-st8837863?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 10:14:02 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Trump: Zrezygnowałem z drugiej fali ataków na Wenezuelę",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-Zrezygnowalem-z-drugiej-fali-atakow-na-Wenezuele-9065815.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 11:11:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Zawieszone zajęcia w szkołach na Lubelszczyźnie. Wszystko przez silne śnieżyce",
-      "link": "https://wiadomosci.onet.pl/lublin/zawieszone-zajecia-w-szkolach-na-lubelszczyznie-wszystko-przez-silne-sniezyce/572rgd9",
-      "pubDate": "Fri, 09 Jan 2026 10:10:40 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Portfel gwiazd. Kobiety wchodzą do gry",
-      "link": "https://www.bankier.pl/wiadomosc/Portfel-gwiazd-Kobiety-wchodza-do-gry-9065804.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 11:10:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Wielki protest w Warszawie. Karol Nawrocki spotkał się z rolnikami",
-      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-spotkal-sie-z-rolnikami-wsrod-tematow-umowa-mercosur/xnfwycw",
-      "pubDate": "Fri, 09 Jan 2026 10:08:47 GMT",
-      "source": "Onet"
     }
   ]
 }
