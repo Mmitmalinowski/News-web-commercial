@@ -1,7 +1,43 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T21:53:20.679Z",
+  "generatedAt": "2026-01-18T22:11:55.342Z",
   "items": [
+    {
+      "title": "Awantura w finale Pucharu Afryki. Piłkarze zeszli z boiska po decyzji sędziego",
+      "link": "https://sport.rp.pl/pilka-nozna/art43657011-awantura-w-finale-pucharu-afryki-pilkarze-zeszli-z-boiska-po-decyzji-sedziego",
+      "pubDate": "Sun, 18 Jan 2026 23:08:14 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pierwszy taki wyniki wyborów w Portugalii od 40 lat. Zapowiada się druga tura ",
+      "link": "https://tvn24.pl/swiat/portugalia-wyniki-wyborow-prezydenckich-bedzie-druga-tura-st8855458?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 22:06:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Five dead after high-speed trains collide in Spain",
+      "link": "https://www.bbc.com/news/articles/cedw6ylpynyo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 18 Jan 2026 22:03:41 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "AFCON: Senegal snatches football cup from hosts Morocco",
+      "link": "https://www.dw.com/en/afcon-senegal-snatches-football-cup-from-hosts-morocco/a-75555184?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 18 Jan 2026 22:00:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ursula von der Leyen rozmawiała z przywódcami o Grenlandii. \"Stawimy czoła wyzwaniom\"",
+      "link": "https://wiadomosci.onet.pl/swiat/szefowa-ke-rozmawiala-z-czescia-przywodcow-bedziemy-chronic-nasze-interesy/l8tj6yd",
+      "pubDate": "Sun, 18 Jan 2026 21:59:35 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zmarł dziennikarz sportowy Andrzej Kuczyński. Przez lata w PAP i \"Głosie Wielkopolskim\"",
+      "link": "https://www.wirtualnemedia.pl/andrzej-kuczynski-dziennikarz-zmarl,7244894033922240a",
+      "pubDate": "Sun, 18 Jan 2026 22:53:28 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
     {
       "title": "Alarmujący głos z rządu. Minister o cłach Trumpa: Polska też może stracić",
       "link": "https://wydarzenia.interia.pl/kraj/news-alarmujacy-glos-z-rzadu-minister-o-clach-trumpa-polska-tez-m,nId,22510206",
@@ -97,6 +133,12 @@
       "link": "https://www.rmf24.pl/polityka/news-jak-wielu-amerykanow-popiera-zbrojna-interwencje-na-grenland,nId,8058672",
       "pubDate": "Sun, 18 Jan 2026 22:10:41 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "EU weighs response to Trump's tariff threat over Greenland",
+      "link": "https://www.bbc.com/news/articles/c87r41j4n4jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 18 Jan 2026 21:05:32 GMT",
+      "source": "BBC News"
     },
     {
       "title": "EU holds back trade ‘bazooka’ as it seeks diplomatic solution with the US over Greenland",
@@ -47109,6 +47151,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66774,54 +66840,6 @@
       "title": "Donald Trump wycofuje USA z instytucji ONZ. Organizacja przypomniała mu o składkach",
       "link": "https://wiadomosci.onet.pl/swiat/donald-trump-wycofuje-usa-z-instytucji-onz-przypomnieli-mu-o-skladkach/gj7pjn9",
       "pubDate": "Fri, 09 Jan 2026 16:48:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kijów zamarza po rosyjskim ataku rakietowym. Mer do mieszkańców: wyjeździe, jeśli możecie. \"Wkrótce pozostanie w mieszkaniach będzie niemożliwe\"",
-      "link": "https://wiadomosci.onet.pl/swiat/atak-rakietowy-rosji-na-kijow-mer-do-mieszkancow-wyjezdzie-jesli-mozecie/7n0vcsh",
-      "pubDate": "Fri, 09 Jan 2026 16:48:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Sejm uchwalił ustawę o zawodzie psychologa",
-      "link": "https://www.rp.pl/prawo-dla-ciebie/art43613951-sejm-uchwalil-ustawe-o-zawodzie-psychologa",
-      "pubDate": "Fri, 09 Jan 2026 17:48:30 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Sejm odrzuca projekt PiS. Nie będzie 10-letniego okresu oczekiwania na obywatelstwo",
-      "link": "https://www.bankier.pl/wiadomosc/Sejm-odrzuca-projekt-PiS-Nie-bedzie-10-letniego-okresu-oczekiwania-na-obywatelstwo-9066254.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 17:48:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Why are there huge protests going on in Iran?",
-      "link": "https://www.bbc.com/news/videos/cje1v852evlo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 16:47:37 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "2026 World Cup: Germany to be based at North Carolina hotel",
-      "link": "https://www.dw.com/en/2026-world-cup-germany-to-be-based-at-north-carolina-hotel/a-75455913?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 16:47:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kaczyński ostrzega ws. Mercosur: Zagraża polskiemu rolnictwu i zdrowiu Polaków",
-      "link": "https://www.rmf24.pl/fakty/polska/news-kaczynski-ostrzega-ws-mercosur-zagraza-polskiemu-rolnictwu-i,nId,8056746",
-      "pubDate": "Fri, 09 Jan 2026 17:46:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Krzyż wzmożenia narodowego z Kielna. Prawicowa obrona dodatku do stroju na Halloween?",
-      "link": "https://oko.press/krzyz-wzmozenia-narodowego-z-kielna-prawicowa-obrona-dodatku-do-strojuna-halloween",
-      "pubDate": "Fri, 09 Jan 2026 16:44:54 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Protestujący rolnicy chcą okupować Kancelarię Premiera. \"Będziemy siedzieli do skutku\"",
-      "link": "https://wiadomosci.onet.pl/kraj/protest-rolnikow-w-warszawie-uczestnicy-czekaja-na-premiera/q1f55mq",
-      "pubDate": "Fri, 09 Jan 2026 16:42:52 GMT",
       "source": "Onet"
     }
   ]
