@@ -1,12 +1,18 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T16:47:24.935Z",
+  "generatedAt": "2026-01-18T16:58:24.618Z",
   "items": [
     {
       "title": "Dzieci grały w piłkę, parafia zapłaci fortunę. Batalia o ciszę wyceniona na miliony",
       "link": "https://www.bankier.pl/wiadomosc/Dzieci-graly-w-pilke-parafia-zaplaci-fortune-Batalia-o-cisze-wyceniona-na-miliony-9069874.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 18 Jan 2026 17:50:00 +0100",
       "source": "Bankier.pl"
+    },
+    {
+      "title": "Sekretarz skarbu USA o Grenlandii. \"Tylko wtedy może zostać obroniona\"",
+      "link": "https://wiadomosci.onet.pl/kraj/sekretarz-skarbu-usa-o-grenlandii-tylko-wtedy-moze-zostac-obroniona/f20xwlr",
+      "pubDate": "Sun, 18 Jan 2026 16:46:34 GMT",
+      "source": "Onet"
     },
     {
       "title": "Duże modele językowe już są nie do odróżnienia od ludzkiego pisma? ",
@@ -19,6 +25,18 @@
       "link": "https://wiadomosci.onet.pl/swiat/koniec-walk-na-bliskim-wschodzie-media-donosza-o-zawieszeniu-broni-w-syrii/6nt7e2m",
       "pubDate": "Sun, 18 Jan 2026 16:41:32 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Chile declares 'state of catastrophe' as deadly wildfires menace cities",
+      "link": "https://www.bbc.com/news/articles/cz7ypw4rjrzo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Sun, 18 Jan 2026 16:39:49 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "UK politics ‘constantly suffering’ from online disinformation, says Labour MP",
+      "link": "https://www.theguardian.com/politics/2026/jan/18/uk-politics-constantly-suffering-from-online-disinformation-says-labour-mp-emily-thornberry",
+      "pubDate": "Sun, 18 Jan 2026 16:38:25 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Upadek Starmera i niepodległa Szkocja. Lider zapowiada referendum",
@@ -45783,6 +45801,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66457,30 +66499,6 @@
       "link": "http://www.euronews.com/my-europe/2026/01/09/eu-rejects-violence-against-protesters-in-iran-backs-legitimate-aspiration-for-change",
       "pubDate": "Fri, 09 Jan 2026 15:39:37 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "W pożarze mieszkania zginęła jedna osoba. 46-latek w areszcie ",
-      "link": "https://tvn24.pl/szczecin/szczecin-w-pozarze-mieszkania-jedna-osoba-zginela-46-latek-w-areszcie-st8838598?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 14:39:21 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "The continued mysteries surrounding the intelligence operation to capture Maduro",
-      "link": "https://www.bbc.com/news/articles/cp37yr2xq7no?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 09 Jan 2026 14:39:15 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "US in process of seizing fifth tanker in effort to control Venezuelan oil",
-      "link": "https://www.theguardian.com/world/2026/jan/09/us-venezuela-oil-tanker-seizure",
-      "pubDate": "Fri, 09 Jan 2026 14:37:34 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Niedźwiedzie maleją – i łagodnieją. Zaskakujący efekt działalności człowieka",
-      "link": "https://klimat.rp.pl/zwierzeta/art43590191-niedzwiedzie-maleja-i-lagodnieja-zaskakujacy-efekt-dzialalnosci-czlowieka",
-      "pubDate": "Fri, 09 Jan 2026 15:36:28 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
