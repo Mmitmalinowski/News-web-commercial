@@ -1,11 +1,47 @@
 {
-  "generatedAt": "2026-01-18T11:39:21.657Z",
+  "generatedAt": "2026-01-18T11:48:50.193Z",
   "items": [
     {
       "title": "NASA za chwilę leci na Księżyc. Artemis II stoi już na wyrzutni",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 18 Jan 2026 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Filmy Sony Pictures jeszcze szybciej na Netfliksie. Nowa umowa",
+      "link": "https://www.wirtualnemedia.pl/filmy-sony-pictures-jeszcze-szybciej-na-netfliksie-nowa-umowa,7244739680237792a",
+      "pubDate": "Sun, 18 Jan 2026 12:47:19 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Konkurencja odjechała Google Chrome. Nie na długo",
+      "link": "https://www.tabletowo.pl/konkurencja-odjechala-google-chrome-nie-na-dlugo/",
+      "pubDate": "Sun, 18 Jan 2026 11:43:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Ferie zimowe w Polsce i za granicą. Gdzie wyjeżdżają Polacy w 2026 roku?",
+      "link": "https://geekweek.interia.pl/podroze/news-ferie-zimowe-w-polsce-i-za-granica-gdzie-wyjezdzaja-polacy-w,nId,22510099",
+      "pubDate": "Sun, 18 Jan 2026 11:41:29 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Zaległy urlop. Ile jest czasu na jego wykorzystanie?",
+      "link": "https://biznes.interia.pl/praca/news-zalegly-urlop-ile-jest-czasu-na-jego-wykorzystanie,nId,22509746",
+      "pubDate": "Sun, 18 Jan 2026 11:40:01 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Ziobro z azylem. \"Prezydent Karol Nawrocki nie pomagał\"",
+      "link": "https://tvn24.pl/polska/azyl-dla-zbigniewa-ziobry-gajadhur-prezydent-karol-nawrocki-nie-pomagal-st8854793?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 11:38:47 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Na jezdni S8 miały leżeć \"rozżarzone węgle\". Strażacy znaleźli... pomidory",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-na-jezdni-s8-mialy-lezec-rozzarzone-wegle-strazacy-znalezli-pomidory-st8854744?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 11:37:25 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Brytyjski dziennikarz: odkupmy Stany Zjednoczone",
@@ -618,6 +654,12 @@
       "link": "https://businessinsider.com.pl/finanse/strefa-euro-pod-presja-inflacji-rentownosci-obligacji-ida-w-gore/lfwcf59",
       "pubDate": "Sun, 18 Jan 2026 09:01:32 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Ogniwa wodorowe w 2026: gdzie „dowożą”, a gdzie wciąż nie dają rady",
+      "link": "https://antyweb.pl/gdzie-ogniwa-wodorowe-maja-szanse-sie-sprawdzic",
+      "pubDate": "Sun, 18 Jan 2026 09:00:07 GMT",
+      "source": "Antyweb"
     },
     {
       "title": "Donald Trump zapowiadał odwet, wojsko zabiło terrorystę",
@@ -43976,6 +44018,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -69366,54 +69432,6 @@
       "link": "https://spidersweb.pl/2026/01/tak-windowsa-juz-nie-aktywujesz-mozesz-odlozyc-telefon.html",
       "pubDate": "Fri, 09 Jan 2026 14:53:03 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Maciej Boguszewski w firmie InPost. Wcześniej odpowiadał za strategię Kanału Zero i Grupy Weszło",
-      "link": "https://www.wirtualnemedia.pl/maciej-boguszewski-w-firmie-inpost-wczesniej-odpowiadal-za-strategie-kanalu-zero-i-grupy-weszlo,7241546633222656a",
-      "pubDate": "Fri, 09 Jan 2026 14:52:59 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Jest marzeniem Trumpa. Dania może liczyć nie tylko na pomoc NATO",
-      "link": "https://tech.wp.pl/jest-marzeniem-trumpa-dania-moze-liczyc-nie-tylko-na-pomoc-nato,7241193542912512a",
-      "pubDate": "Fri, 09 Jan 2026 14:52:38 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Spotkanie Karola Nawrockiego z Donaldem Tuskiem. Jest pierwsza reakcja z Pałacu Prezydenckiego",
-      "link": "https://wiadomosci.onet.pl/kraj/spotkanie-karola-nawrockiego-z-donaldem-tuskiem-jest-pierwsza-reakcja-z-palacu/gt47vr6",
-      "pubDate": "Fri, 09 Jan 2026 13:51:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Spotkanie Karola Nawrockiego z Donaldem Tuskiem. Jest pierwsza reakcja z Pałacu Prezydenckiego",
-      "link": "https://wiadomosci.onet.pl/kraj/spotkanie-tusk-nawrocki-jest-pierwsza-reakcja-z-palacu-prezydenckiego/gt47vr6",
-      "pubDate": "Fri, 09 Jan 2026 13:51:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Bezrobotnych w Polsce przybywa. Ministerstwo opublikowało nowe dane",
-      "link": "https://biznes.interia.pl/praca/news-w-polsce-przybywa-bezrobotnych-zwracaja-uwage-dwa-wojewodztw,nId,22506938",
-      "pubDate": "Fri, 09 Jan 2026 13:51:42 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Mniej znana strona umowy z Mercosur. Unia chce więcej surowców krytycznych",
-      "link": "https://businessinsider.com.pl/gospodarka/umowa-ue-z-mercosur-surowce-krytyczne-z-ameryki-poludniowej-kluczowe-dla-europy/1glst76",
-      "pubDate": "Fri, 09 Jan 2026 13:51:27 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Mniej znana strona umowy z Mercosurem. Unia chce więcej surowców krytycznych",
-      "link": "https://businessinsider.com.pl/gospodarka/umowa-ue-z-mercosurem-surowce-krytyczne-z-ameryki-poludniowej-kluczowe-dla-europy/1glst76",
-      "pubDate": "Fri, 09 Jan 2026 13:51:27 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wyrzuciła przez okno ubrania i garnek z zupą. Potem dźgnęła nożem partnera",
-      "link": "https://tvn24.pl/poznan/zabojstwo-w-koscielnej-wsi-jest-akt-oskarzenia-st8838533?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 13:51:11 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -121106,6 +121124,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151925,12 +151967,6 @@
       "title": "Ciemne strony AI. Jak odkurzacz wysysa pieniądze i hamuje prawdziwe innowacje",
       "link": "https://pro.rp.pl/pro/art43512491-ciemne-strony-ai-jak-odkurzacz-wysysa-pieniadze-i-hamuje-prawdziwe-innowacje",
       "pubDate": "Sun, 21 Dec 2025 21:47:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "USA ścigają kolejny tankowiec? To już kolejny w tym tygodniu",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43545341-usa-scigaja-kolejny-tankowiec-to-juz-kolejny-w-tym-tygodniu",
-      "pubDate": "Sun, 21 Dec 2025 21:46:00 +0100",
       "source": "Rzeczpospolita"
     }
   ],
