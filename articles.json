@@ -1,9 +1,45 @@
 {
-  "generatedAt": "2026-01-18T08:51:32.499Z",
+  "generatedAt": "2026-01-18T09:00:54.200Z",
   "items": [
+    {
+      "title": "Donald Trump zapowiadał odwet, wojsko zabiło terrorystę",
+      "link": "https://tvn24.pl/swiat/amerykanie-zabili-w-syrii-terroryste-bilal-hasan-al-dzasim-powiazanego-z-al-kaida-st8854405?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 09:00:06 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Trump nakłada wyższe cła na 8 państw europejskich. To kara za obronę Grenlandii",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/trump-zapowiedzial-cla-na-panstwa-ue-to-kara-za-obrone-grenlandii",
+      "pubDate": "Sun, 18 Jan 2026 08:56:44 +0000",
+      "source": "OKO.press"
+    },
+    {
+      "title": "Premier Hiszpanii: To uczyniłoby Putina najszczęśliwszym człowiekiem na świecie",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-premier-hiszpanii-to-uczyniloby-putina-najszczesliwszym-czlo,nId,8058597",
+      "pubDate": "Sun, 18 Jan 2026 09:56:43 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Awantura w studiu o Fundusz Sprawiedliwości. \"Ja wydawałem?!\"",
+      "link": "https://wiadomosci.onet.pl/kraj/awantura-w-studiu-o-fundusz-sprawiedliwosci-ja-wydawalem/bet5qd9",
+      "pubDate": "Sun, 18 Jan 2026 08:54:56 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zaginięcie Iwony Wieczorek. Nowy komunikat policji",
+      "link": "https://tvn24.pl/trojmiasto/zaginiecie-iwony-wieczorek-nowy-komunikat-policji-szukaja-kierowcy-bialego-fiata-st8854557?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 08:54:44 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Protesty w Minnesocie. Pentagon gotowy wysłać żołnierzy",
       "link": "https://wydarzenia.interia.pl/zagranica/news-protesty-w-minnesocie-pentagon-gotowy-wyslac-zolnierzy,nId,22510072",
+      "pubDate": "Sun, 18 Jan 2026 08:49:35 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "1500 żołnierzy na Alasce w stanie gotowości. Mogą ruszyć do Minnesoty",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-1500-zolnierzy-na-alasce-w-stanie-gotowosci-moga-ruszyc-do-m,nId,22510072",
       "pubDate": "Sun, 18 Jan 2026 08:49:35 GMT",
       "source": "Interia"
     },
@@ -22,6 +58,12 @@
     {
       "title": "To może być początek największego zwarcia UE–USA od lat. Trump używa ceł jak bata, a Europa wreszcie mówi: dość. I wyciąga ciężkie działa",
       "link": "https://wiadomosci.onet.pl/politico/to-moze-byc-poczatek-najwiekszego-zwarcia-ueusa-od-lat-trump-uzywa-cel-jak-bata-a/l0zhh0p",
+      "pubDate": "Sun, 18 Jan 2026 08:41:30 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "To może być największe zwarcie UE–USA od lat. Trump wali cłami jak batem, Europa mówi: dość. I wyciąga ciężkie działa",
+      "link": "https://wiadomosci.onet.pl/politico/to-moze-byc-najwieksze-zwarcie-ueusa-od-lat-trump-wali-clami-jak-batem-europa-mowi/l0zhh0p",
       "pubDate": "Sun, 18 Jan 2026 08:41:30 GMT",
       "source": "Onet"
     },
@@ -43028,6 +43070,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -69186,54 +69252,6 @@
       "link": "https://businessinsider.com.pl/gospodarka/zuzycie-energii-w-polskich-domach-wiekszosc-przeznaczana-na-jeden-cel/vc2774s",
       "pubDate": "Fri, 09 Jan 2026 12:37:53 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Kolejne weta prezydenta. \"Gdy rząd pracuje dobrze - weta nie ma\"",
-      "link": "https://tvn24.pl/polska/prezydent-karol-nawrocki-zawetowal-trzy-ustawy-st8838338?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 12:37:38 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Kalendarz szczepień, 88 szczepionek i liczba Hitlera. Tym razem sięgają po \"magię liczb\"    ",
-      "link": "https://konkret24.tvn24.pl/zdrowie/kalendarz-szczepien-88-szczepionek-i-liczba-hitlera-tym-razem-siegaja-po-magie-liczb-st8836686?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 12:37:19 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Tusk przyjechał do Nawrockiego. Rozmowy w cztery oczy",
-      "link": "https://wydarzenia.interia.pl/kraj/news-tusk-przyjechal-do-nawrockiego-rozmowy-w-cztery-oczy,nId,22506733",
-      "pubDate": "Fri, 09 Jan 2026 12:36:59 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Jak wygląda skuteczność ochrony granicy z Białorusią? Są nowe dane",
-      "link": "https://www.rmf24.pl/fakty/polska/news-jak-wyglada-skutecznosc-ochrony-granicy-z-bialorusia-sa-nowe,nId,8056519",
-      "pubDate": "Fri, 09 Jan 2026 13:36:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rozpoczęło się spotkanie premiera Tuska z prezydentem Nawrockim",
-      "link": "https://wiadomosci.onet.pl/kraj/rozpoczelo-sie-spotkanie-premiera-tuska-z-prezydentem-nawrockim/qg7qc8p",
-      "pubDate": "Fri, 09 Jan 2026 12:35:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Spotkanie premiera Tuska z prezydentem Nawrockim",
-      "link": "https://wiadomosci.onet.pl/kraj/spotkanie-premiera-tuska-z-prezydentem-nawrockim/qg7qc8p",
-      "pubDate": "Fri, 09 Jan 2026 12:35:55 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Są kolejne trzy weta Karola Nawrockiego",
-      "link": "https://www.rmf24.pl/polityka/news-sa-kolejne-trzy-weta-karola-nawrockiego,nId,8056520",
-      "pubDate": "Fri, 09 Jan 2026 13:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Nie będzie blokowania nielegalnych treści w internecie. Ustawa zablokowana przez prezydenta",
-      "link": "https://www.bankier.pl/wiadomosc/Nie-bedzie-blokowania-nielegalnych-tresci-w-internecie-Ustawa-zablokowana-przez-prezydenta-9065952.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 13:35:00 +0100",
-      "source": "Bankier.pl"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -120686,6 +120704,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151566,12 +151608,6 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rosja-zmienia-taktyke-zolnierz-ostrzega-wrog-podejmie-probe,nId,22501859",
       "pubDate": "Sun, 21 Dec 2025 20:19:51 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Australia news live: farmers groups push back against ‘rushed’ Minns gun reforms; Coalition proposes terms of reference for antisemitism royal commission",
-      "link": "https://www.theguardian.com/australia-news/live/2025/dec/22/australia-news-live-bondi-beach-terror-attack-chris-minns-nsw-gun-reforms-anthony-albanese-coalition-sussan-ley-antisemitism-royal-commission-ntwnfb",
-      "pubDate": "Sun, 21 Dec 2025 20:12:52 GMT",
-      "source": "The Guardian"
     }
   ],
   "totalArticles": 20000,
