@@ -1,6 +1,30 @@
 {
-  "generatedAt": "2026-01-18T03:55:00.441Z",
+  "generatedAt": "2026-01-18T04:38:43.123Z",
   "items": [
+    {
+      "title": "Nie żyją matka i córka. Straż pożarna: prawdopodobnie to koleje ofiary czadu",
+      "link": "https://tvn24.pl/kujawsko-pomorskie/przydatki-golaszewskie-kujawsko-pomorskie-nie-zyja-matka-i-corka-straz-pozarna-prawdopodobnie-to-koleje-ofiary-czadu-st8854403?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 04:30:32 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Groźby Trumpa, podpisanie umowy z Mercosur, rozdanie \"europejskich Oscarów\"",
+      "link": "https://tvn24.pl/polska/piec-rzeczy-ktore-warto-wiedziec-w-niedziele-18-stycznia-st8854417?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 04:20:36 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Antycyklon Christian zdominuje Polskę. Takiej pogody nie było od tygodni",
+      "link": "https://wiadomosci.onet.pl/pogoda/antycyklon-christian-zdominuje-polske-czegos-takiego-w-pogodzie-dawno-nie-bylo/mx23gj8",
+      "pubDate": "Sun, 18 Jan 2026 04:14:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wyjeżdżasz w ferie? Brak tej niewielkiej rzeczy może skończyć się dramatycznym rachunkiem",
+      "link": "https://businessinsider.com.pl/lifestyle/jesli-jedziesz-za-granice-i-nie-masz-ekuz-to-mozesz-slono-zalowac/shh26br",
+      "pubDate": "Sun, 18 Jan 2026 03:58:00 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "US: Anti-ICE protesters clash with far-right group in Minneapolis",
       "link": "https://www.dw.com/en/us-anti-ice-protesters-clash-with-far-right-group-in-minneapolis/a-75551272?maca=en-rss-en-all-1573-xml-mrss",
@@ -41720,6 +41744,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68970,36 +69018,6 @@
       "link": "https://www.theguardian.com/environment/2026/jan/09/weather-tracker-kosovo-floods-trap-people-in-homes-and-cut-water-supplies",
       "pubDate": "Fri, 09 Jan 2026 10:40:17 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Rosja traci oparcie gospodarcze w Chinach. Kreml reaguje nerwowo",
-      "link": "https://businessinsider.com.pl/gospodarka/rosja-traci-eksport-do-chin-kreml-reaguje-nerwowo/3pm7p1f",
-      "pubDate": "Fri, 09 Jan 2026 10:40:14 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Eksport Rosji do Chin ostro w dół. Kreml reaguje nerwowo",
-      "link": "https://businessinsider.com.pl/gospodarka/eksport-rosji-do-chin-ostro-w-dol-nerwowa-reakcja-kremla/3pm7p1f",
-      "pubDate": "Fri, 09 Jan 2026 10:40:14 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Co dalej z rynkiem parków handlowych? „Polska nie jest nawet blisko nasycenia”",
-      "link": "https://www.rp.pl/handel/art43609021-co-dalej-z-rynkiem-parkow-handlowych-polska-nie-jest-nawet-blisko-nasycenia",
-      "pubDate": "Fri, 09 Jan 2026 11:37:51 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Poziom wody przekroczył stan alarmowy. Alert dla 4 województw",
-      "link": "https://www.rmf24.pl/pogoda/news-poziom-wody-przekroczyl-stan-alarmowy-alert-dla-4-wojewodztw,nId,8056454",
-      "pubDate": "Fri, 09 Jan 2026 11:37:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Dramatyczny apel mera Kijowa. \"Kto może, niech opuści miasto\"",
-      "link": "https://wiadomosci.onet.pl/swiat/dramatyczny-apel-mera-kijowa-kto-moze-niech-opusci-miasto/471c9vf",
-      "pubDate": "Fri, 09 Jan 2026 10:36:24 GMT",
-      "source": "Onet"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -120140,6 +120158,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151098,12 +151140,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-tymur-mindicz-odnaleziony-w-izraelu-ukrainska-prawda-ujawnia,nId,8052676",
       "pubDate": "Sun, 21 Dec 2025 20:47:12 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "More than 800 people cross Channel in dinghies, breaking record for December",
-      "link": "https://www.theguardian.com/uk-news/2025/dec/21/people-channel-dinghies-record-december",
-      "pubDate": "Sun, 21 Dec 2025 19:39:54 GMT",
-      "source": "The Guardian"
     }
   ],
   "totalArticles": 20000,
