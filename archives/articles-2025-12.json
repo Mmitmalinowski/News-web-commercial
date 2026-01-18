@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-18T05:01:49.318Z",
+  "generatedAt": "2026-01-18T05:33:31.917Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -51189,6 +51189,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -82135,12 +82159,6 @@
       "link": "https://tvn24.pl/polska/walki-frakcji-w-pis-jacek-sasin-zorganizowal-swoje-spotkanie-przeciwko-morawieckiemu-st8812724?source=rss",
       "pubDate": "Sun, 21 Dec 2025 19:57:24 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Wicepremier odmówił odpowiedzi na jedno pytanie. \"Nie mogę się zajmować\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-wicepremier-sikorski-odmowil-odpowiedzi-na-jedno-pytanie-nie,nId,22501863",
-      "pubDate": "Sun, 21 Dec 2025 19:56:05 GMT",
-      "source": "Interia"
     }
   ]
 }
