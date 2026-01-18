@@ -1,12 +1,60 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T17:22:25.191Z",
+  "generatedAt": "2026-01-18T17:39:17.166Z",
   "items": [
+    {
+      "title": "Australian Open. Nie psujmy Idze zabawy",
+      "link": "https://sport.rp.pl/tenis/art43656501-australian-open-nie-psujmy-idze-zabawy",
+      "pubDate": "Sun, 18 Jan 2026 18:36:44 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Kucharz, mechanik lub informatyk pilnie poszukiwani. Polska Stacja Polarna na Spitsbergenie rekrutuje",
+      "link": "https://www.bankier.pl/wiadomosc/Kucharz-mechanik-lub-informatyk-pilnie-poszukiwani-Polska-Stacja-Polarna-na-Spitsbergenie-rekrutuje-9068831.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 18:35:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Między technologiami i komfortem pracowników",
+      "link": "https://www.rp.pl/praca/art43656821-miedzy-technologiami-i-komfortem-pracownikow",
+      "pubDate": "Sun, 18 Jan 2026 18:34:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polska i Europa – czas na nowy porządek. Ważna debata w lutym w Warszawie",
+      "link": "https://www.rp.pl/wydarzenia-gospodarcze/art43656781-polska-i-europa-czas-na-nowy-porzadek-wazna-debata-w-lutym-w-warszawie",
+      "pubDate": "Sun, 18 Jan 2026 18:28:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Government pulls amendment to Hillsborough law after backlash",
+      "link": "https://www.theguardian.com/football/2026/jan/18/government-amendment-hillsborough-law-backlash",
+      "pubDate": "Sun, 18 Jan 2026 17:24:11 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Kraków buntuje się przeciwko Strefie Czystego Transportu. Ludzie mają dość",
+      "link": "https://android.com.pl/moto/1008787-krakow-buntuje-sie-przeciwko-sct/",
+      "pubDate": "Sun, 18 Jan 2026 17:24:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "8 państw NATO solidarnie z Danią i Grenlandią. Oświadczenie po groźbach Trumpa",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/osiem-krajow-nato-solidarnie-z-dania-i-grenlandia-wspolne-oswiadczenie-po-grozbach-trumpa",
+      "pubDate": "Sun, 18 Jan 2026 17:21:38 +0000",
+      "source": "OKO.press"
+    },
     {
       "title": "Jednym słowem \"wow\". Na pokładzie największego promu w polskiej flocie",
       "link": "https://tvn24.pl/polska/prom-jantar-unity-zwiedzajacy-weszli-na-jego-poklad-st8855308?source=rss",
       "pubDate": "Sun, 18 Jan 2026 17:17:29 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Uganda’s president calls opponents 'terrorists' in victory speech",
+      "link": "https://www.theguardian.com/world/2026/jan/18/ugandas-president-calls-opponents-terrorists-in-victory-speech",
+      "pubDate": "Sun, 18 Jan 2026 17:17:19 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Jak zmienić sprzedawcę prądu? To naprawdę proste",
@@ -45933,6 +45981,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66463,60 +66535,6 @@
       "link": "http://www.euronews.com/travel/2026/01/09/as-ees-rollout-expands-travel-association-urges-use-of-contingency-measures-to-ease-delays",
       "pubDate": "Fri, 09 Jan 2026 15:56:24 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Nowa rada Karola Nawrockiego. Siedmiu posłów będzie współpracować z prezydentem",
-      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-otoczyl-sie-siodemka-poslow-nie-tylko-z-opozycji/sdx2wgg",
-      "pubDate": "Fri, 09 Jan 2026 14:55:14 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Amerykanie zatrzymali tankowiec Olina z \"floty cieni\". Transportował wenezuelską ropę",
-      "link": "https://wiadomosci.onet.pl/swiat/usa-przejmuja-na-karaibach-tankowiec-olina-z-ropa-nalezal-do-floty-cieni/60e2lx7",
-      "pubDate": "Fri, 09 Jan 2026 14:54:34 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Charity watchdog opens statutory inquiry into City & Guilds’ sale of business arm",
-      "link": "https://www.theguardian.com/business/2026/jan/09/charity-watchdog-inquiry-city-and-guilds-sale-business",
-      "pubDate": "Fri, 09 Jan 2026 14:53:56 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Prognoza długoterminowa IMGW. Pogoda na zimę i początek wiosny",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/prognoza-dlugoterminowa-imgw-luty-marzec-kwiecien-i-maj-pogoda-na-zime-i-poczatek-wiosny-2026-st8838757?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 14:53:48 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Głód, dług i zimne podwórka. Kryzys lat 30. zepchnął tysiące na bruk",
-      "link": "https://www.rp.pl/plus-minus/art43606041-glod-dlug-i-zimne-podworka-kryzys-lat-30-zepchnal-tysiace-na-bruk",
-      "pubDate": "Fri, 09 Jan 2026 15:51:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "US seizes Olina oil tanker in Caribbean",
-      "link": "https://www.dw.com/en/us-seizes-olina-oil-tanker-in-caribbean/a-75454021?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 14:51:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Trzeci stan materii. Przełom w badaniach nad fuzją jądrową",
-      "link": "https://tech.wp.pl/trzeci-stan-materii-przelom-w-badaniach-nad-fuzja-jadrowa,7241479224851424a",
-      "pubDate": "Fri, 09 Jan 2026 15:50:05 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Po spotkaniu Nawrockiego z Tuskiem. Wspólny front ws. Ukrainy",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/po-spotkaniu-nawrockiego-z-tuskiem-wspolny-front-ws-ukrainy",
-      "pubDate": "Fri, 09 Jan 2026 14:49:28 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Trzy zagadki Wszechświata rozwiązane za jednym razem. Poznajcie ciemne gwiazdy",
-      "link": "https://spidersweb.pl/2026/01/ciemne-gwiazdy-poczatek-wszechswiata.html",
-      "pubDate": "Fri, 09 Jan 2026 15:46:39 +0100",
-      "source": "Spider's Web"
     }
   ]
 }
