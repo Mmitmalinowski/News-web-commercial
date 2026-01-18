@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-18T16:58:24.684Z",
+  "generatedAt": "2026-01-18T17:22:25.257Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -52101,6 +52101,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -82819,12 +82843,6 @@
       "link": "https://www.bbc.com/news/articles/cjrjpdz33vxo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Sun, 21 Dec 2025 22:08:39 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Kard. Grzegorz Ryś spotkał się z naczelnym rabinem Polski. \"Tego nas uczą nasze wiary\"",
-      "link": "https://wiadomosci.onet.pl/krakow/kard-rys-spotkal-sie-z-naczelnym-rabinem-polski-tego-nas-ucza-nasze-wiary/jwvy61g",
-      "pubDate": "Sun, 21 Dec 2025 22:02:09 GMT",
-      "source": "Onet"
     }
   ]
 }
