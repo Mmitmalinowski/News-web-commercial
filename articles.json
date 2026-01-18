@@ -1,11 +1,185 @@
 {
-  "generatedAt": "2026-01-18T11:58:12.854Z",
+  "generatedAt": "2026-01-18T12:48:27.534Z",
   "items": [
     {
       "title": "NASA za chwilę leci na Księżyc. Artemis II stoi już na wyrzutni",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 18 Jan 2026 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Supermasywna czarna dziura ponownie aktywna po milionach lat spokoju",
+      "link": "https://geekweek.interia.pl/kosmos/news-supermasywna-czarna-dziura-ponownie-aktywna-po-milionach-lat,nId,22510075",
+      "pubDate": "Sun, 18 Jan 2026 12:41:27 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "ChatGPT zacznie wyświetlać reklamy. Będą oparte na treściach z rozmów",
+      "link": "https://wiadomosci.onet.pl/swiat/chatgpt-wprowadzi-reklamy-beda-personalizowane-na-podstawie-rozmow/hwy6ekz",
+      "pubDate": "Sun, 18 Jan 2026 12:40:48 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Awantura w programie na żywo. \"Panie pośle, ja pana proszę, ja pana błagam!\"",
+      "link": "https://wiadomosci.onet.pl/kraj/awantura-w-programie-na-zywo-panie-posle-ja-pana-prosze-ja-pana-blagam/3z4tfjl",
+      "pubDate": "Sun, 18 Jan 2026 12:31:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Pekin kontra Tokio. Napięcia uderzają w eksport kluczowych surowców",
+      "link": "https://www.money.pl/gielda/pekin-kontra-tokio-napiecia-uderzaja-w-eksport-kluczowych-surowcow-7244747685836992a.html",
+      "pubDate": "Sun, 18 Jan 2026 13:29:37 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Średni czas oczekiwania na leczenie to ponad 4 miesiące. Kolejki dwydłużyły się dwukrotnie",
+      "link": "https://www.bankier.pl/wiadomosc/Sredni-czas-oczekiwania-na-leczenie-to-ponad-4-miesiace-Kolejki-dwydluzyly-sie-dwukrotnie-9066914.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 13:23:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Tryb incognito wcale nie taki bezpieczny. Wiele osób o tym nie wie",
+      "link": "https://android.com.pl/tech/1010522-jak-naprawde-dziala-tryb-incognito/",
+      "pubDate": "Sun, 18 Jan 2026 12:22:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Uderzył w radiowóz, później w inne auto. Miał przy sobie narkotyki",
+      "link": "https://tvn24.pl/trojmiasto/gdansk-uderzyl-w-radiowoz-pozniej-w-inne-auto-mial-przy-sobie-narkotyki-st8854745?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 12:21:26 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Wygenerowali nagie zdjęcie koleżanki z klasy. Prokuratura wznawia sprawę",
+      "link": "https://wiadomosci.onet.pl/warszawa/wygenerowali-nagie-zdjecie-kolezanki-z-klasy-prokuratura-wznawia-sprawe/vxr31jy",
+      "pubDate": "Sun, 18 Jan 2026 12:20:20 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Zachowek od darowizny mieszkania. Tyle dostaniesz, jeśli zostałeś pominięty",
+      "link": "https://biznes.interia.pl/finanse/news-zachowek-od-darowizny-mieszkania-tyle-dostaniesz-jesli-zosta,nId,22509630",
+      "pubDate": "Sun, 18 Jan 2026 12:20:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Minister infrastruktury: Strefy czystego transportu nie są dobrym rozwiązaniem",
+      "link": "https://www.bankier.pl/wiadomosc/Minister-infrastruktury-Strefy-czystego-transportu-nie-sa-dobrym-rozwiazaniem-9067380.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 13:20:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "UE odpowiada na nowe cła Donalda Trumpa. Umowa handlowa z USA zawieszona",
+      "link": "https://www.rp.pl/handel/art43655331-ue-odpowiada-na-nowe-cla-donalda-trumpa-umowa-handlowa-z-usa-zawieszona",
+      "pubDate": "Sun, 18 Jan 2026 13:18:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Można zamrozić jezioro ciekłym azotem i po nim przejść? \"Odradzam\"",
+      "link": "https://konkret24.tvn24.pl/tech/mozna-zamrozic-jezioro-cieklym-azotem-i-po-nim-przejsc-odradzam-st8853084?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 12:16:22 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zapowiedź Trumpa, branża alarmuje. \"Koszty byłyby ogromne\"",
+      "link": "https://tvn24.pl/biznes/ze-swiata/zapowiedz-trumpa-branza-alarmuje-koszty-bylyby-ogromne-st8854863?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 12:10:42 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Oddajemy naszą prywatność za darmo. Niebezpieczny trend o 2016 roku",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/2016-challenge-to-niebezpieczenstwo-za-darmo-oddajemy-nasza-prywatnosc/8pfwbzt",
+      "pubDate": "Sun, 18 Jan 2026 12:10:32 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Watch: What actually happens during the World Economic Forum in Davos?",
+      "link": "http://www.euronews.com/my-europe/2026/01/18/watch-what-actually-happens-during-the-world-economic-forum-in-davos",
+      "pubDate": "Sun, 18 Jan 2026 13:10:22 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Meloni rozmawiała z Trumpem. \"Powiedziałam mu, co myślę\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-meloni-rozmawiala-z-trumpem-powiedzialam-mu-co-mysle,nId,22510107",
+      "pubDate": "Sun, 18 Jan 2026 12:09:01 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Syrian army extends control in north, seizes gas, oil fields",
+      "link": "https://www.dw.com/en/syrian-army-extends-control-in-north-seizes-gas-oil-fields/a-75551958?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 18 Jan 2026 12:03:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Trump grozi Europie dodatkowymi cłami. Niemcy chcą uruchomić procedurę",
+      "link": "https://biznes.interia.pl/gospodarka/news-niemcy-wzywaja-do-kontrataku-cla-usa-ws-grenlandii-groza-eur,nId,22510112",
+      "pubDate": "Sun, 18 Jan 2026 12:02:59 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Epstein survivors say financier lured them with promise of college education",
+      "link": "https://www.theguardian.com/us-news/2026/jan/18/jeffrey-epstein-lure-victims-college-education",
+      "pubDate": "Sun, 18 Jan 2026 12:00:55 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Growing sense of embarrassment at Fifa over Donald Trump peace prize",
+      "link": "https://www.theguardian.com/football/2026/jan/18/embarrassment-fifa-donald-trump-peace-prize",
+      "pubDate": "Sun, 18 Jan 2026 12:00:54 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Nikt nie odważył się rzucić wyzwania premierowi. Tusk jedynym kandydatem na szefa KO",
+      "link": "https://www.bankier.pl/wiadomosc/Nikt-nie-odwazyl-sie-rzucic-wyzwania-premierowi-Tusk-jedynym-kandydatem-na-szefa-KO-9070135.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 13:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Syryjska armia zajęła największe w kraju pole naftowe",
+      "link": "https://www.bankier.pl/wiadomosc/Syryjska-armia-zajela-najwieksze-w-kraju-pole-naftowe-9070137.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 13:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Polska wycofuje konie, Słowacja je wprowadza. „Zvernica” rusza już w styczniu",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-wycofuje-konie-Slowacja-je-wprowadza-Zvernica-rusza-juz-w-styczniu-9070129.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 13:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Pożar na weselu w Targanicach, obiekt spłonął. Goście bawili się obok",
+      "link": "https://wydarzenia.interia.pl/malopolskie/news-pozar-na-weselu-w-targanicach-ale-goscie-bawili-sie-do-rana,nId,22510109",
+      "pubDate": "Sun, 18 Jan 2026 11:59:12 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Pogoda na 16 dni. Cały kraj w lodowatym potrzasku",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-16-dni-prognoza-dlugoterminowa-tomasza-wasilewskiego-caly-kraj-w-lodowatym-potrzasku-st8854712?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 11:58:10 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "ChatGPT z reklamami? OpenAI testuje nową strategię",
+      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/openai-wprowadza-reklamy-do-chatgpt-to-moze-byc-kluczowy-krok-w-rozwoju/zf9n8pf",
+      "pubDate": "Sun, 18 Jan 2026 11:57:46 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Zdzisław Beksiński wspierał WOŚP. Pomoc, która trwa nadal",
+      "link": "https://tvn24.pl/rzeszow/wosp-2026-praca-zdzislawa-beksinskiego-na-aukcji-wosp-st8854672?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 11:56:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Lawinowe Centrum Treningowe na Kalatówkach otwarte",
+      "link": "https://www.rmf24.pl/regiony/zakopane/news-lawinowe-centrum-treningowe-na-kalatowkach-otwarte,nId,8058612",
+      "pubDate": "Sun, 18 Jan 2026 12:55:30 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Karol Nawrocki pomógł Zbigniewowi Ziobrze? Jest głos z Pałacu Prezydenckiego",
+      "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-pomogl-zbigniewowi-ziobrze-jest-glos-z-palacu-prezydenckiego/dp0jszy",
+      "pubDate": "Sun, 18 Jan 2026 11:53:43 GMT",
+      "source": "Onet"
     },
     {
       "title": "Holenderski minister nie przebiera w słowach po nowej decyzji Trumpa. \"Szantaż\"",
@@ -36,6 +210,12 @@
       "link": "https://businessinsider.com.pl/lifestyle/udar-przed-trzydziestka-dalo-mi-to-wazne-lekcje-ktore-wciaz-nosze-ze-soba/jv5tmkv",
       "pubDate": "Sun, 18 Jan 2026 11:46:13 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Trump tariff threats are bad, but the uncertainty they instill is much worse",
+      "link": "https://www.theguardian.com/business/2026/jan/18/trump-tariff-threats-economic-uncertainty-analysis",
+      "pubDate": "Sun, 18 Jan 2026 11:45:23 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Dmitrij Miedwiediew pisze o Grenlandii. \"Bezczelni Europejczycy\"",
@@ -248,6 +428,12 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "320 km/h na polskich torach. Ekspert: Połowa zysków z pociągów KDP może zostać w Polsce",
+      "link": "https://www.bankier.pl/wiadomosc/320-km-h-na-polskich-torach-Ekspert-Polowa-zyskow-z-pociagow-KDP-moze-zostac-w-Polsce-9070122.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 12:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Zelenskyy says Russia taking aim at Ukraine's nuclear power stations",
       "link": "http://www.euronews.com/2026/01/18/zelenskyy-russia-ukraine-nuclear-power-stations",
       "pubDate": "Sun, 18 Jan 2026 11:54:50 +0100",
@@ -456,6 +642,18 @@
       "link": "https://www.theguardian.com/world/2026/jan/18/uk-stance-greenland-future-non-negotiable-says-lisa-nandy",
       "pubDate": "Sun, 18 Jan 2026 10:00:38 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Koniec blokowania sieci? Rząd walczy ze spekulacją, branża OZE protestuje",
+      "link": "https://www.bankier.pl/wiadomosc/Koniec-blokowania-sieci-Rzad-walczy-ze-spekulacja-branza-OZE-protestuje-9067959.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 11:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Mattel stworzyło lakę Barbie w spektrum autyzmu. \"Reprezentacja ma ogromne znaczenie\"",
+      "link": "https://www.bankier.pl/wiadomosc/Mattel-stworzylo-lake-Barbie-w-spektrum-autyzmu-Reprezentacja-ma-ogromne-znaczenie-9066858.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 11:00:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Kolejne miasto \"obwarzanka\" wprowadza nocną prohibicję",
@@ -710,6 +908,12 @@
       "source": "Rzeczpospolita"
     },
     {
+      "title": "Luwr wprowadził podwyższone ceny biletów dla turystów spoza Europy",
+      "link": "https://www.bankier.pl/wiadomosc/Luwr-wprowadzil-podwyzszone-ceny-biletow-dla-turystow-spoza-Europy-9068513.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sun, 18 Jan 2026 10:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Wybuchy, pożary, ofiary śmiertelne. 201 dronów uderzyło w Ukrainę ",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-wybuchy-pozary-ofiary-smiertelne-201-dronow-uderzylo-w-ukrai,nId,22510065",
       "pubDate": "Sun, 18 Jan 2026 08:58:55 GMT",
@@ -880,6 +1084,12 @@
     {
       "title": "Obiekty z Białorusi nad Polską. Wciąż nadlatują, komunikat służb",
       "link": "https://wydarzenia.interia.pl/kraj/news-obiekty-z-bialorusi-nad-polska-wciaz-nadlatuja-komunikat-slu,nId,22510063",
+      "pubDate": "Sun, 18 Jan 2026 08:08:54 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Obiekty z Białorusi nad Polską. Komunikat służb",
+      "link": "https://wydarzenia.interia.pl/kraj/news-obiekty-z-bialorusi-nad-polska-komunikat-sluzb,nId,22510063",
       "pubDate": "Sun, 18 Jan 2026 08:08:54 GMT",
       "source": "Interia"
     },
@@ -44096,6 +44306,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68964,492 +69198,6 @@
       ],
       "pubDate": "2026-01-09T14:09:01Z",
       "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Potężna eksplozja w kosmosie. NASA udostępniła nagranie",
-      "link": "https://geekweek.interia.pl/nauka/news-potezna-eksplozja-w-kosmosie-nasa-udostepnila-nagranie,nId,22506685",
-      "pubDate": "Fri, 09 Jan 2026 14:07:38 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Kolejny statek \"floty cieni\" zatrzymany. Uderzenie w eksport ropy z Wenezueli",
-      "link": "https://www.bankier.pl/wiadomosc/Kolejny-statek-floty-cieni-zatrzymany-Uderzenie-w-eksport-ropy-z-Wenezueli-9066075.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 15:07:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Nowe zagrożenie dla Bałtyku. Niemcy wykryli w wodzie pierwiastki ziem rzadkich",
-      "link": "https://klimat.rp.pl/planeta/art43448271-nowe-zagrozenie-dla-baltyku-niemcy-wykryli-w-wodzie-pierwiastki-ziem-rzadkich",
-      "pubDate": "Fri, 09 Jan 2026 15:05:44 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Polacy biją rekordy. Takiego zapotrzebowania nie było",
-      "link": "https://spidersweb.pl/2026/01/jest-zimno-wiec-bijemy-rekordy.html",
-      "pubDate": "Fri, 09 Jan 2026 15:05:11 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Aleksandra Pilarczyk: To nie rolnicy powinni protestować przeciw umowie z Mercosurem, ale europejscy konsumenci",
-      "link": "https://www.rp.pl/publicystyka/art43612951-aleksandra-pilarczyk-to-nie-rolnicy-powinni-protestowac-przeciw-umowie-z-mercosurem-ale-europejscy-konsumenci",
-      "pubDate": "Fri, 09 Jan 2026 15:04:34 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Radosław Sikorski apeluje w sprawie rosyjskiej ropy. \"Ważne, by zmniejszać wpływy\"",
-      "link": "https://businessinsider.com.pl/polityka/radoslaw-sikorski-w-paryzu-o-bezpieczenstwie-europy-i-roli-polski/zpypmg8",
-      "pubDate": "Fri, 09 Jan 2026 14:04:32 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Czy Bliski Wschód stoi u progu kolejnego wielkiego kryzysu?",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-czy-bliski-wschod-stoi-u-progu-kolejnego-wielkiego-kryzysu,nId,8056697",
-      "pubDate": "Fri, 09 Jan 2026 15:02:03 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Europe will do 'everything it can' to support Syria, von der Leyen says",
-      "link": "http://www.euronews.com/2026/01/09/europe-will-do-everything-it-can-to-support-syria-von-der-leyen-says",
-      "pubDate": "Fri, 09 Jan 2026 15:01:24 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "5G w Polsce jest naprawdę szybkie. Rośnie też popularność Starlinka",
-      "link": "https://www.tabletowo.pl/5g-w-polsce-jest-naprawde-szybkie-rosnie-tez-popularnosc-starlinka/",
-      "pubDate": "Fri, 09 Jan 2026 14:01:16 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Edge w nowym wydaniu. Microsoft zmienia przeglądarkę nie do poznania",
-      "link": "https://antyweb.pl/edge-w-nowym-wydaniu-microsoft-zmienia-przegladarke-nie-do-poznania",
-      "pubDate": "Fri, 09 Jan 2026 14:00:45 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "With a new leader and tired opponent, this should be the Victorian Liberals’ year – if not for self-inflicted wounds",
-      "link": "https://www.theguardian.com/australia-news/2026/jan/10/victorian-liberals-year-ahead-new-leader-jess-wilson",
-      "pubDate": "Fri, 09 Jan 2026 14:00:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Repair and reuse: inside Europe’s refurbished tech market",
-      "link": "http://www.euronews.com/my-europe/2026/01/09/repair-and-reuse-inside-europes-refurbished-tech-market",
-      "pubDate": "Fri, 09 Jan 2026 15:00:32 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Potężne opady śniegu w Czechach. Droga do Polski jest zablokowana",
-      "link": "https://wiadomosci.onet.pl/swiat/potezne-opady-sniegu-w-czechach-droga-do-polski-jest-zablokowana/ry2fhg9",
-      "pubDate": "Fri, 09 Jan 2026 13:59:29 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rosjanie uderzyli Oresznikiem. Kijów mówi o zbrodni wojennej",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-rosjanie-uderzyli-oresznikiem-kijow-mowi-o-zbrodni-wojennej,nId,22506906",
-      "pubDate": "Fri, 09 Jan 2026 13:59:07 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Co przyciąga wyborców do Grzegorza Brauna? Powody potrafią zaskoczyć",
-      "link": "https://wiadomosci.onet.pl/kraj/co-przyciaga-wyborcow-do-grzegorza-brauna-powody-potrafia-zaskoczyc/8vv6epc",
-      "pubDate": "Fri, 09 Jan 2026 13:57:19 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Porządki w UKNF. Regulator stawia na tokenizację",
-      "link": "https://mamstartup.pl/porzadki-w-uknf-regulator-stawia-na-tokenizacje/",
-      "pubDate": "Fri, 09 Jan 2026 13:56:52 +0000",
-      "source": "MamStartup"
-    },
-    {
-      "title": "Noworodek miał 1,62 promila alkoholu. Matka była jeszcze bardziej pijana",
-      "link": "https://wiadomosci.onet.pl/lublin/noworodek-mial-162-promila-alkoholu-matka-byla-jeszcze-bardziej-pijana/tv9l4gn",
-      "pubDate": "Fri, 09 Jan 2026 13:56:52 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "W 2026 roku powstanie nowa jednostka policji? Ekspert krytykuje decyzję",
-      "link": "https://www.rp.pl/sluzby/art43612801-w-2026-roku-powstanie-nowa-jednostka-policji-ekspert-krytykuje-decyzje",
-      "pubDate": "Fri, 09 Jan 2026 14:56:06 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Spanish Epiphany controversy highlights ongoing use of blackface in Europe",
-      "link": "https://www.dw.com/en/spanish-epiphany-controversy-highlights-ongoing-use-of-blackface-in-europe/a-75450704?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 13:56:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Epiphany blackface in Spain highlights racism in Europe",
-      "link": "https://www.dw.com/en/epiphany-blackface-in-spain-highlights-racism-in-europe/a-75450704?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 9 Jan 2026 13:56:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Rok 2026 bez \"spektakularnej epidemii\". Ale czeka nas poważny test",
-      "link": "https://tvn24.pl/zdrowie/rok-2026-bez-spektakularnej-epidemii-ale-czeka-nas-powazny-test-st8838346?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 13:55:05 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -121190,6 +120938,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151998,12 +151770,6 @@
       "link": "https://www.rmf24.pl/regiony/lublin/news-ogromne-kolejki-na-polsko-ukrainskich-przejsciach-granicznyc,nId,8052681",
       "pubDate": "Sun, 21 Dec 2025 21:50:31 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Ostrzeżenia IMGW. Trudne warunki przez całą noc",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-21-22-12-gesta-mgla-niebezpiecznie-na-drogach-st8812759?source=rss",
-      "pubDate": "Sun, 21 Dec 2025 20:49:34 GMT",
-      "source": "TVN24"
     }
   ],
   "totalArticles": 20000,
