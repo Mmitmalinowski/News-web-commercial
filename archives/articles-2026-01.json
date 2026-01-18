@@ -1,7 +1,37 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T15:36:15.349Z",
+  "generatedAt": "2026-01-18T15:47:44.591Z",
   "items": [
+    {
+      "title": "Australia: wielki odpływ dzieci z social mediów. Skasowano prawie 5 mln kont",
+      "link": "https://www.wirtualnemedia.pl/australia-wielki-odplyw-dzieci-z-social-mediow-skasowano-prawie-5-mln-kont,7244802740299968a",
+      "pubDate": "Sun, 18 Jan 2026 16:43:32 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "'It's like zombies have attacked us, we smell blood everywhere, we're devastated' says eyewitness to Iranian protests",
+      "link": "http://www.euronews.com/2026/01/18/zombies-iran",
+      "pubDate": "Sun, 18 Jan 2026 16:37:19 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Czy samolot jest bezpieczny podczas burzy? Piloci rozwiewają wątpliwości",
+      "link": "https://geekweek.interia.pl/transport/news-czy-samolot-jest-bezpieczny-podczas-burzy-piloci-rozwiewaja,nId,22510106",
+      "pubDate": "Sun, 18 Jan 2026 15:35:04 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Aż 71 proc. Polaków stawia na własność. Bariery rosną [RAPORT]",
+      "link": "https://businessinsider.com.pl/nieruchomosci/raport-pzfd-wlasne-mieszkanie-kluczem-do-bezpieczenstwa-polakow/0ry069w",
+      "pubDate": "Sun, 18 Jan 2026 15:34:59 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Wypadek w Tatrach. Ośmiolatek spadł z kolejki linowej",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/wypadek-w-tatrach-na-slowacji-osmiolatek-spadl-z-kolejki-linowej-st8855216?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 15:34:38 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Niemieccy żołnierze opuszczają Grenlandię. Komunikat Bundeswehry",
       "link": "https://wydarzenia.interia.pl/zagranica/news-niemieccy-zolnierze-opuszczaja-grenlandie-komunikat-bundeswe,nId,22510154",
@@ -1591,6 +1621,12 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-czlowiek-putina-ostro-do-szefowej-ke-nie-prowokuj-tatusia,nId,22510081",
       "pubDate": "Sun, 18 Jan 2026 09:33:52 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "Waldemar Żurek: Notariusz zawodem zamkniętym? Nie można do tego dopuścić",
+      "link": "https://www.rp.pl/zawody-prawnicze/art43653261-waldemar-zurek-notariusz-zawodem-zamknietym-nie-mozna-do-tego-dopuscic",
+      "pubDate": "Sun, 18 Jan 2026 10:32:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Będą kolejne roszady w ZE PAK? Spółka Solorza zdecyduje",
@@ -45405,6 +45441,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66337,174 +66397,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/donald-tusk-zabral-glos-po-spotkaniu-z-karolem-nawrockim-przyjmuje-z-zadowoleniem/v19q4qj",
       "pubDate": "Fri, 09 Jan 2026 14:09:32 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
-    },
-    {
-      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
-      "link": [
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
-          "@_rel": "alternate",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "text/html"
-        },
-        {
-          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
-          "@_rel": "replies",
-          "@_thr:count": "0",
-          "@_type": "application/atom+xml"
-        }
-      ],
-      "pubDate": "2026-01-09T14:09:01Z",
-      "source": "Niebezpiecznik"
     },
     {
       "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
