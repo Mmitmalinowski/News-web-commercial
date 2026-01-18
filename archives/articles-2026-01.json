@@ -1,12 +1,48 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T17:39:17.166Z",
+  "generatedAt": "2026-01-18T17:49:59.065Z",
   "items": [
+    {
+      "title": "Handel w erze algorytmów, danych i AI. Przed nami druga edycja Future Retail Congress",
+      "link": "https://www.rp.pl/wydarzenia-gospodarcze/art43656861-handel-w-erze-algorytmow-danych-i-ai-przed-nami-druga-edycja-future-retail-congress",
+      "pubDate": "Sun, 18 Jan 2026 18:47:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polska sieć dogania Biedronkę. Ponad dwa razy więcej sklepów od konkurenta w rok",
+      "link": "https://businessinsider.com.pl/gielda/wiadomosci/dino-dogania-biedronke-roznica-sie-skurczyla/7tssgx2",
+      "pubDate": "Sun, 18 Jan 2026 17:43:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Surowe rygory dla sieci 5G rozszerzono bez potrzeby",
+      "link": "https://cyfrowa.rp.pl/bezpieczenstwo/art43656841-surowe-rygory-dla-sieci-5g-rozszerzono-bez-potrzeby",
+      "pubDate": "Sun, 18 Jan 2026 18:42:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Duży pożar pod Warszawą. Zobacz film z akcji gaśniczej",
+      "link": "https://www.rmf24.pl/regiony/warszawa/news-duzy-pozar-pod-warszawa-zobacz-film-z-akcji-gasniczej,nId,8058665",
+      "pubDate": "Sun, 18 Jan 2026 18:40:58 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Trump’s calls to seize Greenland ignite fresh criticism from Republican party",
+      "link": "https://www.theguardian.com/us-news/2026/jan/18/trump-greenland-republican-party",
+      "pubDate": "Sun, 18 Jan 2026 17:40:47 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "Australian Open. Nie psujmy Idze zabawy",
       "link": "https://sport.rp.pl/tenis/art43656501-australian-open-nie-psujmy-idze-zabawy",
       "pubDate": "Sun, 18 Jan 2026 18:36:44 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pogoda na jutro - poniedziałek, 19.01. Noc z przeszywającym mrozem",
+      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-poniedzialek-19-01-noc-z-przeszywajacym-mrozem-st8855259?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 17:36:37 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Kucharz, mechanik lub informatyk pilnie poszukiwani. Polska Stacja Polarna na Spitsbergenie rekrutuje",
@@ -389,6 +425,12 @@
     {
       "title": "'It's like zombies have attacked us, we smell blood everywhere, we're devastated' says eyewitness to Iranian protests",
       "link": "http://www.euronews.com/2026/01/18/zombies-iran",
+      "pubDate": "Sun, 18 Jan 2026 16:37:19 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "'It's like zombies have attacked us' says eyewitness to Iran protests",
+      "link": "http://www.euronews.com/2026/01/18/iran-protest",
       "pubDate": "Sun, 18 Jan 2026 16:37:19 +0100",
       "source": "Euronews"
     },
@@ -46005,6 +46047,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66487,54 +66553,6 @@
       "link": "https://antyweb.pl/smiesznie-tani-glosnik-bluetooth-z-ikea-ma-tajna-funkcje",
       "pubDate": "Fri, 09 Jan 2026 15:00:55 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "'Death to the Dictator': Iranians chant after a night of protests",
-      "link": "http://www.euronews.com/video/2026/01/09/death-to-the-dictator-iranians-chant-after-a-night-of-protests",
-      "pubDate": "Fri, 09 Jan 2026 16:00:51 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Premier o umowie Mercosur: ktoś nie dowiózł",
-      "link": "https://tvn24.pl/biznes/z-kraju/premier-o-umowie-mercosur-ktos-nie-dowiozl-st8838795?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 15:00:36 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Łukasz Mejza dla RMF FM: Zrzekam się immunitetu",
-      "link": "https://www.rmf24.pl/polityka/news-lukasz-mejza-dla-rmf-fm-zrzekam-sie-immunitetu,nId,8056476",
-      "pubDate": "Fri, 09 Jan 2026 16:00:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Japonia między młotem a kowadłem. „Sanaenomika” rozrusza kraj?",
-      "link": "https://pro.rp.pl/raporty-ekonomiczne/art43606561-japonia-miedzy-mlotem-a-kowadlem-sanaenomika-rozrusza-kraj",
-      "pubDate": "Fri, 09 Jan 2026 16:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Nowy przedmiot w polskich szkołach? MEN przygotowuje projekt",
-      "link": "https://android.com.pl/nauka/1007751-nowy-przedmiot-w-polskich-szkolach/",
-      "pubDate": "Fri, 09 Jan 2026 14:59:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Przywódcy Francji, Niemiec i Wielkiej Brytanii grzmią po ataku Rosji. \"Nie do zaakceptowania\"",
-      "link": "https://wiadomosci.onet.pl/swiat/europejscy-przywodcy-grzmia-po-ataku-rosji-nie-do-zaakceptowania/rkk4g9g",
-      "pubDate": "Fri, 09 Jan 2026 14:57:49 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "USA przejęły kolejny tankowiec. \"To jest panowanie nad morzem\"",
-      "link": "https://tvn24.pl/swiat/karaiby-usa-przejely-tankowiec-ktory-plywal-pod-falszywa-bandera-to-jest-panowanie-nad-morzem-st8838596?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 14:57:37 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "As EES rollout expands, travel association urges use of contingency measures to ease delays",
-      "link": "http://www.euronews.com/travel/2026/01/09/as-ees-rollout-expands-travel-association-urges-use-of-contingency-measures-to-ease-delays",
-      "pubDate": "Fri, 09 Jan 2026 15:56:24 +0100",
-      "source": "Euronews"
     }
   ]
 }
