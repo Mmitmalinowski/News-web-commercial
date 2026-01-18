@@ -1,11 +1,29 @@
 {
-  "generatedAt": "2026-01-18T21:43:56.559Z",
+  "generatedAt": "2026-01-18T21:53:20.961Z",
   "items": [
+    {
+      "title": "Alarmujący głos z rządu. Minister o cłach Trumpa: Polska też może stracić",
+      "link": "https://wydarzenia.interia.pl/kraj/news-alarmujacy-glos-z-rzadu-minister-o-clach-trumpa-polska-tez-m,nId,22510206",
+      "pubDate": "Sun, 18 Jan 2026 21:51:10 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Nadzwyczajny szczyt unijnych przywódców w sprawie Grenlandii. Co usłyszy Trump?",
+      "link": "https://www.rmf24.pl/polityka/news-nadzwyczajny-szczyt-unijnych-przywodcow-w-sprawie-grenlandii,nId,8058674",
+      "pubDate": "Sun, 18 Jan 2026 22:43:15 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Historyczny zwrot w europejskim kraju. Takich wyborów nie było od dekad",
       "link": "https://wydarzenia.interia.pl/zagranica/news-historyczny-zwrot-w-europejskim-kraju-takich-wyborow-nie-byl,nId,22510205",
       "pubDate": "Sun, 18 Jan 2026 21:41:19 GMT",
       "source": "Interia"
+    },
+    {
+      "title": "High-speed train crash in southern Spain leaves seven reportedly dead",
+      "link": "https://www.theguardian.com/world/2026/jan/18/high-speed-train-crash-in-adamuz-cordoba-southern-spain",
+      "pubDate": "Sun, 18 Jan 2026 21:38:37 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Donald Trump chce Grenlandii. Amerykanie nie są przychylni jego pomysłom [SONDAŻ]",
@@ -48,6 +66,12 @@
       "link": "https://www.wirtualnemedia.pl/the-voice-comeback-stage-powered-by-orange-pierwszy-taki-projekt-w-historii-telewizji,7244062682106080a",
       "pubDate": "Sun, 18 Jan 2026 22:14:19 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Zderzenie dwóch pociągów w Hiszpanii. Są ofiary śmiertelne",
+      "link": "https://tvn24.pl/najnowsze/zderzenie-dwoch-pociagow-w-hiszpanii-st8855427?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 21:13:45 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Ohio man, 83, convicted of killing Uber driver faces sentencing",
@@ -47060,6 +47084,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66774,36 +66822,6 @@
       "link": "https://wiadomosci.onet.pl/kraj/protest-rolnikow-w-warszawie-uczestnicy-czekaja-na-premiera/q1f55mq",
       "pubDate": "Fri, 09 Jan 2026 16:42:52 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "University of Glasgow rector cleared of misconduct by medical watchdog over alleged antisemitism",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/09/university-glasgow-rector-ghassan-abu-sitta-cleared-misconduct-medical-watchdog-alleged-antisemitism",
-      "pubDate": "Fri, 09 Jan 2026 16:42:31 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Fala komentarzy po zawarciu umowy UE–Mercosur. \"To kukułcze jajo\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/umowa-mercosur-wywolala-burze-w-sieci-politycy-komentuja-ruch-krajow-ue/zzly57m",
-      "pubDate": "Fri, 09 Jan 2026 16:38:54 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Fala komentarzy po zawarciu umowy z Mercosurem. \"To kukułcze jajo\"",
-      "link": "https://businessinsider.com.pl/wiadomosci/umowa-z-mercosurem-wywolala-burze-w-sieci-politycy-komentuja-ruch-krajow-ue/zzly57m",
-      "pubDate": "Fri, 09 Jan 2026 16:38:54 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "19 rosyjskich generałów nie żyje. Ginęli nie tylko na froncie",
-      "link": "https://tvn24.pl/swiat/19-rosyjskich-generalow-nie-zyje-gineli-nie-tylko-na-froncie-st8838948?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 16:38:25 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ponad 100 ludzkich czaszek w domu 34-latka",
-      "link": "https://tvn24.pl/swiat/usa-34-latek-okradal-cmentarze-w-jego-domu-znaleziono-ponad-100-ludzkich-czaszek-st8838893?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 16:36:29 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -119312,6 +119330,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -149928,12 +149970,6 @@
       "link": "https://www.theguardian.com/australia-news/2025/dec/22/gun-crackdown-reform-protest-laws-to-be-passed-nsw",
       "pubDate": "Mon, 22 Dec 2025 01:05:27 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Auto zjechało w nocy z wiaduktu pod pociąg. Groźny wypadek koło Świecia",
-      "link": "https://wiadomosci.onet.pl/kujawsko-pomorskie/auto-zjechalo-w-nocy-z-wiaduktu-pod-pociag-grozny-wypadek-kolo-swiecia/nsgfkw6",
-      "pubDate": "Mon, 22 Dec 2025 01:03:57 GMT",
-      "source": "Onet"
     }
   ],
   "totalArticles": 20000,
