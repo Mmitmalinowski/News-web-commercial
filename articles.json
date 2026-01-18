@@ -1,11 +1,35 @@
 {
-  "generatedAt": "2026-01-18T10:40:49.003Z",
+  "generatedAt": "2026-01-18T10:52:27.579Z",
   "items": [
     {
       "title": "NASA za chwilę leci na Księżyc. Artemis II stoi już na wyrzutni",
       "link": "https://spidersweb.pl",
       "pubDate": "Sun, 18 Jan 2026 16:00:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Główny niewojskowy atut USA. Dzięki niemu kontrolują świat",
+      "link": "https://tech.wp.pl/glowny-niewojskowy-atut-usa-dzieki-niemu-kontroluja-swiat,7243276089608672a",
+      "pubDate": "Sun, 18 Jan 2026 11:45:25 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Wybuch gazu w domu w Ornecie. Nie żyje jedna osoba",
+      "link": "https://wiadomosci.onet.pl/olsztyn/wybuch-gazu-w-domu-w-ornecie-zginal-45-latek/kvn434e",
+      "pubDate": "Sun, 18 Jan 2026 10:45:08 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wybory przewodniczącego KO. Zgłoszono tylko jednego kandydata",
+      "link": "https://www.rmf24.pl/polityka/news-wybory-przewodniczacego-ko-zgloszono-tylko-jednego-kandydata,nId,8058604",
+      "pubDate": "Sun, 18 Jan 2026 11:44:40 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wybuch w domu wielorodzinnym. Jedna osoba nie żyje",
+      "link": "https://tvn24.pl/olsztyn/orneta-wybuch-gazu-w-domu-wielorodzinnym-jedna-osoba-nie-zyje-st8854709?source=rss",
+      "pubDate": "Sun, 18 Jan 2026 10:43:21 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Kobiety i mężczyźni patrzą na swoje pensje. RPO zderza się z ograniczeniami",
@@ -43640,6 +43664,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -69312,36 +69360,6 @@
       "link": "https://klimat.rp.pl/susza/art43611781-usa-wymuszaja-splate-dlugu-przez-meksyk-gra-o-setki-miliardow-litrow-wody",
       "pubDate": "Fri, 09 Jan 2026 14:31:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Santander Bank Polska oficjalnie przejęty przez Erste Group",
-      "link": "https://www.rp.pl/banki/art43612731-santander-bank-polska-oficjalnie-przejety-przez-erste-group",
-      "pubDate": "Fri, 09 Jan 2026 14:30:37 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kiepskie dane z amerykańskiego rynku pracy. Tylko bezrobocie spadło",
-      "link": "https://www.bankier.pl/wiadomosc/Kiepskie-dane-z-amerykanskiego-rynku-pracy-w-grudniu-2025-9065803.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 14:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Cena paliwa blisko psychologicznej granicy. \"Niepewność może być codziennością\"",
-      "link": "https://biznes.interia.pl/finanse/news-cena-paliwa-blisko-psychologicznej-granicy-niepewnosc-moze-b,nId,22506910",
-      "pubDate": "Fri, 09 Jan 2026 13:29:57 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Inwestycje na kolei z podpisem i \"ale\". Prezydent kieruje ustawę do TK",
-      "link": "https://www.bankier.pl/wiadomosc/Inwestycje-na-kolei-z-podpisem-i-ale-Prezydent-kieruje-ustawe-do-TK-9066034.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 9 Jan 2026 14:29:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "USA zatrzymują kolejny tankowiec związany z eksportem wenezuelskiej ropy",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-usa-zatrzymuja-kolejny-tankowiec-zwiazany-z-eksportem-wenezu,nId,8056544",
-      "pubDate": "Fri, 09 Jan 2026 14:28:00 +0100",
-      "source": "RMF24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -120938,6 +120956,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151782,12 +151824,6 @@
       "link": "https://www.rmf24.pl/regiony/warszawa/news-poklocil-sie-z-byla-partnerka-i-zabral-jej-dziecko-akcja-pol,nId,8052680",
       "pubDate": "Sun, 21 Dec 2025 21:40:47 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Polacy o słowach Karola Nawrockiego na temat relacji z Ukrainą. Zdecydowana ocena [SONDAŻ]",
-      "link": "https://wiadomosci.onet.pl/kraj/polacy-podzielaja-opinie-karola-nawrockiego-o-relacjach-z-ukraina-sondaz/pb9ned6",
-      "pubDate": "Sun, 21 Dec 2025 20:32:23 GMT",
-      "source": "Onet"
     }
   ],
   "totalArticles": 20000,
