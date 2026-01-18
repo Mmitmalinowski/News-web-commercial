@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-18T23:24:58.236Z",
+  "generatedAt": "2026-01-18T23:39:35.713Z",
   "items": [
+    {
+      "title": "Train collision in Spain kills at least 21, injures dozens",
+      "link": "http://www.euronews.com/video/2026/01/19/train-collision-in-spain-kills-at-least-21-injures-dozens",
+      "pubDate": "Mon, 19 Jan 2026 00:34:56 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Polski obywatel uwolniony z więzienia w Wenezueli. MSZ przekazało nowe informacje",
+      "link": "https://wiadomosci.onet.pl/kraj/polak-zwolniony-z-wiezienia-w-wenezueli-nowe-informacje-msz/3mt0c2s",
+      "pubDate": "Sun, 18 Jan 2026 23:24:17 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Justice department ‘not investigating’ Renee Good killing in contrast to 2020 inquiry on George Floyd death",
       "link": "https://www.theguardian.com/us-news/2026/jan/18/justice-department-ice-renee-good-george-floyd-minneapolis",
@@ -47319,6 +47331,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66895,24 +66931,6 @@
       "link": "http://www.euronews.com/2026/01/09/demonstrations-in-iran-what-are-the-possible-scenarios",
       "pubDate": "Fri, 09 Jan 2026 18:05:41 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "PiS wzywa do kontroli Funduszu Sprawiedliwości. Posłowie chcą \"zbadania patologii\"",
-      "link": "https://www.rmf24.pl/polityka/news-pis-wzywa-do-kontroli-funduszu-sprawiedliwosci-poslowie-chca,nId,8056761",
-      "pubDate": "Fri, 09 Jan 2026 18:04:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Po co użyli \"rakiety Frankensteina\"? Ekspert o celu Rosji",
-      "link": "https://tvn24.pl/swiat/po-co-rosja-uzyla-oriesznika-ekspert-o-celu-wykorzystania-rakiety-frankensteina-do-ataku-na-ukraine-st8839002?source=rss",
-      "pubDate": "Fri, 09 Jan 2026 17:03:11 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Volvo namiesza. Ten elektryk zapewni rekordowy zasięg",
-      "link": "https://www.tabletowo.pl/volvo-ex60-zapowiedz-jaki-zasieg-zapewni/",
-      "pubDate": "Fri, 09 Jan 2026 17:03:00 +0000",
-      "source": "Tabletowo"
     }
   ]
 }
