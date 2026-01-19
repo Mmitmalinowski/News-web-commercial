@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-19T21:49:50.806Z",
+  "generatedAt": "2026-01-19T21:59:20.118Z",
   "items": [
+    {
+      "title": "Władze Polski 2050 zdecydowały w sprawie wyborów",
+      "link": "https://tvn24.pl/polska/wladze-polski-2050-zdecydowaly-w-sprawie-wyborow-st8857274?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 21:51:21 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Kto szefem Polski 2050? Partia podjęła decyzję",
+      "link": "https://www.rmf24.pl/polityka/news-kto-szefem-polski-2050-partia-podjela-decyzje,nId,8058960",
+      "pubDate": "Mon, 19 Jan 2026 22:47:49 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Trump says he will '100%' carry out Greenland tariffs threat, as EU vows to protect its interests",
       "link": "https://www.bbc.com/news/articles/c4g5345ylk0o?at_medium=RSS&at_campaign=rss",
@@ -13,6 +25,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/wybory-w-polsce-2050-jest-nowa-data-drugiej-tury/50lm257",
       "pubDate": "Mon, 19 Jan 2026 21:43:10 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Rada Krajowa Polski 2050 podjęła decyzję. Będzie głosowanie na przewodniczącego",
+      "link": "https://www.rp.pl/polityka/art43660251-rada-krajowa-polski-2050-podjela-decyzje-bedzie-glosowanie-na-przewodniczacego",
+      "pubDate": "Mon, 19 Jan 2026 22:40:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Co z powtórzeniem wyborów w Polsce 2050? Jest decyzja",
@@ -56457,6 +56475,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -67699,30 +67741,6 @@
       "link": "https://www.theguardian.com/us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
       "pubDate": "Sun, 11 Jan 2026 17:49:53 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Dziecko upadło nagle na podłogę. Chwile grozy w Szczecinku",
-      "link": "https://wiadomosci.onet.pl/szczecin/dziecko-upadlo-nagle-na-podloge-chwile-grozy-w-szczecinku/0kgxyhb",
-      "pubDate": "Sun, 11 Jan 2026 17:48:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trump stawia Kubie warunki. Stanowcza reakcja prezydenta, \"jesteśmy gotowi\"",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-stawia-kubie-warunki-stanowcza-reakcja-prezydenta-jest,nId,22507392",
-      "pubDate": "Sun, 11 Jan 2026 17:38:30 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "​Dlaczego nie udało się zablokować umowy z Mercosur? Zapytamy Dariusza Jońskiego",
-      "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-dlaczego-nie-udalo-sie-zablokowac-umowy-z-mercosur-zapytamy-,nId,8056932",
-      "pubDate": "Sun, 11 Jan 2026 18:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Polityczne trzęsienie ziemi w Izraelu. Ważny współpracownik Binjamina Netanjahu aresztowany",
-      "link": "https://wiadomosci.onet.pl/swiat/polityczne-trzesienie-ziemi-w-izraelu-wazny-wspolpracownik-binjamina-netanjahu/70f8lrq",
-      "pubDate": "Sun, 11 Jan 2026 17:31:42 GMT",
-      "source": "Onet"
     }
   ]
 }
