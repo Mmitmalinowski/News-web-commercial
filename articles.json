@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-19T22:47:43.345Z",
+  "generatedAt": "2026-01-19T22:57:32.691Z",
   "items": [
     {
       "title": "Wstrząsające relacje pasażerów. Nowe informacje z Hiszpanii po katastrofie",
@@ -56606,6 +56606,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -67770,12 +67794,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Puchar-Swiata-w-Zakopanem-Patrzymy-jak-poszlo-polskiej-reprezentacji-9066651.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Sun, 11 Jan 2026 19:26:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "\"Dusimy się\". Niemcy spadają w otchłań największego kryzysu gospodarczego od 100 lat. \"Najlepsze dni mamy już za sobą\" [OPINIA]",
-      "link": "https://wiadomosci.onet.pl/swiat/niemcy-stracily-asa-w-rekawie-najlepsze-dni-mamy-juz-za-soba-opinia/xqzsejp",
-      "pubDate": "Sun, 11 Jan 2026 18:13:45 GMT",
-      "source": "Onet"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -121580,6 +121598,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151872,12 +151914,6 @@
       "link": "https://sekurak.pl/podatnosci-w-react-server-components-zbieraja-zniwa-i-pojawiaja-sie-kolejne/",
       "pubDate": "Mon, 22 Dec 2025 04:14:40 +0000",
       "source": "Sekurak"
-    },
-    {
-      "title": "Atak w Gdańsku, porwanie w Warszawie, negocjacje na Florydzie",
-      "link": "https://tvn24.pl/swiat/piec-rzeczy-ktore-warto-wiedziec-w-poniedzialek-22-grudnia-najwazniejsze-informacje-st8812805?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 04:12:56 GMT",
-      "source": "TVN24"
     }
   ],
   "totalArticles": 20000,
