@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-18T23:50:18.660Z",
+  "generatedAt": "2026-01-19T00:00:01.572Z",
   "items": [
+    {
+      "title": "Gaza board extended membership to cost $1 billion — reports",
+      "link": "https://www.dw.com/en/gaza-board-extended-membership-to-cost-1-billion-reports/a-75553537?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sun, 18 Jan 2026 23:57:00 GMT",
+      "source": "DW"
+    },
     {
       "title": "Train collision in Spain kills at least 21, injures dozens",
       "link": "http://www.euronews.com/video/2026/01/19/train-collision-in-spain-kills-at-least-21-injures-dozens",
@@ -47378,6 +47384,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -66936,18 +66966,6 @@
       "link": "https://spidersweb.pl/2026/01/flota-cieni-olina-usa-tankowiec-sankcje.html",
       "pubDate": "Fri, 09 Jan 2026 18:08:47 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Prezes PiS zdecydowanie o umowie z Mercosurem. \"Sytuacja kryzysu\"",
-      "link": "https://biznes.interia.pl/rolnictwo/news-jaroslaw-kaczynski-o-umowie-z-mercosur-zagraza-polskiemu-rol,nId,22507016",
-      "pubDate": "Fri, 09 Jan 2026 17:07:30 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Urodziła zdrowe dziecko i zmarła. Prokuratura wszczęła śledztwo",
-      "link": "https://wydarzenia.interia.pl/mazowieckie/news-urodzila-zdrowe-dziecko-i-zmarla-prokuratura-wszczela-sledzt,nId,22506966",
-      "pubDate": "Fri, 09 Jan 2026 17:06:41 GMT",
-      "source": "Interia"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -119648,6 +119666,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -150216,12 +150258,6 @@
       "link": "https://www.theguardian.com/world/2025/dec/22/new-zealand-christchurch-spoof-absurdist-road-signs",
       "pubDate": "Mon, 22 Dec 2025 02:28:46 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Another 130 abducted schoolchildren released in Nigeria",
-      "link": "https://www.bbc.com/news/articles/c3d03943zg8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Mon, 22 Dec 2025 02:25:22 GMT",
-      "source": "BBC News"
     }
   ],
   "totalArticles": 20000,
