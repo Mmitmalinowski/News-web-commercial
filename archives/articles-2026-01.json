@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-19T23:23:33.153Z",
+  "generatedAt": "2026-01-19T23:40:24.395Z",
   "items": [
+    {
+      "title": "Bojownicy tzw. Państwa Islamskiego uciekli z więzienia w Syrii",
+      "link": "https://wiadomosci.onet.pl/swiat/kurdowie-sie-wycofali-terrorysci-z-isis-uciekli-z-wiezienia-w-syrii/sey4848",
+      "pubDate": "Mon, 19 Jan 2026 23:26:31 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Homes dug out from deep snowdrifts in Russia's Kamchatka",
       "link": "http://www.euronews.com/video/2026/01/20/homes-dug-out-from-deep-snowdrifts-in-russias-kamchatka",
@@ -56673,6 +56679,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -67801,18 +67831,6 @@
       "link": "https://www.rp.pl/polityka/art43619351-donald-trump-grozi-kolejnemu-panstwu-zanim-bedzie-za-pozno-jest-odpowiedz",
       "pubDate": "Sun, 11 Jan 2026 19:39:03 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "​Nowe informacje ws. pożaru w Crans-Montana. Większość ciał znaleziono przy schodach",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-nowe-informacje-ws-pozaru-w-crans-montana-wiekszosc-cial-zna,nId,8056942",
-      "pubDate": "Sun, 11 Jan 2026 19:35:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Programiści korzystają z AI, ale jej nie ufają",
-      "link": "https://android.com.pl/tech/1007354-korzystaja-z-ai-ale-nie-ufaja/",
-      "pubDate": "Sun, 11 Jan 2026 18:33:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
