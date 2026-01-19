@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-19T21:59:20.118Z",
+  "generatedAt": "2026-01-19T22:28:17.345Z",
   "items": [
+    {
+      "title": "Spain announces three days of mourning after 40 people have died in the Adamuz tragedy",
+      "link": "http://www.euronews.com/2026/01/19/spain-adamuz-tragedy-sanchez",
+      "pubDate": "Mon, 19 Jan 2026 23:10:19 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Władze Polski 2050 zdecydowały w sprawie wyborów",
       "link": "https://tvn24.pl/polska/wladze-polski-2050-zdecydowaly-w-sprawie-wyborow-st8857274?source=rss",
@@ -11,6 +17,12 @@
     {
       "title": "Kto szefem Polski 2050? Partia podjęła decyzję",
       "link": "https://www.rmf24.pl/polityka/news-kto-szefem-polski-2050-partia-podjela-decyzje,nId,8058960",
+      "pubDate": "Mon, 19 Jan 2026 22:47:49 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Kto szefem Polski 2050? Partia podjęła decyzję ws. wyborów",
+      "link": "https://www.rmf24.pl/polityka/news-kto-szefem-polski-2050-partia-podjela-decyzje-ws-wyborow,nId,8058960",
       "pubDate": "Mon, 19 Jan 2026 22:47:49 +0100",
       "source": "RMF24"
     },
@@ -135,6 +147,12 @@
       "source": "Onet"
     },
     {
+      "title": "‘I do not want to reconcile with my family,’ says Brooklyn Peltz Beckham",
+      "link": "https://www.theguardian.com/lifeandstyle/2026/jan/19/brooklyn-peltz-beckham-david-victoria-dispute-instagram",
+      "pubDate": "Mon, 19 Jan 2026 21:02:15 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "Karol Nawrocki odmówił jesienią nominacji w służbach. Nowe wnioski \"pójdą lada moment\"",
       "link": "https://wiadomosci.onet.pl/kraj/karol-nawrocki-otrzyma-nowe-wnioski-o-nominacje-w-sluzbach-lada-moment/hftzl0h",
       "pubDate": "Mon, 19 Jan 2026 21:01:16 GMT",
@@ -221,6 +239,12 @@
     {
       "title": "Kluczowe spotkanie Rady Krajowej Polski 2050 bez Szymona Hołowni. \"Fatalne nastroje\"",
       "link": "https://wiadomosci.onet.pl/kraj/holownia-nie-przyszedl-na-spotkanie-partii-przekazal-serdeczna-wiadomosc/zlcjd6c",
+      "pubDate": "Mon, 19 Jan 2026 20:34:59 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Kluczowe spotkanie Rady Krajowej Polski 2050 bez Szymona Hołowni. \"Fatalne nastroje\"",
+      "link": "https://wiadomosci.onet.pl/kraj/holownia-nie-przyszedl-na-spotkanie-polski-2050-przekazal-serdeczna-wiadomosc/zlcjd6c",
       "pubDate": "Mon, 19 Jan 2026 20:34:59 GMT",
       "source": "Onet"
     },
@@ -5279,6 +5303,12 @@
     {
       "title": "Updates: Denmark, Greenland float NATO mission on island",
       "link": "https://www.dw.com/en/updates-denmark-greenland-float-nato-mission-on-island/live-75558976?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Mon, 19 Jan 2026 09:57:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Greenland updates: Denmark floats NATO mission on island",
+      "link": "https://www.dw.com/en/greenland-updates-denmark-floats-nato-mission-on-island/live-75558976?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 19 Jan 2026 09:57:00 GMT",
       "source": "DW"
     },
@@ -56499,6 +56529,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -67705,42 +67759,6 @@
       "link": "https://tvn24.pl/tvnmeteo/polska/tajemniczy-obiekt-na-polskim-niebie-wiemy-czym-byl-st8841577?source=rss",
       "pubDate": "Sun, 11 Jan 2026 18:01:26 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Slashing jury trials could clear courts backlog within a decade, says Lammy",
-      "link": "https://www.theguardian.com/politics/2026/jan/11/slashing-jury-trials-could-clear-courts-backlog-within-a-decade-says-lammy",
-      "pubDate": "Sun, 11 Jan 2026 18:00:32 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Trump tells Cuba to ‘make a deal’ or face the consequences",
-      "link": "https://www.theguardian.com/us-news/2026/jan/11/trump-tells-cuba-to-make-a-deal-or-face-the-consequences",
-      "pubDate": "Sun, 11 Jan 2026 17:59:28 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Nie chodzi już o drinki, tylko o relacje. Oto jak wygląda \"soft partying\" w 2026 roku",
-      "link": "https://businessinsider.com.pl/lifestyle/imprezy-bez-alkoholu-i-nowe-przyjaznie-tak-bawi-sie-pokolenie-z-w-2026-roku/7h9lsmq",
-      "pubDate": "Sun, 11 Jan 2026 17:54:42 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Nowa superpotęga Europy\". Niemieckie media o Polsce",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-11/nowa-superpotega-europy-niemieckie-media-o-polsce/",
-      "pubDate": "Sun, 11 Jan 2026 18:53:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Sudan's government returns to capital after nearly 3 years of war",
-      "link": "https://www.bbc.com/news/articles/ckgn5g90lggo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Sun, 11 Jan 2026 17:50:02 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Kristi Noem vows to send ‘hundreds’ more agents to Minneapolis as protests erupt across US",
-      "link": "https://www.theguardian.com/us-news/2026/jan/11/ice-renee-good-minneapolis-protests-kristi-noem",
-      "pubDate": "Sun, 11 Jan 2026 17:49:53 GMT",
-      "source": "The Guardian"
     }
   ]
 }
