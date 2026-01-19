@@ -1,7 +1,43 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-19T21:19:33.486Z",
+  "generatedAt": "2026-01-19T21:37:58.730Z",
   "items": [
+    {
+      "title": "​Polak zatrzymany po awanturze w samolocie. Leciał z Krakowa",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-polak-zatrzymany-po-awanturze-w-samolocie-lecial-z-krakowa,nId,8058959",
+      "pubDate": "Mon, 19 Jan 2026 22:32:43 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "BGK ułatwia ekspansję zagraniczną polskich hoteli na całym świecie",
+      "link": "https://www.rp.pl/eksport/art43662091-bgk-ulatwia-ekspansje-zagraniczna-polskich-hoteli-na-calym-swiecie",
+      "pubDate": "Mon, 19 Jan 2026 22:29:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Rozwód nieważny, bo orzekał neosędzia. Żurek: kryzys wchodzi w najwrażliwsze obszary",
+      "link": "https://tvn24.pl/polska/sady-w-polsce-rozwod-niewazny-bo-orzekal-neosedzia-waldemar-zurek-kryzys-wchodzi-w-najwrazliwsze-obszary-st8856076?source=rss",
+      "pubDate": "Mon, 19 Jan 2026 21:23:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Słoń w ludzkiej komórce. Przełomowa metoda druku wewnątrz żywych organizmów",
+      "link": "https://geekweek.interia.pl/nauka/news-slon-w-ludzkiej-komorce-przelomowa-metoda-druku-wewnatrz-zyw,nId,22518352",
+      "pubDate": "Mon, 19 Jan 2026 21:20:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Najmocniejsze zdania, które padły w trakcie Forum",
+      "link": "https://www.rp.pl/davos-daily/art43662061-najmocniejsze-zdania-ktore-padly-w-trakcie-forum",
+      "pubDate": "Mon, 19 Jan 2026 22:17:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "NORAD zapowiada wysłanie samolotów na Grenlandię",
+      "link": "https://wiadomosci.onet.pl/swiat/norad-zapowiedzialo-wyslanie-samolotow-na-grenlandie/p0sg4s2",
+      "pubDate": "Mon, 19 Jan 2026 21:16:59 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Ukraińcy będą przekształcać systemy obrony powietrznej. Pilna zmiana",
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ukraincy-beda-przeksztalcac-systemy-obrony-powietrznej-pilna,nId,22541101",
@@ -21,6 +57,12 @@
       "source": "TVN24"
     },
     {
+      "title": "Second man dies at Texas ICE detention facility in two weeks",
+      "link": "https://www.theguardian.com/us-news/2026/jan/19/second-death-ice-facility-texas",
+      "pubDate": "Mon, 19 Jan 2026 21:07:17 GMT",
+      "source": "The Guardian"
+    },
+    {
       "title": "Handlował nielegalnie bronią z ukraińskiego frontu. \"Specjalne zamówienia\"",
       "link": "https://www.polsatnews.pl/wiadomosc/2026-01-19/handlowal-nielegalnie-bronia-z-ukrainskiego-frontu-specjalne-zamowienia/",
       "pubDate": "Mon, 19 Jan 2026 22:06:00 +0100",
@@ -31,6 +73,12 @@
       "link": "https://tvn24.pl/polska/27-letni-ukrainiec-zatrzymany-na-lotnisku-chopina-z-zagluszarka-fal-radiowych-trafil-do-aresztu-st8857146?source=rss",
       "pubDate": "Mon, 19 Jan 2026 21:05:47 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Amerykańskie samoloty na Grenlandii. Wezmą udział w planowanej misji",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-19/amerykanskie-samoloty-na-grenlandii-wezma-udzial-w-planowanej-misji/",
+      "pubDate": "Mon, 19 Jan 2026 22:03:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "\"Onet Rano.\" | 20.01",
@@ -145,6 +193,12 @@
       "link": "https://wiadomosci.onet.pl/kraj/straz-graniczna-wydalila-z-polski-kilkunastu-cudzoziemcow-glownie-z-jednego-powodu/vejz9dh",
       "pubDate": "Mon, 19 Jan 2026 20:27:57 GMT",
       "source": "Onet"
+    },
+    {
+      "title": "Rada Pokoju Donalda Trumpa. Emmanuel Macron odrzuca zaproszenie",
+      "link": "https://www.rp.pl/polityka/art43661951-rada-pokoju-donalda-trumpa-emmanuel-macron-odrzuca-zaproszenie",
+      "pubDate": "Mon, 19 Jan 2026 21:27:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Szwajcarska polityk rezygnuje, czyli jak ewangelicy z lesbijki \"demona\" wypędzali",
@@ -56325,6 +56379,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -67627,66 +67705,6 @@
       "link": "https://wydarzenia.interia.pl/zagranica/news-dramat-polki-w-slowackich-tatrach-sluzby-w-akcji,nId,22507390",
       "pubDate": "Sun, 11 Jan 2026 17:23:25 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Derek Martin, who played Charlie Slater in EastEnders, dies aged 92",
-      "link": "https://www.theguardian.com/tv-and-radio/2026/jan/11/derek-martin-who-played-charlie-slater-in-eastenders-dies-aged-92",
-      "pubDate": "Sun, 11 Jan 2026 17:23:13 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Mikroplastik na talerzu. Jesz to codziennie i nawet o tym nie wiesz",
-      "link": "https://android.com.pl/nauka/1007341-mikroplastik-czeka-na-was-na-talerzu/",
-      "pubDate": "Sun, 11 Jan 2026 17:17:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Wojna o samochody elektryczne odchodzi w cień. Wyścig w motoryzacji to już coś innego",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wojna-o-elektryki-odchodzi-w-cien-to-na-tym-polega-nowy-wyscig-w-motoryzacji/637fdjm",
-      "pubDate": "Sun, 11 Jan 2026 17:15:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ukraińcy uderzyli w rosyjskie platformy wiertnicze na Morzu Kaspijskim",
-      "link": "https://www.rmf24.pl/raporty/raport-wojna-z-rosja/news-ukraincy-uderzyli-w-rosyjskie-platformy-wiertnicze-na-morzu-,nId,8056940",
-      "pubDate": "Sun, 11 Jan 2026 18:09:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Niemieccy politycy po stronie Grenlandii. \"Strategiczne wyzwania\"",
-      "link": "https://wiadomosci.onet.pl/swiat/niemieccy-politycy-po-stronie-grenlandii-strategiczne-wyzwania/8cge3pn",
-      "pubDate": "Sun, 11 Jan 2026 17:07:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Germany rejects RFK Jr claims about Covid vaccine exemption prosecutions",
-      "link": "https://www.theguardian.com/us-news/2026/jan/11/germany-rejects-rfk-jr-claims-about-covid-vaccine-exemption-prosecutions",
-      "pubDate": "Sun, 11 Jan 2026 17:05:55 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Latest news bulletin | January 11th, 2026 – Evening",
-      "link": "http://www.euronews.com/video/2026/01/11/latest-news-bulletin-january-11th-2026-evening",
-      "pubDate": "Sun, 11 Jan 2026 18:00:29 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Samsung Galaxy S26 – co już wiemy i na co tak naprawdę czekamy?",
-      "link": "https://antyweb.pl/samsung-galaxy-s26-co-juz-wiemy",
-      "pubDate": "Sun, 11 Jan 2026 17:00:28 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Koniec z bałaganem w wyszukiwarce? YouTube odświeża system filtrów",
-      "link": "https://www.chip.pl/2026/01/youtube-odswieza-system-filtrow",
-      "pubDate": "Sun, 11 Jan 2026 17:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Bez rąk do pracy ze wschodu polska gospodarka stanie. Mocna diagnoza prezesa KredoBanku",
-      "link": "https://www.bankier.pl/wiadomosc/Bez-rak-do-pracy-ze-wschodu-polska-gospodarka-stanie-Mocna-diagnoza-prezesa-KredoBanku-9065510.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Sun, 11 Jan 2026 18:00:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
