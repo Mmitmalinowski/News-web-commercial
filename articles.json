@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-01-20T22:43:44.306Z",
+  "generatedAt": "2026-01-20T22:53:06.018Z",
   "items": [
     {
       "title": "W Małopolsce wykoleił się pociąg. Komisja wyjaśnia okoliczności zdarzenia",
@@ -12,6 +12,12 @@
       "link": "https://www.bbc.com/news/articles/c1m78xl0gmpo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Tue, 20 Jan 2026 22:39:31 GMT",
       "source": "BBC News"
+    },
+    {
+      "title": "‘You’ll find out’: Trump refuses to say how far he would go to seize Greenland",
+      "link": "https://www.theguardian.com/us-news/2026/jan/20/trump-press-briefing-greenland",
+      "pubDate": "Tue, 20 Jan 2026 22:37:44 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Commuter train near Barcelona hits collapsed wall injuring several people",
@@ -1874,6 +1880,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -1908,6 +1938,30 @@
       "link": "http://www.euronews.com/my-europe/2026/01/20/azerbaijans-president-says-world-order-transitioning-from-rule-of-law-to-rule-of-strength",
       "pubDate": "Tue, 20 Jan 2026 17:19:49 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
@@ -66656,6 +66710,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68183,30 +68261,6 @@
       "title": "Lublin - 13.01.2026. Jaka będzie pogoda w mieście?",
       "link": "https://wiadomosci.onet.pl/lublin/lublin-prognoza-pogody-w-dniu-13012026/ldhv6q7",
       "pubDate": "Tue, 13 Jan 2026 03:03:58 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Łódź - 13.01.2026. Pogoda na dziś",
-      "link": "https://wiadomosci.onet.pl/lodz/lodz-prognoza-pogody-w-dniu-13012026/cpszfcq",
-      "pubDate": "Tue, 13 Jan 2026 03:03:47 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kraków - 13.01.2026. Prognoza pogody w mieście",
-      "link": "https://wiadomosci.onet.pl/krakow/krakow-prognoza-pogody-w-dniu-13012026/ywf94lz",
-      "pubDate": "Tue, 13 Jan 2026 03:03:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Kielce: Jaka pogoda na dziś? Prognoza w dniu 13.01.2026",
-      "link": "https://wiadomosci.onet.pl/kielce/kielce-prognoza-pogody-w-dniu-13012026/26pqmtd",
-      "pubDate": "Tue, 13 Jan 2026 03:03:33 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Katowice. Prognoza pogody w dniu 13.01.2026",
-      "link": "https://wiadomosci.onet.pl/slask/katowice-prognoza-pogody-w-dniu-13012026/96f904l",
-      "pubDate": "Tue, 13 Jan 2026 03:03:28 GMT",
       "source": "Onet"
     },
     {
@@ -122972,6 +123026,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -153024,12 +153102,6 @@
       "link": "https://www.bankier.pl/wiadomosc/Juz-co-10-klient-wybiera-elektryka-Rewolucja-na-polskich-drogach-9059420.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Mon, 22 Dec 2025 06:00:00 +0100",
       "source": "Bankier.pl"
-    },
-    {
-      "title": "Co naprawdę oznacza wyższy CIT dla banków",
-      "link": "https://pro.rp.pl/cit-zasady-ogolne/art43519181-co-naprawde-oznacza-wyzszy-cit-dla-bankow",
-      "pubDate": "Mon, 22 Dec 2025 06:00:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ],
   "totalArticles": 20000,
