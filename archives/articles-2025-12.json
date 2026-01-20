@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-20T05:54:09.290Z",
+  "generatedAt": "2026-01-20T06:25:47.207Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -54045,6 +54045,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -84277,12 +84301,6 @@
       "link": "https://www.wirtualnemedia.pl/play-upc-polska-nowe-kanaly-grupa-mwe-networks-polsat-koniec-mtv-rozwiazanie-umowy-wypowiedzenie,7234283430439424a",
       "pubDate": "Mon, 22 Dec 2025 05:23:09 +0100",
       "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Departament Wojny USA bierze pod lupę kryptografię w posiadanych systemach. Powód: migracja na algorytmy odporne na ataki kwantowe",
-      "link": "https://sekurak.pl/departament-wojny-usa-bierze-pod-lupe-kryptografie-w-posiadanych-systemach-powod-migracja-na-algorytmy-odporne-na-ataki-kwantowe/",
-      "pubDate": "Mon, 22 Dec 2025 04:21:45 +0000",
-      "source": "Sekurak"
     }
   ]
 }
