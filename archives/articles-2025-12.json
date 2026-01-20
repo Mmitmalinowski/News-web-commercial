@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-20T11:56:05.798Z",
+  "generatedAt": "2026-01-20T12:32:06.031Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -54309,6 +54309,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -84475,12 +84499,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/rosjanka-zostawila-bez-opieki-czworo-dzieci-i-zniknela-najmlodsze-nie-zyje/yj2wfpd",
       "pubDate": "Mon, 22 Dec 2025 04:32:02 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Polskie Radio nagrodziło dziennikarzy za popularne cykle. Na liście m.in. Grochal i Czejarek",
-      "link": "https://www.wirtualnemedia.pl/polskie-radio-nagrodzilo-dziennikarzy-za-popularne-cykle-na-liscie-m-in-grochal-i-czejarek,7234408798141408a",
-      "pubDate": "Mon, 22 Dec 2025 05:32:01 +0100",
-      "source": "Wirtualnemedia.pl"
     }
   ]
 }
