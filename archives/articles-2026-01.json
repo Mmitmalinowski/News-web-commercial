@@ -1,7 +1,31 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-20T21:48:00.704Z",
+  "generatedAt": "2026-01-20T21:57:17.072Z",
   "items": [
+    {
+      "title": "​Pociąg wykoleił się na trasie Miechów - Słomniki. Podróżowało nim 20 osób",
+      "link": "https://www.rmf24.pl/regiony/krakow/news-pociag-wykoleil-sie-na-trasie-miechow-slomniki-podrozowalo-n,nId,8059186",
+      "pubDate": "Tue, 20 Jan 2026 22:54:31 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tajemnicza zbrodnia sprzed lat. Opublikowali wizerunek ofiary",
+      "link": "https://wydarzenia.interia.pl/lodzkie/news-tajemnicza-zbrodnia-sprzed-lat-opublikowali-wizerunek-ofiary,nId,22541662",
+      "pubDate": "Tue, 20 Jan 2026 21:54:15 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Kolejny wypadek kolejowy w Hiszpanii. Skały uderzyły w przejeżdżający pociąg, są ranni",
+      "link": "https://tvn24.pl/swiat/hiszpania-kolejna-katastrofa-kolejowa-skaly-spadly-na-przejezdzajacy-pociag-st8859566?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 21:46:35 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Druga katastrofa kolejowa w Hiszpanii. Mur runął na tory, są ranni",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-druga-katastrofa-kolejowa-w-hiszpanii-mur-runal-na-tory-sa-r,nId,22541674",
+      "pubDate": "Tue, 20 Jan 2026 21:42:51 GMT",
+      "source": "Interia"
+    },
     {
       "title": "​Scena z klipsem i monolog Trumpa. \"Rada Pokoju może zastąpić ONZ\"",
       "link": "https://www.rmf24.pl/fakty/swiat/news-scena-z-klipsem-i-monolog-trumpa-rada-pokoju-moze-zastapic-o,nId,8059185",
@@ -109,6 +133,12 @@
       "link": "https://businessinsider.com.pl/gielda/nie-chodzi-tylko-o-grenlandie-dunczycy-zabieraja-miliony-dolarow-z-usa/jtylmfn",
       "pubDate": "Tue, 20 Jan 2026 20:59:02 GMT",
       "source": "Business Insider"
+    },
+    {
+      "title": "Donald Trump pytany o Grenlandię: coś wypracujemy",
+      "link": "https://tvn24.pl/swiat/grenlandia-donald-trump-i-usa-i-nato-beda-zadowolone-st8859524?source=rss",
+      "pubDate": "Tue, 20 Jan 2026 20:56:27 GMT",
+      "source": "TVN24"
     },
     {
       "title": "Rada Pokoju ma zastąpić ONZ? Donald Trump zabrał głos. Niejasny komunikat",
@@ -1731,6 +1761,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -1765,6 +1819,30 @@
       "link": "http://www.euronews.com/my-europe/2026/01/20/azerbaijans-president-says-world-order-transitioning-from-rule-of-law-to-rule-of-strength",
       "pubDate": "Tue, 20 Jan 2026 17:19:49 +0100",
       "source": "Euronews"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
@@ -66417,6 +66495,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Dane dzieci i rodziców z kilku żłobków były dostępne publicznie",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/dane-dzieci-i-rodzicow-z-kilku-zlobkow-byly-dostepne-publicznie/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "4",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-13T07:16:00Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "W dwa tygodnie ubyło 5 proc. zapasów. Nowe dane o polskim gazie",
       "link": "https://www.bankier.pl/wiadomosc/W-dwa-tygodnie-ubylo-5-proc-zapasow-Nowe-dane-o-polskim-gazie-9067342.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Tue, 13 Jan 2026 08:15:00 +0100",
@@ -68053,54 +68155,6 @@
       "link": "https://www.dw.com/en/minnesota-sues-trump-admin-over-immigration-crackdown/a-75481197?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Tue, 13 Jan 2026 01:24:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Włodzimierz Czarzasty spotkał się z prezydentem Niemiec. \"Kijem się tego nie załatwi\"",
-      "link": "https://wiadomosci.onet.pl/kraj/czarzasty-spotkal-sie-z-prezydentem-niemiec-kijem-sie-tego-nie-zalatwi/rphk8mx",
-      "pubDate": "Tue, 13 Jan 2026 01:02:02 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Pogoda na dziś - wtorek, 13.01. Dziś popada nie tylko śnieg",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-dzis-wtorek-13-01-dzis-popada-nie-tylko-snieg-st8843584?source=rss",
-      "pubDate": "Tue, 13 Jan 2026 01:00:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "The Indian superstar taking a shot at political greatness",
-      "link": "https://www.bbc.com/news/articles/cx2k5kxk3plo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 13 Jan 2026 00:51:34 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Trump says countries doing business with Iran face 25% tariff on US trade",
-      "link": "https://www.theguardian.com/us-news/2026/jan/12/trump-tariffs-iran",
-      "pubDate": "Tue, 13 Jan 2026 00:33:01 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Most of Uganda's population is under 17 - will they give an 81-year-old another term?",
-      "link": "https://www.bbc.com/news/articles/c77k8pym06zo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 13 Jan 2026 00:22:34 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "'We were tricked': How one woman lures foreign men to fight on Russia's front line",
-      "link": "https://www.bbc.com/news/articles/ce9yv4gmn9lo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Tue, 13 Jan 2026 00:21:40 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Były doradca Donalda Trumpa ostrzega Danię. \"To tylko zaostrzy sytuację\"",
-      "link": "https://wiadomosci.onet.pl/swiat/byly-doradca-donalda-trumpa-ostrzega-danie-to-tylko-zaostrzy-sytuacje/xl31jnn",
-      "pubDate": "Tue, 13 Jan 2026 00:02:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Coal power generation falls in China and India for first time since 1970s",
-      "link": "https://www.theguardian.com/business/2026/jan/13/coal-power-generation-falls-china-india-since-1970s",
-      "pubDate": "Tue, 13 Jan 2026 00:01:19 GMT",
-      "source": "The Guardian"
     }
   ]
 }
