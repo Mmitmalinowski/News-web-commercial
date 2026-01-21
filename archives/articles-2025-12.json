@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-21T10:00:45.299Z",
+  "generatedAt": "2026-01-21T10:42:33.676Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -55197,6 +55197,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85141,12 +85165,6 @@
       "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-pozar-i-uszkodzone-statki-ukraina-uderzyla-w-glab-rosji,nId,22501886",
       "pubDate": "Mon, 22 Dec 2025 05:09:47 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Rewolucja na rynku e-papierosów. Tego zakazu jednak nie będzie",
-      "link": "https://businessinsider.com.pl/prawo/firma/znikajacy-zakaz-dla-wielorazowek-jeszcze-w-czerwcu-byl-dzis-go-nie-ma/77d81gc",
-      "pubDate": "Mon, 22 Dec 2025 05:08:57 GMT",
-      "source": "Business Insider"
     }
   ]
 }
