@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-21T21:48:40.882Z",
+  "generatedAt": "2026-01-21T22:01:25.164Z",
   "items": [
+    {
+      "title": "​Trump ogłosił: Jest decyzja Putina w sprawie Rady Pokoju",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-trump-oglosil-jest-decyzja-putina-w-sprawie-rady-pokoju,nId,8059431",
+      "pubDate": "Wed, 21 Jan 2026 22:57:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "USA przerzucają nowe siły. Na wschód wyleciały samoloty i tankowce",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-usa-przerzucaja-nowe-sily-na-wschod-wylecialy-samoloty-i-tan,nId,22542101",
+      "pubDate": "Wed, 21 Jan 2026 21:56:28 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Nawrocki w Republice o spotkaniu z Trumpem: „Powiedziałbym Putinowi, co myślę”",
+      "link": "https://oko.press/na-zywo/na-zywo-relacja/nawrocki-w-republice-o-spotkaniu-z-trumpem-powiedzialbym-putinowi-co-mysle",
+      "pubDate": "Wed, 21 Jan 2026 21:40:20 +0000",
+      "source": "OKO.press"
+    },
     {
       "title": "Zwrot w sprawie Grenlandii i ceł. Trump zaskoczył Wall Street",
       "link": "https://businessinsider.com.pl/gielda/wiadomosci/donald-trump-w-srode-dwa-razy-zaskoczyl-inwestorow-euforia-na-gieldach/k020egs",
@@ -4747,6 +4765,30 @@
       "link": "https://www.wirtualnemedia.pl/wielka-zbiorka-cieplo-z-polski-dla-kijowa-pomagaja-dziennikarze-i-eksperci,7245778391152832a",
       "pubDate": "Wed, 21 Jan 2026 11:53:03 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
     },
     {
       "title": "Komunikat szkoleniowy",
@@ -11925,6 +11967,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -12722,6 +12788,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -62215,42 +62305,6 @@
       "link": "https://geekweek.interia.pl/przyroda/news-el-nino-i-la-nina-mocno-mieszaja-na-ziemi-te-ekstrema-to-ich,nId,22508016",
       "pubDate": "Tue, 13 Jan 2026 17:08:42 GMT",
       "source": "GeekWeek"
-    },
-    {
-      "title": "Środa z bardzo groźną pogodą w Polsce. Tylko w jednym regionie utrzyma się zima",
-      "link": "https://wiadomosci.onet.pl/pogoda/niebezpieczne-prognozy-na-srode-tylko-w-jednym-regionie-utrzyma-sie-zima/wtf987k",
-      "pubDate": "Tue, 13 Jan 2026 17:08:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zdumiewające młode planety. Naukowcy postanowili je zważyć",
-      "link": "https://tech.wp.pl/zdumiewajace-mlode-planety-naukowcy-postanowili-je-zwazyc,7243039399934400a",
-      "pubDate": "Tue, 13 Jan 2026 18:08:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "USA szykują naloty na Iran? Trump do Irańczyków: „Pomoc jest w drodze”",
-      "link": "https://oko.press/na-zywo/na-zywo-relacja/trump-do-iranczykow-pomoc-w-drodze",
-      "pubDate": "Tue, 13 Jan 2026 17:07:20 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "Donald Trump zapowiada pomoc dla Irańczyków. Wpływowy senator tłumaczy, co się teraz wydarzy",
-      "link": "https://wiadomosci.onet.pl/swiat/trump-zapowiedzial-pomoc-dla-iranczykow-senator-graham-tlumaczy-co-sie-wydarzy/xj0hh6t",
-      "pubDate": "Tue, 13 Jan 2026 17:06:04 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Odebranie subwencji covidowej jest niemożliwe",
-      "link": "https://pro.rp.pl/abc-firmy/art43630841-odebranie-subwencji-covidowej-jest-niemozliwe",
-      "pubDate": "Tue, 13 Jan 2026 18:05:17 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Ukraińcy działali na rzecz Rosji? W tle paczki z nadajnikami GPS",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-ukraincy-dzialali-na-rzecz-rosji-w-tle-paczki-z-nadajnikami-,nId,8057612",
-      "pubDate": "Tue, 13 Jan 2026 18:05:00 +0100",
-      "source": "RMF24"
     }
   ]
 }
