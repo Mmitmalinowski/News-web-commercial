@@ -1,6 +1,12 @@
 {
-  "generatedAt": "2026-01-22T23:27:00.511Z",
+  "generatedAt": "2026-01-22T23:44:00.990Z",
   "items": [
+    {
+      "title": "Donald Trump mówił o porozumieniu w sprawie Grenlandii. \"Zobaczymy, co się stanie\"",
+      "link": "https://wiadomosci.onet.pl/swiat/porozumienie-w-sprawie-grenlandii-trump-komentuje-mysle-ze-wszystkim-sie-to-podoba/vw8jmnx",
+      "pubDate": "Thu, 22 Jan 2026 23:27:04 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Kalendarium - piątek 23 stycznia",
       "link": "https://pro.rp.pl/kalendarium/art43683571-kalendarium-piatek-23-stycznia",
@@ -136,6 +142,12 @@
     {
       "title": "Recenzja Huawei FreeClips 2. Zapomnisz, że masz je na uszach",
       "link": "https://antyweb.pl/recenzja-huawei-freeclips-2-zapomnisz-ze-masz-je-na-uszach",
+      "pubDate": "Thu, 22 Jan 2026 21:30:14 GMT",
+      "source": "Antyweb"
+    },
+    {
+      "title": "Recenzja Huawei FreeClip 2. Zapomnisz, że masz je na uszach",
+      "link": "https://antyweb.pl/recenzja-huawei-freeclip-2-zapomnisz-ze-masz-je-na-uszach",
       "pubDate": "Thu, 22 Jan 2026 21:30:14 GMT",
       "source": "Antyweb"
     },
@@ -15068,6 +15080,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -23006,6 +23042,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -23803,6 +23863,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64812,36 +64896,6 @@
       "link": "https://businessinsider.com.pl/wiadomosci/cyberbezpieczenstwo-priorytetem-niemcy-i-izrael-rozwijaja-wspolna-ochrone/nlcphk0",
       "pubDate": "Wed, 14 Jan 2026 20:53:18 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "\"Apelujemy o natychmiastowe opuszczenie Iranu\". MSZ ostrzega podróżujących",
-      "link": "https://businessinsider.com.pl/gospodarka/konflikt-w-iranie-apelujemy-o-natychmiastowe-opuszczenie-iranu/kg3s50x",
-      "pubDate": "Wed, 14 Jan 2026 20:52:29 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Fiasko rozmów o Grenlandii w Białym Domu. Szef MSZ Danii nie owijał w bawełnę",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-fiasko-rozmow-o-grenlandii-w-bialym-domu-szef-msz-danii-nie-,nId,8057937",
-      "pubDate": "Wed, 14 Jan 2026 21:52:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Przemysław Czarnek mówi o kulisach starań Zbigniewa Ziobry o azyl. \"Gdyby był zdrowy\"",
-      "link": "https://wiadomosci.onet.pl/kraj/czarnek-ujawnia-kulisy-staran-ziobry-o-azyl-na-wegrzech-wskazuje-trzy-powody/8jxclpr",
-      "pubDate": "Wed, 14 Jan 2026 20:51:14 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Police chief behind Maccabi Tel Aviv ban clings to job despite home secretary wanting him to quit",
-      "link": "https://www.theguardian.com/football/2026/jan/14/police-chief-behind-maccabi-tel-aviv-ban-clings-to-job-despite-home-secretary-wanting-him-to-quit",
-      "pubDate": "Wed, 14 Jan 2026 20:50:49 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Chodniki śliskie i niebezpieczne. Na SOR w Toruniu tłumy",
-      "link": "https://www.rmf24.pl/fakty/polska/news-chodniki-sliskie-i-niebezpieczne-na-sor-w-toruniu-tlumy,nId,8057938",
-      "pubDate": "Wed, 14 Jan 2026 21:46:00 +0100",
-      "source": "RMF24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -121670,6 +121724,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -151206,12 +151284,6 @@
       "link": "https://www.bbc.com/news/articles/cj9ydj7y0vvo?at_medium=RSS&at_campaign=rss",
       "pubDate": "Mon, 22 Dec 2025 06:14:56 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Facebook testuje pobieranie opłat od użytkowników za udostępnianie linków",
-      "link": "http://www.press.pl/tresc/90834,facebook-testuje-pobieranie-oplat-od-uzytkownikow-za-udostepnianie-linkow?rss=1",
-      "pubDate": "Mon, 22 Dec 2025 07:14:00 +0100",
-      "source": "Press.pl"
     }
   ],
   "totalArticles": 20000,
