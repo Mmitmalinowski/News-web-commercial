@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-22T13:53:14.852Z",
+  "generatedAt": "2026-01-22T14:22:41.250Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -56301,6 +56301,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85969,12 +85993,6 @@
       "link": "https://mamstartup.pl/czy-da-sie-zrozumiec-generacje-skip-podcast-z-adamem-majewskim-questpass/",
       "pubDate": "Mon, 22 Dec 2025 06:00:47 +0000",
       "source": "MamStartup"
-    },
-    {
-      "title": "Obok tego kryminału nie można przejść obojętnie. Serialowy hit wraca z 2. sezonem",
-      "link": "https://antyweb.pl/obok-tego-kryminalu-nie-mozna-przejsc-obojetnie-serialowy-hit-wraca-z-2-sezonem",
-      "pubDate": "Mon, 22 Dec 2025 06:00:40 GMT",
-      "source": "Antyweb"
     }
   ]
 }
