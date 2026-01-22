@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-22T09:44:10.797Z",
+  "generatedAt": "2026-01-22T10:00:47.269Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -56109,6 +56109,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -85824,12 +85848,6 @@
       "title": "Sawicki o umowie z Mercosur: Premier i minister rolnictwa nie mogą odpuszczać",
       "link": "https://www.rmf24.pl/tylko-w-rmf24/rozmowa-o-7/news-sawicki-o-umowie-z-mercosur-premier-i-minister-rolnictwa-nie,nId,8052655",
       "pubDate": "Mon, 22 Dec 2025 06:58:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Klubowe MŚ siatkarzy. Aluron CMC na podium",
-      "link": "https://www.rmf24.pl/raporty/raport-siatkarski/siatkowka/news-klubowe-ms-siatkarzy-aluron-cmc-na-podium,nId,8052693",
-      "pubDate": "Mon, 22 Dec 2025 06:57:16 +0100",
       "source": "RMF24"
     }
   ]
