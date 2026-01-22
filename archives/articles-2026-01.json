@@ -1,7 +1,43 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-22T21:19:26.616Z",
+  "generatedAt": "2026-01-22T21:44:24.384Z",
   "items": [
+    {
+      "title": "Trump: JPMorgan zamknął moje konta z powodów politycznych. Pozew na 5 mld dol.",
+      "link": "https://www.rp.pl/banki/art43684221-trump-jpmorgan-zamknal-moje-konta-z-powodow-politycznych-pozew-na-5-mld-dol",
+      "pubDate": "Thu, 22 Jan 2026 22:41:32 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ustalenia ws. Grenlandii tylko ustne. Nie ma dokumentów",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-ustalenia-ws-grenlandii-tylko-ustne-nie-ma-dokumentow,nId,8059674",
+      "pubDate": "Thu, 22 Jan 2026 22:40:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Democrats condemn ICE after five-year-old detained with father in US raid",
+      "link": "https://www.theguardian.com/us-news/2026/jan/22/ice-five-year-old-boy-detained-reaction-democrats",
+      "pubDate": "Thu, 22 Jan 2026 21:31:23 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Zelenskyy takes the floor in Davos - All you need to know about day three",
+      "link": "http://www.euronews.com/2026/01/22/zelenskyy-takes-the-floor-in-davos-all-you-need-to-know-about-day-three",
+      "pubDate": "Thu, 22 Jan 2026 22:24:37 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Wrocław zakazuje używania fajerwerków przez cały rok",
+      "link": "https://tvn24.pl/polska/wroclaw-radni-przyjeli-uchwale-w-sprawie-zakazu-uzywania-fajerwerkow-na-terenie-miasta-st8863287?source=rss",
+      "pubDate": "Thu, 22 Jan 2026 21:22:05 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Onet Rano.\" | 23.01",
+      "link": "https://wiadomosci.onet.pl/kraj/onet-rano-or-2301/r1n9qtv",
+      "pubDate": "Thu, 22 Jan 2026 21:16:50 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Wysłannicy Donalda Trumpa w Moskwie. Rozpoczęli rozmowy z Władimirem Putinem",
       "link": "https://wiadomosci.onet.pl/swiat/rozpoczely-sie-rozmowy-wyslannikow-trumpa-z-putinem/76nsdgh",
@@ -14769,6 +14805,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -22563,6 +22623,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -23360,6 +23444,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64465,60 +64573,6 @@
       "link": "https://wiadomosci.onet.pl/swiat/grenlandia-to-punkt-krytyczny-ameryka-zmienila-status-zwiazku-z-partnera-na-rywala/spv2t5k",
       "pubDate": "Wed, 14 Jan 2026 20:02:53 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Śmierć 37-latki w USA. Nowe informacje o agencie",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-smierc-37-latki-w-usa-nowe-informacje-o-agencie,nId,22508968",
-      "pubDate": "Wed, 14 Jan 2026 20:02:48 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Boją się USA? Sąsiad Wenezueli odpowiada na działania Amerykanów",
-      "link": "https://tech.wp.pl/boja-sie-usa-sasiad-wenezueli-odpowiada-na-dzialania-amerykanow,7243340996344288a",
-      "pubDate": "Wed, 14 Jan 2026 21:00:00 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Ferie w Warszawie. Będzie mniej autobusów, rzadziej pojadą tramwaje i metro",
-      "link": "https://tvn24.pl/tvnwarszawa/komunikacja/ferie-zimowe-w-warszawie-jak-bedzie-dzialac-komunikacja-miejska-st8848824?source=rss",
-      "pubDate": "Wed, 14 Jan 2026 19:54:55 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Atak USA jest bliski\". Nowe doniesienia ws. Iranu",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-atak-usa-jest-bliski-nowe-doniesienia-ws-iranu,nId,22508987",
-      "pubDate": "Wed, 14 Jan 2026 19:49:59 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Venezuela's acting president vows to continue releasing prisoners detained under Maduro",
-      "link": "http://www.euronews.com/2026/01/14/venezuelas-acting-president-vows-to-continue-releasing-prisoners-detained-under-maduro",
-      "pubDate": "Wed, 14 Jan 2026 20:47:39 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "\"Atak na Iran w ciągu najbliższych 24 godzin\". Teheran ostrzega USA",
-      "link": "https://businessinsider.com.pl/wiadomosci/atak-na-iran-w-ciagu-najblizszych-24-godzin-teheran-grozi-odwetem/w87g1x7",
-      "pubDate": "Wed, 14 Jan 2026 19:46:31 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Niedopuszczalne\". Stanowisko Parlamentu Europejskiego w sprawie Grenlandii",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-niedopuszczalne-stanowisko-parlamentu-europejskiego-w-sprawi,nId,22508971",
-      "pubDate": "Wed, 14 Jan 2026 19:45:23 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Monitor Polski z 14 stycznia 2026 r. (poz. 57 - 71)",
-      "link": "https://www.rp.pl/akty-prawne/art43638341-monitor-polski-z-14-stycznia-2026-r-poz-57-71",
-      "pubDate": "Wed, 14 Jan 2026 20:44:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Media: Interwencja USA w Iranie w ciągu 24 godzin. Polskie MSZ z pilnym komunikatem",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-14/media-interwencja-usa-w-iranie-w-ciagu-24-godzin-polskie-msz-z-pilnym-komunikatem/",
-      "pubDate": "Wed, 14 Jan 2026 20:43:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
