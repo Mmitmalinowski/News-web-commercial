@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T22:10:50.102Z",
+  "generatedAt": "2026-01-23T22:23:43.922Z",
   "items": [
+    {
+      "title": "Napięcie na Bliskim Wschodzie. Linie lotnicze odwołują połączenia",
+      "link": "https://wiadomosci.onet.pl/swiat/napiecie-na-bliskim-wschodzie-linie-lotnicze-odwoluja-polaczenia/xbcs9gg",
+      "pubDate": "Fri, 23 Jan 2026 22:16:46 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Prezydent zareagował na słowa Trumpa o Afganistanie. \"Polscy żołnierze zasługują na szacunek\"",
       "link": "https://www.polsatnews.pl/wiadomosc/2026-01-23/prezydent-zareagowal-na-slowa-trumpa-o-afganistanie-polscy-zolnierze-to-bohaterowie/",
@@ -25077,6 +25083,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -34773,6 +34803,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -35570,6 +35624,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68761,30 +68839,6 @@
       "link": "https://www.rp.pl/plus-minus/art43642301-karol-nawrocki-krol-kiboli-czy-integrator-prawicy",
       "pubDate": "Fri, 16 Jan 2026 07:20:00 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "South Korea: Yoon jailed for 5 years for obstructing justice",
-      "link": "https://www.dw.com/en/south-korea-yoon-jailed-for-5-years-for-obstructing-justice/a-75530464?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 16 Jan 2026 06:19:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Liczba legalnych aborcji rośnie. Dane NFZ zbliżają się do poziomu sprzed wyroku TK",
-      "link": "https://www.bankier.pl/wiadomosc/Liczba-legalnych-aborcji-rosnie-Dane-NFZ-zblizaja-sie-do-poziomu-sprzed-wyroku-TK-9069283.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 07:18:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Podczas ucieczki wyrzucił z auta sejf z gotówką. 24-latka szukali w sprawie próby zabójstwa w hotelu",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-srodmiescie-tarczyn-podczas-ucieczki-wyrzucil-z-auta-sejf-z-gotowka-szukali-go-w-sprawie-proby-zabojstwa-w-hotelu-st8851467?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 06:16:18 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Medal noblowski przekazany Trumpowi. \"Za oddanie wolności\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-16/medal-noblowski-przekazany-trumpowi-za-oddanie-wolnosci/",
-      "pubDate": "Fri, 16 Jan 2026 07:16:00 +0100",
-      "source": "Polsat News"
     }
   ]
 }
