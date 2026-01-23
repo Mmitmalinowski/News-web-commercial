@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-23T11:49:54.157Z",
+  "generatedAt": "2026-01-23T11:57:37.841Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -57477,6 +57477,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86851,12 +86875,6 @@
       "link": "https://moto.rp.pl/ekologia/art43545781-niemcy-buduja-francja-zamawia-polska-analizuje-czas-decyzji-dla-wodoru",
       "pubDate": "Mon, 22 Dec 2025 07:44:49 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Two gunmen threw homemade bombs that failed to detonate at crowd celebrating Hanukkah in Sydney",
-      "link": "http://www.euronews.com/2025/12/22/two-gunmen-threw-homemade-bombs-that-failed-to-detonate-at-crowd-celebrating-hanukkah-in-s",
-      "pubDate": "Mon, 22 Dec 2025 07:43:43 +0100",
-      "source": "Euronews"
     }
   ]
 }
