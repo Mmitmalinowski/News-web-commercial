@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T19:03:46.361Z",
+  "generatedAt": "2026-01-23T19:16:19.790Z",
   "items": [
+    {
+      "title": "Awantura, a potem zamieszanie w Sejmie. \"Czy mogę pani w czymś pomóc?\"",
+      "link": "https://wydarzenia.interia.pl/kraj/news-awantura-a-potem-zamieszanie-w-sejmie-czy-moge-pani-w-czyms,nId,22542966",
+      "pubDate": "Fri, 23 Jan 2026 19:12:55 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Biały Dom o słowach Trumpa. \"Ma rację\" ",
+      "link": "https://tvn24.pl/swiat/donald-trump-ostro-o-sojusznikach-z-nato-bialy-dom-komentuje-st8865110?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 19:06:02 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Siła eksplozji wyrzuciła mężczyznę z budynku",
+      "link": "https://tvn24.pl/tvnwarszawa/okolice/rzasnik-wybuch-butli-z-gazem-i-pozar-domu-ranni-st8865112?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 19:04:20 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Płacisz raz i spokój - oferty na telefon i internet z płatnością na rok z góry",
       "link": "https://antyweb.pl/oferty-rok-telefon-internet-faktura",
@@ -21,10 +39,40 @@
       "source": "Android.com.pl"
     },
     {
+      "title": "Former UK police informer convicted of 38 paedophile offences jailed for life",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/23/former-uk-police-informer-convicted-of-38-paedophile-offences-jailed-for-life",
+      "pubDate": "Fri, 23 Jan 2026 18:58:54 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Minister domaga się zmian w podatkach. \"Czas zakończyć tę niesprawiedliwość\"",
+      "link": "https://biznes.interia.pl/podatki/news-minister-domaga-sie-zmian-w-podatkach-czas-zakonczyc-te-nies,nId,22542980",
+      "pubDate": "Fri, 23 Jan 2026 18:58:46 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
       "title": "Seniorzy na lekach. Ukryty problem polskiego systemu ochrony zdrowia",
       "link": "https://www.rp.pl/leki-i-terapie/art43689141-seniorzy-na-lekach-ukryty-problem-polskiego-systemu-ochrony-zdrowia",
       "pubDate": "Fri, 23 Jan 2026 19:58:07 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Pierwszy dzień rozmów trójstronnych w sprawie Ukrainy. Wołodymyr Zełenski o efektach",
+      "link": "https://wiadomosci.onet.pl/swiat/pierwszy-dzien-rozmow-o-ukrainie-w-abu-zabi-wolodymyr-zelenski-o-efektach/7zew0cg",
+      "pubDate": "Fri, 23 Jan 2026 18:58:03 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Nowy sojusz w UE. \"Meloni zrozumiała, że może się wtrącić i zbliżyć do Niemiec\". To, co planują, nie spodoba się Paryżowi",
+      "link": "https://wiadomosci.onet.pl/politico/nowy-sojusz-w-ue-meloni-zrozumiala-ze-moze-sie-wtracic-i-zblizyc-do-niemiec/fntm267",
+      "pubDate": "Fri, 23 Jan 2026 18:56:53 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "United Arab Emirates plans to bankroll first ‘planned community’ in south Gaza",
+      "link": "https://www.theguardian.com/world/2026/jan/23/uae-funds-gaza-community",
+      "pubDate": "Fri, 23 Jan 2026 18:54:09 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Wielkie lotnisko wprowadza znaczne zmiany. Dotkną wszystkich pasażerów",
@@ -43,6 +91,12 @@
       "link": "https://spidersweb.pl/2026/01/steelseries-arctis-nova-elite-recenzja-opinia.html",
       "pubDate": "Fri, 23 Jan 2026 19:49:14 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Złoto po prawie 5000 USD/oz. Srebro powyżej stu dolarów za uncję",
+      "link": "https://www.bankier.pl/wiadomosc/Zloto-po-prawie-5000-USD-oz-Srebro-powyzej-stu-dolarow-za-uncje-9073485.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 19:49:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Słowa Trumpa wywołały oburzenie na świecie. Jest nowe stanowisko Białego Domu",
@@ -24105,6 +24159,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -33393,6 +33471,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -34190,6 +34292,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -67795,78 +67921,6 @@
       "link": "https://www.theguardian.com/world/2026/jan/16/rightwing-leaders-endorse-viktor-orban-video-election",
       "pubDate": "Fri, 16 Jan 2026 05:00:00 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Teresa Siudem: Sprzedajesz biznes? Kontroluj informację",
-      "link": "https://pro.rp.pl/biznes/art43640451-teresa-siudem-sprzedajesz-biznes-kontroluj-informacje",
-      "pubDate": "Fri, 16 Jan 2026 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kryzys samochodowych marek premium pcha je w stronę luksusowych nieruchomości",
-      "link": "https://moto.rp.pl/tu-i-teraz/art43641891-kryzys-samochodowych-marek-premium-pcha-je-w-strone-luksusowych-nieruchomosci",
-      "pubDate": "Fri, 16 Jan 2026 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wakacje Polaków wyglądają inaczej. Bułgaria traci na popularności",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/polacy-juz-nie-chca-takich-wakacji-oto-lista/93k9qm0",
-      "pubDate": "Fri, 16 Jan 2026 04:59:03 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Media: amerykański lotniskowiec zmierza na Bliski Wschód",
-      "link": "https://tvn24.pl/swiat/usa-fox-news-amerykanski-lotniskowiec-zmierza-na-bliski-wschod-st8851707?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 04:59:01 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "\"Super gary. Gotuj z Bosacką\" w lutym w TVP2. Mamy pierwsze zdjęcia z planu",
-      "link": "https://www.wirtualnemedia.pl/super-gary-gotuj-z-bosacka-w-lutym-w-tvp2-mamy-pierwsze-zdjecia-z-planu,7243644121249888a",
-      "pubDate": "Fri, 16 Jan 2026 05:58:05 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "YouTube rozszerza funkcje nadzoru rodzicielskiego w Polsce",
-      "link": "https://www.wirtualnemedia.pl/youtube-rozszerza-funkcje-nadzoru-rodzicielskiego-w-polsce,7243725702510720a",
-      "pubDate": "Fri, 16 Jan 2026 05:57:27 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Testy nowych kanałów w Play i dawnej sieci kablowej UPC Polska",
-      "link": "https://www.wirtualnemedia.pl/play-upc-polska-testy-nowe-kanaly-muzyczne-grupa-mwe-networks-koniec-mtv,7243785932572800a",
-      "pubDate": "Fri, 16 Jan 2026 05:56:08 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Japonia wysłała Ukrainie wsparcie militarne. Rosja wściekła",
-      "link": "https://geekweek.interia.pl/militaria/news-japonia-wyslala-ukrainie-duze-wsparcie-militarne,nId,22509458",
-      "pubDate": "Fri, 16 Jan 2026 04:55:05 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Kantar: Marketerzy zwiększą inwestycje w twórców treści",
-      "link": "https://www.wirtualnemedia.pl/kantar-marketerzy-zwieksza-inwestycje-w-tworcow-tresci,7243778901706880a",
-      "pubDate": "Fri, 16 Jan 2026 05:52:12 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Lokalna stacja powoła radę złożoną z widzów. Ma ona mieć wpływ na ramówkę",
-      "link": "https://www.wirtualnemedia.pl/telewizja-wtk-rada-programowa-karol-warda-widzowie-grupa-mwe-networks,7243813408823424a",
-      "pubDate": "Fri, 16 Jan 2026 05:50:04 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Sprzedaż firmy. Jak zarządzać obiegiem informacji?",
-      "link": "https://pro.rp.pl/biznes/art43640461-sprzedaz-firmy-jak-zarzadzac-obiegiem-informacji",
-      "pubDate": "Fri, 16 Jan 2026 05:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Europejskie wojska na Grenlandii. Biały Dom komentuje",
-      "link": "https://tvn24.pl/swiat/usa-bialy-dom-europejskie-wojska-na-grenlandii-nie-wplyna-na-zamiar-pozyskania-wyspy-przez-trumpa-st8851679?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 04:48:43 GMT",
-      "source": "TVN24"
     }
   ]
 }
