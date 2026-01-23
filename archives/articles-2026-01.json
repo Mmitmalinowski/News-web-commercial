@@ -1,12 +1,66 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T05:50:36.463Z",
+  "generatedAt": "2026-01-23T06:00:41.849Z",
   "items": [
+    {
+      "title": "Kupiłem klawiaturę w cenie smartfona. Crush 80 Pro nie ma sensu, ale ją uwielbiam",
+      "link": "https://android.com.pl/tech/1009864-recenzja-wobkey-crush-80-pro/",
+      "pubDate": "Fri, 23 Jan 2026 05:59:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Wysokie rachunki przy pompie ciepła? Możesz mieć źle dobrane urządzenie",
+      "link": "https://businessinsider.com.pl/gospodarka/ogrzewanie-domu-pompa-ciepla-zima-kiedy-koszty-rosna-i-dlaczego/6rnhkpp",
+      "pubDate": "Fri, 23 Jan 2026 05:58:53 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Oto najgorętsze aktywa na Wall Street. Do niedawna niszowe, dziś rozpalają wyobraźnię inwestorów",
+      "link": "https://businessinsider.com.pl/poradnik-finansowy/inwestowanie/w-co-inwestowac-w-2026-r-oto-najgoretsze-aktywa-na-wall-street/5n37gms",
+      "pubDate": "Fri, 23 Jan 2026 05:56:21 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "TVP odpowiada na zarzuty prezydenta Nawrockiego, że jego przemówienia nie są emitowane",
+      "link": "http://www.press.pl/tresc/91304,tvp-odpowiada-na-zarzuty-prezydenta-nawrockiego_-ze-jego-przemowienia-nie-sa-emitowane?rss=1",
+      "pubDate": "Fri, 23 Jan 2026 06:55:00 +0100",
+      "source": "Press.pl"
+    },
+    {
+      "title": "Von der Leyen: pakiet wsparcia gospodarczego dla Ukrainy prawie gotowy",
+      "link": "https://tvn24.pl/biznes/ze-swiata/szczyt-w-brukseli-ursula-von-der-leyen-pakiet-wsparcia-gospodarczego-dla-ukrainy-prawie-gotowy-st8863349?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 05:54:56 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ćwiczyli przy minus 34 stopniach. Kilkudziesięciu poborowych z odmrożeniami",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-cwiczyli-przy-minus-34-stopniach-kilkudziesieciu-poborowych-,nId,8059694",
+      "pubDate": "Fri, 23 Jan 2026 06:54:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "\"Elektryki\" na Morskie Oko. NIK krytycznie o dotacji",
+      "link": "https://www.money.pl/gospodarka/elektryki-na-morskie-oko-nik-krytycznie-o-dotacji-7246422541998304a.html",
+      "pubDate": "Fri, 23 Jan 2026 06:52:42 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Niektórzy muszą oddać pieniądze. ZUS wydał komunikat",
+      "link": "https://biznes.interia.pl/finanse/news-listy-od-zus-u-juz-u-polakow-niektorzy-maja-obowiazek-zwroci,nId,22542411",
+      "pubDate": "Fri, 23 Jan 2026 05:50:03 GMT",
+      "source": "Biznes.interia.pl"
+    },
     {
       "title": "Domański o Radzie Pokoju: \"Są ważniejsze zadania do sfinansowania\"",
       "link": "https://biznes.interia.pl/polityka/news-domanski-o-radzie-pokoju-miliarda-dolarow-w-budzecie-na-to-z,nId,22542600",
       "pubDate": "Fri, 23 Jan 2026 05:47:35 GMT",
       "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "6-latek zginął w wypadku na warszawskiej Pradze. Nie wszyscy radni chcą szybkich zmian",
+      "link": "https://wiadomosci.onet.pl/warszawa/beda-zmiany-po-tragicznym-wypadku-na-warszawskiej-pradze-radni-sa-podzieleni/nh67sm8",
+      "pubDate": "Fri, 23 Jan 2026 05:47:08 GMT",
+      "source": "Onet"
     },
     {
       "title": "Trump o Nawrockim i Radzie Pokoju: Powiedział \"chcemy\"",
@@ -16407,6 +16461,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -24537,6 +24615,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -25334,6 +25436,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -65203,78 +65329,6 @@
       "link": "https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-polacy-poznali-rywali-w-australian-open-2026,nId,8057960",
       "pubDate": "Thu, 15 Jan 2026 06:58:44 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "Kto jest liderem na prawicy? Dwóch polityków idzie łeb w łeb [SONDAŻ]",
-      "link": "https://wiadomosci.onet.pl/kraj/kto-jest-liderem-na-prawicy-dwoch-politykow-idzie-leb-w-leb-sondaz/l5865yw",
-      "pubDate": "Thu, 15 Jan 2026 05:58:42 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Trump dał się przekonać w sprawie Iranu. Doradcy nie dali gwarancji zwycięstwa?",
-      "link": "https://www.bankier.pl/wiadomosc/Trump-dal-sie-przekonac-w-sprawie-Iranu-Doradcy-nie-dali-gwarancji-zwyciestwa-9068608.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:57:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Trump podjął decyzję w sprawie chińskich chipów ",
-      "link": "https://tvn24.pl/biznes/tech/trump-podjal-decyzje-w-sprawie-chinskich-chipow-wprowadzil-25-procentowe-cla-st8849483?source=rss",
-      "pubDate": "Thu, 15 Jan 2026 05:56:32 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ma stać na drodze do pokoju w Ukrainie. Trump: Musimy go skłonić",
-      "link": "https://wydarzenia.interia.pl/ukraina-rosja/news-ma-stac-na-drodze-do-pokoju-w-ukrainie-trump-musimy-go-sklon,nId,22509024",
-      "pubDate": "Thu, 15 Jan 2026 05:56:05 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Do \"darmowego prądu\" nie potrzeba własnej fotowoltaiki. Jest jednak kilka \"ale\"",
-      "link": "https://businessinsider.com.pl/prawo/wirtualny-prosument-w-polsce-nowa-szansa-na-tanszy-prad-bez-fotowoltaiki/qvjqktn",
-      "pubDate": "Thu, 15 Jan 2026 05:52:58 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Bryła lodu spadła z tira i przebiła szybę jadącego z tyłu BMW",
-      "link": "https://www.rmf24.pl/regiony/wroclaw/news-bryla-lodu-spadla-z-tira-i-przebila-szybe-jadacego-z-tylu-bm,nId,8057959",
-      "pubDate": "Thu, 15 Jan 2026 06:52:25 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rosjanie mówią, że nacierają na wszystkich kierunkach. Chwalą się zdobyczami z 2026 roku",
-      "link": "https://www.rp.pl/konflikty-zbrojne/art43640371-rosjanie-mowia-ze-nacieraja-na-wszystkich-kierunkach-chwala-sie-zdobyczami-z-2026-roku",
-      "pubDate": "Thu, 15 Jan 2026 06:51:51 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Tyle godzin pracował lekarz rekordzista z Sosnowca. \"System na to pozwala\"",
-      "link": "https://biznes.interia.pl/praca/news-lekarz-przepracowal-4881-godzin-w-ciagu-roku-nie-ma-uregulow,nId,22508548",
-      "pubDate": "Thu, 15 Jan 2026 05:50:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Używali AI już 12 lat temu. Dziś wiedzą, gdzie inni popełnili błąd",
-      "link": "https://android.com.pl/tech/1006845-uzywali-ai-juz-12-lat-temu/",
-      "pubDate": "Thu, 15 Jan 2026 05:50:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Prezydent i ministrowie omówią kwestię awansów oficerskich. \"To nie jest drobna sprawa\"",
-      "link": "https://wiadomosci.onet.pl/kraj/prezydent-i-ministrowie-omowia-kwestie-awansow-oficerskich-to-nie-jest-drobna-sprawa/bb44729",
-      "pubDate": "Thu, 15 Jan 2026 05:49:39 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Polska chce zmienić przepisy ws. gigafabryk AI. Namówiła inne kraje",
-      "link": "https://biznes.interia.pl/gospodarka/news-gigafabryka-ai-polska-bedzie-walczyc-o-zmiane-zasad-inwestyc,nId,22509025",
-      "pubDate": "Thu, 15 Jan 2026 05:48:28 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Prezeska Doraco o barierach dla local content. \"Zamawiający  chodzą na skróty\"",
-      "link": "https://businessinsider.com.pl/prawo/bariera-dla-local-content-w-polsce-ekspertka-trzeba-zmienic-podejscie-do-przetargow/nzdxeh0",
-      "pubDate": "Thu, 15 Jan 2026 05:45:35 GMT",
-      "source": "Business Insider"
     }
   ]
 }
