@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-23T18:03:48.148Z",
+  "generatedAt": "2026-01-23T18:16:14.693Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -58077,6 +58077,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -87301,12 +87325,6 @@
       "link": "https://antyweb.pl/tlumacz-google-jeszcze-nigdy-nie-byl-tak-dobry-aktualizacja-zachwyca",
       "pubDate": "Mon, 22 Dec 2025 07:00:34 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Resident doctors say they will resume talks to avoid further strikes with ‘can-do spirit’",
-      "link": "https://www.theguardian.com/society/2025/dec/22/resident-doctors-strikes-talks-bma-wes-streeting",
-      "pubDate": "Mon, 22 Dec 2025 07:00:24 GMT",
-      "source": "The Guardian"
     }
   ]
 }
