@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-23T09:47:32.942Z",
+  "generatedAt": "2026-01-23T09:59:43.574Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -57237,6 +57237,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86671,12 +86695,6 @@
       "link": "https://cyberdefence24.pl/strefa-samsunga-/samsung-galaxy-s25-ultra-na-prestizowych-zawodach-sls-super-crown",
       "pubDate": "Mon, 22 Dec 2025 07:32:26 +0100",
       "source": "Cyberdefence24"
-    },
-    {
-      "title": "Polska gigafabryka AI zagrożona? Bruksela zmienia warunki",
-      "link": "https://wiadomosci.onet.pl/kraj/polska-gigafabryka-ai-zagrozona-bruksela-zmienia-warunki/9rx3e7d",
-      "pubDate": "Mon, 22 Dec 2025 06:31:27 GMT",
-      "source": "Onet"
     }
   ]
 }
