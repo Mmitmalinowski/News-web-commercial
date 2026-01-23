@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-23T06:52:05.698Z",
+  "generatedAt": "2026-01-23T07:15:13.877Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -57069,6 +57069,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -86545,12 +86569,6 @@
       "link": "http://www.press.pl/tresc/90828,jesienia wszystkie-telewizje-z-tzw_-wielkiej-czworki-poprawily-udzial-w-16-59?rss=1",
       "pubDate": "Mon, 22 Dec 2025 07:20:00 +0100",
       "source": "Press.pl"
-    },
-    {
-      "title": "\"Nic o nas bez nas\". Kobosko o planie pokojowym i roli Polski w rozmowach z USA",
-      "link": "https://www.bankier.pl/wiadomosc/Nic-o-nas-bez-nas-Kobosko-o-planie-pokojowym-i-roli-Polski-w-rozmowach-z-USA-9059436.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 22 Dec 2025 07:20:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
