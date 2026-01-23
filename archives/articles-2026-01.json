@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T22:23:43.922Z",
+  "generatedAt": "2026-01-23T22:35:49.369Z",
   "items": [
+    {
+      "title": "Karol Nawrocki zareagował na słowa Donalda Trumpa ws. żołnierzy w Afganistanie",
+      "link": "https://www.rp.pl/polityka/art43690671-karol-nawrocki-zareagowal-na-slowa-donalda-trumpa-ws-zolnierzy-w-afganistanie",
+      "pubDate": "Fri, 23 Jan 2026 23:24:43 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Napięcie na Bliskim Wschodzie. Linie lotnicze odwołują połączenia",
       "link": "https://wiadomosci.onet.pl/swiat/napiecie-na-bliskim-wschodzie-linie-lotnicze-odwoluja-polaczenia/xbcs9gg",
@@ -25107,6 +25113,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -34827,6 +34857,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -35624,6 +35678,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68815,30 +68893,6 @@
       "link": "https://tech.wp.pl/s/portalstoczniowy-pl/inwestycja-dekady-w-kolobrzegu-port-morski-zmieni-sie-nie-do-poznania,7241556913383041a",
       "pubDate": "Fri, 16 Jan 2026 07:21:00 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Polscy programiści to czołówka, ale rynek ich nie potrzebuje. Podaż wiedzy, bez popytu",
-      "link": "https://www.bankier.pl/wiadomosc/Polscy-programisci-to-czolowka-ale-rynek-ich-nie-potrzebuje-Podaz-wiedzy-bez-popytu-9069284.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 07:21:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Dalsze obniżki stóp procentowych? Członek RPP: coraz bardziej oczywiste",
-      "link": "https://tvn24.pl/biznes/pieniadze/dalsze-obnizki-stop-procentowych-czlonek-rpp-coraz-bardziej-oczywiste-st8851736?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 06:20:53 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Piętrusy dla PKP Intercity. Tak wyglądają nowe pociągi",
-      "link": "https://geekweek.interia.pl/technologia/news-pietrusy-dla-pkp-intercity-tak-wygladaja-nowe-pociagi,nId,22509094",
-      "pubDate": "Fri, 16 Jan 2026 06:20:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Karol Nawrocki – król kiboli czy integrator prawicy",
-      "link": "https://www.rp.pl/plus-minus/art43642301-karol-nawrocki-krol-kiboli-czy-integrator-prawicy",
-      "pubDate": "Fri, 16 Jan 2026 07:20:00 +0100",
-      "source": "Rzeczpospolita"
     }
   ]
 }
