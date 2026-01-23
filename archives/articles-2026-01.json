@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T22:00:29.629Z",
+  "generatedAt": "2026-01-23T22:10:50.102Z",
   "items": [
+    {
+      "title": "Prezydent zareagował na słowa Trumpa o Afganistanie. \"Polscy żołnierze zasługują na szacunek\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-23/prezydent-zareagowal-na-slowa-trumpa-o-afganistanie-polscy-zolnierze-to-bohaterowie/",
+      "pubDate": "Fri, 23 Jan 2026 23:02:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "​Kandydaci PiS do TK odrzuceni po raz czwarty. Co stanie się w lutym?",
       "link": "https://www.rmf24.pl/polityka/news-kandydaci-pis-do-tk-odrzuceni-po-raz-czwarty-co-stanie-sie-w,nId,8060118",
@@ -25047,6 +25053,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -34719,6 +34749,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -35516,6 +35570,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68707,30 +68785,6 @@
       "link": "https://www.polsatnews.pl/wiadomosc/2026-01-16/medal-noblowski-przekazany-trumpowi-za-oddanie-wolnosci/",
       "pubDate": "Fri, 16 Jan 2026 07:16:00 +0100",
       "source": "Polsat News"
-    },
-    {
-      "title": "Transparentność stanie się standardem rynku pracy? Pracodawcy zmieniają strategię",
-      "link": "https://businessinsider.com.pl/praca/rynek-pracy-2026-stawia-na-jawnosc-wynagrodzen-i-neutralny-jezyk-ogloszen/jsbbpmh",
-      "pubDate": "Fri, 16 Jan 2026 06:15:11 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Rząd premiera Andreja Babisza uzyskał wotum zaufania. Miliarder wraca do władzy",
-      "link": "https://www.bankier.pl/wiadomosc/Rzad-premiera-Andreja-Babisza-uzyskal-wotum-zaufania-Miliarder-wraca-do-wladzy-9069262.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 07:15:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Półprzewodniki i wielkie cła. Tajwan zapłaci miliardy za spokój z USA",
-      "link": "https://www.bankier.pl/wiadomosc/Polprzewodniki-i-wielkie-cla-Tajwan-zaplaci-miliardy-za-spokoj-z-USA-9069249.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 07:15:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "S Korea's ex-president Yoon to be jailed for five years over martial law bid",
-      "link": "https://www.bbc.com/news/articles/cy4qdpxp78po?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 16 Jan 2026 06:14:25 GMT",
-      "source": "BBC News"
     }
   ]
 }
