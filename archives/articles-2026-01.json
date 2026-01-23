@@ -1,12 +1,378 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T04:55:41.551Z",
+  "generatedAt": "2026-01-23T05:25:43.320Z",
   "items": [
+    {
+      "title": "AI w Google nie zabija polskich portali. Mamy dane o ruchu z wyszukiwarek",
+      "link": "https://www.wirtualnemedia.pl/ai-w-google-nie-zabija-polskich-portali-mamy-dane-o-ruchu-z-wyszukiwarek,7245856201275584a",
+      "pubDate": "Fri, 23 Jan 2026 06:24:56 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Fundamentalna zmiana w Onecie. Jak działa Newsroom 24? \"Najlepsi wydawcy, redaktorzy i menedżerowie\"",
+      "link": "https://www.wirtualnemedia.pl/fundamentalna-zmiana-w-onecie-jak-dziala-newsroom-24-najlepsi-wydawcy-redaktorzy-i-menedzerowie,7245495133354176a",
+      "pubDate": "Fri, 23 Jan 2026 06:23:27 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Skrytykował wielkie mocarstwa. Trump wycofał mu zaproszenie do Rady Pokoju",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-skrytykowal-wielkie-mocarstwa-trump-wycofal-mu-zaproszenie-d,nId,22542598",
+      "pubDate": "Fri, 23 Jan 2026 05:21:34 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "800 zł świadczenia z ZUS. Nabór wniosków startuje 1 lutego",
+      "link": "https://biznes.interia.pl/finanse/news-zacznie-sie-juz-1-lutego-rusza-nabor-na-800-zl-z-zus,nId,22542342",
+      "pubDate": "Fri, 23 Jan 2026 05:20:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Peter Dutton alienated voters with ‘arrogant and aggressive’ approach, Labor election review finds",
+      "link": "https://www.theguardian.com/australia-news/2026/jan/23/peter-dutton-alienated-voters-labor-election-review",
+      "pubDate": "Fri, 23 Jan 2026 05:18:02 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Trump withdraws Canada's invite to  'Board of Peace'",
+      "link": "https://www.bbc.com/news/articles/cn7jjp8gl0jo?at_medium=RSS&at_campaign=rss",
+      "pubDate": "Fri, 23 Jan 2026 05:16:46 GMT",
+      "source": "BBC News"
+    },
+    {
+      "title": "Koniec przyjmowania wniosków na nowy kanał naziemny. Ile zgłoszeń trafiło do KRRiT?",
+      "link": "https://www.wirtualnemedia.pl/krrit-konkurs-mux-8-lista-kanalow-naziemna-telewizja-cyfrowa-zainteresowane-podmioty,7246270794709184a",
+      "pubDate": "Fri, 23 Jan 2026 06:16:03 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Trump o Nawrockim: powiedział \"chcemy\", ale musi zdobyć zgodę parlamentu",
+      "link": "https://tvn24.pl/swiat/donald-trump-o-karolu-nawrockim-powiedzial-chcemy-ale-musi-zdobyc-zgode-parlamentu-st8863338?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 05:15:16 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Republika boi się utraty koncesji? \"Będziemy płacić za faktycznie wykorzystany okres\"",
+      "link": "https://www.wirtualnemedia.pl/republika-koncesja-utrata-koniec-wojewodzki-sad-administracyjny-raty-jaroslaw-olechowski,7246291987552448a",
+      "pubDate": "Fri, 23 Jan 2026 06:14:45 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Szefowa KRRiT skrytykowała \"ustawę medialną\" w Parlamencie Europejskim",
+      "link": "https://www.wirtualnemedia.pl/krrit-agnieszka-glapiak-tadeusz-kowalski-konsultacje-parlament-europejski-ustawa-medialna,7246299778353344a",
+      "pubDate": "Fri, 23 Jan 2026 06:12:16 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Polska dosypuje Rakom pocisków. Zbroimy się na potęgę",
+      "link": "https://spidersweb.pl/2026/01/kolejne-kontrakty-na-amunicje-dla-rakow.html",
+      "pubDate": "Fri, 23 Jan 2026 06:12:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Mateusz Krogulec po 13 latach żegna się z DDOB. Sprzedał udziały",
+      "link": "https://www.wirtualnemedia.pl/mateusz-krogulec-po-13-latach-zegna-sie-z-ddob-sprzedal-udzialy,7246184440183008a",
+      "pubDate": "Fri, 23 Jan 2026 06:10:56 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Rząd szykuje zmiany w ustawie mieszkaniowej. \"Czynsze będą liczone na nowo\"",
+      "link": "https://biznes.interia.pl/gospodarka/news-rzad-zmienia-zasady-najmu-komunalnego-naprawiamy-niesprawied,nId,22542321",
+      "pubDate": "Fri, 23 Jan 2026 05:10:11 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Sprzedawcy z Vinted będą mieli problem. \"Staje się zagrożeniem\"",
+      "link": "https://biznes.interia.pl/finanse/news-sprzedawcy-z-vinted-beda-mieli-problem-system-wymyka-sie-spo,nId,22542075",
+      "pubDate": "Fri, 23 Jan 2026 05:10:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Co PR-owcy myślą o swojej branży? \"Na pierwszym planie do poprawy jest edukcja\"",
+      "link": "https://www.wirtualnemedia.pl/co-pr-owcy-mysla-o-swojej-branzy-na-pierwszym-planie-do-poprawy-jest-edukcja,7246231445043424a",
+      "pubDate": "Fri, 23 Jan 2026 06:09:38 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "\"Ma możliwość przymuszania\". Ekspert wyjaśnia status  Rady Pokoju, ONZ i rolę Donalda Trumpa",
+      "link": "https://businessinsider.com.pl/prawo/opinie/rada-pokoju-moze-wywolac-wiele-problemow-prawnych-ekspert-o-skutkach-ruchu-donalda/ssv5wrf",
+      "pubDate": "Fri, 23 Jan 2026 05:09:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Monika Richardson wygrała proces z \"Super Expressem\"",
+      "link": "https://www.wirtualnemedia.pl/monika-richardson-wygrala-proces-z-super-expressem,7246252393388256a",
+      "pubDate": "Fri, 23 Jan 2026 06:08:12 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "\"Z tej drogi nie ma już odwrotu\". Jak Unia Europejska może uderzyć w big techy [ANALIZA]",
+      "link": "https://businessinsider.com.pl/gospodarka/unia-europejska-kontra-big-techy-po-grozbach-trumpa-rosnie-napiecie-analiza/c6rxgpr",
+      "pubDate": "Fri, 23 Jan 2026 05:05:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs JPY/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-japonskiego-dzisiaj-po-ile-jest-jen-japonski-23-stycznia-2026-r/gfjk520",
+      "pubDate": "Fri, 23 Jan 2026 05:04:21 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs EUR/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-23-stycznia-2026-r/s12mqq3",
+      "pubDate": "Fri, 23 Jan 2026 05:04:04 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs USD/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-amerykanskiego-dzisiaj-po-ile-jest-dolar-amerykanski-23-stycznia-2026-r/tfbn040",
+      "pubDate": "Fri, 23 Jan 2026 05:04:03 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Bank Millennium wprowadza przydatną zmianę. Teraz wystarczy aplikacja",
+      "link": "https://www.tabletowo.pl/bank-millennium-aplikacja-tryb-mam-tylko-karte/",
+      "pubDate": "Fri, 23 Jan 2026 05:04:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Kurs CHF/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-szwajcarskiego-dzisiaj-po-ile-jest-frank-szwajcarski-23-stycznia-2026-r/l9y1m6v",
+      "pubDate": "Fri, 23 Jan 2026 05:03:50 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs GBP/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funtow-brytyjskich-dzisiaj-po-ile-jest-funt-brytyjski-23-stycznia-2026-r/6md24vd",
+      "pubDate": "Fri, 23 Jan 2026 05:03:49 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs NOK/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-norweska-23-stycznia-2026-r/vdcynnn",
+      "pubDate": "Fri, 23 Jan 2026 05:03:29 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs CZK/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-czeska-23-stycznia-2026-r/zgxnee8",
+      "pubDate": "Fri, 23 Jan 2026 05:03:29 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs SEK/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-szwedzkiej-dzisiaj-po-ile-jest-korona-szwedzka-23-stycznia-2026-r/d45jzn2",
+      "pubDate": "Fri, 23 Jan 2026 05:03:17 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs DKK/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-dunskiej-dzisiaj-po-ile-jest-korona-dunska-23-stycznia-2026-r/thfqt7q",
+      "pubDate": "Fri, 23 Jan 2026 05:03:15 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs TRY/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-turckiej-dzisiaj-po-ile-jest-lira-turecka-23-stycznia-2026-r/4d06fn0",
+      "pubDate": "Fri, 23 Jan 2026 05:02:56 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Kurs HUF/PLN 23 stycznia 2026 r.",
+      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-forinta-wegierskiego-dzisiaj-po-ile-jest-forint-wegierski-23-stycznia-2026-r/p43meer",
+      "pubDate": "Fri, 23 Jan 2026 05:02:56 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Komentarze Trumpa, rozmowy USA–Putin i zakończony szczyt UE. Podsumowanie nocy",
+      "link": "https://wiadomosci.onet.pl/swiat/rozmowy-usa-z-putinem-i-final-szczytu-ue-komentarze-trumpa-podsumowanie-nocy/y2l7jl7",
+      "pubDate": "Fri, 23 Jan 2026 05:01:11 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Doktryna Carneya: jak ocalić świat liberalnych wartości przed Trumpem",
+      "link": "https://krytykapolityczna.pl/swiat/doktryna-carneya-liberalne-wartosci-zachodu-po-rzadach-trumpa/",
+      "pubDate": "Fri, 23 Jan 2026 05:00:45 +0000",
+      "source": "Krytyka Polityczna"
+    },
+    {
+      "title": "Naprawdę zimna wojna: Ukraina w ciemnościach, Rosja na bocznicy",
+      "link": "https://krytykapolityczna.pl/swiat/zima-w-ukrainie-zbiorka-i-wdziecznosc/",
+      "pubDate": "Fri, 23 Jan 2026 05:00:40 +0000",
+      "source": "Krytyka Polityczna"
+    },
+    {
+      "title": "Indonesia takes action against mining firms after floods devastate population of world’s rarest ape",
+      "link": "https://www.theguardian.com/environment/2026/jan/23/tapanuli-orangutans-floods-indonesia-government-mining-extraction-companies-aoe",
+      "pubDate": "Fri, 23 Jan 2026 05:00:07 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Wystarczy dowód osobisty. Komunikacja miejska za darmo dla seniorów",
+      "link": "https://biznes.interia.pl/emerytury/news-emeryci-pojada-autobusami-za-darmo-wystarczy-miec-dowod-osob,nId,22542177",
+      "pubDate": "Fri, 23 Jan 2026 05:00:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Droższe wakacje w Katalonii. Turyści zapłacą dwa razy większy podatek",
+      "link": "https://turystyka.rp.pl/zanim-wyjedziesz/art43681431-drozsze-wakacje-w-katalonii-turysci-zaplaca-dwa-razy-wiekszy-podatek",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Został jedynie kościół i ludzka pamięć. „Tutejsza” mowa przypomina łagodny śląski",
+      "link": "https://www.rp.pl/plus-minus/art43680951-zostal-jedynie-kosciol-i-ludzka-pamiec-tutejsza-mowa-przypomina-lagodny-slaski",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Zaolzie znów jest na rozdrożu. Pracę traci połowa pracowników ostatniej kopalni",
+      "link": "https://www.rp.pl/plus-minus/art43680941-zaolzie-znow-jest-na-rozdrozu-prace-traci-polowa-pracownikow-ostatniej-kopalni",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Teresa Siudem: Prawo do nieobciążania samego siebie",
+      "link": "https://pro.rp.pl/biznes/art43673251-teresa-siudem-prawo-do-nieobciazania-samego-siebie",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Prof. Joanna Jurewicz: Teraz pocieszam się, że to jest autyzm",
+      "link": "https://www.rp.pl/plus-minus/art43680971-prof-joanna-jurewicz-teraz-pocieszam-sie-ze-to-jest-autyzm",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Dostawcy wysokiego ryzyka: przejrzyste procedury czy tajna dowolność?",
+      "link": "https://cyfrowa.rp.pl/opinie-i-komentarze/art43683991-dostawcy-wysokiego-ryzyka-przejrzyste-procedury-czy-tajna-dowolnosc",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Wiosną ruszą wywłaszczenia. Szef Portu Polska o kulisach projektu zastępującego CPK [TYLKO U NAS]",
+      "link": "https://businessinsider.com.pl/gospodarka/wiosna-rusza-wywlaszczenia-prezes-portu-polska-o-kulisach-projektu-za-cpk/399jw2w",
+      "pubDate": "Fri, 23 Jan 2026 05:00:00 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Polskie „dziesięciolatki” na progu 5%. Co dalej z obligacjami skarbowymi?",
+      "link": "https://www.bankier.pl/wiadomosc/Polskie-dziesieciolatki-na-progu-5-Co-dalej-z-obligacjami-skarbowymi-9071833.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Hipoteczny galimatias. Refinansować kredyt już teraz czy czekać na kolejne cięcia stóp?",
+      "link": "https://www.bankier.pl/wiadomosc/Hipoteczny-galimatias-Refinansowac-kredyt-juz-teraz-czy-czekac-na-kolejne-ciecia-stop-9072554.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "KSeF już od lutego, bankowość może być centrum dowodzenia e-fakturami",
+      "link": "https://www.bankier.pl/wiadomosc/KSeF-juz-od-lutego-bankowosc-moze-byc-centrum-dowodzenia-e-fakturami-9072643.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Takiej sytuacji nie było od lat. Stałe oprocentowanie już wyżej niż zmienne",
+      "link": "https://www.bankier.pl/wiadomosc/Hipoteki-stale-oprocentowanie-juz-wyzej-niz-zmienne-9072595.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Na co możesz zdobyć dotacje z największego unijnego programu?",
+      "link": "https://www.bankier.pl/wiadomosc/Na-co-mozesz-zdobyc-dotacje-z-najwiekszego-unijnego-programu-9072618.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Ryanair będzie miał Starlinki? O'Leary: O ile Musk zapłaci za montaż i opłaty",
+      "link": "https://www.bankier.pl/wiadomosc/Ryanair-bedzie-mial-Starlinki-O-Leary-O-ile-Musk-zaplaci-za-montaz-i-oplaty-9072501.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Nawet 7% na koncie oszczędnościowym dla dziecka. Taka stawka dostępna w jednym z dużych banków",
+      "link": "https://www.bankier.pl/wiadomosc/Nawet-7-na-koncie-oszczednosciowym-dla-dziecka-Ktore-banki-oferuja-najwiecej-9072589.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Fri, 23 Jan 2026 06:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
+      "title": "Najpotężniejsze pociski manewrujące oraz ich potencjał. Ta broń zmieniła znaczenie słowa “precyzja”",
+      "link": "https://www.chip.pl/2026/01/najpotezniejsze-pociski-manewrujace",
+      "pubDate": "Fri, 23 Jan 2026 04:59:36 +0000",
+      "source": "Chip.pl"
+    },
+    {
+      "title": "Portal XYZ bez szefa wideo i audio",
+      "link": "https://www.wirtualnemedia.pl/portal-xyz-bez-szefa-wideo-i-audio,7243356581779488a",
+      "pubDate": "Fri, 23 Jan 2026 05:59:15 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "To dla nich gra WOŚP. Pomoc może dotrzeć do nawet półtora miliona dzieci",
+      "link": "https://tvn24.pl/wosp2026/tegoroczna-pomoc-wosp-moze-dotrzec-do-nawet-1-5-miliona-dzieci-st8863337?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 04:59:01 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ile kosztują reklamy w Polsacie? \"Pierwsza miłość\" droższa niż \"Wydarzenia\"",
+      "link": "https://www.wirtualnemedia.pl/ile-kosztuja-reklamy-w-polsacie-pierwsza-milosc-drozsza-niz-wydarzenia,7246227781269696a",
+      "pubDate": "Fri, 23 Jan 2026 05:57:47 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Kosmos powstał inaczej, niż sądzono. Neutrina wracają do gry",
+      "link": "https://spidersweb.pl/2026/01/ciemna-materia-nie-tak-zimna-jak-myslelismy.html",
+      "pubDate": "Fri, 23 Jan 2026 05:57:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Meta wprowadza globalnie reklamy w kolejnej aplikacji",
+      "link": "https://www.wirtualnemedia.pl/meta-wprowadza-globalnie-reklamy-w-kolejnej-aplikacji,7246236130179296a",
+      "pubDate": "Fri, 23 Jan 2026 05:55:40 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Ukraina otrzymała ogromną ilość broni, która chroni Biały Dom",
+      "link": "https://geekweek.interia.pl/militaria/news-ukraina-otrzymala-ogromna-ilosc-broni-ktora-chroni-bialy-dom,nId,22542541",
+      "pubDate": "Fri, 23 Jan 2026 04:55:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Najdroższe miejsce na ferie w Polsce. Przebija nawet Zakopane ",
+      "link": "https://biznes.interia.pl/finanse/news-ten-polski-kurort-przebija-zakopane-ceny-noclegow-zwalaja-z,nId,22542302",
+      "pubDate": "Fri, 23 Jan 2026 04:55:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Donald Trump wycofał zaproszenie do Rady Pokoju dla premiera Kanady",
+      "link": "https://www.rp.pl/polityka/art43686751-donald-trump-wycofal-zaproszenie-do-rady-pokoju-dla-premiera-kanady",
+      "pubDate": "Fri, 23 Jan 2026 05:54:44 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Donald Trump pozywa giganta. Żąda od banku 5 mld dolarów",
+      "link": "https://www.money.pl/gospodarka/donald-trump-pozywa-giganta-zada-od-banku-5-mld-dolarow-7246411168159968a.html",
+      "pubDate": "Fri, 23 Jan 2026 05:54:32 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Po obaleniu Maduro USA mają kolejny cel",
+      "link": "https://tvn24.pl/swiat/po-obaleniu-maduro-usa-maja-kolejny-cel-wsj-trwaja-dzialania-by-zmienic-rezim-na-kubie-st8863315?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 04:54:20 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "Nowy prezenter kanału Biznes24",
       "link": "https://www.wirtualnemedia.pl/nowy-prezenter-biznes24-damian-biedrzycki-dzien-na-rynkach,7246278196226272a",
       "pubDate": "Fri, 23 Jan 2026 05:53:37 +0100",
       "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "The Australian dollar is (oddly) rising – what does ‘sell America’ sentiment have to do with it?",
+      "link": "https://www.theguardian.com/business/2026/jan/23/australian-dollar-rising-sell-america-sentiment",
+      "pubDate": "Fri, 23 Jan 2026 04:51:40 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "\"GQ Poland\" z szefową od eventów. Przez 12 lat pracowała w Burdzie",
@@ -79,6 +445,12 @@
       "link": "https://mamstartup.pl/polska-nauka-i-ekosystem-innowacji-dojrzalym-partnerem-dla-nato-w-krakowie-wystartowal-akcelerator-diana/",
       "pubDate": "Fri, 23 Jan 2026 04:39:43 +0000",
       "source": "MamStartup"
+    },
+    {
+      "title": "Trump po spotkaniu w Davos. \"Robię to dla Europy, nie dla USA\"",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-trump-po-spotkaniu-w-davos-robie-to-dla-europy-nie-dla-usa,nId,22542596",
+      "pubDate": "Fri, 23 Jan 2026 04:39:43 GMT",
+      "source": "Interia"
     },
     {
       "title": "Edyta Maciejewska szefową social mediów w agencji WebTalk",
@@ -305,6 +677,12 @@
     {
       "title": "Ukraine updates: Peace talks put to test at UAE",
       "link": "https://www.dw.com/en/ukraine-updates-peace-talks-put-to-test-at-uae/live-75614291?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Fri, 23 Jan 2026 03:27:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Ukraine updates: Peace talks put to test at UAE meeting",
+      "link": "https://www.dw.com/en/ukraine-updates-peace-talks-put-to-test-at-uae-meeting/live-75614291?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 23 Jan 2026 03:27:00 GMT",
       "source": "DW"
     },
@@ -15861,6 +16239,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -23943,6 +24345,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -24740,6 +25166,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -64771,402 +65221,6 @@
       "link": "https://spidersweb.pl/2026/01/ukraina-wedki-na-drony-nowy-sposob-obrony.html",
       "pubDate": "Thu, 15 Jan 2026 06:20:00 +0100",
       "source": "Spider's Web"
-    },
-    {
-      "title": "Nie tylko Mercosur. Ustalenia RMF FM: KE podpisze kolejną umowę handlową",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-nie-tylko-mercosur-ustalenia-rmf-fm-ke-podpisze-kolejna-umow,nId,8057956",
-      "pubDate": "Thu, 15 Jan 2026 06:20:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "\"Nawet nie potrzeba wojny\". Polscy producenci leków alarmują",
-      "link": "https://www.money.pl/gospodarka/nawet-nie-potrzeba-wojny-polscy-producenci-lekow-alarmuja-7243584090601600a.html",
-      "pubDate": "Thu, 15 Jan 2026 06:19:32 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Trump: to Zełenski stoi na przeszkodzie ",
-      "link": "https://tvn24.pl/swiat/trump-to-zelenski-stoi-na-przeszkodzie-st8849468?source=rss",
-      "pubDate": "Thu, 15 Jan 2026 05:17:44 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Codzienne zakupy wciąż drożeją, ale wolniej. Koniec ery szoków cenowych?",
-      "link": "https://www.bankier.pl/wiadomosc/Codzienne-zakupy-wciaz-drozeja-ale-wolniej-Koniec-ery-szokow-cenowych-9068589.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:16:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Xbox ma Grę Roku, a ty nawet o tym nie wiesz. Co za porażka",
-      "link": "https://spidersweb.pl/2026/01/xbox-game-pass-clair-obscure-expedition-33-goty-2025-gra-roku-za-darmo.html",
-      "pubDate": "Thu, 15 Jan 2026 06:15:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Problem z niepłaceniem czynszów, jest apel o zmiany. \"Niesprawiedliwe\"",
-      "link": "https://biznes.interia.pl/finanse/news-ten-przepis-blokuje-sciaganie-dlugu-w-mieszkaniach-komunalny,nId,22508934",
-      "pubDate": "Thu, 15 Jan 2026 05:12:24 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wyludnione centrum Warszawy zamyka przedszkola. Budynki nie będą stać puste",
-      "link": "https://www.bankier.pl/wiadomosc/Wyludnione-centrum-Warszawy-zamyka-przedszkola-Budynki-nie-beda-stac-puste-9068588.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:12:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Przepytuje polityków i promuje suplementy. Nowa rola Magdaleny Ogórek",
-      "link": "https://www.wirtualnemedia.pl/przepytuje-politykow-i-promuje-suplementy-nowa-rola-magdaleny-ogorek,7242687701978080a",
-      "pubDate": "Thu, 15 Jan 2026 06:11:54 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nie czekaj! Zostało tylko 10 dni na zgłoszenie się do naszego konkursu dla dziennikarzy",
-      "link": "https://www.wirtualnemedia.pl/nie-czekaj-zostalo-tylko-10-dni-na-zgloszenie-sie-do-naszego-konkursu-dla-dziennikarzy,7243374014662784a",
-      "pubDate": "Thu, 15 Jan 2026 06:11:36 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "7 kanałów zabiega o koncesje satelitarne. KRRiT chce dodatkowych informacji [TYLKO U NAS]",
-      "link": "https://www.wirtualnemedia.pl/krrit-nowe-kanaly-satelitarne-grupa-mwe-networks-music-club-zaiks-canal-plus-koniec-mtv,7243453077354624a",
-      "pubDate": "Thu, 15 Jan 2026 06:11:01 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Nowe odcinki \"The Floor\" w TVN już w lutym. Stacja szykuje wiele zmian [NASZ NEWS]",
-      "link": "https://www.wirtualnemedia.pl/nowe-odcinki-the-floor-w-tvn-juz-w-lutym-stacja-szykuje-wiele-zmian-nasz-news,7243322716755968a",
-      "pubDate": "Thu, 15 Jan 2026 06:10:02 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "UE nałożyła na Polskę nowy obowiązek. Chodzi o kranówkę ",
-      "link": "https://biznes.interia.pl/gospodarka/news-unia-nalozyla-na-polske-nowy-obowiazek-przepisy-dotycza-kran,nId,22508811",
-      "pubDate": "Thu, 15 Jan 2026 05:10:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Galaktyka nagle zgasła. Webb wskazał winnego",
-      "link": "https://spidersweb.pl/2026/01/supermasywna-dziura-zabila-galaktyke-pabla.html",
-      "pubDate": "Thu, 15 Jan 2026 06:10:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Internet oszalał na punkcie wspomnień z 2016 roku. Ekspert zwraca uwagę na jedno",
-      "link": "https://www.wirtualnemedia.pl/internet-oszalal-na-punkcie-wspomnien-z-2016-roku-uwaga-na-jedno-2016-challenge-karmi-ai-algorytm,7243356977731616a",
-      "pubDate": "Thu, 15 Jan 2026 06:09:38 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Polska marka odzieżowa zmienia logo. Pierwszy raz od powstania 40 lat temu [TYLKO U NAS]",
-      "link": "https://www.wirtualnemedia.pl/polska-marka-odziezowa-zmienia-logo-pierwszy-raz-od-powstania-40-lat-temu-tylko-u-nas,7243400046012544a",
-      "pubDate": "Thu, 15 Jan 2026 06:09:20 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "RMF FM świętuje 36-lecie. 36 godzin transmisji na żywo",
-      "link": "https://www.wirtualnemedia.pl/rmf-fm-36-urodziny-transmisja-live-radio-streaming-kopiec-koncert,7243409276860544a",
-      "pubDate": "Thu, 15 Jan 2026 06:08:54 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Polsat wiosną bez odcinka specjalnego \"Przyjaciółek\" [NASZ NEWS]",
-      "link": "https://www.wirtualnemedia.pl/polsat-wiosna-bez-odcinka-specjalnego-przyjaciolek-nasz-news,7243312556595680a",
-      "pubDate": "Thu, 15 Jan 2026 06:08:34 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Orlen wspiera kolejną dyscyplinę sportową",
-      "link": "https://www.wirtualnemedia.pl/orlen-polski-zwiazek-triathlonu-umowa-wspolpraca-pieniadze,7243386717300864a",
-      "pubDate": "Thu, 15 Jan 2026 06:08:13 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Będzie drugi sezon \"Strażaków z sąsiedztwa\". Ruszyły zdjęcia",
-      "link": "https://www.wirtualnemedia.pl/bedzie-drugi-sezon-strazakow-z-sasiedztwa-ruszyly-zdjecia,7243467347130464a",
-      "pubDate": "Thu, 15 Jan 2026 06:07:50 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Iran na kilka godzin zamknął swoją przestrzeń powietrzną",
-      "link": "https://www.rp.pl/polityka/art43640341-iran-na-kilka-godzin-zamknal-swoja-przestrzen-powietrzna",
-      "pubDate": "Thu, 15 Jan 2026 06:06:48 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "KRRiT wypłaci ponad 21 mln zł Polskiemu Radiu i rozgłośniom regionalnym",
-      "link": "https://www.wirtualnemedia.pl/krrit-wyplaty-depozyt-polskie-radio-rozglosnie-regionalne-tvp-abonament-2024,7243428866537568a",
-      "pubDate": "Thu, 15 Jan 2026 06:05:11 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Ukraina oficjalnie potwierdza. Mamy Tempesta i upolował już co najmniej 21 Shahedów",
-      "link": "https://geekweek.interia.pl/militaria/news-ukraina-oficjalnie-potwierdza-mamy-tempesta-i-upolowal-juz-c,nId,22508866",
-      "pubDate": "Thu, 15 Jan 2026 05:05:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Coś dziwnego dzieje się na stacji kosmicznej. Mikroby dostały szału",
-      "link": "https://spidersweb.pl/2026/01/iss-wirusy-mocniejsze-w-mikrograwitacji.html",
-      "pubDate": "Thu, 15 Jan 2026 06:05:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Ponad 89 proc. Polaków w zasięgu reklamy zewnętrznej",
-      "link": "https://www.wirtualnemedia.pl/ponad-89-proc-polakow-w-zasiegu-reklamy-zewnetrznej,7243413727221888a",
-      "pubDate": "Thu, 15 Jan 2026 06:04:53 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "KRRiT rozstrzygnęła konkurs. Był tylko jeden chętny",
-      "link": "https://www.wirtualnemedia.pl/krrit-konkurs-wola-kolo-czerwienska-wygrana-radio-plonsk,7243418456455264a",
-      "pubDate": "Thu, 15 Jan 2026 06:04:34 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Oto nominowani do Nagrody Mariusza Waltera za 2025",
-      "link": "https://www.wirtualnemedia.pl/nagroda-mariusza-waltera-nominowani-tvn-lista-nazwisk,7243424683243648a",
-      "pubDate": "Thu, 15 Jan 2026 06:04:12 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Google wprowadza spersonalizowane reklamy zakupowe z AI",
-      "link": "https://www.wirtualnemedia.pl/google-ai-mode-reklamy-zakupy-narzedzie-firmy,7243355699603936a",
-      "pubDate": "Thu, 15 Jan 2026 06:03:52 +0100",
-      "source": "Wirtualnemedia.pl"
-    },
-    {
-      "title": "Kurs JPY/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-jena-japonskiego-dzisiaj-po-ile-jest-jen-japonski-15-stycznia-2026-r/frvzfvp",
-      "pubDate": "Thu, 15 Jan 2026 05:02:51 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs EUR/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-euro-dzisiaj-po-ile-jest-euro-15-stycznia-2026-r/lp7kr95",
-      "pubDate": "Thu, 15 Jan 2026 05:02:29 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs USD/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-dolara-amerykanskiego-dzisiaj-po-ile-jest-dolar-amerykanski-15-stycznia-2026-r/5em6nd2",
-      "pubDate": "Thu, 15 Jan 2026 05:02:28 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs CHF/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-franka-szwajcarskiego-dzisiaj-po-ile-jest-frank-szwajcarski-15-stycznia-2026-r/dz958nw",
-      "pubDate": "Thu, 15 Jan 2026 05:02:15 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs GBP/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-funtow-brytyjskich-dzisiaj-po-ile-jest-funt-brytyjski-15-stycznia-2026-r/zvkksx7",
-      "pubDate": "Thu, 15 Jan 2026 05:02:14 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "No to się porobiło. Miały być nie do powstrzymania, ale Amerykanie pokazali nową broń",
-      "link": "https://www.chip.pl/2026/01/drony-swiatlowod-bron-mikrofalowa-epirus-leonidas-vehicelkit",
-      "pubDate": "Thu, 15 Jan 2026 05:02:05 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Polityka Trumpa uderza w światową turystykę. „Podróż jest dziś aktem politycznym”",
-      "link": "https://turystyka.rp.pl/nowe-trendy/art43636241-polityka-trumpa-uderza-w-swiatowa-turystyke-podroz-jest-dzis-aktem-politycznym",
-      "pubDate": "Thu, 15 Jan 2026 06:02:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Kurs CZK/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-czeskiej-dzisiaj-po-ile-jest-korona-czeska-15-stycznia-2026-r/17gr14d",
-      "pubDate": "Thu, 15 Jan 2026 05:02:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Musk's xAI curbs sexually explicit image generation in Grok",
-      "link": "https://www.dw.com/en/musk-s-xai-curbs-sexually-explicit-image-generation-in-grok/a-75511331?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 15 Jan 2026 05:02:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kurs NOK/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-norweskiej-dzisiaj-po-ile-jest-korona-norweska-15-stycznia-2026-r/lqmcvd4",
-      "pubDate": "Thu, 15 Jan 2026 05:01:57 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs SEK/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-szwedzkiej-dzisiaj-po-ile-jest-korona-szwedzka-15-stycznia-2026-r/kvkhyr4",
-      "pubDate": "Thu, 15 Jan 2026 05:01:42 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs DKK/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-korony-dunskiej-dzisiaj-po-ile-jest-korona-dunska-15-stycznia-2026-r/xgmd7ms",
-      "pubDate": "Thu, 15 Jan 2026 05:01:41 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs TRY/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-liry-turckiej-dzisiaj-po-ile-jest-lira-turecka-15-stycznia-2026-r/55mqkfj",
-      "pubDate": "Thu, 15 Jan 2026 05:01:26 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Kurs HUF/PLN 15 stycznia 2026 r.",
-      "link": "https://businessinsider.com.pl/gielda/kursy-walut/kurs-forinta-wegierskiego-dzisiaj-po-ile-jest-forint-wegierski-15-stycznia-2026-r/q9hvye2",
-      "pubDate": "Thu, 15 Jan 2026 05:01:25 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ugandans to vote in election expected to extend Museveni’s four-decade rule",
-      "link": "https://www.theguardian.com/world/2026/jan/15/uganda-vote-election-yoweri-museveni-bobi-wine",
-      "pubDate": "Thu, 15 Jan 2026 05:00:51 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "World warming faster than forecast as pollution cuts remove hidden cooling effect",
-      "link": "http://www.euronews.com/green/2026/01/15/world-warming-faster-than-forecast-as-pollution-cuts-remove-hidden-cooling-effect",
-      "pubDate": "Thu, 15 Jan 2026 06:00:07 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Geodeta zdecyduje, kto dostanie koncesję. Polskie miasto słono zapłaci",
-      "link": "https://biznes.interia.pl/gospodarka/news-torun-poszukuje-geodety-zmierzy-odleglosci-miedzy-sklepami,nId,22508708",
-      "pubDate": "Thu, 15 Jan 2026 05:00:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Renault Filante: luksusowy SUV z Korei, którego w Europie nie zobaczymy",
-      "link": "https://moto.rp.pl/parking/art43634661-renault-filante-luksusowy-suv-z-korei-ktorego-w-europie-nie-zobaczymy",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Koniec diesla na kolei? Takich pociągów w Polsce jeszcze nie było",
-      "link": "https://spidersweb.pl/2026/01/koleje-dolnoslaskie-zamowienie-prototypy.html",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "CD Projekt RED szykuje się do premiery Wiedźmina 4. Konkurent to najważniejsza gra w historii",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/nowy-dodatek-do-wiedzmina-3-przed-wiedzminem-4-fakty-poszlaki-i-odpowiedz-cd-projekt/7ekf98q",
-      "pubDate": "Thu, 15 Jan 2026 05:00:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Warren Buffett: gotówka jest jak tlen. Prognoza na następne 100 lat legendarnego inwestora",
-      "link": "https://www.bankier.pl/wiadomosc/Warren-Buffett-gotowka-jest-jak-tlen-Prognoza-na-nastepne-100-lat-legendarnego-inwestora-9068270.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Spór w PKO BP o auta służbowe. Bank wprowadza zmiany, dyrektorzy oddziałów skarżą się na ograniczenia",
-      "link": "https://www.bankier.pl/wiadomosc/Spor-w-PKO-BP-o-auta-sluzbowe-Bank-wprowadza-zmiany-dyrektorzy-oddzialow-skarza-sie-na-ograniczenia-9067969.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "„Nie ma komu pracować przy pacjentach”. Szpitale coraz bardziej odczuwają kryzys kadrowy",
-      "link": "https://www.bankier.pl/wiadomosc/Pielegniarki-na-wage-zlota-W-szpitalach-brakuje-ich-coraz-bardziej-9068360.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "ING przekazał środki ze stypendium komornikowi. Klient idzie do prokuratury",
-      "link": "https://www.bankier.pl/wiadomosc/Zwolnienie-srodkow-spod-zajecia-komorniczego-jakie-sa-obowiazki-banku-9068168.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "KSeF: uwaga na mylące daty. Wielu przedsiębiorców może wpaść w tę pułapkę",
-      "link": "https://www.bankier.pl/wiadomosc/KSeF-uwaga-na-mylace-daty-Wielu-przedsiebiorcow-moze-wpasc-w-te-pulapke-9068239.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Ranking kont oszczędnościowych. 7% na czele tabeli. Wykonaj te kroki, by odebrać wysokie odsetki",
-      "link": "https://www.bankier.pl/wiadomosc/Ranking-kont-oszczednosciowych-w-styczniu-2026-r-7-na-czele-tabeli-Wykonaj-te-kroki-by-odebrac-wysokie-odsetki-9068162.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Darmowe konto firmowe na stałe? Sprawdzamy najlepsze oferty",
-      "link": "https://www.bankier.pl/wiadomosc/Ranking-najtanszych-kont-firmowych-bez-ograniczen-czasowych-styczen-2026-r-9068176.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "MAGA przecenia, jak wielu Amerykanów chce strzelać lewaczkom w twarz",
-      "link": "https://krytykapolityczna.pl/swiat/trump-ice-minnesota-przemoc-migracja-fafo/",
-      "pubDate": "Thu, 15 Jan 2026 05:00:00 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "Katarzyna Wójcik: Przedsiębiorcy mogą odetchnąć",
-      "link": "https://pro.rp.pl/kadry-i-place/art43609341-katarzyna-wojcik-przedsiebiorcy-moga-odetchnac",
-      "pubDate": "Thu, 15 Jan 2026 06:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Iran protest killings have halted, Trump claims, as Tehran says executions are ‘out of the question’",
-      "link": "https://www.theguardian.com/world/2026/jan/15/iran-protest-killings-trump-tehran-claims-no-executions",
-      "pubDate": "Thu, 15 Jan 2026 04:57:49 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Trump says Iran has 'no plan' to execute protesters",
-      "link": "https://www.bbc.com/news/articles/c07xpndjdd8o?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Thu, 15 Jan 2026 04:57:26 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Iran otworzył przestrzeń powietrzną. Media ujawniają dalsze plany Trumpa",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-iran-otworzyl-przestrzen-powietrzna-media-ujawniaja-dalsze-p,nId,22509022",
-      "pubDate": "Thu, 15 Jan 2026 04:57:18 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Miliardy na europejskie AI a nie amerykańskich gigantów. Polska w koalicji z Niemcami i Francją",
-      "link": "https://www.bankier.pl/wiadomosc/Miliardy-na-europejskie-AI-a-nie-amerykanskich-gigantow-Polska-w-koalicji-z-Niemcami-i-Francja-9068584.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Thu, 15 Jan 2026 05:56:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Rosja właśnie straciła status potęgi morskiej. Chiny tuż obok USA",
-      "link": "https://geekweek.interia.pl/militaria/news-rosja-wlasnie-stracila-status-potegi-morskiej-chiny-tuz-obok,nId,22508969",
-      "pubDate": "Thu, 15 Jan 2026 04:55:01 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Przewidział kryzys z 2008 roku. Teraz ostrzega przed kolejnym krachem",
-      "link": "https://biznes.interia.pl/gieldy/aktualnosci/news-alphabet-mocniejszy-niz-apple-wall-street-pod-dyktando-sztuc,nId,22508498",
-      "pubDate": "Thu, 15 Jan 2026 04:52:01 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Trump mówił o zakończeniu wojny w Ukrainie. Wskazał na \"główną przeszkodę\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-15/trump-mowil-o-zakonczeniu-wojny-w-ukrainie-wskazal-na-glowna-przeszkode/",
-      "pubDate": "Thu, 15 Jan 2026 05:52:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Do końca stycznia trzeba poinformować, że pracodawca nie wypłaci świadczenia",
-      "link": "https://pro.rp.pl/kadry-i-place/art43598361-do-konca-stycznia-trzeba-poinformowac-ze-pracodawca-nie-wyplaci-swiadczenia",
-      "pubDate": "Thu, 15 Jan 2026 05:50:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Minneapolis: Officer shoots person in leg during arrest",
-      "link": "https://www.dw.com/en/minneapolis-officer-shoots-person-in-leg-during-arrest/a-75511317?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Thu, 15 Jan 2026 04:49:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Oskarżenia o zdradę w Polsce 2050. Kobosko: głęboko niesprawiedliwe",
-      "link": "https://tvn24.pl/polska/oskarzenia-o-zdrade-w-polsce-2050-michal-kobosko-gleboko-niesprawiedliwe-st8848621?source=rss",
-      "pubDate": "Thu, 15 Jan 2026 04:47:16 GMT",
-      "source": "TVN24"
     }
   ]
 }
