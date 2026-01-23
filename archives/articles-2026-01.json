@@ -1,7 +1,49 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T20:25:46.513Z",
+  "generatedAt": "2026-01-23T20:40:24.302Z",
   "items": [
+    {
+      "title": "Opozycjoniści PRL do ministra Żurka: Adam Borowski miał prawo do opinii o Romanie Giertychu",
+      "link": "https://www.rp.pl/prawo-karne/art43690511-opozycjonisci-prl-do-ministra-zurka-adam-borowski-mial-prawo-do-opinii-o-romanie-giertychu",
+      "pubDate": "Fri, 23 Jan 2026 21:34:52 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nowe ustalenia w sprawie cyberataku na Polskę. Ślad prowadzi do groźnej grupy",
+      "link": "https://wiadomosci.onet.pl/kraj/nowe-ustalenia-w-sprawie-cyberataku-na-polske-slad-prowadzi-do-groznej-grupy/ths8l8d",
+      "pubDate": "Fri, 23 Jan 2026 20:32:39 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Polska nie wpłaci składki na Radę Pokoju. \"Budżet nie przewiduje takich środków\", mówi minister Domański",
+      "link": "https://businessinsider.com.pl/wiadomosci/rada-pokoju-trumpa-bez-polski-budzet-nie-przewiduje-miliarda-dolarow/58nh130",
+      "pubDate": "Fri, 23 Jan 2026 20:29:07 GMT",
+      "source": "Business Insider"
+    },
+    {
+      "title": "Burza po słowach Donalda Trumpa. Jarosław Kaczyński komentuje",
+      "link": "https://wiadomosci.onet.pl/kraj/burza-po-slowach-donalda-trumpa-jaroslaw-kaczynski-komentuje/7nk7kp1",
+      "pubDate": "Fri, 23 Jan 2026 20:28:09 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Premierka Włoch zabrała głos w sprawie umowy Mercosur. Nie kryła zadowolenia",
+      "link": "https://wiadomosci.onet.pl/swiat/meloni-zabrala-glos-w-sprawie-umowy-mercosur-nie-kryla-zadowolenia/409298v",
+      "pubDate": "Fri, 23 Jan 2026 20:25:10 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Philadelphia sues US government for removal of slavery-related exhibit",
+      "link": "https://www.theguardian.com/us-news/2026/jan/23/philadelphia-trump-adminstration-lawsuit-slavery-exhibit",
+      "pubDate": "Fri, 23 Jan 2026 20:23:36 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Wysokie wpisowe do Rady Pokoju. \"Tego miliarda nie ma\"",
+      "link": "https://wiadomosci.onet.pl/kraj/wysokie-wpisowe-do-rady-pokoju-tego-miliarda-nie-ma/cv4fgqg",
+      "pubDate": "Fri, 23 Jan 2026 20:23:16 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Wyjątkowi goście w studiu. Małgorzata Rozenek-Majdan wystąpiła w ich imieniu",
       "link": "https://tvn24.pl/polska/prawa-zwierzat-wyjatkowi-goscie-w-studiu-malgorzata-rozenek-majdan-wystapila-w-ich-imieniu-st8865148?source=rss",
@@ -3377,6 +3419,12 @@
     {
       "title": "Polka oskarżona przez męża o porwanie dzieci zatrzymana w Niemczech. Przełomowa decyzja sądu",
       "link": "https://tvn24.pl/szczecin/polka-oskarzona-przez-meza-o-porwanie-dzieci-zatrzymana-w-niemczech-przelomowa-decyzja-sadu-st8864046?source=rss",
+      "pubDate": "Fri, 23 Jan 2026 12:31:49 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Polka oskarżona przez męża o porwanie dzieci zatrzymana w Niemczech. Przełomowe decyzje sądów ",
+      "link": "https://tvn24.pl/szczecin/polka-oskarzona-przez-meza-o-porwanie-dzieci-zatrzymana-w-niemczech-przelomowe-decyzje-sadow-st8864046?source=rss",
       "pubDate": "Fri, 23 Jan 2026 12:31:49 GMT",
       "source": "TVN24"
     },
@@ -24621,6 +24669,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -34077,6 +34149,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -34874,6 +34970,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68179,72 +68299,6 @@
       "link": "https://tvn24.pl/biznes/pieniadze/wyniki-lotto-i-lotto-plus-z-15-stycznia-2026-jakie-liczby-padly-w-trakcie-ostatniego-losowania-st8851710?source=rss",
       "pubDate": "Fri, 16 Jan 2026 05:47:49 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Skargi na firmę zatrudniającą obsługę i zerwana umowa. Co się dzieje w Muzeum Sztuki Nowoczesnej?",
-      "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-skargi-na-firme-zatrudniajaca-obsluge-i-zerwana-umowa-co-sie-dzieje-w-muzeum-sztuki-nowoczesnej-st8843276?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 05:47:16 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Żołnierze Danii i USA przeprowadzą wspólne ćwiczenia w regionie Arktyki",
-      "link": "https://tvn24.pl/swiat/norwegia-zolnierze-danii-i-usa-beda-w-marcu-wspolnie-cwiczyc-w-regionie-arktyki-st8851667?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 05:46:56 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Race against time: Scientists store endangered glacier ice in Antarctica",
-      "link": "http://www.euronews.com/video/2026/01/16/race-against-time-scientists-store-endangered-glacier-ice-in-antarctica",
-      "pubDate": "Fri, 16 Jan 2026 06:45:08 +0100",
-      "source": "Euronews"
-    },
-    {
-      "title": "Michał Szułdrzyński: Prezydent Nawrocki po stronie wolności słowa w stylu ruchu MAGA",
-      "link": "https://www.rp.pl/plus-minus/art43642331-michal-szuldrzynski-prezydent-nawrocki-po-stronie-wolnosci-slowa-w-stylu-ruchu-maga",
-      "pubDate": "Fri, 16 Jan 2026 06:45:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Mołdawia połączy się z Rumunią? Premier: Zagłosowałbym za tym pomysłem",
-      "link": "https://www.bankier.pl/wiadomosc/Moldawia-polaczy-sie-z-Rumunia-Premier-Zaglosowalbym-za-tym-pomyslem-9069311.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 06:45:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Mglisty i mroźny poranek. IMGW ostrzega",
-      "link": "https://tvn24.pl/tvnmeteo/prognoza/ostrzezenia-imgw-geste-mgly-w-polsce-silny-mroz-mroz-w-polsce-zolte-alarmy-w-czesci-kraju-st8851304?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 05:43:00 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Gdzie dwie się biją, tam trzeci skorzysta? Kolejny zwrot akcji w Polsce 2050",
-      "link": "https://www.rmf24.pl/polityka/news-gdzie-dwie-sie-bija-tam-trzeci-skorzysta-kolejny-zwrot-akcji,nId,8058199",
-      "pubDate": "Fri, 16 Jan 2026 06:42:16 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Canada's Carney hails new 'strategic partnership' with China",
-      "link": "https://www.dw.com/en/canada-s-carney-hails-new-strategic-partnership-with-china/a-75530036?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 16 Jan 2026 05:42:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Południowokoreański sąd zdecydował. Były prezydent uznany winnym",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-poludniowokoreanski-sad-zdecydowal-byly-prezydent-uznany-win,nId,22509506",
-      "pubDate": "Fri, 16 Jan 2026 05:40:42 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zakopane skarży się na brak turystów w ferie. \"Rośnie konkurencja\"",
-      "link": "https://biznes.interia.pl/finanse/news-coraz-mniej-polakow-spedza-ferie-w-zakopanem-kurort-skarzy-s,nId,22509248",
-      "pubDate": "Fri, 16 Jan 2026 05:40:00 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wynajem krótkoterminowy może być furtką do polskiej wizy",
-      "link": "https://www.money.pl/gospodarka/wynajem-krotkoterminowy-moze-byc-furtka-do-polskiej-wizy-7243943916800096a.html",
-      "pubDate": "Fri, 16 Jan 2026 06:39:39 +0100",
-      "source": "Money.pl"
     }
   ]
 }
