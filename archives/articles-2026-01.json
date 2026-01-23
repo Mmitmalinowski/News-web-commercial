@@ -1,12 +1,24 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T21:23:27.706Z",
+  "generatedAt": "2026-01-23T21:34:57.930Z",
   "items": [
+    {
+      "title": "Donald Trump oskarża Kanadę. \"Chiny zjedzą ich w ciągu pierwszego roku\"",
+      "link": "https://wiadomosci.onet.pl/swiat/donald-trump-oskarza-kanade-chiny-zjedza-ich-w-ciagu-pierwszego-roku/532xb5f",
+      "pubDate": "Fri, 23 Jan 2026 21:23:20 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Thousands of locals have left Kyiv amid blackouts",
       "link": "https://www.dw.com/en/thousands-of-locals-have-left-kyiv-amid-blackouts/a-75634402?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Fri, 23 Jan 2026 21:13:00 GMT",
       "source": "DW"
+    },
+    {
+      "title": "Three men charged after ‘highly targeted attacks’ against Pakistani dissidents",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/23/three-men-charged-after-highly-targeted-attacks-against-pakistani-dissidents",
+      "pubDate": "Fri, 23 Jan 2026 21:11:07 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Świat reaguje na słowa Trumpa. \"Obraźliwe\", \"haniebne\" i \"ignoranckie\"",
@@ -24891,6 +24903,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -34467,6 +34503,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -35264,6 +35324,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -68485,36 +68569,6 @@
       "link": "http://www.euronews.com/green/2026/01/16/these-european-cities-wont-be-able-to-host-future-winter-olympics-due-to-climate-change",
       "pubDate": "Fri, 16 Jan 2026 07:03:16 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Matka jednego z dzieci Muska pozywa jego firmę. Szokujące zdjęcia z AI",
-      "link": "https://wiadomosci.onet.pl/swiat/matka-dziecka-muska-pozywa-jego-firme-szokujace-zdjecia-z-ai/gnef6fb",
-      "pubDate": "Fri, 16 Jan 2026 06:02:57 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Ile kosztuje frank szwajcarski? Kurs franka do złotego PLN/CHF 16.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-frank-szwajcarski-kurs-franka-do-zlotego-pln-chf-16-01-2026-7243953582827648a.html",
-      "pubDate": "Fri, 16 Jan 2026 07:02:38 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Trump's Fed fight looks like something from another country",
-      "link": "https://www.bbc.com/news/articles/cy9yxlz70dvo?at_medium=RSS&at_campaign=rss",
-      "pubDate": "Fri, 16 Jan 2026 06:02:36 GMT",
-      "source": "BBC News"
-    },
-    {
-      "title": "Ile kosztuje dolar? Kurs dolara do złotego PLN/USD 16.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-dolar-kurs-dolara-do-zlotego-pln-usd-16-01-2026-7243953536260192a.html",
-      "pubDate": "Fri, 16 Jan 2026 07:02:26 +0100",
-      "source": "Money.pl"
-    },
-    {
-      "title": "Ile kosztuje euro? Kurs euro do złotego PLN/EUR 16.01.2026",
-      "link": "https://www.money.pl/pieniadze/ile-kosztuje-euro-kurs-euro-do-zlotego-pln-eur-16-01-2026-7243953509218400a.html",
-      "pubDate": "Fri, 16 Jan 2026 07:02:20 +0100",
-      "source": "Money.pl"
     }
   ]
 }
