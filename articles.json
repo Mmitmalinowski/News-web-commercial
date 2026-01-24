@@ -1,6 +1,18 @@
 {
-  "generatedAt": "2026-01-24T13:52:41.118Z",
+  "generatedAt": "2026-01-24T14:00:07.777Z",
   "items": [
+    {
+      "title": "Papież Leon XIV z apelem. Ostrzega przed \"wszechwiedzącą przyjaciółką\"",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-24/papiez-leon-xiv-z-apelem-ostrzega-przed-wszechwiedzaca-przyjaciolka/",
+      "pubDate": "Sat, 24 Jan 2026 14:54:00 +0100",
+      "source": "Polsat News"
+    },
+    {
+      "title": "Energetyka zimą zdaje egzamin. Nie ratują nas ani węgiel ani OZE",
+      "link": "https://businessinsider.com.pl/gospodarka/polska-energetyka-bije-rekordy-system-dziala-stabilnie-i-bezpiecznie/mhq5erz",
+      "pubDate": "Sat, 24 Jan 2026 13:52:34 GMT",
+      "source": "Business Insider"
+    },
     {
       "title": "Weekendowa Lektura: odcinek 660 [2026-01-24]. Bierzcie i czytajcie",
       "link": "https://zaufanatrzeciastrona.pl/post/weekendowa-lektura-odcinek-660-2026-01-24-bierzcie-i-czytajcie/",
@@ -8,10 +20,22 @@
       "source": "Zaufana Trzecia Strona"
     },
     {
+      "title": "Lekceważące słowa Trumpa o NATO. Premierka Danii nie gryzie się w język",
+      "link": "https://wiadomosci.onet.pl/swiat/lekcewazace-slowa-trumpa-o-nato-premierka-danii-nie-gryzie-sie-w-jezyk/l8llcmn",
+      "pubDate": "Sat, 24 Jan 2026 13:51:37 GMT",
+      "source": "Onet"
+    },
+    {
       "title": "Rosja \"stałym, ale możliwym do opanowania zagrożeniem\". Nowa strategia USA",
       "link": "https://tvn24.pl/swiat/usa-w-nowej-strategii-bezpieczenstwa-narodowego-rosja-przedstawiona-jako-stale-zagrozenie-st8865684?source=rss",
       "pubDate": "Sat, 24 Jan 2026 13:49:27 GMT",
       "source": "TVN24"
+    },
+    {
+      "title": "Police Federation criticises plans for mandatory ‘licence to practise’ for officers",
+      "link": "https://www.theguardian.com/uk-news/2026/jan/24/police-federation-criticises-plans-for-mandatory-licence-to-practise-for-officers",
+      "pubDate": "Sat, 24 Jan 2026 13:46:13 GMT",
+      "source": "The Guardian"
     },
     {
       "title": "Miliard dolarów za udział w Radzie Pokoju? Jarosław Kaczyński: Nie jesteśmy biedni",
@@ -29240,6 +29264,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -40544,6 +40592,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -41341,6 +41413,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -72360,48 +72456,6 @@
       "link": "https://tvn24.pl/wosp2026/34-final-wosp-szpitale-wciaz-licza-na-sprzet-od-orkiestry-bo-ten-ktory-maja-sie-zuzywa-mamy-jeszcze-wiele-innych-potrzeb-st8851485?source=rss",
       "pubDate": "Fri, 16 Jan 2026 14:12:13 GMT",
       "source": "TVN24"
-    },
-    {
-      "title": "Twarde stanowisko Londynu wobec Kremla. Presja zamiast rozmów",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-twarde-stanowisko-londynu-wobec-kremla-presja-zamiast-rozmow,nId,22509688",
-      "pubDate": "Fri, 16 Jan 2026 14:12:06 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Wikipedia brata się z AI. Kontrowersyjna decyzja ma wiele zalet",
-      "link": "https://businessinsider.com.pl/technologie/nowe-technologie/wikipedia-zawarla-umowy-z-gigantami-ai-nowy-rozdzial-po-25-latach/jcxc85y",
-      "pubDate": "Fri, 16 Jan 2026 14:10:45 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "CPK kupi superszybkie pociągi. Pool taborowy wspomoże polskich przewoźników",
-      "link": "https://geekweek.interia.pl/technologia/news-cpk-kupi-superszybkie-pociagi-pool-taborowy-wspomoze-polskic,nId,22509603",
-      "pubDate": "Fri, 16 Jan 2026 14:10:02 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "„Zaginione Miasta: Pojedynek”: Ekspedycja w nieznane",
-      "link": "https://www.rp.pl/plus-minus/art43642491-zaginione-miasta-pojedynek-ekspedycja-w-nieznane",
-      "pubDate": "Fri, 16 Jan 2026 15:10:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Naprawili błąd sprzed 90 lat. Czas może płynąć w dwie strony",
-      "link": "https://spidersweb.pl/2026/01/naprawili-blad-sprzed-90-lat-czas-moze-plynac-w-dwie-strony.html",
-      "pubDate": "Fri, 16 Jan 2026 15:10:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "200 zł za 5 płatności, a potem 800 zł. Alior Bank z przytupem promuje nowy rachunek",
-      "link": "https://www.bankier.pl/wiadomosc/200-zl-za-5-platnosci-a-potem-800-zl-Alior-Bank-z-przytupem-promuje-nowy-rachunek-9069475.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 15:10:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Zwolnienia w tyskiej fabryce aut. Co na to władze miasta?",
-      "link": "https://www.rmf24.pl/regiony/slaskie/news-zwolnienia-w-tyskiej-fabryce-aut-co-na-to-wladze-miasta,nId,8058346",
-      "pubDate": "Fri, 16 Jan 2026 15:09:00 +0100",
-      "source": "RMF24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -132590,6 +132644,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -161286,12 +161364,6 @@
       "link": "https://www.theguardian.com/australia-news/2025/dec/22/mp-josh-burns-georgie-purcell-new-baby-lilah-arrives-early",
       "pubDate": "Mon, 22 Dec 2025 08:30:22 GMT",
       "source": "The Guardian"
-    },
-    {
-      "title": "Zamach w Moskwie. Rosyjski generał zginął w eksplozji samochodu",
-      "link": "https://www.bankier.pl/wiadomosc/Zamach-w-Moskwie-Rosyjski-general-zginal-w-eksplozji-samochodu-9059491.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Mon, 22 Dec 2025 09:30:00 +0100",
-      "source": "Bankier.pl"
     }
   ],
   "totalArticles": 20000,
