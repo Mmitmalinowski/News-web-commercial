@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T09:23:28.104Z",
+  "generatedAt": "2026-01-24T09:34:31.795Z",
   "items": [
+    {
+      "title": "Jedni seniorzy zyskują 278 zł, inni 480 zł. Stąd różnice w świadczeniach",
+      "link": "https://www.money.pl/emerytury/jedni-seniorzy-zyskuja-278-zl-inni-480-zl-stad-roznice-w-swiadczeniach-7246826689226944a.html",
+      "pubDate": "Sat, 24 Jan 2026 10:31:06 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Podejrzane zakłócenia przy granicy z Rosją. Statki \"teleportują się\" z portu w Gdańsku",
+      "link": "https://wiadomosci.onet.pl/tylko-w-onecie/zaklocaja-gps-na-polskim-baltyku-slady-wskazuja-dwa-miasta-w-rosji/mlpvs2d",
+      "pubDate": "Sat, 24 Jan 2026 09:28:49 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Strategia Obrony Narodowej USA. Amerykanie wskazują na rolę Chin",
+      "link": "https://wiadomosci.onet.pl/swiat/chiny-juz-nie-sa-najwiekszym-zagrozeniem-nowa-strategia-usa/2rbn4py",
+      "pubDate": "Sat, 24 Jan 2026 09:20:19 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Psy zaniedbane i chore, właściciel schroniska z zarzutami. Co się dzieje w Sobolewie",
       "link": "https://tvn24.pl/tvnwarszawa/okolice/psy-zaniedbane-i-chore-wlasciciel-schroniska-z-zarzutami-co-sie-dzieje-w-sobolewie-st8865293?source=rss",
@@ -13,6 +31,12 @@
       "link": "https://www.rmf24.pl/fakty/polska/news-smog-dusi-w-dwoch-wojewodztwach-wydano-alerty-rcb,nId,8060147",
       "pubDate": "Sat, 24 Jan 2026 10:18:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Ozempic, Wegovy, Mounjaro. Tak nowa generacja leków zmieniła podejście do leczenia otyłości",
+      "link": "https://wiadomosci.onet.pl/kraj/ozempic-wegovy-mounjaro-tak-nowa-generacja-lekow-zmienila-podejscie-do-leczenia/6nqm7v0",
+      "pubDate": "Sat, 24 Jan 2026 09:18:00 GMT",
+      "source": "Onet"
     },
     {
       "title": "Pokazali Donalda Trumpa z pingwinem. Wpadka prędko wyszła na jaw",
@@ -27693,6 +27717,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -38445,6 +38493,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -39242,6 +39314,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71118,48 +71214,6 @@
       "title": "\"My się łatwo nie poddamy, naszych działek nie oddamy\"",
       "link": "https://tvn24.pl/tvnwarszawa/srodmiescie/warszawa-protest-mieszkancow-przeciwko-budowie-autostrady-a50-st8852112?source=rss",
       "pubDate": "Fri, 16 Jan 2026 11:36:41 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Polska chce wysłać MiGi-29. Ukraińców zastanawia ich stan",
-      "link": "https://tech.wp.pl/polska-chce-wyslac-migi-29-ukraincow-zastanawia-ich-stan,7243962408224864a",
-      "pubDate": "Fri, 16 Jan 2026 12:34:40 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Zmiany w kluczowej opłacie. Zakopane wprowadza obowiązek rejestracji",
-      "link": "https://biznes.interia.pl/gospodarka/news-zmiany-w-kluczowej-oplacie-zakopane-wprowadza-obowiazek-reje,nId,22509669",
-      "pubDate": "Fri, 16 Jan 2026 11:34:23 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Gigant reaguje na naciski. Będzie nowy system kontroli wieku",
-      "link": "https://tvn24.pl/biznes/tech/tiktok-wzmocni-technologie-weryfikacji-wieku-w-calej-ue-st8852269?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 11:33:04 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Używasz tych słuchawek? Zrób to jak najszybciej dla własnego bezpieczeństwa",
-      "link": "https://antyweb.pl/uzywasz-tych-sluchawek-zrob-to-jak-najszybciej-dla-wlasnego-bezpieczenstwa",
-      "pubDate": "Fri, 16 Jan 2026 11:30:32 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "India: Security, terrorism laws used to silence dissent",
-      "link": "https://www.dw.com/en/india-security-terrorism-laws-used-to-silence-dissent/a-75534044?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Fri, 16 Jan 2026 11:30:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Trumpowski sen o Grenlandii przeradza się w paranoję. \"Nic nie może tego uzasadnić\"",
-      "link": "https://www.bankier.pl/wiadomosc/Trumpowski-sen-o-Grenlandii-przeradza-sie-w-paranoje-Nic-nie-moze-tego-uzasadnic-9069438.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 12:30:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Myślała, że śpi na niej pies. Usłyszała męża: kochanie, nie ruszaj się",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/australia-kobieta-obudzila-sie-z-wezem-na-lozku-st8852069?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 11:29:46 GMT",
       "source": "TVN24"
     }
   ]
