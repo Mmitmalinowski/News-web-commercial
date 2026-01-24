@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-24T23:52:17.687Z",
+  "generatedAt": "2026-01-24T23:57:24.458Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -61581,6 +61581,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -89929,12 +89953,6 @@
       "link": "https://businessinsider.com.pl/gospodarka/orlen-na-zakupach-w-norwegii-kupil-udzialy-w-dwoch-zlozach/gztgdms",
       "pubDate": "Mon, 22 Dec 2025 09:19:08 GMT",
       "source": "Business Insider"
-    },
-    {
-      "title": "Why Trump is backing Bayer in weedkiller cancer battle",
-      "link": "https://www.dw.com/en/why-trump-is-backing-bayer-in-weedkiller-cancer-battle/a-75188139?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 22 Dec 2025 09:17:00 GMT",
-      "source": "DW"
     }
   ]
 }
