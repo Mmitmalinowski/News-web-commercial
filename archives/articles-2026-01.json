@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T22:53:21.577Z",
+  "generatedAt": "2026-01-24T22:58:56.789Z",
   "items": [
+    {
+      "title": "Alex Pretti killing in Minneapolis by federal agents: what we know so far",
+      "link": "https://www.theguardian.com/us-news/2026/jan/24/alex-pretti-minneapolis-what-we-know-so-far",
+      "pubDate": "Sat, 24 Jan 2026 22:49:54 GMT",
+      "source": "The Guardian"
+    },
+    {
+      "title": "Video shows confrontation between federal agents leading up to a fatal shooting in Minneapolis",
+      "link": "http://www.euronews.com/video/2026/01/24/video-shows-confrontation-between-federal-agents-leading-up-to-a-fatal-shooting-in-minneap",
+      "pubDate": "Sat, 24 Jan 2026 23:43:23 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "Tajna broń USA. Wykorzystali Discombobulator w Wenezueli?",
       "link": "https://www.rmf24.pl/fakty/swiat/news-tajna-bron-usa-wykorzystali-discombobulator-w-wenezueli,nId,8060181",
@@ -31947,6 +31959,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -44499,6 +44535,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -45296,6 +45356,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -75181,36 +75265,6 @@
       "link": "https://antyweb.pl/wielkie-gwiazdy-na-pierwszych-kadrach-nowego-serialu-tworcy-yellowstone",
       "pubDate": "Fri, 16 Jan 2026 20:59:11 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "\"Możliwe działania wojskowe\". Administracja USA ostrzega linie lotnicze",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-mozliwe-dzialania-wojskowe-amerykanska-administracja-ostrzeg,nId,22509878",
-      "pubDate": "Fri, 16 Jan 2026 20:58:59 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zbigniew Ziobro ma stracić część uposażenia. \"Ekscytacja z powodu rozmiaru bumelki\"",
-      "link": "https://wiadomosci.onet.pl/kraj/zbigniew-ziobro-ma-utracic-czesc-uposazenia-poselskiego-nic-niezwyklego/kh8vg4v",
-      "pubDate": "Fri, 16 Jan 2026 20:58:16 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Zwrot w sprawie dyrektora krakowskiego liceum. Komisja podjęła decyzję",
-      "link": "https://www.rmf24.pl/regiony/krakow/news-zwrot-w-sprawie-dyrektora-krakowskiego-liceum-komisja-podjel,nId,8058400",
-      "pubDate": "Fri, 16 Jan 2026 21:55:15 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Były następca irańskiego tronu zwrócił się do Donalda Trumpa. Wezwał świat do podjęcia sześciu kroków",
-      "link": "https://wiadomosci.onet.pl/swiat/syn-obalonego-wladcy-wzywa-iranczykow-rzez-nie-zostala-powstrzymana/3591tm1",
-      "pubDate": "Fri, 16 Jan 2026 20:54:45 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Był ścigany ENA za przestępstwa narkotykowe. 53-latek wpadł w Polsce",
-      "link": "https://www.rmf24.pl/regiony/rzeszow/news-byl-scigany-ena-za-przestepstwa-narkotykowe-53-latek-wpadl-w,nId,8058399",
-      "pubDate": "Fri, 16 Jan 2026 21:50:03 +0100",
-      "source": "RMF24"
     }
   ]
 }
