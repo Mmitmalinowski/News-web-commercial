@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-24T06:29:40.477Z",
+  "generatedAt": "2026-01-24T06:47:38.314Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -59277,6 +59277,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -88201,12 +88225,6 @@
       "link": "https://biznes.interia.pl/gospodarka/news-domanski-ostrzega-przed-euro-czlonkostwo-mogloby-stanowic-zr,nId,22501922",
       "pubDate": "Mon, 22 Dec 2025 07:49:10 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Brutalnie zabił 26-lat temu. Mimo że zmieniał \"kryjówki\" został zatrzymany",
-      "link": "https://tvn24.pl/lodz/lodz-brutalnie-zabil-26-lat-temu-mimo-ze-zmienial-kryjowki-zostal-zatrzymany-st8812940?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 07:44:34 GMT",
-      "source": "TVN24"
     }
   ]
 }
