@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-23T23:55:35.951Z",
+  "generatedAt": "2026-01-24T00:20:07.606Z",
   "items": [
+    {
+      "title": "Atak Stanów Zjednoczonych na Oceanie Spokojnym. \"Śmiercionośne uderzenie\"",
+      "link": "https://wiadomosci.onet.pl/swiat/atak-stanow-zjednoczonych-na-oceanie-spokojnym-smiercionosne-uderzenie/n5smz7h",
+      "pubDate": "Sat, 24 Jan 2026 00:10:35 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Wielka Brytania niezmiennie kupuje polską żywność. I to coraz więcej",
+      "link": "https://www.rp.pl/eksport/art43655511-wielka-brytania-niezmiennie-kupuje-polska-zywnosc-i-to-coraz-wiecej",
+      "pubDate": "Sat, 24 Jan 2026 01:01:00 +0100",
+      "source": "Rzeczpospolita"
+    },
     {
       "title": "Kalendarium - sobota 24 stycznia",
       "link": "https://pro.rp.pl/kalendarium/art43690471-kalendarium-sobota-24-stycznia",
@@ -25395,6 +25407,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -35331,6 +35367,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -36128,6 +36188,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69294,36 +69378,6 @@
       "title": "Monitor Polski z 15 stycznia 2026 r. (poz. 72 - 76)",
       "link": "https://www.rp.pl/akty-prawne/art43647771-monitor-polski-z-15-stycznia-2026-r-poz-72-76",
       "pubDate": "Fri, 16 Jan 2026 07:55:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dziennik Ustaw z 15 stycznia 2025 r. (poz. 43 - 48)",
-      "link": "https://www.rp.pl/akty-prawne/art43647761-dziennik-ustaw-z-15-stycznia-2025-r-poz-43-48",
-      "pubDate": "Fri, 16 Jan 2026 07:52:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Andrzej Duda kandydatem PiS na premiera? Były prezydent odpowiada",
-      "link": "https://wiadomosci.onet.pl/kraj/andrzej-duda-kandydatem-pis-na-premiera-byly-prezydent-odpowiada/xy2gh3v",
-      "pubDate": "Fri, 16 Jan 2026 06:51:26 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Najpierw trafiają w ręce dzieci, później do brzuszków. Lekarze pokazują \"gablotę grozy\"",
-      "link": "https://tvn24.pl/polska/lekarze-pokazuja-gablote-grozy-przedmioty-polkniete-przez-dzieci-interwencje-sa-rowniez-wobec-nastolatkow-st8851700?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 06:49:44 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Bezpieczny smart home. Jak chronić kamery, zamki i inne urządzenia IoT przed włamaniami",
-      "link": "https://www.chip.pl/2026/01/bezpieczny-smart-home-jak-chronic-kamery-zamki",
-      "pubDate": "Fri, 16 Jan 2026 06:49:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Europoseł KO: Trzymamy kciuki za opozycję na Węgrzech",
-      "link": "https://www.rp.pl/polityka/art43647741-europosel-ko-trzymamy-kciuki-za-opozycje-na-wegrzech",
-      "pubDate": "Fri, 16 Jan 2026 07:48:37 +0100",
       "source": "Rzeczpospolita"
     }
   ]
