@@ -1,12 +1,42 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T09:51:51.796Z",
+  "generatedAt": "2026-01-24T09:59:11.438Z",
   "items": [
+    {
+      "title": "Tragedia na australijskim wybrzeżu. Zrozpaczeni rodzice zabrali głos",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-tragedia-na-australijskim-wybrzezu-zrozpaczeni-rodzice-zabra,nId,22543033",
+      "pubDate": "Sat, 24 Jan 2026 09:55:26 GMT",
+      "source": "Interia"
+    },
+    {
+      "title": "Zanim zdążyli dorosnąć, musieli nauczyć się chorować. \"Są lepsze i gorsze dni\"",
+      "link": "https://tvn24.pl/wosp2026/pierwsze-objawy-pojawily-sie-kiedy-mialam-11-lat-czym-sa-nieswoiste-choroby-zapalne-jelit-i-ich-powiklania-st8863791?source=rss",
+      "pubDate": "Sat, 24 Jan 2026 09:55:00 GMT",
+      "source": "TVN24"
+    },
     {
       "title": "THOR AI na pomoc fizykom. Ten problem fizyki ode dekad zaprzątał naukowcom głowy",
       "link": "https://www.chip.pl/2026/01/thor-ai-narzedzie-problemy-fizyki",
       "pubDate": "Sat, 24 Jan 2026 09:51:14 +0000",
       "source": "Chip.pl"
+    },
+    {
+      "title": "Dostali pomoc netto, muszą zwrócić brutto. Więziennicy piszą do ministra finansów",
+      "link": "https://www.rp.pl/sluzby-mundurowe/art43692611-dostali-pomoc-netto-musza-zwrocic-brutto-wieziennicy-pisza-do-ministra-finansow",
+      "pubDate": "Sat, 24 Jan 2026 10:50:40 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Te pieniądze nie wliczają się do spadku. Dostaną je tylko wybrane osoby",
+      "link": "https://biznes.interia.pl/finanse/news-ubezpieczenie-po-zmarlym-rodzicu-czy-wyplata-z-prywatnego-ub,nId,22508898",
+      "pubDate": "Sat, 24 Jan 2026 09:50:04 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "16 ciał, odparzone łapy, wystające żebra. Po interwencji w hodowli psów czas na zaostrzenie prawa",
+      "link": "https://oko.press/hodowla-psow-czas-na-zaostrzenie-prawa",
+      "pubDate": "Sat, 24 Jan 2026 09:49:52 +0000",
+      "source": "OKO.press"
     },
     {
       "title": "Artur Bartkiewicz: PiS mówi, że stać nas na miliard dolarów. A nie stać nas, by go nie wydać?",
@@ -225,6 +255,12 @@
       "source": "Tech WP.pl"
     },
     {
+      "title": "Kulisy rozmów w Davos. Porozumienie o Grenlandii to tylko „słowo honoru”",
+      "link": "https://www.bankier.pl/wiadomosc/Kulisy-rozmow-w-Davos-Porozumienie-o-Grenlandii-to-tylko-slowo-honoru-9072897.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 24 Jan 2026 10:00:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Rajska wyspa bez dróg, prądu i tłumów. \"Podróż do czasów prehistorycznych\"",
       "link": "https://tvn24.pl/biznes/turystyka/palmarola-rajska-wyspa-bez-drog-pradu-i-tlumow-st8865338?source=rss",
       "pubDate": "Sat, 24 Jan 2026 08:58:59 GMT",
@@ -235,6 +271,12 @@
       "link": "https://www.rp.pl/internet-i-prawo-autorskie/art43680421-gwalty-na-dzieciach-w-internecie-komisja-ds-pedofilii-komunikatory-to-nowy-dark-net",
       "pubDate": "Sat, 24 Jan 2026 09:58:48 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Polska wyśle generatory prądu na Ukrainę. Premier Tusk zdecydował",
+      "link": "https://www.bankier.pl/wiadomosc/Polska-wysle-generatory-pradu-na-Ukraine-Premier-Tusk-zdecydowal-9073053.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 24 Jan 2026 09:58:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Reform UK’s private health insurance plan would cost £1.7bn, Streeting to say",
@@ -27909,6 +27951,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -38733,6 +38799,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -39530,6 +39620,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -71263,66 +71377,6 @@
       "link": "https://www.money.pl/gospodarka/ukraina-ujawnia-rezerwy-paliwowe-starcza-na-20-dni-7244024665147584a.html",
       "pubDate": "Fri, 16 Jan 2026 12:57:57 +0100",
       "source": "Money.pl"
-    },
-    {
-      "title": "Zbombardowano domy \"jednego z najbardziej wpływowych liderów gangów\"",
-      "link": "https://tvn24.pl/swiat/haiti-zbombardowano-domy-nalezace-do-przywodcy-gangu-jimmy-ego-barbecue-cheriziera-st8852176?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 11:57:15 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ustroń, Polańczyk, Sopot. NFZ zachęca do korzystania z sanatoryjnego last minute",
-      "link": "https://www.rmf24.pl/regiony/lodz/news-ustron-polanczyk-sopot-nfz-zacheca-do-korzystania-z-sanatory,nId,8058298",
-      "pubDate": "Fri, 16 Jan 2026 12:57:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Mieli planować podpalenie fabryki. \"Na rozkaz i korzyść rosyjskiego GRU\"",
-      "link": "https://tvn24.pl/swiat/litwa-mieli-planowac-podpalenie-fabryki-na-rozkaz-i-korzysc-rosyjskiego-gru-zostali-zatrzymani-i-oskarzeni-st8852079?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 11:56:08 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Ferie za pasem. Tyle kosztuje wyjazd \"last minute\"",
-      "link": "https://businessinsider.com.pl/poradnik-finansowy/ferie-za-pasem-tyle-kosztuje-wyjazd/ncqrps8",
-      "pubDate": "Fri, 16 Jan 2026 11:56:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Morawiecki grzmi: luka VAT znowu rośnie. Gdzie?",
-      "link": "https://konkret24.tvn24.pl/polityka/morawiecki-grzmi-luka-vat-znowu-rosnie-gdzie-st8850697?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 11:53:13 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Nowy szef Inspekcji Transportu Drogowego",
-      "link": "https://logistyka.rp.pl/w-branzy/art43648861-nowy-szef-inspekcji-transportu-drogowego",
-      "pubDate": "Fri, 16 Jan 2026 12:52:24 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "WhatsApp zmienia ustawienia. To może się przydać",
-      "link": "https://android.com.pl/tech/1009887-whatsapp-zmienia-ustawienia-android/",
-      "pubDate": "Fri, 16 Jan 2026 11:52:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Syn Jacka Kurskiego oskarżony o gwałt. Sprawa może trafić do innego miasta",
-      "link": "https://tvn24.pl/trojmiasto/kwidzyn-syn-jacka-kurskiego-oskarzony-o-gwalt-sprawa-moze-trafic-do-innego-miasta-st8851927?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 11:50:45 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Budowa elektrowni jądrowej w Polsce. Ruszyły rozmowy o finansowaniu",
-      "link": "https://www.rmf24.pl/fakty/polska/news-budowa-elektrowni-jadrowej-w-polsce-ruszyly-rozmowy-o-finans,nId,8058297",
-      "pubDate": "Fri, 16 Jan 2026 12:50:11 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Rosja powoli rozbija Zachód? Stanowiska W. Brytanii, Francji i Włoch rozjeżdżają się",
-      "link": "https://www.bankier.pl/wiadomosc/Rosja-powoli-rozbija-zachod-Stanowiska-W-Brytanii-Francji-i-Wloch-rozjezdzaja-sie-9069490.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 12:50:00 +0100",
-      "source": "Bankier.pl"
     }
   ]
 }
