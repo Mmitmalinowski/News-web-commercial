@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T19:16:19.372Z",
+  "generatedAt": "2026-01-24T19:27:05.694Z",
   "items": [
+    {
+      "title": "\"Uważajcie na siebie\". Pilny komunikat polskiej ambasady",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-uwazajcie-na-siebie-pilny-komunikat-polskiej-ambasady,nId,8060176",
+      "pubDate": "Sat, 24 Jan 2026 20:20:11 +0100",
+      "source": "RMF24"
+    },
     {
       "title": "Tyle dostaje rekordowy emeryt w Polsce. Pracował ponad 65 lat",
       "link": "https://www.wirtualnemedia.pl/waloryzacja-emerytur-w-2026-roku-ile-wynosi-najwyzsza-emerytura-po-ilu-latach-pracy,7246978391374016a",
@@ -37,6 +43,12 @@
       "link": "https://www.rp.pl/swiat/art43687541-to-koniec-europy-jaka-znamy-pozegnajmy-usa-chiny-niszcza-stary-lad",
       "pubDate": "Sat, 24 Jan 2026 20:00:00 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Strzelanina w Minneapolis. Gubernator wzywa Trumpa do odwrotu",
+      "link": "https://www.bankier.pl/wiadomosc/USA-W-Minneapolis-w-strzelaninie-z-udzialem-agentow-federalnych-zginal-mezczyzna-trwaja-protesty-opis-9073671.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 24 Jan 2026 20:00:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "‘The best interests of our party’: Andy Burnham’s letter to Labour NEC chair in full",
@@ -87,6 +99,12 @@
       "source": "Onet"
     },
     {
+      "title": "Ajatollah Chamenei boi się ataku USA. Zamieszkał w głębokim schronie",
+      "link": "https://www.bankier.pl/wiadomosc/Ajatollah-Chamenei-boi-sie-ataku-USA-Zamieszkal-w-glebokim-schronie-9073669.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 24 Jan 2026 19:33:00 +0100",
+      "source": "Bankier.pl"
+    },
+    {
       "title": "Pogoda na jutro - niedziela, 25.01. Nocą w części kraju rozwiną się mgły",
       "link": "https://tvn24.pl/tvnmeteo/prognoza/pogoda-na-jutro-niedziela-25-01-noca-w-czesci-kraju-rozwina-sie-mgly-st8866108?source=rss",
       "pubDate": "Sat, 24 Jan 2026 18:32:59 GMT",
@@ -109,6 +127,12 @@
       "link": "https://www.theguardian.com/us-news/2026/jan/24/jacob-frey-full-statement",
       "pubDate": "Sat, 24 Jan 2026 18:28:41 GMT",
       "source": "The Guardian"
+    },
+    {
+      "title": "Czystki w chińskiej armii. Numer 2. w hierarchii podejrzany o korupcję",
+      "link": "https://www.bankier.pl/wiadomosc/Czystki-w-chinskiej-armii-Numer-2-w-hierarchii-podejrzany-o-korupcje-9073668.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 24 Jan 2026 19:25:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Donald Trump walks back comments about UK soldiers in Afghanistan",
@@ -251,6 +275,12 @@
     {
       "title": "Nie żyje mężczyzna postrzelony przez agentów federalnych w Minneapolis",
       "link": "https://tvn24.pl/swiat/nie-zyje-mezczyzna-postrzelony-przez-agentow-federalnych-w-minneapolis-st8866116?source=rss",
+      "pubDate": "Sat, 24 Jan 2026 17:45:14 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "\"Jeśli mnie zabijecie, ludzie to zobaczą\". W Minneapolis wrze po zastrzeleniu 37-latka",
+      "link": "https://tvn24.pl/swiat/jesli-mnie-zabijecie-ludzie-to-zobacza-w-minneapolis-wrze-po-zastrzeleniu-37-latka-st8866116?source=rss",
       "pubDate": "Sat, 24 Jan 2026 17:45:14 GMT",
       "source": "TVN24"
     },
@@ -889,6 +919,12 @@
       "link": "https://sport.rp.pl/tenis/art43692901-swiatek-awansowala-do-czwartej-rundy-australian-open-polka-zaskoczona-w-drugim-secie",
       "pubDate": "Sat, 24 Jan 2026 15:43:44 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Donald Trump grozi Kanadzie. Cła 100 proc. na wszystkie towary, jeśli...",
+      "link": "https://www.bankier.pl/wiadomosc/Donald-Trump-grozi-Kanadzie-Cla-100-proc-na-wszystkie-towary-jesli-9073643.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
+      "pubDate": "Sat, 24 Jan 2026 15:40:00 +0100",
+      "source": "Bankier.pl"
     },
     {
       "title": "Katastrofa w Kijowie. Putin chce udowodnić, że wciąż ma karty. \"Rosja próbuje zamrozić Ukrainę\"",
@@ -31107,6 +31143,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -43131,6 +43191,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -43928,6 +44012,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -73968,60 +74076,6 @@
       "title": "Znieważył troje 14-latków, bo rozmawiali po ukraińsku. Wyrok",
       "link": "https://tvn24.pl/krakow/tarnow-zniewazyl-troje-14-latkow-bo-rozmawiali-po-ukrainsku-wyrok-st8853077?source=rss",
       "pubDate": "Fri, 16 Jan 2026 18:15:24 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Czarna seria trwa. Pożar w Myjomicach, nie żyje 11-letni chłopiec",
-      "link": "https://wydarzenia.interia.pl/wielkopolskie/news-czarna-seria-trwa-pozar-w-myjomicach-nie-zyje-11-letni-chlop,nId,22509850",
-      "pubDate": "Fri, 16 Jan 2026 18:12:29 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Złe wieści dla NATO. Rosyjskie lotnictwo najpotężniejsze w historii",
-      "link": "https://geekweek.interia.pl/militaria/news-zle-wiesci-dla-nato-rosyjskie-lotnictwo-najpotezniejsze-w-hi,nId,22509846",
-      "pubDate": "Fri, 16 Jan 2026 18:11:09 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Woman ‘overwhelmed’ by loneliness killed herself and disabled daughter, coroner says",
-      "link": "https://www.theguardian.com/uk-news/2026/jan/16/woman-overwhelmed-by-loneliness-killed-herself-and-disabled-daughter-coroner-says",
-      "pubDate": "Fri, 16 Jan 2026 18:10:42 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Porażka obrońców Ziobry ws. aresztu. Sąd odmówił wyłączenia sędzi, która będzie o tym decydować",
-      "link": "https://oko.press/porazka-obroncow-ziobry-ws-aresztu-sad-odmowil-wylaczenia-sedzi-ktora-bedzie-o-tym-decydowac",
-      "pubDate": "Fri, 16 Jan 2026 18:09:38 +0000",
-      "source": "OKO.press"
-    },
-    {
-      "title": "„Pierwszy małżonek” i „Drugi małżonek” zamiast kobiety i mężczyzny. Nadchodzą zmiany w akcie małżeństwa",
-      "link": "https://www.rp.pl/w-sadzie-i-w-urzedzie/art43650271-pierwszy-malzonek-i-drugi-malzonek-zamiast-kobiety-i-mezczyzny-nadchodza-zmiany-w-akcie-malzenstwa",
-      "pubDate": "Fri, 16 Jan 2026 19:07:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "W Rzeszowie zaginął 49-letni naukowiec. Apel policji",
-      "link": "https://www.rmf24.pl/regiony/rzeszow/news-w-rzeszowie-zaginal-49-letni-naukowiec-apel-policji,nId,8058387",
-      "pubDate": "Fri, 16 Jan 2026 19:06:57 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Pracownik młyna nie żyje. Tragiczny wypadek w Małopolsce",
-      "link": "https://wiadomosci.onet.pl/krakow/tragedia-w-wesolowie-nie-zyje-pracownik-mlyna/s66mx6c",
-      "pubDate": "Fri, 16 Jan 2026 18:06:48 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Nie przestraszył jej atak drona. Zachowanie Ukrainki podbija sieć",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-16/nie-przestraszyl-jej-atak-drona-zachowanie-ukrainki-podbija-siec/",
-      "pubDate": "Fri, 16 Jan 2026 19:06:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Miasto dla bogaczy. Tu jest największe zagęszczenie",
-      "link": "https://tvn24.pl/biznes/ze-swiata/wlochy-mediolan-to-miasto-ma-najwyzszy-odsetek-milionerow-st8852924?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 18:05:27 GMT",
       "source": "TVN24"
     }
   ]
