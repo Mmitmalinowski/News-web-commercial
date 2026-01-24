@@ -1,7 +1,13 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T22:06:10.883Z",
+  "generatedAt": "2026-01-24T22:18:00.675Z",
   "items": [
+    {
+      "title": "Rosja wykorzystuje broń na eksport. Media: zapasy użyte do ataków na Ukrainę",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-rosja-wykorzystuje-bron-na-eksport-media-zapasy-uzyte-do-ata,nId,22543179",
+      "pubDate": "Sat, 24 Jan 2026 22:05:37 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Australia news live: community at Gellibrand warned too late to leave as Otways bushfire grows; manhunt continues in remote NSW",
       "link": "https://www.theguardian.com/australia-news/live/2026/jan/25/victoria-otways-bushfires-nsw-lake-cargelligo-manhunt-federal-politics-anthony-albanese-labor-sussan-ley-coalition-ntwnfb",
@@ -31821,6 +31827,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -44277,6 +44307,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -45074,6 +45128,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -74971,30 +75049,6 @@
       "link": "https://antyweb.pl/ten-zestaw-lego-obudzi-najlepsze-wspomnienia",
       "pubDate": "Fri, 16 Jan 2026 20:17:08 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Rosyjski samolot blisko NATO. Włoskie myśliwce w akcji",
-      "link": "https://www.rmf24.pl/fakty/swiat/news-rosyjski-samolot-blisko-nato-wloskie-mysliwce-w-akcji,nId,8058395",
-      "pubDate": "Fri, 16 Jan 2026 21:17:00 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Niebieski diament wart fortunę. Rzadki klejnot odkryty w RPA",
-      "link": "https://businessinsider.com.pl/wiadomosci/rzadki-niebieski-diament-odkryty-w-afryce-moze-byc-wart-nawet-40-mln-dol/bz6kzer",
-      "pubDate": "Fri, 16 Jan 2026 20:15:30 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Wielka kumulacja w Eurojackpot",
-      "link": "https://tvn24.pl/biznes/pieniadze/eurojackpot-wyniki-z-16-stycznia-2026-jakie-liczby-padly-w-trakcie-ostatniego-losowania-st8853211?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 20:11:03 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Rozwiązali 50-letnią zagadkę w metalurgii. W taki sposób magnes wpływa na stal",
-      "link": "https://www.chip.pl/2026/01/rozwiazali-50-letnia-zagadke-metalurgii-magnes",
-      "pubDate": "Fri, 16 Jan 2026 20:10:26 +0000",
-      "source": "Chip.pl"
     }
   ]
 }
