@@ -1,7 +1,25 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T05:22:45.586Z",
+  "generatedAt": "2026-01-24T05:34:38.547Z",
   "items": [
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1431",
+      "link": "https://www.rp.pl/swiat/art43690611-wojna-rosji-z-ukraina-dzien-1431",
+      "pubDate": "Sat, 24 Jan 2026 06:30:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Sejm odrzucił kandydatury PiS do Trybunału Konstytucyjnego",
+      "link": "https://tvn24.pl/polska/sejm-odrzucil-kandydatury-pis-do-trybunalu-konstytucyjnego-st8865251?source=rss",
+      "pubDate": "Sat, 24 Jan 2026 05:23:33 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Nowa strategia USA. Wskazują na wschodnią część NATO",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-nowa-strategia-usa-wskazuja-na-wschodnia-czesc-nato,nId,22543021",
+      "pubDate": "Sat, 24 Jan 2026 05:19:31 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Andrzej Duda z żoną stracili prywatność. Dlaczego spółka komandytowa im się opłaca?",
       "link": "https://businessinsider.com.pl/prawo/prywatnosc-kontra-podatki-nowa-firma-andrzeja-dudy-pod-lupa/0dheyqq",
@@ -26115,6 +26133,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -36363,6 +36405,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -37160,6 +37226,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -69991,42 +70081,6 @@
       "link": "http://www.euronews.com/my-europe/2026/01/16/watch-the-video-who-will-win-portugals-presidential-elections",
       "pubDate": "Fri, 16 Jan 2026 09:29:22 +0100",
       "source": "Euronews"
-    },
-    {
-      "title": "Karta Moja Biedronka. Klienci muszą wyrobić ją na nowo",
-      "link": "https://biznes.interia.pl/finanse/news-klienci-nie-maja-wyboru-karta-moja-biedronka-musi-zostac-wyr,nId,22509556",
-      "pubDate": "Fri, 16 Jan 2026 08:29:03 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Antyrządowe protesty w Iranie. Ekspert: Zbyt wcześnie, by mówić o rewolucji",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-antyrzadowe-protesty-w-iranie-ekspert-zbyt-wczesnie-by-mowic,nId,22509553",
-      "pubDate": "Fri, 16 Jan 2026 08:27:35 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Zmarł dyskretny współpracownik trzech papieży. Przez lata milczał o swojej roli",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-16/zmarl-dyskretny-wspolpracownik-trzech-papiezy-jan-pawel-ii-darzyl-go-wyjatkowym-zaufaniem/",
-      "pubDate": "Fri, 16 Jan 2026 09:27:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Kto sięgnie po Quatix 8 Pro? Garmin pokazał nowy smartwatch dla speców",
-      "link": "https://android.com.pl/news/1009751-nowosc-garmin-quatix-8-pro-funkcje-cena/",
-      "pubDate": "Fri, 16 Jan 2026 08:26:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "Kto sięgnie po Quatix 8 Pro? Garmin pokazał nowy smartwatch dla speców",
-      "link": "https://android.com.pl/tech/1009751-nowosc-garmin-quatix-8-pro-funkcje-cena/",
-      "pubDate": "Fri, 16 Jan 2026 08:26:00 +0000",
-      "source": "Android.com.pl"
-    },
-    {
-      "title": "10 najpopularniejszych stron internetowych. Codziennie z nich korzystasz",
-      "link": "https://geekweek.interia.pl/internet/news-10-najpopularniejszych-stron-internetowych-codziennie-z-nich,nId,22509340",
-      "pubDate": "Fri, 16 Jan 2026 08:20:02 GMT",
-      "source": "GeekWeek"
     }
   ]
 }
