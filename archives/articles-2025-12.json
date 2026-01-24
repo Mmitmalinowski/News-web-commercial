@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-24T16:38:49.390Z",
+  "generatedAt": "2026-01-24T16:50:20.013Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -60573,6 +60573,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -89173,12 +89197,6 @@
       "link": "https://biznes.interia.pl/gospodarka/news-pelnomocnicy-ds-rozliczen-w-panstwowych-spolkach-to-nie-sa-o,nId,22501965",
       "pubDate": "Mon, 22 Dec 2025 08:47:52 GMT",
       "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Ziobro składa zawiadomienie na ministra sprawiedliwości",
-      "link": "https://tvn24.pl/polska/zbigniew-ziobro-poinformowal-ze-sklada-zawiadomienie-o-przestepstwie-popelnionym-przez-waldemara-zurka-st8812977?source=rss",
-      "pubDate": "Mon, 22 Dec 2025 08:47:12 GMT",
-      "source": "TVN24"
     }
   ]
 }
