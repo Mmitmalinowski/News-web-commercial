@@ -1,11 +1,65 @@
 {
-  "generatedAt": "2026-01-24T08:39:09.619Z",
+  "generatedAt": "2026-01-24T08:50:54.101Z",
   "items": [
+    {
+      "title": "Znawca zabytków dla RMF FM: Przed katedrą Notre-Dame powstanie \"leśna polana\"",
+      "link": "https://www.rmf24.pl/kultura/news-znawca-zabytkow-dla-rmf-fm-przed-katedra-notre-dame-powstani,nId,8060140",
+      "pubDate": "Sat, 24 Jan 2026 09:48:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Tak, smartwatch może uratować Ci życie. Oto kolejny dowód",
+      "link": "https://www.tabletowo.pl/tak-smartwatch-moze-uratowac-ci-zycie-kolejny-dowod/",
+      "pubDate": "Sat, 24 Jan 2026 08:46:00 +0000",
+      "source": "Tabletowo"
+    },
+    {
+      "title": "Dramatyczna sytuacja w Kijowie po rosyjskim ataku. Bloki, które wcześniej udało się podłączyć do ogrzewania, znów bez ciepła",
+      "link": "https://wiadomosci.onet.pl/swiat/skutki-poteznego-ataku-rosjan-na-miasta-ukrainy-mer-kijowa-zabral-glos/3dqcw7n",
+      "pubDate": "Sat, 24 Jan 2026 08:44:18 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Akcja policji w Świętokrzyskiem. 36 pseudokibiców było gotowych do konfrontacji",
+      "link": "https://www.rmf24.pl/regiony/kielce/news-akcja-policji-w-swietokrzyskiem-36-pseudokibicow-bylo-gotowy,nId,8060145",
+      "pubDate": "Sat, 24 Jan 2026 09:44:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Jakość ruchu ważniejsza niż jego ilość. Odkryto, co naprawdę przedłuża życie",
+      "link": "https://kobieta.rp.pl/zdrowie/art43680891-jakosc-ruchu-wazniejsza-niz-jego-ilosc-odkryto-co-naprawde-przedluza-zycie",
+      "pubDate": "Sat, 24 Jan 2026 09:44:00 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Abu Dhabi hosts Russia-Ukraine peace talks, with territorial issues a priority",
+      "link": "http://www.euronews.com/2026/01/24/abu-dhabi-hosts-russia-ukraine-peace-talks-with-territorial-issues-a-priority",
+      "pubDate": "Sat, 24 Jan 2026 09:41:41 +0100",
+      "source": "Euronews"
+    },
+    {
+      "title": "Co przyniosą negocjacje w Abu Zabi? Ekspert wskazuje. \"To jest główny problem\"",
+      "link": "https://wiadomosci.onet.pl/swiat/negocjacje-pokojowe-w-abu-zabi-ekspert-wskazuje-na-mozliwe-przeszkody/gzs0ygz",
+      "pubDate": "Sat, 24 Jan 2026 08:40:55 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "W USA nadchodzi wielka burza śnieżna. Alerty, stan wyjątkowy i strach przed paraliżem",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-w-usa-nadchodzi-wielka-burza-sniezna-alerty-stan-wyjatkowy-i,nId,22543024",
+      "pubDate": "Sat, 24 Jan 2026 08:40:24 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Sondaż: Który polityk PiS młodszego pokolenia byłby dobrym kandydatem na premiera?",
       "link": "https://www.rp.pl/polityka/art43692501-sondaz-ktory-polityk-pis-mlodszego-pokolenia-bylby-dobrym-kandydatem-na-premiera",
       "pubDate": "Sat, 24 Jan 2026 09:37:12 +0100",
       "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Nagłe cięcia w rozkładzie lotów. Europejscy przewoźnicy dmuchają na zimne",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-24/nagle-ciecia-w-rozkladzie-lotow-europejscy-przewoznicy-dmuchaja-na-zimne/",
+      "pubDate": "Sat, 24 Jan 2026 09:37:00 +0100",
+      "source": "Polsat News"
     },
     {
       "title": "Alert RCB. \"Nie wietrz pomieszczeń\"",
@@ -27356,6 +27410,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -38012,6 +38090,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -38809,6 +38911,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -70872,78 +70998,6 @@
       "link": "https://tech.wp.pl/ukrainski-dron-sting-stracil-rosyjnego-shaheda-z-pociskiem-r-60,7244001180600416a",
       "pubDate": "Fri, 16 Jan 2026 11:58:07 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Zmiany w prawie dla palaczy. Tych produktów nie zobaczą niedługo na sklepowych półkach",
-      "link": "https://businessinsider.com.pl/prawo/rewolucja-w-prawie-dotknie-palaczy-smakowe-aromaty-znikaja-ze-sklepow/09mzgx2",
-      "pubDate": "Fri, 16 Jan 2026 10:57:49 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Ten gadżet to istny lifehack dla rowerzystów, którzy odkryli problem za późno",
-      "link": "https://www.chip.pl/2026/01/rowerowy-system-montazowy-tailfin-hydromount",
-      "pubDate": "Fri, 16 Jan 2026 10:55:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Chcesz być postrzegany jako pewny siebie? Te gesty działają natychmiast",
-      "link": "https://businessinsider.com.pl/rozwoj-osobisty/kariera/jezyk-mowy-ciala-sztuczki-warte-nauczenia/j58jf5b",
-      "pubDate": "Fri, 16 Jan 2026 10:55:00 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "Najlepsze telewizory Samsung w 2026. Nadchodzi Micro RGB i QD-OLED",
-      "link": "https://tech.wp.pl/najlepsze-telewizory-samsung-w-2026-nadchodzi-micro-rgb-i-qd-oled,7244023732053057v",
-      "pubDate": "Fri, 16 Jan 2026 11:54:23 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Minister Grenlandii nie mogła powstrzymać łez. \"Jestem przytłoczona\"",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-16/minister-grenalndii-nie-mogla-powstrzymac-lez-jestem-przytloczona/",
-      "pubDate": "Fri, 16 Jan 2026 11:53:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "Wanda Ferragamo. Historia pani domu, która poprowadziła i ocaliła rodzinną firmę",
-      "link": "https://kobieta.rp.pl/jej-historia/art43644811-wanda-ferragamo-historia-pani-domu-ktora-poprowadzila-i-ocalila-rodzinna-firme",
-      "pubDate": "Fri, 16 Jan 2026 11:51:31 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Dramatyczne sceny w parku. Zmusili 14-latkę do klękania, wszystko nagrali",
-      "link": "https://wiadomosci.onet.pl/poznan/dramatyczne-sceny-w-parku-zmusili-14-latke-do-klekania-wszystko-nagrali/7hx22rm",
-      "pubDate": "Fri, 16 Jan 2026 10:49:34 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Pilna inspekcja w armii Białorusi. Aleksander Łukaszenko wydał rozkaz",
-      "link": "https://wiadomosci.onet.pl/swiat/pilna-inspekcja-armii-bialorusi-aleksander-lukaszenko-wydal-rozkaz/75qg6j9",
-      "pubDate": "Fri, 16 Jan 2026 10:48:00 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Top two executives at City & Guilds placed on leave",
-      "link": "https://www.theguardian.com/business/2026/jan/16/top-two-executives-at-city-guilds-placed-on-leave",
-      "pubDate": "Fri, 16 Jan 2026 10:46:43 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Rosja pewnym krokiem wchodzi w fazę upadku",
-      "link": "https://krytykapolityczna.pl/swiat/rosja-pewnym-krokiem-wchodzi-w-faze-upadku/",
-      "pubDate": "Fri, 16 Jan 2026 10:46:11 +0000",
-      "source": "Krytyka Polityczna"
-    },
-    {
-      "title": "500 tys. żołnierzy, AI i „odstraszanie przez ukaranie”. Sztab Generalny ogłasza rewolucję",
-      "link": "https://www.bankier.pl/wiadomosc/500-tys-zolnierzy-AI-i-odstraszanie-przez-ukaranie-Sztab-Generalny-oglasza-rewolucje-9069449.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 11:45:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Chiny zalewają nas śmieciami. Liczby porażają",
-      "link": "https://spidersweb.pl/2026/01/chiny-zalewaja-nas-smieciami.html",
-      "pubDate": "Fri, 16 Jan 2026 11:43:49 +0100",
-      "source": "Spider's Web"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -130484,6 +130538,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -159342,12 +159420,6 @@
       "link": "https://www.rp.pl/podatki/art43535641-nsa-trzy-lata-na-nabycie-przy-uldze-mieszkaniowej-dotyczy-tez-umow-deweloperskich",
       "pubDate": "Mon, 22 Dec 2025 08:56:09 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Xiaomi pokazało, jak robi się smart home. Cały dom pod ręką",
-      "link": "https://www.tabletowo.pl/xiaomi-home-screen-11-wyswietlacz-smart-home/",
-      "pubDate": "Mon, 22 Dec 2025 07:56:03 +0000",
-      "source": "Tabletowo"
     }
   ],
   "totalArticles": 20000,
