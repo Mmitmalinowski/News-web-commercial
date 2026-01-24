@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-24T10:36:21.081Z",
+  "generatedAt": "2026-01-24T10:47:11.227Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -59805,6 +59805,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -88597,12 +88621,6 @@
       "link": "https://wydarzenia.interia.pl/kraj/news-ziobro-sklada-zawiadomienie-na-zurka-razaco-nie-dopelnil-obo,nId,22501940",
       "pubDate": "Mon, 22 Dec 2025 08:04:49 GMT",
       "source": "Interia"
-    },
-    {
-      "title": "Indonesians set to face cement giant Holcim in Swiss court",
-      "link": "https://www.dw.com/en/indonesians-set-to-face-cement-giant-holcim-in-swiss-court/a-75262039?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Mon, 22 Dec 2025 08:04:00 GMT",
-      "source": "DW"
     }
   ]
 }
