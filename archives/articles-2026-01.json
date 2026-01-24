@@ -1,10 +1,76 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-24T06:14:03.292Z",
+  "generatedAt": "2026-01-24T06:29:40.412Z",
   "items": [
+    {
+      "title": "Koniec programu byłego prezentera TVP w Kanale Zero. Sprawdziliśmy wyniki",
+      "link": "https://www.wirtualnemedia.pl/tomasz-kammel-kanal-zero-program-telekammela-krzysztof-stanowski-wideo-youtube,7245056762964192a",
+      "pubDate": "Sat, 24 Jan 2026 07:27:23 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Nie tylko rakieta Igi Świątek. Oto najciekawsze aukcje na WOŚP. W tym występ w Republice",
+      "link": "https://www.wirtualnemedia.pl/nie-tylko-rakieta-igi-swiatek-oto-najciekawsze-aukcje-na-wosp-w-tym-wystep-w-republice,7246578555357408a",
+      "pubDate": "Sat, 24 Jan 2026 07:24:17 +0100",
+      "source": "Wirtualnemedia.pl"
+    },
+    {
+      "title": "Stary satelita nauczył się widzieć w nocy. Efekt niesamowity",
+      "link": "https://spidersweb.pl/2026/01/sentinel-2a-testuje-nocne-obrazowanie.html",
+      "pubDate": "Sat, 24 Jan 2026 07:21:00 +0100",
+      "source": "Spider's Web"
+    },
+    {
+      "title": "Zapłaciłam za Duolingo, żeby uczyć się koreańskiego. Wyszło jak wyszło",
+      "link": "https://geekweek.interia.pl/geekextra/news-zaplacilam-za-duolingo-zeby-uczyc-sie-koreanskiego-wyszlo-ja,nId,22541810",
+      "pubDate": "Sat, 24 Jan 2026 06:20:02 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Biały Dom zaliczył wpadkę. Zadziwiająca grafika z Donaldem Trumpem. \"Trudno uwierzyć\"",
+      "link": "https://wiadomosci.onet.pl/swiat/grafika-donalda-trumpa-z-pingwinem-na-grenlandii-bialy-dom-zaliczyl-wpadke/6041x73",
+      "pubDate": "Sat, 24 Jan 2026 06:19:27 GMT",
+      "source": "Onet"
+    },
+    {
+      "title": "Najwolniejszy eksperyment świata. Kiedy spadnie dziesiąta kropla paku?",
+      "link": "https://geekweek.interia.pl/styl-zycia/ciekawostki/news-najwolniejszy-eksperyment-swiata-kiedy-spadnie-dziesiata-kro,nId,22542384",
+      "pubDate": "Sat, 24 Jan 2026 06:19:05 GMT",
+      "source": "GeekWeek"
+    },
+    {
+      "title": "Osuwisko pochłonęło domy. Szukają 82 osób",
+      "link": "https://tvn24.pl/tvnmeteo/swiat/indonezja-jawa-zachodnia-osuwisko-pochlonelo-domy-szukaja-82-osob-st8865263?source=rss",
+      "pubDate": "Sat, 24 Jan 2026 06:17:43 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Ukraińcy o wozach NATO. Piszą otwarcie, jak radzą sobie w zimie",
+      "link": "https://tech.wp.pl/ukraincy-o-wozach-nato-pisza-otwarcie-jak-radza-sobie-w-zimie,7246212748761312a",
+      "pubDate": "Sat, 24 Jan 2026 07:17:00 +0100",
+      "source": "Tech WP.pl"
+    },
+    {
+      "title": "Australian boy injured by shark dies",
+      "link": "https://www.dw.com/en/australian-boy-injured-by-shark-dies/a-75636311?maca=en-rss-en-all-1573-xml-mrss",
+      "pubDate": "Sat, 24 Jan 2026 06:17:00 GMT",
+      "source": "DW"
+    },
+    {
+      "title": "Fala ekstremalnego zimna uderzy w Kanadę. Temperatura spadnie do -50 st. C",
+      "link": "https://wiadomosci.onet.pl/swiat/pomaranczowy-alert-pogodowy-w-kanadzie-nadchodzi-fala-ekstremalnego-mrozu/d4wyx6n",
+      "pubDate": "Sat, 24 Jan 2026 06:12:42 GMT",
+      "source": "Onet"
+    },
     {
       "title": "Długa kolejka o ułaskawienie. Znamy powody braku decyzji prezydenta",
       "link": "https://www.rp.pl/polityka/art43680681-dluga-kolejka-o-ulaskawienie-znamy-powody-braku-decyzji-prezydenta",
+      "pubDate": "Sat, 24 Jan 2026 07:11:30 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Długa kolejka po ułaskawienie. Znamy powody braku decyzji prezydenta",
+      "link": "https://www.rp.pl/polityka/art43680681-dluga-kolejka-po-ulaskawienie-znamy-powody-braku-decyzji-prezydenta",
       "pubDate": "Sat, 24 Jan 2026 07:11:30 +0100",
       "source": "Rzeczpospolita"
     },
@@ -26433,6 +26499,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -36801,6 +36891,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -37598,6 +37712,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -70213,90 +70351,6 @@
       "link": "https://www.bbc.com/news/articles/cgl8n3jjnd1o?at_medium=RSS&at_campaign=rss",
       "pubDate": "Fri, 16 Jan 2026 09:05:49 GMT",
       "source": "BBC News"
-    },
-    {
-      "title": "Jest wyrok ETPC w sprawie Polski. Waldemar Żurek: to dowód na patologie rządów PiS",
-      "link": "https://wiadomosci.onet.pl/kraj/waldemar-zurek-ostro-po-wyroku-etpc-dowod-na-patologie-rzadow-pis/n2zdctj",
-      "pubDate": "Fri, 16 Jan 2026 09:05:34 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jak korzystanie ze smartfona wpływa na wzrok?",
-      "link": "https://www.tabletowo.pl/jak-korzystanie-ze-smartfona-wplywa-na-wzrok/",
-      "pubDate": "Fri, 16 Jan 2026 09:04:00 +0000",
-      "source": "Tabletowo"
-    },
-    {
-      "title": "Były wiceminister finansów oskarżony. Chodzi o sprawę \"luki vatowskiej\"",
-      "link": "https://wiadomosci.onet.pl/bialystok/byly-wiceminister-finansow-oskarzony-chodzi-o-sprawe-luki-vatowskiej/989770t",
-      "pubDate": "Fri, 16 Jan 2026 09:03:59 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Macron i \"oko tygrysa\". Prezydent żartuje ze zmiany w wyglądzie",
-      "link": "https://tvn24.pl/swiat/francja-emmanuel-macron-z-zaczerwienionym-okiem-zartuje-z-oka-tygrysa-st8851890?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 09:03:03 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Shadow minister replacing Robert Jenrick says Tories ‘let down’ the country in government – UK politics live",
-      "link": "https://www.theguardian.com/politics/live/2026/jan/16/uk-politics-live-robert-jenrick-defection-conservatives-labour-latest-news",
-      "pubDate": "Fri, 16 Jan 2026 09:02:45 GMT",
-      "source": "The Guardian"
-    },
-    {
-      "title": "Tarcza antydronowa coraz bliżej. \"Jesteśmy na finale negocjacji\"",
-      "link": "https://biznes.interia.pl/gospodarka/news-tarcza-antydronowa-na-wschodniej-granicy-coraz-blizej-tomczy,nId,22509548",
-      "pubDate": "Fri, 16 Jan 2026 09:02:39 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Wszyscy o nim mówią. Wyczekiwany hit pełen twistów już na Netflix",
-      "link": "https://antyweb.pl/nie-oderwiecie-sie-od-ekranu-przez-ten-duet-hit-netfliksa-juz-dostepny",
-      "pubDate": "Fri, 16 Jan 2026 09:00:25 GMT",
-      "source": "Antyweb"
-    },
-    {
-      "title": "Kancelaria Sejmu zadbała o to, by posłom siedziało się wygodniej. Będzie oparcie na nogi",
-      "link": "https://www.rp.pl/polityka/art43643611-kancelaria-sejmu-zadbala-o-to-by-poslom-siedzialo-sie-wygodniej-bedzie-oparcie-na-nogi",
-      "pubDate": "Fri, 16 Jan 2026 10:00:00 +0100",
-      "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Wiemy, co Gemini zmieni w Siri. Będzie mądrzejsza?",
-      "link": "https://www.chip.pl/2026/01/apple-siri-z-gemini-funkcje-wdrozenie-harmonogram",
-      "pubDate": "Fri, 16 Jan 2026 09:00:00 +0000",
-      "source": "Chip.pl"
-    },
-    {
-      "title": "Wykształceni Polacy, z którymi Polska nie ma co zrobić. Mamy ich nadmiar, którego zazdrości nam Zachód",
-      "link": "https://www.bankier.pl/wiadomosc/Wyksztalceni-Polacy-z-ktorymi-Polska-nie-ma-co-zrobic-Mamy-ich-nadmiar-ktorego-zazdrosci-nam-Zachod-9069372.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Polska nie wyśle wojsk na Grenlandię. Bosacki: W naszym interesie jest łagodzenie konfliktu, nie zaognianie",
-      "link": "https://www.bankier.pl/wiadomosc/Polska-nie-wysle-wojsk-na-Grenlandie-Bosacki-W-naszym-interesie-jest-lagodzenie-konfliktu-nie-zaognianie-9069378.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
-      "pubDate": "Fri, 16 Jan 2026 10:00:00 +0100",
-      "source": "Bankier.pl"
-    },
-    {
-      "title": "Autobus zderzył się z tramwajem",
-      "link": "https://tvn24.pl/lodz/pabianice-autobus-zderzyl-sie-z-tramwajem-utrudnienia-w-ruchu-st8851921?source=rss",
-      "pubDate": "Fri, 16 Jan 2026 08:58:55 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Mocarstwo UE lobbuje za nową bronią. Jest inspirowana Oriesznikiem",
-      "link": "https://tech.wp.pl/mocarstwo-ue-lobbuje-za-nowa-bronia-jest-inspirowana-oriesznikiem,7243960790038656a",
-      "pubDate": "Fri, 16 Jan 2026 09:58:20 +0100",
-      "source": "Tech WP.pl"
-    },
-    {
-      "title": "Argentine farmers look forward to the EU and Mercosur agreement",
-      "link": "http://www.euronews.com/video/2026/01/16/argentine-farmers-look-forward-to-the-eu-and-mercosur-agreement",
-      "pubDate": "Fri, 16 Jan 2026 09:56:30 +0100",
-      "source": "Euronews"
     }
   ]
 }
