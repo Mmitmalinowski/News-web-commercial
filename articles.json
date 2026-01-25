@@ -1,9 +1,21 @@
 {
-  "generatedAt": "2026-01-25T05:45:50.321Z",
+  "generatedAt": "2026-01-25T05:55:57.903Z",
   "items": [
+    {
+      "title": "Democratic congressman punched in racist attack at Sundance film festival",
+      "link": "https://www.theguardian.com/us-news/2026/jan/25/congressman-maxwell-alejandro-frost-attack-police",
+      "pubDate": "Sun, 25 Jan 2026 05:53:57 GMT",
+      "source": "The Guardian"
+    },
     {
       "title": "W Minneapolis wrze po śmierci Alexa Prettiego. Gubernator wysyła Gwardię Narodową",
       "link": "https://www.rmf24.pl/fakty/swiat/news-w-minneapolis-wrze-po-smierci-alexa-prettiego-gubernator-wys,nId,8060183",
+      "pubDate": "Sun, 25 Jan 2026 06:42:00 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "W Minneapolis wrze po śmierci Alexa Prettiego. Gubernator aktywuje Gwardię Narodową",
+      "link": "https://www.rmf24.pl/fakty/swiat/news-w-minneapolis-wrze-po-smierci-alexa-prettiego-gubernator-akt,nId,8060183",
       "pubDate": "Sun, 25 Jan 2026 06:42:00 +0100",
       "source": "RMF24"
     },
@@ -30,6 +42,12 @@
       "link": "https://spidersweb.pl/2026/01/opozniony-lot-bez-odszkodowania.html",
       "pubDate": "Sun, 25 Jan 2026 06:33:00 +0100",
       "source": "Spider's Web"
+    },
+    {
+      "title": "Wojna Rosji z Ukrainą. Dzień 1432",
+      "link": "https://www.rp.pl/swiat/art43693191-wojna-rosji-z-ukraina-dzien-1432",
+      "pubDate": "Sun, 25 Jan 2026 06:30:00 +0100",
+      "source": "Rzeczpospolita"
     },
     {
       "title": "Woda butelkowana pod lupą. Nowe dane nie pozastawiają złudzeń",
@@ -32852,6 +32870,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -45836,6 +45878,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -46633,6 +46699,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -76146,42 +76236,6 @@
       "link": "https://www.rmf24.pl/fakty/swiat/news-dzis-podpisanie-umowy-ue-mercosur-oto-bilans-zyskow-i-strat,nId,8058413",
       "pubDate": "Sat, 17 Jan 2026 07:22:19 +0100",
       "source": "RMF24"
-    },
-    {
-      "title": "'Not just trade': The EU-Mercosur megadeal",
-      "link": "https://www.dw.com/en/not-just-trade-the-eu-mercosur-megadeal/a-75507665?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 17 Jan 2026 06:21:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Tajemnicze skrzynie w dolnośląskim jeziorze. Do akcji weszło wojsko",
-      "link": "https://geekweek.interia.pl/bezpieczenstwo/news-tajemnicze-skrzynie-na-dnie-jeziora-pilchowickiego-wojsko-w,nId,22509535",
-      "pubDate": "Sat, 17 Jan 2026 06:20:04 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Od podatku można odliczyć kuchenkę i piekarnik. Wystarczy ta ulga",
-      "link": "https://biznes.interia.pl/finanse/news-od-podatku-odliczysz-nowa-kuchenke-i-lodowke-wystarczy-jedna,nId,22507699",
-      "pubDate": "Sat, 17 Jan 2026 06:20:04 GMT",
-      "source": "Biznes.interia.pl"
-    },
-    {
-      "title": "Rozebrali rosyjski cud techniki. Z przodu liceum, w środku muzeum",
-      "link": "https://spidersweb.pl/2026/01/szczatki-oriesznika-rozkladaja-rosyjska-propagande.html",
-      "pubDate": "Sat, 17 Jan 2026 07:20:00 +0100",
-      "source": "Spider's Web"
-    },
-    {
-      "title": "Rada Pokoju dla Strefy Gazy. Biały Dom wskazał członków ",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-rada-pokoju-dla-strefy-gazy-bialy-dom-wskazal-czlonkow,nId,22509894",
-      "pubDate": "Sat, 17 Jan 2026 06:12:24 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Nowe bolidy Formuły 1. Zahamować, żeby przyspieszyć",
-      "link": "https://sport.rp.pl/formula-1/art43653021-nowe-bolidy-formuly-1-zahamowac-zeby-przyspieszyc",
-      "pubDate": "Sat, 17 Jan 2026 07:11:12 +0100",
-      "source": "Rzeczpospolita"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -138050,6 +138104,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -166326,12 +166404,6 @@
       "link": "https://www.dw.com/en/women-get-drunk-faster-than-men-due-to-biology-not-tolerance/a-75223854?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Mon, 22 Dec 2025 09:27:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "Święta i Nowy Rok za granicą. Te kraje Polacy wybierają najczęściej",
-      "link": "https://www.rmf24.pl/ciekawostki/news-swieta-i-nowy-rok-za-granica-te-kraje-polacy-wybieraja-najcz,nId,8052755",
-      "pubDate": "Mon, 22 Dec 2025 10:26:00 +0100",
-      "source": "RMF24"
     }
   ],
   "totalArticles": 20000,
