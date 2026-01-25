@@ -1,12 +1,42 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-25T09:52:47.413Z",
+  "generatedAt": "2026-01-25T10:00:02.232Z",
   "items": [
+    {
+      "title": "Kto zarobi na długich zestawach?",
+      "link": "https://logistyka.rp.pl/krajowe/art43693441-kto-zarobi-na-dlugich-zestawach",
+      "pubDate": "Sun, 25 Jan 2026 10:56:29 +0100",
+      "source": "Rzeczpospolita"
+    },
+    {
+      "title": "Ukrywał się u znajomego. Był bardzo zaskoczony wizytą policjantów",
+      "link": "https://tvn24.pl/lublin/gmina-drelow-ukrywal-sie-u-znajomego-na-jego-trop-wpadli-lowcy-glow-byl-bardzo-zaskoczony-st8866560?source=rss",
+      "pubDate": "Sun, 25 Jan 2026 09:54:19 GMT",
+      "source": "TVN24"
+    },
+    {
+      "title": "Zwrot w Wenezueli? Nieoczekiwany apel następczyni Maduro",
+      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-25/zwrot-w-wenezueli-nieoczekiwany-apel-nastepczyni-maduro/",
+      "pubDate": "Sun, 25 Jan 2026 10:52:00 +0100",
+      "source": "Polsat News"
+    },
     {
       "title": "Turystyczny rekord w Tatrach. Największa frekwencja w historii",
       "link": "https://www.rmf24.pl/regiony/zakopane/news-turystyczny-rekord-w-tatrach-najwieksza-frekwencja-w-histori,nId,8060201",
       "pubDate": "Sun, 25 Jan 2026 10:51:00 +0100",
       "source": "RMF24"
+    },
+    {
+      "title": "Ostrzejsze kary za prędkość. Tyle zapłacisz za mandat w 2026 roku ",
+      "link": "https://biznes.interia.pl/finanse/news-ostrzejsze-kary-za-predkosc-tyle-zaplacisz-za-mandat-w-2026,nId,22541555",
+      "pubDate": "Sun, 25 Jan 2026 09:50:02 GMT",
+      "source": "Biznes.interia.pl"
+    },
+    {
+      "title": "Od katastrofy do sensacji. Historia podwodnego atomowego skarbu Rosji",
+      "link": "https://wiadomosci.onet.pl/swiat/od-katastrofy-do-sensacji-historia-podwodnego-atomowego-skarbu-rosji/nm9wyxy",
+      "pubDate": "Sun, 25 Jan 2026 09:49:34 GMT",
+      "source": "Onet"
     },
     {
       "title": "Kieszonkowe z Androidem. Oto jak uzyskać dochód pasywny z telefonu",
@@ -34371,6 +34401,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -47859,6 +47913,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -48656,6 +48734,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77269,54 +77371,6 @@
       "link": "https://antyweb.pl/robot-to-narzedzie-nie-towarzysz-emocjonalne-ai-to-slepa-uliczka",
       "pubDate": "Sat, 17 Jan 2026 11:30:23 GMT",
       "source": "Antyweb"
-    },
-    {
-      "title": "Niekwestionowany lider na prawicy. Polacy wskazali faworyta",
-      "link": "https://wydarzenia.interia.pl/kraj/news-niekwestionowany-lider-na-prawicy-polacy-wskazali-faworyta,nId,22509948",
-      "pubDate": "Sat, 17 Jan 2026 11:29:43 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "Brak pomysłu na ferie? Te jednodniowe wypady zapewnią masę rozrywki",
-      "link": "https://geekweek.interia.pl/podroze/news-brak-pomyslu-na-ferie-te-jednodniowe-wypady-zapewnia-mase-ro,nId,22508877",
-      "pubDate": "Sat, 17 Jan 2026 11:29:17 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "Tragedia pod Łęczną. Nie żyje matka z córką",
-      "link": "https://wiadomosci.onet.pl/lublin/tragedia-pod-leczna-nie-zyje-matka-z-corka/8d9b9tx",
-      "pubDate": "Sat, 17 Jan 2026 11:27:32 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Skaczą z okien, żeby iść na zakupy. Ekstremalne warunki w rosyjskim regionie",
-      "link": "https://www.polsatnews.pl/wiadomosc/2026-01-17/skacza-z-okien-zeby-isc-na-zakupy-ekstremalne-warunki-w-rosyjskim-regionie/",
-      "pubDate": "Sat, 17 Jan 2026 12:27:00 +0100",
-      "source": "Polsat News"
-    },
-    {
-      "title": "'Hands off Greenland' protests to draw thousands",
-      "link": "https://www.dw.com/en/hands-off-greenland-protests-to-draw-thousands/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 17 Jan 2026 11:23:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "'Hands off Greenland' protests draws thousands in Denmark",
-      "link": "https://www.dw.com/en/hands-off-greenland-protests-draws-thousands-in-denmark/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 17 Jan 2026 11:23:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Thousands oppose US plans in 'Hands off Greenland' protests",
-      "link": "https://www.dw.com/en/thousands-oppose-us-plans-in-hands-off-greenland-protests/a-75546625?maca=en-rss-en-all-1573-xml-mrss",
-      "pubDate": "Sat, 17 Jan 2026 11:23:00 GMT",
-      "source": "DW"
-    },
-    {
-      "title": "Kamczatka. Najwięcej śniegu od ponad 30 lat. Dwie osoby nie żyją",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/rosja-kamczatka-najwiecej-sniegu-od-ponad-30-lat-dwie-osoby-nie-zyja-st8853514?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 11:19:09 GMT",
-      "source": "TVN24"
     }
   ]
 }
