@@ -1,7 +1,19 @@
 {
   "month": "2026-01",
-  "generatedAt": "2026-01-25T11:46:24.828Z",
+  "generatedAt": "2026-01-25T11:53:24.284Z",
   "items": [
+    {
+      "title": "Polacy znów otworzyli serca. Kwota na liczniku WOŚP robi wrażenie!",
+      "link": "https://www.rmf24.pl/fakty/polska/news-polacy-znow-otworzyli-serca-kwota-na-liczniku-wosp-robi-wraz,nId,8060215",
+      "pubDate": "Sun, 25 Jan 2026 12:50:13 +0100",
+      "source": "RMF24"
+    },
+    {
+      "title": "Wrze w Minneapolis. Cios w administrację Trumpa. Wiadomo, kim była ofiara ",
+      "link": "https://wydarzenia.interia.pl/zagranica/news-wrze-w-minneapolis-cios-w-administracje-trumpa-wiadomo-kim-b,nId,22543240",
+      "pubDate": "Sun, 25 Jan 2026 11:48:20 GMT",
+      "source": "Interia"
+    },
     {
       "title": "Umowa z Mercosurem. Handel może jednak ruszyć już w marcu?",
       "link": "https://www.rp.pl/gospodarka/art43688621-umowa-z-mercosurem-handel-moze-jednak-ruszyc-juz-w-marcu",
@@ -35079,6 +35091,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -48831,6 +48867,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -49628,6 +49688,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77881,36 +77965,6 @@
       "link": "https://tech.wp.pl/polska-rozwaza-zakaz-wjazdu-chinskich-aut-do-jednostek-wojskowych,7244421955365088a",
       "pubDate": "Sat, 17 Jan 2026 14:51:00 +0100",
       "source": "Tech WP.pl"
-    },
-    {
-      "title": "Polak zawróci znad przepaści legendarną szwedzką firmę? Misja z gatunku ryzykownych",
-      "link": "https://businessinsider.com.pl/praca/jakub-jankowski-na-czele-ikea-bedzie-przeprowadzal-firme-przez-najtrudniejszy-moment/vm68q05",
-      "pubDate": "Sat, 17 Jan 2026 13:48:13 GMT",
-      "source": "Business Insider"
-    },
-    {
-      "title": "\"Ręce precz od Grenlandii\". Tysiące protestujących na ulicach Kopenhagi",
-      "link": "https://wydarzenia.interia.pl/zagranica/news-rece-precz-od-grenlandii-tysiace-protestujacych-na-ulicach-k,nId,22509975",
-      "pubDate": "Sat, 17 Jan 2026 13:43:09 GMT",
-      "source": "Interia"
-    },
-    {
-      "title": "\"36 domów zostało zmytych z powierzchni ziemi\"",
-      "link": "https://tvn24.pl/tvnmeteo/swiat/powodzie-w-afryce-ofiary-smiertelne-poszkodowani-36-domow-zostalo-zmytych-z-powierzchni-ziemi-st8853664?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 13:41:05 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Prawie 50 metrów. Gdańsk będzie miał najdłuższe tramwaje w Polsce",
-      "link": "https://geekweek.interia.pl/transport/news-najdluzsze-tramwaje-w-polsce-pojada-przez-najwieksze-miasto,nId,22506783",
-      "pubDate": "Sat, 17 Jan 2026 13:40:05 GMT",
-      "source": "GeekWeek"
-    },
-    {
-      "title": "​Rusza wielkoszlemowy Australian Open. Ekspert ocenia szanse Polaków",
-      "link": "https://www.rmf24.pl/raporty/raport-tenis-na-rmf24/najnowszefakty/news-rusza-wielkoszlemowy-australian-open-ekspert-ocenia-szanse-p,nId,8058446",
-      "pubDate": "Sat, 17 Jan 2026 14:39:50 +0100",
-      "source": "RMF24"
     }
   ]
 }
