@@ -1,6 +1,6 @@
 {
   "month": "2025-12",
-  "generatedAt": "2026-01-25T06:39:51.928Z",
+  "generatedAt": "2026-01-25T06:54:06.309Z",
   "items": [
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -61971,6 +61971,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -90217,12 +90241,6 @@
       "link": "https://wiadomosci.onet.pl/krakow/strzelnica-na-woli-wraca-do-zycia-zabytkowy-obiekt-zyskuje-nowa-role-w-krakowie/4bchxwq",
       "pubDate": "Mon, 22 Dec 2025 09:30:00 GMT",
       "source": "Onet"
-    },
-    {
-      "title": "Jeden dzień z Honor Magic V5. Smartfon, który naprawdę zmienia codzienność",
-      "link": "https://android.com.pl/tech/1002345-jeden-dzien-z-honor-magic-v5/",
-      "pubDate": "Mon, 22 Dec 2025 09:29:00 +0000",
-      "source": "Android.com.pl"
     }
   ]
 }
