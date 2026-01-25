@@ -1,6 +1,24 @@
 {
-  "generatedAt": "2026-01-25T10:48:48.390Z",
+  "generatedAt": "2026-01-25T10:56:45.500Z",
   "items": [
+    {
+      "title": "Eurostrefa w 2026 roku. Jest nadzieja, choć sojusznik Europy może ją zdusić",
+      "link": "https://www.money.pl/gospodarka/eurostrefa-w-2026-roku-jest-nadzieja-choc-sojusznik-europy-moze-ja-zdusic-7247204443883712a.html",
+      "pubDate": "Sun, 25 Jan 2026 11:52:05 +0100",
+      "source": "Money.pl"
+    },
+    {
+      "title": "Weekendowa awaria Gmaila. Filtry antyspamowe zawodzą",
+      "link": "https://android.com.pl/tech/1012620-weekendowa-awaria-gmaila/",
+      "pubDate": "Sun, 25 Jan 2026 10:51:00 +0000",
+      "source": "Android.com.pl"
+    },
+    {
+      "title": "Calls grow for ICE to leave Minnesota after latest shooting of citizen",
+      "link": "http://www.euronews.com/2026/01/25/calls-grow-for-ice-to-leave-minnesota-after-latest-shooting-of-citizen",
+      "pubDate": "Sun, 25 Jan 2026 11:48:20 +0100",
+      "source": "Euronews"
+    },
     {
       "title": "USA użyły \"nowej tajnej broni\". Donald Trump opisuje szczegóły akcji",
       "link": "https://wydarzenia.interia.pl/zagranica/news-usa-uzyly-nowej-tajnej-broni-donald-trump-opisuje-szczegoly,nId,22543225",
@@ -34742,6 +34760,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Komunikat szkoleniowy",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/komunikat-szkoleniowy/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-21T10:52:40Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Ruszył proces o miliony z Funduszu Sprawiedliwości. Ksiądz Olszewski na ławie oskarżonych",
       "link": "https://www.bankier.pl/wiadomosc/Ruszyl-proces-o-miliony-z-Funduszu-Sprawiedliwosci-Ksiadz-Olszewski-na-lawie-oskarzonych-9071686.html?utm_source=RSS&utm_medium=RSS&utm_campaign=Wiadomosci",
       "pubDate": "Wed, 21 Jan 2026 11:51:00 +0100",
@@ -48350,6 +48392,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Kup voucher na szkolenia Niebezpiecznika 2026",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/kup-voucher-na-szkolenia-niebezpiecznika-2026/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "0",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:24:16Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Kancelaria Nawrockiego chce, by MSZ „zagęszczało ruchy”. Chodzi o Radę Pokoju Trumpa",
       "link": "https://www.rp.pl/polityka/art43667981-kancelaria-nawrockiego-chce-by-msz-zageszczalo-ruchy-chodzi-o-rade-pokoju-trumpa",
       "pubDate": "Tue, 20 Jan 2026 17:22:55 +0100",
@@ -49147,6 +49213,30 @@
           "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
           "@_rel": "replies",
           "@_thr:count": "10",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2026-01-20T16:17:12Z",
+      "source": "Niebezpiecznik"
+    },
+    {
+      "title": "Fala włamań na konta nauczycieli w e-dziennikach różnych szkół na terenie całej Polski",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "18",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/fala-wlaman-do-e-dziennikow-roznych-szkol-na-terenie-calej-polski/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "18",
           "@_type": "application/atom+xml"
         }
       ],
@@ -77550,42 +77640,6 @@
       "link": "https://www.dw.com/en/elon-musk-seeking-up-to-134-billion-from-openai-microsoft/a-75546664?maca=en-rss-en-all-1573-xml-mrss",
       "pubDate": "Sat, 17 Jan 2026 12:43:00 GMT",
       "source": "DW"
-    },
-    {
-      "title": "\"To już nie jest miejsce do życia. Jak można w to brnąć z uporem maniaka?\"",
-      "link": "https://tvn24.pl/polska/to-juz-nie-jest-miejsce-do-zycia-jak-mozna-w-to-brnac-z-uporem-maniaka-st8798975?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 12:41:27 GMT",
-      "source": "TVN24"
-    },
-    {
-      "title": "Grenlandia odciąga wzrok Zachodu. I dokładnie o to chodzi Kremlowi. Europa alarmuje: Putin chce słabszego NATO. \"Trump daje mu to na tacy\"",
-      "link": "https://wiadomosci.onet.pl/swiat/grenlandia-odciaga-wzrok-zachodu-i-dokladnie-o-to-chodzi-kremlowi-europa-alarmuje/4tmsj8z",
-      "pubDate": "Sat, 17 Jan 2026 12:40:48 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Grenlandia odciąga wzrok Zachodu. I dokładnie o to chodzi Putinowi. Europa alarmuje: Trump daje mu to na tacy",
-      "link": "https://wiadomosci.onet.pl/swiat/grenlandia-odciaga-wzrok-zachodu-i-dokladnie-o-to-chodzi-putinowi-europa-alarmuje/4tmsj8z",
-      "pubDate": "Sat, 17 Jan 2026 12:40:48 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Jerzy Owsiak: hasła \"nie daję Owsiakowi\" są bardzo słuszne",
-      "link": "https://wiadomosci.onet.pl/kraj/jerzy-owsiak-hasla-nie-daje-owsiakowi-sa-bardzo-sluszne/9qxz0w3",
-      "pubDate": "Sat, 17 Jan 2026 12:40:11 GMT",
-      "source": "Onet"
-    },
-    {
-      "title": "Rajd Dakar: Zwycięstwo Al-Attiyah, Marek Goczał w drugiej dziesiątce",
-      "link": "https://www.rmf24.pl/sport/news-rajd-dakar-zwyciestwo-al-attiyah-marek-goczal-w-drugiej-dzie,nId,8058439",
-      "pubDate": "Sat, 17 Jan 2026 13:40:09 +0100",
-      "source": "RMF24"
-    },
-    {
-      "title": "Policjanci zlikwidowali szwalnię, gdzie powstawały podróbki",
-      "link": "https://tvn24.pl/tvnwarszawa/okolice/warszawa-policjanci-zlikwidowali-szwalnie-gdzie-powstawaly-podrobki-st8853066?source=rss",
-      "pubDate": "Sat, 17 Jan 2026 12:38:22 GMT",
-      "source": "TVN24"
     },
     {
       "title": "Rosja oskarża Ukrainę o atak na willę Władimira Putina. CIA ma nowe ustalenia",
@@ -140084,6 +140138,30 @@
       "source": "Niebezpiecznik"
     },
     {
+      "title": "Nieskuteczna anonimizacja w dokumentach ze sprawy Epsteina",
+      "link": [
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/",
+          "@_rel": "alternate",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/#comments",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "text/html"
+        },
+        {
+          "@_href": "https://niebezpiecznik.pl/post/nieskuteczna-anonimizacja-w-dokumentach-ze-sprawy-epsteina/feed/atom/",
+          "@_rel": "replies",
+          "@_thr:count": "6",
+          "@_type": "application/atom+xml"
+        }
+      ],
+      "pubDate": "2025-12-28T10:32:56Z",
+      "source": "Niebezpiecznik"
+    },
+    {
       "title": "Taka ma być 13. emerytura 2026. Emeryci już zacierają ręce",
       "link": "https://biznes.interia.pl/emerytury/news-seniorzy-juz-zacieraja-rece-tyle-ma-wyniesc-13-emerytura-202,nId,22502308",
       "pubDate": "Sun, 28 Dec 2025 10:30:01 GMT",
@@ -168198,12 +168276,6 @@
       "link": "https://energia.rp.pl/atom/art43546481-japonczycy-zdecydowali-najwieksza-elektrownia-atomowa-swiata-wraca-do-pracy-po-15-latach",
       "pubDate": "Mon, 22 Dec 2025 10:42:26 +0100",
       "source": "Rzeczpospolita"
-    },
-    {
-      "title": "Chiny reagują na ruchy USA wobec Wenezueli",
-      "link": "https://wiadomosci.onet.pl/swiat/chiny-reaguja-na-ruchy-usa-wobec-wenezueli/g52mgfr",
-      "pubDate": "Mon, 22 Dec 2025 09:41:55 GMT",
-      "source": "Onet"
     }
   ],
   "totalArticles": 20000,
